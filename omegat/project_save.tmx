@@ -3126,6 +3126,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OSGeo-Live is a self-contained bootable DVD, USB thumb drive or Virtual Machine based on Lubuntu, that allows you to try a wide variety of open source geospatial software without installing anything.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T110425Z" creationid="smellman" creationdate="20201101T110425Z">
+        <seg>OSGeo-Live は、 Lubuntu をベースとしたブータブルDVD, USBスティックドライブまたは仮想マシン で、様々なオープンソースの地理空間ソフトウェアをインストール無しに試すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeoLive Copyright</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T105921Z" creationid="smellman" creationdate="20201101T105921Z">
+        <seg>OSGeoLive著作権</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OSGeoLive Document Contributors</seg>
       </tuv>
       <tuv lang="ja">
