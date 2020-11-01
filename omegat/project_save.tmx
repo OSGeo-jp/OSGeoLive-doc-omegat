@@ -1,9 +1,6455 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>**API Interface:** JavaScript</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**API インターフェイス:** JavaScript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**API Interfaces (data):** REST (via Xapi), XML</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**API インターフェイス (データ):** REST (Xapi 経由), XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**API Interfaces:** C</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**API インターフェイス:** C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**API Interfaces:** C++, Python</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**API インターフェイス:** C++, Python</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**API Interfaces:** C, C++</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**API インターフェイス:** C, C++</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**API Interfaces:** C, C++, Python</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**API インターフェイス:** C, C++, Python</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**API Interfaces:** C, C++, Python, Java, C#, Ruby, VB6 and Perl</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**API インターフェイス:** C, C++, Python, Java, C#, Ruby, VB6 及び Perl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**API Interfaces:** C, PHP, Python, Perl, Ruby, Java, and .NET</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**API インターフェイス:** C, PHP, Python, Perl, Ruby, Java, .NET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**API Interfaces:** Java</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**API インターフェイス:** Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**API Interfaces:** Javascript</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**API インターフェイス:** Javascript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**API Interfaces:** SQL</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**API インターフェイス:** SQL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**API Interfaces:** WMS, WFS, WCS, REST</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**API インターフェイス:** WMS, WFS, WCS, REST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**CRAN packages available:** https://cran.r-project.org/web/packages/available_packages_by_name.html</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**CRAN パッケージが利用可能:** https://cran.r-project.org/web/packages/available_packages_by_name.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Commercial Support:** https://pgrouting.org/support.html</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**商用サポート:** https://pgrouting.org/support.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Commercial Support:** https://qgis.org/en/site/forusers/commercial_support.html</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**商用サポート:** https://qgis.org/en/site/forusers/commercial_support.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Community Support:** https://cran.r-project.org/web/views/Spatial.html</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**コミュニティサポート:**  https://cran.r-project.org/web/views/Spatial.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Community Support:** https://qgis.org/en/site/forusers/support.html</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**コミュニティサポート:**  https://qgis.org/en/site/forusers/support.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Create a Virtual Machine**</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**仮想マシンの作成**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Data Version:** Live database extract</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**データバージョン:** Live database extract</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Data format:** XML</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**データフォーマット:** XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Data is served as safe and quick images using WMS and WMTS protocols:**</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**WMS 及び WMTS プロトコルを利用した、安全かつ迅速なデータ配信:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Downloads**</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ダウンロード**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Full vector data can be sent to a client using the WFS protocol:**</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**WFS プロトコルを利用した、クライアントへの全ベクタデータ送信:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Licence:** BSD</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ライセンス:** BSD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Licence:** GNU General Public License (GPL) version 2</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ライセンス:** GNU General Public License (GPL) version 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Licence:** GPL</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ライセンス:** GPL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Licence:** LGPL</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ライセンス:** LGPL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Licence:** LGPL (GNU Lesser General Public Licence)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ライセンス:** LGPL (GNU Lesser General Public Licence)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Licence:** MPL v1.1 and GPL v3</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ライセンス:** MPL v1.1 及び GPL v3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Licence:** `Apache Software License 2.0 &lt;https://www.apache.org/licenses/LICENSE-2.0.html&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ライセンス:** `Apache Software License 2.0 &lt;https://www.apache.org/licenses/LICENSE-2.0.html&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Licence:** `MIT-style license &lt;https://mapserver.org/copyright.html#license&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ライセンス:** `MIT-style license &lt;https://mapserver.org/copyright.html#license&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Licence:** `X/MIT style Open Source license &lt;https://trac.osgeo.org/gdal/wiki/FAQGeneral#WhatlicensedoesGDALOGRuse&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ライセンス:** `X/MIT style Open Source license &lt;https://trac.osgeo.org/gdal/wiki/FAQGeneral#WhatlicensedoesGDALOGRuse&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Licences:**</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ライセンス:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**License:** 2-clause BSD License (aka FreeBSD License)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ライセンス:** 2-clause BSD License (FreeBSD License として知られています)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**On the fly reprojection:**</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**オンザフライ投影変換:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**QGIS pgRouting Layer Plugin** - https://plugins.qgis.org/plugins/pgRoutingLayer/ provides GUI for pgRouting functions and interacts with map so you don't have to write SQL.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**QGIS pgRouting Layer プラグイン** - https://plugins.qgis.org/plugins/pgRoutingLayer/ は pgRouting 関数のための GUI を提供し、地図と連動するため、SQL を書く必要がなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Raster data values can be sent to a client using the WCS protocol:**</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**WCS プロトコルを利用した、クライアントへのラスタデータ値送信:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Raster:** GeoTIFF, Erdas Imagine, SDTS, ESRI Grids, ECW, MrSID, JPEG2000, DTED, NITF, GeoPackage and more ...</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ラスタ:** GeoTIFF, Erdas Imagine, SDTS, ESRI Grids, ECW, MrSID, JPEG2000, DTED, NITF, GeoPackage など...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Running the Virtual Machine**</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**仮想マシンの起動**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Serve data from a variety of data stores:**</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**様々なデータストアからデータを配信:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** r11427</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ソフトウェアバージョン:** r11427</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-R|</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-R|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-gdal|</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-gdal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-geoserver|</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-geoserver|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-geos|</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-geos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-leaflet|</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-leaflet|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-liblas|</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-liblas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-mapnik|</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-mapnik|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-mapproxy|</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-mapproxy|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-mapserver|</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-mapserver|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-openlayers|</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-openlayers|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-pgrouting|</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-pgrouting|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-postgis|</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-postgis|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-qgis|</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-qgis|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-spatialite|</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-spatialite|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Versions:**</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ソフトウェアバージョン:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Spatial coordinate system:** Latitude-Longitude WGS84</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**空間参照系:** 緯度経度 WGS84</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** `Communication and Support &lt;https://liblas.org/community.html&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**サポート：** `コミュニケーションとサポート  &lt;https://liblas.org/community.html&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** http://geoserver.org/support/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**サポート:** http://geoserver.org/support/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** https://groups.google.com/forum/#!forum/leaflet-js</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**サポート:** https://groups.google.com/forum/#!forum/leaflet-js</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** https://lists.osgeo.org/mailman/listinfo/gdal-dev, https://www.osgeo.org/service-providers/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**サポート:** https://lists.osgeo.org/mailman/listinfo/gdal-dev, https://www.osgeo.org/service-providers/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** https://lists.osgeo.org/mailman/listinfo/geos-devel, https://www.osgeo.org/service-providers</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**サポート:** https://lists.osgeo.org/mailman/listinfo/geos-devel, https://www.osgeo.org/service-providers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** https://mapproxy.org/support</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**サポート:** https://mapproxy.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** https://mapserver.org/community/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**サポート:** https://mapserver.org/community/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** https://sourceforge.net/projects/jts-topo-suite/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**サポート:** https://sourceforge.net/projects/jts-topo-suite/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** https://stackoverflow.com/questions/tagged/openlayers (user) and https://groups.google.com/forum/#!forum/openlayers-dev (developer)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**サポート:** https://stackoverflow.com/questions/tagged/openlayers (ユーザ向け) 及び https://groups.google.com/forum/#!forum/openlayers-dev (開発者向け)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** https://www.openstreetmap.org/help</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**サポート:** https://www.openstreetmap.org/help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** |SUPPORT|</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**サポート:** |SUPPORT|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Supported Platforms:** Cross Platform C++ -- Mac OS X, Windows (via `OSGeo4W`_), and Linux</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**対応プラットフォーム:** クロスプラットフォーム C++ -- Mac OS X, Windows (`OSGeo4W`_ 経由), Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Supported Platforms:** GNU/Linux, Mac OSX, MS Windows</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**対応プラットフォーム:** GNU/Linux, Mac OSX, MS Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Supported Platforms:** Java 8 (Oracle JDK and OpenJDK) on Windows, Linux, and Mac</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**対応プラットフォーム:** Windows, Linux, Mac 上の Java 8 (Oracle JDK 及び OpenJDK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Supported Platforms:** Linux, Mac, Windows</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**対応プラットフォーム:** Linux, Mac, Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Supported Platforms:** Linux, Windows, Mac</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**対応プラットフォーム:** Linux, Windows, Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Supported Platforms:** Windows, Linux, Mac</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**対応プラットフォーム:** Windows, Linux, Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Supported Platforms:** Windows, Linux, Mac, Unix</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**対応プラットフォーム:** Windows, Linux, Mac, Unix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Supported Platforms:** Windows, Mac, Linux, Android, iOS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**対応プラットフォーム:** Windows, Mac, Linux, Android, iOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**System Requirements**</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**システム要件**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Tiling Cache**</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**タイルキャッシュ**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Vector:** GeoPackage, ESRI Shapefile, GML, GeoJSON, AutoCAD DWG, MapInfo (tab and mid/mif), ESRI Coverages, ESRI Personal Geodatabase, DGN, PostGIS, Oracle Spatial, and more ...</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**ベクタ:** GeoPackage, ESRI Shapefile, GML, GeoJSON, AutoCAD DWG, MapInfo (tab 及び mid/mif), ESRI Coverages, ESRI Personal Geodatabase, DGN, PostGIS, Oracle Spatial, など...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** http://geoserver.org/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**Webサイト:** http://geoserver.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** http://postgis.net</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**Webサイト:** http://postgis.net</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** http://www.gaia-gis.it/gaia-sins/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**Webサイト:** http://www.gaia-gis.it/gaia-sins/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://cran.r-project.org</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**Webサイト:** https://cran.r-project.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://gdal.org/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**Webサイト:** https://gdal.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://josm.openstreetmap.de</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**Webサイト:** https://josm.openstreetmap.de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://leafletjs.com</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**Webサイト:** https://leafletjs.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://liblas.org/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**Webサイト:**  https://liblas.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://mapproxy.org/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**Webサイト:** https://mapproxy.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://mapserver.org</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**Webサイト:** https://mapserver.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://openlayers.org/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**Webサイト:** https://openlayers.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://pgrouting.org/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**Webサイト:** https://pgrouting.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://projects.eclipse.org/projects/locationtech.jts</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**Webサイト:** https://projects.eclipse.org/projects/locationtech.jts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://trac.osgeo.org/geos</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**Webサイト:** https://trac.osgeo.org/geos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://www.openstreetmap.org/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**Webサイト:** https://www.openstreetmap.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://www.qgis.org/en/site/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**Webサイト:** https://www.qgis.org/en/site/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**amd64 or i386 architecture**</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**amd64 または i386 アーキテクチャ**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**md5 checksum**</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**md5 チェックサム**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**osm2pgRouting loading data** - https://github.com/pgRouting/osm2pgrouting/wiki/Documentation-for-osm2pgrouting-v2.1</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**osm2pgRouting によるデータ読み込み** - https://github.com/pgRouting/osm2pgrouting/wiki/Documentation-for-osm2pgrouting-v2.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**pgRouting Documentation** - Find the most recent documentation in https://docs.pgrouting.org.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**pgRoutingドキュメント**- https://docs.pgrouting.org で最新のドキュメントを検索してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Empower everyone with open source geospatial*</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>*オープンソース地理空間で、すべての人に力を*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2.5D rendering support</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>2.5D レンダリングサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3D Globes and 2D Maps in a Browser</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ブラウザ上の3次元地球儀と2次元地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3D Terrain Rendering</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>3D 地形レンダリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/R_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/R_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/gdal_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/gdal_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/geoserver_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/geoserver_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/josm_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/josm_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/leaflet_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/leaflet_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/liblas_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/liblas_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/mapnik_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/mapnik_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/mapproxy_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/mapproxy_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/mapserver_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/mapserver_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/openlayers_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/openlayers_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/osm_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/osm_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/pgrouting_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/pgrouting_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/postgis_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/postgis_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/qgis_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/qgis_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/spatialite_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/spatialite_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A USB flash drive (at least 4 Gig, 8+ Gig is recommended).</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>USB フラッシュドライブ (最低 4 GB、推奨 8 GB 以上)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A complete list of the available objects and properties a Mapfile can have can be found in the `MapServer documentation page &lt;https://mapserver.org/mapfile/index.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapfileで使用できるオブジェクトとプロパティの完全なリストは、 `MapServerドキュメントページ &lt;https://mapserver.org/mapfile/index.html&gt;`_ にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A full range of arithmetic, trigonometric, and statistical functions are built-in, and thousands more are available from packages in the `CRAN &lt;https://cran.r-project.org/&gt;`_ archive.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>算術関数、三角関数、統計関数のすべてが組み込まれており、 `CRAN &lt;https://cran.r-project.org/&gt;`_ アーカイブのパッケージからさらに数千が利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A global repository of local knowledge.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ローカルな知識の地球規模のリポジトリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A half hour `presentation &lt;presentation.html&gt;`_, highlighting all OSGeoLive applications, is available with slides, script, and `abstract &lt;presentation/abstract.txt&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>全ての OSGeoLive アプリケーションを取り上げた30分間の `プレゼンテーション &lt;presentation.html&gt;`_ がスライドや原稿、 `アブストラクト &lt;presentation/abstract.txt&gt;`_ とともに、利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A high-performance, feature-packed library for all your mapping needs</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>すべてのマッピングのニーズを満たす、ハイパフォーマンス、多機能なライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A multitude of raster and vector data formats</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>多数のラスタ・ベクタデータフォーマット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A number of editors to choose from</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>幾つかのエディタを選択できます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A number of renderers to choose from (including custom and online)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>幾つかのレンダラを選択できます (カスタムとオンラインのものを含めて)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A number of specialised plugins have been written for JOSM, which are available for download and install.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>JOSM のために記述された特殊なプラグインのいくつかは、ダウンロードしてインストールが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A wealth of information is available on our `Wiki site &lt;https://trac.osgeo.org/osgeolive/wiki&gt;`_, and a `bug and wish tracking system &lt;https://trac.osgeo.org/osgeolive/report/10&gt;`_ is also available.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>豊富な情報は、私達の `Wiki サイト &lt;https://trac.osgeo.org/osgeolive/wiki&gt;`_ や、 `バグ・要望トラッキングシステム &lt;https://trac.osgeo.org/osgeolive/report/10&gt;`_ をごらんください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ACID transactional integrity</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ACID トランザクションの完全性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access external CSV/TxtTab files or xls spreadsheets as VIRTUAL TABLEs</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>外部の CSV/タブ区切りテキストや xls スプレッドシートに VIRTUAL TABLE としてアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access shapefiles as VIRTUAL TABLEs, enabling standard SQL queries on external shapefiles, without importing or converting them</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>シェープファイルに VIRTUAL TABLE としてアクセスすると、インポートや変換なしにシェープファイルに SQL クエリを発行可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add presets</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>プリセットを追加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Advanced cartographic output</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>高度な地図出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Advantages of the database routing approach are:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>データベース上で経路探索を行う方法の利点には、以下のようなものがあります:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All Pairs Shortest Path, Floyd-Warshall Algorithm</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>全点対間最短経路探索 - ワーシャル-フロイド法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All Pairs Shortest Path, Johnson’s Algorithm</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>全点対間最短経路探索 - ジョンソンのアルゴリズム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Android browser 2.2+, 3.1+, 4+</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Android ブラウザ 2.2+, 3.1+, 4+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Applications targeted at a specific domain</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>特定の用途向けアプリケーション:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ArcGIS REST servers and compact cache files</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ArcGIS REST サーバと、コンパクトキャッシュファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Areas: join overlapping areas, create multi-polygon, and more.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>エリア: 重複するエリアの結合、マルチポリゴンを作成、ほか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At psql prompt type:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>psql のプロンプトで、以下をタイプします:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attach listener functions to map events.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>リスナー関数を地図イベントに対する反応としてアタッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Audio mapping: survey recording management.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>音声マッピング: 調査記録の管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Author(s)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>著者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Available in prior OSGeo-Live releases</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>以前の OSGeo-Live リリースで利用可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bayesian spatial analysis</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ベイズ空間解析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bi-directional A* Shortest Path</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>双方向 A* アルゴリズムによる最短経路探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bi-directional Dijkstra Shortest Path</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>双方向ダイクストラ法による最短経路探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Browser Facing GIS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ブラウザ向け GIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Browser/Mobile Map Library</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ブラウザ/モバイル向け地図ライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Buffers, unions, overlays, distance and more</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>バッファ、ユニオン、オーバーレイ、ディスタンス など</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Building data</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>データの構築</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>C and C++ API (C API gives long term ABI stability)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>C および C++ API (C API は長期間の ABI 安定性を付与)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>C/C++/Python APIs for reading, writing, and manipulating LAS data</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>LAS データの読み込み、書き込み、操作に使用する C/C++/Python API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CPU: 1 GHz i686 or compatible (Intel/AMD)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>CPU: 1 GHz i686 互換の CPU (Intel/AMD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cartographic rendering engine</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地図製作用レンダリングエンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Catalogue</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>カタログ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Check the `OGC Support and Configuration &lt;https://www.mapserver.org/ogc/index.html&gt;`_ to learn more about OGC standards in MapServer (WMS, WFS, SLD, WFS Filter Encoding, WCS, SOS, etc.).</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`OGC サポートと構成 &lt;https://www.mapserver.org/ogc/index.html&gt;`_をチェックして、MapServerのOGC標準（WMS、WFS、SLD、WFS Filter Encoding、WCS、SOSなど）の詳細を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chrome for Android 4+ and iOS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Chrome for Android 4+ 及び iOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Classes for spatial data</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>空間データのためのクラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Command-line utilities for data translation, image warping, subsetting, and various other common tasks</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>データ変換、画像変形、切り出し、その他一般的な操作を行うコマンドラインユーティリティ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Commercial Support</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>商用サポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Common GIS Desktop Interface tools:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>共通的なGISデスクトップインタフェースツール:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Community Support</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>コミュニティサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Complete Object Oriented Programming Language designed for Statistics and similar Mathematical intensive applications</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>統計、数学に特化したアプリケーションに向けて設計した完全なオブジェクト指向プログラミング言語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Complex Multi Label/Symbol Symbology</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>複雑な複数ラベル・シンボルのシンボロジー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contact Us</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>問い合わせ先</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contributors</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>貢献者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Controls and Interactions</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>コントロールとインタラクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Convert the countries to GML.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>国を GML に変換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Coordinate reprojection via PROJ.4 and EPSG geodetic parameters dataset</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>PROJ.4 と EPSG 測地系パラメータデータセットを利用した投影法変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Coordinate reprojection via `GDAL &lt;https://gdal.org&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`GDAL &lt;https://gdal.org&gt;`_ 経由での投影法の変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Coordinate system engine built on PROJ.4 and OGC Well Known Text coordinate system descriptions</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>PROJ.4 及び OGC Well-Known テキスト座標系記述に基づいた座標系エンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Coordinates</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>座標</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>主な機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Country</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>国</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create your custom controls or interactions.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>カスタムコントロールやインタラクションの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create, edit and export spatial data using:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>空間データの作成，編集とエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating an OSGeoLive Bootable USB flash drive</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSGeoLive を起動できる ブータブル USB フラッシュドライブの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating bootable USB drive with ``dd`` under Linux</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Linux 環境でブータブル USB ドライブの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cross-platform support</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>クロスプラットフォーム対応</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Currently (2017/08/11), the CRAN package repository features 11239 available packages.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>現在 (2017/08/11)、CRAN パッケージリポジトリで 11239 のパッケージが利用可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Custom map layers, controls, projections</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>カスタム地図レイヤ、コントロール、投影法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Customization Features</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>カスタマイズ機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Customize controls look and feel using CSS.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>CSS3 を利用したコントロールのルック&amp;フィールのカスタマイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>データ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data Stores</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>データストア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data is stored as latitude-longitude WGS84 nodes, strings of nodes, and meta-features allowing for point, polyline, area coverage and relations.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>データは、緯度・経度 WGS84 のノード、ノードの文字列、そしてポイント・ポリライン・エリアカバレッジを可能にするメタフィーチャとして格納されています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defaults for settings are:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>デフォルトでは以下のような設定になっています:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Demo</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>デモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Desktop Browser Support</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>デスクトップブラウザのサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Desktop Editor for OpenStreetMap data</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OpenStreetMap データのためのデスクトップ・エディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Desktop GIS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>デスクトップ GIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Desktop Virtual Globe</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>デスクトップバーチャル地球儀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Details</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Disaster management</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>災害マネージメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Disclaimer</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>免責事項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Document</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ドキュメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ドキュメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Documentation Contributors</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ドキュメンテーション貢献者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Documentation: https://wiki.openstreetmap.org/wiki/ID</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ドキュメンテーション： https://wiki.openstreetmap.org/wiki/ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Documentation: https://wiki.openstreetmap.org/wiki/Osmosis#Usage</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ドキュメンテーション: https://wiki.openstreetmap.org/wiki/Osmosis#Usage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Domain Specific GIS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>特定用途向け GIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download and upload OSM vector data.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSMベクトルデータのダウンロードおよびアップロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download the file here: `sample.osm &lt;https://learnosm.org/files/sample.osm&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ここでファイルをダウンロードしてください： `sample.osm &lt;https://learnosm.org/files/sample.osm&gt;` __</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drag panning with inertia</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>イナーシャによるドラッグパン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draw your own map</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>独自のマップを描画する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drawing</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>図面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Driver is "GTiff/GeoTIFF"</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ドライバーは「GTiff/GeoTIFF」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Driving Distance</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>到達圏探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dynamic Geospatial Visualization:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>動的な地理空間視覚化:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dynamic Heatmaps</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>動的ヒートマップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ETL (Extract, Transform and Load) Tool</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ETL (データ抽出・加工・ロード) ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each format reports if it is</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>各フォーマットは、次の場合にレポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Easy Viewing of many Vector and Raster Formats</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>様々なベクタとラスタフォーマットの容易な表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ecological analysis</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>生態学的分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Editing Tools:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>編集ツール:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enabling pgRouting in a database</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>データベース内で pgRouting を有効化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter a name such as OSGeoLive, and choose Linux as the "Operating system", and Ubuntu as the "Version".</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>イメージに OSGeo-Live のような名前を付け、"Operating System" に Linux、"Version" に Ubuntu を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter password="user"</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>パスワード "user" を入力します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Events</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>イベント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Extensible plugin architecture</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>拡張可能なプラグインアーキテクチャ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Extract local subsets of the data.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>データのローカルなサブセットを抽出します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Extremely lightweight — around 34 KB of gzipped JS code</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>極めて軽量 — JS コードを gzip 圧縮した状態で 34 KB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Feature labeling including label collision mediation</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>重複を回避するフィーチャのラベル付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find out more about OSM on the website: https://www.openstreetmap.org</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSMの詳細については、次のWebサイトをご覧ください: https://www.openstreetmap.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a 4 GB USB flash drive, use osgeolive-mini ISO (without Windows and Mac installers), without persistence.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>4 GB USB フラッシュドライブ用には、osgeolive-mini ISO を使用 (WindowsとMac向けのインストーラーを含まない)、永続性は非サポート。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For additional information on the distribution of each program review their license as indicated on the page for each program.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>各プログラムの配布の追加情報については、各プログラムのページで表示されるライセンスを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For general information about R, try the official `Introduction to R &lt;https://cran.r-project.org/doc/manuals/R-intro.html&gt;`_ or any of the documentation from the main `R Project &lt;https://www.r-project.org/&gt;`_ page.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Rに関する一般的な情報については、公式の `Introduction to R &lt;https://cran.r-project.org/doc/manuals/R-intro.html&gt;`_ またはメインの `R Project &lt;https://www.r-project.org/&gt;`_ ページ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information on spatial aspects of R, the best place to start is probably the `R Spatial Task View &lt;https://cran.r-project.org/web/views/Spatial.html&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Rの空間的側面の詳細については、おそらく「R Spatial Task View &lt;https://cran.r-project.org/web/views/Spatial.html&gt; `_から始めるのが最適です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Free to use</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>自由に利用できます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Friendly graphical user interface:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>使いやすいグラフィカルなユーザーインターフェイス:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Full Spatial metadata in line with OpenGis specifications</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OpenGis の仕様に沿った完全な空間メタデータ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fully customizable, template driven output</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>十分にカスタマイズ可能なテンプレート駆動の出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDAL Project home</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GDALプロジェクトホーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDAL Raster Tutorial</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GDAL ラスターのチュートリアル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDAL Workshop</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GDALワークショップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDAL supports over 140 raster formats, and OGR over 80 vector formats.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GDAL は140を超えるラスタフォーマットを、また、OGR は80を超えるベクタフォーマットをサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDAL/OGR Quickstart</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GDAL/OGR クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GEOS is the most widely used geospatial C++ geometry library, being used by open source projects such as :doc:`PostGIS &lt;postgis_overview&gt;`, :doc:`QGIS &lt;qgis_overview&gt;`, :doc:`GDAL/OGR &lt;gdal_overview&gt;` and :doc:`MapServer &lt;mapserver_overview&gt;`, and by proprietary products including `FME &lt;https://www.safe.com/fme&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GEOS は最も広く使われている地理空間の C++ 幾何ライブラリであり、 :doc:`PostGIS &lt;postgis_overview&gt;`, :doc:`QGIS &lt;qgis_overview&gt;`, :doc:`GDAL/OGR &lt;gdal_overview&gt;` 及び :doc:`MapServer &lt;mapserver_overview&gt;` などのオープンソースプロジェクトや、  `FME &lt;https://www.safe.com/fme&gt;`_ などの商用製品で使用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GIS Tools</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GIS ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GPS Data Analysis and Viewer</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GPS データの解析、ビューア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GPS Navigation</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GPS ナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GPS tools to import and export GPX format, convert other GPS formats to GPX, or down/upload directly to a GPS unit</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GPX フォーマットのインポートとエクスポート、他の GPS フォーマットの GPX への変換、または GPS 機器からの直接ダウンロード・アップロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GRASS locations and mapsets</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GRASS のロケーションとマップセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>General GIS viewing, editing and analysis in the browser</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ブラウザ内での一般的な GIS 閲覧、編集、解析:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>General GIS viewing, editing, and analysis on the desktop</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>デスクトップ上での一般的な GIS 閲覧、編集、解析:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generate and Export DXF files</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>DXF ファイルの生成とエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoServer Project home - http://geoserver.org/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ジオサーバー プロジェクト ホーム - http://geoserver.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoServer Quickstart</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ジオサーバー クイック スタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoServer Styling Workshop - https://docs.geoserver.org/latest/en/user/styling/workshop/index.html</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ジオサーバースタイリングワークショップ - https://docs.geoserver.org/latest/en/user/styling/workshop/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoServer Tutorials - https://docs.geoserver.org/latest/en/user/tutorials/index.html</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ジオサーバーのチュートリアル - https://docs.geoserver.org/latest/en/user/tutorials/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoServer User Manual - https://docs.geoserver.org/latest/en/user/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ジオサーバーユーザーマニュアル -  https://docs.geoserver.org/latest/en/user/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoServer supports the majority of the EPSG database of projections and can reproject to any of them on demand to allow clients with limited reprojection support to pass the load to the server.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GeoServer は EPSG データベースの主な投影法をサポートしており、オンデマンドでそれらの投影法への再投影ができます。クライアント側で再投影を制限され手いる場合にはサーバ側でその処理を行うこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoTiff, JPG and PNG (with world file), image pyramid, GDAL formats, Image Mosaic, Oracle GeoRaster, NetCDF</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GeoTiff, JPG 及び PNG (ワールドファイル付き), image pyramid, GDAL formats, Image Mosaic, Oracle GeoRaster, NetCDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoTools is an open source (LGPL) Java library which provides standards compliant methods for manipulating geospatial data, and uses data structures based on Open Geospatial Consortium (OGC) specifications.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GeoTools は Open Geospatial Consortium (OGC) の標準に準拠した空間データの操作やデータ構造を利用するための、オープンソース (LGPL) の Java ライブラリです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geometric constructions</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ジオメトリ生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geometric math functions (e.g., angles, distances, etc.)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ジオメトリ算術機能 (例: 角度、距離等)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geometries: Point, LineString, Polygon, MultiPoint, MultiLineString, MultiPolygon, GeometryCollection</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ジオメトリ: ポイント、ラインストリング、ポリゴン、マルチポイント、マルチラインストリング、マルチポリゴン、ジオメトリコレクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geometry model (point, line, area)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ジオメトリモデル (ポイント、ライン、エリア)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geometry operations (e.g., intersect, union, within, etc.)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ジオメトリ演算 (例: 交差(intersect)、統合(union)、含む(within)など)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Georepublic is a Geolocation Technology Company, that embraces the idea of Free Software, and provide support and custom development for Open Source GIS software.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Georepublic は地理ロケーションテクノロージー会社で、フリーソフトウェアのアイデアを取り入れ、オープンソースGISソフトウェアのサポートやカスタム開発を提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geospatial CMS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地理空間 CMS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geospatial Data Abstraction Library (GDAL/OGR) provides command-line utilities to translate and process a wide range of raster and vector geospatial data formats.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Geospatial Data Abstraction Library (GDAL/OGR) は、多数のラスタ、ベクタ地理空間情報フォーマット変換用のコマンドラインユーティリティです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geospatial Libraries</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地理空間ライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geospatial Standards</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地理空間標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geostatistics</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地球統計学</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get support: https://www.openstreetmap.org/help</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>支持を得ます: https://www.openstreetmap.org/help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get to know GDAL</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GDALについて知る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Getting started with Lubuntu and the LXDE desktop (which is used by OSGeoLive):</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Lubuntu 及び LXDE デスクトップ入門 (OSGeoLive で使用されています):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Getting started with the Ubuntu operating system:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Ubuntu オペレーティングシステム入門:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Global massively crowd-sourced dataset</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>グローバルで大規模なクラウドソース型のデータセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go and get a cup of coffee while installation is in progress.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>インストールが終わるまでしばらくお待ちください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Great flexibility to create tooltips and markers.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ツールチップとマーカー作成の高柔軟性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hard Disk:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ハードディスク:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hardware acceleration</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ハードウェアアクセラレーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Have a look at the `MapServer Tutorial &lt;https://www.mapserver.org/tutorial/index.html&gt;`_ which contains more Mapfile examples.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`MapServerチュートリアル &lt;https://www.mapserver.org/tutorial/index.html&gt;`_ をご覧ください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heatmaps.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ヒートマップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>High-precision arithmetic</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>高精度計算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Highlights:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ハイライト:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Highly efficient raster data access, taking advantage of tiling and overviews</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ラスタデータの高度な操作。タイリング、サムネイル作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Homepage: http://merkaartor.be</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ホームページ: http://merkaartor.be</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Homepage: https://josm.openstreetmap.de</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ホームページ: https://josm.openstreetmap.de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Homepage: https://wiki.openstreetmap.org/wiki/Osm2pgsql</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ホームページ：https://wiki.openstreetmap.org/wiki/Osm2pgsql</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Howto</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>手順</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hundreds of community contributed add-on packages for spatial statistics</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>数百のコミュニティが作成した空間統計計算用のアドオンパッケージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hundreds of spatial functions</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>何百もの空間関数群</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IE10/IE11 for Win8-based devices</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>IE10/IE11 for Win8 ベースの端末</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INSPIRE View Service compliant</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>INSPIRE View Service 準拠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IRC users might try the #osgeolive or #osgeo channel at Freenode.net for real-time assistance.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T104134Z" creationid="smellman" creationdate="20201101T104134Z">
+        <seg>IRCユーザーは、Freenode.netの#osgeoliveまたは#osgeoチャネルを使ってリアルタイムによる支援を試してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ISO images are available for recent amd64 hardware (recommended) as well as older i386 hardware.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ISO イメージは、最近の amd64 ハードウェア(推奨)、または、古い i386 ハードウェアで利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Identify features by attributes, point, bounding box or geometry across one or more layers</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>属性、ポイント、バウンディングボックス、ジオメトリによる、単一もしくは複数レイヤにまたがるフィーチャの識別</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you are reading this quickstart outside OSGeoLive you may prefer reading the original demo on: https://leafletjs.com/examples/quick-start/, since this demo uses tilestache on OSGeoLive.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSGeoLiveの外部でこのクイックスタートを読んでいる場合は、https://leafletjs.com/examples/quick-start/ で元のデモを読むことをお勧めします。このデモはOSGeoLiveでtilestacheを使用しているためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you are running PostgreSQL 9.6+, you can skip the postgis line and do :code:`CREATE EXTENSION pgrouting CASCADE;`</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>もし PostgreSQL 9.6+ を実行している場合は、 postgis の行はスキップ可能で、 :code:`CREATE EXTENSION pgrouting CASCADE;` を実行します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you have any questions, comments, or run into any problems, please drop us a note on `our mailing list &lt;https://lists.osgeo.org/mailman/listinfo/osgeolive&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>質問、コメント、または問題が発生した場合は、`私たちのメーリングリスト &lt;https://lists.osgeo.org/mailman/listinfo/osgeolive&gt;`_ にご連絡ください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Image- and HTML-based markers</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画像と HTML ベースのマーカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Imagery:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画像:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Implemented Standards</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>実装されている標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Importing and exporting to shapefiles</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>シェープファイルのインポート、エクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, move to the "Shared Folders" section, and click the "Add folder" (green + icon on the right) to find a directory on your host computer that you wish to share inside the VM.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>さらに、"Shared Folders" セクションに移動し、"Add folder" (右側の緑の "+" アイコン) をクリックし、VM 内部で共有したいホストコンピュータのディレクトリを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, there are a large number of consultancy firms world wide who provide support for OSGeo member projects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T105651Z" creationid="smellman" creationdate="20201101T105651Z">
+        <seg>また、OSGeoメンバーのプロジェクトをサポートするコンサルタント会社も世界中に多数存在します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this example we will create a database called `city_routing` and enable pgRouting in the database.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>このサンプルでは、 `city_routing` というデータベースを作成し、そのデータベースで pgRouting を有効化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center for the Environment at the University of California, Davis provides hardware resources and development support to the OSGeoLive project.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>カリフォルニア大学デイビス校環境情報センターは、OSGeoLiveプロジェクトへのハードウェア資源と開発支援を提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Input sources:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>入力ソース:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Input/Output (e.g., WKT, GML)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>入力/出力 (例: WKT、GML)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insert DVD or USB thumb drive in computer or virtual machine.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>DVDまたはUSBドライブをコンピュータもしくは仮想マシンにマウント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Install OSGeoLive</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSGeoLive のインストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Install OSGeoLive to Hard Disk</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ハードディスクに OSGeoLive をインストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Installation Tips In case you are installing using a username other than "user", tomcat applications require to have permission to service command as described in https://trac.osgeo.org/osgeo/ticket/1153</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>インストール Tips: ユーザ名に "user" 以外を指定してインストールした場合、Tomcat アプリケーションでは https://trac.osgeo.org/osgeo/ticket/1153 に記載のように、サービスコマンドへの権限が必要となります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Interaction and Visual Features</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>インタラクティブでビジュアルな機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOSM Quickstart</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>JOSM クイック スタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOSM is a feature rich, extensible, offline desktop editor for OpenStreetMap (OSM) data, written in Java.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>JOSM は、 Java で記述された OpenStreetMap (OSM) データ用の、機能豊富で、拡張可能な、オフラインのデスクトップエディタです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOSM plugin collection: https://josm.openstreetmap.de/wiki/Plugins</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>JOSMプラグインコレクション： https://josm.openstreetmap.de/wiki/Plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOSM plugins collection: Ranging from Public Domain to GPLv3</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>JOSM プラグインコレクション: Ranging from Public Domain to GPLv3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOSM views WMS layers, but uses the `OSM API &lt;https://wiki.openstreetmap.org/wiki/API_v0.6&gt;`_ to communicate with OSM database.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>JOSM は WMS レイヤーを閲覧し、 `OSM API &lt;https://wiki.openstreetmap.org/wiki/API_v0.6&gt;`_ を使用してOSMデータベースと通信します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOSM: Latest stable snapshot (svn r11427)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>JOSM: 最新の安定版スナップショット (svn r11427)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Java Swing/AWT writing</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Java Swing/AWT 書き込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>K-Dijkstra, One to Many Shortest Path</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>K-ダイクストラ法 - 1対多の最短経路探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>K-Shortest Path, Multiple Alternative Paths</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>K-最短経路探索 - 複数の代替経路探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keeps your JS environment clean — no global or native prototypes pollution</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>開発者の JS 環境をクリーンに保つ — グローバルもしくはネイティブの prototype を汚染しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keyboard Support</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>キーボードサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keyboard navigation</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>キーボードナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Label Leader Offsetting</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ラベル先頭のオフセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>言語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Last Available</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>最終利用可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Layer Compositing</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>レイヤ合成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Layer groups</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>レイヤグループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Layers</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>レイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Learn more about `EXPRESSIONS &lt;https://mapserver.org/mapfile/expressions.html&gt;`_ in MapServer.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>MapServerの `EXPRESSIONS &lt;https://mapserver.org/mapfile/expressions.html&gt;`_ の詳細をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Learn more about using pgRouting in your application by reading the `documentation &lt;http://docs.pgrouting.org&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>あなたのアプリケーションでの pgRouting の利用について、もっと知りたい場合は、 `documentation &lt;http://docs.pgrouting.org&gt;`_ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LiDAR Data Access</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>LiDAR データアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Library access from Python, Java, C#, Ruby, VB6 and Perl</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Python、Java、C#、Ruby、VB6、Perl からのライブラリアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>License(s)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linux, Windows, Mac OS X, Solaris, and more</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Linux, Windows, Mac OS X, Solaris その他</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loading OSM data with osm2pgrouting</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>osm2pgrouting での OSM データの読み込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loading map data</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>マップ データの読み込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Locale charsets via GNU libiconv</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GNU libiconv によるロケール、文字コード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Log out</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ログアウトします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Many other formats via GDAL and OGR</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GDAL 及び OGR 経由の、他の多くのフォーマット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Map Controls</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地図コントロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Map Data</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地図データ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Map Layers</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地図レイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Map element automation (scalebar, reference map, and legend)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>マップ要素の自動化 (スケールバー、マップ参照、凡例)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Map pan, zoom and rotation, feature selection, modification, etc.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地図の移動、ズームと回転、地物の選択、編集など</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Map projection support</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地図投影サポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapProxy implements the following open specifications:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>MapProxyは、以下のオープンな仕様を実装しています:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapProxy is flexible and scales from simple to complex use-cases: from a single tile cache for an :doc:`OpenLayers &lt;openlayers_overview&gt;` web client to a central SDI node that combines, unifies and accelerates dozens of distributed WMS services.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>MapProxy は柔軟で、単純なものから複雑なユースケースまでスケールします: 例えば、 :doc:`OpenLayers &lt;openlayers_overview&gt;` Web クライアントのための単一のタイルキャッシュから、数十の分散型 WMS サービスの結合、統合、高速化を行う、中央の空間データインフラストラクチャ SDI ノードまでスケールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapServer is an `Open Source &lt;https://opensource.org/&gt;`_ server based application that allows you to publish geographic map images and vector data through the internet using |OGCS| such as |WMS|, |WFS| and |WCS|.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>MapServerは、 `オープンソース &lt;https://opensource.org/&gt;`_ サーバーベースのアプリケーションであり、|WMS|、|WFS|、|WCS|などの |OGCS| を使用して、インターネットを介して地理的地図の画像やベクターデータを公開できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapping and Timeline for events</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>イベントのためのマッピングとスケジュール管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapserver and Mapnik (directly, without WMS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapserver 及び Mapnik (WMS 無しで直接的に)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mask Layers</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>マスクレイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Meteorology and Climatology</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>気象学と気候学</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Metric functions (e.g., Cartesian 2D distance, Hausdorff distance)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>距離計測機能 (例: デカルト2D距離, ハウスドルフ距離)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Microsoft Windows based Desktop GIS.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Microsoft Windows ベースのデスクトップ GIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Misc</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>その他</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Miscellaneous</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>その他</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mix the power of HTML5 capabilities with a mapping application.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>HTML5 の能力を地図アプリケーションに混合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mobile Browser Support</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>モバイルブラウザのサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mobile browser support.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>モバイルブラウザ対応</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Modular design allows including only required features</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>必要な機能のみ含めることが可能なモジュール設計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mosaicking</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>モザイク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most machines produced in the last 4-5 years will meet these requirements.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>この 4〜5 年で製造されたマシンのほとんどは、この要件を満たしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most packaged applications have both community and commercial support offerings for them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T105609Z" creationid="smellman" creationdate="20201101T105609Z">
+        <seg>ほとんどのパッケージ・アプリケーションには、コミュニティ・サポートと商用サポートの両方が用意されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mouse: a 3-button mouse is useful, especially for Mac trackpad users.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>マウス: 特にMac でトラックパッドを使用している方には、3ボタンマウスの利用をお勧めします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Multi-touch</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>マルチタッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Multi-user support</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>マルチユーザのサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Multiple Font Support</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>複数フォントサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NMEA-0183 files: .nmea, .nme, .nma, .log, .txt</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>NMEA-0183 ファイル: .nmea, .nme, .nma, .log, .txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Native support for ESRI shapefiles, PostGIS and Oracle Spatial</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ESRI シェープファイル, PostGIS, Oracle Spatial のネイティブサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Navigate the map</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>マップをナビゲートする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Navigation and Maps</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ナビゲーションと地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No external dependencies</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>外部依存性がない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nodes: merge, join, unglue, distribute, align in circle, align in line, join node to way, and more.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ノード: マージ、結合、引き離し、分割、円の整列、線の整列、ウェイへのノードの結合、ほか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>None required if running directly from the DVD</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>DVD から直接利用する場合にはハードディスクは使用しません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now bootup the VM by clicking the Start (green arrow) button.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Start (緑の矢印) ボタンをクリックして、VM を起動しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now files on your host machine in the chosen folder will also be available in the VM in the "GIS" folder in user's home directory.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>これで、ホストマシンで選択したフォルダ内のファイルが、 VM 上のユーザのホームディレクトリ内の "GIS" フォルダでも利用可能になりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Numerous Geometry notations - EWKT, GML, KML, and GeoJSON</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>多くのジオメトリ記法 - EWKT、GML、KML、GeoJSON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC Standards descriptions</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OGC 標準規格説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC WMTS 1.0.0 (KVP and RESTful)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OGC WMTS 1.0.0 (KVP 及び RESTful)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC Well Known Text (WKT) and Well Known Binary (WKB) encoders and decoders.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OGC の Well-Known テキスト (WKT) と Well-Known バイナリ (WKB) のエンコーダとデコーダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC standards compliant (SFSQL)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OGC 標準への準拠 (SFSQL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC standards compliant (WMS, WFS, ... )</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OGC スタンダードに準拠 (WMS、WFS など)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGR-based query output generation</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OGR ベースのクエリ出力生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeo outreach and activities include:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSGeoのアウトリーチや活動に含まれるもの:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeo wiki pages:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSGeo Wiki ページ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeoLive Document Contributors</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSGeoLive ドキュメント貢献者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeoLive Internationalisation Quickstart</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSGeoLive 国際化 クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeoLive Quickstart</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSGeoLive クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeoLive Quickstart for Running in a Virtual Machine</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>仮想マシン内での OSGeoLive 起動クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeoLive Sponsors kea</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSGeoLiveスポンサー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeoLive can be installed onto your hard disk, the same way an Ubuntu distribution is installed.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSGeoLive は Ubuntu をインストールするのと同様にハードディスクにインストールして利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeoLive development is coordinated via email and internet chat (IRC) as detailed on the `OSGeoLive Wiki &lt;https://trac.osgeo.org/osgeolive#Communication&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSGeoLive の開発は、emailやインターネット・チャット (IRC) によってコーディネートされています。詳細については、`OSGeo Wiki &lt;https://trac.osgeo.org/osgeolive#Communication&gt;`_ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSM change file: .osc, .osc.bz2, .osc.bz, .osc.gz</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSM 変更ファイル: .osc, .osc.bz2, .osc.bz, .osc.gz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSM files: .osm, .xlm, .osmbz2, .osmbz</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSM ファイル: .osm, .xlm, .osmbz2, .osmbz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On-the-fly map projection with 1000s of projections through the Proj.4 library</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Proj.4 ライブラリ使用による、1000を超える投影法でのオンザフライ地図投影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Online help: https://wiki.openstreetmap.org/wiki/Merkaartor/Documentation</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>オンラインヘルプ： https://wiki.openstreetmap.org/wiki/Merkaartor/Documentation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Online help: https://wiki.openstreetmap.org/wiki/QGIS#QGIS_2:_Importing_OSM_vector_layers</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>オンラインヘルプ： https://wiki.openstreetmap.org/wiki/QGIS#QGIS_2:_Importing_OSM_vector_layers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Firefox and navigate to `&lt;http://localhost:8011/demo&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Firefoxを開き、`&lt;http://localhost:8011/demo&gt;`_ に移動します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open a :menuselection:`Applications --&gt; Accessories --&gt; Terminal` window and connect to the ``city_routing`` database:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>メニューから、 :menuselection:`Applications --&gt; Accessories --&gt; Terminal` を開き、 ``city_routing`` データベースに接続します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open a :menuselection:`Applications --&gt; Accessories --&gt; Terminal` window and open up psql: (psql is the commandline tool packaged with PostgreSQL)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>メニューから :menuselection:`Applications --&gt; Accessories --&gt; Terminal` を開き、 psql を起動します: (psql は、PostgreSQL にパッケージされているコマンドラインツールです)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open local data:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ローカルデータのオープン:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenGIS |SFSQL| spatial predicate functions and spatial operators</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OpenGIS |SFSQL|  空間述語関数と空間演算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenGis spatial analysis functions provided via GEOS, such as Overlaps(), Touches(), Union(), Buffer() ...</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GEOS 経由で提供される OpenGis 空間解析関数 - Overlaps()、Touches()、Union()、Buffer() など</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenLayers based demo client</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OpenLayers ベースのデモクライアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenStreetMap data: https://www.openstreetmap.org/copyright</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OpenStreetMap データ: https://www.openstreetmap.org/copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Operations: Union, Distance, Intersection, Symmetric Difference, Convex Hull, Envelope, Buffer, Simplify, Polygon Assembly, Valid, Area, Length,</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>演算: 統合(Union)、距離(Distance)、交差(Intersection)、対称差分(Symmetric Difference)、凸包(Convex Hull)、境界矩形領域(Envelope)、バッファ(Buffer)、簡略化(Simplify)、ポリゴン構築(Polygon Assembly)、妥当性検証(Valid)、面積(Area)、長さ(Length)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other features:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>他の機能:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other webkit-based browsers (webOS, Blackberry 7+, etc.)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>その他 webkit ベースのブラウザ (webOS、Blackberry 7+ 等)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Output is:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>出力は:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Output should be something like:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>出力は以下のような形となるはずです:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Output shows:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>出力が表示されます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overlays</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>オーバーレイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overview map, zoom slider, zoom in/out buttons, scale line, rotate map, etc.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地図オーバービュー、ズームスライダー、ズームイン/アウト ボタン、縮尺バー、回転など</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PHP, Python, Perl, Ruby, Java, and .NET</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>PHP, Python, Perl, Ruby, Java, .NET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parse external DXF files (all versions) and store layers and geometries found.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>外部の DXF ファイル(全バージョン)のパースと、検出したレイヤとジオメトリの格納</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Partitioning</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>パーティショニング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Perform spatial analysis using integrated support for SAGA, OTB, MMGIS and GRASS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>統合された SAGA、OTB、MMGIS、GRASS を利用した空間解析の実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Performance Features</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>パフォーマンス機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Photo mapping: survey pictures management.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>写真マッピング: 調査写真の管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Picking the right image for you:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>あなたの環境に適したイメージを選択してください:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Plugable renderer support with drivers for AGG, Cairo and others</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>AGG、Cairoその他のドライバーでのプラガブルなレンダラーサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Plugins: A list of specialized plugins are available for download.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>プラグイン：特化したプラグインのリストをダウンロード可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Point pattern analysis</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>点パターン分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Popular Supported Formats</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>サポートする主なフォーマット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PostGIS Documentation -  http://postgis.net/documentation/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>PostGISドキュメント -  http://postgis.net/documentation/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PostGIS Project home -  http://postgis.net</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>PostGISプロジェクトホーム -  http://postgis.net</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PostGIS spatially enables the popular PostgreSQL object-relational database, allowing it to be used as a back-end database for geographic information systems (GIS) and web-mapping applications.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>PostGIS は人気のある PostgreSQL オブジェクト-リレーショナルデータベースを空間対応したもので、地理情報システム (GIS) や Webマッピングアプリケーションのためのバックエンドデータベースとして利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Powerful OOP facilities for extending existing classes</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>既存のクラス拡張のための、強力な OOP(オブジェクト指向プログラミング) の利便性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Powerful raster processing algorithms</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>強力なラスタ処理アルゴリズム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Powerful styling of features: points, lines, polygons and icons.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>強力な地物のスタイリング機能: ポイント、ライン、ポリゴンとアイコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Powerful tools:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>強力なツール:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Precise Symbol Placement</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>正確なシンボル配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Precision handling</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>精度のハンドリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Predicates: Intersects, Touches, Disjoint, Crosses, Within, Contains, Overlaps, Equals, Covers</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>述語: 交差(インタセクト)する(Intersects)、接する(Touches)、非接続である(Disjoint)、交差(クロス)する(Crosses)、含まれる(Within)、含む(Contains)、重複する(Overlaps)、等しい(Equals)、覆う(Covers)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prepared geometries (pre-spatially indexed)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Prepared ジオメトリ (事前空間インデックス)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Presentation</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>プレゼンテーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press "Enter" to startup &amp; login.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>"Enter" キーを押して起動し、ログイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press the :guilabel:`Log in` button.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:guilabel:`Log in` ボタンをクリックします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Previously available applications</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>以前利用可能だったアプリケーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proxy WMS &amp; tile services</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Proxy WMS &amp; タイル サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Publish to the internet</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>インターネットでの公開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Publishing spatial data to the internet</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>インターネットで地理空間データ公開:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pure CSS3 popups and controls for easy restyling</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>簡単なスタイル変更が可能な、CSS3 完全準拠のポップアップとコントロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Query external WFS servers.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>外部 WFS サーバへのクエリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quick Starts</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quickstart</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>R Quickstart</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>R クイック スタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>R is a free software environment for statistical computing and graphics.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Rは、統計計算とグラフィックスのためのフリーソフトウェア環境です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>R-Tree spatial index</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>R-Tree 空間インデックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raster</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ラスタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raster analysis (change hue/saturation).</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ラスタ解析 (色調/彩度の変更)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raster reprojection.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ラスタ再投影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raster: WMS/WMTS, OpenStreetMap, Stamen, Bing, other XYZ sources, static images, etc.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ラスタ: WMS/WMTS, OpenStreetMap, Stamen, Bing, その他 XYZ ソース, 静的画像など</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Read the `Introduction to MapServer &lt;https://mapserver.org/introduction.html#introduction&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`MapServerの概要  &lt;https://mapserver.org/introduction.html#introduction&gt;`_を読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reading and writing spatial data</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>空間データの読み込みと書き出し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Refer to specific application descriptions linked from the :doc:`Contents &lt;./overview/overview&gt;` for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T105628Z" creationid="smellman" creationdate="20201101T105628Z">
+        <seg>詳細については、doc:`Contents&lt;./overview/overview&gt;`からリンクされている特定のアプリケーションの説明を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remote Sensing Laboratory at the National Technical University of Athens, provides hardware resources and development support to the OSGeoLive project.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アテネ工科大学リモートセンシング研究室は、OSGeoLiveプロジェクトへのハードウェア資源と開発支援を提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remote sensing</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>リモートセンシング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove the sample layer</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>サンプル レイヤーを削除する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Render any DOM element at any place on the map.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地図上の任意の位置への任意の DOM 要素描画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Render maps using different technologies: Canvas, WebGL.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地図を異なる技術で描画: Canvas、WebGL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Render vector layers as raster.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ベクタレイヤをラスタとして描画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Repeat the process if needed or if you wish to change languages again.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ほかの言語に変更したいときは再度言語を選択します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Replication</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>レプリケーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reprojecting</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>再投影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>必要なもの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rescaling</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>再スケーリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retina resolution support for tile layers and markers</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>タイルレイヤとマーカーのための Retina 解像度のサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reviewers(s)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>レビュアー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rich attribute tagging, often far more detailed than any other source.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>他のソースよりもはるかに詳しい豊富な属性タグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Role-based security</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ロールベースのセキュリティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Romania</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ルーマニア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Romanian</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ルーマニア語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Row-level locking</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>行レベルのロッキング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run the Dijkstra shortest path function assuming undirected travel:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ダイクストラ法による最短経路探索関数を、無方向での移動を想定して実行します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run the Dijkstra shortest path function with considering direction.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ダイクストラによる最短経路探索を、方向を考慮して実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Running pgRouting</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>pgRouting の実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SQL spatial functions such as AsText(), GeomFromText(), Area(), PointN() ...</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>SQL 空間関数 - AsText()、GeomFromText()、Area()、PointN() など</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>STR spatial index</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>STR 空間インデックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SVG Symbology</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>SVG シンボロジー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scale dependent feature drawing and application execution</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>縮尺に依存したフィーチャ描画および機能実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sea Floor Mapping</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>海底マッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Searchable archives of the mailing list are hosted by `Nabble &lt;http://www.osgeo-org.1560.x6.nabble.com/OSGeoLive-f3777350.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>メーリングリストの記事検索は `Nabble &lt;http://www.osgeo-org.1560.x6.nabble.com/OSGeoLive-f3777350.html&gt;`_ でホストされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Security:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>セキュリティ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Also:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>参照:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See https://www.osgeo.org/service-providers/ for one that meets your needs.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T105719Z" creationid="smellman" creationdate="20201101T105719Z">
+        <seg>あなたのニーズを満たすために、 https://www.osgeo.org/service-providers/  をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select :guilabel:`Install RELEASE`</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:guilabel:`Install RELEASE` を選択します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select :guilabel:`Install`</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:guilabel:`Install` を選択します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select and run applications from the "Geospatial" menu.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>"Geospatial" メニューからアプリケーションを選択し、実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select another language from the top panel menu.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画面上部のパネルメニューから別の言語を選択します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select keyboard</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>キーボードを選択します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select language</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>言語を選択します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select timezone</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>タイムゾーンを選択します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select user="user", password="user"</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>user="user", password="user" でログインします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Services:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>サービス:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shapefiles, External WFS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>シェープファイル、 外部WFS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shortest Path A*</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>A* アルゴリズムによる最短経路探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shortest Path Dijkstra</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ダイクストラ法による最短経路探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Simple format translation</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>シンプルなフォーマットの翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since we are still using autogenerated edge ids, our edge numbers are the same as our previous query, but the nodes are the osm node ids.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>まだ自動生成されたエッジの id を使用しているため、エッジ番号は先述のクエリと同じとなりますが、ノードは osm ノード id となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sit back while the system boots up.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>システムが起動されるまで待ちます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Size is 10800x5400</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>サイズは10800x5400です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Smart polyline/polygon rendering</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>スマートなポリライン/ポリゴンのレンダリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sophisticated spatial query support</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>洗練された空間クエリサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Source an OSGeoLive DVD, ISO available from: [:doc:`Download &lt;../download&gt;`] Put the DVD into your computer's CD drive, then reboot your computer.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSGeoLive DVD、ISO のソースは以下から利用可能です: [:doc:`Download &lt;../download&gt;`] コンピュータの CD ドライブに DVD を挿入して、コンピュータを再起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Source options:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ソースのオプション:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SpatiaLite is an SQLite_ database engine with spatial functions added.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>SpatiaLite は空間を扱う関数を追加した SQLite_ データベースエンジンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spatial Database</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>空間データベース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spatial Index based on the SQLite's RTree extension</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>SQLite の RTree 拡張を利用した地理空間インデックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spatial Library</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>空間ライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spatial Tools</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>空間ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spatial algorithms (e.g. buffer creation, line offsets, line simplification)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>空間アルゴリズム (例: バッファ作成、ラインオフセット、ライン簡素化)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spatial data sets</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>空間データセット:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spatial regression</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>空間回帰分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spatial structures (e.g. Quadtree and R-tree, Delauney triangulation)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>空間構造 (例: 4分木とR木、ドロネー三角形分割)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Special provisioning for tiled output generation</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>タイル化された出力生成のための特別なプロビジョニング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specific analysis tools</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>特定解析ツール:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Standard WKT and WKB formats</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>標準の WKT 及び WKB フォーマット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start Geoserver</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Geoserverを起動する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start JOSM</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>JOSM を起動する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start R</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>開始 R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start page: https://www.openstreetmap.org/edit</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>スタートページ： https://www.openstreetmap.org/edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start the VirtualBox application and click on the New button to create a new VM, and then Next.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>VirtualBox アプリケーションを起動し、新しい VM を作成するために New ボタンをクリックし、Next をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Statistical Programming</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>統計プログラミング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stay tuned and follow OSGeoLive on Twitter `@osgeolive &lt;https://mobile.twitter.com/osgeolive&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSGeoLiveのツイッターアカウントはこちらです．`@osgeolive &lt;https://mobile.twitter.com/osgeolive&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Storing spatial data</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>空間データの格納:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Style Editor</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>スタイルエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Styling and Publishing</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>スタイリングとパブリッシング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Styling and customization</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>スタイリングとカスタマイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support for large files - larger than 4GB</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>4GBを超えるサイズのファイルをサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support for popular scripting and development environments</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>人気のあるスクリプトや開発環境のサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support for raster queries</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ラスタクエリのサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support of numerous Open Geospatial Consortium  (OGC) standards</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>多数の Open Geospatial Consortium  (OGC) 標準規格のサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support of numerous Open Geospatial Consortium  (OGC) standards:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>多くの Open Geospatial Consortium (OGC) 標準をサポートしています:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support: https://liblas.org/community.html</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>サポート: https://liblas.org/community.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supported Formats</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>サポートするフォーマット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>スウェーデン語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Switching Language</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>言語の変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>System Requirements</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>動作環境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TMS, WMTS (TileCache, GeoWebcache, etc.)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>TMS, WMTS (TileCache, GeoWebcache など)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table-spaces, schemas</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>テーブル空間、スキーマ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tap delay elimination on mobile devices</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>モバイル端末上でのタップ操作の遅延除去</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That is it.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>これで終了です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The "cost" parameter can be dynamically calculated through SQL and its value can come from multiple fields or tables.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>"コスト" パラメータは SQL 経由で動的に計算可能で、複数の列やテーブルからの値を使用することも可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The DebianGIS and UbuntuGIS projects provide and quality-assure many of the core packages.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>DebianGISとUbuntuGISプロジェクトは、コアパッケージの多くを提供し品質を保証します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The OGR vector data model is compliant with the OGC Simple Features specification.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OGR ベクタデータモデルは OGC Simple Features 仕様に準拠しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The OSGeo Foundation</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSGeo財団</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The OSGeoLive distribution includes a city sized extract of OSM data which is used for examples by some applications.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSGeoLive のディストリビューションには、いくつかのアプリケーションで例に使用されているOSMデータの都市サイズに抽出されたデータが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Open Source Geospatial Foundation (OSGeo) provides the primary development &amp; hosting infrastructure and personnel for the project, and for many of the software teams which contribute to it.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>オープンソース地理空間財団 (OSGeo) は主要な開発やインフラのホスト、プロジェクトの要員を提供し、これに貢献する多くのソフトウェアチームのためにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The SpatiaLite extension enables SQLite to support spatial data conformant to OGC specifications.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>SQLite で OGC の仕様に準拠した空間データを扱えるようにしたものが SpatiaLite の拡張です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `-outsize` switch can be used to set the size of the output file.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`-outsize` スイッチを使用して、出力ファイルのサイズを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `Open Source Geospatial Foundation (OSGeo) &lt;https://www.osgeo.org&gt;`__ is a not-for-profit organization whose mission is to foster global adoption of open geospatial technology by being an inclusive software foundation devoted to an open philosophy and participatory community driven development.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`オープンソース地理空間財団 (OSGeo) &lt;https://www.osgeo.org&gt;`__ は非営利組織であり、その使命は、オープンな哲学と、全員参加のコミュニティー駆動の開発に献身的な、包括的なソフトウェア財団であることによって、オープンな地理空間技術の世界的な採択を育むことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The latest stable release is |osgeolive-version| and can be downloaded from:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>最新の安定版リリースは  |osgeolive-version| でこちらからダウンロード可能です:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The most visible aspect to OSM is the online web-tile interface from https://www.openstreetmap.org, but the maps can also be viewed, imported, or edited in many applications such as :doc:`QGIS &lt;qgis_overview&gt;` , :doc:`OpenLayers &lt;openlayers_overview&gt;`, ArcGIS and dedicated OSM applications.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSMを最も目にする光景は、 https://www.openstreetmap.org のオンライン上でのウェブタイルによるインターフェイスです。しかしマップは、 :doc:`QGIS &lt;qgis_overview&gt;` や :doc:`OpenLayers &lt;openlayers_overview&gt;`, ArcGIS および 専用の OSM アプリケーションなどの、多くのアプリケーションで閲覧、インポート、編集が可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The table below credits the contributors for each of the documents on OSGeoLive.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>以下の表は OSGeoLive 上の各ドキュメントの貢献者を記載したものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thematic mapping using logical or regular expression-based classes</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>論理または正規表現ベースのクラスを利用した主題マッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These include:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>これらは以下を含みます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Things to try</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>試してみること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This Quick Start describes how to enable pgrouting in a PostgreSQL database, load data with osm2pgrouting, and run a basic shortest path query with the sample test data.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>このクイックスタートでは、PostgreSQL データベースで pgrouting を有効化し、 osm2pgrouting でデータを読み込み、サンプルのテストデータに対して基本的な最短経路探索クエリを実行する方法について記述しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This Quick Start describes how to start OSGeoLive from a DVD or USB.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ここでは、OSGeoLive を DVD や USB から起動する方法を説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This Quick Start describes how to:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>このクイックスタートでは、次の方法について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This gives us a simple map of the world:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>これは私たちに世界の簡単な地図を与えます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This process can also be run inside a Virtual Machine to create a permanent OSGeoLive Virtual Machine from a DVD or ISO image.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSGeoLive の DVD や ISO イメージから、永続的な仮想マシンを作成するために、仮想マシン内でインストールすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thread safe (using the reentrant API)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>スレッドセーフ (再入可能な API の使用)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tile cache:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>タイルキャッシュ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tiles, Markers, Popups, Image overlays, WMS, GeoJSON</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>タイル、マーカー、ポップアップ、イメージオーバーレイ、WMS、GeoJSON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To do so you would change your query to below:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>osm_id を使用するために、以下のクエリに変更してみます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To output the route geometry, link the result with the road geometries:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>経路のジオメトリを出力するために、結果を道路のジオメトリにリンクさせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To try out the applications, simply:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アプリケーションを試すには、単に以下の手順を実施します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tools for mapping the world</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>世界をマッピングするためのツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Translation</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Translators</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>翻訳者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Traveling Sales Person</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>巡回セールスマン問題</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TrueType font support for labeling and symbolization</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ラベリングとシンボル描画のための TrueType フォントサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try gdalwarp or gdal_merge.py to mosaic your data</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>データをモザイク化するには、gdalwarpまたはgdal_merge.pyを試してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try some more spatial functions like ``st_buffer(geom)``, ``st_transform(geom,25831)``, ``st_x(geom)`` - you will find full documentation at http://postgis.net/documentation/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>``st_buffer(geom)``, ``st_transform(geom,25831)``, ``st_x(geom)`` - のようないくつかの空間関数を試してください。完全なドキュメントは http://postgis.net/documentation/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try the LearnOSM documentation, from which this quickstart was derived: https://learnosm.org/en/josm/start-josm/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>このクイックスタートの元となったLearnOSMドキュメントを試してください： https://learnosm.org/en/josm/start-josm/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try the many applications from the :menuselection:`Geospatial` menu.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:menuselection:`Geospatial` メニューから、たくさんのアプリケーションを試してみてください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Turn Restriction Shortest Path (TRSP)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>交差点での進入制限付き最短経路探索 (TRSP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tutorial: https://learnosm.org/en/beginner/id-editor/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>チュートリアル: https://learnosm.org/en/beginner/id-editor/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tutorial: https://learnosm.org/en/josm/start-josm/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>チュートリアル: https://learnosm.org/en/josm/start-josm/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tutorial: https://learnosm.org/en/osm-data/osm-in-qgis/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>チュートリアル: https://learnosm.org/en/osm-data/osm-in-qgis/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tutorial: https://learnosm.org/en/osm-data/osm2pgsql/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>チュートリアル: https://learnosm.org/en/osm-data/osm2pgsql/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tutorial: https://learnosm.org/en/osm-data/osmosis/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>チュートリアル: https://learnosm.org/en/osm-data/osmosis/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type :command:`\\d` will list you all available tables:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:command:`\\d` とタイプすると、利用可能なテーブルの一覧が表示されます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UTF Grid Support</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>UTF Grid サポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use gdalinfo to verify data type.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>gdalinfo を使用してデータ型を検証します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>User friendly GUI</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ユーザフレンドリーな GUI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>User guide: https://wiki.openstreetmap.org/wiki/JOSM/Guide</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ユーザーガイド: https://wiki.openstreetmap.org/wiki/JOSM/Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Utilizing CSS3 features to make panning and zooming really smooth</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>パンとズーム動作を真にスムーズにするための、CSS3 機能の利用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vector</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ベクタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vector Fields</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ベクタフィールド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vector features are tagged with names and other attributes.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ベクタフィーチャは、名前と他の属性によってタグ付けされます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vector: WFS, KML, GeoJSON, TopoJSON, GPX, GML, and MapBox vector tiles.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ベクタ: WFS, KML, GeoJSON, TopoJSON, GPX, GML, MapBox ベクトルタイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vectors: polylines, polygons, circles, rectangles, circle markers</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ベクタ: ポリライン、ポリゴン、円、矩形、円マーカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Very nice default design for markers, popups and other map controls</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>非常に美しい、マーカー、ポップアップ、その他地図コントロールのデフォルトのデザイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Viewing the metrics requires an Internet connection and Javascript to be enabled.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>メトリクスを見るためにはインターネット接続と　Javascript　の実行をを許可する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vignettes</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ビネット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Virtual Machine Advantages</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>仮想マシンの利点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visualize basemaps from OSM, Bingsat, Lansat, MapBox satellite, MapQuest Open Aerial or any other WMS sources.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSM、Bingsat、Lansat、MapBox satellite、MapQuest Open Aerial またはその他の WMS ソースをベースマップとして可視化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WFS-T Service</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>WFS-T サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WMS Features:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>WMS機能:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ways: split, combine, reverse, simplify, unglue ways, and more.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ウェイ: 分割、結合、簡素化、ウェイの引き離し、ほか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We add these points to the base map, scaling their size by scaled square root of the population (because that makes a symbol with area proportional to population), set the colour to red and the plotting character to a solid blob:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>これらのポイントをベースマップに追加し、人口のスケーリングされた平方根でサイズをスケーリングします（これにより、シンボルが人口に比例するようになるため）、色を赤に設定し、プロット文字を塗りつぶしたblobに設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Web Mapping Framework</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Web マッピングフレームワーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Web Security Service</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Web セキュリティサービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Web Service</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Web サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Web Services</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Web サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Website: https://josm.openstreetmap.de/</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>**Webサイト:** https://josm.openstreetmap.de/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Website: https://liblas.org</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Webサイト: https://liblas.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Welcome to |osgeolive-version|</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|osgeolive-version| へようこそ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Well Known Text (WKT) and Well Known Binary (WKB)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Well-Known テキスト (WKT) と Well-Known バイナリ (WKB)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What next?</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Which outputs:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>これは以下を出力します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Widespread geo-application integration</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>広範な地理的アプリケーションを統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With :command:`\\q` command leave the PostgreSQL shell.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:command:`\\q` コマンドで PostgreSQL シェルを終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You also can meet us at Slack, Matrix or Glitter.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T104205Z" creationid="smellman" creationdate="20201101T104205Z">
+        <seg>Slack、Matrix、Glitterでも私達に会うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can backup your virtual machine installation.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>インストールした仮想マシンのバックアップが可能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can customize and update the system</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>システムのカスタマイズとアップデートが可能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can install additional software</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>追加のソフトウェアのインストールが可能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can now click on the keyboard icon on the lower desktop menu bar to select the active keyboard layout.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>これで、デスクトップ下部のメニュー上のキーボードアイコンをクリックし、アクティブなキーボードレイアウトを選択することができるようになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can save your work within the VM</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>VM 内に作業状態を保存することが可能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can type epsg:4326 in the box, or go to `http://prj2epsg.org/search &lt;http://prj2epsg.org/search&gt;`_ and paste in the string you see if you click on the link next to "UNKNOWN".</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ボックスにepsg:4326と入力するか、 `http://prj2epsg.org/search &lt;http://prj2epsg.org/search&gt;`_ に移動して、次のリンクをクリックすると表示される文字列を貼り付けます 「不明」に。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use the md5 checksum to verify the image downloaded successfully.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>イメージのダウンロードが成功したかを確認するために、 md5 チェックサムを利用することが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can verify your installation by running this:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>インストールの確認は、以下の実行により可能です:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can view the routes using a graphical tool</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>経路はグラフィカルツールを使用して表示することができ、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can zoom in to the map in three ways:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>マップを拡大するには、次の 3 つの方法があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You might also want to check out the `R-Spatial &lt;https://www.rspatial.org&gt;`_ page.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`R-Spatial &lt;https://www.rspatial.org&gt;`_ ページもチェックしてみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your computer should have at least:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>以下の環境が最低限必須となります:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your version should be 2.1.0 or higher to use examples in this quickstart.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>このクイックスタートのサンプルを使用するためには、バージョンは 2.1.0 かそれ以上である必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoom buttons, Attribution, Layer switcher, Scale</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ームボタン、地図帰属表示、レイヤ切替、縮尺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoom/Panning animation</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ズーム/パン アニメーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`Command line utilities`_ for manipulating LAS data based on `LAStools`_</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`LAStools`_ に基づく LAS データを操作するための `コマンドラインユーティリティ`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`FOSS4G &lt;https://foss4g.org&gt;`_: Annual, international conference for *Free and Open Source Software for Geospatial*, as well as many regional and local `events &lt;https://www.osgeo.org/events&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`FOSS4G &lt;https://foss4g.org&gt;`_: *地理空間のためのフリーでオープンなソフトウェア* のために毎年開催される国際カンファレンスで、多くの地域でも同様の `イベント &lt;https://www.osgeo.org/events&gt;`_. が開催されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`GeoForAll &lt;https://www.osgeo.org/initiatives/geo-for-all&gt;`__: Over 100 educational labs from around the world who work with partners to make geospatial education and opportunities accessible to all.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`GeoForAll &lt;https://www.osgeo.org/initiatives/geo-for-all&gt;`__: 世界中で100を超える教育研究機関が、パートナーとともに、地理空間教育と機会を誰もが利用できるようにしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`Local Chapters &lt;https://www.osgeo.org/local-chapters&gt;`__: Local, regional and language groups support grass roots activities.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`ローカルチャプター &lt;https://www.osgeo.org/local-chapters&gt;`__: 各地・各言語で草の根活動を支援するグループです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`MapServer 7.0 Documentation &lt;../../../mapserver/doc/index.html&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`MapServer 7.0 ドキュメント &lt;../../../mapserver/doc/index.html&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`OSGeoLive &lt;https://live.osgeo.org&gt;`__: A distribution of established geospatial open source software, pre-configured with sample data and quickstarts, ready to try out.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`OSGeoLive &lt;https://live.osgeo.org&gt;`__: 地理空間オープンソースソフトウェア、事前設定のサンプルデータ、クイックスタートによって構成されたディストリビューションで、試す準備ができています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`OpenLayers.org Website &lt;https://openlayers.org/&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`OpenLayers.org Webサイト &lt;https://openlayers.org/&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;52NorthWSS_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`クイックスタート &lt;52NorthWSS_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;Cartaro_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`クイックスタート &lt;Cartaro_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;GeoKettle_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`クイックスタート &lt;GeoKettle_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;GpsDrive_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`クイックスタート &lt;GpsDrive_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;Iris_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`クイックスタート &lt;Iris_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;Kosmo Desktop_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`クイックスタート &lt;Kosmo Desktop_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;MB System_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`クイックスタート &lt;MB System_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;Map Window_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`クイックスタート &lt;Map Window_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;MapFish_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`クイックスタート &lt;MapFish_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;MapGuide_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`クイックスタート &lt;MapGuide_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;Sahana_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`クイックスタート &lt;Sahana_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;TileMill_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`クイックスタート &lt;TileMill_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;TinyOWS_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`クイックスタート &lt;TinyOWS_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;Ushahidi_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`クイックスタート &lt;Ushahidi_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;Viking_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`クイックスタート &lt;Viking_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;WorldWind Java_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`クイックスタート &lt;WorldWind Java_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;osgEarth_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`クイックスタート &lt;osgEarth_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`These programs are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.`</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`これらのプログラムは、有用であることを願って配布されますが、いかなる場合でも無保証ですー特定の目的に対する商品性または適合性も保証するものではありません。`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`local eBook &lt;file:///usr/local/share/doc/Getting_Started_with_Ubuntu_13.10.pdf&gt;`_ and `extended online help &lt;https://help.ubuntu.com&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>`ローカルの eBook &lt;file:///usr/local/share/doc/Getting_Started_with_Ubuntu_13.10.pdf&gt;`_ と `拡張オンラインヘルプ &lt;https://help.ubuntu.com&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>accelerates existing WMS 10 to 100 times</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>既存の WMS を10〜100倍高速化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>add a graticule layer</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>経緯度線レイヤの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>add a layer from a NetCDF file</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>NetCDFファイルからレイヤーを追加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>add a vector and raster data source to GeoServer</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GeoServerにベクターとラスターデータソースを追加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>add attribution lines to the images</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画像に帰属ラインを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>add transparency to opaque layers</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>不透明なレイヤに透明度を追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>add watermark to tiles</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>タイルに透かしを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>and many others</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>その他多数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>and more ...</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>などなど ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>and our final image appears:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>そして最終的な画像が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>any TileCache, Google Maps or Bing compatible source</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>あらゆる TileCache, Google Maps または Bing 互換ソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>apply color to map features using styling</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>スタイルを使用してマップフィーチャーに色を適用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>build layer trees from different sources</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>異なるソースからのレイヤーツリーの構築</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>cache tiles in the filesystem, MBTiles/SQLite, ArcGIS Compact Cache, S3, Redis, Riak, or CouchDB</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ファイルシステム, MBTile/SQLite, ArcGIS コンパクトキャッシュ, S3, Redis, Riak, CouchDB へのタイルのキャッシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>calculate scales and show grid configurations</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>縮尺計算とグリッド設定の表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>cascade ``GetFeatureInfo`` requests with optional XSL transformations</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>任意の XSL 変換を伴う ``GetFeatureInfo`` リクエストへの転送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>change vector and raster symbology</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ベクタとラスタのシンボルの変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>comprehensive searchable toolbox of functions</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>包括的に検索可能な機能のツールボックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>convert WMS versions and image formats</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>WMS バージョンや画像フォーマットの変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>create ``GetMap`` responses from cache with support for free-zooming and any projection (for any Desktop GIS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>(あらゆるデスクトップ GIS のための) 自由なズームや、あらゆる座標系のサポートを伴う、キャッシュからの ``GetMap`` レスポンス生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>database tables: PostgreSQL/PostGIS, Oracle Spatial, MS SQL Spatial, SpatiaLite</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>データベーステーブル: PostgreSQL/PostGIS、Oracle Spatial、MS SQL Spatial、SpatiaLite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>define and run reusable analysis routines by chaining functions using a graphical modelling tool</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>グラフィカルなモデリングツールを使用した、機能を連鎖的に再利用可能な解析ルーチンの定義と実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>digitizing tools for GRASS and shapefile formats</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GRASS とシェープファイルでのデジタイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>do a coordinate transformation</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>座標変換を行う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>edit/view/search attributes</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>属性の編集、表示、検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>efficient seed tool for cache pre-filling that can seed polygon areas  with Shapefiles, GeoJSON, PostGIS or WKT geometries</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>シェープファイル、GeoJSON、PostGIS、WKT ジオメトリのポリゴン領域へのシードが可能な事前タイルキャッシュのための効率的なシードツール。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>export cached tiles to other formats</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>キャッシュタイルの他のフォーマットへのエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>feature labeling</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地物に対するラベル表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fine-grained control over services and layers</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>サービスおよびレイヤを、きめ細やかに管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>flexible and powerful authorization API</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>柔軟で強力な認証 API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>https://help.ubuntu.com/community/Lubuntu/Documentation and https://wiki.lxde.org/en/Main_Page</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>https://help.ubuntu.com/community/Lubuntu/Documentation 及び https://wiki.lxde.org/en/Main_Page</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>hydrologic modeling</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>水文モデリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>i18n code</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>i18n コード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>identify/select features</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地物の選択と特定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>images (.jpg)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画像 (.jpg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>integrate with existing user databases and authentication methods</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>既存のユーザーデータベースや認証方法との統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>limit sources to geometries (from Shapefile for example)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ジオメトリへの (例えばシェープファイルからの) ソースの制限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>load some data from a shapefile and map it</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>シェープファイルからデータを読み込み、マップする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>manipulate image bands to create grayscale- or false-color images</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>グレイスケールもしくはフォールスカラー画像生成のための画像バンド操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>many more</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>さらに多くの機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>map algebra</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地図演算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>merge multiple sources</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>複数のソースのマージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>most vector formats: including ESRI shapefiles, MapInfo, SDTS and GML, OpenStreetMap vectors</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ほとんどのベクタフォーマット: ESRI シェープファイル、MapInfo、SDTS、GML、OpenStreetMap ベクタデータ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>network analysis</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ネットワーク分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>no coordinate system</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>座標系なし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>on the fly projection</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>オンザフライ投影変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>on-the-fly reprojection</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>オンザフライによる再投影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>online spatial data served as OGC-compliant WMS, WMTS, WFS or WCS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OGC 準拠の WMS、WMTS、WFS、WCS などのオンラインで提供される空間データ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pgRouting Quickstart</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>pgRouting クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pgRouting extends the :doc:`PostGIS &lt;postgis_overview&gt;`/`PostgreSQL &lt;https://www.postgresql.org&gt;`_ geospatial database to provide geospatial routing and other network analysis functionality.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>pgRouting は地理空間における経路探索や他のネットワーク解析機能を提供するために :doc:`PostGIS &lt;postgis_overview&gt;`/`PostgreSQL &lt;https://www.postgresql.org&gt;`_ 地理空間データベースを拡張します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pgRouting is an extension that adds routing and other network analysis functionality to :doc:`PostGIS &lt;../overview/postgis_overview&gt;`/`PostgreSQL &lt;https://www.postgresql.org&gt;`_ databases.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>pgRouting は、経路探索と他のネットワーク解析機能を :doc:`PostGIS &lt;../overview/postgis_overview&gt;`/`PostgreSQL &lt;https://www.postgresql.org&gt;`_ データベースに追加する拡張機能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pgRouting is available under the GPLv2 license and is supported by a growing community of individuals, businesses and organizations.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>pgRouting は GPLv2 ライセンスで提供され、個人、企業及び団体からなる、成長中のコミュニティによってサポートされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pgRouting provides functions for:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>pgRouting は以下の機能を提供します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>plot some data points on a map</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地図上にいくつかのデータポイントをプロットする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>print composer</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>プリント・コンポーザー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>raster formats such as digital elevation models, aerial photography or landsat imagery</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>デジタル標高モデル (DEM)、空中写真、ランドサット画像などのラスタフォーマット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>read only (ro),</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>読み取り専用 (ro) 、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>read/write (rw) or</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>読み取り/書き込み (rw) または</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>read/write/update (rw+).</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>読み取り/書き込み/更新 (rw+)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>reproject WMS and tile sources to other SRS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>他の SRS への WMS 及びタイルソースの最投影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>respond to ``GetLegendGraphic`` requests</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>``GetLegendGraphic`` リクエストへの応答</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>restrict access to polygon areas (for WMS and tile services)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ポリゴン領域へのアクセス制限 (WMS とタイルサービス向け)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ro</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Ro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>run multiple WMS services in one MapProxy instance</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>1つの MapProxy インスタンスで複数の WMS サービスを実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>simple but powerful configuration format (YAML/JSON)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>単純ながら強力な設定フォーマット (YAML/JSON)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>stores identical images just once (e.g. ocean tiles)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>同一画像を一度のみ格納 (例えば、海のタイル画像)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>such as :doc:`OpenJump &lt;../overview/openjump_overview&gt;` or the :doc:`QGIS &lt;../overview/qgis_overview&gt;` DbManager extension.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>:doc:`OpenJump &lt;../overview/openjump_overview&gt;` や :doc:`QGIS &lt;../overview/qgis_overview&gt;` DbManager プラグインなどが利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>support for non-image raster data like DEMs</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>DEM のような非画像ラスターデータをサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>sv</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Sv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>terrain analysis</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地形解析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>test the layers in a simple web map</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>シンプルなWebマップでレイヤーをテストする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>the georeferencer plugin</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>幾何補正プラグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>use R for simple arithmetic</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>単純な算術演算には R を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_community| :doc:`istsos_overview` - [:doc:`Quickstart &lt;../quickstart/istsos_quickstart&gt;`] - Sensor Observation Service</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_community| :doc:`istsos_overview` - [:doc:`クイックスタート &lt;../quickstart/istsos_quickstart&gt;`] - Sensor Observation Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_community| :doc:`mapproxy_overview` - [:doc:`Quickstart &lt;../quickstart/mapproxy_quickstart&gt;`] - Proxy WMS &amp; tile services</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_community| :doc:`mapproxy_overview` - [:doc:`クイックスタート &lt;../quickstart/mapproxy_quickstart&gt;`] - プロキシ WMS &amp; タイルサービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_community| :doc:`pgrouting_overview` - [:doc:`Quickstart &lt;../quickstart/pgrouting_quickstart&gt;`] - Routing for PostGIS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_community| :doc:`pgrouting_overview` - [:doc:`クイックスタート &lt;../quickstart/pgrouting_quickstart&gt;`] - PostGISでの経路探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_community| :doc:`proj4_overview` - [:doc:`Quickstart &lt;../quickstart/proj4_quickstart&gt;`] - Coordinate Reference System Libraries</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_community| :doc:`proj4_overview` - [:doc:`クイックスタート &lt;../quickstart/proj4_quickstart&gt;`] - 座標参照系ライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_incubation| :doc:`rasdaman_overview` - [:doc:`Quickstart &lt;../quickstart/rasdaman_quickstart&gt;`] - Multi-Dimensional Raster Database</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_incubation| :doc:`rasdaman_overview` - [:doc:`クイックスタート &lt;../quickstart/rasdaman_quickstart&gt;`] - 多次元ラスタデータベース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_incubation| :doc:`zoo-project_overview` - [:doc:`Quickstart &lt;../quickstart/zoo-project_quickstart&gt;`] - Web Processing Service</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_incubation| :doc:`zoo-project_overview` - [:doc:`クイックスタート &lt;../quickstart/zoo-project_quickstart&gt;`] - Web Processing Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`gdal_overview` - [:doc:`Quickstart &lt;../quickstart/gdal_quickstart&gt;`] - Geospatial Data Translation Tools</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`gdal_overview` - [:doc:`クイックスタート &lt;../quickstart/gdal_quickstart&gt;`] - 地理空間データ変換ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`geomajas_overview` - [:doc:`Quickstart &lt;../quickstart/geomajas_quickstart&gt;`] - Browser GIS Client</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`geomajas_overview` - [:doc:`クイックスタート &lt;../quickstart/geomajas_quickstart&gt;`] - ブラウザ GIS クライアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`geomoose_overview` - [:doc:`Quickstart &lt;../quickstart/geomoose_quickstart&gt;`] - Web GIS Portal</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`geomoose_overview` - [:doc:`クイックスタート &lt;../quickstart/geomoose_quickstart&gt;`] - Web GIS ポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`geonetwork_overview` - [:doc:`Quickstart &lt;../quickstart/geonetwork_quickstart&gt;`] - Metadata Catalogue</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`geonetwork_overview` - [:doc:`クイックスタート &lt;../quickstart/geonetwork_quickstart&gt;`] - メタデータカタログ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`geonode_overview` - [:doc:`Quickstart &lt;../quickstart/geonode_quickstart&gt;`] - Geospatial Content Management System</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`geonode_overview` - [:doc:`クイックスタート &lt;../quickstart/geonode_quickstart&gt;`] - 地理空間コンテンツ管理システム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`geos_overview`  - C/C++ Spatial Library</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`geos_overview`  - C/C++ 空間ライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`geoserver_overview` - [:doc:`Quickstart &lt;../quickstart/geoserver_quickstart&gt;`] - OGC Web Services</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`geoserver_overview` - [:doc:`クイックスタート &lt;../quickstart/geoserver_quickstart&gt;`] - OGC Web サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`geotools_overview`  - Java GIS Toolkit</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`geotools_overview`  - Java GIS ツールキット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`grass_overview` - [:doc:`Quickstart &lt;../quickstart/grass_quickstart&gt;`]</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`grass_overview` - [:doc:`クイックスタート &lt;../quickstart/grass_quickstart&gt;`]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`gvsig_overview` - [:doc:`Quickstart &lt;../quickstart/gvsig_quickstart&gt;`]</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`gvsig_overview` - [:doc:`クイックスタート &lt;../quickstart/gvsig_quickstart&gt;`]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`mapbender_overview` - [:doc:`Quickstart &lt;../quickstart/mapbender_quickstart&gt;`] - Geoportal Framework</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`mapbender_overview` - [:doc:`クイックスタート &lt;../quickstart/mapbender_quickstart&gt;`] - ジオポータルフレームワーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`mapcache_overview` - [:doc:`Quickstart &lt;../quickstart/mapcache_quickstart&gt;`] - OGC Web Services</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`mapcache_overview` - [:doc:`Quickstart &lt;../quickstart/mapcache_quickstart&gt;`] - OGC Webサービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`mapserver_overview` - [:doc:`Quickstart &lt;../quickstart/mapserver_quickstart&gt;`] - OGC Web Services</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`mapserver_overview` - [:doc:`クイックスタート &lt;../quickstart/mapserver_quickstart&gt;`] - OGC Web サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`marble_overview` - [:doc:`Quickstart &lt;../quickstart/marble_quickstart&gt;`] - Virtual Globe</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`marble_overview` - [:doc:`クイックスタート &lt;../quickstart/marble_quickstart&gt;`] - バーチャル地球儀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`openlayers_overview` - [:doc:`Quickstart &lt;../quickstart/openlayers_quickstart&gt;`] - Browser Mapping Library</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`openlayers_overview` - [:doc:`クイックスタート &lt;../quickstart/openlayers_quickstart&gt;`] - ブラウザマッピングライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`otb_overview` - [:doc:`Quickstart &lt;../quickstart/otb_quickstart&gt;`] - Image Processing</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`otb_overview` - [:doc:`クイックスタート &lt;../quickstart/otb_quickstart&gt;`] - 画像処理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`postgis_overview` - [:doc:`Quickstart &lt;../quickstart/postgis_quickstart&gt;`] - Spatial Database</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`postgis_overview` - [:doc:`空間データの格納: &lt;../quickstart/postgis_quickstart&gt;`] - 空間データベース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`pycsw_overview` - [:doc:`Quickstart &lt;../quickstart/pycsw_quickstart&gt;`] - Metadata Catalogue</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`pycsw_overview` - [:doc:`クイックスタート &lt;../quickstart/pycsw_quickstart&gt;`] - メタデータカタログ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`pywps_overview` - [:doc:`Quickstart &lt;../quickstart/pywps_quickstart&gt;`] - Web Processing Service</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`pywps_overview` - [:doc:`クイックスタート &lt;../quickstart/pywps_quickstart&gt;`] - Web Processing Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`qgis_overview` - [:doc:`Quickstart &lt;../quickstart/qgis_quickstart&gt;`]</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|OSGeo_project| :doc:`qgis_overview` - [:doc:`クイックスタート &lt;../quickstart/qgis_quickstart&gt;`]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|WFS| (non-transactional, client/server)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|WFS| (非トランザクショナル、クライアント/サーバ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|WFS| (transactional)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|WFS| (トランザクション)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|WMS| (client/server)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|WMS| (クライアントサーバー)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`52nSOS_overview` - [:doc:`Quickstart &lt;../quickstart/52nSOS_quickstart&gt;`] - Sensor Observation Service</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`52nSOS_overview` - [:doc:`クイックスタート &lt;../quickstart/52nSOS_quickstart&gt;`] - Sensor Observation Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`52nWPS_overview` - [:doc:`Quickstart &lt;../quickstart/52nWPS_quickstart&gt;`] - Web Processing Service</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`52nWPS_overview` - [:doc:`クイックスタート &lt;../quickstart/52nWPS_quickstart&gt;`] - Web Processing Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`R_overview` - [:doc:`Quickstart &lt;../quickstart/R_quickstart&gt;`] - Statistical Programming</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`R_overview` - [:doc:`クイックスタート &lt;../quickstart/R_quickstart&gt;`] - 統計プログラミング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`cesium_overview` - [:doc:`Quickstart &lt;../quickstart/cesium_quickstart&gt;`] - 3D globes and 2D maps in a browser</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`cesium_overview` - [:doc:`クイックスタート &lt;../quickstart/cesium_quickstart&gt;`] - ブラウザ内での3D地球儀と2D地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`eoxserver_overview` - [:doc:`Quickstart &lt;../quickstart/eoxserver_quickstart&gt;`] - Web Coverage Service</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`eoxserver_overview` - [:doc:`クイックスタート &lt;../quickstart/eoxserver_quickstart&gt;`] - Web Coverage Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`gmt_overview` - [:doc:`Quickstart &lt;../quickstart/gmt_quickstart&gt;`] - Cartographic Rendering</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`gmt_overview` - [:doc:`クイックスタート &lt;../quickstart/gmt_quickstart&gt;`] - 地図レンダリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`gpsprune_overview` - [:doc:`Quickstart &lt;../quickstart/gpsprune_quickstart&gt;`] - View, Edit and Convert GPS Tracks</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`gpsprune_overview` - [:doc:`クイックスタート &lt;../quickstart/gpsprune_quickstart&gt;`] - GPS トラックの閲覧、編集、変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`ideditor_overview` - [:doc:`Quickstart &lt;../quickstart/ideditor_quickstart&gt;`] - OpenStreetMap Web Editor</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`ideditor_overview` - [:doc:`クイックスタート &lt;../quickstart/ideditor_quickstart&gt;`] - OpenStreetMap Web エディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`inspire_overview`  - Infrastructure for Spatial Information in Europe</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`inspire_overview`  - ヨーロッパにおける空間情報インフラストラクチャ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`josm_overview` - [:doc:`Quickstart &lt;../quickstart/josm_quickstart&gt;`] - OpenStreetMap Desktop Editor</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`josm_overview` - [:doc:`クイックスタート &lt;../quickstart/josm_quickstart&gt;`] - OpenStreetMap デスクトップエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`jts_overview`  - Java Topology Suite</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`jts_overview`  - Java トポロジスイート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`leaflet_overview` - [:doc:`Quickstart &lt;../quickstart/leaflet_quickstart&gt;`] - Mobile Friendly Interactive Maps</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`leaflet_overview` - [:doc:`クイックスタート &lt;../quickstart/leaflet_quickstart&gt;`] - モバイルフレンドリーなインタラクティブ地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`liblas_overview` - [:doc:`Quickstart &lt;../quickstart/liblas_quickstart&gt;`] - LiDAR Data Access</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`liblas_overview` - [:doc:`クイックスタート &lt;../quickstart/liblas_quickstart&gt;`] - LiDAR データへのアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`mapnik_overview` - [:doc:`Quickstart &lt;../quickstart/mapnik_quickstart&gt;`] - Cartographic Rendering</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`mapnik_overview` - [:doc:`クイックスタート &lt;../quickstart/mapnik_quickstart&gt;`] - 地図レンダリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`mapslicer_overview` - [:doc:`Quickstart &lt;../quickstart/mapslicer_quickstart&gt;`] - Create Map Tiles</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`mapslicer_overview` - [:doc:`クイックスタート &lt;../quickstart/mapslicer_quickstart&gt;`] - 地図タイルの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`naturalearth_overview`  - Global Data Sets</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`naturalearth_overview`  - 全球データセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`ncWMS_overview` - [:doc:`Quickstart &lt;../quickstart/ncWMS_quickstart&gt;`] - Web Map Service</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`ncWMS_overview` - [:doc:`クイックスタート &lt;../quickstart/ncWMS_quickstart&gt;`] - Web Map Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`netcdf_dataset_overview`  - Time series temperature and precipitation</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`netcdf_dataset_overview`  - 時系列の気温と降水量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`opencpn_overview` - [:doc:`Quickstart &lt;../quickstart/opencpn_quickstart&gt;`] - Marine GPS Chartplotter</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`opencpn_overview` - [:doc:`クイックスタート &lt;../quickstart/opencpn_quickstart&gt;`] - GPS を使った海図プロッタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`openjump_overview` - [:doc:`Quickstart &lt;../quickstart/openjump_quickstart&gt;`]</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`openjump_overview` - [:doc:`クイックスタート &lt;../quickstart/openjump_quickstart&gt;`]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`osm_dataset_overview`  - Sample extract from OpenStreetMap</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`osm_dataset_overview`  - OpenStreetMap からのサンプル抽出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`osm_overview` - [:doc:`Quickstart &lt;../quickstart/osm_quickstart&gt;`] - OpenStreetMap Tools</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`osm_overview` - [:doc:`クイックスタート &lt;../quickstart/osm_quickstart&gt;`] - OpenStreetMap のツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`qgis_mapserver_overview` - [:doc:`Quickstart &lt;../quickstart/qgis_mapserver_quickstart&gt;`] - Web Map Service</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`qgis_mapserver_overview` - [:doc:`クイックスタート &lt;../quickstart/qgis_mapserver_quickstart&gt;`] - Web Map Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`saga_overview` - [:doc:`Quickstart &lt;../quickstart/saga_quickstart&gt;`]</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`saga_overview` - [:doc:`クイックスタート &lt;../quickstart/saga_quickstart&gt;`]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`spatialite_overview` - [:doc:`Quickstart &lt;../quickstart/spatialite_quickstart&gt;`] - Lightweight Database</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`spatialite_overview` - [:doc:`クイックスタート &lt;../quickstart/spatialite_quickstart&gt;`] - 軽量データベース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`udig_overview` - [:doc:`Quickstart &lt;../quickstart/udig_quickstart&gt;`]</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`udig_overview` - [:doc:`クイックスタート &lt;../quickstart/udig_quickstart&gt;`]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`zygrib_overview` - [:doc:`Quickstart &lt;../quickstart/zygrib_quickstart&gt;`] - Weather Forecast Maps</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|nologo| :doc:`zygrib_overview` - [:doc:`クイックスタート &lt;../quickstart/zygrib_quickstart&gt;`] - 気象予想図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|osgeolive-hdspace| if you wish to install the operating system.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|osgeolive-hdspace| オペレーティングシステムにインストールする場合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|osgeolive-hdspace| of spare Hard Disk Space</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|osgeolive-hdspace| のハードディスクが必要となります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|osgeolive-version| Contents</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|osgeolive-version| コンテンツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|osgeolive-version| Project Metrics</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>プロジェクトメトリクス</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">overview/cesium_overview.po</prop>
+      <prop type="path"></prop>
+      <tuv lang="en-US">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>主要機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">overview/gdal_overview.po</prop>
+      <prop type="path"></prop>
+      <tuv lang="en-US">
+        <seg>Implemented Standards</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>準拠している標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">overview/geos_overview.po</prop>
+      <prop type="path"></prop>
+      <tuv lang="en-US">
+        <seg>Implemented Standards</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>準拠している標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">overview/geoserver_overview.po</prop>
+      <prop type="path"></prop>
+      <tuv lang="en-US">
+        <seg>Implemented Standards</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>準拠している標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">overview/jts_overview.po</prop>
+      <prop type="path"></prop>
+      <tuv lang="en-US">
+        <seg>Implemented Standards</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>準拠している標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">overview/osm_dataset_overview.po</prop>
+      <prop type="path"></prop>
+      <tuv lang="en-US">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>主な特徴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">overview/osm_overview.po</prop>
+      <prop type="path"></prop>
+      <tuv lang="en-US">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>主な特徴</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
