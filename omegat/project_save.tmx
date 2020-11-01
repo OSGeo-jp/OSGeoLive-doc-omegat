@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All documentation is provided under a `Creative Commons Attribution 3.0 Unported License &lt;https://creativecommons.org/licenses/by/3.0/&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T110546Z" creationid="smellman" creationdate="20201101T110546Z">
+        <seg>すべてのドキュメントは、「Creative Commons Attribution3.0Unported License&lt;https://creativecommons.org/licenses/by/3.0/&gt;」の下で提供されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Android browser 2.2+, 3.1+, 4+</seg>
       </tuv>
       <tuv lang="ja">
@@ -2510,6 +2518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is composed entirely of free software, allowing it to be freely distributed, duplicated and passed around.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T110511Z" creationid="smellman" creationdate="20201101T110511Z">
+        <seg>OSGeoLive は全てフリーソフトで構成されており、自由に複製、配布することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JOSM Quickstart</seg>
       </tuv>
       <tuv lang="ja">
@@ -2682,6 +2698,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Python、Java、C#、Ruby、VB6、Perl からのライブラリアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>License of OSGeo-Live</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T110523Z" creationid="smellman" creationdate="20201101T110523Z">
+        <seg>OSGeo-Liveのライセンス</seg>
       </tuv>
     </tu>
     <tu>
@@ -3130,6 +3154,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T110425Z" creationid="smellman" creationdate="20201101T110425Z">
         <seg>OSGeo-Live は、 Lubuntu をベースとしたブータブルDVD, USBスティックドライブまたは仮想マシン で、様々なオープンソースの地理空間ソフトウェアをインストール無しに試すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeo-Live is composed entirely of free software, free data and free documentation, allowing it to be freely distributed, duplicated and passed around.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T110609Z" creationid="smellman" creationdate="20201101T110609Z">
+        <seg>OSGeo-Liveは、完全にフリーソフトウェア、フリーデータ、フリー文書で構成されており、自由に配布、複製、配布することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4442,6 +4474,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>OSGeo財団</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The OSGeo-Live project is distributed under `LGPL license v2.1 &lt;http://www.gnu.de/documents/lgpl-2.1.en.html&gt;`__.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T110537Z" creationid="smellman" creationdate="20201101T110537Z">
+        <seg>OSGeo-Liveプロジェクトは、`LGPL license v2.1&lt;http://www.gnu.de/documents/lgpl-2.1. en . html&gt;`__のもとで配布されています。</seg>
       </tuv>
     </tu>
     <tu>
