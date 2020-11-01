@@ -1142,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As per the `terms of the Creative Commons license &lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F&gt;`_, if you include OSGeoLive documentation into a new document, you will need to attribute the contributors.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T110855Z" creationid="smellman" creationdate="20201101T110855Z">
+        <seg>`terms of the Creative Commons license&lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work .3F&gt;`_に従って、OSGeoLiveのドキュメントを新しいドキュメントに含める場合は、コントリビュータの属性を指定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At psql prompt type:</seg>
       </tuv>
       <tuv lang="ja">
@@ -1154,6 +1162,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>リスナー関数を地図イベントに対する反応としてアタッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attributing OSGeoLive Documentation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T110741Z" creationid="smellman" creationdate="20201101T110741Z">
+        <seg>OSGeoLiveの文書の属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -1526,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data on OSGeoLive is available under various Open Licences.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T110717Z" creationid="smellman" creationdate="20201101T110717Z">
+        <seg>OSGeoLiveに関するデータは様々なオープン・ライセンスの下で入手可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Defaults for settings are:</seg>
       </tuv>
       <tuv lang="ja">
@@ -1626,6 +1650,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ドキュメンテーション貢献者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Documentation might also be available under other licenses, as listed below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T110658Z" creationid="smellman" creationdate="20201101T110658Z">
+        <seg>ドキュメントは、次に示す他のライセンスでも利用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3606,6 +3638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Project Overviews and Overview Translations, are provided under a `Creative Commons Attribution 3.0 Unported License &lt;https://creativecommons.org/licenses/by/3.0/&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T110638Z" creationid="smellman" creationdate="20201101T110638Z">
+        <seg>プロジェクトの概要と概要の翻訳は、「Creative Commons Attribution3.0Unported License&lt;https://creativecommons.org/licenses/by/3.0/&gt;」の下で提供されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proxy WMS &amp; tile services</seg>
       </tuv>
       <tuv lang="ja">
@@ -3658,6 +3698,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quickstarts and Quickstart Translations, are provided under a `Creative Commons Attribution-ShareAlike 3.0 Unported License &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T110651Z" creationid="smellman" creationdate="20201101T110651Z">
+        <seg>QuickstartsとQuickStart翻訳は、「Creative Commons Attribution-ShareAlike3.0Unported License&lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;」の下で提供されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4126,6 +4174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Software on OSGeoLive is available under various Free and Open Source licenses, as listed in the Project Overviews.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T110705Z" creationid="smellman" creationdate="20201101T110705Z">
+        <seg>OSGeoLiveのソフトウェアは、プロジェクト概要に記載されているように、さまざまなフリーおよびオープンソースライセンスの下で利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sophisticated spatial query support</seg>
       </tuv>
       <tuv lang="ja">
@@ -4530,6 +4586,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>最新の安定版リリースは  |osgeolive-version| でこちらからダウンロード可能です:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The licenses of all the packaged projects are summarized further on this page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T110619Z" creationid="smellman" creationdate="20201101T110619Z">
+        <seg>パッケージ化されたすべてのプロジェクトのライセンスについては、このページで詳しく説明します。</seg>
       </tuv>
     </tu>
     <tu>
