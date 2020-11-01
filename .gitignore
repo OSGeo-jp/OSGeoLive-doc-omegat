@@ -3,6 +3,9 @@
 /omegat/*.txt
 /target/
 
+# Python
+/venv/
+
 # macOS
 .DS_Store
 
