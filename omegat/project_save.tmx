@@ -806,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*The contents of OSGeoLive are provided by the copyright holders and contributors "as is" and any express or implied warranties, including, but not limited to, the implied warranties of the merchantability and fitness for a particular purpose are disclaimed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T111258Z" creationid="smellman" creationdate="20201101T111258Z">
+        <seg>*OSGeoLiveのコンテンツは、著作権保持者および貢献者によって"現状のまま"提供され、商品性および特定目的への適合性の黙示的な保証を含む(ただし、これらに限定されない)、明示的または暗示的ないかなる保証も拒否されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2.5D rendering support</seg>
       </tuv>
       <tuv lang="ja">
@@ -1938,6 +1946,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>十分にカスタマイズ可能なテンプレート駆動の出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further, if Quickstarts are included, which are licenced under the `CC By-SA &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_ license, then the new document will also need to be licenced under the `CC By-SA &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T111029Z" creationid="smellman" creationdate="20201101T111029Z">
+        <seg>さらに、`CC By-SA&lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_ ライセンスの下でライセンスされているQuickstartsが含まれている場合、新しい文書も `CC By-SA&lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_ ライセンスの下でライセンスされる必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3082,6 +3098,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>DVD から直接利用する場合にはハードディスクは使用しません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note that images are not necessarily provided under the same CC license as the text; check with the author.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T111044Z" creationid="smellman" creationdate="20201101T111044Z">
+        <seg>画像は必ずしもテキストと同じCCライセンスで提供されているわけではないことに注意してください。著者に確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5186,6 +5210,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>マップを拡大するには、次の 3 つの方法があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may use attribution text similar to one of the following:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201101T111053Z" creationid="smellman" creationdate="20201101T111053Z">
+        <seg>次のいずれか属性テキストを使用できます:</seg>
       </tuv>
     </tu>
     <tu>
