@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>R</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Statistical Programming</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>統計プログラミング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>R is a powerful, widely used software environment for statistical computing and graphics which excels at analyzing and processing geographic data sets. Geospatial analysis capabilities within R are available in R packages (modules that extend the capabilities of R) that provide access to a huge number of traditional and state of the art algorithms (). R and its packages are able to process point, line, polygon, networks, grid data (etc.).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>R は強力で広く使われている高性能な統計計算および作図環境で、地理的データの解析と演算にも優れています。R による地理空間分析は、R パッケージ（Rの機能を拡張するモジュール）を利用して古典的なものから最新のものまで、膨大なアルゴリズムが利用できます。中には他のオープンソースまたはプロプライエタリ・ソフトウェアよりも早く利用可能になるものもあります。R とそのパッケージではポイント、ライン、ポリゴン、グリッドデータを処理できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Users can accomplish a broad array of tasks such as: image classification, statistical analysis to infer spatial relationships and patterns of features, and others listed in the core features below. The functions available via R complement and advance capabilities found in GIS and image processing software. Using packages for parallelisation users can drastically reduce computational time and increase these capability. Several packages provide connection with other OSGeo tools and software. You can easily plug R with GRASS-GIS, Qgis, postgreSQL and postGIS.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ユーザーは、例えば画像分類、空間的関係を推定するための統計解析、地物の分布パターン、そして以下の基本機能に列挙されるものなど、大規模な配列の処理ができます。R が提供している機能は、GIS や画像処理ソフトに使われている高性能で先進的なものです。 Using packages for parallelisation users can drastically reduce computational time and increase these capability. Several packages provide connection with other OSGeo tools and software. You can easily plug R with GRASS-GIS, Qgis, postgreSQL and postGIS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The core R interface is a command line window which provides excellent flexibility and control but tends to lengthen the time required to become a proficient user when compared to software with a graphical user interface (GUI). Fortunately R is well documented on the web site which eases the learning process. Scripts are often used to automate processing steps but there are GUIs, the leading one being RStudio (https://rstudio.com).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>R の基本インターフェイスはコマンドラインであり、高い自由度と操作性を提供しています。一方で、グラフィカル・ユーザー・インターフェイス (GUI) と比べて習熟するまでに長い時間を必要とする傾向があります。幸いなことに、R についての Web のドキュメントは充実しており、学習プロセスを容易にしています。処理を自動化するためのスクリプトが頻繁に利用されており、また、Rの GUI 環境として主要なものに RStudio  (https://rstudio.com) があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>R is an implementation of the S programming language and there is significant compatibility between R and legacy S and S-Plus code as well as between R and the modern commercial version of S, TIBCO Spotfire S+. This makes it possible to convert different versions of S code to run on R without major code modifications.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>R は S 言語の実装でもあり、R と過去の S、S-Plus コード、
+最近の商用バージョンの S、TIBCO Spotfire S+ には高い互換性があります。この互換性により、異なるバージョンの S のコードを大きく変更することなく R で実行できるよう変換可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>主な機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complete Object Oriented Programming Language designed for Statistics and similar Mathematical intensive applications</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>統計、数学に特化したアプリケーションに向けて設計した完全なオブジェクト指向プログラミング言語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Currently (2017/08/11), the CRAN package repository features 11239 available packages.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>現在 (2017/08/11)、CRAN パッケージリポジトリで 11239 のパッケージが利用可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hundreds of community contributed add-on packages for spatial statistics</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>数百のコミュニティが作成した空間統計計算用のアドオンパッケージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Classes for spatial data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>空間データのためのクラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reading and writing spatial data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>空間データの読み込みと書き出し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Point pattern analysis</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>点パターン分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Geostatistics</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地球統計学</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spatial regression</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>空間回帰分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ecological analysis</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>生態学的分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Powerful raster processing algorithms</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>強力なラスタ処理アルゴリズム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remote sensing</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>リモートセンシング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bayesian spatial analysis</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ベイズ空間解析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>...</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** https://cran.r-project.org</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://cran.r-project.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** GPL</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** GPL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-R|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-R|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Windows, Linux, Mac, Unix</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** Windows, Linux, Mac, Unix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Community Support:** https://cran.r-project.org/web/views/Spatial.html</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**コミュニティサポート:**  https://cran.r-project.org/web/views/Spatial.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**CRAN packages available:** https://cran.r-project.org/web/packages/available_packages_by_name.html</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**CRAN パッケージが利用可能:** https://cran.r-project.org/web/packages/available_packages_by_name.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/R_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/R_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

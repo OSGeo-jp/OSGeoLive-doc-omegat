@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>JOSM</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>JOSM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Desktop Editor for OpenStreetMap data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMap データのためのデスクトップ・エディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>JOSM is a feature rich, extensible, offline desktop editor for OpenStreetMap (OSM) data, written in Java.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>JOSM は、 Java で記述された OpenStreetMap (OSM) データ用の、機能豊富で、拡張可能な、オフラインのデスクトップエディタです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It supports loading stand-alone GPX tracks and GPX track data as well as editing existing nodes (points), ways (lines), metadata tags (name/value information) and relations (ordered sequence of points and lines) from the OSM database. GPX tracks, are usually downloaded in advance from a GPS receiver or from other sources.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スタンドアロン GPX トラックや GPX トラックデータの読み込みと共に、OSM データベースから既存のノード (点) 、ウェイ (ライン) 、メタデータタグ (名前/値の情報) 、リレーション (点と線の順序付けられたシーケンス) の編集をサポートしています。GPX トラックは、通常、GPS 受信機または他のソースから事前にダウンロードされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A number of specialised plugins have been written for JOSM, which are available for download and install.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>JOSM のために記述された特殊なプラグインのいくつかは、ダウンロードしてインストールが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>主な機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Common GIS Desktop Interface tools:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>共通的なGISデスクトップインタフェースツール:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tool bar customization, View control (zoom, pan. etc), styles, icons and layers management.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ツールバーのカスタマイズ、Viewコントロール（ズーム、パン、など）、スタイル、アイコンとレイヤ管理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download and upload OSM vector data.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSMベクトルデータのダウンロードおよびアップロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open local data:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ローカルデータのオープン:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NMEA-0183 files: .nmea, .nme, .nma, .log, .txt</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>NMEA-0183 ファイル: .nmea, .nme, .nma, .log, .txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSM files: .osm, .xlm, .osmbz2, .osmbz</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSM ファイル: .osm, .xlm, .osmbz2, .osmbz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSM change file: .osc, .osc.bz2, .osc.bz, .osc.gz</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSM 変更ファイル: .osc, .osc.bz2, .osc.bz, .osc.gz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>images (.jpg)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>画像 (.jpg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Imagery:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>画像:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Visualize basemaps from OSM, Bingsat, Lansat, MapBox satellite, MapQuest Open Aerial or any other WMS sources.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSM、Bingsat、Lansat、MapBox satellite、MapQuest Open Aerial またはその他の WMS ソースをベースマップとして可視化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Editing Tools:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>編集ツール:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Nodes: merge, join, unglue, distribute, align in circle, align in line, join node to way, and more.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ノード: マージ、結合、引き離し、分割、円の整列、線の整列、ウェイへのノードの結合、ほか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ways: split, combine, reverse, simplify, unglue ways, and more.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ウェイ: 分割、結合、簡素化、ウェイの引き離し、ほか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Areas: join overlapping areas, create multi-polygon, and more.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>エリア: 重複するエリアの結合、マルチポリゴンを作成、ほか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Audio mapping: survey recording management.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>音声マッピング: 調査記録の管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Photo mapping: survey pictures management.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>写真マッピング: 調査写真の管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Plugins: A list of specialized plugins are available for download.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プラグイン：特化したプラグインのリストをダウンロード可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Implemented Standards</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>実装されている標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>JOSM views WMS layers, but uses the `OSM API &lt;https://wiki.openstreetmap.org/wiki/API_v0.6&gt;`_ to communicate with OSM database.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>JOSM は WMS レイヤーを閲覧し、 `OSM API &lt;https://wiki.openstreetmap.org/wiki/API_v0.6&gt;`_ を使用してOSMデータベースと通信します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** https://josm.openstreetmap.de</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://josm.openstreetmap.de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** GNU General Public License (GPL) version 2. Note: JOSM plugins may use other licences.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** GNU General Public License (GPL) version 2. 注: JOSM プラグインは他のライセンスを使用しているかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** r11427</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** r11427</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Windows, Linux, Mac</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** Windows, Linux, Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**API Interfaces:** Java</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**API インターフェイス:** Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/josm_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/josm_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

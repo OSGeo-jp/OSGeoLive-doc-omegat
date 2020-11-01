@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive Sponsors kea</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLiveスポンサー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Open Source Geospatial Foundation (OSGeo) provides the primary development &amp; hosting infrastructure and personnel for the project, and for many of the software teams which contribute to it.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>オープンソース地理空間財団 (OSGeo) は主要な開発やインフラのホスト、プロジェクトの要員を提供し、これに貢献する多くのソフトウェアチームのためにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Information Center for the Environment at the University of California, Davis provides hardware resources and development support to the OSGeoLive project.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カリフォルニア大学デイビス校環境情報センターは、OSGeoLiveプロジェクトへのハードウェア資源と開発支援を提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remote Sensing Laboratory at the National Technical University of Athens, provides hardware resources and development support to the OSGeoLive project.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アテネ工科大学リモートセンシング研究室は、OSGeoLiveプロジェクトへのハードウェア資源と開発支援を提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The DebianGIS and UbuntuGIS projects provide and quality-assure many of the core packages.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>DebianGISとUbuntuGISプロジェクトは、コアパッケージの多くを提供し品質を保証します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Okeanos is the Greek Academic cloud service (IaaS) which is providing virtualized computing resources free of charge to the Greek Universities and public Research Centres. Okeanos is build on top of existing proven open source software (e.g. Synnefo, Google Ganeti). Okeanos is kindly providing Virtual Machines for building the OSGeoLive iso images.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

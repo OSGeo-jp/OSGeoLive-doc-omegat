@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OpenStreetMap</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tools for mapping the world</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>世界をマッピングするためのツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`OpenStreetMap &lt;https://www.openstreetmap.org&gt;`_ is a project aimed squarely at creating and providing free geographic data such as street maps to anyone who wants them. The project was started because most maps you think of as free actually have legal or technical restrictions on their use, holding back people from using them in creative, productive or unexpected ways.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`OpenStreetMap &lt;https://www.openstreetmap.org&gt;`_ は、道路地図のような地理的データを誰でも利用できるために、自由な地理情報データを作成し提供することを目的としたプロジェクトです。自由だと考えられている地図の多くは、実は法的・技術的な制約があり、人々が創造的に、生産的に、あるいは今まで予期しなかった方法でそれを利用することを妨げているため、このプロジェクトは開始されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A number of programs have been included: JOSM, Merkaartor, Osmosis, Osm2pgsql, and a number of small command utilities. In addition recent sample data for the FOSS4G host city and a number of JOSM plugins have been included.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>いくつかのプログラム: JOSM、Merkaartor、Osmosis、Osm2pgsql といくつかの小さなコマンドユーティリティが含まれています。さらに、 FOSS4G 主催都市のための最近のサンプルデータと、いくつかのJOSMプラグインも含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>主な特徴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Global massively crowd-sourced dataset</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>グローバルで大規模なクラウドソース型のデータセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A number of editors to choose from</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>幾つかのエディタを選択できます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A number of renderers to choose from (including custom and online)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>幾つかのレンダラを選択できます (カスタムとオンラインのものを含めて)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Free to use</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>自由に利用できます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Widespread geo-application integration</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>広範な地理的アプリケーションを統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** https://www.openstreetmap.org/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://www.openstreetmap.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licences:**</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OpenStreetMap data: https://www.openstreetmap.org/copyright</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMap データ: https://www.openstreetmap.org/copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>JOSM: GNU General Public License (GPL) version 2</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>JOSM: GNU General Public License (GPL) version 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>JOSM plugins collection: Ranging from Public Domain to GPLv3</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>JOSM プラグインコレクション: Ranging from Public Domain to GPLv3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Merkaartor: GNU General Public License (GPL) version 2</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Merkaartor: GNU General Public License (GPL) version 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Versions:**</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>JOSM: Latest stable snapshot (svn r11427)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>JOSM: 最新の安定版スナップショット (svn r11427)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Merkaartor: 0.18.2</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Merkaartor: 0.18.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Osmosis: 0.44.1</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Osmosis: 0.44.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>osm2pgsql: 0.88.1</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>osm2pgsql: 0.88.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** GNU/Linux, Mac OSX, MS Windows</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** GNU/Linux, Mac OSX, MS Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**API Interfaces (data):** REST (via Xapi), XML</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**API インターフェイス (データ):** REST (Xapi 経由), XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Support:** https://www.openstreetmap.org/help</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** https://www.openstreetmap.org/help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/osm_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/osm_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

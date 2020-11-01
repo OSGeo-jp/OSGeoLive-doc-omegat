@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SpatiaLite</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>SpatiaLite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spatial Database</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>空間データベース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SpatiaLite is an SQLite_ database engine with spatial functions added.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>SpatiaLite は空間を扱う関数を追加した SQLite_ データベースエンジンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SQLite is a Database Management System (DBMS) which is simple, robust, easy to use and very lightweight. Each SQLite database is simply a file. You can freely copy it, compress it, and port it between Windows, Linux, MacOs etc.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>SQLite は動作が軽く、シンプルで堅牢、簡単に使える人気のあるデータベース管理システム (DBMS) です。それぞれのデータベースは一つのファイルに格納されます。コピー、圧縮や、Windows、Linux、MacOS などのOS間の移行も簡単にできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>主な機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The SpatiaLite extension enables SQLite to support spatial data conformant to OGC specifications.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>SQLite で OGC の仕様に準拠した空間データを扱えるようにしたものが SpatiaLite の拡張です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Highlights:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ハイライト:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>User friendly GUI</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ユーザフレンドリーな GUI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Standard WKT and WKB formats</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>標準の WKT 及び WKB フォーマット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SQL spatial functions such as AsText(), GeomFromText(), Area(), PointN() ...</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>SQL 空間関数 - AsText()、GeomFromText()、Area()、PointN() など</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OpenGis spatial analysis functions provided via GEOS, such as Overlaps(), Touches(), Union(), Buffer() ...</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GEOS 経由で提供される OpenGis 空間解析関数 - Overlaps()、Touches()、Union()、Buffer() など</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Full Spatial metadata in line with OpenGis specifications</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenGis の仕様に沿った完全な空間メタデータ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Numerous Geometry notations - EWKT, GML, KML, and GeoJSON</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>多くのジオメトリ記法 - EWKT、GML、KML、GeoJSON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Importing and exporting to shapefiles</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>シェープファイルのインポート、エクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Coordinate reprojection via PROJ.4 and EPSG geodetic parameters dataset</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>PROJ.4 と EPSG 測地系パラメータデータセットを利用した投影法変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Locale charsets via GNU libiconv</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GNU libiconv によるロケール、文字コード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spatial Index based on the SQLite's RTree extension</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>SQLite の RTree 拡張を利用した地理空間インデックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Access shapefiles as VIRTUAL TABLEs, enabling standard SQL queries on external shapefiles, without importing or converting them</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>シェープファイルに VIRTUAL TABLE としてアクセスすると、インポートや変換なしにシェープファイルに SQL クエリを発行可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Access external CSV/TxtTab files or xls spreadsheets as VIRTUAL TABLEs</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>外部の CSV/タブ区切りテキストや xls スプレッドシートに VIRTUAL TABLE としてアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Access XML documents, stored BLOB compressed binary objects, including syntactic "well formed" and XSF schema validation constrained checks. Specific support for ISO-Metadata, SLD/SE styles and SVG graphics.XML documents can be queried using standard XPath syntax.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>XML ドキュメントやストアド BLOB 圧縮バイナリオブジェクトへの、"well formed" 構文、及び XSF スキーマ妥当性検証チェック付きアクセス。特別に ISOメタデータ、SLD/SE スタイル、SVG グラフィックスをサポート。XML ドキュメントは標準の XPath 構文でクエリ可能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Query external WFS servers.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>外部 WFS サーバへのクエリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Parse external DXF files (all versions) and store layers and geometries found.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>外部の DXF ファイル(全バージョン)のパースと、検出したレイヤとジオメトリの格納</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Generate and Export DXF files</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>DXF ファイルの生成とエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** http://www.gaia-gis.it/gaia-sins/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** http://www.gaia-gis.it/gaia-sins/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** MPL v1.1 and GPL v3</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** MPL v1.1 及び GPL v3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-spatialite|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-spatialite|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Linux, Mac, Windows</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** Linux, Mac, Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**API Interfaces:** C</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**API インターフェイス:** C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/spatialite_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/spatialite_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

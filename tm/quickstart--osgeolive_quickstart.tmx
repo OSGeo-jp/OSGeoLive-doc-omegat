@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This Quick Start describes how to start OSGeoLive from a DVD or USB.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ここでは、OSGeoLive を DVD や USB から起動する方法を説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>System Requirements</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>動作環境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Your computer should have at least:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>以下の環境が最低限必須となります:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>RAM: 1 GB.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>RAM: 1 GB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CPU: 1 GHz i686 or compatible (Intel/AMD)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>CPU: 1 GHz i686 互換の CPU (Intel/AMD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hard Disk:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ハードディスク:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>None required if running directly from the DVD</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>DVD から直接利用する場合にはハードディスクは使用しません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|osgeolive-hdspace| if you wish to install the operating system.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|osgeolive-hdspace| オペレーティングシステムにインストールする場合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mouse: a 3-button mouse is useful, especially for Mac trackpad users.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マウス: 特にMac でトラックパッドを使用している方には、3ボタンマウスの利用をお勧めします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Run:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Source an OSGeoLive DVD, ISO available from: [:doc:`Download &lt;../download&gt;`] Put the DVD into your computer's CD drive, then reboot your computer.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive DVD、ISO のソースは以下から利用可能です: [:doc:`Download &lt;../download&gt;`] コンピュータの CD ドライブに DVD を挿入して、コンピュータを再起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If your computer is set to boot from CD (as is often the case) you should boot up into a Lubuntu system, with Geospatial applications installed. Otherwise you'll have to adjust the BIOS boot settings or press the boot menu button just after powering-up.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>コンピューターが CD から起動可能になっていれば、地理空間アプリケーションをインストールした Lubuntu のシステムが起動します。CD から起動可能になっていない場合には BIOS の設定を変更するか、電源投入時に起動メニューボタンを押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sit back while the system boots up.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>システムが起動されるまで待ちます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Try the many applications from the :menuselection:`Geospatial` menu.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:menuselection:`Geospatial` メニューから、たくさんのアプリケーションを試してみてください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Also:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>参照:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Getting started with Lubuntu and the LXDE desktop (which is used by OSGeoLive):</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Lubuntu 及び LXDE デスクトップ入門 (OSGeoLive で使用されています):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>https://help.ubuntu.com/community/Lubuntu/Documentation and https://wiki.lxde.org/en/Main_Page</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>https://help.ubuntu.com/community/Lubuntu/Documentation 及び https://wiki.lxde.org/en/Main_Page</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Getting started with the Ubuntu operating system:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Ubuntu オペレーティングシステム入門:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`local eBook &lt;file:///usr/local/share/doc/Getting_Started_with_Ubuntu_13.10.pdf&gt;`_ and `extended online help &lt;https://help.ubuntu.com&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`ローカルの eBook &lt;file:///usr/local/share/doc/Getting_Started_with_Ubuntu_13.10.pdf&gt;`_ と `拡張オンラインヘルプ &lt;https://help.ubuntu.com&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`virtualization_quickstart`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`virtualization_quickstart`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`osgeolive_install_quickstart`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`osgeolive_install_quickstart`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`usb_quickstart`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`usb_quickstart`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

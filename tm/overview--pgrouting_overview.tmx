@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pgRouting</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>pgRouting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GIS Tools</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GIS ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pgRouting extends the :doc:`PostGIS &lt;postgis_overview&gt;`/`PostgreSQL &lt;https://www.postgresql.org&gt;`_ geospatial database to provide geospatial routing and other network analysis functionality.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>pgRouting は地理空間における経路探索や他のネットワーク解析機能を提供するために :doc:`PostGIS &lt;postgis_overview&gt;`/`PostgreSQL &lt;https://www.postgresql.org&gt;`_ 地理空間データベースを拡張します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advantages of the database routing approach are:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データベース上で経路探索を行う方法の利点には、以下のようなものがあります:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data and attributes can be modified by many clients, like :doc:`QGIS &lt;qgis_overview&gt;` and :doc:`uDig &lt;udig_overview&gt;` through JDBC, ODBC, or directly using Pl/pgSQL. The clients can either be PCs or mobile devices.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データや属性を、多くのクライアント、例えば :doc:`QGIS &lt;qgis_overview&gt;` や :doc:`uDig &lt;udig_overview&gt;` から、JDBC や ODBC、もしくは 直接 PL/pgSQL を発行することで、変更することが可能です。クライアントは PC やモバイル端末でもかまいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data changes can be reflected instantaneously through the routing engine. There is no need for precalculation.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データの変更は、経路探索エンジン経由ですぐに反映させることが可能です。事前の計算処理は必要ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The "cost" parameter can be dynamically calculated through SQL and its value can come from multiple fields or tables.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>"コスト" パラメータは SQL 経由で動的に計算可能で、複数の列やテーブルからの値を使用することも可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pgRouting is available under the GPLv2 license and is supported by a growing community of individuals, businesses and organizations.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>pgRouting は GPLv2 ライセンスで提供され、個人、企業及び団体からなる、成長中のコミュニティによってサポートされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>主な機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pgRouting provides functions for:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>pgRouting は以下の機能を提供します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Pairs Shortest Path, Johnson’s Algorithm</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>全点対間最短経路探索 - ジョンソンのアルゴリズム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Pairs Shortest Path, Floyd-Warshall Algorithm</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>全点対間最短経路探索 - ワーシャル-フロイド法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shortest Path A*</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>A* アルゴリズムによる最短経路探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bi-directional Dijkstra Shortest Path</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>双方向ダイクストラ法による最短経路探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bi-directional A* Shortest Path</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>双方向 A* アルゴリズムによる最短経路探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shortest Path Dijkstra</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ダイクストラ法による最短経路探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Driving Distance</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>到達圏探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>K-Shortest Path, Multiple Alternative Paths</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>K-最短経路探索 - 複数の代替経路探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>K-Dijkstra, One to Many Shortest Path</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>K-ダイクストラ法 - 1対多の最短経路探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Traveling Sales Person</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>巡回セールスマン問題</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Turn Restriction Shortest Path (TRSP)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>交差点での進入制限付き最短経路探索 (TRSP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Learn more about using pgRouting in your application by reading the `documentation &lt;http://docs.pgrouting.org&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>あなたのアプリケーションでの pgRouting の利用について、もっと知りたい場合は、 `documentation &lt;http://docs.pgrouting.org&gt;`_ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** https://pgrouting.org/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://pgrouting.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** GNU General Public License (GPL) version 2</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** GNU General Public License (GPL) version 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-pgrouting|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-pgrouting|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Linux, Windows, Mac</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** Linux, Windows, Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**API Interfaces:** SQL</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**API インターフェイス:** SQL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Commercial Support:** https://pgrouting.org/support.html</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**商用サポート:** https://pgrouting.org/support.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/pgrouting_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/pgrouting_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

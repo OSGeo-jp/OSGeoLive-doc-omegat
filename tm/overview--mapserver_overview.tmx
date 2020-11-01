@@ -1,0 +1,519 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>MapServer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>MapServer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Web Service</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Web サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>MapServer is an `Open Source &lt;https://opensource.org/&gt;`_ geographic data rendering engine written in C. Beyond browsing GIS data, MapServer allows you create "geographic image maps", that is, maps that can direct users to web content. For example, the Minnesota DNR `Recreation Compass &lt;http://www.dnr.state.mn.us/maps/compass.html&gt;`_ provides users with more than 10,000 web pages, reports and maps via a single application. The same application serves as a "map engine" for other portions of the site, providing spatial context where needed.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>MapServer は C 言語で記述された`オープンソース&lt;https://opensource.org/&gt;`_ のジオグラフィックデータレンダリングエンジンです。GISデータのブラウズはもちろん、MapServer はユーザにコンテンツを直接伝えるためのグラフィックイメージ地図を作ることが出来ます。例として、ミネソタ DNR `Recreation Compass &lt;http://www.dnr.state.mn.us/maps/compass.html&gt;`_ は10,000を超えるウェブページ、レポートおよび地図を１つのアプリケーションを通じて提供しています。同様のアプリケーションは空間情報を提供するサイトのマップエンジンとしても利用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>MapServer was originally developed by the University of Minnesota (UMN) ForNet project in cooperation with NASA, and the Minnesota Department of Natural Resources (MNDNR). Later it was hosted by the TerraSIP project, a NASA sponsored project between the UMN and a consortium of land management interests.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>MapServer は NASA、Minnesota Department of Natural Resources (MNDNR) の協力のもとでミネソタ大学 (UMN) ForNet プロジェクトにより当初開発されました。後に UMN と土地管理業者コンソーシアムで作られた、NASA のスポンサーによる TerraSIP プロジェクトが管理することになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>MapServer is now a project of `OSGeo &lt;https://www.osgeo.org&gt;`_, and is maintained by a growing number of developers (nearing 20) from around the world. It is supported by a diverse group of organizations that fund enhancements and maintenance, and administered within OSGeo by the MapServer Project Steering Committee made up of developers and other contributors.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>現在、MapServer は `OSGeo &lt;https://www.osgeo.org&gt;`_ の１プロジェクトとして管理されています。今後増え続ける世界中からの開発者(現在約20人)によって維持管理されています。基金強化およびメインテナンスなどの様々な機関によってサポートされています。開発者とコントリビュータによって構成される MapServer Project Steering Committee として OSGeo のなかで運営されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>主な機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advanced cartographic output</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>高度な地図出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scale dependent feature drawing and application execution</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>縮尺に依存したフィーチャ描画および機能実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Feature labeling including label collision mediation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>重複を回避するフィーチャのラベル付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>TrueType font support for labeling and symbolization</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ラベリングとシンボル描画のための TrueType フォントサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Map element automation (scalebar, reference map, and legend)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マップ要素の自動化 (スケールバー、マップ参照、凡例)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Thematic mapping using logical or regular expression-based classes</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>論理または正規表現ベースのクラスを利用した主題マッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Plugable renderer support with drivers for AGG, Cairo and others</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>AGG、Cairoその他のドライバーでのプラガブルなレンダラーサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Special provisioning for tiled output generation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タイル化された出力生成のための特別なプロビジョニング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mask Layers</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マスクレイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Precise Symbol Placement</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>正確なシンボル配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex Multi Label/Symbol Symbology</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>複雑な複数ラベル・シンボルのシンボロジー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vector Fields</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ベクタフィールド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Label Leader Offsetting</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ラベル先頭のオフセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SVG Symbology</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>SVG シンボロジー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Multiple Font Support</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>複数フォントサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dynamic Heatmaps</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>動的ヒートマップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>UTF Grid Support</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>UTF Grid サポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Layer Compositing</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>レイヤ合成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sophisticated spatial query support</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>洗練された空間クエリサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Identify features by attributes, point, bounding box or geometry across one or more layers</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>属性、ポイント、バウンディングボックス、ジオメトリによる、単一もしくは複数レイヤにまたがるフィーチャの識別</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Support for raster queries</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ラスタクエリのサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fully customizable, template driven output</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>十分にカスタマイズ可能なテンプレート駆動の出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OGR-based query output generation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OGR ベースのクエリ出力生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Support for popular scripting and development environments</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>人気のあるスクリプトや開発環境のサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CGI/FastCGI</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>CGI/FastCGI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PHP, Python, Perl, Ruby, Java, and .NET</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>PHP, Python, Perl, Ruby, Java, .NET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cross-platform support</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クロスプラットフォーム対応</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Linux, Windows, Mac OS X, Solaris, and more</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Linux, Windows, Mac OS X, Solaris その他</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A multitude of raster and vector data formats</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>多数のラスタ・ベクタデータフォーマット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Native support for ESRI shapefiles, PostGIS and Oracle Spatial</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ESRI シェープファイル, PostGIS, Oracle Spatial のネイティブサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Many other formats via GDAL and OGR</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GDAL 及び OGR 経由の、他の多くのフォーマット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Map projection support</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地図投影サポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On-the-fly map projection with 1000s of projections through the Proj.4 library</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Proj.4 ライブラリ使用による、1000を超える投影法でのオンザフライ地図投影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Implemented Standards</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>実装されている標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Support of numerous Open Geospatial Consortium  (OGC) standards</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>多数の Open Geospatial Consortium  (OGC) 標準規格のサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|WMS| (client/server)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|WMS| (クライアントサーバー)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|WFS| (non-transactional, client/server)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|WFS| (非トランザクショナル、クライアント/サーバ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|WMC|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|WMC|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|WCS|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|WCS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|FE|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|FE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|SLD|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|SLD|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|GML|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|GML|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|SOS|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|SOS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OM</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>INSPIRE View Service compliant</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>INSPIRE View Service 準拠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Demo</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>デモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`Itasca &lt;http://localhost/mapserver_demos/itasca/&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`Itasca &lt;http://localhost/mapserver_demos/itasca/&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ドキュメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`MapServer 7.0 Documentation &lt;../../../mapserver/doc/index.html&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`MapServer 7.0 ドキュメント &lt;../../../mapserver/doc/index.html&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** https://mapserver.org</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://mapserver.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** `MIT-style license &lt;https://mapserver.org/copyright.html#license&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** `MIT-style license &lt;https://mapserver.org/copyright.html#license&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-mapserver|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-mapserver|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Windows, Linux, Mac</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** Windows, Linux, Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**API Interfaces:** C, PHP, Python, Perl, Ruby, Java, and .NET</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**API インターフェイス:** C, PHP, Python, Perl, Ruby, Java, .NET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Support:** https://mapserver.org/community/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** https://mapserver.org/community/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/mapserver_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/mapserver_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

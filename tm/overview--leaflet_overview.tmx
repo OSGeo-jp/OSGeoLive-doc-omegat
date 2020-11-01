@@ -1,0 +1,447 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Leaflet</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Leaflet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Browser/Mobile Map Library</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ブラウザ/モバイル向け地図ライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Leaflet is an JavaScript library for browser based, mobile-friendly, interactive maps.  It is light weight, yet has all the features most developers ever need for online maps.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Leaflet はブラウザベースで、モバイルフレンドリーなインタラクティブ地図のための JavaScript ライブラリです。軽量ですが、ほとんどの開発者がかつて必要としていたオンライン地図のための全ての機能を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Leaflet is designed with simplicity, performance and usability in mind. It works efficiently across all major desktop and mobile platforms out of the box,  taking advantage of HTML5 and CSS3 on modern browsers while being accessible on older ones too.  It can be extended with many plugins, has a beautiful, easy to use and well-documented API and a simple, readable source code that is a joy to contribute to.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Leaflet はシンプル、パフォーマンス、ユーザビリティを念頭に設計されています。枠を超えた、全てのメジャーなデスクトップ・モバイルプラットフォーム上で、モダンブラウザ上の HTML5 と CSS3 の優位性を持ちつつ、古いブラウザ上でのアクセスも可能とし、効率的に動作します。多くのプラグインにより拡張することが可能で、見た目も美しく、利用も簡単で、しっかりとドキュメント化された API があり、シンプルで、可読性のあるソースコードで、貢献を楽しめるようにもなっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>主な機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Map Layers</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地図レイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tiles, Markers, Popups, Image overlays, WMS, GeoJSON</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タイル、マーカー、ポップアップ、イメージオーバーレイ、WMS、GeoJSON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vectors: polylines, polygons, circles, rectangles, circle markers</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ベクタ: ポリライン、ポリゴン、円、矩形、円マーカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Layer groups</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>レイヤグループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Customization Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カスタマイズ機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pure CSS3 popups and controls for easy restyling</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>簡単なスタイル変更が可能な、CSS3 完全準拠のポップアップとコントロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Image- and HTML-based markers</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>画像と HTML ベースのマーカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom map layers, controls, projections</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カスタム地図レイヤ、コントロール、投影法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Powerful OOP facilities for extending existing classes</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>既存のクラス拡張のための、強力な OOP(オブジェクト指向プログラミング) の利便性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Interaction and Visual Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>インタラクティブでビジュアルな機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drag panning with inertia</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>イナーシャによるドラッグパン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Keyboard navigation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キーボードナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Multi-touch</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マルチタッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Zoom/Panning animation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ズーム/パン アニメーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Very nice default design for markers, popups and other map controls</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>非常に美しい、マーカー、ポップアップ、その他地図コントロールのデフォルトのデザイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Retina resolution support for tile layers and markers</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タイルレイヤとマーカーのための Retina 解像度のサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Performance Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>パフォーマンス機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hardware acceleration</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ハードウェアアクセラレーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Utilizing CSS3 features to make panning and zooming really smooth</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>パンとズーム動作を真にスムーズにするための、CSS3 機能の利用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Smart polyline/polygon rendering</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スマートなポリライン/ポリゴンのレンダリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Modular design allows including only required features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>必要な機能のみ含めることが可能なモジュール設計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tap delay elimination on mobile devices</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>モバイル端末上でのタップ操作の遅延除去</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Map Controls</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地図コントロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Zoom buttons, Attribution, Layer switcher, Scale</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ームボタン、地図帰属表示、レイヤ切替、縮尺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Desktop Browser Support</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>デスクトップブラウザのサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chrome</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Chrome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Firefox</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Firefox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Safari 5+</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Safari 5+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Opera 12+</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Opera 12+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>IE 7–11</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>IE 7–11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mobile Browser Support</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>モバイルブラウザのサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Safari for iOS 3-7+</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Safari for iOS 3-7+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Android browser 2.2+, 3.1+, 4+</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Android ブラウザ 2.2+, 3.1+, 4+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chrome for Android 4+ and iOS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Chrome for Android 4+ 及び iOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Firefox for Android</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Firefox for Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other webkit-based browsers (webOS, Blackberry 7+, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>その他 webkit ベースのブラウザ (webOS、Blackberry 7+ 等)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>IE10/IE11 for Win8-based devices</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>IE10/IE11 for Win8 ベースの端末</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Misc</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>その他</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Extremely lightweight — around 34 KB of gzipped JS code</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>極めて軽量 — JS コードを gzip 圧縮した状態で 34 KB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No external dependencies</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>外部依存性がない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Keeps your JS environment clean — no global or native prototypes pollution</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>開発者の JS 環境をクリーンに保つ — グローバルもしくはネイティブの prototype を汚染しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** https://leafletjs.com</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://leafletjs.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** BSD</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** BSD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-leaflet|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-leaflet|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Windows, Mac, Linux, Android, iOS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** Windows, Mac, Linux, Android, iOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**API Interfaces:** Javascript</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**API インターフェイス:** Javascript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Support:** https://groups.google.com/forum/#!forum/leaflet-js</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** https://groups.google.com/forum/#!forum/leaflet-js</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/leaflet_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/leaflet_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

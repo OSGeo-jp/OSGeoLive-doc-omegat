@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Web Service</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Web サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>主な機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Implemented Standards</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>実装されている標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Support of numerous Open Geospatial Consortium  (OGC) standards</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>多数の Open Geospatial Consortium  (OGC) 標準規格のサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|WMTS|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|WMTS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>KML SuperOverlays</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>KML SuperOverlays</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Demo</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>デモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ドキュメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** `MIT-style license &lt;https://mapserver.org/copyright.html#license&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** `MIT-style license &lt;https://mapserver.org/copyright.html#license&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Windows, Linux, Mac</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** Windows, Linux, Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Support:** https://mapserver.org/community/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** https://mapserver.org/community/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

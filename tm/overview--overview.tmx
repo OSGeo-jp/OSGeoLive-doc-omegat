@@ -1,0 +1,607 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|osgeolive-version| Contents</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|osgeolive-version| コンテンツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Desktop GIS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>デスクトップ GIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>General GIS viewing, editing, and analysis on the desktop</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>デスクトップ上での一般的な GIS 閲覧、編集、解析:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`qgis_overview` - [:doc:`Quickstart &lt;../quickstart/qgis_quickstart&gt;`]</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`qgis_overview` - [:doc:`クイックスタート &lt;../quickstart/qgis_quickstart&gt;`]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`grass_overview` - [:doc:`Quickstart &lt;../quickstart/grass_quickstart&gt;`]</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`grass_overview` - [:doc:`クイックスタート &lt;../quickstart/grass_quickstart&gt;`]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`gvsig_overview` - [:doc:`Quickstart &lt;../quickstart/gvsig_quickstart&gt;`]</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`gvsig_overview` - [:doc:`クイックスタート &lt;../quickstart/gvsig_quickstart&gt;`]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`udig_overview` - [:doc:`Quickstart &lt;../quickstart/udig_quickstart&gt;`]</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`udig_overview` - [:doc:`クイックスタート &lt;../quickstart/udig_quickstart&gt;`]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`openjump_overview` - [:doc:`Quickstart &lt;../quickstart/openjump_quickstart&gt;`]</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`openjump_overview` - [:doc:`クイックスタート &lt;../quickstart/openjump_quickstart&gt;`]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`saga_overview` - [:doc:`Quickstart &lt;../quickstart/saga_quickstart&gt;`]</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`saga_overview` - [:doc:`クイックスタート &lt;../quickstart/saga_quickstart&gt;`]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Browser Facing GIS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ブラウザ向け GIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>General GIS viewing, editing and analysis in the browser</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ブラウザ内での一般的な GIS 閲覧、編集、解析:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`openlayers_overview` - [:doc:`Quickstart &lt;../quickstart/openlayers_quickstart&gt;`] - Browser Mapping Library</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`openlayers_overview` - [:doc:`クイックスタート &lt;../quickstart/openlayers_quickstart&gt;`] - ブラウザマッピングライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`leaflet_overview` - [:doc:`Quickstart &lt;../quickstart/leaflet_quickstart&gt;`] - Mobile Friendly Interactive Maps</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`leaflet_overview` - [:doc:`クイックスタート &lt;../quickstart/leaflet_quickstart&gt;`] - モバイルフレンドリーなインタラクティブ地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`cesium_overview` - [:doc:`Quickstart &lt;../quickstart/cesium_quickstart&gt;`] - 3D globes and 2D maps in a browser</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`cesium_overview` - [:doc:`クイックスタート &lt;../quickstart/cesium_quickstart&gt;`] - ブラウザ内での3D地球儀と2D地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`geomajas_overview` - [:doc:`Quickstart &lt;../quickstart/geomajas_quickstart&gt;`] - Browser GIS Client</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`geomajas_overview` - [:doc:`クイックスタート &lt;../quickstart/geomajas_quickstart&gt;`] - ブラウザ GIS クライアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`mapbender_overview` - [:doc:`Quickstart &lt;../quickstart/mapbender_quickstart&gt;`] - Geoportal Framework</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`mapbender_overview` - [:doc:`クイックスタート &lt;../quickstart/mapbender_quickstart&gt;`] - ジオポータルフレームワーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`geomoose_overview` - [:doc:`Quickstart &lt;../quickstart/geomoose_quickstart&gt;`] - Web GIS Portal</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`geomoose_overview` - [:doc:`クイックスタート &lt;../quickstart/geomoose_quickstart&gt;`] - Web GIS ポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`geonode_overview` - [:doc:`Quickstart &lt;../quickstart/geonode_quickstart&gt;`] - Geospatial Content Management System</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`geonode_overview` - [:doc:`クイックスタート &lt;../quickstart/geonode_quickstart&gt;`] - 地理空間コンテンツ管理システム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Web Services</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Web サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Publishing spatial data to the internet</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>インターネットで地理空間データ公開:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`geoserver_overview` - [:doc:`Quickstart &lt;../quickstart/geoserver_quickstart&gt;`] - OGC Web Services</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`geoserver_overview` - [:doc:`クイックスタート &lt;../quickstart/geoserver_quickstart&gt;`] - OGC Web サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`mapserver_overview` - [:doc:`Quickstart &lt;../quickstart/mapserver_quickstart&gt;`] - OGC Web Services</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`mapserver_overview` - [:doc:`クイックスタート &lt;../quickstart/mapserver_quickstart&gt;`] - OGC Web サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`mapcache_overview` - [:doc:`Quickstart &lt;../quickstart/mapcache_quickstart&gt;`] - OGC Web Services</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`mapcache_overview` - [:doc:`Quickstart &lt;../quickstart/mapcache_quickstart&gt;`] - OGC Webサービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`ncWMS_overview` - [:doc:`Quickstart &lt;../quickstart/ncWMS_quickstart&gt;`] - Web Map Service</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`ncWMS_overview` - [:doc:`クイックスタート &lt;../quickstart/ncWMS_quickstart&gt;`] - Web Map Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`eoxserver_overview` - [:doc:`Quickstart &lt;../quickstart/eoxserver_quickstart&gt;`] - Web Coverage Service</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`eoxserver_overview` - [:doc:`クイックスタート &lt;../quickstart/eoxserver_quickstart&gt;`] - Web Coverage Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`geonetwork_overview` - [:doc:`Quickstart &lt;../quickstart/geonetwork_quickstart&gt;`] - Metadata Catalogue</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`geonetwork_overview` - [:doc:`クイックスタート &lt;../quickstart/geonetwork_quickstart&gt;`] - メタデータカタログ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`pycsw_overview` - [:doc:`Quickstart &lt;../quickstart/pycsw_quickstart&gt;`] - Metadata Catalogue</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`pycsw_overview` - [:doc:`クイックスタート &lt;../quickstart/pycsw_quickstart&gt;`] - メタデータカタログ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`pywps_overview` - [:doc:`Quickstart &lt;../quickstart/pywps_quickstart&gt;`] - Web Processing Service</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`pywps_overview` - [:doc:`クイックスタート &lt;../quickstart/pywps_quickstart&gt;`] - Web Processing Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_community| :doc:`mapproxy_overview` - [:doc:`Quickstart &lt;../quickstart/mapproxy_quickstart&gt;`] - Proxy WMS &amp; tile services</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_community| :doc:`mapproxy_overview` - [:doc:`クイックスタート &lt;../quickstart/mapproxy_quickstart&gt;`] - プロキシ WMS &amp; タイルサービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`qgis_mapserver_overview` - [:doc:`Quickstart &lt;../quickstart/qgis_mapserver_quickstart&gt;`] - Web Map Service</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`qgis_mapserver_overview` - [:doc:`クイックスタート &lt;../quickstart/qgis_mapserver_quickstart&gt;`] - Web Map Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_community| :doc:`istsos_overview` - [:doc:`Quickstart &lt;../quickstart/istsos_quickstart&gt;`] - Sensor Observation Service</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_community| :doc:`istsos_overview` - [:doc:`クイックスタート &lt;../quickstart/istsos_quickstart&gt;`] - Sensor Observation Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`52nSOS_overview` - [:doc:`Quickstart &lt;../quickstart/52nSOS_quickstart&gt;`] - Sensor Observation Service</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`52nSOS_overview` - [:doc:`クイックスタート &lt;../quickstart/52nSOS_quickstart&gt;`] - Sensor Observation Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`52nWPS_overview` - [:doc:`Quickstart &lt;../quickstart/52nWPS_quickstart&gt;`] - Web Processing Service</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`52nWPS_overview` - [:doc:`クイックスタート &lt;../quickstart/52nWPS_quickstart&gt;`] - Web Processing Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_incubation| :doc:`zoo-project_overview` - [:doc:`Quickstart &lt;../quickstart/zoo-project_quickstart&gt;`] - Web Processing Service</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_incubation| :doc:`zoo-project_overview` - [:doc:`クイックスタート &lt;../quickstart/zoo-project_quickstart&gt;`] - Web Processing Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data Stores</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データストア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Storing spatial data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>空間データの格納:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`postgis_overview` - [:doc:`Quickstart &lt;../quickstart/postgis_quickstart&gt;`] - Spatial Database</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`postgis_overview` - [:doc:`空間データの格納: &lt;../quickstart/postgis_quickstart&gt;`] - 空間データベース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`spatialite_overview` - [:doc:`Quickstart &lt;../quickstart/spatialite_quickstart&gt;`] - Lightweight Database</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`spatialite_overview` - [:doc:`クイックスタート &lt;../quickstart/spatialite_quickstart&gt;`] - 軽量データベース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_incubation| :doc:`rasdaman_overview` - [:doc:`Quickstart &lt;../quickstart/rasdaman_quickstart&gt;`] - Multi-Dimensional Raster Database</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_incubation| :doc:`rasdaman_overview` - [:doc:`クイックスタート &lt;../quickstart/rasdaman_quickstart&gt;`] - 多次元ラスタデータベース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_community| :doc:`pgrouting_overview` - [:doc:`Quickstart &lt;../quickstart/pgrouting_quickstart&gt;`] - Routing for PostGIS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_community| :doc:`pgrouting_overview` - [:doc:`クイックスタート &lt;../quickstart/pgrouting_quickstart&gt;`] - PostGISでの経路探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Navigation and Maps</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ナビゲーションと地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`gpsprune_overview` - [:doc:`Quickstart &lt;../quickstart/gpsprune_quickstart&gt;`] - View, Edit and Convert GPS Tracks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`gpsprune_overview` - [:doc:`クイックスタート &lt;../quickstart/gpsprune_quickstart&gt;`] - GPS トラックの閲覧、編集、変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`marble_overview` - [:doc:`Quickstart &lt;../quickstart/marble_quickstart&gt;`] - Virtual Globe</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`marble_overview` - [:doc:`クイックスタート &lt;../quickstart/marble_quickstart&gt;`] - バーチャル地球儀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`osm_overview` - [:doc:`Quickstart &lt;../quickstart/osm_quickstart&gt;`] - OpenStreetMap Tools</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`osm_overview` - [:doc:`クイックスタート &lt;../quickstart/osm_quickstart&gt;`] - OpenStreetMap のツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`ideditor_overview` - [:doc:`Quickstart &lt;../quickstart/ideditor_quickstart&gt;`] - OpenStreetMap Web Editor</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`ideditor_overview` - [:doc:`クイックスタート &lt;../quickstart/ideditor_quickstart&gt;`] - OpenStreetMap Web エディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`josm_overview` - [:doc:`Quickstart &lt;../quickstart/josm_quickstart&gt;`] - OpenStreetMap Desktop Editor</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`josm_overview` - [:doc:`クイックスタート &lt;../quickstart/josm_quickstart&gt;`] - OpenStreetMap デスクトップエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`opencpn_overview` - [:doc:`Quickstart &lt;../quickstart/opencpn_quickstart&gt;`] - Marine GPS Chartplotter</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`opencpn_overview` - [:doc:`クイックスタート &lt;../quickstart/opencpn_quickstart&gt;`] - GPS を使った海図プロッタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spatial Tools</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>空間ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Specific analysis tools</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>特定解析ツール:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`gmt_overview` - [:doc:`Quickstart &lt;../quickstart/gmt_quickstart&gt;`] - Cartographic Rendering</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`gmt_overview` - [:doc:`クイックスタート &lt;../quickstart/gmt_quickstart&gt;`] - 地図レンダリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`otb_overview` - [:doc:`Quickstart &lt;../quickstart/otb_quickstart&gt;`] - Image Processing</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`otb_overview` - [:doc:`クイックスタート &lt;../quickstart/otb_quickstart&gt;`] - 画像処理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`R_overview` - [:doc:`Quickstart &lt;../quickstart/R_quickstart&gt;`] - Statistical Programming</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`R_overview` - [:doc:`クイックスタート &lt;../quickstart/R_quickstart&gt;`] - 統計プログラミング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`mapnik_overview` - [:doc:`Quickstart &lt;../quickstart/mapnik_quickstart&gt;`] - Cartographic Rendering</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`mapnik_overview` - [:doc:`クイックスタート &lt;../quickstart/mapnik_quickstart&gt;`] - 地図レンダリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`mapslicer_overview` - [:doc:`Quickstart &lt;../quickstart/mapslicer_quickstart&gt;`] - Create Map Tiles</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`mapslicer_overview` - [:doc:`クイックスタート &lt;../quickstart/mapslicer_quickstart&gt;`] - 地図タイルの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Domain Specific GIS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>特定用途向け GIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Applications targeted at a specific domain</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>特定の用途向けアプリケーション:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`zygrib_overview` - [:doc:`Quickstart &lt;../quickstart/zygrib_quickstart&gt;`] - Weather Forecast Maps</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`zygrib_overview` - [:doc:`クイックスタート &lt;../quickstart/zygrib_quickstart&gt;`] - 気象予想図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spatial data sets</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>空間データセット:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`naturalearth_overview`  - Global Data Sets</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`naturalearth_overview`  - 全球データセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`nc_dataset_overview`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`nc_dataset_overview`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`osm_dataset_overview`  - Sample extract from OpenStreetMap</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`osm_dataset_overview`  - OpenStreetMap からのサンプル抽出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`netcdf_dataset_overview`  - Time series temperature and precipitation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`netcdf_dataset_overview`  - 時系列の気温と降水量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Geospatial Libraries</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地理空間ライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`gdal_overview` - [:doc:`Quickstart &lt;../quickstart/gdal_quickstart&gt;`] - Geospatial Data Translation Tools</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`gdal_overview` - [:doc:`クイックスタート &lt;../quickstart/gdal_quickstart&gt;`] - 地理空間データ変換ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`geotools_overview`  - Java GIS Toolkit</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`geotools_overview`  - Java GIS ツールキット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_project| :doc:`geos_overview`  - C/C++ Spatial Library</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_project| :doc:`geos_overview`  - C/C++ 空間ライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|OSGeo_community| :doc:`proj4_overview` - [:doc:`Quickstart &lt;../quickstart/proj4_quickstart&gt;`] - Coordinate Reference System Libraries</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|OSGeo_community| :doc:`proj4_overview` - [:doc:`クイックスタート &lt;../quickstart/proj4_quickstart&gt;`] - 座標参照系ライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`liblas_overview` - [:doc:`Quickstart &lt;../quickstart/liblas_quickstart&gt;`] - LiDAR Data Access</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`liblas_overview` - [:doc:`クイックスタート &lt;../quickstart/liblas_quickstart&gt;`] - LiDAR データへのアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`jts_overview`  - Java Topology Suite</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`jts_overview`  - Java トポロジスイート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Geospatial Standards</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地理空間標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`ogc_overview`  - Open Geospatial Consortium</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`ogc_overview`  - Open Geospatial Consortium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo| :doc:`inspire_overview`  - Infrastructure for Spatial Information in Europe</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo| :doc:`inspire_overview`  - ヨーロッパにおける空間情報インフラストラクチャ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Available in prior OSGeo-Live releases</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>以前の OSGeo-Live リリースで利用可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`../prior_applications`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`../prior_applications`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

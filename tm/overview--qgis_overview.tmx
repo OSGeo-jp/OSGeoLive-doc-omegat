@@ -1,0 +1,367 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>QGIS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>QGIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Desktop GIS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>デスクトップ GIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>QGIS is a user friendly, Open Source, GIS client where you can visualize, manage, edit, analyse data, and compose printable maps. It includes powerful analytical functionality through integration with :doc:`GRASS &lt;grass_overview&gt;`, :doc:`SAGA &lt;saga_overview&gt;`, :doc:`Orfeo Toolbox &lt;otb_overview&gt;` , :doc:`GDAL/OGR &lt;gdal_overview&gt;` and many other algorithm providers. It runs on Linux, Unix, Mac OSX, and Windows and supports numerous vector, raster and database formats and functionality.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>QGIS はユーザフレンドリーなオープンソースの GIS クライアントで、データの可視化、管理、編集、印刷用地図の作成が出来ます。 :doc:`GRASS &lt;grass_overview&gt;`, :doc:`SAGA &lt;saga_overview&gt;`, :doc:`Orfeo Toolbox &lt;otb_overview&gt;` , :doc:`GDAL/OGR &lt;gdal_overview&gt;` などを始めとする多くのアルゴリズムを統合した強力な分析機能を含んでいます。Linux、Unix、Mac OSX、Windows 上で動作し、多くのベクタ、ラスタ、データベースのフォーマットと機能に対応しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>主な機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Friendly graphical user interface:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>使いやすいグラフィカルなユーザーインターフェイス:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>identify/select features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地物の選択と特定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>edit/view/search attributes</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>属性の編集、表示、検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>on the fly projection</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>オンザフライ投影変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>print composer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プリント・コンポーザー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>feature labeling</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地物に対するラベル表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>change vector and raster symbology</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ベクタとラスタのシンボルの変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>add a graticule layer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>経緯度線レイヤの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>and more ...</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>などなど ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Easy Viewing of many Vector and Raster Formats</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>様々なベクタとラスタフォーマットの容易な表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>database tables: PostgreSQL/PostGIS, Oracle Spatial, MS SQL Spatial, SpatiaLite</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データベーステーブル: PostgreSQL/PostGIS、Oracle Spatial、MS SQL Spatial、SpatiaLite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>most vector formats: including ESRI shapefiles, MapInfo, SDTS and GML, OpenStreetMap vectors</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ほとんどのベクタフォーマット: ESRI シェープファイル、MapInfo、SDTS、GML、OpenStreetMap ベクタデータ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>raster formats such as digital elevation models, aerial photography or landsat imagery</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>デジタル標高モデル (DEM)、空中写真、ランドサット画像などのラスタフォーマット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GRASS locations and mapsets</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GRASS のロケーションとマップセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>online spatial data served as OGC-compliant WMS, WMTS, WFS or WCS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OGC 準拠の WMS、WMTS、WFS、WCS などのオンラインで提供される空間データ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.5D rendering support</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>2.5D レンダリングサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create, edit and export spatial data using:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>空間データの作成，編集とエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>digitizing tools for GRASS and shapefile formats</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GRASS とシェープファイルでのデジタイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>the georeferencer plugin</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>幾何補正プラグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GPS tools to import and export GPX format, convert other GPS formats to GPX, or down/upload directly to a GPS unit</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GPX フォーマットのインポートとエクスポート、他の GPS フォーマットの GPX への変換、または GPS 機器からの直接ダウンロード・アップロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Perform spatial analysis using integrated support for SAGA, OTB, MMGIS and GRASS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>統合された SAGA、OTB、MMGIS、GRASS を利用した空間解析の実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>map algebra</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地図演算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>terrain analysis</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地形解析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>hydrologic modeling</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>水文モデリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>network analysis</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ネットワーク分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>comprehensive searchable toolbox of functions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>包括的に検索可能な機能のツールボックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>define and run reusable analysis routines by chaining functions using a graphical modelling tool</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>グラフィカルなモデリングツールを使用した、機能を連鎖的に再利用可能な解析ルーチンの定義と実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>and many others</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>その他多数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Publish to the internet</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>インターネットでの公開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Extensible plugin architecture</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>拡張可能なプラグインアーキテクチャ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Implemented Standards</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>実装されている標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OGC standards compliant (WMS, WFS, ... )</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OGC スタンダードに準拠 (WMS、WFS など)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** https://www.qgis.org/en/site/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://www.qgis.org/en/site/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** GNU General Public License (GPL) version 2</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** GNU General Public License (GPL) version 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-qgis|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-qgis|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Windows, Linux, Mac, Unix</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** Windows, Linux, Mac, Unix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Community Support:** https://qgis.org/en/site/forusers/support.html</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**コミュニティサポート:**  https://qgis.org/en/site/forusers/support.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Commercial Support:** https://qgis.org/en/site/forusers/commercial_support.html</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**商用サポート:** https://qgis.org/en/site/forusers/commercial_support.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/qgis_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/qgis_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

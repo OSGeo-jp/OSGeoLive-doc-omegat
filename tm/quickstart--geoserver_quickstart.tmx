@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoServer Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ジオサーバー クイック スタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoServer is a java application for serving maps (and data) for other clients (such as web browsers) to draw. GeoServer comes with a browser-based management interface and connects to multiple data sources at the back end.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoServerは、他のクライアント（Webブラウザーなど）が描画するマップ（およびデータ）を提供するJavaアプリケーションです。 GeoServerにはブラウザベースの管理インターフェースが付属しており、バックエンドで複数のデータソースに接続します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This Quick Start describes how to:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このクイックスタートでは、次の方法について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>add a vector and raster data source to GeoServer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoServerにベクターとラスターデータソースを追加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>apply color to map features using styling</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スタイルを使用してマップフィーチャーに色を適用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>test the layers in a simple web map</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>シンプルなWebマップでレイヤーをテストする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>learn about clients that can display your maps</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>learn about clients that can display your maps</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>add a layer from a NetCDF file</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>NetCDFファイルからレイヤーを追加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start Geoserver</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Geoserverを起動する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From the Start menu, select |osgeolive-appmenupath-geoserver|. The application will take a few moments to start up and will open a web page at http://localhost:8082/geoserver/web</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スタートメニューから、|osgeolive-appmenupath-geoserver|を選択します。 アプリケーションの起動には少し時間がかかり、http://localhost:8082/geoserver/web でWebページが開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can zoom in to the map in three ways:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マップを拡大するには、次の 3 つの方法があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can type epsg:4326 in the box, or go to `http://prj2epsg.org/search &lt;http://prj2epsg.org/search&gt;`_ and paste in the string you see if you click on the link next to "UNKNOWN".</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ボックスにepsg:4326と入力するか、 `http://prj2epsg.org/search &lt;http://prj2epsg.org/search&gt;`_ に移動して、次のリンクをクリックすると表示される文字列を貼り付けます 「不明」に。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What next?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoServer Project home - http://geoserver.org/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ジオサーバー プロジェクト ホーム - http://geoserver.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoServer User Manual - https://docs.geoserver.org/latest/en/user/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ジオサーバーユーザーマニュアル -  https://docs.geoserver.org/latest/en/user/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoServer Tutorials - https://docs.geoserver.org/latest/en/user/tutorials/index.html</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ジオサーバーのチュートリアル - https://docs.geoserver.org/latest/en/user/tutorials/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoServer Styling Workshop - https://docs.geoserver.org/latest/en/user/styling/workshop/index.html</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ジオサーバースタイリングワークショップ - https://docs.geoserver.org/latest/en/user/styling/workshop/index.html</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

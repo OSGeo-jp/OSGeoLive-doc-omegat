@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GDAL/OGR</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GDAL/OGR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>About</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Geospatial Data Abstraction Library (GDAL/OGR) provides command-line utilities to translate and process a wide range of raster and vector geospatial data formats.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Geospatial Data Abstraction Library (GDAL/OGR) は、多数のラスタ、ベクタ地理空間情報フォーマット変換用のコマンドラインユーティリティです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The utilities are based upon a cross platform, C++ library, accessible via numerous programming languages.  As a library, it presents a single abstract data model to the calling application for all supported formats.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このユーティリティはクロスプラットフォームの C++ ライブラリに基づいて作成しており、数多くのプログラミング言語からアクセスできます。ライブラリとして、サポートしている全てのフォーマットについて、アプリケーション呼び出しのための単一抽象データモデルを提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GDAL/OGR is the most widely used geospatial data access library. It provides the primary data access engine for many applications including MapServer, GRASS, QGIS, and OpenEV. It is also utilized by packages such as OSSIM, Cadcorp SIS, FME, Google Earth, VTP, Thuban, ILWIS, MapGuide and ArcGIS.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GDAL/OGR は地理空間データを扱うライブラリでは最も幅広く利用されています。MapServer、GRASS、QGIS、OpenEV など多数のアプリケーションで主要なデータアクセスエンジンとして使用されています。また、OSSIM、Cadcorp SIS、FME、Google Earth、VTP、Thuban、ILWIS、MapGuide、ArcGISなどのパッケージソフトウェアでも使用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>主な機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Command-line utilities for data translation, image warping, subsetting, and various other common tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データ変換、画像変形、切り出し、その他一般的な操作を行うコマンドラインユーティリティ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Highly efficient raster data access, taking advantage of tiling and overviews</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ラスタデータの高度な操作。タイリング、サムネイル作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Support for large files - larger than 4GB</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>4GBを超えるサイズのファイルをサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Library access from Python, Java, C#, Ruby, VB6 and Perl</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Python、Java、C#、Ruby、VB6、Perl からのライブラリアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Coordinate system engine built on PROJ.4 and OGC Well Known Text coordinate system descriptions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>PROJ.4 及び OGC Well-Known テキスト座標系記述に基づいた座標系エンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Popular Supported Formats</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サポートする主なフォーマット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GDAL supports over 140 raster formats, and OGR over 80 vector formats.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GDAL は140を超えるラスタフォーマットを、また、OGR は80を超えるベクタフォーマットをサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These include:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>これらは以下を含みます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Raster:** GeoTIFF, Erdas Imagine, SDTS, ESRI Grids, ECW, MrSID, JPEG2000, DTED, NITF, GeoPackage and more ...</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ラスタ:** GeoTIFF, Erdas Imagine, SDTS, ESRI Grids, ECW, MrSID, JPEG2000, DTED, NITF, GeoPackage など...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Vector:** GeoPackage, ESRI Shapefile, GML, GeoJSON, AutoCAD DWG, MapInfo (tab and mid/mif), ESRI Coverages, ESRI Personal Geodatabase, DGN, PostGIS, Oracle Spatial, and more ...</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ベクタ:** GeoPackage, ESRI Shapefile, GML, GeoJSON, AutoCAD DWG, MapInfo (tab 及び mid/mif), ESRI Coverages, ESRI Personal Geodatabase, DGN, PostGIS, Oracle Spatial, など...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Implemented Standards</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>準拠している標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The OGR vector data model is compliant with the OGC Simple Features specification.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OGR ベクタデータモデルは OGC Simple Features 仕様に準拠しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** https://gdal.org/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://gdal.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** `X/MIT style Open Source license &lt;https://trac.osgeo.org/gdal/wiki/FAQGeneral#WhatlicensedoesGDALOGRuse&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** `X/MIT style Open Source license &lt;https://trac.osgeo.org/gdal/wiki/FAQGeneral#WhatlicensedoesGDALOGRuse&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-gdal|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-gdal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Windows, Linux, Mac</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** Windows, Linux, Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**API Interfaces:** C, C++, Python, Java, C#, Ruby, VB6 and Perl</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**API インターフェイス:** C, C++, Python, Java, C#, Ruby, VB6 及び Perl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Support:** https://lists.osgeo.org/mailman/listinfo/gdal-dev, https://www.osgeo.org/service-providers/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** https://lists.osgeo.org/mailman/listinfo/gdal-dev, https://www.osgeo.org/service-providers/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/gdal_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/gdal_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

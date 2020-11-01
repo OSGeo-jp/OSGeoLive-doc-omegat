@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All LAS data are in some sort of coordinate system, even if that coordinate system is not described in the LAS file.  For terrestrial LAS data, these coordinate system descriptions often map to coordinate systems described by the `EPSG`_ database.  Another source of information about coordinate systems in https://spatialreference.org.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>その座標系がLASファイルに記述されていない場合でも、すべてのLASデータはある種の座標系にあります。 地上LASデータの場合、これらの座標系の記述は、 `EPSG`_データベースによって記述された座標系にマップされることがよくあります。 https://spatialreference.org の座標系に関する別の情報源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What next?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Website: https://liblas.org</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Webサイト: https://liblas.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Support: https://liblas.org/community.html</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サポート: https://liblas.org/community.html</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

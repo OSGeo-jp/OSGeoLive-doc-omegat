@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Install OSGeoLive to Hard Disk</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ハードディスクに OSGeoLive をインストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive can be installed onto your hard disk, the same way an Ubuntu distribution is installed.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive は Ubuntu をインストールするのと同様にハードディスクにインストールして利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This process can also be run inside a Virtual Machine to create a permanent OSGeoLive Virtual Machine from a DVD or ISO image.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive の DVD や ISO イメージから、永続的な仮想マシンを作成するために、仮想マシン内でインストールすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>System Requirements</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>動作環境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|osgeolive-hdspace| of spare Hard Disk Space</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|osgeolive-hdspace| のハードディスクが必要となります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Install OSGeoLive</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive のインストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select :guilabel:`Install RELEASE`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:guilabel:`Install RELEASE` を選択します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter password="user"</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>パスワード "user" を入力します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select language</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>言語を選択します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select timezone</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タイムゾーンを選択します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select keyboard</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キーボードを選択します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Defaults for settings are:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>デフォルトでは以下のような設定になっています:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Name = "user"</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Name = "user"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>username = "user"</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>username = "user"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>password = "user"</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>password = "user"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>computer name = "osgeolive"</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>computer name = "osgeolive"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Log In automatically</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Log In automatically</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select :guilabel:`Install`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:guilabel:`Install` を選択します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go and get a cup of coffee while installation is in progress.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>インストールが終わるまでしばらくお待ちください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>That is it.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>これで終了です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Installation Tips In case you are installing using a username other than "user", tomcat applications require to have permission to service command as described in https://trac.osgeo.org/osgeo/ticket/1153</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>インストール Tips: ユーザ名に "user" 以外を指定してインストールした場合、Tomcat アプリケーションでは https://trac.osgeo.org/osgeo/ticket/1153 に記載のように、サービスコマンドへの権限が必要となります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Also:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>参照:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`osgeolive_quickstart`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`osgeolive_quickstart`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`virtualization_quickstart`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`virtualization_quickstart`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`usb_quickstart`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`usb_quickstart`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive Internationalisation Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive 国際化 クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Switching Language</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>言語の変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Many common languages are included on OSGeoLive. To switch languages:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive は標準で多くの言語に対応しています。言語を切り替えるには以下を実行します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Log out</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ログアウトします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select user="user", password="user"</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>user="user", password="user" でログインします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select another language from the top panel menu.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>画面上部のパネルメニューから別の言語を選択します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Press the :guilabel:`Log in` button.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:guilabel:`Log in` ボタンをクリックします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Repeat the process if needed or if you wish to change languages again.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ほかの言語に変更したいときは再度言語を選択します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The system menus and many of the applications will now appear in the language chosen. If a specific program continues to display in English, then the program doesn't have a translation available - please consider volunteering to write a translation. Contact the program of interest directly for more information.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>言語を選択すると、システムメニューと多くのアプリケーションが選択した言語で表示されます。特定のアプリケーションで英語が表示され続ける場合は、そのプラグラムで翻訳が利用できない状態になっています - ボランティアでの翻訳参加検討をお願いします。詳しくは興味のあるプログラムまで直接お問い合わせください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For additional languages see :menuselection:`Preferences --&gt; Language Support` from the main menu. (Requires an internet connection).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>その他の言語については、メインメニューから :menuselection:`Preferences --&gt; Language Support` を確認してください。(インターネット接続が必要となります)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Keyboard Support</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キーボードサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>International keyboard support is installed, but you will need to configure the system for your specific keyboard. To change settings open :menuselection:`Preferences --&gt; Keyboard Input Methods` from the main menu and click on the :guilabel:`Input Method` tab. Next click on :guilabel:`Customize active input methods` and then on the :guilabel:`Select an input method` button. Now click the :guilabel:`Add` button on the right to add an additional layout and then :guilabel:`Close` the IBus Preferences window.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>国際化キーボード環境はインストール済みですが、ご利用のキーボードに合わせて設定する必要があります。設定を変更するには、メインメニューから :menuselection:`Preferences --&gt; Keyboard Input Methods` を開き、 :guilabel:`Input Method` タブをクリックします。次に :guilabel:`Customize active input methods` をクリックし、 :guilabel:`Select an input method` ボタンをクリックします。右側の :guilabel:`Add` ボタンをクリックして追加のレイアウトを追加し、 IBus Preferences window の :guilabel:`Close` をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can now click on the keyboard icon on the lower desktop menu bar to select the active keyboard layout.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>これで、デスクトップ下部のメニュー上のキーボードアイコンをクリックし、アクティブなキーボードレイアウトを選択することができるようになりました。</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

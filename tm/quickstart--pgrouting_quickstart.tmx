@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pgRouting Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>pgRouting クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pgRouting is an extension that adds routing and other network analysis functionality to :doc:`PostGIS &lt;../overview/postgis_overview&gt;`/`PostgreSQL &lt;https://www.postgresql.org&gt;`_ databases.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>pgRouting は、経路探索と他のネットワーク解析機能を :doc:`PostGIS &lt;../overview/postgis_overview&gt;`/`PostgreSQL &lt;https://www.postgresql.org&gt;`_ データベースに追加する拡張機能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This Quick Start describes how to enable pgrouting in a PostgreSQL database, load data with osm2pgrouting, and run a basic shortest path query with the sample test data.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このクイックスタートでは、PostgreSQL データベースで pgrouting を有効化し、 osm2pgrouting でデータを読み込み、サンプルのテストデータに対して基本的な最短経路探索クエリを実行する方法について記述しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enabling pgRouting in a database</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データベース内で pgRouting を有効化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In this example we will create a database called `city_routing` and enable pgRouting in the database.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このサンプルでは、 `city_routing` というデータベースを作成し、そのデータベースで pgRouting を有効化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open a :menuselection:`Applications --&gt; Accessories --&gt; Terminal` window and open up psql: (psql is the commandline tool packaged with PostgreSQL)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メニューから :menuselection:`Applications --&gt; Accessories --&gt; Terminal` を開き、 psql を起動します: (psql は、PostgreSQL にパッケージされているコマンドラインツールです)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At psql prompt type:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>psql のプロンプトで、以下をタイプします:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you are running PostgreSQL 9.6+, you can skip the postgis line and do :code:`CREATE EXTENSION pgrouting CASCADE;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>もし PostgreSQL 9.6+ を実行している場合は、 postgis の行はスキップ可能で、 :code:`CREATE EXTENSION pgrouting CASCADE;` を実行します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can verify your installation by running this:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>インストールの確認は、以下の実行により可能です:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Your version should be 2.1.0 or higher to use examples in this quickstart.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このクイックスタートのサンプルを使用するためには、バージョンは 2.1.0 かそれ以上である必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Loading OSM data with osm2pgrouting</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>osm2pgrouting での OSM データの読み込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Output shows:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>出力が表示されます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Output should be something like:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>出力は以下のような形となるはずです:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Running pgRouting</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>pgRouting の実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open a :menuselection:`Applications --&gt; Accessories --&gt; Terminal` window and connect to the ``city_routing`` database:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メニューから、 :menuselection:`Applications --&gt; Accessories --&gt; Terminal` を開き、 ``city_routing`` データベースに接続します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type :command:`\\d` will list you all available tables:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:command:`\\d` とタイプすると、利用可能なテーブルの一覧が表示されます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Run the Dijkstra shortest path function assuming undirected travel:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ダイクストラ法による最短経路探索関数を、無方向での移動を想定して実行します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pgr_dijkstra also supports bigints for nodes and edges, and osm2pgrouting loads the osm_ids as well, so you could alternatively use the osm_id instead of the autogenerated source and targets for nodes. To look up the corresponding osm_ids for our nodes, we would use this query:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>pgr_dijkstra はさらにノードとエッジに bigint 型を使用可能で、osm2pgrouting は同様に osm_id を読み込みますので、自動生成された source と target ノードの代わりに、osm_id を使用できるかもしれません。ノードと一致する osm_id を検索するために、以下のクエリを使用してみます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Which outputs:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>これは以下を出力します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To do so you would change your query to below:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>osm_id を使用するために、以下のクエリに変更してみます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Output is:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>出力は:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Since we are still using autogenerated edge ids, our edge numbers are the same as our previous query, but the nodes are the osm node ids.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>まだ自動生成されたエッジの id を使用しているため、エッジ番号は先述のクエリと同じとなりますが、ノードは osm ノード id となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The benefit of using the osm_ids instead of the auto-generated ids is that your results will be consistent between different databases if they share a common set of osm ids.  Not all pgRouting functions have been changed to use bigints, so osm_ids can't be used with all functions.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>自動生成された id の代わりに osm_id を使用する利点は、異なるデータベース間でも、それらが共通の osm id を共有している場合は結果に一貫性が得られることです。pgRouting の全ての関数が、 bigint 型を使用できるようになっていませんので、 osm_id を全ての関数で使用することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To output the route geometry, link the result with the road geometries:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>経路のジオメトリを出力するために、結果を道路のジオメトリにリンクさせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can view the routes using a graphical tool</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>経路はグラフィカルツールを使用して表示することができ、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>such as :doc:`OpenJump &lt;../overview/openjump_overview&gt;` or the :doc:`QGIS &lt;../overview/qgis_overview&gt;` DbManager extension.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`OpenJump &lt;../overview/openjump_overview&gt;` や :doc:`QGIS &lt;../overview/qgis_overview&gt;` DbManager プラグインなどが利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Run the Dijkstra shortest path function with considering direction.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ダイクストラによる最短経路探索を、方向を考慮して実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the previous examples, we assumed streets have equal cost in both directions. For cases where you have one ways or different speed limits on either lane, cost going on one direction of a road, may be different than going the other way. For these cases you need to add an additional column to your query `reverse_cost`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>先述のサンプルでは、道路がどちらの方向にも同じコストであると想定しました。一方通行や車線のいずれかで異なる速度規制がある場合は、道路の一方向のコストは、他の方向のコストと異なるかもしれません。このような場合、 `reverse_cost` カラムを、クエリに追加する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>With :command:`\\q` command leave the PostgreSQL shell.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:command:`\\q` コマンドで PostgreSQL シェルを終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What next?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**pgRouting Documentation** - Find the most recent documentation in https://docs.pgrouting.org.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**pgRoutingドキュメント**- https://docs.pgrouting.org で最新のドキュメントを検索してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**osm2pgRouting loading data** - https://github.com/pgRouting/osm2pgrouting/wiki/Documentation-for-osm2pgrouting-v2.1</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**osm2pgRouting によるデータ読み込み** - https://github.com/pgRouting/osm2pgrouting/wiki/Documentation-for-osm2pgrouting-v2.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**QGIS pgRouting Layer Plugin** - https://plugins.qgis.org/plugins/pgRoutingLayer/ provides GUI for pgRouting functions and interacts with map so you don't have to write SQL.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**QGIS pgRouting Layer プラグイン** - https://plugins.qgis.org/plugins/pgRoutingLayer/ は pgRouting 関数のための GUI を提供し、地図と連動するため、SQL を書く必要がなくなります。</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

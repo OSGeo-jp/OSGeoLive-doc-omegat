@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SQLite is a Database Management System (DBMS) which is simple, robust, easy to use and very lightweight. Each SQLite database is simply a file. You can freely copy it, compress it, and port it between Windows, Linux, MacOs etc.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>SQLite は動作が軽く、シンプルで堅牢、簡単に使える人気のあるデータベース管理システム (DBMS) です。それぞれのデータベースは一つのファイルに格納されます。コピー、圧縮や、Windows、Linux、MacOS などのOS間の移行も簡単にできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Things to try</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>試してみること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What next?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

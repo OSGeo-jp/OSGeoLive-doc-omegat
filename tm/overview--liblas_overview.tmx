@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>libLAS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>libLAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LiDAR Data Access</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>LiDAR データアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>libLAS is a C/C++ library for reading and writing the very common `LAS` `LiDAR`_ format. The `ASPRS LAS format`_ is a sequential binary format used to store data from LiDAR sensors and by LiDAR processing software for data interchange and archival.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ibLAS は一般的な `LAS` `LiDAR`_ フォーマットを読み書きするための C/C++ ライブラリです。 `ASPRS LAS format`_ は LiDAR センサや LiDAR 処理ソフトウェアがデータの保存、交換，アーカイブに使用しているシーケンシャルなバイナリフォーマットです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LiDAR (Light Detection and Ranging) is a form of high precision range detection much like a radar system that uses laser light as the electromagnetic emission. One of LiDAR systems' products is a "point cloud" data product that can be conceptualized as a series of point measurements representing distance from the sensor to a returned emission.  A common storage format for these point cloud data is ASPRS LAS format.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>LiDAR (ライダー、Light Detection and Ranging) はレーダーと似た高精度な距離検出の一種で、電磁放射線の代わりにレーザー光線を使用するものです。LiDAR システムは "点群" データのように、センサからの距離等を反射波を用いて計測した結果を概念化したデータを出力します。一般的な点群データの保存に使用されているのが ASPRS LAS フォーマットです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>主な機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>C/C++/Python APIs for reading, writing, and manipulating LAS data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>LAS データの読み込み、書き込み、操作に使用する C/C++/Python API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`Command line utilities`_ for manipulating LAS data based on `LAStools`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`LAStools`_ に基づく LAS データを操作するための `コマンドラインユーティリティ`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Coordinate reprojection via `GDAL &lt;https://gdal.org&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`GDAL &lt;https://gdal.org&gt;`_ 経由での投影法の変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** https://liblas.org/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:**  https://liblas.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** BSD</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** BSD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-liblas|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-liblas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Cross Platform C++ -- Mac OS X, Windows (via `OSGeo4W`_), and Linux</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** クロスプラットフォーム C++ -- Mac OS X, Windows (`OSGeo4W`_ 経由), Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**API Interfaces:** C, C++, Python</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**API インターフェイス:** C, C++, Python</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Support:** `Communication and Support &lt;https://liblas.org/community.html&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート：** `コミュニケーションとサポート  &lt;https://liblas.org/community.html&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/liblas_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/liblas_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

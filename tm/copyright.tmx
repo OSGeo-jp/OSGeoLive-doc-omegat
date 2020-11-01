@@ -1,0 +1,2167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Documentation Contributors</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ドキュメンテーション貢献者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The table below credits the contributors for each of the documents on OSGeoLive.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>以下の表は OSGeoLive 上の各ドキュメントの貢献者を記載したものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive Document Contributors</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive ドキュメント貢献者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Document</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ドキュメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Author(s)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>著者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reviewers(s)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>レビュアー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>License(s)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>52nSOS_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>52nSOS_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Eike Hinderk Jürrens (e.h.juerrens@52north.org); Daniel Nüst (d.nuest@52north.org); Simon Jirka (s.jirka@52north.org)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Eike Hinderk Jürrens (e.h.juerrens@52north.org); Daniel Nüst (d.nuest@52north.org); Simon Jirka (s.jirka@52north.org)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Angelos Tzotsos, OSGeo</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Angelos Tzotsos, OSGeo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creative Commons Attribution 3.0 Unported (CC BY 3.0)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Creative Commons Attribution 3.0 Unported (CC BY 3.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>52nWPS_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>52nWPS_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bastian Schaeffer, Kristof Lange, Benjamin Pross</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Bastian Schaeffer, Kristof Lange, Benjamin Pross</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cameron Shorter, Jirotech; Angelos Tzotsos, OSGeo</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Cameron Shorter, Jirotech; Angelos Tzotsos, OSGeo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>52nWSS_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>52nWSS_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Jan Drewnak (j.drewnak@52north.org)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Jan Drewnak (j.drewnak@52north.org)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cameron Shorter, Jirotech</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Cameron Shorter, Jirotech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>R_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>R_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>atlasstyler_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>atlasstyler_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Stefan Tzeggai</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Stefan Tzeggai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cartaro_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>cartaro_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cesium_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>cesium_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Balasubramaniam Natarajan</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Balasubramaniam Natarajan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creative Commons Attribution-ShareAlike 3.0 Unported  (CC BY-SA 3.0)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Creative Commons Attribution-ShareAlike 3.0 Unported  (CC BY-SA 3.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>deegree_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>deegree_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Johannes Wilden, Markus Schneider, Danilo Bretschneider</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Johannes Wilden, Markus Schneider, Danilo Bretschneider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>eoxserver_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>eoxserver_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Stephan Meissl, Stephan Krause</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Stephan Meissl, Stephan Krause</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>gdal_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>gdal_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>geokettle_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>geokettle_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Thierry Badard</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Thierry Badard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>geomajas_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>geomajas_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pieter De Graef</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Pieter De Graef</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>geomoose_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>geomoose_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Bob Basques</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Bob Basques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>geonetwork_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>geonetwork_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>geonode_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>geonode_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Barbara Angerer, Angelos Tzotsos</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Barbara Angerer, Angelos Tzotsos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>geopublisher_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>geopublisher_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>geos_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>geos_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Frank Warmerdam</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Frank Warmerdam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>geoserver_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>geoserver_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ian Turton; Frank Gasdorf</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Ian Turton; Frank Gasdorf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>geotools_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>geotools_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Jody Garnett</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Jody Garnett</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>gmt_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>gmt_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hamish Bowman; Paul Wessel</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Hamish Bowman; Paul Wessel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creative Commons Attribution 3.0 Unported  (CC BY 3.0)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Creative Commons Attribution 3.0 Unported  (CC BY 3.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>gpsdrive_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>gpsdrive_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hamish Bowman</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Hamish Bowman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>gpsprune_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>gpsprune_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>activityworkshop</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>activityworkshop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>grass_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>grass_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cameron Shorter, Jirotech; Markus Neteler; Angelos Tzotsos, OSGeo</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Cameron Shorter, Jirotech; Markus Neteler; Angelos Tzotsos, OSGeo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>gvsig_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>gvsig_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Jorge Sanz; Manuel Madrid; Mario Carrera</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Jorge Sanz; Manuel Madrid; Mario Carrera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>iris_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>iris_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>darkblueb</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>darkblueb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>istsos_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>istsos_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Massimiliano Cannata, Milan Antonovic, SUPSI</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Massimiliano Cannata, Milan Antonovic, SUPSI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>josm_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>josm_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Javier Sanchez, GeoNaTec</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Javier Sanchez, GeoNaTec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>jts_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>jts_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>jupyter_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>jupyter_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>jupyter developers team; Massimo Di Stefano</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>jupyter developers team; Massimo Di Stefano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>kosmo_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>kosmo_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sergio Baños Calvo</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Sergio Baños Calvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>leaflet_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>leaflet_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Johan Van de Wauw; Vladimir Agafonkin</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Johan Van de Wauw; Vladimir Agafonkin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cameron Shorter; Angelos Tzotsos, OSGeo</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Cameron Shorter; Angelos Tzotsos, OSGeo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>liblas_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>liblas_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Howard Butler</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Howard Butler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mapbender_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>mapbender_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Astrid Emde</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Astrid Emde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mapfish_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>mapfish_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Hamish Bowman; Eric Lemoine</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Hamish Bowman; Eric Lemoine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mapguide_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>mapguide_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Trevor Wekel</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Trevor Wekel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mapnik_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>mapnik_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dane Springmeyer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Dane Springmeyer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mapproxy_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>mapproxy_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Oliver Tonnhofer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Oliver Tonnhofer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mapserver_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>mapserver_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alan Boudreault, Steve Lime</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Alan Boudreault, Steve Lime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mapslicer_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>mapslicer_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Klokan Petr Pridal, Angelos Tzotsos</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Klokan Petr Pridal, Angelos Tzotsos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mapwindow_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>mapwindow_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Paul Meems, TopX Geo-ICT The Netherlands (RST conversion)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Paul Meems, TopX Geo-ICT The Netherlands (RST conversion)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>marble_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>marble_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hamish Bowman, Sergey Popov</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Hamish Bowman, Sergey Popov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mb-system_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>mb-system_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creative Commons</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Creative Commons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>naturalearth_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>naturalearth_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ncWMS_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ncWMS_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Guy Griffiths (guy.griffiths@the-iea.org)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Guy Griffiths (guy.griffiths@the-iea.org)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cameron Shorter</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Cameron Shorter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>nc_dataset_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>nc_dataset_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>netcdf_dataset_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>netcdf_dataset_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Brian Hamlin</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Brian Hamlin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>opencpn_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>opencpn_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dave Register; Hamish Bowman</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Dave Register; Hamish Bowman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>openjump_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>openjump_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>openlayers_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>openlayers_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chris Schmidt; OSGeoLive; Roald de Wit; Antonio Santiago; Bart van den Eijnden</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Chris Schmidt; OSGeoLive; Roald de Wit; Antonio Santiago; Bart van den Eijnden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>osgearth_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>osgearth_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pirmin Kalberer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Pirmin Kalberer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>osm_dataset_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>osm_dataset_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>osm_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>osm_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ossim_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ossim_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>otb_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>otb_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pgrouting_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>pgrouting_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Daniel Kastl</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Daniel Kastl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>postgis_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>postgis_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Barry Rowlingson</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Barry Rowlingson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>proj4_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>proj4_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Mike Adair, Julien Moquet</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Mike Adair, Julien Moquet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pycsw_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>pycsw_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Tom Kralidis; Angelos Tzotsos, OSGeo</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Tom Kralidis; Angelos Tzotsos, OSGeo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pywps_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>pywps_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Jachym Cepicky, Jorge de Jesus, Tom Kralidis</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Jachym Cepicky, Jorge de Jesus, Tom Kralidis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>qgis_mapserver_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>qgis_mapserver_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>qgis_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>qgis_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cameron Shorter, Jirotech; Angelos Tzotsos, OSGeo; Nicolas Roelandt</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Cameron Shorter, Jirotech; Angelos Tzotsos, OSGeo; Nicolas Roelandt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>rasdaman_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>rasdaman_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Peter Baumann</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Peter Baumann</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>saga_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>saga_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sahana_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>sahana_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Gavin Treadgold</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Gavin Treadgold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>spatialite_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>spatialite_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>tilemill_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>tilemill_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>tinyows_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>tinyows_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>toc</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>toc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>udig_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>udig_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ushahidi_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ushahidi_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Henry Addo</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Henry Addo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>viking_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>viking_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>webworldwind_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>webworldwind_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Gabriele Prestifilippo</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Gabriele Prestifilippo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>worldwindjava_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>worldwindjava_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>zoo-project_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>zoo-project_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Gérald Fenoy</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Gérald Fenoy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>zygrib_overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>zygrib_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>52nSOS_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>52nSOS_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Simon Jirka (s.jirka@52north.org)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Simon Jirka (s.jirka@52north.org)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>52nWPS_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>52nWPS_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Benjamin Pross; Kristof Lange</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Benjamin Pross; Kristof Lange</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>52nWSS_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>52nWSS_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sergio Baños Calvo; Cameron Shorter, Jirotech</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Sergio Baños Calvo; Cameron Shorter, Jirotech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>R_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>R_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Barry Rowlingson</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Barry Rowlingson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>atlasstyler_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>atlasstyler_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cartaro_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>cartaro_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cesium_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>cesium_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>deegree_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>deegree_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Johannes Wilden, Danilo Bretschneider, Torsten Friebe</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Johannes Wilden, Danilo Bretschneider, Torsten Friebe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>eoxserver_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>eoxserver_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive ; Stephan Meissl; Stephan Krause</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive ; Stephan Meissl; Stephan Krause</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>gdal_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>gdal_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Astrid Emde, material from Frank Warmedam's RasterTutorial</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Astrid Emde, material from Frank Warmedam's RasterTutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>geokettle_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>geokettle_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Jean Mathieu; Thierry Badard</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Jean Mathieu; Thierry Badard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>geomajas_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>geomajas_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>geomoose_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>geomoose_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bob Basques</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Bob Basques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>geonetwork_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>geonetwork_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoNetwork Community</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoNetwork Community</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>geonode_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>geonode_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Barbara Angerer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Barbara Angerer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>geopublisher_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>geopublisher_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>geoserver_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>geoserver_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Angelos Tzotsos; Cameron Shorter</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Angelos Tzotsos; Cameron Shorter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>gmt_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>gmt_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>gpsdrive_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>gpsdrive_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>gpsprune_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>gpsprune_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>grass_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>grass_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Markus Neteler; Angelos Tzotsos, OSGeo</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Markus Neteler; Angelos Tzotsos, OSGeo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>gvsig_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>gvsig_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Simon Cropper</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Simon Cropper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Jorge Sanz; Manuel Madrid; Cameron Shorter, Jirotech</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Jorge Sanz; Manuel Madrid; Cameron Shorter, Jirotech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>internationalisation_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>internationalisation_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Frank Gasdorf; Cameron Shorter</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Frank Gasdorf; Cameron Shorter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>iris_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>iris_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>istsos_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>istsos_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Massimiliano Cannata, Milan Antonovic - SUPSI</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Massimiliano Cannata, Milan Antonovic - SUPSI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>jupyter_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>jupyter_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Massimo Di Stefano</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Massimo Di Stefano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>kosmo_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>kosmo_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>leaflet_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>leaflet_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vladimir Agafonkin, adopted for live dvd by Johan Van de Wauw</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Vladimir Agafonkin, adopted for live dvd by Johan Van de Wauw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>liblas_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>liblas_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mapbender_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>mapbender_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Astrid Emde</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Astrid Emde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mapfish_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>mapfish_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Eric Lemoine, Bruno Binet</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Eric Lemoine, Bruno Binet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mapguide_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>mapguide_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mapnik_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>mapnik_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Dane Springmeyer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Dane Springmeyer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mapproxy_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>mapproxy_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mapserver_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>mapserver_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Alan Boudreault; Steve Lime</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Alan Boudreault; Steve Lime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Stephan Meissl; Cameron Shorter, Jirotech; Angelos Tzotsos, OSGeo</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Stephan Meissl; Cameron Shorter, Jirotech; Angelos Tzotsos, OSGeo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mapslicer_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>mapslicer_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Petr Pridal; Christopher Fleet; Angelos Tzotsos</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Petr Pridal; Christopher Fleet; Angelos Tzotsos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mapwindow_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>mapwindow_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Richard R. Schneider Dept. Biological Sciences University of Alberta Edmonton, Alberta, Canada ; Paul Meems, TopX Geo-ICT The Netherlands (RST conversion)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Richard R. Schneider Dept. Biological Sciences University of Alberta Edmonton, Alberta, Canada ; Paul Meems, TopX Geo-ICT The Netherlands (RST conversion)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>marble_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>marble_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sergey Popov</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Sergey Popov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mb-system_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>mb-system_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ncWMS_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ncWMS_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>opencpn_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>opencpn_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>openjump_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>openjump_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Landon Blake; Stefan Steiniger</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Landon Blake; Stefan Steiniger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>openlayers_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>openlayers_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Antonio Santiago; Chris Schmidt; Bart van den Eijnden</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Antonio Santiago; Chris Schmidt; Bart van den Eijnden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>osgearth_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>osgearth_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Pirmin Kalberer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Pirmin Kalberer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>osgeolive_install_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>osgeolive_install_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Cameron Shorter</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Cameron Shorter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>osgeolive_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>osgeolive_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Cameron Shorter, Hamish Bowman</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Cameron Shorter, Hamish Bowman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>osm_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>osm_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ossim_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ossim_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Massimo Di Stefano; Pirmin Kalberer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Massimo Di Stefano; Pirmin Kalberer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>otb_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>otb_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Manuel Grizonnet</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Manuel Grizonnet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pgrouting_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>pgrouting_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Daniel Kastl; Regina Obe</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Daniel Kastl; Regina Obe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>postgis_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>postgis_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Barry Rowlingson; Astrid Emde; Regina Obe</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Barry Rowlingson; Astrid Emde; Regina Obe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Argyros Argyridis; Cameron Shorter, Jirotech; Nicolas Roelandt; Angelos Tzotsos, OSGeo</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Argyros Argyridis; Cameron Shorter, Jirotech; Nicolas Roelandt; Angelos Tzotsos, OSGeo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>proj4_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>proj4_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Julien Moquet</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Julien Moquet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vicky Vergara</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Vicky Vergara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pycsw_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>pycsw_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pywps_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>pywps_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Jachym Cepicky, Tom Kralidis</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Jachym Cepicky, Tom Kralidis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creative Commons Attribution</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Creative Commons Attribution</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>qgis_mapserver_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>qgis_mapserver_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>qgis_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>qgis_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Pirmin Kalberer; Hamish Bowman; Zoltan Siki</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Pirmin Kalberer; Hamish Bowman; Zoltan Siki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cameron Shorter, Jirotech; Nicolas Roelandt; Angelos Tzotsos, OSGeo</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Cameron Shorter, Jirotech; Nicolas Roelandt; Angelos Tzotsos, OSGeo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>rasdaman_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>rasdaman_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Peter Baumann (p.baumann@jacobs-university.de)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Peter Baumann (p.baumann@jacobs-university.de)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>saga_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>saga_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Johan Van de Wauw; Zoltan Siki</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Johan Van de Wauw; Zoltan Siki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Angelos Tzotsos</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Angelos Tzotsos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sahana_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>sahana_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>spatialite_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>spatialite_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Micha Silver</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Micha Silver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>tilemill_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>tilemill_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Javier Sanchez</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Javier Sanchez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>tinyows_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>tinyows_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>udig_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>udig_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Jody Garnett; Frank Gasdorf</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Jody Garnett; Frank Gasdorf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>usb_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>usb_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive; Alex Mandel, Cameron Shorter</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive; Alex Mandel, Cameron Shorter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ushahidi_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ushahidi_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>viking_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>viking_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>virtualbox_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>virtualbox_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>virtualization_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>virtualization_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cameron Shorter, Jirotech; Stephen Woodbridge</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Cameron Shorter, Jirotech; Stephen Woodbridge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>vmware_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>vmware_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>webworldwind_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>webworldwind_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>worldwindjava_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>worldwindjava_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>zoo-project_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>zoo-project_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Angelos Tzotsos; Cameron Shorter, Jirotech</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Angelos Tzotsos; Cameron Shorter, Jirotech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>zygrib_quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>zygrib_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Disclaimer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>免責事項</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

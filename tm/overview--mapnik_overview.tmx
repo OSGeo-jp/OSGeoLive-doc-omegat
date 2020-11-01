@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapnik</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Mapnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cartographic rendering engine</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地図製作用レンダリングエンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapnik is a toolkit for rendering beautiful maps, with clean, soft feature edges provided by quality anti-aliasing graphics, intelligent label placement, and scalable, SVG symbolisation. Most famously, mapnik is used to render the OpenStreetMap main map layers.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Mapnik は美しい地図を描画するツールキットで、高品質なアンチエイリアス処理によるクリーンでソフトなフィーチャの描画、インテリジェントなラベル配置、SVG によるスケーリング可能なシンボル描画が可能です。Open Street Map のメイン地図レイヤ描画エンジンとして、よく知られています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>主な機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Essentially a collection of geographic objects (map, layer, datasource, feature, geometry),  the library doesn't rely on "windowing systems" and can be deployed in any server environment.  It is intended to play fair in a multi-threaded environment and is aimed primarily,  but not exclusively, at web-based development.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Mapnik はどのようなウィンドウシステムにも依存することなく、ジオグラフィックオブジェクト（マップ、データソース、フィーチャ、ジオメトリ）のコレクションをサーバー環境に展開することができます。Mapnik は Python との親和性が高い Zope3 や Django などを使ったアプリケーション開発を迅速に進めることができます。また、マルチスレッド Web アプリケーション開発のためにスレッドセーフで動作することを目的としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** LGPL (GNU Lesser General Public Licence)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** LGPL (GNU Lesser General Public Licence)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-mapnik|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-mapnik|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Windows, Linux, Mac</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** Windows, Linux, Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**API Interfaces:** C++, Python</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**API インターフェイス:** C++, Python</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/mapnik_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/mapnik_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

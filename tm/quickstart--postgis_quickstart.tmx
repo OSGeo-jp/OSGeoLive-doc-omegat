@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This Quick Start describes how to:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このクイックスタートでは、次の方法について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Things to try</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>試してみること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Try some more spatial functions like ``st_buffer(geom)``, ``st_transform(geom,25831)``, ``st_x(geom)`` - you will find full documentation at http://postgis.net/documentation/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>``st_buffer(geom)``, ``st_transform(geom,25831)``, ``st_x(geom)`` - のようないくつかの空間関数を試してください。完全なドキュメントは http://postgis.net/documentation/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What next?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PostGIS Project home -  http://postgis.net</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>PostGISプロジェクトホーム -  http://postgis.net</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PostGIS Documentation -  http://postgis.net/documentation/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>PostGISドキュメント -  http://postgis.net/documentation/</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

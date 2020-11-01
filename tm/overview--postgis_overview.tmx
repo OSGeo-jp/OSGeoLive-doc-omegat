@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PostGIS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>PostGIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spatial Database</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>空間データベース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PostGIS spatially enables the popular PostgreSQL object-relational database, allowing it to be used as a back-end database for geographic information systems (GIS) and web-mapping applications.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>PostGIS は人気のある PostgreSQL オブジェクト-リレーショナルデータベースを空間対応したもので、地理情報システム (GIS) や Webマッピングアプリケーションのためのバックエンドデータベースとして利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PostGIS is stable, fast, standards compliant, with hundreds of spatial functions and is currently the most widely used Open Source spatial database. PostGIS is used by diverse organisations from around the world, including risk-averse government agencies and organisations storing terabytes of data serving millions of web requests per day.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>PostGIS は安定して、高速で、標準に準拠した多くの機能を持ち、オープンソースの空間データベースの中では、現在、最も幅広く利用されています。PostGIS は世界中の様々な組織で利用されています。その中には危機対策政府機関やテラバイト級データを持ち毎日数百万回のリクエストを処理している機関もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Database administration is available for desktop and the web via pgAdmin, phpPgAdmin, and others. Data import/export can be done by command line tools (shp2pgsql, pgsql2shp, ogr2ogr, dxf2postgis) or from desktop and web GIS clients. These clients can also map and manipulate PostGIS spatial data tables.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データベース管理は、pgAdmin、phpPgAdmin、その他のプログラムを利用して可能です。データのインポート・エクスポートは、コマンドラインツール (shp2pgsql、pgsql2shp、ogr2ogr、dxf2postgis) や、デスクトップ、Web GIS クライアントから可能です。これらのクライアントは PostGIS 空間データテーブルの地図表示や操作を可能とします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>主な機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hundreds of spatial functions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>何百もの空間関数群</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Buffers, unions, overlays, distance and more</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>バッファ、ユニオン、オーバーレイ、ディスタンス など</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ACID transactional integrity</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ACID トランザクションの完全性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>R-Tree spatial index</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>R-Tree 空間インデックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Multi-user support</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マルチユーザのサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Row-level locking</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>行レベルのロッキング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Replication</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>レプリケーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Partitioning</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>パーティショニング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Role-based security</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ロールベースのセキュリティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table-spaces, schemas</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>テーブル空間、スキーマ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Implemented Standards</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>実装されている標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OGC standards compliant (SFSQL)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OGC 標準への準拠 (SFSQL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** http://postgis.net</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** http://postgis.net</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** GNU General Public License (GPL) version 2</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** GNU General Public License (GPL) version 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-postgis|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-postgis|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Windows, Linux, Mac</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** Windows, Linux, Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**API Interfaces:** SQL</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**API インターフェイス:** SQL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Support:** |SUPPORT|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** |SUPPORT|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/postgis_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/postgis_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

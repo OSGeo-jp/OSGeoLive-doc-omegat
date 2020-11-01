@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contact Us</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>問い合わせ先</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive development is coordinated via email and internet chat (IRC) as detailed on the `OSGeoLive Wiki &lt;https://trac.osgeo.org/osgeolive#Communication&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive の開発は、emailやインターネット・チャット (IRC) によってコーディネートされています。詳細については、`OSGeo Wiki &lt;https://trac.osgeo.org/osgeolive#Communication&gt;`_ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Disclaimer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>免責事項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This Live GIS disc and virtual-machine has been put together by members of the OSGeo community to showcase their favourite Free and Open Source (FOSS) geospatial software. We've included a number of non-OSGeo software packages, from both the spatial and non-spatial realms, which we hope you will find to be as useful as we do. The OSGeo Foundation does not recommend or guarantee any associated software, projects, or companies found within.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このLive GISディスクと仮想マシンは、それぞれが推奨する自由でオープンソース(FOSS)な地理空間ソフトウェアを紹介するために、OSGeoコミュニティの成員によってまとめられたものです。この中には、GISにフォーカスしたものとそれ以外にも非OSGeoソフトウェア・パッケージの幾つかも含まれていますが、我々はあなたに、我々と同様に有用であることを発見してほしいと願っています。OSGeo財団は、この中でいかなる関連するソフトウェア、プロジェクト、または企業を推奨または保証するものではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`These programs are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`これらのプログラムは、有用であることを願って配布されますが、いかなる場合でも無保証ですー特定の目的に対する商品性または適合性も保証するものではありません。`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For additional information on the distribution of each program review their license as indicated on the page for each program.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>各プログラムの配布の追加情報については、各プログラムのページで表示されるライセンスを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Community Support</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>コミュニティサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you have any questions, comments, or run into any problems, please drop us a note on `our mailing list &lt;https://lists.osgeo.org/mailman/listinfo/osgeolive&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>質問、コメント、または問題が発生した場合は、`私たちのメーリングリスト &lt;https://lists.osgeo.org/mailman/listinfo/osgeolive&gt;`_ にご連絡ください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Searchable archives of the mailing list are hosted by `Nabble &lt;http://www.osgeo-org.1560.x6.nabble.com/OSGeoLive-f3777350.html&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メーリングリストの記事検索は `Nabble &lt;http://www.osgeo-org.1560.x6.nabble.com/OSGeoLive-f3777350.html&gt;`_ でホストされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>IRC users might try the #osgeolive or #osgeo channel at Freenode.net for real-time assistance. You also can meet us at Slack, Matrix or Glitter.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>IRC ユーザーは、 Freenode.net の #osgeolive または #osgeo チャンネル でのリアルタイムによる支援をお試しください。 Slack、Matrix、もしくは Glitter でも私たちと会うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A wealth of information is available on our `Wiki site &lt;https://trac.osgeo.org/osgeolive/wiki&gt;`_, and a `bug and wish tracking system &lt;https://trac.osgeo.org/osgeolive/report/10&gt;`_ is also available.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>豊富な情報は、私達の `Wiki サイト &lt;https://trac.osgeo.org/osgeolive/wiki&gt;`_ や、 `バグ・要望トラッキングシステム &lt;https://trac.osgeo.org/osgeolive/report/10&gt;`_ をごらんください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Stay tuned and follow OSGeoLive on Twitter `@osgeolive &lt;https://mobile.twitter.com/osgeolive&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLiveのツイッターアカウントはこちらです．`@osgeolive &lt;https://mobile.twitter.com/osgeolive&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Commercial Support</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>商用サポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Most packaged applications have both community and commercial support offerings for them. Refer to specific application descriptions linked from the :doc:`Contents &lt;./overview/overview&gt;` for details.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>同梱されているほとんどのアプリケーションは、コミュニティと商用サポートの両方を提供しています。その詳細については、 :doc:`Contents &lt;./overview/overview&gt;` からリンクされている個々のアプリケーションの説明を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In addition, there are a large number of consultancy firms world wide who provide support for OSGeo member projects. See https://www.osgeo.org/service-providers/ for one that meets your needs.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>加えて、世界的にコンサルタント企業が多数あり、 OSGeo メンバーのプロジェクトに対して支援を提供しています。あなたのニーズを満たすために、 https://www.osgeo.org/service-providers/  をご覧ください。 </seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

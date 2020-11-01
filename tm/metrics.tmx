@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|osgeolive-version| Project Metrics</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトメトリクス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Metrics provided by `OpenHUB &lt;https://www.openhub.net/&gt;`_ which are derived from the projects' code repositories. Note these metrics have known deficiencies (such as caused by repositories moving), and only provide partial indications about the projects' development. Lack of change in smaller, concise packages and libraries may simply reflect a level of maturity and completeness.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトのコードリポジトリ `OpenHUB &lt;https://www.openhub.net/&gt;`_ によるメトリクス。これらのメトリクスにはいくつかの欠点 (リポジトリの移動などによる) があることに注意する必要があります。また、プロジェクト開発については断片的な情報しかありません。一部の小さな変更を除けば、パッケージとライブラリは完成度の高いレベルにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Viewing the metrics requires an Internet connection and Javascript to be enabled.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メトリクスを見るためにはインターネット接続と　Javascript　の実行をを許可する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Desktop GIS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>デスクトップ GIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Browser Facing GIS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ブラウザ向け GIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Web Services</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Web サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data Stores</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データストア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Navigation and Maps</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ナビゲーションと地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spatial Tools</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>空間ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Domain Specific GIS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>特定用途向け GIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Geospatial Libraries</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地理空間ライブラリ</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

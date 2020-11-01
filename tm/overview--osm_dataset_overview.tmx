@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OpenStreetMap</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Map Data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地図データ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OpenStreetMap is a crowd sourced map of the world which has grown to become one of the most detailed sources of local-scale map data available. Source map data is created and maintained by thousands of volunteers from around the world, using processes similar to the maintaining of the wikipedia encyclopedia.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapは、世界のクラウドソースによる地図で、利用可能なローカルスケールでの地図データうち最も詳細なソースの一つになりました。ソースの地図データは、Wikipediaの百科事典の維持と同様のプロセスで、世界中の数千人のボランティアによって作成・維持されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The most visible aspect to OSM is the online web-tile interface from https://www.openstreetmap.org, but the maps can also be viewed, imported, or edited in many applications such as :doc:`QGIS &lt;qgis_overview&gt;` , :doc:`OpenLayers &lt;openlayers_overview&gt;`, ArcGIS and dedicated OSM applications.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSMを最も目にする光景は、 https://www.openstreetmap.org のオンライン上でのウェブタイルによるインターフェイスです。しかしマップは、 :doc:`QGIS &lt;qgis_overview&gt;` や :doc:`OpenLayers &lt;openlayers_overview&gt;`, ArcGIS および 専用の OSM アプリケーションなどの、多くのアプリケーションで閲覧、インポート、編集が可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The heart of the project is the underlying data which is open for all to edit, view, or create custom rendered maps. Fundamentally OSM's focus is on the data, the rich maps simply fall out of this.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトの中心はデータの基礎になることで、すべての人がカスタム描画された地図の編集、閲覧、作成が可能となるようオープンに保たれています。基本的にOSMの焦点はデータにあり、リッチな地図は、これから単純に溢れたものとなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The OSGeoLive distribution includes a city sized extract of OSM data which is used for examples by some applications.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive のディストリビューションには、いくつかのアプリケーションで例に使用されているOSMデータの都市サイズに抽出されたデータが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>主な特徴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vector features are tagged with names and other attributes.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ベクタフィーチャは、名前と他の属性によってタグ付けされます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Extract local subsets of the data.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データのローカルなサブセットを抽出します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data is stored as latitude-longitude WGS84 nodes, strings of nodes, and meta-features allowing for point, polyline, area coverage and relations.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データは、緯度・経度 WGS84 のノード、ノードの文字列、そしてポイント・ポリライン・エリアカバレッジを可能にするメタフィーチャとして格納されています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rich attribute tagging, often far more detailed than any other source.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>他のソースよりもはるかに詳しい豊富な属性タグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A global repository of local knowledge.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ローカルな知識の地球規模のリポジトリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** https://www.openstreetmap.org/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://www.openstreetmap.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Data Version:** Live database extract</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**データバージョン:** Live database extract</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Data format:** XML</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**データフォーマット:** XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Spatial coordinate system:** Latitude-Longitude WGS84</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**空間参照系:** 緯度経度 WGS84</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Support:** https://www.openstreetmap.org/help</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** https://www.openstreetmap.org/help</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

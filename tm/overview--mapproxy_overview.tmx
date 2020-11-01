@@ -1,0 +1,519 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>MapProxy</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>MapProxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Proxy WMS &amp; tile services</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Proxy WMS &amp; タイル サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>MapProxy speeds up mapping applications by pre-rendering and integrating maps from multiple sources and storing in a local cache. Layers can be made transparent, projections can be changed, multiple map layers can be transformed into one, watermarks can be added, and more...</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>MapProxy は、複数のソースからなる地図を予めレンダリングし、ローカルなキャッシュに格納することによってマッピングアプリケーションを高速化します。レイヤの透化、測地系の変更、複数のレイヤ統合、電子透かしの追加など、多くのことを可能にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>MapProxy is flexible and scales from simple to complex use-cases: from a single tile cache for an :doc:`OpenLayers &lt;openlayers_overview&gt;` web client to a central SDI node that combines, unifies and accelerates dozens of distributed WMS services.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>MapProxy は柔軟で、単純なものから複雑なユースケースまでスケールします: 例えば、 :doc:`OpenLayers &lt;openlayers_overview&gt;` Web クライアントのための単一のタイルキャッシュから、数十の分散型 WMS サービスの結合、統合、高速化を行う、中央の空間データインフラストラクチャ SDI ノードまでスケールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>主な機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Input sources:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>入力ソース:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>WMS 1.0.0–1.3.0 (:doc:`MapServer &lt;mapserver_overview&gt;`, :doc:`GeoServer &lt;geoserver_overview&gt;`, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>WMS 1.0.0–1.3.0 (:doc:`MapServer &lt;mapserver_overview&gt;`, :doc:`GeoServer &lt;geoserver_overview&gt;`, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>TMS, WMTS (TileCache, GeoWebcache, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>TMS, WMTS (TileCache, GeoWebcache など)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapserver and Mapnik (directly, without WMS)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Mapserver 及び Mapnik (WMS 無しで直接的に)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>any TileCache, Google Maps or Bing compatible source</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>あらゆる TileCache, Google Maps または Bing 互換ソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ArcGIS REST servers and compact cache files</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ArcGIS REST サーバと、コンパクトキャッシュファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Services:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サービス:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>WMS (1.0.0-1.3.0)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>WMS (1.0.0-1.3.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>TMS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>TMS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>WMTS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>WMTS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>KML SuperOverlays</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>KML SuperOverlays</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tile cache:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タイルキャッシュ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>stores identical images just once (e.g. ocean tiles)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>同一画像を一度のみ格納 (例えば、海のタイル画像)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cache tiles in the filesystem, MBTiles/SQLite, ArcGIS Compact Cache, S3, Redis, Riak, or CouchDB</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ファイルシステム, MBTile/SQLite, ArcGIS コンパクトキャッシュ, S3, Redis, Riak, CouchDB へのタイルのキャッシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>add watermark to tiles</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タイルに透かしを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Source options:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ソースのオプション:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>limit sources to geometries (from Shapefile for example)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ジオメトリへの (例えばシェープファイルからの) ソースの制限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>add transparency to opaque layers</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>不透明なレイヤに透明度を追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>merge multiple sources</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>複数のソースのマージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>reproject WMS and tile sources to other SRS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>他の SRS への WMS 及びタイルソースの最投影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>WMS Features:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>WMS機能:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>build layer trees from different sources</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>異なるソースからのレイヤーツリーの構築</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>create ``GetMap`` responses from cache with support for free-zooming and any projection (for any Desktop GIS)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>(あらゆるデスクトップ GIS のための) 自由なズームや、あらゆる座標系のサポートを伴う、キャッシュからの ``GetMap`` レスポンス生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>accelerates existing WMS 10 to 100 times</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>既存の WMS を10〜100倍高速化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>respond to ``GetLegendGraphic`` requests</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>``GetLegendGraphic`` リクエストへの応答</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cascade ``GetFeatureInfo`` requests with optional XSL transformations</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>任意の XSL 変換を伴う ``GetFeatureInfo`` リクエストへの転送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>on-the-fly reprojection</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>オンザフライによる再投影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>convert WMS versions and image formats</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>WMS バージョンや画像フォーマットの変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Security:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>セキュリティ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>flexible and powerful authorization API</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>柔軟で強力な認証 API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>fine-grained control over services and layers</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サービスおよびレイヤを、きめ細やかに管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>restrict access to polygon areas (for WMS and tile services)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ポリゴン領域へのアクセス制限 (WMS とタイルサービス向け)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>integrate with existing user databases and authentication methods</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>既存のユーザーデータベースや認証方法との統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Powerful tools:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>強力なツール:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>efficient seed tool for cache pre-filling that can seed polygon areas  with Shapefiles, GeoJSON, PostGIS or WKT geometries</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>シェープファイル、GeoJSON、PostGIS、WKT ジオメトリのポリゴン領域へのシードが可能な事前タイルキャッシュのための効率的なシードツール。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>export cached tiles to other formats</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キャッシュタイルの他のフォーマットへのエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>calculate scales and show grid configurations</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>縮尺計算とグリッド設定の表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other features:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>他の機能:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>simple but powerful configuration format (YAML/JSON)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>単純ながら強力な設定フォーマット (YAML/JSON)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OpenLayers based demo client</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenLayers ベースのデモクライアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>run multiple WMS services in one MapProxy instance</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>1つの MapProxy インスタンスで複数の WMS サービスを実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>add attribution lines to the images</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>画像に帰属ラインを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>support for non-image raster data like DEMs</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>DEM のような非画像ラスターデータをサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>manipulate image bands to create grayscale- or false-color images</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>グレイスケールもしくはフォールスカラー画像生成のための画像バンド操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>many more</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>さらに多くの機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Implemented Standards</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>実装されている標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>MapProxy implements the following open specifications:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>MapProxyは、以下のオープンな仕様を実装しています:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OGC WMS 1.0.0, 1.1.0, 1.1.1, 1.3.0</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OGC WMS 1.0.0, 1.1.0, 1.1.1, 1.3.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OGC WMTS 1.0.0 (KVP and RESTful)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OGC WMTS 1.0.0 (KVP 及び RESTful)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeo TMS 1.0.0</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeo TMS 1.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OGC KML 2.2 SuperOverlays</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OGC KML 2.2 SuperOverlays</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** https://mapproxy.org/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://mapproxy.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** `Apache Software License 2.0 &lt;https://www.apache.org/licenses/LICENSE-2.0.html&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** `Apache Software License 2.0 &lt;https://www.apache.org/licenses/LICENSE-2.0.html&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-mapproxy|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-mapproxy|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Linux, Mac, Windows</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** Linux, Mac, Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Support:** https://mapproxy.org/support</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** https://mapproxy.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/mapproxy_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/mapproxy_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

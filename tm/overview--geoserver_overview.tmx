@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoServer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoServer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Web Service</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Web サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoServer is a web server that allows you to serve maps and data from a variety of formats to standard clients such as web browsers and desktop GIS programs. Data is published via standards based interfaces, such as WMS, WFS, WCS, WPS, Tile Caching and more. GeoServer comes with a browser-based management interface and connects to multiple data sources at the back end.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoServer は、多様なフォーマットから地図とデータを Web ブラウザやデスクトップ GIS プログラム等の標準的なクライアントに配信する Web サーバです。データは WMS、WFS、WCS、WPS、タイルキャッシュなどの標準に基づくインターフェイス経由で配信されます。GeoServer は、ブラウザベースの管理インターフェイスを持ち、バックエンド側で複数のデータソースへ接続します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>主な機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Serve data from a variety of data stores:**</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**様々なデータストアからデータを配信:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vector</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ベクタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shapefiles, External WFS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>シェープファイル、 外部WFS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PostGIS, ArcSDE, DB2, Oracle Spatial, MySql, SQL Server</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>PostGIS, ArcSDE, DB2, Oracle Spatial, MySql, SQL Server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Raster</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ラスタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoTiff, JPG and PNG (with world file), image pyramid, GDAL formats, Image Mosaic, Oracle GeoRaster, NetCDF</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoTiff, JPG 及び PNG (ワールドファイル付き), image pyramid, GDAL formats, Image Mosaic, Oracle GeoRaster, NetCDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Data is served as safe and quick images using WMS and WMTS protocols:**</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**WMS 及び WMTS プロトコルを利用した、安全かつ迅速なデータ配信:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As the data is served up as an image your data is completely safe and secure. Unless they redigitise your data there is no way to steal your data. The appearance of each map layer can be controlled using the SLD standard which allows features to be coloured and labeled. By combining these rules with OGC Filters scale dependent styling can be implemented allowing more detail to be added as a user zooms in. Label collision management, grouping and priorities are also implemented.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg> データは画像の状態で保存し、完全に安全でセキュアに配信します。データを再入力しない限り、あなたのデータを盗み出すことはできないでしょう。それぞれの地図のレイヤは SLD を用いて表示を変更できます。SLD 標準により地物の色やラベル表示を設定できます。これに、縮尺によって変化する OGC フィルターにを合わせると、ユーザーが拡大表示すると、より詳細を表示するような実装が可能です。ラベルの描画衝突の管理、グループ化、優先順位も実装されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Full vector data can be sent to a client using the WFS protocol:**</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**WFS プロトコルを利用した、クライアントへの全ベクタデータ送信:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A WFS client can download vector data and use it for mapping, spatial analysis and other operations. Also if authorised the user can modify the data and send it back to the server to update the stored data using the WFS-T protocol. The data can be transmitted using GML (compressed) as well as other standard data formats like shapefile and json.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg> WFS クライアントは、ベクタデータをダウンロードして地図表示や空間解析等の用途に使用できます。さらに WFS-T プロトコルを利用して、認証されたユーザがサーバのデータを編集、アップロードすることで更新できます。シェープファイルや JSON のような標準規格同様に、データは圧縮した GML で送受信を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Raster data values can be sent to a client using the WCS protocol:**</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**WCS プロトコルを利用した、クライアントへのラスタデータ値送信:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A GIS client can request the actual raster data for use in spatial analysis. This allows a user to create applications which can model the process described by your data.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg> GISクライアントはラスタの実データを要求して空間解析に使うことができます。この機能を使うと、あなたのデータで記述したプロセスをベースに、ユーザーが活用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**On the fly reprojection:**</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**オンザフライ投影変換:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoServer supports the majority of the EPSG database of projections and can reproject to any of them on demand to allow clients with limited reprojection support to pass the load to the server.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoServer は EPSG データベースの主な投影法をサポートしており、オンデマンドでそれらの投影法への再投影ができます。クライアント側で再投影を制限され手いる場合にはサーバ側でその処理を行うこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Tiling Cache**</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**タイルキャッシュ**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`GeoWebCache &lt;https://www.geowebcache.org&gt;`_, which is integrated into GeoServer, tiles and caches map images from a variety of sources such as WMS. It implements various service interfaces (such as WMS-C, WMTS, TMS, Google Maps KML, Virtual Earth) in order to accelerate and optimize map image delivery. It can also recombine tiles to work with regular WMS clients.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`GeoWebCache &lt;https://www.geowebcache.org&gt;`_ は GeoServer に統合されていて、 WMS などの様々なソースからタイル化して地図画像をキャッシュします。様々な (WMS-C, WMTS, TMS, Google Maps KML, Virtual Earth などの) サービスインターフェイスを実装し、地図画像配信を加速・最適化します。通常の WMS クライアントで動作するよう、タイルを再結合することも可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Web Processing Service (WPS)**</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Web Processing Service (WPS)**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Geospatial algorithms, including those from :doc:`JTS &lt;jts_overview&gt;`, can be called through GeoServer's |WPS| interface. This includes the chaining of processes, and using rendering transformations to create powerful visualisations through the WMS interface.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`JTS &lt;jts_overview&gt;` に由来する地理空間アルゴリズムを、 GeoServer の |WPS| インターフェイスを経由して呼び出すことが可能です。処理を連結することや、 WMS インターフェイスを経由して強力な可視化を行うためにレンダリングの変換を行うことも可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Implemented Standards</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>準拠している標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Support of numerous Open Geospatial Consortium  (OGC) standards:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>多くの Open Geospatial Consortium (OGC) 標準をサポートしています:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|WMS| (client/server)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|WMS| (クライアントサーバー)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|WMTS|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|WMTS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|WFS| (transactional)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|WFS| (トランザクション)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|WCS|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|WCS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|FE|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|FE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|SLD|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|SLD|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|GML|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|GML|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|KML|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|KML|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** http://geoserver.org/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** http://geoserver.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** GNU General Public License (GPL) version 2</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** GNU General Public License (GPL) version 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-geoserver|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-geoserver|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Java 8 (Oracle JDK and OpenJDK) on Windows, Linux, and Mac</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** Windows, Linux, Mac 上の Java 8 (Oracle JDK 及び OpenJDK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**API Interfaces:** WMS, WFS, WCS, REST</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**API インターフェイス:** WMS, WFS, WCS, REST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Support:** http://geoserver.org/support/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** http://geoserver.org/support/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/geoserver_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/geoserver_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

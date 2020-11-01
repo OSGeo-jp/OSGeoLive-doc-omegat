@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The latest stable release is |osgeolive-version| and can be downloaded from:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>最新の安定版リリースは  |osgeolive-version| でこちらからダウンロード可能です:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>https://sourceforge.net/projects/osgeo-live/files/|osgeolive-version-only|/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>https://sourceforge.net/projects/osgeo-live/files/|osgeolive-version-only|/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Picking the right image for you:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>あなたの環境に適したイメージを選択してください:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**osgeolive iso**: |osgeolive-iso-size|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**osgeolive iso**: |osgeolive-iso-size|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A Lubuntu based bootable image, which can be copied to an 8 Gig USB thumb drive (faster and recommended) or DVD (cheaper). It can also be used to build a virtual machine from scratch.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Lubuntu ベースのブータブルイメージで、8 GBの ブータブル USB ドライブ(早い、推奨)か DVD (安い)にコピー可能です。仮想環境をいちから構築することにも利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**osgeolive-vm**: |osgeolive-vm-7z-size|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**osgeolive-vm**: |osgeolive-vm-7z-size|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is a pre-made virtual machine (.vmdk), based on osgeolive, suitable for use in VirtualBox, VMWare, KVM and other virtual machine applications. It has been compressed using `7-Zip &lt;https://www.7-zip.org/&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>VirtualBox、VMWare、KVM などの仮想マシンに適した、OSGeoLiveに基づいて事前作成された仮想マシン(.vmdk)です。 `7-Zip &lt;https://www.7-zip.org/&gt;`_ で圧縮されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**amd64 or i386 architecture**</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**amd64 または i386 アーキテクチャ**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ISO images are available for recent amd64 hardware (recommended) as well as older i386 hardware.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ISO イメージは、最近の amd64 ハードウェア(推奨)、または、古い i386 ハードウェアで利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**md5 checksum**</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**md5 チェックサム**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can use the md5 checksum to verify the image downloaded successfully.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>イメージのダウンロードが成功したかを確認するために、 md5 チェックサムを利用することが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**System Requirements**</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**システム要件**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`Minimum suggested system resources: 1 GB RAM (2 GB are better for trying Java based applications), 1GHz i386 or amd64 compatible CPU. No hard drive required. Mac users will benefit from a 3-button USB mouse.`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`最低限の動作環境は: メモリ 1GB (Java ベースのアプリケーションを使用する場合 2 GB あるとよいでしょう)、1GHz 以上の i386 か amd64 互換の CPU。ハードディスクは必要な場合のみ。Mac ユーザーには 3ボタン USB マウスの利用をお勧めします。`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

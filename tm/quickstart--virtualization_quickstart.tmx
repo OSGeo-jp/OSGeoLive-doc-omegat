@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive Quickstart for Running in a Virtual Machine</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>仮想マシン内での OSGeoLive 起動クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This Quick Start describes one way to run OSGeoLive within a VirtualBox virtual machine. For other methods, follow links from the "See Also" section below.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ここでは、 OSGeo-Live を VirtualBox の仮想マシン内で動作させる1つの方法について記載します。他の方法については、以下の "参照" の章のリンクにしたがってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Virtual Machine Advantages</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>仮想マシンの利点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can customize and update the system</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>システムのカスタマイズとアップデートが可能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can save your work within the VM</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>VM 内に作業状態を保存することが可能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can install additional software</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>追加のソフトウェアのインストールが可能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can backup your virtual machine installation.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>インストールした仮想マシンのバックアップが可能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>System Requirements</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>動作環境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Most machines produced in the last 4-5 years will meet these requirements.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>この 4〜5 年で製造されたマシンのほとんどは、この要件を満たしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Howto</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>手順</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Downloads**</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ダウンロード**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>``apt-get install virtualbox-ose``</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>``apt-get install virtualbox-ose``</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In addition download the OSGeo Virtual disk file (vmdk) from :doc:`live.osgeo.org &lt;../download&gt;`. Click on the "Download virtual machine" button. Then unzip the downloaded file (using `7zip &lt;https://www.7-zip.org&gt;`_ ).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>さらに、OSGeo の仮想ディスクファイル (vmdk) を :doc:`live.osgeo.org &lt;../download&gt;` からダウンロードします。 "Download virtual machine" ボタンをクリックします。それから、ダウンロードしたファイルを解凍します (`7zip &lt;https://www.7-zip.org&gt;`_ を使用します)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Create a Virtual Machine**</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**仮想マシンの作成**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start the VirtualBox application and click on the New button to create a new VM, and then Next.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>VirtualBox アプリケーションを起動し、新しい VM を作成するために New ボタンをクリックし、Next をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter a name such as OSGeoLive, and choose Linux as the "Operating system", and Ubuntu as the "Version".</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>イメージに OSGeo-Live のような名前を付け、"Operating System" に Linux、"Version" に Ubuntu を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Once the VM is created, click on the Settings button. In the "General" section, go to the Advanced tab, and click to select "Show at top of screen" for the Mini toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>VM が作成されたら、Settings ボタンをクリックします。"General" セクションで Advanced タブを選択し、Mini toolbar で "Show at top of screen" をクリックして選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to the "Display" section and increase video memory to 32 or 64 MB. In some host operating systems, it may be required to "Enable 3D Acceleration" for display to work properly.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>"Display" セクションで、ビデオメモリを 32 か 64 MB に増やします。いくつかのホストオペレーティング・システムでは、ディスプレイを適切に動作させるために "Enable 3D Acceleration" が必要となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In addition, move to the "Shared Folders" section, and click the "Add folder" (green + icon on the right) to find a directory on your host computer that you wish to share inside the VM.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>さらに、"Shared Folders" セクションに移動し、"Add folder" (右側の緑の "+" アイコン) をクリックし、VM 内部で共有したいホストコンピュータのディレクトリを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Running the Virtual Machine**</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**仮想マシンの起動**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now bootup the VM by clicking the Start (green arrow) button.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Start (緑の矢印) ボタンをクリックして、VM を起動しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>``user@osgeolive:~$ sudo usermod -a -G vboxsf user``</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>``user@osgeolive:~$ sudo usermod -a -G vboxsf user``</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>``user@osgeolive:~$ mkdir GIS``</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>``user@osgeolive:~$ mkdir GIS``</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>``user@osgeolive:~$ sudo mount -t vboxsf -o uid=user,rw GIS /home/user/GIS``</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>``user@osgeolive:~$ sudo mount -t vboxsf -o uid=user,rw GIS /home/user/GIS``</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now files on your host machine in the chosen folder will also be available in the VM in the "GIS" folder in user's home directory.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>これで、ホストマシンで選択したフォルダ内のファイルが、 VM 上のユーザのホームディレクトリ内の "GIS" フォルダでも利用可能になりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Also:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>参照:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeo wiki pages:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeo Wiki ページ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`osgeolive_quickstart`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`osgeolive_quickstart`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`osgeolive_install_quickstart`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`osgeolive_install_quickstart`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`usb_quickstart`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`usb_quickstart`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creating an OSGeoLive Bootable USB flash drive</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive を起動できる ブータブル USB フラッシュドライブの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This quickstart describes the preferred method for creating a Bootable OSGeoLive USB flash drive. Booting from a flash drive is faster than from a DVD, and the USB drive can be configured to store data between sessions (called persistence).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ここでは、OSGeoLive のブータブル (起動できる) USB フラッシュドライブを作る方法について記載します。フラッシュドライブからの起動は DVD から起動するよりも速く動作し、フラッシュドライブではセッションを超えてデータを保存することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>必要なもの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A USB flash drive (at least 4 Gig, 8+ Gig is recommended).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>USB フラッシュドライブ (最低 4 GB、推奨 8 GB 以上)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a 4 GB USB flash drive, use osgeolive-mini ISO (without Windows and Mac installers), without persistence.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>4 GB USB フラッシュドライブ用には、osgeolive-mini ISO を使用 (WindowsとMac向けのインストーラーを含まない)、永続性は非サポート。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a 8+ GB USB flash drive, use either osgeolive-mini ISO, or osgeolive ISO (with Windows and Mac installers). 8+ GB is recommended if you wish to support persistence.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>8 GB 以上の USB フラッシュドライブ用には、osgeolive-mini ISO か osgeolive ISO のどちらかを使用 (WindowsとMac向けのインストーラーを含む)、永続性をサポートする場合は 8 GB 以上を推奨。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creating bootable USB drive with ``dd`` under Linux</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Linux 環境でブータブル USB ドライブの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Run:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Also:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>参照:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`osgeolive_quickstart`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`osgeolive_quickstart`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`virtualization_quickstart`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`virtualization_quickstart`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`osgeolive_install_quickstart`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`osgeolive_install_quickstart`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

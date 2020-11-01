@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OpenStreetMap is a free street level map of the world, created by an ever growing community of mappers. Anyone can edit OpenStreetMap. The `Learn OSM website &lt;https://learnosm.org&gt;`_ provides easy to understand, step-by-step guides for you to get started with contributing to OpenStreetMap and using OpenStreetMap and using OpenStreetMap data. The Learn OSM guide at the link above shows step by step how to navigate the OpenStreetMap website, view and print maps, and sign up for a user account. After you have your own username and password, you will be able to add your first points to the map, learn how to do street surveys and work with aerial imagery.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapは、地図作成者の増え続けるコミュニティによって作成された、世界の無料の通りレベルの地図です。 誰でもOpenStreetMapを編集できます。 `Learn OSM Webサイト&lt;https://learnosm.org&gt;`_ は、OpenStreetMapへの貢献、OpenStreetMapの使用、およびOpenStreetMapデータの使用を開始するための理解しやすい段階的なガイドを提供します。
+上記のリンクのLearn OSMガイドは、OpenStreetMap Webサイトのナビゲート、マップの表示と印刷、ユーザーアカウントのサインアップの方法を段階的に示しています。 独自のユーザー名とパスワードを取得したら、最初のポイントをマップに追加し、街路調査を行う方法を学び、航空写真を操作することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start page: https://www.openstreetmap.org/edit</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スタートページ： https://www.openstreetmap.org/edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Documentation: https://wiki.openstreetmap.org/wiki/ID</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ドキュメンテーション： https://wiki.openstreetmap.org/wiki/ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tutorial: https://learnosm.org/en/beginner/id-editor/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チュートリアル: https://learnosm.org/en/beginner/id-editor/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>JOSM</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>JOSM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Homepage: https://josm.openstreetmap.de</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ホームページ: https://josm.openstreetmap.de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>User guide: https://wiki.openstreetmap.org/wiki/JOSM/Guide</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ユーザーガイド: https://wiki.openstreetmap.org/wiki/JOSM/Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tutorial: https://learnosm.org/en/josm/start-josm/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チュートリアル: https://learnosm.org/en/josm/start-josm/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>JOSM plugin collection: https://josm.openstreetmap.de/wiki/Plugins</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>JOSMプラグインコレクション： https://josm.openstreetmap.de/wiki/Plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Homepage: http://merkaartor.be</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ホームページ: http://merkaartor.be</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Online help: https://wiki.openstreetmap.org/wiki/Merkaartor/Documentation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>オンラインヘルプ： https://wiki.openstreetmap.org/wiki/Merkaartor/Documentation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>QGIS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>QGIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>QuickOSM: https://plugins.qgis.org/plugins/QuickOSM/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>QuickOSM: https://plugins.qgis.org/plugins/QuickOSM/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Online help: https://wiki.openstreetmap.org/wiki/QGIS#QGIS_2:_Importing_OSM_vector_layers</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>オンラインヘルプ： https://wiki.openstreetmap.org/wiki/QGIS#QGIS_2:_Importing_OSM_vector_layers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tutorial: https://learnosm.org/en/osm-data/osm-in-qgis/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チュートリアル: https://learnosm.org/en/osm-data/osm-in-qgis/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Documentation: https://wiki.openstreetmap.org/wiki/Osmosis#Usage</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ドキュメンテーション: https://wiki.openstreetmap.org/wiki/Osmosis#Usage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tutorial: https://learnosm.org/en/osm-data/osmosis/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チュートリアル: https://learnosm.org/en/osm-data/osmosis/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Homepage: https://wiki.openstreetmap.org/wiki/Osm2pgsql</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ホームページ：https://wiki.openstreetmap.org/wiki/Osm2pgsql</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tutorial: https://learnosm.org/en/osm-data/osm2pgsql/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チュートリアル: https://learnosm.org/en/osm-data/osm2pgsql/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What next?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find out more about OSM on the website: https://www.openstreetmap.org</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSMの詳細については、次のWebサイトをご覧ください: https://www.openstreetmap.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Get support: https://www.openstreetmap.org/help</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>支持を得ます: https://www.openstreetmap.org/help</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

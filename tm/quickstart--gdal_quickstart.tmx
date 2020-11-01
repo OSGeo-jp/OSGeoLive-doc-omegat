@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GDAL/OGR Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GDAL/OGR クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This Quick Start describes how to:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このクイックスタートでは、次の方法について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GDAL</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GDAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OGR</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OGR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The only thing you'll need for this quickstart is a terminal. If you want to visualize the results, you can use one of the Desktop GIS Software applications on OSGeoLive like :doc:`../overview/qgis_overview`.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このクイックスタートに必要なのはターミナルだけです。 結果を視覚化する場合は、:doc:`../overview/qgis_overview` のように、OSGeoLiveでデスクトップGISソフトウェアアプリケーションのいずれかを使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Get to know GDAL</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GDALについて知る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You will find the demo data at :file:`/usr/local/share/data`. We want to have a look at the :doc:`Natural Earth data &lt;../overview/naturalearth_overview&gt;` in this quickstart. We want to work with a copy of the data. So the first step is to copy the data to your home directory.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>デモデータは、ファイル：`/usr/local/share/data` にあります。 このクイックスタートで：doc： `自然地球データ&lt;../ overview / naturalearth_overview&gt;`を確認してください。 データのコピーを操作したいと考えています。 したがって、最初のステップは、データをホームディレクトリにコピーすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Driver is "GTiff/GeoTIFF"</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ドライバーは「GTiff/GeoTIFF」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Size is 10800x5400</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サイズは10800x5400です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Coordinates</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>座標</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>no coordinate system</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>座標系なし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Simple format translation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>シンプルなフォーマットの翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each format reports if it is</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>各フォーマットは、次の場合にレポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>read only (ro),</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>読み取り専用 (ro) 、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>read/write (rw) or</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>読み取り/書き込み (rw) または</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>read/write/update (rw+).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>読み取り/書き込み/更新 (rw+)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Translation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use gdalinfo to verify data type.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>gdalinfo を使用してデータ型を検証します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rescaling</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>再スケーリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The `-outsize` switch can be used to set the size of the output file.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`-outsize` スイッチを使用して、出力ファイルのサイズを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reprojecting</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>再投影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note how the poles are clipped?  This is because the edges at the pole can't be reprojected gdalwarp does not read all the data.  We can force gdalwarp to read a bunch of surplus data around chunks as one way to resolve this. Read more about this in the RasterTutorial https://trac.osgeo.org/gdal/wiki/UserDocs/RasterProcTutorial.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ポールがどのようにクリップされているかに注意してください？ これは、極のエッジを再投影できないためです。gdalwarpはすべてのデータを読み取りません。 これを解決する1つの方法として、gdalwarpにチャンク周辺の余剰データを強制的に読み取らせることができます。 この詳細については、ラスターチュートリアル https://trac.osgeo.org/gdal/wiki/UserDocs/RasterProcTutorial を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mosaicking</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>モザイク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Convert the countries to GML.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>国を GML に変換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Things to try</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>試してみること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Try gdalwarp or gdal_merge.py to mosaic your data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データをモザイク化するには、gdalwarpまたはgdal_merge.pyを試してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What next?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GDAL Project home</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GDALプロジェクトホーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>https://gdal.org</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>https://gdal.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GDAL Raster Tutorial</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GDAL ラスターのチュートリアル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>https://trac.osgeo.org/gdal/wiki/UserDocs/RasterProcTutorial</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>https://trac.osgeo.org/gdal/wiki/UserDocs/RasterProcTutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GDAL Workshop</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GDALワークショップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>https://download.osgeo.org/gdal/workshop/foss4ge2015/workshop_gdal.html</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>https://download.osgeo.org/gdal/workshop/foss4ge2015/workshop_gdal.html</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

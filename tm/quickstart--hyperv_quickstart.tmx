@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>System Requirements</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>動作環境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Create a Virtual Machine**</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**仮想マシンの作成**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Running the Virtual Machine**</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**仮想マシンの起動**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Also:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>参照:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeo wiki pages:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeo Wiki ページ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`osgeolive_quickstart`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`osgeolive_quickstart`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`osgeolive_install_quickstart`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`osgeolive_install_quickstart`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`usb_quickstart`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`usb_quickstart`</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

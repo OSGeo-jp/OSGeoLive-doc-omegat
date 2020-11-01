@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>JOSM Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>JOSM クイック スタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>JOSM is a feature rich, extensible, offline desktop editor for OpenStreetMap (OSM) data, written in Java.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>JOSM は、 Java で記述された OpenStreetMap (OSM) データ用の、機能豊富で、拡張可能な、オフラインのデスクトップエディタです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It supports loading stand-alone GPX tracks and GPX track data as well as editing existing nodes (points), ways (lines), metadata tags (name/value information) and relations (ordered sequence of points and lines) from the OSM database. GPX tracks, are usually downloaded in advance from a GPS receiver or from other sources.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スタンドアロン GPX トラックや GPX トラックデータの読み込みと共に、OSM データベースから既存のノード (点) 、ウェイ (ライン) 、メタデータタグ (名前/値の情報) 、リレーション (点と線の順序付けられたシーケンス) の編集をサポートしています。GPX トラックは、通常、GPS 受信機または他のソースから事前にダウンロードされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start JOSM</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>JOSM を起動する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download the file here: `sample.osm &lt;https://learnosm.org/files/sample.osm&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ここでファイルをダウンロードしてください： `sample.osm &lt;https://learnosm.org/files/sample.osm&gt;` __</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Navigate the map</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マップをナビゲートする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drawing</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>図面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add presets</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プリセットを追加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draw your own map</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>独自のマップを描画する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remove the sample layer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サンプル レイヤーを削除する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What next?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Try the LearnOSM documentation, from which this quickstart was derived: https://learnosm.org/en/josm/start-josm/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このクイックスタートの元となったLearnOSMドキュメントを試してください： https://learnosm.org/en/josm/start-josm/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In order to continue editing you first need to download real data. This is explained in the next chapter: https://learnosm.org/en/josm/more-about-josm/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>編集を続けるには、まず実際のデータをダウンロードする必要があります。 これは次の章で説明されています https://learnosm.org/en/josm/more-about-josm/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Website: https://josm.openstreetmap.de/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://josm.openstreetmap.de/</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

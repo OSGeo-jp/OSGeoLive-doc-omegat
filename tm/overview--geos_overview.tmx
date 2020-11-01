@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GEOS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GEOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spatial Library</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>空間ライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GEOS (Geometry Engine - Open Source) is a C++ port of the `JTS Topology Suite (JTS) &lt;https://projects.eclipse.org/projects/locationtech&gt;`_. It includes the OpenGIS Simple Features for SQL spatial predicate functions and spatial operators, as well as specific JTS enhanced topology functions.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GEOS (Geometry Engine - Open Source) は `JTS Topology Suite (JTS) &lt;https://projects.eclipse.org/projects/locationtech&gt;`_ を C++ に移植したものです。OpenGISの "Simple Features for SQL" の空間述語関数と空間演算、 JTS 仕様の拡張トポロジ関数を備えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GEOS is the most widely used geospatial C++ geometry library, being used by open source projects such as :doc:`PostGIS &lt;postgis_overview&gt;`, :doc:`QGIS &lt;qgis_overview&gt;`, :doc:`GDAL/OGR &lt;gdal_overview&gt;` and :doc:`MapServer &lt;mapserver_overview&gt;`, and by proprietary products including `FME &lt;https://www.safe.com/fme&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GEOS は最も広く使われている地理空間の C++ 幾何ライブラリであり、 :doc:`PostGIS &lt;postgis_overview&gt;`, :doc:`QGIS &lt;qgis_overview&gt;`, :doc:`GDAL/OGR &lt;gdal_overview&gt;` 及び :doc:`MapServer &lt;mapserver_overview&gt;` などのオープンソースプロジェクトや、  `FME &lt;https://www.safe.com/fme&gt;`_ などの商用製品で使用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Implemented Standards</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>準拠している標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OpenGIS |SFSQL| spatial predicate functions and spatial operators</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenGIS |SFSQL|  空間述語関数と空間演算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Core Features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>主な機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Geometries: Point, LineString, Polygon, MultiPoint, MultiLineString, MultiPolygon, GeometryCollection</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ジオメトリ: ポイント、ラインストリング、ポリゴン、マルチポイント、マルチラインストリング、マルチポリゴン、ジオメトリコレクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Predicates: Intersects, Touches, Disjoint, Crosses, Within, Contains, Overlaps, Equals, Covers</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>述語: 交差(インタセクト)する(Intersects)、接する(Touches)、非接続である(Disjoint)、交差(クロス)する(Crosses)、含まれる(Within)、含む(Contains)、重複する(Overlaps)、等しい(Equals)、覆う(Covers)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Operations: Union, Distance, Intersection, Symmetric Difference, Convex Hull, Envelope, Buffer, Simplify, Polygon Assembly, Valid, Area, Length,</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>演算: 統合(Union)、距離(Distance)、交差(Intersection)、対称差分(Symmetric Difference)、凸包(Convex Hull)、境界矩形領域(Envelope)、バッファ(Buffer)、簡略化(Simplify)、ポリゴン構築(Polygon Assembly)、妥当性検証(Valid)、面積(Area)、長さ(Length)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Prepared geometries (pre-spatially indexed)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Prepared ジオメトリ (事前空間インデックス)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>STR spatial index</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>STR 空間インデックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OGC Well Known Text (WKT) and Well Known Binary (WKB) encoders and decoders.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OGC の Well-Known テキスト (WKT) と Well-Known バイナリ (WKB) のエンコーダとデコーダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>C and C++ API (C API gives long term ABI stability)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>C および C++ API (C API は長期間の ABI 安定性を付与)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Thread safe (using the reentrant API)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スレッドセーフ (再入可能な API の使用)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** https://trac.osgeo.org/geos</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://trac.osgeo.org/geos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** LGPL</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** LGPL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-geos|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-geos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Windows, Linux, Mac</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** Windows, Linux, Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**API Interfaces:** C, C++</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**API インターフェイス:** C, C++</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Support:** https://lists.osgeo.org/mailman/listinfo/geos-devel, https://www.osgeo.org/service-providers</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** https://lists.osgeo.org/mailman/listinfo/geos-devel, https://www.osgeo.org/service-providers</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

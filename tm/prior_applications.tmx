@@ -1,0 +1,575 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Previously available applications</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>以前利用可能だったアプリケーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Last Available</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>最終利用可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|nologo|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|nologo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`OGC Standards`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`OGC Standards`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.5</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>10.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OGC Standards descriptions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OGC 標準規格説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Viking_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Viking_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`QuickStart &lt;Viking_q_&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`クイックスタート &lt;Viking_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GPS Data Analysis and Viewer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GPS データの解析、ビューア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ushahidi_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Ushahidi_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`QuickStart &lt;Ushahidi_q_&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`クイックスタート &lt;Ushahidi_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapping and Timeline for events</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>イベントのためのマッピングとスケジュール管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>TinyOWS_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>TinyOWS_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`QuickStart &lt;TinyOWS_q_&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`クイックスタート &lt;TinyOWS_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>WFS-T Service</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>WFS-T サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>osgEarth_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>osgEarth_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`QuickStart &lt;osgEarth_q_&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`クイックスタート &lt;osgEarth_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>3D Terrain Rendering</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>3D 地形レンダリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`Kosmo Desktop`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`Kosmo Desktop`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`QuickStart &lt;Kosmo Desktop_q_&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`クイックスタート &lt;Kosmo Desktop_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`WorldWind Java`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`WorldWind Java`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`QuickStart &lt;WorldWind Java_q_&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`クイックスタート &lt;WorldWind Java_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Desktop Virtual Globe</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>デスクトップバーチャル地球儀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Iris_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Iris_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`QuickStart &lt;Iris_q_&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`クイックスタート &lt;Iris_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Meteorology and Climatology</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>気象学と気候学</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoKettle_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoKettle_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`QuickStart &lt;GeoKettle_q_&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`クイックスタート &lt;GeoKettle_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ETL (Extract, Transform and Load) Tool</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ETL (データ抽出・加工・ロード) ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sahana_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Sahana_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`QuickStart &lt;Sahana_q_&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`クイックスタート &lt;Sahana_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Disaster management</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>災害マネージメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`MB System`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`MB System`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`QuickStart &lt;MB System_q_&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`クイックスタート &lt;MB System_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sea Floor Mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>海底マッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cartaro_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Cartaro_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`QuickStart &lt;Cartaro_q_&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`クイックスタート &lt;Cartaro_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10.0</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>10.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Geospatial CMS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地理空間 CMS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>TileMill_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>TileMill_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`QuickStart &lt;TileMill_q_&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`クイックスタート &lt;TileMill_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9.5</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>9.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Styling and Publishing</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スタイリングとパブリッシング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GpsDrive_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GpsDrive_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`QuickStart &lt;GpsDrive_q_&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`クイックスタート &lt;GpsDrive_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>9.0</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>9.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GPS Navigation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GPS ナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`Map Window`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`Map Window`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`QuickStart &lt;Map Window_q_&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`クイックスタート &lt;Map Window_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8.0</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>8.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Microsoft Windows based Desktop GIS.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Microsoft Windows ベースのデスクトップ GIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|osgeo_project|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|osgeo_project|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>MapFish_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>MapFish_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`QuickStart &lt;MapFish_q_&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`クイックスタート &lt;MapFish_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>7.9</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>7.9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Web Mapping Framework</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Web マッピングフレームワーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>52NorthWSS_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>52NorthWSS_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`QuickStart &lt;52NorthWSS_&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`クイックスタート &lt;52NorthWSS_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>6.5</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>6.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Web Security Service</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Web セキュリティサービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Geopublisher_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Geopublisher_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>6.0</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>6.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Catalogue</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カタログ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>AtlasStyler_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>AtlasStyler_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Style Editor</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スタイルエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>MapGuide_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>MapGuide_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`QuickStart &lt;MapGuide_q_&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`クイックスタート &lt;MapGuide_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5.0</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>5.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Web Service</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Web サービス</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

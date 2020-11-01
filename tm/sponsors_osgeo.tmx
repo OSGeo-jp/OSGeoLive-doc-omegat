@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The OSGeo Foundation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeo財団</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>*Empower everyone with open source geospatial*</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>*オープンソース地理空間で、すべての人に力を*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The `Open Source Geospatial Foundation (OSGeo) &lt;https://www.osgeo.org&gt;`__ is a not-for-profit organization whose mission is to foster global adoption of open geospatial technology by being an inclusive software foundation devoted to an open philosophy and participatory community driven development.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`オープンソース地理空間財団 (OSGeo) &lt;https://www.osgeo.org&gt;`__ は非営利組織であり、その使命は、オープンな哲学と、全員参加のコミュニティー駆動の開発に献身的な、包括的なソフトウェア財団であることによって、オープンな地理空間技術の世界的な採択を育むことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeo outreach and activities include:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoのアウトリーチや活動に含まれるもの:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`Local Chapters &lt;https://www.osgeo.org/local-chapters&gt;`__: Local, regional and language groups support grass roots activities.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`ローカルチャプター &lt;https://www.osgeo.org/local-chapters&gt;`__: 各地・各言語で草の根活動を支援するグループです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`GeoForAll &lt;https://www.osgeo.org/initiatives/geo-for-all&gt;`__: Over 100 educational labs from around the world who work with partners to make geospatial education and opportunities accessible to all.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`GeoForAll &lt;https://www.osgeo.org/initiatives/geo-for-all&gt;`__: 世界中で100を超える教育研究機関が、パートナーとともに、地理空間教育と機会を誰もが利用できるようにしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`OSGeoLive &lt;https://live.osgeo.org&gt;`__: A distribution of established geospatial open source software, pre-configured with sample data and quickstarts, ready to try out.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`OSGeoLive &lt;https://live.osgeo.org&gt;`__: 地理空間オープンソースソフトウェア、事前設定のサンプルデータ、クイックスタートによって構成されたディストリビューションで、試す準備ができています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`FOSS4G &lt;https://foss4g.org&gt;`_: Annual, international conference for *Free and Open Source Software for Geospatial*, as well as many regional and local `events &lt;https://www.osgeo.org/events&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`FOSS4G &lt;https://foss4g.org&gt;`_: *地理空間のためのフリーでオープンなソフトウェア* のために毎年開催される国際カンファレンスで、多くの地域でも同様の `イベント &lt;https://www.osgeo.org/events&gt;`_. が開催されています。</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

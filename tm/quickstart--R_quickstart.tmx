@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.1.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>R Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>R クイック スタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>R is a free software environment for statistical computing and graphics.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Rは、統計計算とグラフィックスのためのフリーソフトウェア環境です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This Quick Start describes how to:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このクイックスタートでは、次の方法について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>use R for simple arithmetic</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>単純な算術演算には R を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>load some data from a shapefile and map it</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>シェープファイルからデータを読み込み、マップする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>do a coordinate transformation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>座標変換を行う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>plot some data points on a map</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地図上にいくつかのデータポイントをプロットする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start R</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>開始 R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A full range of arithmetic, trigonometric, and statistical functions are built-in, and thousands more are available from packages in the `CRAN &lt;https://cran.r-project.org/&gt;`_ archive.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>算術関数、三角関数、統計関数のすべてが組み込まれており、 `CRAN &lt;https://cran.r-project.org/&gt;`_ アーカイブのパッケージからさらに数千が利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Building data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データの構築</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Loading map data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マップ データの読み込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This gives us a simple map of the world:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>これは私たちに世界の簡単な地図を与えます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We add these points to the base map, scaling their size by scaled square root of the population (because that makes a symbol with area proportional to population), set the colour to red and the plotting character to a solid blob:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>これらのポイントをベースマップに追加し、人口のスケーリングされた平方根でサイズをスケーリングします（これにより、シンボルが人口に比例するようになるため）、色を赤に設定し、プロット文字を塗りつぶしたblobに設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>and our final image appears:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>そして最終的な画像が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vignettes</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ビネット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What next?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For general information about R, try the official `Introduction to R &lt;https://cran.r-project.org/doc/manuals/R-intro.html&gt;`_ or any of the documentation from the main `R Project &lt;https://www.r-project.org/&gt;`_ page.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Rに関する一般的な情報については、公式の `Introduction to R &lt;https://cran.r-project.org/doc/manuals/R-intro.html&gt;`_ またはメインの `R Project &lt;https://www.r-project.org/&gt;`_ ページ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on spatial aspects of R, the best place to start is probably the `R Spatial Task View &lt;https://cran.r-project.org/web/views/Spatial.html&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Rの空間的側面の詳細については、おそらく「R Spatial Task View &lt;https://cran.r-project.org/web/views/Spatial.html&gt; `_から始めるのが最適です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You might also want to check out the `R-Spatial &lt;https://www.rspatial.org&gt;`_ page.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg> `R-Spatial &lt;https://www.rspatial.org&gt;`_ ページもチェックしてみてください。</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
