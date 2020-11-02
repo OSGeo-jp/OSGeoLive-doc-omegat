@@ -1,0 +1,2 @@
+OpenStreetMap	OpenStreetMap	固有名詞なので変更しない
+QuickStart	クイックスタート	タイトルは統一する
