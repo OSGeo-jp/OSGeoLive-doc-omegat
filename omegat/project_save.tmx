@@ -1278,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Austria</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062131Z" creationid="miurahr" creationdate="20201102T062131Z">
+        <seg>オーストリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Author(s)</seg>
       </tuv>
       <tuv lang="ja">
@@ -1374,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Canada</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062219Z" creationid="miurahr" creationdate="20201102T062219Z">
+        <seg>カナダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cartographic rendering engine</seg>
       </tuv>
       <tuv lang="ja">
@@ -1406,6 +1422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>China</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062232Z" creationid="miurahr" creationdate="20201102T062232Z">
+        <seg>中国</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chrome for Android 4+ and iOS</seg>
       </tuv>
       <tuv lang="ja">
@@ -1418,6 +1442,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>空間データのためのクラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Colombia</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062257Z" creationid="miurahr" creationdate="20201102T062257Z">
+        <seg>コロンビア</seg>
       </tuv>
     </tu>
     <tu>
@@ -2046,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>France</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062137Z" creationid="miurahr" creationdate="20201102T062137Z">
+        <seg>フランス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Free to use</seg>
       </tuv>
       <tuv lang="ja">
@@ -2382,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Germany</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062207Z" creationid="miurahr" creationdate="20201102T062207Z">
+        <seg>ドイツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Get support: https://www.openstreetmap.org/help</seg>
       </tuv>
       <tuv lang="ja">
@@ -2434,6 +2482,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ツールチップとマーカー作成の高柔軟性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Greece</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062237Z" creationid="miurahr" creationdate="20201102T062237Z">
+        <seg>ギリシャ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2694,6 +2750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>India</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062306Z" creationid="miurahr" creationdate="20201102T062306Z">
+        <seg>インド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Indonesia</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T061925Z" creationid="miurahr" creationdate="20201102T061925Z">
@@ -2846,6 +2910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Italy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062228Z" creationid="miurahr" creationdate="20201102T062228Z">
+        <seg>イタリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JOSM Quickstart</seg>
       </tuv>
       <tuv lang="ja">
@@ -2890,6 +2962,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>JOSM: 最新の安定版スナップショット (svn r11427)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Japan</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062241Z" creationid="miurahr" creationdate="20201102T062241Z">
+        <seg>日本</seg>
       </tuv>
     </tu>
     <tu>
@@ -3362,6 +3442,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>ナビゲーションと地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Netherlands</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062245Z" creationid="miurahr" creationdate="20201102T062245Z">
+        <seg>オランダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New Zealand</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062144Z" creationid="miurahr" creationdate="20201102T062144Z">
+        <seg>ニュージーランド</seg>
       </tuv>
     </tu>
     <tu>
@@ -4630,6 +4726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Spain</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062250Z" creationid="miurahr" creationdate="20201102T062250Z">
+        <seg>スペイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spanish</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T062019Z" creationid="miurahr" creationdate="20201102T062019Z">
@@ -4894,6 +4998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Switzerland</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062214Z" creationid="miurahr" creationdate="20201102T062214Z">
+        <seg>スイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>System Requirements</seg>
       </tuv>
       <tuv lang="ja">
@@ -4954,6 +5066,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052203Z" creationid="miurahr" creationdate="20201102T052203Z">
         <seg>上記のリンクにある『Learn OSM』ガイドでは、OpenStreetMapのWebサイトの操作方法、マップの表示と印刷方法、ユーザアカウントへのサインアップ方法を順を追って説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Netherlands</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062202Z" creationid="miurahr" creationdate="20201102T062202Z">
+        <seg>オランダ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5378,6 +5498,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>:command:`\\d` とタイプすると、利用可能なテーブルの一覧が表示されます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UK</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062150Z" creationid="miurahr" creationdate="20201102T062150Z">
+        <seg>英国</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>USA</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062223Z" creationid="miurahr" creationdate="20201102T062223Z">
+        <seg>米国</seg>
       </tuv>
     </tu>
     <tu>
