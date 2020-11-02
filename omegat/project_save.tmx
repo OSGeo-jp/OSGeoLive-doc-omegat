@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -201,6 +201,14 @@
         <seg>**Licence:** GNU General Public License (GPL) version 2</seg>
       </tuv>
       <tuv lang="ja">
+        <seg>**ライセンス:** GNU General Public License (GPL) version 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Licence:** GNU General Public License (GPL) version 2.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T044526Z" creationid="miurahr" creationdate="20201102T044526Z">
         <seg>**ライセンス:** GNU General Public License (GPL) version 2</seg>
       </tuv>
     </tu>
@@ -2038,6 +2046,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GPX tracks, are usually downloaded in advance from a GPS receiver or from other sources.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T044509Z" creationid="miurahr" creationdate="20201102T044509Z">
+        <seg>GPX トラックは、通常、GPS 受信機または他のソースから事前にダウンロードされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GRASS locations and mapsets</seg>
       </tuv>
       <tuv lang="ja">
@@ -2582,6 +2598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It supports loading stand-alone GPX tracks and GPX track data as well as editing existing nodes (points), ways (lines), metadata tags (name/value information) and relations (ordered sequence of points and lines) from the OSM database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T044505Z" creationid="miurahr" creationdate="20201102T044505Z">
+        <seg>スタンドアロン GPX トラックや GPX トラックデータの読み込みと共に、OSM データベースから既存のノード (点) 、ウェイ (ライン) 、メタデータタグ (名前/値の情報) 、リレーション (点と線の順序付けられたシーケンス) の編集をサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JOSM Quickstart</seg>
       </tuv>
       <tuv lang="ja">
@@ -3122,6 +3146,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note: JOSM plugins may use other licences.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T044540Z" creationid="miurahr" creationdate="20201102T044540Z">
+        <seg>注: JOSM プラグインは他のライセンスを使用しているかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4758,6 +4790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tool bar customization, View control (zoom, pan.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T044518Z" creationid="miurahr" creationdate="20201102T044518Z">
+        <seg>ツールバーのカスタマイズ、Viewコントロール（ズーム、パン、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tools for mapping the world</seg>
       </tuv>
       <tuv lang="ja">
@@ -5682,6 +5722,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>シェープファイル、GeoJSON、PostGIS、WKT ジオメトリのポリゴン領域へのシードが可能な事前タイルキャッシュのための効率的なシードツール。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>etc), styles, icons and layers management.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T044520Z" creationid="miurahr" creationdate="20201102T044520Z">
+        <seg>など）、スタイル、アイコンとレイヤ管理。</seg>
       </tuv>
     </tu>
     <tu>
