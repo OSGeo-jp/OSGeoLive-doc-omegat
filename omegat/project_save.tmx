@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**JOSM** (Java OpenStreetMap Editor) is an advanced editor for OpenStreetMap (OSM) written in Java.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052244Z" creationid="miurahr" creationdate="20201102T052244Z">
+        <seg>**JOSM**(Java OpenStreetMap Editor)は、Javaで記述されたOpenStreetMap(OSM)用の高度なエディタです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Licence:** BSD</seg>
       </tuv>
       <tuv lang="ja">
@@ -294,10 +302,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Merkaartor** is a map editor for OpenStreetMap which uses the Qt toolkit.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052301Z" creationid="miurahr" creationdate="20201102T052301Z">
+        <seg>**Merkaartor**は、Qtツールキットを使用するOpenStreetMap用のマップエディタです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**On the fly reprojection:**</seg>
       </tuv>
       <tuv lang="ja">
         <seg>**オンザフライ投影変換:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Osmosis** is a highly capable utility program for performing many tasks at a raw level on OSM data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052357Z" creationid="miurahr" creationdate="20201102T052345Z">
+        <seg>**Osmosis**は、OSMデータに対して生データのレベルで多くのタスクを実行するための高機能ユーティリティプログラムです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -790,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**iD** is the default on-line editor for OpenStreetMap (OSM).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052231Z" creationid="miurahr" creationdate="20201102T052231Z">
+        <seg>**iD**は、OpenStreetMap(OSM)のデフォルトのオンラインエディタです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**md5 checksum**</seg>
       </tuv>
       <tuv lang="ja">
@@ -802,6 +834,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**osm2pgRouting によるデータ読み込み** - https://github.com/pgRouting/osm2pgrouting/wiki/Documentation-for-osm2pgrouting-v2.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**osm2pgsql** is a utility program that converts OpenStreetMap (.osm) data into a format that can be loaded into PostgreSQL (PostGIS).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052406Z" creationid="miurahr" creationdate="20201102T052406Z">
+        <seg>**osm2pgsql**は、OpenStreetMap(.osm)データをPostgreSQL(PostGIS)にロード可能な形式に変換するユーティリティプログラムです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1118,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After you have your own username and password, you will be able to add your first points to the map, learn how to do street surveys and work with aerial imagery.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052209Z" creationid="miurahr" creationdate="20201102T052209Z">
+        <seg>独自のユーザー名とパスワードを入力すると、地図に最初のポイントを追加したり、街路調査の方法を学習したり、航空画像を操作したりできるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Pairs Shortest Path, Floyd-Warshall Algorithm</seg>
       </tuv>
       <tuv lang="ja">
@@ -1146,6 +1194,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Android ブラウザ 2.2+, 3.1+, 4+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anyone can edit OpenStreetMap.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052137Z" creationid="miurahr" creationdate="20201102T052137Z">
+        <seg>OpenStreetMapは誰でも編集できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1730,6 +1786,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>特定用途向け GIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double click on the 'QGIS' icon.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052504Z" creationid="miurahr" creationdate="20201102T052504Z">
+        <seg>「QGIS」アイコンをダブルクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2646,6 +2710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can be extended with plugins, custom presets and more extensions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052255Z" creationid="miurahr" creationdate="20201102T052255Z">
+        <seg>プラグイン、カスタムプリセット、その他の拡張機能で拡張できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is composed entirely of free software, allowing it to be freely distributed, duplicated and passed around.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T110511Z" creationid="smellman" creationdate="20201101T110511Z">
@@ -2654,10 +2726,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is more powerful and complex than iD, can be used for bulk editing, off-line or on an unreliable Internet connection.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052249Z" creationid="miurahr" creationdate="20201102T052249Z">
+        <seg>iDよりも強力かつ複雑であり、大量編集、オフライン、または信頼性の低いインターネット接続に使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is often used to render OSM data visually using Mapnik, as Mapnik can query PostgreSQL for map data, but does not work directly with OSM files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052413Z" creationid="miurahr" creationdate="20201102T052413Z">
+        <seg>多くの場合、Mapnikを使用してOSMデータを視覚的にレンダリングするために使用されます。これは、MapnikがPostgreSQLにOSMデータを視覚的にレンダリングする場合によく使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It supports loading stand-alone GPX tracks and GPX track data as well as editing existing nodes (points), ways (lines), metadata tags (name/value information) and relations (ordered sequence of points and lines) from the OSM database.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T044505Z" creationid="miurahr" creationdate="20201102T044505Z">
         <seg>スタンドアロン GPX トラックや GPX トラックデータの読み込みと共に、OSM データベースから既存のノード (点) 、ウェイ (ライン) 、メタデータタグ (名前/値の情報) 、リレーション (点と線の順序付けられたシーケンス) の編集をサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's a bit more user friendly than JOSM, but has a few less features.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052328Z" creationid="miurahr" creationdate="20201102T052328Z">
+        <seg>これはJOSMよりも少しユーザーフレンドリーですが、機能は少なめです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3454,6 +3550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the 'Desktop GIS' folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052501Z" creationid="miurahr" creationdate="20201102T052501Z">
+        <seg>[デスクトップGIS]フォルダを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OpenGIS |SFSQL| spatial predicate functions and spatial operators</seg>
       </tuv>
       <tuv lang="ja">
@@ -3478,6 +3582,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OpenStreetMap Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052114Z" creationid="miurahr" creationdate="20201102T052114Z">
+        <seg>OpenStreetMapクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenStreetMap data can be loaded in **QGIS** as vector layer, as a core functionality or through plugins like QuickOSM.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052334Z" creationid="miurahr" creationdate="20201102T052334Z">
+        <seg>OpenStreetMapデータは、ベクトルレイヤとして、コア機能として、またはQuickOSMのようなプラグインを通じて、**QGIS**にロードすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OpenStreetMap data: https://www.openstreetmap.org/copyright</seg>
       </tuv>
       <tuv lang="ja">
@@ -3490,6 +3610,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T045002Z" creationid="miurahr" creationdate="20201102T045002Z">
         <seg>OpenStreetMapは、世界のクラウドソースによる地図で、利用可能なローカルスケールでの地図データうち最も詳細なソースの一つになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenStreetMap is a free street level map of the world, created by an ever growing community of mappers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052134Z" creationid="miurahr" creationdate="20201102T052134Z">
+        <seg>OpenStreetMapは、世界のストリートレベルのフリーマップで、増え続けるマッパーのコミュニティによって作成されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3766,6 +3894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Programs that work with OSM data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052222Z" creationid="miurahr" creationdate="20201102T052222Z">
+        <seg>OS Mデータを扱うプログラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Project Overviews and Overview Translations, are provided under a `Creative Commons Attribution 3.0 Unported License &lt;https://creativecommons.org/licenses/by/3.0/&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T110638Z" creationid="smellman" creationdate="20201101T110638Z">
@@ -3802,6 +3938,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>簡単なスタイル変更が可能な、CSS3 完全準拠のポップアップとコントロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052447Z" creationid="miurahr" creationdate="20201102T052447Z">
+        <seg>QGIS クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS is a user-friendly Desktop GIS client which lets you visualize, manage, edit, analyse data and compose printable maps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052451Z" creationid="miurahr" creationdate="20201102T052451Z">
+        <seg>QGISはユーザフレンドリなデスクトップGISクライアントで、データの視覚化、管理、編集、分析、印刷可能なマップの作成を行うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4662,6 +4814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Learn OSM guide at the link above shows step by step how to navigate the OpenStreetMap website, view and print maps, and sign up for a user account.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052203Z" creationid="miurahr" creationdate="20201102T052203Z">
+        <seg>上記のリンクにある『Learn OSM』ガイドでは、OpenStreetMapのWebサイトの操作方法、マップの表示と印刷方法、ユーザアカウントへのサインアップ方法を順を追って説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The OGR vector data model is compliant with the OGC Simple Features specification.</seg>
       </tuv>
       <tuv lang="ja">
@@ -4726,6 +4886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `Learn OSM website &lt;https://learnosm.org&gt;`_ provides easy to understand, step-by-step guides for you to get started with contributing to OpenStreetMap and using OpenStreetMap and using OpenStreetMap data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052155Z" creationid="miurahr" creationdate="20201102T052155Z">
+        <seg>「Learn OSM Webサイト&lt;https://learnosm.org&gt;」は、OpenStreetMapへの貢献、OpenStreetMapの使用、およびOpenStreetMapデータの使用を開始するための、理解しやすいステップバイステップのガイドを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `Open Source Geospatial Foundation (OSGeo) &lt;https://www.osgeo.org&gt;`__ is a not-for-profit organization whose mission is to foster global adoption of open geospatial technology by being an inclusive software foundation devoted to an open philosophy and participatory community driven development.</seg>
       </tuv>
       <tuv lang="ja">
@@ -4774,6 +4942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The remainder of this guide introduces some of the online and offline software used to edit and render OSM data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052216Z" creationid="miurahr" creationdate="20201102T052216Z">
+        <seg>このガイドの残りの部分では、OSMデータの編集とレンダリングに使用するオンラインソフトウェアとオフラインソフトウェアの一部を紹介します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The smaller CBD extract is loaded into another PostGIS database called "pgrouting".</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T051611Z" creationid="miurahr" creationdate="20201102T051611Z">
@@ -4794,6 +4970,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>以下の表は OSGeoLive 上の各ドキュメントの貢献者を記載したものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The various parts of the QGIS Interface are listed below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052525Z" creationid="miurahr" creationdate="20201102T052525Z">
+        <seg>QGISインターフェイスのさまざまな部分を次に示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4850,6 +5034,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>これは私たちに世界の簡単な地図を与えます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This includes data import and export to databases, sorting, cleaning, and creating data dumps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052351Z" creationid="miurahr" creationdate="20201102T052351Z">
+        <seg>これには、データベースへのデータのインポートとエクスポート、ソート、消去、およびデータ・ダンプの作成が含まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5398,6 +5590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You will see QGIS launch with an empty project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052522Z" creationid="miurahr" creationdate="20201102T052507Z">
+        <seg>QGISが空プロジェクトで起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your computer should have at least:</seg>
       </tuv>
       <tuv lang="ja">
@@ -5426,6 +5626,38 @@
       </tuv>
       <tuv lang="ja">
         <seg>ズーム/パン アニメーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1] Menu bar: Access to various QGIS features using a standard hierarchical menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052530Z" creationid="miurahr" creationdate="20201102T052530Z">
+        <seg>[1]メニューバー:標準の階層メニューを使用して、さまざまなQGIS機能にアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2] Toolbars: For interaction with the map, layers, attributes and selections.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052534Z" creationid="miurahr" creationdate="20201102T052534Z">
+        <seg>[2]ツールバー:マップ、画層、属性、および選択を操作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3] Browser Panel: A spatial file browser allowing drag and drop content into the map frame.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052544Z" creationid="miurahr" creationdate="20201102T052544Z">
+        <seg>[3]ブラウザパネル:マップフレームにコンテンツをドラッグアンドドロップできる空間ファイルブラウザ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[4] Layer Panel: Controls the map layers, their order, and visibility.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052714Z" creationid="miurahr" creationdate="20201102T052714Z">
+        <seg>[4] レイヤーパネル:マップ画層、画層の順序、表示/非表示をコントロールします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5938,6 +6170,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>i18n コード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>iD is fast and easy to use, and allows mapping from various data sources such as ground survey, satellite and aerial imageries, GPS traces or street-level imagery.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T052236Z" creationid="miurahr" creationdate="20201102T052236Z">
+        <seg>iDは高速で使いやすく、地上測量、衛星および航空画像、GPS追跡または街路レベルの画像など、さまざまなデータソースからのマッピングが可能です。</seg>
       </tuv>
     </tu>
     <tu>
