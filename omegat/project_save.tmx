@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**License:** `Open Data Commons Open Database License (ODbL) &lt;https://opendatacommons.org/licenses/odbl/&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T051623Z" creationid="miurahr" creationdate="20201102T051623Z">
+        <seg>**ライセンス:** `Open Data Commons Open Database License (ODbL) &lt;https://opendatacommons.org/licenses/odbl/&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**On the fly reprojection:**</seg>
       </tuv>
       <tuv lang="ja">
@@ -1398,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contains locations of pubs, fuel stations, restaurants, supermarkets, etc.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T051354Z" creationid="miurahr" creationdate="20201102T051354Z">
+        <seg>パブや居酒屋、ガソリンスタンド、レストランやスーパーマーケットなどが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contributors</seg>
       </tuv>
       <tuv lang="ja">
@@ -1898,6 +1914,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>重複を回避するフィーチャのラベル付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Files referencing the name of the featured city contain the same data as the above files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T051507Z" creationid="miurahr" creationdate="20201102T051507Z">
+        <seg>対象都市名を参照するファイルには、上記のファイルと同じデータが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3814,6 +3838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Quickstarts and overviews use the generic file names so that the example city can change with each new release.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T051524Z" creationid="miurahr" creationdate="20201102T051524Z">
+        <seg>クイックスタートと概要では一般的なファイル名を使用するため、新しいリリースごとに都市の例を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>R Quickstart</seg>
       </tuv>
       <tuv lang="ja">
@@ -4662,6 +4694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The OSM feature city data has been imported into a PostGIS database called "osm_local" using the osm2pgsql tool.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T051535Z" creationid="miurahr" creationdate="20201102T051535Z">
+        <seg>OSM機能の都市データは、osm2pgsqlツールを使用して「osm_local」という名前のPostGISデータベースにインポートされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Open Source Geospatial Foundation (OSGeo) provides the primary development &amp; hosting infrastructure and personnel for the project, and for many of the software teams which contribute to it.</seg>
       </tuv>
       <tuv lang="ja">
@@ -4730,6 +4770,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T044921Z" creationid="miurahr" creationdate="20201102T044921Z">
         <seg>自由だと考えられている地図の多くは、実は法的・技術的な制約があり、人々が創造的に、生産的に、あるいは今まで予期しなかった方法でそれを利用することを妨げているため、このプロジェクトは開始されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The smaller CBD extract is loaded into another PostGIS database called "pgrouting".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T051611Z" creationid="miurahr" creationdate="20201102T051611Z">
+        <seg>小さなCBD抽出物は、「pgrouting」と呼ばれる別のPostGISデータベースにロードされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The spatial reference system used for this database is latitude-longitude with the WGS84 datum (EPSG code 4326) and can be reprojected to other Spatial Reference Systems (SRS), such as Spherical-Mercator, on demand.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T051601Z" creationid="miurahr" creationdate="20201102T051601Z">
+        <seg>このデータベースに使用される空間参照システムは、WGS84データム(EPSGコード4326)を使用した緯度-経度順であり、必要に応じて、Spherical-Mercatorなどの他の空間参照システム(SRS)に再投影できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5832,8 +5888,16 @@
       <tuv lang="en-US">
         <seg>feature_city_CBD.osm.bz2: A smaller subset covering just the Central Business District (CBD).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T045341Z" creationid="miurahr" creationdate="20201102T045341Z">
-        <seg>feature_city_CBD.osm.bz2: セントラルビジネス郡(CBD)をカバーする小さなサブセット</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T051240Z" creationid="miurahr" creationdate="20201102T045341Z">
+        <seg>feature_city_CBD.osm.bz2: 大都市の中心業務地区(CBD)をカバーするサブセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>feature_city_poi.db: Sqlite DB of "positions of interest" nodes extracted from the above larger city OSM extract.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T051320Z" creationid="miurahr" creationdate="20201102T051320Z">
+        <seg>feature_city_poi.db: 上記の大都市OSMデータから、POIノードのデータをSqlite DBに格納したもの。</seg>
       </tuv>
     </tu>
     <tu>
