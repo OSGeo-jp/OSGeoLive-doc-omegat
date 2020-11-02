@@ -1030,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A number of programs have been included: JOSM, Merkaartor, Osmosis, Osm2pgsql, and a number of small command utilities.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T044928Z" creationid="miurahr" creationdate="20201102T044928Z">
+        <seg>いくつかのプログラム: JOSM、Merkaartor、Osmosis、Osm2pgsql といくつかの小さなコマンドユーティリティが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A number of renderers to choose from (including custom and online)</seg>
       </tuv>
       <tuv lang="ja">
@@ -1542,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data Sets included in OSGeo Live</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T045138Z" creationid="miurahr" creationdate="20201102T045138Z">
+        <seg>OSGeo-Liveにはいっているデータセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data Stores</seg>
       </tuv>
       <tuv lang="ja">
@@ -1954,6 +1970,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>十分にカスタマイズ可能なテンプレート駆動の出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fundamentally OSM's focus is on the data, the rich maps simply fall out of this.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T045112Z" creationid="miurahr" creationdate="20201102T045112Z">
+        <seg>基本的にOSMの焦点はデータにあり、リッチな地図は、これから単純に溢れたものとなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2490,6 +2514,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>シェープファイルのインポート、エクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition recent sample data for the FOSS4G host city and a number of JOSM plugins have been included.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T044934Z" creationid="miurahr" creationdate="20201102T044934Z">
+        <seg>さらに、 FOSS4G 主催都市のための最近のサンプルデータと、いくつかのJOSMプラグインも含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3430,6 +3462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OpenStreetMap is a crowd sourced map of the world which has grown to become one of the most detailed sources of local-scale map data available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T045002Z" creationid="miurahr" creationdate="20201102T045002Z">
+        <seg>OpenStreetMapは、世界のクラウドソースによる地図で、利用可能なローカルスケールでの地図データうち最も詳細なソースの一つになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Operations: Union, Distance, Intersection, Symmetric Difference, Convex Hull, Envelope, Buffer, Simplify, Polygon Assembly, Valid, Area, Length,</seg>
       </tuv>
       <tuv lang="ja">
@@ -4262,6 +4302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Source map data is created and maintained by thousands of volunteers from around the world, using processes similar to the maintaining of the wikipedia encyclopedia.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T045044Z" creationid="miurahr" creationdate="20201102T045044Z">
+        <seg>ソースの地図データは、Wikipediaの百科事典の維持と同様のプロセスで、世界中の数千人のボランティアによって作成・維持されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Source options:</seg>
       </tuv>
       <tuv lang="ja">
@@ -4646,6 +4694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The heart of the project is the underlying data which is open for all to edit, view, or create custom rendered maps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T045058Z" creationid="miurahr" creationdate="20201102T045058Z">
+        <seg>プロジェクトの中心はデータの基礎になることで、すべての人がカスタム描画された地図の編集、閲覧、作成が可能となるようオープンに保たれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The latest stable release is |osgeolive-version| and can be downloaded from:</seg>
       </tuv>
       <tuv lang="ja">
@@ -4666,6 +4722,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>OSMを最も目にする光景は、 https://www.openstreetmap.org のオンライン上でのウェブタイルによるインターフェイスです。しかしマップは、 :doc:`QGIS &lt;qgis_overview&gt;` や :doc:`OpenLayers &lt;openlayers_overview&gt;`, ArcGIS および 専用の OSM アプリケーションなどの、多くのアプリケーションで閲覧、インポート、編集が可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The project was started because most maps you think of as free actually have legal or technical restrictions on their use, holding back people from using them in creative, productive or unexpected ways.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T044921Z" creationid="miurahr" creationdate="20201102T044921Z">
+        <seg>自由だと考えられている地図の多くは、実は法的・技術的な制約があり、人々が創造的に、生産的に、あるいは今まで予期しなかった方法でそれを利用することを妨げているため、このプロジェクトは開始されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5366,6 +5430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`OpenStreetMap &lt;https://www.openstreetmap.org&gt;`_ is a project aimed squarely at creating and providing free geographic data such as street maps to anyone who wants them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T044913Z" creationid="miurahr" creationdate="20201102T044913Z">
+        <seg>`OpenStreetMap &lt;https://www.openstreetmap.org&gt;`_ は、道路地図のような地理的データを誰でも利用できるために、自由な地理情報データを作成し提供することを目的としたプロジェクトです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`QuickStart &lt;52NorthWSS_&gt;`__</seg>
       </tuv>
       <tuv lang="ja">
@@ -5746,6 +5818,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>地物に対するラベル表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>feature_city.osm.bz2: A large extract of the greater city area as a BZip2 compressed XML text file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T045253Z" creationid="miurahr" creationdate="20201102T045253Z">
+        <seg>feature_city.osm.bz2: 大都市エリアの大きなし切りだしデータで、XMLファイルをBZip2で圧縮したものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>feature_city_CBD.osm.bz2: A smaller subset covering just the Central Business District (CBD).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T045341Z" creationid="miurahr" creationdate="20201102T045341Z">
+        <seg>feature_city_CBD.osm.bz2: セントラルビジネス郡(CBD)をカバーする小さなサブセット</seg>
       </tuv>
     </tu>
     <tu>
