@@ -1278,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Australia</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062406Z" creationid="miurahr" creationdate="20201102T062406Z">
+        <seg>オーストラリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Austria</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T062131Z" creationid="miurahr" creationdate="20201102T062131Z">
@@ -1306,6 +1314,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ベイズ空間解析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Belgium</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062330Z" creationid="miurahr" creationdate="20201102T062330Z">
+        <seg>ベルギー</seg>
       </tuv>
     </tu>
     <tu>
@@ -1386,6 +1402,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T062219Z" creationid="miurahr" creationdate="20201102T062219Z">
         <seg>カナダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Canada/Chile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062459Z" creationid="miurahr" creationdate="20201102T062459Z">
+        <seg>カナダ/チリ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2458,6 +2482,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Ubuntu オペレーティングシステム入門:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ghana</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062503Z" creationid="miurahr" creationdate="20201102T062503Z">
+        <seg>ガーナ</seg>
       </tuv>
     </tu>
     <tu>
@@ -4474,6 +4506,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>pgRouting の実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Russia</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062423Z" creationid="miurahr" creationdate="20201102T062423Z">
+        <seg>ロシア</seg>
       </tuv>
     </tu>
     <tu>
