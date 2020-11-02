@@ -1382,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Catalan</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062119Z" creationid="miurahr" creationdate="20201102T062119Z">
+        <seg>カタロニア語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Catalogue</seg>
       </tuv>
       <tuv lang="ja">
@@ -2046,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>French</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T061914Z" creationid="miurahr" creationdate="20201102T061914Z">
+        <seg>フランス語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Friendly graphical user interface:</seg>
       </tuv>
       <tuv lang="ja">
@@ -2358,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>German</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062030Z" creationid="miurahr" creationdate="20201102T062030Z">
+        <seg>ドイツ語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Get support: https://www.openstreetmap.org/help</seg>
       </tuv>
       <tuv lang="ja">
@@ -2410,6 +2434,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ツールチップとマーカー作成の高柔軟性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Greek</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062039Z" creationid="miurahr" creationdate="20201102T062039Z">
+        <seg>ギリシャ語</seg>
       </tuv>
     </tu>
     <tu>
@@ -2514,6 +2546,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>何百もの空間関数群</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hungarian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T061941Z" creationid="miurahr" creationdate="20201102T061941Z">
+        <seg>ハンガリー語</seg>
       </tuv>
     </tu>
     <tu>
@@ -2654,6 +2694,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Indonesia</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T061925Z" creationid="miurahr" creationdate="20201102T061925Z">
+        <seg>インドネシア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Indonesian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T061936Z" creationid="miurahr" creationdate="20201102T061936Z">
+        <seg>インドネシア語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Information Center for the Environment at the University of California, Davis provides hardware resources and development support to the OSGeoLive project.</seg>
       </tuv>
       <tuv lang="ja">
@@ -2782,6 +2838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T061854Z" creationid="miurahr" creationdate="20201102T061854Z">
+        <seg>イタリア語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JOSM Quickstart</seg>
       </tuv>
       <tuv lang="ja">
@@ -2830,6 +2894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T061806Z" creationid="miurahr" creationdate="20201102T061806Z">
+        <seg>日本語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Java Swing/AWT writing</seg>
       </tuv>
       <tuv lang="ja">
@@ -2874,6 +2946,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>キーボードナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Korean</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T061817Z" creationid="miurahr" creationdate="20201102T061817Z">
+        <seg>韓国語</seg>
       </tuv>
     </tu>
     <tu>
@@ -3798,6 +3878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T061835Z" creationid="miurahr" creationdate="20201102T061835Z">
+        <seg>ポーランド語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Popular Supported Formats</seg>
       </tuv>
       <tuv lang="ja">
@@ -4538,6 +4626,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ソースのオプション:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201102T062019Z" creationid="miurahr" creationdate="20201102T062019Z">
+        <seg>スペイン語</seg>
       </tuv>
     </tu>
     <tu>
