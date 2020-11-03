@@ -1398,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Access to a large number of scientific modules via the Graphical User Interface or the command line</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020144Z" creationid="miurahr" creationdate="20201103T020144Z">
+        <seg>グラフィカル・ユーザー・インタフェース(GUI)またはコマンドライン(CLI)を使用し多数の科学モジュールへのアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ad-hoc access, extraction, aggregation, as well as remix and analytics is enabled through a NewSQL raster query language with highly effective server-side optimization.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014358Z" creationid="miurahr" creationdate="20201103T014358Z">
@@ -1498,6 +1506,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011634Z" creationid="miurahr" creationdate="20201103T011626Z">
         <seg>さらに WFS-T プロトコルを利用して、認証されたユーザがサーバのデータを編集、アップロードすることで更新できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Among others the package includes modules for geostatistics, image classification, projections, simulation of dynamic processes (hydrology, landscape development) and terrain analysis.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015623Z" creationid="miurahr" creationdate="20201103T015623Z">
+        <seg>このパッケージには、地球統計学、画像分類、投影、動的プロセスのシミュレーション(水文学、景観開発)、地形解析などのモジュールが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2566,6 +2582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Externally governed items referenced through URIs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015542Z" creationid="miurahr" creationdate="20201103T015542Z">
+        <seg>URIを通じて参照される外部的に管理される項目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Extra parameters like f.e.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003409Z" creationid="miurahr" creationdate="20201103T003409Z">
@@ -2698,6 +2722,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>自由に利用できます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Free-text search</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015523Z" creationid="miurahr" creationdate="20201103T015523Z">
+        <seg>自由文検索</seg>
       </tuv>
     </tu>
     <tu>
@@ -3310,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Highly flexible and customisable data models</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015446Z" creationid="miurahr" creationdate="20201103T015446Z">
+        <seg>柔軟性とカスタマイズ性に優れたデータ・モデル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Homepage: http://merkaartor.be</seg>
       </tuv>
       <tuv lang="ja">
@@ -3382,6 +3422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INSPIRE register federation format support (option to automatically create the RoR format)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015550Z" creationid="miurahr" creationdate="20201103T015550Z">
+        <seg>INSPIREレジスタフェデレーションフォーマットのサポート(RoRフォーマットを自動的に作成するオプション)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IRC users might try the #osgeolive or #osgeo channel at Freenode.net for real-time assistance.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T104134Z" creationid="smellman" creationdate="20201101T104134Z">
@@ -3450,6 +3498,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>実装されている標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import/Export to different file formats</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020148Z" creationid="miurahr" creationdate="20201103T020148Z">
+        <seg>異なるファイル形式への読み込み/書き出し</seg>
       </tuv>
     </tu>
     <tu>
@@ -3754,6 +3810,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011713Z" creationid="miurahr" creationdate="20201103T011713Z">
         <seg>様々な (WMS-C, WMTS, TMS, Google Maps KML, Virtual Earth などの) サービスインターフェイスを実装し、地図画像配信を加速・最適化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It includes a large number of modules for the analysis of vector (point, line and polygon), table, grid and image data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015620Z" creationid="miurahr" creationdate="20201103T015612Z">
+        <seg>これはベクトル(点,線,多角形),表,格子,画像データの解析のための多数のモジュールを含みます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4254,6 +4318,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Management of the full lifecycle of the reference codes (based on the ISO 19135 Standard)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015442Z" creationid="miurahr" creationdate="20201103T015442Z">
+        <seg>(ISO19135規格に基づく)リファレンスコードのライフサイクル全体の管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manipulation of vector data (merging/intersection/attributes)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020210Z" creationid="miurahr" creationdate="20201103T020210Z">
+        <seg>ベクターデータの操作(マージ/交差/属性)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Many other formats via GDAL and OGR</seg>
       </tuv>
       <tuv lang="ja">
@@ -4534,6 +4614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Multi-lingual content support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015449Z" creationid="miurahr" creationdate="20201103T015449Z">
+        <seg>多言語コンテンツのサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Multi-touch</seg>
       </tuv>
       <tuv lang="ja">
@@ -4554,6 +4642,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>複数フォントサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Multiple authentication options</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015538Z" creationid="miurahr" creationdate="20201103T015538Z">
+        <seg>複数の認証オプション</seg>
       </tuv>
     </tu>
     <tu>
@@ -5623,6 +5719,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RESTful API with content negotiation (including OpenAPI 3 descriptor)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015512Z" creationid="miurahr" creationdate="20201103T015512Z">
+        <seg>コンテンツネゴシエーションを持つ(OpenAPI 3記述子を含む)RESTful API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rasdaman has received a series of international innovation awards, among them the prestigeous European IT Prize and Geospatial Innovation Award.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014458Z" creationid="miurahr" creationdate="20201103T014458Z">
@@ -5799,6 +5903,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reprojection/Resampling of data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020152Z" creationid="miurahr" creationdate="20201103T020152Z">
+        <seg>データの再投影/再サンプリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Requirements</seg>
       </tuv>
       <tuv lang="ja">
@@ -5923,6 +6035,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T062423Z" creationid="miurahr" creationdate="20201102T062423Z">
         <seg>ロシア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SAGA (System for Automated Geoscientific Analyses) is an open source geographic information system (GIS) used for editing and analysing spatial data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015609Z" creationid="miurahr" creationdate="20201103T015609Z">
+        <seg>SAGA(System for Automated Geoscientific Analyses)は,空間データの編集と解析に使用されるオープンソースの地理情報システム(GIS)である。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SAGA has been in development since 2001, and the centre of SAGA development is located in the Institute of Geography at the University of Hamburg, with contributions from the growing world wide community.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020123Z" creationid="miurahr" creationdate="20201103T020123Z">
+        <seg>SAGAは2001年から開発を行われており、SAGAの開発の中心はハンブルク大学の地理学研究所にあり、世界中のコミュニティからの貢献を受けています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6091,6 +6219,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>user="user", password="user" でログインします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Service formats can be easily added or customised (default formats: JSON and ISO 19135 XML)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015535Z" creationid="miurahr" creationdate="20201103T015535Z">
+        <seg>サービスフォーマットは簡単に追加またはカスタマイズできる(デフォルトフォーマット:JSONとISO19135XML)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6471,6 +6607,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Support for versioning</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015451Z" creationid="miurahr" creationdate="20201103T015451Z">
+        <seg>バージョン管理のサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Support of numerous Open Geospatial Consortium  (OGC) standards</seg>
       </tuv>
       <tuv lang="ja">
@@ -6499,6 +6643,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>サポートするフォーマット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supported formats: HTML, ISO 19135 XML, JSON</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015527Z" creationid="miurahr" creationdate="20201103T015527Z">
+        <seg>サポートされるフォーマット:HTML、ISO19135XML、JSON</seg>
       </tuv>
     </tu>
     <tu>
@@ -6803,6 +6955,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011644Z" creationid="miurahr" creationdate="20201103T011644Z">
         <seg>シェープファイルや JSON のような標準規格同様に、データは圧縮した GML で送受信を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The functionality can be accessed through a GUI, the command line or by using the C++ API.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015627Z" creationid="miurahr" creationdate="20201103T015627Z">
+        <seg>この機能には、GUI、コマンドライン、またはC++APIを使用してアクセスできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7351,6 +7511,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>User-friendly editing interface to easily add, edit and manage the registers and reference codes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015408Z" creationid="miurahr" creationdate="20201103T015408Z">
+        <seg>登録者とリファレンスコードの追加、編集、管理を容易にする使いやすい編集インタフェース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Users can accomplish a broad array of tasks such as: image classification, statistical analysis to infer spatial relationships and patterns of features, and others listed in the core features below.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013600Z" creationid="miurahr" creationdate="20201103T013600Z">
@@ -7563,6 +7731,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Web サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Web-app to access the reference codes in a human readable way.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015554Z" creationid="miurahr" creationdate="20201103T015554Z">
+        <seg>人間が読める方法で参照コードにアクセスするためのWebアプリケーション。</seg>
       </tuv>
     </tu>
     <tu>
