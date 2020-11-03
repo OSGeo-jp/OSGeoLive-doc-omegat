@@ -3566,6 +3566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here's a few resources to check out next:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T023349Z" creationid="miurahr" creationdate="20201103T023349Z">
+        <seg>次に、いくつかのをいくつか紹介しよう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>High-precision arithmetic</seg>
       </tuv>
       <tuv lang="ja">
@@ -6287,6 +6295,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ready to use MapServer?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T023352Z" creationid="miurahr" creationdate="20201103T023352Z">
+        <seg>MapServerを使用する準備はできていますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reboot computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T053027Z" creationid="miurahr" creationdate="20201102T053006Z">
@@ -7707,6 +7723,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>論理または正規表現ベースのクラスを利用した主題マッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then join the community on the `Mailing Lists &lt;https://www.mapserver.org/community/lists.html&gt;`_ to exchange ideas, discuss potential software improvements and ask questions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T023521Z" creationid="miurahr" creationdate="20201103T023521Z">
+        <seg>次に、`メーリングリスト&lt;https://www.mapserver.org/community/lists.html&gt;` _のコミュニティに参加して、アイデアを交換したり、ソフトウェアの改善点について話し合ったり、質問したりします。</seg>
       </tuv>
     </tu>
     <tu>
