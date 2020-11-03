@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Licence:** `ISC &lt;https://en.wikipedia.org/wiki/ISC_license&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T065040Z" creationid="miurahr" creationdate="20201103T065040Z">
+        <seg>**ライセンス:** `ISC &lt;https://en.wikipedia.org/wiki/ISC_license&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Licence:** `MIT license &lt;https://opensource.org/licenses/MIT&gt;`_</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051241Z" creationid="smellman" creationdate="20201103T051241Z">
@@ -742,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-ideditor|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T065045Z" creationid="miurahr" creationdate="20201103T065045Z">
+        <seg>**ソフトウェアバージョン:** |version-ideditor|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-leaflet|</seg>
       </tuv>
       <tuv lang="ja">
@@ -966,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Support:** https://help.openstreetmap.org/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T065125Z" creationid="miurahr" creationdate="20201103T065125Z">
+        <seg>**サポート:** https://help.openstreetmap.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Support:** https://lists.osgeo.org/mailman/listinfo/gdal-dev, https://www.osgeo.org/service-providers/</seg>
       </tuv>
       <tuv lang="ja">
@@ -1050,6 +1074,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T053451Z" creationid="sanak" creationdate="20201103T053451Z">
         <seg>**サポートする Java バージョン:** 7+, (バンドルバージョン: 8+)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Supported Platforms:** Anything that supports a browser: Windows, GNU/Linux, Mac, Android, iOS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T065118Z" creationid="miurahr" creationdate="20201103T065118Z">
+        <seg>**対応プラットフォーム:**  Windows, GNU/Linux, Mac, Android, iOSのブラウザならどれでも</seg>
       </tuv>
     </tu>
     <tu>
@@ -1370,6 +1402,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**Webサイト:** https://trac.osgeo.org/geos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://wiki.openstreetmap.org/wiki/ID</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T065034Z" creationid="miurahr" creationdate="20201103T065034Z">
+        <seg>**Webサイト:** https://wiki.openstreetmap.org/wiki/ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -2614,10 +2654,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Browser Based</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T065018Z" creationid="miurahr" creationdate="20201103T065018Z">
+        <seg>ブラウザベース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Browser Facing GIS</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ブラウザ向け GIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Browser based editor for OpenStreetMap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T064924Z" creationid="miurahr" creationdate="20201103T064924Z">
+        <seg>OpenStreetMap用ブラウザベースエディタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3962,6 +4018,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>極めて軽量 — JS コードを gzip 圧縮した状態で 34 KB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T065014Z" creationid="miurahr" creationdate="20201103T065014Z">
+        <seg>高速</seg>
       </tuv>
     </tu>
     <tu>
@@ -5586,6 +5650,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055009Z" creationid="miurahr" creationdate="20201103T055009Z">
         <seg>国際的なキーボードのサポートがインストールされていますが、特定のキーボード用にシステムを設定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Intuitive</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T065016Z" creationid="miurahr" creationdate="20201103T065016Z">
+        <seg>直感的</seg>
       </tuv>
     </tu>
     <tu>
@@ -7382,6 +7454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OpenStreetMap Editing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T065012Z" creationid="miurahr" creationdate="20201103T065012Z">
+        <seg>OpenStreetMap編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OpenStreetMap Quickstart</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052114Z" creationid="miurahr" creationdate="20201102T052114Z">
@@ -7922,6 +8002,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012137Z" creationid="miurahr" creationdate="20201103T012137Z">
         <seg>コアライブラリのspatial facilitesを使用して構築された追加機能を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Provides common GIS tools like data loading, map navigation, query map information like alphanumeric information, distance measurement, thematic cartography, legend edition using common legend types, labelling, feature selection by many selection types, data tables with statistics, ordering, table relations, table linking, layout manager, geoprocessing tools, CAD, raster processing, etc.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T064729Z" creationid="miurahr" creationdate="20201103T064729Z">
+        <seg>データ読み込み、マップナビゲーション、英数字情報などのクエリーマップ情報、距離計測、主題地図学、一般的な凡例タイプを使用した凡例編集、ラベル付け、多くの選択タイプによるフィーチャ選択、統計情報を含むデータテーブル、順序付け、テーブルリレーション、テーブルリンク、レイアウトマネージャ、地理処理ツール、CAD、ラスター処理などの一般的なGISツールを提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9847,10 +9935,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The iD editor is a great way to edit small and easy changes that don’t require the advanced features of the more advanced :doc:`JOSM &lt;josm_overview&gt;` editor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T065008Z" creationid="miurahr" creationdate="20201103T065008Z">
+        <seg>iDエディタは、より高度な :doc:`JOSM&lt;josm_overview&gt;`エディタの高機能を必要としない、小さくて簡単な変更を編集するときに、優れた方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The iD editor is the de facto, browser-based OpenStreetMap editor.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051105Z" creationid="miurahr" creationdate="20201103T051059Z">
         <seg>iDエディタは事実上、ブラウザベースのOpenStreetMapエディタです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The iD editor is the de facto, browser-based `OpenStreetMap &lt;https://www.openstreetmap.org&gt;`_ editor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T064917Z" creationid="miurahr" creationdate="20201103T064917Z">
+        <seg>iDエディタは、事実上のOSM標準のブラウザベースの`OpenStreetMap &lt;https://www.openstreetmap.org&gt;`_エディタです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11095,6 +11199,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Web Map Tile Service (for basemaps)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T065027Z" creationid="miurahr" creationdate="20201103T065027Z">
+        <seg>Webマップタイルサービス(ベースマップの場合)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Web Mapping Framework</seg>
       </tuv>
       <tuv lang="ja">
@@ -11547,6 +11659,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>`R-Spatial &lt;https://www.rspatial.org&gt;`_ ページもチェックしてみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You name it, there's a `tool for it &lt;https://grass.osgeo.org/grass78/manuals/keywords.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T064801Z" creationid="miurahr" creationdate="20201103T064801Z">
+        <seg>名前から逆引するための`ツールがあります &lt;https://grass.osgeo.org/grass78/manuals/keywords.html&gt;`_.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12347,6 +12467,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>i18n コード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>iD editor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T064927Z" creationid="miurahr" creationdate="20201103T064927Z">
+        <seg>iDエディタ</seg>
       </tuv>
     </tu>
     <tu>
