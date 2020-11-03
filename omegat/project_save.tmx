@@ -1334,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A rasdaman driver is part of GDAL and MapServer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014431Z" creationid="miurahr" creationdate="20201103T014431Z">
+        <seg>rasdamanドライバはGDALとMapServerの一部です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A stateless, low memory renderer, particularly useful in server-side environments.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012008Z" creationid="miurahr" creationdate="20201103T012008Z">
@@ -1386,6 +1394,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>シェープファイルに VIRTUAL TABLE としてアクセスすると、インポートや変換なしにシェープファイルに SQL クエリを発行可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ad-hoc access, extraction, aggregation, as well as remix and analytics is enabled through a NewSQL raster query language with highly effective server-side optimization.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014358Z" creationid="miurahr" creationdate="20201103T014358Z">
+        <seg>NewSQL、集約、リミックス、分析は、非常に効果的なサーバサイド最適化を備えたNewSQLラスタクエリ言語を通じて可能になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1486,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Among the operators of rasdaman services are mapping agencies and climate data centers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014514Z" creationid="miurahr" creationdate="20201103T014514Z">
+        <seg>rasdamanサービスの事業者には、地図作成機関と気象データセンターがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Android browser 2.2+, 3.1+, 4+</seg>
       </tuv>
       <tuv lang="ja">
@@ -1538,6 +1562,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011524Z" creationid="miurahr" creationdate="20201103T011524Z">
         <seg>データはイメージとして提供されるため、データは完全に安全で保護されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At https://standards.rasdaman.com a collection of interactive demos is available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014425Z" creationid="miurahr" creationdate="20201103T014425Z">
+        <seg>https://standards.rasdaman.comでは、対話型デモのコレクションが利用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1818,6 +1850,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>空間データのためのクラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cloud/cluster parallelization is accomplished in a secure, administrator-controlled way.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014402Z" creationid="miurahr" creationdate="20201103T014402Z">
+        <seg>クラウド/クラスタの並列化は、管理者が制御する安全な方法で行われます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2474,6 +2514,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>イベント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Examples are enumerations, controlled vocabularies, taxonomies, thesauri or, simply, ‘lists of things’.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015215Z" creationid="miurahr" creationdate="20201103T015215Z">
+        <seg>例としては、列挙、統制された語彙、分類法、シソーラス、あるいは単に「ものの一覧」があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3430,6 +3478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition to the raster query language, rasdaman supports OGC's WMS, WCS and WCPS web service standards, as well as C++ and Java APIs.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014416Z" creationid="miurahr" creationdate="20201103T014416Z">
+        <seg>rasdamanでは、ラスタークエリー言語に加えて、OGCのWMS、WCS、OGCのWMS、WCS、WCPSウェブサービス標準をサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, move to the "Shared Folders" section, and click the "Add folder" (green + icon on the right) to find a directory on your host computer that you wish to share inside the VM.</seg>
       </tuv>
       <tuv lang="ja">
@@ -3530,6 +3586,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010324Z" creationid="miurahr" creationdate="20201103T010324Z">
         <seg>情報レイヤー(天気、リアルタイム・クラウド、昼/夜ビュー、リアルタイム衛星、ウィキペディアの記事、写真、郵便番号、地震)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Initially developed as a central component of the EU's :doc:`INSPIRE &lt;inspire_overview&gt;` infrastructure, it provides a consistent central access point where labels and descriptions for reference codes can be easily browsed by humans and retrieved by machines.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015034Z" creationid="miurahr" creationdate="20201103T015034Z">
+        <seg>当初はEUの:doc:`INSPIRE&lt;inspire_overview&gt;`インフラストラクチャの中心的なコンポーネントとして開発されたもので、リファレンスコードのラベルと説明を人間が簡単にブラウズし、マシンが検索できる一貫した中央アクセスポイントを提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5559,6 +5623,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rasdaman has received a series of international innovation awards, among them the prestigeous European IT Prize and Geospatial Innovation Award.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014458Z" creationid="miurahr" creationdate="20201103T014458Z">
+        <seg>Rasdamanは、ヨーロッパIT賞と地理空間イノベーション賞といった、数々の国際的なイノベーション賞を受賞しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rasdaman is an Array Database System which provides flexible, fast, scalable geo services for multi-dimensional spatio-temporal sensor, image, simulation, and statistics data of unlimited volume.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014352Z" creationid="miurahr" creationdate="20201103T014326Z">
@@ -5643,6 +5715,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T105628Z" creationid="smellman" creationdate="20201101T105628Z">
         <seg>詳細については、doc:`Contents&lt;./overview/overview&gt;`からリンクされている特定のアプリケーションの説明を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reference codes are exchanged between applications to uniquely reference some ‘thing’.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015114Z" creationid="miurahr" creationdate="20201103T015038Z">
+        <seg>リファレンスコードは、何らかの「もの」を一意に参照するためにアプリケーション間で交換されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6487,6 +6567,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Technology is mature and stable, being in operational for more than ten years.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014502Z" creationid="miurahr" creationdate="20201103T014502Z">
+        <seg>テクノロジーは成熟して安定しており、10年以上にわたって稼働しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That is it.</seg>
       </tuv>
       <tuv lang="ja">
@@ -6619,6 +6707,30 @@
       </tuv>
       <tuv lang="ja">
         <seg>オープンソース地理空間財団 (OSGeo) は主要な開発やインフラのホスト、プロジェクトの要員を提供し、これに貢献する多くのソフトウェアチームのためにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Re3gistry 2 is a reusable open source solution for managing and sharing "reference codes".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015150Z" creationid="miurahr" creationdate="20201103T015024Z">
+        <seg>Re3gistry 2は、「リファレンスコード」を管理および共有するための再利用可能なオープンソースソリューションです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Re3gistry 2 supports organisations in managing and updating reference codes in a consistent way.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015228Z" creationid="miurahr" creationdate="20201103T015228Z">
+        <seg>Re3gistry 2は、組織が一貫した方法で参照コードを管理し更新することを支援しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Re3gistry software version numbers comply with the Semantic Versioning Specification 2.0.0.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015347Z" creationid="miurahr" creationdate="20201103T015347Z">
+        <seg>Re3gistryソフトウェアのバージョン番号は、セマンティック・バージョン付与標準2.0.0に準拠しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6867,6 +6979,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014111Z" creationid="miurahr" creationdate="20201103T014111Z">
         <seg>これらのサブプロジェクトには、* Proj4js (JavaScript) - used in :doc:`OpenLayers &lt;openlayers_overview&gt;`があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They can be used to define sets of permissible values for a data field or to provide a reference or context for the data being exchanged.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T015155Z" creationid="miurahr" creationdate="20201103T015155Z">
+        <seg>これらを使用して、データフィールドの許容値のセットを定義したり、交換されるデータの参照またはコンテキストを提供したりできます。</seg>
       </tuv>
     </tu>
     <tu>
