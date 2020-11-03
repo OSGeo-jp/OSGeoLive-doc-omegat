@@ -4,7 +4,7 @@ Software Version	ソフトウエアバージョン
 Licence	ライセンス
 Styled Layer Descriptor	Styled Layer Descriptor	訳語が定義されていない
 Supported Platforms	対応OS
-vector data	ベクターデータ	要検討
+vector data	ベクタデータ	要検討
 marker	マーカー
 map tile	地図タイル
 dynamic map	動的な地図
@@ -16,3 +16,7 @@ redigitise	再デジタル化
 political boundaries	政治的境界	国境のほうがいいか？
 reference code	リファレンスコード
 Semantic Versioning Specification	セマンティック・バージョン付与標準
+hydrology	水文学	スイモンガク（地球上の水について循環の観点から研究する学問） (例文： in the areas of hydrology and hydrogeology　水文学と水文地質学の分野で)
+landscape development	景観開発
+terrain analysis	地形分析
+projection	投影
