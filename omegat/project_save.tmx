@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10,6 +10,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020940Z" creationid="miurahr" creationdate="20201103T020940Z">
         <seg>(4)右のセルは、ラスタデータとベクタデータがレンダリングされるメイン表示領域です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Requires an internet connection).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054911Z" creationid="miurahr" creationdate="20201103T054911Z">
+        <seg>(インターネット接続が必要です)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Resolving conflicts often involves accepting the other persons edits, in which case you will probably wish to return to the feature in question and edit again (**this time save soon after the edit to try to avoid a conflict again!**).*</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053348Z" creationid="miurahr" creationdate="20201103T053348Z">
+        <seg>*コンフリクトを解決するには、多くの場合、他のユーザによる編集を受け入れる必要があります。その場合は、問題のフィーチャーに戻って再度編集することをお勧めします(**今回は編集後すぐに保存して、再度コンフリクトを回避します!**)。*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*The contents of OSGeoLive are provided by the copyright holders and contributors "as is" and any express or implied warranties, including, but not limited to, the implied warranties of the merchantability and fitness for a particular purpose are disclaimed.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T111258Z" creationid="smellman" creationdate="20201101T111258Z">
@@ -1550,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A `GeoExt workshop &lt;https://github.com/geoext/geoext3-ws&gt;`_ details all the steps for configuring and using GeoExt3 in your ExtJS applications</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054718Z" creationid="miurahr" creationdate="20201103T054718Z">
+        <seg>`GeoExtワークショップ&lt;https://github.com/geoext/GeoExt3-ws&gt;`_では、ExtJSアプリケーションでGeoExt3を設定および使用するためのすべての手順について詳しく説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A browser based client</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041542Z" creationid="miurahr" creationdate="20201103T041542Z">
@@ -1726,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Above all Mapnik is about making beautiful maps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055250Z" creationid="miurahr" creationdate="20201103T055210Z">
+        <seg>Mapnikの目的は、何よりも美しい地図を作ることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Access GIS data in many file formats and spatial databases</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011954Z" creationid="miurahr" creationdate="20201103T011954Z">
@@ -1806,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add Wikipedia link |image43|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053542Z" creationid="miurahr" creationdate="20201103T053542Z">
+        <seg>Wikipediaリンクを追加 |image43|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add a new layer to the Mapfile to serve a local Shapefile</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022338Z" creationid="miurahr" creationdate="20201103T022338Z">
@@ -1814,10 +1854,66 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add accessibility information |image42|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053534Z" creationid="miurahr" creationdate="20201103T053534Z">
+        <seg>アクセスのしやすさ情報を追加 |image42|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add additional information and custom tags</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053350Z" creationid="miurahr" creationdate="20201103T053350Z">
+        <seg>追加情報とカスタムタグの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add contacts / phone number |image39|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053451Z" creationid="miurahr" creationdate="20201103T053451Z">
+        <seg>連絡先/電話番号の追加 |image39|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add elevation |image37|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053425Z" creationid="miurahr" creationdate="20201103T053425Z">
+        <seg>標高の追加 |image37|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add notes |image38|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053432Z" creationid="miurahr" creationdate="20201103T053432Z">
+        <seg>ノートの追加 |image38|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add presets</seg>
       </tuv>
       <tuv lang="ja">
         <seg>プリセットを追加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add source tag |image40|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053503Z" creationid="miurahr" creationdate="20201103T053503Z">
+        <seg>sourceタグの追加 |image40|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add website |image41|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053511Z" creationid="miurahr" creationdate="20201103T053511Z">
+        <seg>websiteの追加 |image41|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1946,6 +2042,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022157Z" creationid="miurahr" creationdate="20201103T022157Z">
         <seg>要求のすべてのパラメータは、MapServer固有の「*?map=/home/user/mapserver_quickstart.map*」を除き、WMS固有です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All the JavaScript in the following sections should be pasted after the ``// all JavaScript application code should go here`` comment in the ``Ext.onReady`` function.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054028Z" creationid="miurahr" creationdate="20201103T054028Z">
+        <seg>以下のセクションにあるすべてのJavaScriptは、``Ext.onReady``関数の``//all JavaScript application code should go here``コメントの後に貼り付ける必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2502,6 +2606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the plus sign (+) to add keys and values or click the trash icon to delete tags.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053629Z" creationid="miurahr" creationdate="20201103T053629Z">
+        <seg>プラス記号(+)をクリックしてキーと値を追加するか、ごみ箱アイコンをクリックしてタグを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the reset button to return to the default position.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051937Z" creationid="miurahr" creationdate="20201103T051937Z">
@@ -2582,6 +2694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Completing the steps below will result in the demo GeoExt application at http://localhost/geoext/.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053845Z" creationid="miurahr" creationdate="20201103T053845Z">
+        <seg>以下のステップを完了すると、http://localhost/geoext/ でGeoExtアプリケーションのデモが行われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Complex Multi Label/Symbol Symbology</seg>
       </tuv>
       <tuv lang="ja">
@@ -2606,6 +2726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Configure OpenLayers objects</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054036Z" creationid="miurahr" creationdate="20201103T054036Z">
+        <seg>OpenLayersオブジェクトを設定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Configuring the background layer</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051426Z" creationid="miurahr" creationdate="20201103T051426Z">
@@ -2618,6 +2746,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>問い合わせ先</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contact the program of interest directly for more information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054855Z" creationid="miurahr" creationdate="20201103T054855Z">
+        <seg>詳しくは興味のあるプログラムまで直接お問い合わせください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2726,6 +2862,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create a viewport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054628Z" creationid="miurahr" creationdate="20201103T054628Z">
+        <seg>ビューポートを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create an HTML page</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053848Z" creationid="miurahr" creationdate="20201103T053848Z">
+        <seg>HTMLページを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create the file "mapserver_quickstart.map" in your home directory: :file:`/home/user/mapserver_quickstart.map`</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021639Z" creationid="miurahr" creationdate="20201103T021639Z">
@@ -2770,6 +2922,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Linux 環境でブータブル USB ドライブの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating maps in python is easy with Mapnik.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055311Z" creationid="miurahr" creationdate="20201103T055311Z">
+        <seg>Mapnikを使えば、Pythonでマップを簡単に作成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3342,6 +3502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter a comment about your edits and click **Save**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053339Z" creationid="miurahr" creationdate="20201103T053339Z">
+        <seg>編集内容についてのコメントを入力し、**保存**をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter a name such as OSGeoLive, and choose Linux as the "Operating system", and Ubuntu as the "Version".</seg>
       </tuv>
       <tuv lang="ja">
@@ -3494,6 +3662,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>First lets create a map tile layer using OpenStreetMap, and some WMS layers that are available from the MapServer Itasca demo on OSGeoLive.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054043Z" creationid="miurahr" creationdate="20201103T054043Z">
+        <seg>まず、OpenStreetMapを使用してマップタイル画層を作成し、OSGeoLiveのMapServer Itascaデモで使用できるWMS画層をいくつか作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First of all we will create a ``GeoExt.component.Map``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054216Z" creationid="miurahr" creationdate="20201103T054216Z">
+        <seg>まず、``GeoExt.component.Map``を作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For Developers</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002619Z" creationid="miurahr" creationdate="20201103T002619Z">
@@ -3514,6 +3698,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>各プログラムの配布の追加情報については、各プログラムのページで表示されるライセンスを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For additional languages see :menuselection:`Preferences --&gt; Language Support` from the main menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054917Z" creationid="miurahr" creationdate="20201103T054903Z">
+        <seg>その他の言語については、メインメニューから :menuselection:`Preferences --&gt; Language Support` を確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3858,6 +4050,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>DXF ファイルの生成とエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoExt Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053808Z" creationid="miurahr" creationdate="20201103T053808Z">
+        <seg>GeoExt クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoExt is a JavaScript library that runs in the browser, it combines and enhances the ExtJS framework and OpenLayers library.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053825Z" creationid="miurahr" creationdate="20201103T053812Z">
+        <seg>GeoExtはブラウザ上で動作するJavaScriptライブラリであり、ExtJSフレームワークとOpenLayersライブラリを組み合わせて拡張したものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4462,6 +4670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a specific program continues to display in English, then the program doesn't have a translation available - please consider volunteering to write a translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054850Z" creationid="miurahr" creationdate="20201103T054850Z">
+        <seg>特定のアプリケーションで英語が表示され続ける場合は、そのプラグラムで翻訳が利用できない状態になっています - ボランティアでの翻訳参加検討をお願いします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the feature does not match a class the next class is checked.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022835Z" creationid="miurahr" creationdate="20201103T022835Z">
@@ -4530,6 +4746,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>質問、コメント、または問題が発生した場合は、`私たちのメーリングリスト &lt;https://lists.osgeo.org/mailman/listinfo/osgeolive&gt;`_ にご連絡ください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you have edited the same feature (point, way or area) at the same time as another person was editing it, you will receive a warning that your edits cannot be uploaded until you have resolved the **conflicts** - choose whose edits to accept &amp; upload your changes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053343Z" creationid="miurahr" creationdate="20201103T053343Z">
+        <seg>他のユーザが編集していたのと同時に同じフィーチャ(点、経路、または領域)を編集した場合は、**衝突**を解決するまで編集をアップロードできないという警告が表示されます。変更を受け入れてアップロードする編集を選択してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4742,6 +4966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this step we will set-up an empty HTML page which will contain the application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053851Z" creationid="miurahr" creationdate="20201103T053851Z">
+        <seg>このステップでは、アプリケーションを含む空のHTMLページを設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Include coastline, land, ocean, minor islands, reefs, physical region features and points, rivers, lakes, glaciated areas, Antarctic ice shelves, bathymetry, geographic lines, and graticles.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012727Z" creationid="miurahr" creationdate="20201103T012727Z">
@@ -4926,6 +5158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>International keyboard support is installed, but you will need to configure the system for your specific keyboard.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055009Z" creationid="miurahr" creationdate="20201103T055009Z">
+        <seg>国際的なキーボードのサポートがインストールされていますが、特定のキーボード用にシステムを設定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It also can produce sophisticated presentation graphics and hardcopy maps.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011111Z" creationid="miurahr" creationdate="20201103T011111Z">
@@ -5026,6 +5266,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T110511Z" creationid="smellman" creationdate="20201101T110511Z">
         <seg>OSGeoLive は全てフリーソフトで構成されており、自由に複製、配布することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is easily extensible and suitable for both desktop and web development.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055257Z" creationid="miurahr" creationdate="20201103T055257Z">
+        <seg>簡単に拡張でき、デスクトップとWebの両方の開発に適しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5710,6 +5958,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mapnik Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055158Z" creationid="miurahr" creationdate="20201103T055158Z">
+        <seg>Mapnik クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapnik and its python bindings are installed and ready to be used for scripting on this machine.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055308Z" creationid="miurahr" creationdate="20201103T055308Z">
+        <seg>Mapnikとそのpythonバインディングがインストールされ、このマシンでのスクリプト作成に使用できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapnik is an toolkit for developing mapping applications.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055153Z" creationid="miurahr" creationdate="20201103T055153Z">
+        <seg>Mapnikは、マッピング・アプリケーションを開発するためのツールキットです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mapping and Timeline for events</seg>
       </tuv>
       <tuv lang="ja">
@@ -6030,6 +6302,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next click on :guilabel:`Customize active input methods` and then on the :guilabel:`Select an input method` button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055052Z" creationid="miurahr" creationdate="20201103T055052Z">
+        <seg>次に、:guilabel:`Customize active input methods`ボタンをクリックし、:guilabel:`Select an input method`ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next paste in the HTML below, and save the file as ``/var/www/html/geoext/demo.html``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053929Z" creationid="miurahr" creationdate="20201103T053929Z">
+        <seg>次に下のHTMLに貼り付け、ファイルを``/var/www/html/geoext/demo.html``として保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next we are going to add in a WFS vector layer - this is a little more complicated, but follows the same approach of creating a source and then a layer as the previous layers:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054047Z" creationid="miurahr" creationdate="20201103T054047Z">
+        <seg>次に、WFSベクトルレイヤを追加します。これは少し複雑ですが、前のレイヤと同じ方法でソースとレイヤを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next we will configure some OpenLayers objects used by the application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054040Z" creationid="miurahr" creationdate="20201103T054040Z">
+        <seg>次に、アプリケーションが使用するOpenLayersオブジェクトを設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next we will create a layer tree component.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054231Z" creationid="miurahr" creationdate="20201103T054231Z">
+        <seg>次に、画層ツリーコンポーネントを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No external dependencies</seg>
       </tuv>
       <tuv lang="ja">
@@ -6118,10 +6430,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now click the :guilabel:`Add` button on the right to add an additional layout and then :guilabel:`Close` the IBus Preferences window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055121Z" creationid="miurahr" creationdate="20201103T055121Z">
+        <seg>次に右側の:guilabel:`Add`ボタンをクリックしてレイアウトを追加し、:guilabel:`Close`をクリックしてiBus 設定ウィンドウを閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now files on your host machine in the chosen folder will also be available in the VM in the "GIS" folder in user's home directory.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>これで、ホストマシンで選択したフォルダ内のファイルが、 VM 上のユーザのホームディレクトリ内の "GIS" フォルダでも利用可能になりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now the map and layers have been configured we are going to create and configure our GeoExt components.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054203Z" creationid="miurahr" creationdate="20201103T054203Z">
+        <seg>これで、マップと画層が設定されました。次に、GeoExtコンポーネントを作成して設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now we are going to create our OpenLayers map object configured with the layers we just created.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054051Z" creationid="miurahr" creationdate="20201103T054051Z">
+        <seg>次に、作成した画層で設定されたOpenLayersマップオブジェクトを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6382,6 +6718,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open FeatherPad from the command line with elevated permissions, so you can save the file, using System Tools &gt; QTerminal and then running run the command below:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053920Z" creationid="miurahr" creationdate="20201103T053920Z">
+        <seg>管理者特権でコマンドラインからFeatherPadを開き、[システムツール]&gt;[QTerminal]を使用してファイルを保存し、次のコマンドを実行して実行できるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open Firefox and navigate to `&lt;http://localhost:8011/demo&gt;`_</seg>
       </tuv>
       <tuv lang="ja">
@@ -6418,6 +6762,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052438Z" creationid="smellman" creationdate="20201103T052438Z">
         <seg>端末を開き(:menuselection:`System Tools--&gt;LXTerminal`)、次を入力します::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open a terminal window and type `python` on the command line to enter a python interpreter.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055333Z" creationid="miurahr" creationdate="20201103T055333Z">
+        <seg>ターミナルウィンドウを開き、コマンドラインに`python`と入力して、pythonインタプリタを起動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6582,6 +6934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Or, you can add custom tags by clicking **All tags**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053615Z" creationid="miurahr" creationdate="20201103T053615Z">
+        <seg>または、カスタムタグを **全タグ**をクリックして追加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other features:</seg>
       </tuv>
       <tuv lang="ja">
@@ -6594,6 +6954,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>その他 webkit ベースのブラウザ (webOS、Blackberry 7+ 等)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Our final GeoExt component is an overview map - ``GeoExt.component.OverviewMap``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054620Z" creationid="miurahr" creationdate="20201103T054620Z">
+        <seg>我々の最後のGeoExtコンポーネントは概観地図-``GeoExt.componnet.OverviewMap``である。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6714,6 +7082,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>あなたの環境に適したイメージを選択してください:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Placing code here ensures the JavaScript libraries have been loaded before running any custom JavaScript code.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054033Z" creationid="miurahr" creationdate="20201103T054033Z">
+        <seg>ここにコードを配置すると、カスタムJavaScriptコードを実行する前に、JavaScriptライブラリが確実にロードされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7639,6 +8015,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Saving your changes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053325Z" creationid="miurahr" creationdate="20201103T053325Z">
+        <seg>変更を保存する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Scale dependent feature drawing and application execution</seg>
       </tuv>
       <tuv lang="ja">
@@ -7819,6 +8203,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ダイクストラ法による最短経路探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Similar to the layer tree store and tree panel, we create a ``GeoExt.data.store.Features`` store and a grid panel.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054528Z" creationid="miurahr" creationdate="20201103T054528Z">
+        <seg>レイヤーツリーストアとツリーパネルと同様に、``GeoExt.data.store.Features``ストアとグリッドパネルを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8679,6 +9071,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `ExtJS 6.2.0 API docs &lt;https://docs.sencha.com/extjs/6.2.0/&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054740Z" creationid="miurahr" creationdate="20201103T054740Z">
+        <seg>`ExtJS 6.2.0 API ドキュメント &lt;https://docs.sencha.com/extjs/6.2.0/&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `GeoExt homepage &lt;https://geoext.github.io/geoext3/&gt;`_ contains full `API documentation &lt;https://geoext.github.io/geoext3/v3.1.0/docs&gt;`_ and examples</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054653Z" creationid="miurahr" creationdate="20201103T054653Z">
+        <seg>`GeoExtのホームページ&lt;https://geoext.github.io/geoext3/&gt;`_には完全な`APIドキュメント&lt;https://geoext.github.io/geoext3/v3.1.0/docs&gt;`_と例があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `Learn OSM website &lt;https://learnosm.org&gt;`_ provides easy to understand, step-by-step guides for you to get started with contributing to OpenStreetMap and using OpenStreetMap and using OpenStreetMap data.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052155Z" creationid="miurahr" creationdate="20201102T052155Z">
@@ -8699,6 +9107,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>`オープンソース地理空間財団 (OSGeo) &lt;https://www.osgeo.org&gt;`__ は非営利組織であり、その使命は、オープンな哲学と、全員参加のコミュニティー駆動の開発に献身的な、包括的なソフトウェア財団であることによって、オープンな地理空間技術の世界的な採択を育むことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `OpenLayers v4.6.5 API docs &lt;https://openlayers.org/en/v4.6.5/apidoc&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054732Z" creationid="miurahr" creationdate="20201103T054732Z">
+        <seg>`OpenLayers v4.6.5 APIドキュメント &lt;https://openlayers.org/en/v4.6.5/apidoc&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ``flex`` property causes the tree panel to fill up all available space in its region of the screen.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054503Z" creationid="miurahr" creationdate="20201103T054438Z">
+        <seg>``flex``プロパティーを指定すると、ツリー・パネルは画面の領域内の使用可能なスペースをすべて埋めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8755,6 +9179,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021735Z" creationid="miurahr" creationdate="20201103T021735Z">
         <seg>この例では、既にOSGeoLive上の :file:`~/data/natural_earth2`(:file:`/usr/local/share/data/natural_earth2` へのショートカット)にある自然地球データセットを使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The file contains links to the ExtJS and OpenLayers JavaScript libraries, and two CSS files used to style ExtJS and OpenLayers components.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053934Z" creationid="miurahr" creationdate="20201103T053934Z">
+        <seg>このファイルには、ExtJSおよびOpenLayers JavaScriptライブラリへのリンクと、ExtJSおよびOpenLayersコンポーネントのスタイル設定に使用される2つのCSSファイルが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The final step in creating our application is to create a viewport - a container representing the application which will display all the components we created above.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054636Z" creationid="miurahr" creationdate="20201103T054636Z">
+        <seg>アプリケーションを作成する最後のステップは、ビューポートを作成することです。ビューポートとは、上記で作成したすべてのコンポーネントを表示するアプリケーションを表すコンテナです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8839,6 +9279,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The panel on the left will show the upload panel.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053335Z" creationid="miurahr" creationdate="20201103T053335Z">
+        <seg>左側のパネルにアップロード・パネルが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The parsing / encoding technology is provided with bindings for many OGC standards including GML, Filter, KML, SLD, and SE.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012026Z" creationid="miurahr" creationdate="20201103T012026Z">
@@ -8911,6 +9359,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The store will then be used to populate our tree panel.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054255Z" creationid="miurahr" creationdate="20201103T054255Z">
+        <seg>このストアは、ツリー・パネルへの入力に使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The system menus and many of the applications will now appear in the language chosen.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054837Z" creationid="miurahr" creationdate="20201103T054837Z">
+        <seg>言語を選択すると、システムメニューと多くのアプリケーションが選択した言語で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The table below credits the contributors for each of the documents on OSGeoLive.</seg>
       </tuv>
       <tuv lang="ja">
@@ -8923,6 +9387,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053127Z" creationid="miurahr" creationdate="20201103T053127Z">
         <seg>シェイプを選択して右マウスボタンでコンテキストメニューを表示したときに使用できるツールは、ラインをクリックしたときのツールと似ています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The tree has its own data store - ``GeoExt.data.store.LayersTree``, which we will fill with layers from our OpenLayers map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054244Z" creationid="miurahr" creationdate="20201103T054244Z">
+        <seg>ツリーには独自のデータストア``GeoExt.data.store.LayersTree``があり、OpenLayersマップのレイヤで埋めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8995,6 +9467,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014251Z" creationid="miurahr" creationdate="20201103T014251Z">
         <seg>事前の計算処理は必要ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These are all in the ``src`` folder in ``/var/www/html/geoext/``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053951Z" creationid="miurahr" creationdate="20201103T053951Z">
+        <seg>これらはすべて``/var/www/html/geoext/``の``src``フォルダにあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9183,6 +9663,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This quick start details the steps to create a rich web application using GeoExt components in less than 200 lines of code.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053833Z" creationid="miurahr" creationdate="20201103T053833Z">
+        <seg>このクイックスタートでは、200行未満のコードでGeoExtコンポーネントを使用してリッチなWebアプリケーションを作成する手順について詳しく説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This starts t-rex in zero-config mode connecting to PostGIS database `osm_local`.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051957Z" creationid="smellman" creationdate="20201103T051957Z">
@@ -9191,10 +9679,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This uses the OpenLayers map we created, and will be positioned in the 'center' region of our application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054228Z" creationid="miurahr" creationdate="20201103T054228Z">
+        <seg>これは、作成したOpenLayersマップを使用し、アプリケーションの``中央``領域に配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This web page provides information on these standards in a consolidated location.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013344Z" creationid="miurahr" creationdate="20201103T013344Z">
         <seg>このWebページには、これらの標準に関する情報がまとめられています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will show all the tags attached to the feature.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053620Z" creationid="miurahr" creationdate="20201103T053620Z">
+        <seg>これにより、フィーチャにアタッチされているすべてのタグが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9259,6 +9763,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051957Z" creationid="miurahr" creationdate="20201103T051957Z">
         <seg>新しい点を追加するには、[**Point**]ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To change settings open :menuselection:`Preferences --&gt; Keyboard Input Methods` from the main menu and click on the :guilabel:`Input Method` tab.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055016Z" creationid="miurahr" creationdate="20201103T055016Z">
+        <seg>設定を変更するには、メインメニューから:menuselection:`Preferences--&gt;Keyboard Input Methods`を開き、:guilabel:`Input Method`タブをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9411,6 +9923,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>``st_buffer(geom)``, ``st_transform(geom,25831)``, ``st_x(geom)`` - のようないくつかの空間関数を試してください。完全なドキュメントは http://postgis.net/documentation/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try the LearnOSM documentation, from which this quickstart was derived: https://learnosm.org/en/beginner/id-editor/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053635Z" creationid="miurahr" creationdate="20201103T053635Z">
+        <seg>このクイックスタートが派生したLearnOSMのドキュメントを試してください:https://learnosm.org/en/beginner/idエディタ/</seg>
       </tuv>
     </tu>
     <tu>
@@ -9791,6 +10311,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We are also going to create a grid component to display the attributes of features in our WFS layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054513Z" creationid="miurahr" creationdate="20201103T054513Z">
+        <seg>また、WFSレイヤのフィーチャの属性を表示するグリッドコンポーネントを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We can use this as a way to render the lakes differently.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022801Z" creationid="miurahr" creationdate="20201103T022801Z">
@@ -9807,10 +10335,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We will also add in a plugin to the tree to allow the map layer order to be changed by dragging and dropping the layers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054432Z" creationid="miurahr" creationdate="20201103T054432Z">
+        <seg>また、ツリーにプラグインを追加して、レイヤをドラッグアンドドロップして地図レイヤの順序を変更できるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will also set the center and zoom level of the map, and add in a select interaction so we can select features in our vector layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054155Z" creationid="miurahr" creationdate="20201103T054155Z">
+        <seg>また、マップの中心とズームレベルを設定し、ベクタライヤでフィーチャを選択できるように選択インタラクションに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will be using the installed MapServer web services on OSGeoLive a MapServer to supply map layers to the application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053837Z" creationid="miurahr" creationdate="20201103T053837Z">
+        <seg>アプリケーションにマップ・レイヤーを提供するために、OSGeoLiveにインストールされたMapServer WebサービスをMapServerとして使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will configure this to display the OpenStreetMap layer we created earlier, and place it in an ExtJS panel.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054625Z" creationid="miurahr" creationdate="20201103T054625Z">
+        <seg>先ほど作成したOpenStreetMapレイヤーを表示するように設定し、ExtJSパネルに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We will now add a new layer to our Mapfile.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022415Z" creationid="miurahr" creationdate="20201103T022415Z">
         <seg>次に、新しいレイヤをMapfileに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will use the ``Ext.Loader`` class to load in GeoExt JavaScript source files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053946Z" creationid="miurahr" creationdate="20201103T053946Z">
+        <seg>``Ext.Loader``クラスを使用して、GeoExtのJavaScriptソースファイルをロードします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9827,6 +10395,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021956Z" creationid="miurahr" creationdate="20201103T021956Z">
         <seg>このオブジェクトについては、後で詳しく説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We'll use the text editor FeatherPad installed on OSGeoLive to create a new HTML file at ``/var/www/html/geoext/demo.html``</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053911Z" creationid="miurahr" creationdate="20201103T053911Z">
+        <seg>OSGeoLiveにインストールされているテキストエディタのFeatherPadを使って、``/var/www/html/geoext/demo.html`` に新しいHTMLファイルを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9967,10 +10543,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What's next?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054646Z" creationid="miurahr" creationdate="20201103T054646Z">
+        <seg>次は?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When (and if) you want to save your edits to OpenStreetMap, click the **Save** button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053331Z" creationid="miurahr" creationdate="20201103T053331Z">
+        <seg>編集内容をOpenStreetMapに保存する場合は、[**保存**]ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a feature matches the "EXPRESSION" specified in a class, that class is going to render the feature.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022831Z" creationid="miurahr" creationdate="20201103T022831Z">
         <seg>フィーチャがクラスで指定された「EXPRESSION」に一致すると、そのクラスはフィーチャをレンダリングします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you are editing an object, you will see a strip of icons at the bottom of the attribute panel.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053354Z" creationid="miurahr" creationdate="20201103T053354Z">
+        <seg>オブジェクトを編集すると、属性パネルの下部にアイコンのストリップが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10031,6 +10631,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Work with GeoExt components</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054159Z" creationid="miurahr" creationdate="20201103T054159Z">
+        <seg>GeoExtコンポーネントを操作する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Work with advanced spatial raster formats: ECW, MrSID, JPEG 2000</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002429Z" creationid="miurahr" creationdate="20201103T002420Z">
@@ -10075,6 +10683,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052535Z" creationid="miurahr" creationdate="20201103T052535Z">
         <seg>ライン全体を移動するには、ラインを選択して**移動ツール**を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can add additional information by clicking these icons:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053357Z" creationid="miurahr" creationdate="20201103T053357Z">
+        <seg>次のアイコンをクリックすると、追加情報を追加できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10235,6 +10851,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>`R-Spatial &lt;https://www.rspatial.org&gt;`_ ページもチェックしてみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should now be able to refresh the link http://localhost/geoext/demo.html in your browser and see a complete GeoExt application similar to the image below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054643Z" creationid="miurahr" creationdate="20201103T054643Z">
+        <seg>ブラウザでリンクhttp://localhost/geoext/demo.htmlを更新すると、下の画像のような完全なGeoExtアプリケーションが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should now be able to view an empty HTML page in Firefox at http://localhost/geoext/demo.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T054010Z" creationid="miurahr" creationdate="20201103T053955Z">
+        <seg>http://localhost/geoext/demo.htmlでFirefoxの空のHTMLページを見ることができるようになりましたね。</seg>
       </tuv>
     </tu>
     <tu>
