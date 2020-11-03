@@ -5062,6 +5062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GetDataAvailability (from `SOS 2.0 Hydrology Profile - OGC Best Practice &lt;https://docs.ogc.org/bp/14-004r1/14-004r1.html#38&gt;`_): for requesting the data availability for certain configurations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T072818Z" creationid="sanak" creationdate="20201103T072818Z">
+        <seg>GetDataAvailability (`SOS 2.0 水文学プロファイル - OGC ベストプラクティス &lt;https://docs.ogc.org/bp/14-004r1/14-004r1.html#38&gt;`_): 特定の構成のデータ可用性を要求します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GetFeatureOfInterest / GetFeatureOfInterestTime (from 1.0): for requesting features (e.g. sensor/measurement locations).</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T072349Z" creationid="sanak" creationdate="20201103T072349Z">
@@ -5072,8 +5080,24 @@
       <tuv lang="en-US">
         <seg>GetObservationById / GetObservation: for requesting observations.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201103T072414Z" creationid="sanak" creationdate="20201103T072414Z">
-        <seg>GetObservationById / GetObservation: 観測データを要求します。.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T072515Z" creationid="sanak" creationdate="20201103T072414Z">
+        <seg>GetObservationById / GetObservation: 観測データを要求します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GetResult (from specification version 2.0): for requesting sensor data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T072509Z" creationid="sanak" creationdate="20201103T072509Z">
+        <seg>GetResult (仕様バージョン2.0以降): センサーデータを要求します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GetResultTemplate (from specification version 2.0): for requesting a template of the result structure that will be returned by a GetResult request.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T072703Z" creationid="sanak" creationdate="20201103T072703Z">
+        <seg>GetResultTemplate (仕様バージョン2.0以降): GetResult 要求で返される結果データのテンプレートを要求します。</seg>
       </tuv>
     </tu>
     <tu>
