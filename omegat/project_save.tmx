@@ -1438,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A browser window is opened showing the t-rex backend.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T052104Z" creationid="smellman" creationdate="20201103T052104Z">
+        <seg>ブラウザウィンドウが開き、t-rexのバックエンドが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A clean data access API supporting feature access, transaction support and locking between threads</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011952Z" creationid="miurahr" creationdate="20201103T011952Z">
@@ -2118,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Built-in viewers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T052114Z" creationid="smellman" creationdate="20201103T052114Z">
+        <seg>組み込みビューア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Built-in viewers for data display and inspection</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051124Z" creationid="smellman" creationdate="20201103T051124Z">
@@ -2274,6 +2290,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023314Z" creationid="miurahr" creationdate="20201103T023314Z">
         <seg>ボタン**New**をクリックし、名前とサービスURLを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on th `X-Ray` entry in the upper right menu to open the x-ray viewer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T052237Z" creationid="smellman" creationdate="20201103T052237Z">
+        <seg>右上のメニューの `X-Ray` をクリックして、x-ray ビューアを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7559,6 +7583,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start T-Rex</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T052013Z" creationid="smellman" creationdate="20201103T052013Z">
+        <seg>T-Rexを起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start exploring the world.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010107Z" creationid="miurahr" creationdate="20201103T010107Z">
@@ -8579,6 +8611,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041643Z" creationid="miurahr" creationdate="20201103T041643Z">
         <seg>これにより、サービス・インスタンスの管理と構成、およびSOS操作のテスト要求の送信のための手段が提供されます。適切なサンプル要求が含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This starts t-rex in zero-config mode connecting to PostGIS database `osm_local`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051957Z" creationid="smellman" creationdate="20201103T051957Z">
+        <seg>これにより、PostGISデータベース`osm_local`に接続する設定なしのモードでt-rexが起動されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10427,6 +10467,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051746Z" creationid="smellman" creationdate="20201103T051746Z">
         <seg>t-rexクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>t-rex comes with built-in viewers for inspecting generated vector tiles.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T052145Z" creationid="smellman" creationdate="20201103T052145Z">
+        <seg>t-rexには、生成されたベクタータイルを検査するためのビューアが組み込まれています。</seg>
       </tuv>
     </tu>
     <tu>
