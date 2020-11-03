@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-qgis_mapserver|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T003426Z" creationid="miurahr" creationdate="20201103T003426Z">
+        <seg>**ソフトウエアバージョン:** |version-qgis_mapserver|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-qgis|</seg>
       </tuv>
       <tuv lang="ja">
@@ -698,6 +706,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**対応プラットフォーム:** Linux, Windows, Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Supported Platforms:** Windows, Linux</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T003448Z" creationid="miurahr" creationdate="20201103T003448Z">
+        <seg>**サポートされるOS:** Windows, Linux</seg>
       </tuv>
     </tu>
     <tu>
@@ -1238,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Advanced cartographic symbolisation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T003159Z" creationid="miurahr" creationdate="20201103T003159Z">
+        <seg>高度な地図記号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Advantages of the database routing approach are:</seg>
       </tuv>
       <tuv lang="ja">
@@ -1450,6 +1474,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>データの構築</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Built-in PDF output</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T003152Z" creationid="miurahr" creationdate="20201103T003152Z">
+        <seg>組み込みのPDF出力</seg>
       </tuv>
     </tu>
     <tu>
@@ -2122,6 +2154,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>拡張可能なプラグインアーキテクチャ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Extra parameters like f.e.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T003409Z" creationid="miurahr" creationdate="20201103T003409Z">
+        <seg>f.e.などの追加パラメータ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3062,6 +3102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It runs on Linux, Unix, Mac OSX, and Windows and supports numerous vector, raster and database formats and functionality.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T003106Z" creationid="miurahr" creationdate="20201103T003106Z">
+        <seg>Linux、Unix、Mac OSX、Windows 上で動作し、多くのベクタ、ラスタ、データベースのフォーマットと機能に対応しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It supports loading stand-alone GPX tracks and GPX track data as well as editing existing nodes (points), ways (lines), metadata tags (name/value information) and relations (ordered sequence of points and lines) from the OSM database.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T044505Z" creationid="miurahr" creationdate="20201102T044505Z">
@@ -3442,6 +3490,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>イベントのためのマッピングとスケジュール管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maps and print templates created in QGIS desktop can be published as web maps simply by copying the QGIS project file into the server directory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T003131Z" creationid="miurahr" creationdate="20201103T003131Z">
+        <seg>QGISのデスクトップで作成されたマップと印刷テンプレートは、QGISプロジェクトファイルをサーバディレクトリにコピーするだけで、Webマップとしてパブリッシュできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4358,6 +4414,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>QGIS Server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T003121Z" creationid="miurahr" creationdate="20201103T003121Z">
+        <seg>QGISサーバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS Server is usually run as CGI/FastCGI module within the Apache Webserver.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T003137Z" creationid="miurahr" creationdate="20201103T003137Z">
+        <seg>QGISサーバーは通常、Apache Webserver内でCGI/FastCGIモジュールとして実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS Server provides web map and feature services (WMS &amp; WFS) using the same libraries as the GIS (QGIS) desktop application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T003126Z" creationid="miurahr" creationdate="20201103T003126Z">
+        <seg>QGISサーバは、GIS(QGIS)デスクトップアプリケーションと同じライブラリを使用して、Webマップおよびフィーチャサービス(WMS &amp; WFS)を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QGIS is a user friendly, Open Source, GIS client where you can visualize, manage, edit, analyse data, and compose printable maps.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003036Z" creationid="miurahr" creationdate="20201103T003036Z">
@@ -5206,6 +5286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Supports Styled Layer Descriptor (SLD)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T003402Z" creationid="miurahr" creationdate="20201103T003402Z">
+        <seg>Styled Layer Descriptor (SLD)をサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Swedish</seg>
       </tuv>
       <tuv lang="ja">
@@ -5434,6 +5522,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052216Z" creationid="miurahr" creationdate="20201102T052216Z">
         <seg>このガイドの残りの部分では、OSMデータの編集とレンダリングに使用するオンラインソフトウェアとオフラインソフトウェアの一部を紹介します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The resulting web maps look exactly the same as in the desktop.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T003134Z" creationid="miurahr" creationdate="20201103T003134Z">
+        <seg>作成されるWebマップは、デスクトップとまったく同じように表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5902,6 +5998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>WYSIWYG map creation with QGIS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T003156Z" creationid="miurahr" creationdate="20201103T003156Z">
+        <seg>QGISを使用したWYSIWYGマップの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ways: split, combine, reverse, simplify, unglue ways, and more.</seg>
       </tuv>
       <tuv lang="ja">
@@ -5914,6 +6018,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>これらのポイントをベースマップに追加し、人口のスケーリングされた平方根でサイズをスケーリングします（これにより、シンボルが人口に比例するようになるため）、色を赤に設定し、プロット文字を塗りつぶしたblobに設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Web Map Service (WMS) - images</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T003142Z" creationid="miurahr" creationdate="20201103T003142Z">
+        <seg>Web Map Service(WMS):イメージ</seg>
       </tuv>
     </tu>
     <tu>
