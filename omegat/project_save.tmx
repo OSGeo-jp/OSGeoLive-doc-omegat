@@ -6790,6 +6790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>More details can be found in the `52°North SOS client &lt;http://localhost:8080/52nSOS/index&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T071519Z" creationid="sanak" creationdate="20201103T071519Z">
+        <seg>詳細については `52°North SOS client &lt;http://localhost:8080/52nSOS/index&gt;`_ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>More details incl.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041933Z" creationid="miurahr" creationdate="20201103T041933Z">
@@ -10043,6 +10051,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055551Z" creationid="miurahr" creationdate="20201103T055539Z">
         <seg>このデモでは、Mapnik用に設計された`TileStache`と呼ばれるtileserverを使っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The development of this version of the 52°North SOS was supported by different projects, organizations, and persons.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T071407Z" creationid="sanak" creationdate="20201103T071346Z">
+        <seg>このバージョンの 52°North SOS の開発は、様々なプロジェクト、組織、メンバーによってサポートされています。</seg>
       </tuv>
     </tu>
     <tu>
