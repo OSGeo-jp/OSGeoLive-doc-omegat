@@ -3,4 +3,12 @@ QuickStart	クイックスタート	タイトルは統一する
 Software Version	ソフトウエアバージョン
 Licence	ライセンス
 Styled Layer Descriptor	Styled Layer Descriptor	訳語が定義されていない
-Supported Platforms	サポートされるOS
+Supported Platforms	対応OS
+vector data	ベクターデータ	要検討
+marker	マーカー
+map tile	地図タイル
+dynamic map	動的な地図
+web page	Webページ
+geographic information	地理情報
+Open Source	オープンソース
+2-clause BSD License	2条項BSDライセンス
