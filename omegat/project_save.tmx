@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8759,6 +8759,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Vector Tile Service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T050928Z" creationid="smellman" creationdate="20201103T050928Z">
+        <seg>ベクタータイルサービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Vector features are tagged with names and other attributes.</seg>
       </tuv>
       <tuv lang="ja">
@@ -10187,6 +10195,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Sv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>t-rex is a vector tile server specialized on publishing MVT tiles from your own data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051008Z" creationid="smellman" creationdate="20201103T051008Z">
+        <seg>t-rexは、独自のデータからMVTタイルを配信することに特化したベクタータイルサーバです。</seg>
       </tuv>
     </tu>
     <tu>
