@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -690,6 +690,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**QGIS pgRouting Layer プラグイン** - https://plugins.qgis.org/plugins/pgRoutingLayer/ は pgRouting 関数のための GUI を提供し、地図と連動するため、SQL を書く必要がなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Queries**:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T072159Z" creationid="sanak" creationdate="20201103T072159Z">
+        <seg>**クエリ**:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3718,6 +3726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DescribeSensor: for requesting information about the sensor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T072240Z" creationid="sanak" creationdate="20201103T072240Z">
+        <seg>DescribeSensor: センサーに関する情報を要求します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="ja">
@@ -5034,6 +5050,30 @@
       </tuv>
       <tuv lang="ja">
         <seg>GDALについて知る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GetCapabilities: for requesting a self-description of the service.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T072221Z" creationid="sanak" creationdate="20201103T072221Z">
+        <seg>GetCapabilities: サービスの自己記述を要求します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GetFeatureOfInterest / GetFeatureOfInterestTime (from 1.0): for requesting features (e.g. sensor/measurement locations).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T072349Z" creationid="sanak" creationdate="20201103T072349Z">
+        <seg>GetFeatureOfInterest / GetFeatureOfInterestTime (1.0以降): 機能(センサー/測定位置など)を要求します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GetObservationById / GetObservation: for requesting observations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T072414Z" creationid="sanak" creationdate="20201103T072414Z">
+        <seg>GetObservationById / GetObservation: 観測データを要求します。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8935,6 +8975,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SOS Operations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T072153Z" creationid="sanak" creationdate="20201103T072153Z">
+        <seg>SOS 操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SQL spatial functions such as AsText(), GeomFromText(), Area(), PointN() ...</seg>
       </tuv>
       <tuv lang="ja">
@@ -10195,6 +10243,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011644Z" creationid="miurahr" creationdate="20201103T011644Z">
         <seg>シェープファイルや JSON のような標準規格同様に、データは圧縮した GML で送受信を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The demo data are published under a |CC BY 3.0| License.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T072137Z" creationid="sanak" creationdate="20201103T072137Z">
+        <seg>でもデータは、 |CC BY 3.0| ライセンスの下で公開されています。</seg>
       </tuv>
     </tu>
     <tu>
