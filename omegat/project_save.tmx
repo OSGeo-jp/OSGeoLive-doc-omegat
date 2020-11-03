@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**INSPIRE Sepcialized Observations**: Support for the INSPIRE Specialized Observations defined in Guidelines for the use of `Observations &amp; Measurements and Sensor Web Enablement-related standards in INSPIRE (D2.9) &lt;https://inspire.ec.europa.eu/id/document/tg/d2.9-o%26m-swe&gt;`_ (`detailed information about the implementation &lt;https://wiki.52north.org/SensorWeb/InspireSpecialisedObservations&gt;`_).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T060922Z" creationid="sanak" creationdate="20201103T060922Z">
+        <seg>**INSPIRE 専門観測**: `INSPIREにおける観測と測定及びセンサーWeb対応関連標準規格 (D2.9) &lt;https://inspire.ec.europa.eu/id/document/tg/d2.9-o%26m-swe&gt;`_ ガイドラインで定義されている INSPIRE 専門観測をサポートしています(`実装についての詳細情報 &lt;https://wiki.52north.org/SensorWeb/InspireSpecialisedObservations&gt;`_)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Internet oriented**, consuming standard and de facto geospatial web services; and,</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002258Z" creationid="miurahr" creationdate="20201103T002258Z">
@@ -554,6 +562,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**ラスタ:** GeoTIFF, Erdas Imagine, SDTS, ESRI Grids, ECW, MrSID, JPEG2000, DTED, NITF, GeoPackage など...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**ResultFiltering**: Support for the filtering the observations (GetObservation) and data availabiliy information (GetDataAvailability) by the value of the observation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T061422Z" creationid="sanak" creationdate="20201103T061422Z">
+        <seg>**結果フィルタリング**: 観測データ(GetObservation)とデータ可用性情報(GetDataAvailability)を観測データ値でフィルタリングする</seg>
       </tuv>
     </tu>
     <tu>
