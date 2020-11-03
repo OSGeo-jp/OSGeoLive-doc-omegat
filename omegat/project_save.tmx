@@ -1278,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A look at the `OGC Domain Working Groups &lt;https://www.ogc.org/projects/groups/wg&gt;`_ shows the wide scope of current activity in the OGC.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013255Z" creationid="miurahr" creationdate="20201103T013255Z">
+        <seg>「OGC Domain Working Groups&lt;https://www.ogc.org/projects/groups/wg&gt;」を見ると、OGCにおける現在の活動の広い範囲がわかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A multitude of raster and vector data formats</seg>
       </tuv>
       <tuv lang="ja">
@@ -1370,6 +1378,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>プリセットを追加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additional ports are available for C# and JavaScript.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012416Z" creationid="miurahr" creationdate="20201103T012416Z">
+        <seg>他の移植は、C# と JavaScript で利用可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1618,6 +1634,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>双方向ダイクストラ法による最短経路探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Both political (administrative) and physical (natural) features are included and vector features align perfectly with included raster data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012445Z" creationid="miurahr" creationdate="20201103T012445Z">
+        <seg>政治(行政)フィーチャと物理(自然)フィーチャの両方が含まれ、ベクトルフィーチャは含まれるラスターデータと完全に位置合わせされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1974,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cultural Vector Data Themes:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012706Z" creationid="miurahr" creationdate="20201103T012516Z">
+        <seg>Culturalベクダーデータのテーマ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Currently (2017/08/11), the CRAN package repository features 11239 available packages.</seg>
       </tuv>
       <tuv lang="ja">
@@ -2010,6 +2042,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>データ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data Sets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012508Z" creationid="miurahr" creationdate="20201103T012508Z">
+        <seg>データセット</seg>
       </tuv>
     </tu>
     <tu>
@@ -2390,6 +2430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Existing at the cutting edge, OGC actively analyzes and anticipates emerging tech trends, and runs an agile, collaborative Research and Development (R&amp;D) lab - the OGC Innovation Program - that builds and tests innovative prototype solutions to members' use cases.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013228Z" creationid="miurahr" creationdate="20201103T013228Z">
+        <seg>OGCはOGCは、新しい技術トレンドを積極的に分析し予測し、メンバーのユースケースに対する革新的なプロトタイプソリューションを構築しとテストを行う、アジャイルの共同研究開発(R&amp;D)ラボであるOGCイノベーションプログラムを運営しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Explore the `screenshot collection &lt;https://grass.osgeo.org/learn/gallery/&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011215Z" creationid="miurahr" creationdate="20201103T011215Z">
@@ -2642,6 +2690,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>GIS ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GMT is a collection of tools that allow users to manipulate (x,y) and (x,y,z) data sets (including filtering, trend fitting, gridding, projecting, etc.) and produce Encapsulated PostScript File (EPS) illustrations ranging from simple x-y plots through contour maps to artificially illuminated surfaces and 3-D perspective views in black and white, gray tone, hachure patterns, and 24-bit color.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012838Z" creationid="miurahr" creationdate="20201103T012838Z">
+        <seg>GMTは、(x,y)および(x,y,z)のデータセット(フィルタリング、トレンドフィッティング、グリッド、投影など)を操作して、Encapsulated PostScript File(EPS)イラストレーションを生成するためのツール群です。EPSイラストレーションには、単純なx-yプロットから等高線マップ、人工的に照らされたサーフェス、白黒、グレートーン、アッシャパターン、24ビットカラーの3Dパースビューまでがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GMT supports many common map projections plus linear, log, and power scaling, and comes with support data such as coastlines, rivers, and political boundaries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013148Z" creationid="miurahr" creationdate="20201103T013148Z">
+        <seg>GMTは、多くの一般的な投影法に加えて、線形、対数、および冪乗スケールをサポートし、海岸線、河川、および政治的境界などのサポートデータを備えています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3054,6 +3118,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Greyscale shaded relief, cross blended hypsometric tints, satellite-derived land cover data, idealized world environment, ocean bottom, and bathymetry.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012743Z" creationid="miurahr" creationdate="20201103T012743Z">
+        <seg>グレースケールでシェーディングされた起伏、クロスブレンドされた浅色、衛星由来の土地被覆データ、理想化された世界環境、海底、水深測定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gridding and contouring functions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013159Z" creationid="miurahr" creationdate="20201103T013159Z">
+        <seg>グリッド機能とコンタリング機能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hard Disk:</seg>
       </tuv>
       <tuv lang="ja">
@@ -3262,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In 2020, the `OGC API &lt;https://ogcapi.ogc.org/&gt;`_ family of standards started to be developed to make it easy for anyone to provide geospatial data to the web.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013333Z" creationid="miurahr" creationdate="20201103T013333Z">
+        <seg>2020年に`OGC API&lt;https://ogcapi.ogc.org/&gt;`_ファミリの標準が開発され始めました。これは、空間データを誰でも簡単にWebに提供できるようにするためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition recent sample data for the FOSS4G host city and a number of JOSM plugins have been included.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T044934Z" creationid="miurahr" creationdate="20201102T044934Z">
@@ -3298,6 +3386,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>このサンプルでは、 `city_routing` というデータベースを作成し、そのデータベースで pgRouting を有効化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Include coastline, land, ocean, minor islands, reefs, physical region features and points, rivers, lakes, glaciated areas, Antarctic ice shelves, bathymetry, geographic lines, and graticles.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012727Z" creationid="miurahr" creationdate="20201103T012727Z">
+        <seg>海岸線、陸地、海洋、小島嶼、岩礁、物理的地域の特徴及び地点、河川、湖、氷河区域、南極の棚氷、水深測定、地理的境界線及び氷床を含む。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Includes countries, disputed areas, states and provinces (1st order administrative divisions), and populated places (cities, towns).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012519Z" creationid="miurahr" creationdate="20201103T012519Z">
+        <seg>国・係争地・州・県(1番目の都道府県)・居住地(市町村)を含む。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3694,10 +3798,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>JTS includes the "JTS Test Builder" which allows users to run tests and experiment with geometry through an interactive desktop interface.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012402Z" creationid="miurahr" creationdate="20201103T012345Z">
+        <seg>JTS は "JTS Test Builder" という、インタラクティブなデスクトップインタフェースにより、ユーザにジオメトリを用いたテスト実行、試行を可能にするツールを含んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JTS is an open source library of spatial predicates and functions for processing geometries.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012329Z" creationid="miurahr" creationdate="20201103T012329Z">
         <seg>JTS はジオメトリ処理のための空間述語・関数のオープンソースライブラリです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JTS is used by most java based Open Source geospatial applications, and :doc:`geos_overview`, which is a C++ port of JTS, is used by most C based applications.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012410Z" creationid="miurahr" creationdate="20201103T012410Z">
+        <seg>JTS は、大半の Java ベースのオープンソース地理空間アプリケーションで利用されており、JTS の C++ 移植の :doc:`geos_overview` は、大半の C ベースのアプリケーションで利用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JTS stability is ensured through an extensive test suite.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012355Z" creationid="miurahr" creationdate="20201103T012355Z">
+        <seg>JTS の安定性は広範なテストスイートにより保証されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3802,6 +3930,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>言語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Large polygons are split for more efficient data handling such as bathymetric layers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012452Z" creationid="miurahr" creationdate="20201103T012452Z">
+        <seg>大きなポリゴンは、水深レイヤなどのデータ処理を効率化するために分割されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3914,6 +4050,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010938Z" creationid="miurahr" creationdate="20201103T010938Z">
         <seg>軽量ライブラリ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lines contain enough data  points for smooth bending in conic projections, but not so many that computer processing speed suffers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012459Z" creationid="miurahr" creationdate="20201103T012459Z">
+        <seg>直線には、円錐図法で滑らかに曲げるのに十分なデータ点が含まれていますが、コンピュータ処理速度が低下するほど多くは含まれていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4278,6 +4422,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Natural Earth provides cartographers an off-the shelf solution for creating small-scale world, regional, and country maps at 1:10-, 1:50-, and 1:110- million scales.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012442Z" creationid="miurahr" creationdate="20201103T012442Z">
+        <seg>Natural Earthは、1:10、1:50、および1:110百万のスケールで小規模な世界、地域、および国のマップを作成するための既製のソリューションを地図作成者に提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Natural Earth solves the common problem that many cartographers face: finding vector data for making publication-quality small-scale maps at the appropriate level of detail for the maps they are making.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012447Z" creationid="miurahr" creationdate="20201103T012447Z">
+        <seg>Natural Earthは、多くの地図製作者が直面する一般的な問題を解決します。つまり、作成中のマップに適した詳細レベルでパブリケーション品質の小規模マップを作成するためのベクトルデータを検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Navigate globe in 3D</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010312Z" creationid="miurahr" creationdate="20201103T010312Z">
@@ -4414,6 +4574,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OGC is committed to creating a sustainable future for us, our children, and future generations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013245Z" creationid="miurahr" creationdate="20201103T013233Z">
+        <seg>OGCは、私たち、私たちの子供たち、そして未来の世代のために持続可能な未来を創造することにコミットしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC members together form a global forum of experts and communities that use location to connect people with technology and improve decision-making at all levels.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013241Z" creationid="miurahr" creationdate="20201103T013231Z">
+        <seg>OGCのメンバーは、専門家とコミュニティのグローバルなフォーラムを形成し、人々をテクノロジーでつなぎ、あらゆるレベルで意思決定を改善するために場所を利用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OGC standards compliant (SFSQL)</seg>
       </tuv>
       <tuv lang="ja">
@@ -4426,6 +4602,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>OGC スタンダードに準拠 (WMS、WFS など)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC's member-driven consensus process creates royalty free, publicly available, open geospatial standards.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013224Z" creationid="miurahr" creationdate="20201103T013224Z">
+        <seg>OGCのメンバー主導型の合意プロセスは、ロイヤリティフリーで公に利用可能なオープンな空間標準を作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4714,6 +4898,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>演算: 統合(Union)、距離(Distance)、交差(Intersection)、対称差分(Symmetric Difference)、凸包(Convex Hull)、境界矩形領域(Envelope)、バッファ(Buffer)、簡略化(Simplify)、ポリゴン構築(Polygon Assembly)、妥当性検証(Valid)、面積(Area)、長さ(Length)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Optimized for use in web mapping applications, such as Google or Yahoo, with built-in scale attributes to direct features to be shown at different zoom levels.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012505Z" creationid="miurahr" creationdate="20201103T012505Z">
+        <seg>GoogleやYahooなどのWebマッピングアプリケーションでの使用に最適化されています。さまざまなズームレベルで表示されるフィーチャを指定するための尺度属性が組み込まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Optional baked in content includes: land cover, shaded relief, ocean water, and drainages with lakes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012808Z" creationid="miurahr" creationdate="20201103T012808Z">
+        <seg>オプションのベイク処理済みコンテンツには、土地被覆、シェーディングされたレリーフ、海水、湖の排水が含まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5038,6 +5238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Projection friendly vectors precisely match at 180 degrees longitude.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012455Z" creationid="miurahr" creationdate="20201103T012455Z">
+        <seg>投影に適したベクトルは、経度180度で正確に一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Provide additional capabilities built using the spatial facilites of the core library.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012137Z" creationid="miurahr" creationdate="20201103T012137Z">
@@ -5198,10 +5406,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Raster Data Themes:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012738Z" creationid="miurahr" creationdate="20201103T012738Z">
+        <seg>ラスターデータのテーマ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Raster analysis (change hue/saturation).</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ラスタ解析 (色調/彩度の変更)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raster data includes grayscale-shaded relief and cross-blended hypsometric tints derived from the latest NASA SRTM Plus elevation data and tailored to register with Natural Earth Vector.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012502Z" creationid="miurahr" creationdate="20201103T012502Z">
+        <seg>ラスターデータには、グレースケールでシェーディングされたレリーフと、最新のNASA SRTM Plus標高データから派生し、Natural Earth Vectorに登録するように調整されたクロスブレンドされた浅色が含まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5362,6 +5586,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>他のソースよりもはるかに詳しい豊富な属性タグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Roads, rails, urban polygons, parks and protected areas, Pacific nation groups, and water boundary indicators round out the cultural offerings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012716Z" creationid="miurahr" creationdate="20201103T012522Z">
+        <seg>道路、鉄道、都市ポリゴン、公園と保護地域、太平洋地域の国グループ、water boundary indicatersなどを、Cultural提供物にまとめている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6118,10 +6350,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The OGC Standards Baseline consists of the |OGC| standards for interfaces, encodings, profiles, application schemas, and best practice documents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013300Z" creationid="miurahr" creationdate="20201103T013300Z">
+        <seg>OGC Standards Baselineは、インターフェース、エンコーディング、プロファイル、アプリケーション・スキーマ、ベスト・プラクティス文書に関するOGC標準で構成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The OGR vector data model is compliant with the OGC Simple Features specification.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OGR ベクタデータモデルは OGC Simple Features 仕様に準拠しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ORM provides an overview of OGC standards and serves as a useful resource for defining architectures for specific applications.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013310Z" creationid="miurahr" creationdate="20201103T013310Z">
+        <seg>ORMは、OGC標準の概要を提供し、特定のアプリケーションのアーキテクチャーを定義するための有用なリソースとして役立ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6162,6 +6410,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T051535Z" creationid="miurahr" creationdate="20201102T051535Z">
         <seg>OSM機能の都市データは、osm2pgsqlツールを使用して「osm_local」という名前のPostGISデータベースにインポートされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Open Geospatial Consortium (OGC) is an international consortium of more than 500 businesses, government agencies, research organizations, and universities driven to make geospatial (location) information and services FAIR - Findable, Accessible, Interoperable, and Reusable.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013220Z" creationid="miurahr" creationdate="20201103T013220Z">
+        <seg>オープン地理空間コンソーシアム(OGC)は、500を超える企業、政府機関、研究機関、大学が参加する国際的なコンソーシアムであり、地理空間(ロケーション)情報およびサービスを、検索可能、アクセス可能、相互運用可能、再利用可能にすることを目的としています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6330,6 +6586,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002318Z" creationid="miurahr" creationdate="20201103T002318Z">
         <seg>このWebサイトには、簡単なツールの作成から独自のカスタムアプリケーションのリリースまでを網羅した一連の明確なチュートリアルが用意されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The |ORM| describes these standards and the relationships between them and related ISO standards.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013306Z" creationid="miurahr" creationdate="20201103T013306Z">
+        <seg>ORMでは、これらの規格と、関連するISO規格との関係について説明しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6722,6 +6986,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ベクタフィーチャは、名前と他の属性によってタグ付けされます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vector features include name and other attributes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T012450Z" creationid="miurahr" creationdate="20201103T012450Z">
+        <seg>ベクトルフィーチャには、名前とその他の属性が含まれます。</seg>
       </tuv>
     </tu>
     <tu>
