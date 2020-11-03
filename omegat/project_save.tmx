@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -632,8 +632,8 @@
       <tuv lang="en-US">
         <seg>**ResultFiltering**: Support for the filtering the observations (GetObservation) and data availabiliy information (GetDataAvailability) by the value of the observation.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201103T061422Z" creationid="sanak" creationdate="20201103T061422Z">
-        <seg>**結果フィルタリング**: 観測データ(GetObservation)とデータ可用性情報(GetDataAvailability)を観測データ値でフィルタリングする</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T061515Z" creationid="sanak" creationdate="20201103T061422Z">
+        <seg>**結果フィルタリング**: 観測データ(GetObservation)とデータ可用性情報(GetDataAvailability)の観測データ値でのフィルタリングをサポートしています。</seg>
       </tuv>
     </tu>
     <tu>
