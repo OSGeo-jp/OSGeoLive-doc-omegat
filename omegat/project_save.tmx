@@ -4022,6 +4022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GDAL/OGR is the most widely used geospatial data access library.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061055Z" creationid="miurahr" creationdate="20201103T061055Z">
+        <seg>GDAL/OGR は地理空間データを扱うライブラリでは最も幅広く利用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GEOS is the most widely used geospatial C++ geometry library, being used by open source projects such as :doc:`PostGIS &lt;postgis_overview&gt;`, :doc:`QGIS &lt;qgis_overview&gt;`, :doc:`GDAL/OGR &lt;gdal_overview&gt;` and :doc:`MapServer &lt;mapserver_overview&gt;`, and by proprietary products including `FME &lt;https://www.safe.com/fme&gt;`_.</seg>
       </tuv>
       <tuv lang="ja">
@@ -5046,6 +5054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In our first example, we're going to use the venerable plate carrée non-coordinate system, `EPSG:4326`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T060918Z" creationid="miurahr" creationdate="20201103T060918Z">
+        <seg>最初の例では、由緒ある 正距円筒図法 non-coordinate systemの `EPSG:4326`_を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the LAYER object, we'll add another CLASS object just before our current one::</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022815Z" creationid="miurahr" creationdate="20201103T022815Z">
@@ -5358,6 +5374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is also utilized by packages such as OSSIM, Cadcorp SIS, FME, Google Earth, VTP, Thuban, ILWIS, MapGuide and ArcGIS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061103Z" creationid="miurahr" creationdate="20201103T061103Z">
+        <seg>また、OSSIM、Cadcorp SIS、FME、Google Earth、VTP、Thuban、ILWIS、MapGuide、ArcGISなどのパッケージソフトウェアでも使用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is completely free, Open Source JavaScript, released under the 2-clause BSD License (also known as the FreeBSD).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010551Z" creationid="miurahr" creationdate="20201103T010551Z">
@@ -5450,6 +5474,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052946Z" creationid="miurahr" creationdate="20201102T052946Z">
         <seg>OSGeoLive は様々な地理空間関連の保管、配布、表示、分析、データメンテナンスなどの ユースケースに応じた設定済みのアプリケーションを提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It provides the primary data access engine for many applications including MapServer, GRASS, QGIS, and OpenEV.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061059Z" creationid="miurahr" creationdate="20201103T061053Z">
+        <seg>MapServer、GRASS、QGIS、OpenEV など多数のアプリケーションで主要なデータアクセスエンジンとして使用されています。</seg>
       </tuv>
     </tu>
     <tu>
