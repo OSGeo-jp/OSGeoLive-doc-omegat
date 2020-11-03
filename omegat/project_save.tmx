@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -634,6 +634,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**ラスタ:** GeoTIFF, Erdas Imagine, SDTS, ESRI Grids, ECW, MrSID, JPEG2000, DTED, NITF, GeoPackage など...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Read more**: `Details of the implemented functionalities &lt;https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#Features&gt;`_ can be found in the 52°North Wiki.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T071304Z" creationid="sanak" creationdate="20201103T071304Z">
+        <seg>**詳細**: `実装された機能の詳細 &lt;https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#Features&gt;`_ は 52°North Wiki にあります。</seg>
       </tuv>
     </tu>
     <tu>
