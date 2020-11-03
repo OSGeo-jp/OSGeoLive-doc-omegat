@@ -3334,6 +3334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click 'Open'.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T120205Z" creationid="miurahr" creationdate="20201103T120205Z">
+        <seg>[開く]をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click 'Save'.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113938Z" creationid="miurahr" creationdate="20201103T113938Z">
@@ -12239,6 +12247,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This project contains a number of layers in the layers panel and is displaying the spatial content in the map frame.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T120312Z" creationid="miurahr" creationdate="20201103T120312Z">
+        <seg>このプロジェクトには、レイヤーパネルに複数のレイヤーが含まれ、マップフレームに空間コンテンツが表示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This provides means for administration and configuration of the service instance, as well as sending test requests for SOS operations; appropriate sample requests are included.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041643Z" creationid="miurahr" creationdate="20201103T041643Z">
@@ -12291,6 +12307,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075545Z" creationid="miurahr" creationdate="20201103T073630Z">
         <seg>単一の地点が1つ描画されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will open a QGIS project with a number of Natural Earth datasets, as shown below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T120301Z" creationid="miurahr" creationdate="20201103T120301Z">
+        <seg>以下に示すように、Natural Earchデータセットを持つQGISプロジェクトが開かれます。</seg>
       </tuv>
     </tu>
     <tu>
