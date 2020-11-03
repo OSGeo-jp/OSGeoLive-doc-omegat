@@ -36,3 +36,8 @@ Supported Formats	対応フォーマット
 Cartesian	デカルト
 Implemented Standards	準拠している標準規格
 QuickStart documentation	クイックスタート文書
+General Feature Model	General Feature Model	ＯＧＣ用語は訳出しない
+Simple Feature	Simple Feature	OGC用語
+Grid Coverage	Grid Coverage	OGC用語
+Common Constraint Language	Common Constraint Language	OGC用語
+Web Feature Service	Web Feature Service	ＯＧＣ用語, WFS
