@@ -13663,6 +13663,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>adding, moving, deleting vertices</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103526Z" creationid="smellman" creationdate="20201103T103526Z">
+        <seg>頂点の追加、移動、削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>and many others</seg>
       </tuv>
       <tuv lang="ja">
@@ -13803,6 +13811,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>(あらゆるデスクトップ GIS のための) 自由なズームや、あらゆる座標系のサポートを伴う、キャッシュからの ``GetMap`` レスポンス生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>cut, merge, simplify polygons and lines</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103741Z" creationid="smellman" creationdate="20201103T103741Z">
+        <seg>ポリゴンとラインの切り取り、合成、単純化</seg>
       </tuv>
     </tu>
     <tu>
@@ -14387,6 +14403,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Ro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rotating, scaling, auto-complete polygon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103642Z" creationid="smellman" creationdate="20201103T103617Z">
+        <seg>ポリゴンの回転、拡大縮小、オートコンプリート</seg>
       </tuv>
     </tu>
     <tu>
