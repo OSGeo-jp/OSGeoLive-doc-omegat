@@ -1606,6 +1606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Advanced filter expression support based on XPath 1.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042449Z" creationid="miurahr" creationdate="20201103T042449Z">
+        <seg>XPath1.0に基づく高度なフィルタ式のサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Advantages of the database routing approach are:</seg>
       </tuv>
       <tuv lang="ja">
@@ -1854,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Backends support flexible mapping of GML application schemas to relational models</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042444Z" creationid="miurahr" creationdate="20201103T042444Z">
+        <seg>バックエンドは、GMLアプリケーションスキーマのリレーショナルモデルへの柔軟なマッピングをサポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Background information is provided in a `blog post &lt;https://blog.52north.org/2014/01/30/52north-supports-the-jrc-in-developing-an-inspire-download-service-based-on-sos/&gt;`_ and in the `wiki &lt;https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#INSPIRE_Download_Service_extensi&gt;`_ .</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041859Z" creationid="miurahr" creationdate="20201103T041859Z">
@@ -2014,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Can render rich data models directly</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042600Z" creationid="miurahr" creationdate="20201103T042600Z">
+        <seg>リッチ・データ・モデルを直接レンダリングできる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Canada</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T062219Z" creationid="miurahr" creationdate="20201102T062219Z">
@@ -2158,10 +2182,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Complete support for TIME/ELEVATION and other dimensions for both feature and raster data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042553Z" creationid="miurahr" creationdate="20201103T042553Z">
+        <seg>フィーチャデータとラスターデータの両方で、TIME/ELEVATIONおよびその他の寸法が完全にサポートされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Complex Multi Label/Symbol Symbology</seg>
       </tuv>
       <tuv lang="ja">
         <seg>複雑な複数ラベル・シンボルのシンボロジー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Complex filter expressions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042802Z" creationid="miurahr" creationdate="20201103T042802Z">
+        <seg>複雑なフィルタ式</seg>
       </tuv>
     </tu>
     <tu>
@@ -2494,6 +2534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Designed for rich data models from the bottom up</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042442Z" creationid="miurahr" creationdate="20201103T042442Z">
+        <seg>ボトムアップのリッチ・データ・モデル向けに設計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Desktop Browser Support</seg>
       </tuv>
       <tuv lang="ja">
@@ -2774,10 +2822,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Easy configuration of HTML and other output formats for GetFeatureInfo responses</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042541Z" creationid="miurahr" creationdate="20201103T042541Z">
+        <seg>GetFeatureInfo応答のHTMLおよびその他の出力フォーマットの簡単な設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Easy to use</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010302Z" creationid="miurahr" creationdate="20201103T010302Z">
         <seg>使いやすい</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Easy-to-use API for implementing Java processes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042819Z" creationid="miurahr" creationdate="20201103T042819Z">
+        <seg>Javaプロセスを実装するための使いやすいAPI</seg>
       </tuv>
     </tu>
     <tu>
@@ -2874,6 +2938,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012211Z" creationid="miurahr" creationdate="20201103T012211Z">
         <seg>拡張機能は、(最短パスを見つけるための)グラフとネットワーキングのサポート、検証、Webマップサーバクライアント、XML構文解析とエンコーディングのバインディング、そしてカラーbrewerを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Extensive support for styling languages SLD/SE versions 1.0.0 and 1.1.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042505Z" creationid="miurahr" creationdate="20201103T042505Z">
+        <seg>スタイル言語SLD/SEバージョン1.0.0および1.1.0の広範なサポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -3070,6 +3142,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fully transactional</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042630Z" creationid="miurahr" creationdate="20201103T042630Z">
+        <seg>完全なトランザクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fully transactional (even for rich data models)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042427Z" creationid="miurahr" creationdate="20201103T042427Z">
+        <seg>完全なトランザクション(リッチ・データ・モデルの場合も含む)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fundamentally OSM's focus is on the data, the rich maps simply fall out of this.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T045112Z" creationid="miurahr" creationdate="20201102T045112Z">
@@ -3138,6 +3226,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>GIS ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GML 2/3.0/3.1/3.2 output/input</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042432Z" creationid="miurahr" creationdate="20201103T042432Z">
+        <seg>GM L2/3.0/3.1/3.2出力/入力</seg>
       </tuv>
     </tu>
     <tu>
@@ -3606,6 +3702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Handles all defined queryable properties (for Dublin Core as well as ISO profile)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042758Z" creationid="miurahr" creationdate="20201103T042758Z">
+        <seg>定義の定義済みクエリー可能プロパティを処理します(Dublin CoreおよびISOプロファイルの場合)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hard Disk:</seg>
       </tuv>
       <tuv lang="ja">
@@ -3658,6 +3762,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023349Z" creationid="miurahr" creationdate="20201103T023349Z">
         <seg>次に、いくつかのをいくつか紹介しよう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>High performance and excellent scalability</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042436Z" creationid="miurahr" creationdate="20201103T042436Z">
+        <seg>高いパフォーマンスと優れた拡張性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>High quality rendering</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042507Z" creationid="miurahr" creationdate="20201103T042507Z">
+        <seg>高精度レンダリング</seg>
       </tuv>
     </tu>
     <tu>
@@ -3782,6 +3902,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ISO 19107-compliant geometry model: Complex geometries (e.g. non-linear curves)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042446Z" creationid="miurahr" creationdate="20201103T042446Z">
+        <seg>ISO19107準拠形状モデル:複雑な形状(例:非線形曲線)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ISO Metadata Application Profile 1.0.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042633Z" creationid="miurahr" creationdate="20201103T042633Z">
+        <seg>ISOメタデータアプリケーションプロファイル1.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ISO images are available for recent amd64 hardware (recommended) as well as older i386 hardware.</seg>
       </tuv>
       <tuv lang="ja">
@@ -3898,6 +4034,46 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041708Z" creationid="miurahr" creationdate="20201103T041708Z">
         <seg>各標準バージョンに実装されている操作を以下に示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Implements Basic WMTS standard 1.0.0 (KVP)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042606Z" creationid="miurahr" creationdate="20201103T042606Z">
+        <seg>基本的なWMTS標準1.0.0(KVP)を実装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Implements CSW standard 2.0.2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042627Z" creationid="miurahr" creationdate="20201103T042627Z">
+        <seg>CSW標準2.0.2を実装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Implements WFS standards 1.0.0, 1.1.0 and 2.0.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042424Z" creationid="miurahr" creationdate="20201103T042424Z">
+        <seg>WFS標準1.0.0、1.1.0、および2.0.0を実装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Implements WMS standards 1.1.1 and 1.3.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042457Z" creationid="miurahr" creationdate="20201103T042457Z">
+        <seg>WMS標準1.1.1および1.3.0を実装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Implements WPS standard 1.0.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042806Z" creationid="miurahr" creationdate="20201103T042806Z">
+        <seg>WPS標準1.0.0を実装</seg>
       </tuv>
     </tu>
     <tu>
@@ -5094,6 +5270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Modular inspector architecture allows to validate records to be inserted against various criteria</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042639Z" creationid="miurahr" creationdate="20201103T042639Z">
+        <seg>モジュラー型の検査アーキテクチャにより、さまざまな基準に照らして挿入されたレコードを検証可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>More details incl.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041933Z" creationid="miurahr" creationdate="20201103T041933Z">
@@ -5242,6 +5426,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ナビゲーションと地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nearly complete support for raster symbolizing as defined in SE (with some extensions)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042549Z" creationid="miurahr" creationdate="20201103T042549Z">
+        <seg>SEで定義されているラスターシンボルのほぼ完全なサポート(拡張機能あり)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5546,6 +5738,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>OSM ファイル: .osm, .xlm, .osmbz2, .osmbz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On-the-fly coordinate transformation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042439Z" creationid="miurahr" creationdate="20201103T042439Z">
+        <seg>オンザフライ座標変換</seg>
       </tuv>
     </tu>
     <tu>
@@ -5886,6 +6086,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pluggable and modular dataaccess layer allows to add support for new APs and backends</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042636Z" creationid="miurahr" creationdate="20201103T042636Z">
+        <seg>プラグ可能でモジュラー型のデータアクセスレイヤにより、新しいAPとバックエンドのサポートを追加可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pluggable process provider layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042816Z" creationid="miurahr" creationdate="20201103T042816Z">
+        <seg>プラガブル・プロセス・プロバイダ層</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Plugins: A list of specialized plugins are available for download.</seg>
       </tuv>
       <tuv lang="ja">
@@ -6058,6 +6274,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002617Z" creationid="miurahr" creationdate="20201103T002617Z">
         <seg>印刷とPDFの生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Processing of huge amounts of data with minimal memory footprint</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042829Z" creationid="miurahr" creationdate="20201103T042829Z">
+        <seg>最小限のメモリ使用量で大量のデータを処理</seg>
       </tuv>
     </tu>
     <tu>
@@ -6759,6 +6983,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Scale dependent styling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042533Z" creationid="miurahr" creationdate="20201103T042509Z">
+        <seg>スケールに依存するスタイル設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Scripts are often used to automate processing steps but there are GUIs, the leading one being RStudio (https://rstudio.com).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013709Z" creationid="miurahr" creationdate="20201103T013709Z">
@@ -7135,6 +7367,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Standard inspectors: schema validity, identifier integrity, INSPIRE requirements</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042749Z" creationid="miurahr" creationdate="20201103T042749Z">
+        <seg>標準インスペクタ: スキーマの妥当性、識別子の完全性、INSPIRE要件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start Geoserver</seg>
       </tuv>
       <tuv lang="ja">
@@ -7215,6 +7455,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Streaming access for complex input/output parameters</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042824Z" creationid="miurahr" creationdate="20201103T042824Z">
+        <seg>複雑な入出力パラメータへのストリーミングアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Style Editor</seg>
       </tuv>
       <tuv lang="ja">
@@ -7251,6 +7499,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>スタイリングとカスタマイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support for GetGmlObject requests and XLinks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042434Z" creationid="miurahr" creationdate="20201103T042434Z">
+        <seg>GetGmlObjectリクエストとXLinksのサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support for SE removes the need for a lot of proprietary extensions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042537Z" creationid="miurahr" creationdate="20201103T042537Z">
+        <seg>SEのサポートにより、多くの独自仕様の拡張が不要</seg>
       </tuv>
     </tu>
     <tu>
@@ -7335,10 +7599,66 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Supports GetFeatureInfo for remote WMS backends</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042623Z" creationid="miurahr" creationdate="20201103T042623Z">
+        <seg>リモートWMSバックエンドのGetFeatureInfoをサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supports KVP, XML and SOAP requests</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042429Z" creationid="miurahr" creationdate="20201103T042429Z">
+        <seg>KVP、XML、およびSOAP要求をサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Supports Styled Layer Descriptor (SLD)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003402Z" creationid="miurahr" creationdate="20201103T003402Z">
         <seg>Styled Layer Descriptor (SLD)をサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supports all variants of input/output parameters: literal, bbox, complex (binary and xml)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042821Z" creationid="miurahr" creationdate="20201103T042821Z">
+        <seg>入力/出力パラメータのすべてのバリエーション(literal、bbox、complex(binaryおよびxml))をサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supports different backends, such as GeoTIFF, remote WMS or file system tile image hierarchies</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042612Z" creationid="miurahr" creationdate="20201103T042612Z">
+        <seg>GeoTIFF、リモートWMS、ファイルシステムなどの異なるバックエンドをサポートタイルイメージの階層</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supports numerous backends, such as PostGIS, Oracle Spatial, MS SQL Server, Shapefiles or GML instance documents</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042453Z" creationid="miurahr" creationdate="20201103T042453Z">
+        <seg>PostGIS、Oracle Spatial、MS SQL Server、Shapefiles、GMLインスタンスドキュメントなどの多数のバックエンドをサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supports numerous backends, such as PostGIS, Oracle Spatial, Shapefiles or GML instance documents</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042557Z" creationid="miurahr" creationdate="20201103T042557Z">
+        <seg>PostGIS、Oracle Spatial、Shapefiles、GMLインスタンスドキュメントなどの多数のバックエンドをサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supports on-the-fly caching (using EHCache)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042619Z" creationid="miurahr" creationdate="20201103T042619Z">
+        <seg>オンザフライキャッシュをサポート(EHCキャッシュを使用)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8375,6 +8695,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Uses stream-based data access with minimal memory footprint</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042546Z" creationid="miurahr" creationdate="20201103T042546Z">
+        <seg>最小限のメモリ・フットプリントでストリーム・ベースのデータ・アクセスを使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using QGIS Desktop to load your OGC WMS</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022935Z" creationid="miurahr" creationdate="20201103T022935Z">
@@ -9391,6 +9719,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>deegree provides geospatial webservices based upon |OGC| and `INSPIRE Network Services &lt;https://inspire.ec.europa.eu&gt;`_ specifications.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042333Z" creationid="miurahr" creationdate="20201103T042333Z">
+        <seg>deegreeは、OGCと「INSPIRE Network Services&lt;https://inspire.ec.europa.eu&gt;」仕様に基づいた地理空間ウェブサービスを提供している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>deegree supports:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042336Z" creationid="miurahr" creationdate="20201103T042336Z">
+        <seg>deegreeは以下をサポートしている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>define and run reusable analysis routines by chaining functions using a graphical modelling tool</seg>
       </tuv>
       <tuv lang="ja">
@@ -9871,6 +10215,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|CSW|: Performs searches for geospatial datasets and services</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042411Z" creationid="miurahr" creationdate="20201103T042411Z">
+        <seg>|CSW|: 地理空間データセットおよびサービスの検索を実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|OSGeo_community| :doc:`istsos_overview` - [:doc:`Quickstart &lt;../quickstart/istsos_quickstart&gt;`] - Sensor Observation Service</seg>
       </tuv>
       <tuv lang="ja">
@@ -10095,10 +10447,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|WFS|: Serves vector data from geospatial data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042350Z" creationid="miurahr" creationdate="20201103T042340Z">
+        <seg>|WFS|: 空間データからベクトルデータを提供</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|WMS| (client/server)</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|WMS| (クライアントサーバー)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|WMS|: Serves maps rendered from geospatial data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042354Z" creationid="miurahr" creationdate="20201103T042343Z">
+        <seg>|WMS|: 空間データからレンダリングされたマップを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|WMTS|: Serves pre-rendered map tiles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042402Z" creationid="miurahr" creationdate="20201103T042402Z">
+        <seg>|WMTS|: 事前にレンダリングされたマップタイルを提供</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|WPS|: Executes geospatial processes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T042418Z" creationid="miurahr" creationdate="20201103T042418Z">
+        <seg>|WPS|: 空間処理を実行します</seg>
       </tuv>
     </tu>
     <tu>
