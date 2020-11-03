@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Sensor Web REST-API**: Starting with Version 4.1.1., a bundle version is available, that directly provides the `RESTful API &lt;https://wiki.52north.org/SensorWeb/SensorWebClientRESTInterface&gt;`_, is available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T055152Z" creationid="sanak" creationdate="20201103T055152Z">
+        <seg>**センサー Web REST-API**: バージョン4.1.1以降では、バンドルバージョンが使用可能で、 `RESTful API &lt;https://wiki.52north.org/SensorWeb/SensorWebClientRESTInterface&gt;`_　が直接使用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Serve data from a variety of data stores:**</seg>
       </tuv>
       <tuv lang="ja">
