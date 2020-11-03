@@ -4358,6 +4358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Editing &amp; Conflation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103334Z" creationid="smellman" creationdate="20201103T103334Z">
+        <seg>編集と合成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Editing Tools:</seg>
       </tuv>
       <tuv lang="ja">
@@ -13855,6 +13863,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>drawing points, lines, polygons, multi-geometries, geometry collections and circles (eventually mixed in a single layer)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103502Z" creationid="smellman" creationdate="20201103T103502Z">
+        <seg>ポイント、線、ポリゴン、マルチジオメトリ、ジオメトリコレクション、円の描画(最終的には一つのレイヤーに混在)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>edit/view/search attributes</seg>
       </tuv>
       <tuv lang="ja">
@@ -14175,6 +14191,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>note, formats marked with a (*) require an additional plugin, and with (+) are part of the PLUS edition.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103306Z" creationid="smellman" creationdate="20201103T103306Z">
+        <seg>注:(*)の付いたフォーマットには追加のプラグインが必要で、(+)の付いたフォーマットはPLUSエディションの一部です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>on the fly projection</seg>
       </tuv>
       <tuv lang="ja">
@@ -14311,10 +14335,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>reads (DB): PostGIS, ArcSDE*, Oracle*, MySQL*, SpatiaLite+, H2 Spatial+, MariaDB+</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103234Z" creationid="smellman" creationdate="20201103T103148Z">
+        <seg>読み取り (DB): PostGIS, ArcSDE*, Oracle*, MySQL*, SpatiaLite+, H2 Spatial+, MariaDB+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>reads (OGC standards): WKT, WMS, KML+, GeoPackage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103211Z" creationid="smellman" creationdate="20201103T103211Z">
+        <seg>読み取り (OGC スタンダード): WKT, WMS, KML+, GeoPackage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>reads (files): GML, SHP, DXF+, MIF*, CSV+, KML+, OSM* &amp; TIFF, ASCII grid, JPG, PNG, JPEG2000+, MrSID*, ECW+</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T103142Z" creationid="smellman" creationdate="20201103T103142Z">
-        <seg>読み込み (ファイル): GML, SHP, DXF+, MIF*, CSV+, KML+, OSM* &amp; TIFF, ASCII grid, JPG, PNG, JPEG2000+, MrSID*, ECW+</seg>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103229Z" creationid="smellman" creationdate="20201103T103142Z">
+        <seg>読み取り (ファイル): GML, SHP, DXF+, MIF*, CSV+, KML+, OSM* &amp; TIFF, ASCII grid, JPG, PNG, JPEG2000+, MrSID*, ECW+</seg>
       </tuv>
     </tu>
     <tu>
@@ -14507,6 +14547,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>単純な算術演算には R を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>writes: GML, SHP, WKT, DXF+, CSV+, PostGIS &amp; JPG, TIFF, ASCII grid*, SVG+</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103245Z" creationid="smellman" creationdate="20201103T103245Z">
+        <seg>出力: GML, SHP, WKT, DXF+, CSV+, PostGIS &amp; JPG, TIFF, ASCII grid*, SVG+</seg>
       </tuv>
     </tu>
     <tu>
