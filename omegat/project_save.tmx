@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1710,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*It is very important that you first remove the layer with the sample data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080306Z" creationid="miurahr" creationdate="20201103T080306Z">
+        <seg>*最初にサンプルデータを含むレイヤーを削除することが非常に重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Resolving conflicts often involves accepting the other persons edits, in which case you will probably wish to return to the feature in question and edit again (**this time save soon after the edit to try to avoid a conflict again!**).*</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053348Z" creationid="miurahr" creationdate="20201103T053348Z">
@@ -2424,8 +2432,8 @@
       <tuv lang="en-US">
         <seg>Add presets</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>プリセットを追加する</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080101Z">
+        <seg>プリセットの適用</seg>
       </tuv>
     </tu>
     <tu>
@@ -2602,6 +2610,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011634Z" creationid="miurahr" creationdate="20201103T011626Z">
         <seg>さらに WFS-T プロトコルを利用して、認証されたユーザがサーバのデータを編集、アップロードすることで更新できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alternatively you can choose delete from the context menu of the layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080335Z" creationid="miurahr" creationdate="20201103T080335Z">
+        <seg>または、レイヤのコンテキストメニューから[削除]を選択することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2864,8 +2880,8 @@
       <tuv lang="en-US">
         <seg>Be sure to click on the line around the forest, not one of the points on the line.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072854Z" creationid="miurahr" creationdate="20201103T072854Z">
-        <seg>ライン上のポイントではなく、森の周囲のラインをクリックしてください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075214Z" creationid="miurahr" creationdate="20201103T072854Z">
+        <seg>森林をあらわしているラインを選択します。ラインの上にあるポイントではないので注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2880,8 +2896,8 @@
       <tuv lang="en-US">
         <seg>Before you draw, you need to make sure that nothing is selected.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T073558Z" creationid="miurahr" creationdate="20201103T073558Z">
-        <seg>描画する前に、何も選択されていないことを確認する必要があります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075519Z" creationid="miurahr" creationdate="20201103T073558Z">
+        <seg>描画を行う際には、地図のどのオブジェクトも選択していないことを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3120,8 +3136,8 @@
       <tuv lang="en-US">
         <seg>Changing objects</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072826Z" creationid="miurahr" creationdate="20201103T072826Z">
-        <seg>オブジェクトの変更</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075137Z" creationid="miurahr" creationdate="20201103T072826Z">
+        <seg>オブジェクトの編集</seg>
       </tuv>
     </tu>
     <tu>
@@ -3208,8 +3224,8 @@
       <tuv lang="en-US">
         <seg>Click in the black space on the map, where it is empty, to make sure nothing is selected.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T073614Z" creationid="miurahr" creationdate="20201103T073604Z">
-        <seg>何も選択されていないことを確認するには、マップ上の黒いスペースをクリックします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075523Z" creationid="miurahr" creationdate="20201103T073604Z">
+        <seg>なにもオブジェクトが描かれていない、地図の黒い地点をクリックすることで、なにも選択していない状態にすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3224,8 +3240,8 @@
       <tuv lang="en-US">
         <seg>Click on one of the points on the line around the forest.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072923Z" creationid="miurahr" creationdate="20201103T072923Z">
-        <seg>森を囲むライン上のポイントの1つをクリックします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075239Z" creationid="miurahr" creationdate="20201103T072923Z">
+        <seg>森林をあらわすラインの中にあるポイントを、どこか1つクリックして選択して下さい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3238,10 +3254,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the Select tool, in the column of buttons on the left.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075858Z" creationid="miurahr" creationdate="20201103T075858Z">
+        <seg>画面左側にあるカラムから、”選択”ツールをクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the second button, the Draw tool.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T073619Z" creationid="miurahr" creationdate="20201103T073619Z">
-        <seg>2番目の[描画]ツールボタンをクリックします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075532Z" creationid="miurahr" creationdate="20201103T073619Z">
+        <seg>2番目のボタン”描画”をクリックしてみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3456,8 +3480,8 @@
       <tuv lang="en-US">
         <seg>Continue until you are happy with your line.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T073859Z" creationid="miurahr" creationdate="20201103T073859Z">
-        <seg>ラインに満足するまで続けます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075615Z" creationid="miurahr" creationdate="20201103T073859Z">
+        <seg>ラインの形ができるまで、移動させてクリックを繰り返します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3862,6 +3886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Describe what your objects are by selecting from the Presets menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080222Z" creationid="miurahr" creationdate="20201103T080222Z">
+        <seg>描かれたオブジェクトの内容を示すには、プリセットメニューから適切な内容を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DescribeSensor: for requesting information about the sensor.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T072240Z" creationid="sanak" creationdate="20201103T072240Z">
@@ -4078,18 +4110,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drag the map away from the sample map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080201Z" creationid="miurahr" creationdate="20201103T080201Z">
+        <seg>サンプルの地図表示が画面外になるよう、表示位置を変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draw a shape the same way that you draw a line, but finish the shape by double-clicking on the point where you started the line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075627Z" creationid="miurahr" creationdate="20201103T075627Z">
+        <seg>シェイプを描くには、ラインと同じような操作をした後、ラインを描き始めたポイントでダブルクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Draw your own map</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>独自のマップを描画する</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080109Z">
+        <seg>地図を描いてみましょう</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Drawing</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>図面</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075318Z">
+        <seg>地図の描画</seg>
       </tuv>
     </tu>
     <tu>
@@ -4448,8 +4496,8 @@
       <tuv lang="en-US">
         <seg>Find an empty area on the map, and double-click with your mouse.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T073624Z" creationid="miurahr" creationdate="20201103T073624Z">
-        <seg>マップ上の空の領域を見つけ、マウスでダブルクリックします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075544Z" creationid="miurahr" creationdate="20201103T073624Z">
+        <seg>地図の何も書かれていない地点でダブルクリックしてみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5494,10 +5542,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hold the right mouse button and drag your mouse, until you have a nice empty area to draw on.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080205Z" creationid="miurahr" creationdate="20201103T080205Z">
+        <seg>マウスを右クリックし、何も書かれていない場所までドラッグして移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hold your left mouse button down and drag your mouse.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072929Z" creationid="miurahr" creationdate="20201103T072929Z">
-        <seg>マウスの左ボタンを押したまま、マウスをドラッグします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075259Z" creationid="miurahr" creationdate="20201103T072929Z">
+        <seg>マウスを左クリックした状態で、クリックしたままマウスをドラッグさせてみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5650,6 +5706,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054850Z" creationid="miurahr" creationdate="20201103T054850Z">
         <seg>特定のアプリケーションで英語が表示され続ける場合は、そのプラグラムで翻訳が利用できない状態になっています - ボランティアでの翻訳参加検討をお願いします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If everything went well, your point, line, or shape should change colors or show a symbol.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080016Z" creationid="miurahr" creationdate="20201103T080016Z">
+        <seg>以上の操作でオブジェクトに対して情報が追加され、ポイントやライン、シェイプの表示色変更、あるいはシンボル表示の変更などが行われます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5934,6 +5998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In order to continue editing you first need to download real data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080344Z" creationid="miurahr" creationdate="20201103T080344Z">
+        <seg>編集を続けるには、まず実際のデータをダウンロードする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In our "ne_10m_lakes" dataset, we have a *ScaleRank* attribute, which seems to be related to the size of the lakes.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022810Z" creationid="miurahr" creationdate="20201103T022810Z">
@@ -5970,6 +6042,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022815Z" creationid="miurahr" creationdate="20201103T022815Z">
         <seg>LAYERオブジェクトでは、現在のオブジェクトの直前に別のCLASSオブジェクトを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the Layers window on the upper right of the screen select the sample.osm layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080322Z" creationid="miurahr" creationdate="20201103T080322Z">
+        <seg>画面の右上にあるLayersウィンドウで、sample.osmレイヤを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7008,8 +7088,8 @@
       <tuv lang="en-US">
         <seg>Many of these buttons open new windows on the right side that provide more information about the map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T073521Z" creationid="miurahr" creationdate="20201103T073521Z">
-        <seg>これらのボタンの多くは、マップに関する詳細情報を提供する新しいウィンドウを右側に開きます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075345Z" creationid="miurahr" creationdate="20201103T073521Z">
+        <seg>それらのボタンを押すと右側に新しいボックスが表示され、地図に対する情報がより多く表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7392,8 +7472,8 @@
       <tuv lang="en-US">
         <seg>Move your mouse and click again.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T073641Z" creationid="miurahr" creationdate="20201103T073641Z">
-        <seg>マウスを移動して、もう一度クリックします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075608Z" creationid="miurahr" creationdate="20201103T073641Z">
+        <seg>そのままマウスを移動させ、別の場所でもう一度クリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7680,8 +7760,16 @@
       <tuv lang="en-US">
         <seg>Now hold your left mouse button down and drag your mouse.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072858Z" creationid="miurahr" creationdate="20201103T072858Z">
-        <seg>マウスの左ボタンを押したまま、マウスをドラッグします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075222Z" creationid="miurahr" creationdate="20201103T072858Z">
+        <seg>選択ができたら、森林を選択した状態でマウスを左クリックし、クリックしたままマウスをドラッグさせてみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now let’s draw a map in order to practice the techniques you have learned.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080125Z" creationid="miurahr" creationdate="20201103T080125Z">
+        <seg>それでは、ここまでで紹介したテクニックを実践するため、実際に自分自身の地図を描いてみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7730,6 +7818,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022431Z" creationid="miurahr" creationdate="20201103T022431Z">
         <seg>これで、Mapfileに2つのレイヤ定義が作成されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now we know how to draw points, lines and shapes, but we still haven’t defined what they represent.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075813Z" creationid="miurahr" creationdate="20201103T075729Z">
+        <seg>ポイント、ライン、シェイプを描画する方法はわかりました。単にポイントを描いただけでは、そのポイントが何を表しているのか不明瞭なままです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7984,8 +8080,16 @@
       <tuv lang="en-US">
         <seg>On the left side of JOSM is a column of buttons.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T073505Z" creationid="miurahr" creationdate="20201103T073505Z">
-        <seg>JOSMの左側にはボタンの列があります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075333Z" creationid="miurahr" creationdate="20201103T073505Z">
+        <seg>JOSM画面の左側には、多くのボタンが配置されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the top menu, click “Presets” and choose the type of location you would like to define.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075936Z" creationid="miurahr" creationdate="20201103T075936Z">
+        <seg>トップメニューに表示されている”プリセット”をクリックしてください。より詳細なメニューが表示されますので、地点に対して定義したい種別が表示されるまでマウスを移動させてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8010,6 +8114,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Proj.4 ライブラリ使用による、1000を超える投影法でのオンザフライ地図投影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once you feel comfortable with these basic editing techniques you might want to turn your attention to mapping real features.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080300Z" creationid="miurahr" creationdate="20201103T080300Z">
+        <seg>これらの基本的な編集テクニックに慣れてきたら、実際のフィーチャのマッピングにうつるとよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9575,10 +9687,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select one of the objects that you drew with the Draw tool.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075919Z" creationid="miurahr" creationdate="20201103T075919Z">
+        <seg>描画ツールを選択した状態で、編集したいオブジェクトの一部をクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the forest on the left side of the map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072834Z" creationid="miurahr" creationdate="20201103T072834Z">
-        <seg>マップの左側にある森を選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075152Z" creationid="miurahr" creationdate="20201103T072834Z">
+        <seg>地図の左側にある森林を選択してみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10857,8 +10977,8 @@
       <tuv lang="en-US">
         <seg>The most important buttons, however, are at the top of these column.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T073528Z" creationid="miurahr" creationdate="20201103T073528Z">
-        <seg>ただし、最も重要なボタンは、この列の一番上にあります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075400Z" creationid="miurahr" creationdate="20201103T073528Z">
+        <seg>しかし、それらのボタンのなかで最も重要なのは、列の一番上に表示されているボタンです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11001,8 +11121,8 @@
       <tuv lang="en-US">
         <seg>The top buttons in this column are the ones you will use the most.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T073539Z" creationid="miurahr" creationdate="20201103T073539Z">
-        <seg>この列の一番上のボタンが、最もよく使用するボタンです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075419Z" creationid="miurahr" creationdate="20201103T073539Z">
+        <seg>最も重要なボタンは、このカラムの一番上のほうに配置されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11051,6 +11171,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>論理または正規表現ベースのクラスを利用した主題マッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then click on the trash can icon in the lower right corner of that window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080325Z" creationid="miurahr" creationdate="20201103T080325Z">
+        <seg>次に、そのウィンドウの右下隅にあるごみ箱アイコンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11169,8 +11297,8 @@
       <tuv lang="en-US">
         <seg>These buttons change what you can do with your mouse.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T073533Z" creationid="miurahr" creationdate="20201103T073533Z">
-        <seg>これらのボタンを使用すると、マウス操作を変更します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075402Z" creationid="miurahr" creationdate="20201103T073533Z">
+        <seg>これらのボタンは、マウスで実施できる挙動を変更します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11179,6 +11307,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071049Z" creationid="miurahr" creationdate="20201103T071049Z">
         <seg>これらのクライアントは PostGIS 空間データテーブルの地図表示や操作を可能とします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These data are fictitious and must not be uploaded to the OpenStreetMap database (newer JOSM releases automatically prevent this).*</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080314Z" creationid="miurahr" creationdate="20201103T080314Z">
+        <seg>これらのデータは架空のものであり、OpenStreetMapデータベースにアップロードしないでください(新しいJOSMリリースでは自動的にこの問題が回避されます)。*</seg>
       </tuv>
     </tu>
     <tu>
@@ -11225,8 +11361,8 @@
       <tuv lang="en-US">
         <seg>They are used for selecting objects and for drawing new ones.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T073544Z" creationid="miurahr" creationdate="20201103T073544Z">
-        <seg>これらは、オブジェクトの選択や新しいオブジェクトの描画に使用されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075426Z" creationid="miurahr" creationdate="20201103T073544Z">
+        <seg>これらのボタンをクリックすると、オブジェクトの選択や描画を行うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11343,10 +11479,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is because you have defined what it is.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080042Z" creationid="miurahr" creationdate="20201103T080042Z">
+        <seg>これで、何であるかの定義をおこなうことができました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is explained in the next chapter: https://learnosm.org/en/josm/more-about-josm/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080416Z" creationid="miurahr" creationdate="20201103T080416Z">
+        <seg>これ以降は、次の文書で説明します: https://learnosm.org/en/josm/more-about-josm/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is how you can change the shape of an object, or move a point.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T073451Z" creationid="miurahr" creationdate="20201103T073451Z">
-        <seg>これにより、オブジェクトの形状を変更したり、ポイントを移動したりできます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075313Z" creationid="miurahr" creationdate="20201103T073451Z">
+        <seg>オブジェクトの位置を変更したい場合や、オブジェクトの形を変更したい場合はこのようにして行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11425,8 +11577,8 @@
       <tuv lang="en-US">
         <seg>This will draw a single point.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T073630Z" creationid="miurahr" creationdate="20201103T073630Z">
-        <seg>これにより、単一のポイントが描画されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075545Z" creationid="miurahr" creationdate="20201103T073630Z">
+        <seg>単一の地点が1つ描画されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11537,8 +11689,8 @@
       <tuv lang="en-US">
         <seg>To draw a line, single-click with your mouse.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T073638Z" creationid="miurahr" creationdate="20201103T073638Z">
-        <seg>ラインを描画するには、マウスでシングルクリックします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075601Z" creationid="miurahr" creationdate="20201103T073638Z">
+        <seg>ラインを描画するには、まずどこかでクリックを1回行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11547,6 +11699,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051917Z" creationid="miurahr" creationdate="20201103T051917Z">
         <seg>**OpenStreetMap GPSトレース**を有効にするには、ボックスをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To end the line, double-click your mouse.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075619Z" creationid="miurahr" creationdate="20201103T075619Z">
+        <seg>ダブルクリックを行うと、そこでラインの描画は終了となります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11817,8 +11977,8 @@
       <tuv lang="en-US">
         <seg>Until now, you have been using the Select tool, which looks like this:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T073553Z" creationid="miurahr" creationdate="20201103T073553Z">
-        <seg>これまでは、次のような[選択]ツールを使用していました。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075502Z" creationid="miurahr" creationdate="20201103T073553Z">
+        <seg>ここまでの操作では、”選択”ツールを使用してきています。以下のアイコンです。:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11843,6 +12003,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002734Z" creationid="miurahr" creationdate="20201103T002734Z">
         <seg>ネイティブウィジェットの使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the Draw tool to create points, lines, and shapes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080218Z" creationid="miurahr" creationdate="20201103T080218Z">
+        <seg>描画ツールを使って、ポイント、ライン、シェイプを描いてみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12159,6 +12327,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We want to be able to say that our points are shops, schools, or something else, and whether our shapes are fields, buildings, or something else.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075839Z" creationid="miurahr" creationdate="20201103T075806Z">
+        <seg>ポイントを追加するときには、それが店舗なのか、学校なのか、それとも他の施設なのかを示しましょう。シェイプについても同様で、そこがなにに使われている土地なのか、それとも建物なのか、などを示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We will also add in a plugin to the tree to allow the map layer order to be changed by dragging and dropping the layers.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054432Z" creationid="miurahr" creationdate="20201103T054432Z">
@@ -12435,6 +12611,30 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053354Z" creationid="miurahr" creationdate="20201103T053354Z">
         <seg>オブジェクトを編集すると、属性パネルの下部にアイコンのストリップが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you are finished entering the information, click “Apply Preset”.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080007Z" creationid="miurahr" creationdate="20201103T080007Z">
+        <seg>情報の入力が終わったら、”プリセットの適用”をクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you are finished, you should have your own map, similar to the sample map that we opened in sample.osm.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080231Z" creationid="miurahr" creationdate="20201103T080231Z">
+        <seg>自分自身の地図を書き終えたら作業完了です。”sample.osm”で表示されていた地図のように描けたでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you choose on a preset, a form will pop up asking you for more information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075949Z" creationid="miurahr" creationdate="20201103T075949Z">
+        <seg>プリセットをクリックすると、詳細な情報入力を促すポップアップが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12735,6 +12935,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You do not have to fill in every field, but you may wish to add some of the important fields, such as the name of the object.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075953Z" creationid="miurahr" creationdate="20201103T075953Z">
+        <seg>すべての項目を入力する必要はありませんが、地点の名称など、いくつかの重要な項目については入力ができるとよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may notice that when you select an object, a list appears to the right of the map in a window called “Properties”.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075019Z" creationid="miurahr" creationdate="20201103T072736Z">
@@ -12747,6 +12955,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T111053Z" creationid="smellman" creationdate="20201101T111053Z">
         <seg>次のいずれか属性テキストを使用できます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may wish to redraw the map that you drew on paper previously.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T080145Z" creationid="miurahr" creationdate="20201103T080145Z">
+        <seg>題材として、あなたが紙の上に描いた地図を取り上げます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12769,16 +12985,16 @@
       <tuv lang="en-US">
         <seg>You should be able to move the forest to a new location on the map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072906Z" creationid="miurahr" creationdate="20201103T072906Z">
-        <seg>マップ上の新しい場所に森を移動できるようになります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075231Z" creationid="miurahr" creationdate="20201103T072906Z">
+        <seg>地図の中の別の場所へ森林を移動させることができます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>You should be able to move the point.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072935Z" creationid="miurahr" creationdate="20201103T072935Z">
-        <seg>ポイントを移動できるようになります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075308Z" creationid="miurahr" creationdate="20201103T072935Z">
+        <seg>ポイントを移動させることができます。</seg>
       </tuv>
     </tu>
     <tu>
