@@ -1246,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A geographic coordinate reference system allows all points on the earth to be described as a set of coordinates (such as latitude, longitude and elevation).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013835Z" creationid="miurahr" creationdate="20201103T013835Z">
+        <seg>地理座標参照システムでは、地球上のすべての点を座標(緯度、経度、高度など)のセットとして記述できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A global repository of local knowledge.</seg>
       </tuv>
       <tuv lang="ja">
@@ -1354,6 +1362,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011954Z" creationid="miurahr" creationdate="20201103T011954Z">
         <seg>多くのファイル形式および空間データベースのGISデータにアクセスする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access XML documents, stored BLOB compressed binary objects, including syntactic "well formed" and XSF schema validation constrained checks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013815Z" creationid="miurahr" creationdate="20201103T013815Z">
+        <seg>XML ドキュメントやストアド BLOB 圧縮バイナリオブジェクトへの、"well formed" 構文、及び XSF スキーマ妥当性検証チェック付きアクセス。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2070,6 +2086,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data and attributes can be modified by many clients, like :doc:`QGIS &lt;qgis_overview&gt;` and :doc:`uDig &lt;udig_overview&gt;` through JDBC, ODBC, or directly using Pl/pgSQL.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014232Z" creationid="miurahr" creationdate="20201103T014232Z">
+        <seg>データや属性を、多くのクライアント、例えば :doc:`QGIS &lt;qgis_overview&gt;` や :doc:`uDig &lt;udig_overview&gt;` から、JDBC や ODBC、もしくは 直接 PL/pgSQL を発行することで、変更することが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data changes can be reflected instantaneously through the routing engine.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014243Z" creationid="miurahr" creationdate="20201103T014243Z">
+        <seg>データの変更は、経路探索エンジン経由ですぐに反映させることが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data is published via standards based interfaces, such as WMS, WFS, WCS, WPS, Tile Caching and more.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011412Z" creationid="miurahr" creationdate="20201103T011412Z">
@@ -2178,6 +2210,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Different systems are used to represent the tridimensional earth on a flat, bidimensional map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013928Z" creationid="miurahr" creationdate="20201103T013838Z">
+        <seg>それぞれのシステムは、平坦な二次元マップ上に三次元地球を表現ししています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2346,6 +2386,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ETL (データ抽出・加工・ロード) ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each SQLite database is simply a file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013751Z" creationid="miurahr" creationdate="20201103T013751Z">
+        <seg>それぞれのデータベースは一つのファイルに格納されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2558,6 +2606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For further details, check the `comprehensive list of OGC standards &lt;https://www.ogc.org/standards/&gt;`__.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013431Z" creationid="miurahr" creationdate="20201103T013431Z">
+        <seg>詳細については、`包括的なOGC標準リスト&lt;https://www.ogc.org/standards/&gt;`__を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For general information about R, try the official `Introduction to R &lt;https://cran.r-project.org/doc/manuals/R-intro.html&gt;`_ or any of the documentation from the main `R Project &lt;https://www.r-project.org/&gt;`_ page.</seg>
       </tuv>
       <tuv lang="ja">
@@ -2570,6 +2626,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Rの空間的側面の詳細については、おそらく「R Spatial Task View &lt;https://cran.r-project.org/web/views/Spatial.html&gt; `_から始めるのが最適です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fortunately R is well documented on the web site which eases the learning process.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013658Z" creationid="miurahr" creationdate="20201103T013658Z">
+        <seg>幸いなことに、R についての Web のドキュメントは充実しており、学習プロセスを容易にしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3014,6 +3078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Geospatial analysis capabilities within R are available in R packages (modules that extend the capabilities of R) that provide access to a huge number of traditional and state of the art algorithms ().</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013522Z" creationid="miurahr" creationdate="20201103T013522Z">
+        <seg>R による地理空間分析は、R パッケージ（Rの機能を拡張するモジュール）を利用して古典的なものから最新のものまで、膨大なアルゴリズムが利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Geostatistics</seg>
       </tuv>
       <tuv lang="ja">
@@ -3402,6 +3474,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012519Z" creationid="miurahr" creationdate="20201103T012519Z">
         <seg>国・係争地・州・県(1番目の都道府県)・居住地(市町村)を含む。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Includes transformation between datums.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014139Z" creationid="miurahr" creationdate="20201103T014139Z">
+        <seg>データ間の変換が含まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3934,6 +4014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Large number of projection classes supported.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014143Z" creationid="miurahr" creationdate="20201103T014143Z">
+        <seg>多数の投影クラスがサポートされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Large polygons are split for more efficient data handling such as bathymetric layers.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012452Z" creationid="miurahr" creationdate="20201103T012452Z">
@@ -4370,6 +4458,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>マウス: 特にMac でトラックパッドを使用している方には、3ボタンマウスの利用をお勧めします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Multi-Dimensional Big Data Analytics Engine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014322Z" creationid="miurahr" creationdate="20201103T014322Z">
+        <seg>多次元ビッグデータ分析エンジン</seg>
       </tuv>
     </tu>
     <tu>
@@ -5230,6 +5326,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proj4 has been translated from C to `other languages &lt;https://trac.osgeo.org/metacrs/wiki&gt;`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014029Z" creationid="miurahr" creationdate="20201103T014029Z">
+        <seg>Proj4は、C から `さまざまな言語 &lt;https://trac.osgeo.org/metacrs/wiki&gt;`に変換されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proj4 is a library that provides methods to transform between different coordinate reference systems.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013832Z" creationid="miurahr" creationdate="20201103T013832Z">
+        <seg>Proj4は、異なる座標参照システム間で変換するメソッドを提供するライブラリです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proj4 is used in :doc:`MapServer &lt;mapserver_overview&gt;`, :doc:`GRASS GIS &lt;grass_overview&gt;`, :doc:`PostGIS &lt;postgis_overview&gt;`, :doc:`Mapnik &lt;mapnik_overview&gt;`, Thuban, OGDI, TopoCad, OGRCoordinateTransformation and various others.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013954Z" creationid="miurahr" creationdate="20201103T013954Z">
+        <seg>Proj4は :doc:`MapServer &lt;mapserver_overview&gt;`, :doc:`GRASS GIS &lt;grass_overview&gt;`, :doc:`PostGIS &lt;postgis_overview&gt;`, :doc:`Mapnik &lt;mapnik_overview&gt;`, Thuban, OGDI, TopoCad, OGRCoordinateTransformation 、その他いろいろなところで使われています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proj4 uses coordinate system definitions defined by the `European Petroleum Survey Group (EPSG) &lt;https://www.epsg.org/&gt;`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014201Z" creationid="miurahr" creationdate="20201103T014201Z">
+        <seg>Proj4は、`European Petroleum Survey Group(EPSG)&lt;https://www.epsg.org/&gt;`によって定義された座標系定義を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Project Overviews and Overview Translations, are provided under a `Creative Commons Attribution 3.0 Unported License &lt;https://creativecommons.org/licenses/by/3.0/&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T110638Z" creationid="smellman" creationdate="20201101T110638Z">
@@ -5250,6 +5378,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012137Z" creationid="miurahr" creationdate="20201103T012137Z">
         <seg>コアライブラリのspatial facilitesを使用して構築された追加機能を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Provides point transformation from one coordinate reference system to another.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014133Z" creationid="miurahr" creationdate="20201103T014133Z">
+        <seg>ある座標参照システムから別の座標参照システムへの点変換を提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5382,6 +5518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>R and its packages are able to process point, line, polygon, networks, grid data (etc.).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013545Z" creationid="miurahr" creationdate="20201103T013545Z">
+        <seg>R とそのパッケージではポイント、ライン、ポリゴン、グリッドデータ(など)を処理できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>R is a free software environment for statistical computing and graphics.</seg>
       </tuv>
       <tuv lang="ja">
@@ -5390,10 +5534,35 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>R is a powerful, widely used software environment for statistical computing and graphics which excels at analyzing and processing geographic data sets.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013455Z" creationid="miurahr" creationdate="20201103T013455Z">
+        <seg>Rは、地理データセットの分析と処理に優れた、統計計算とグラフィックスのための強力で広く使用されているソフトウェア環境です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>R is an implementation of the S programming language and there is significant compatibility between R and legacy S and S-Plus code as well as between R and the modern commercial version of S, TIBCO Spotfire S+.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013720Z" creationid="miurahr" creationdate="20201103T013720Z">
+        <seg>R は S 言語の実装でもあり、R と過去の S、S-Plus コード、
+最近の商用バージョンの S、TIBCO Spotfire S+ には高い互換性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>R-Tree spatial index</seg>
       </tuv>
       <tuv lang="ja">
         <seg>R-Tree 空間インデックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rasdaman is an Array Database System which provides flexible, fast, scalable geo services for multi-dimensional spatio-temporal sensor, image, simulation, and statistics data of unlimited volume.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014352Z" creationid="miurahr" creationdate="20201103T014326Z">
+        <seg>Rasdamanはアレイデータベースシステムであり、多次元時空間センサ、画像、シミュレーション、統計データのための柔軟で高速でスケーラブルな地理サービスを無制限のボリュームで提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5686,6 +5855,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SQLite is a Database Management System (DBMS) which is simple, robust, easy to use and very lightweight.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013747Z" creationid="miurahr" creationdate="20201103T013747Z">
+        <seg>SQLite は動作が軽く、シンプルで堅牢、簡単に使える人気のあるデータベース管理システム (DBMS) です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>STR spatial index</seg>
       </tuv>
       <tuv lang="ja">
@@ -5706,6 +5883,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>縮尺に依存したフィーチャ描画および機能実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scripts are often used to automate processing steps but there are GUIs, the leading one being RStudio (https://rstudio.com).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013709Z" creationid="miurahr" creationdate="20201103T013709Z">
+        <seg>処理を自動化するためのスクリプトが頻繁に利用されており、また、Rの GUI 環境として主要なものに RStudio  (https://rstudio.com) があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6050,6 +6235,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>特定解析ツール:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specific support for ISO-Metadata, SLD/SE styles and SVG graphics.XML documents can be queried using standard XPath syntax.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013826Z" creationid="miurahr" creationdate="20201103T013826Z">
+        <seg>特別に ISOメタデータ、SLD/SE スタイル、SVG グラフィックスをサポート。XML ドキュメントは標準の XPath 構文でクエリ可能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6470,10 +6663,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The building blocks are defined not only by the requirements of the specific standards, but also through interoperability prototyping and testing in OGC's Innovation Program.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013355Z" creationid="miurahr" creationdate="20201103T013355Z">
+        <seg>ビルディング・ブロックは、特定の標準の要件だけでなく、OGCのInnovation Programにおける相互運用性のプロトタイピングとテストによっても定義されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The clients can either be PCs or mobile devices.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014237Z" creationid="miurahr" creationdate="20201103T014237Z">
+        <seg>クライアントは PC やモバイル端末でもかまいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The core R interface is a command line window which provides excellent flexibility and control but tends to lengthen the time required to become a proficient user when compared to software with a graphical user interface (GUI).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013650Z" creationid="miurahr" creationdate="20201103T013650Z">
+        <seg>R の基本インターフェイスはコマンドラインであり、高い自由度と操作性を提供しています。一方で、グラフィカル・ユーザー・インターフェイス (GUI) と比べて習熟するまでに長い時間を必要とする傾向があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The data can be transmitted using GML (compressed) as well as other standard data formats like shapefile and json.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011644Z" creationid="miurahr" creationdate="20201103T011644Z">
         <seg>シェープファイルや JSON のような標準規格同様に、データは圧縮した GML で送受信を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The functions available via R complement and advance capabilities found in GIS and image processing software.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013628Z" creationid="miurahr" creationdate="20201103T013628Z">
+        <seg>Rで利用できる機能は、GISや画像処理ソフトウェアの機能を補完し、拡張します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6606,10 +6831,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is no need for precalculation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014251Z" creationid="miurahr" creationdate="20201103T014251Z">
+        <seg>事前の計算処理は必要ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These include:</seg>
       </tuv>
       <tuv lang="ja">
         <seg>これらは以下を含みます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These standards are being constructed as "building blocks" that can be used to assemble novel APIs for web access to geospatial content.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013350Z" creationid="miurahr" creationdate="20201103T013350Z">
+        <seg>これらの標準は、空間コンテンツへのWebアクセス用の新しいAPIを組み立てるために使用できる「ビルディング・ブロック」として構築されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These standards build upon the legacy of the OGC Web Service standards (WMS, WFS, WCS, WPS, etc.), but define resource-centric APIs that take advantage of modern web development practices.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013341Z" creationid="miurahr" creationdate="20201103T013341Z">
+        <seg>これらの標準は、OGC Webサービス標準(WMS、WFS、WCS、WPSなど)のレガシーに基づいていますが、最新のWeb開発手法を活用するリソース中心のAPIを定義しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These sub-projects include: These tools include: * Proj4js (JavaScript) - used in :doc:`OpenLayers &lt;openlayers_overview&gt;`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014111Z" creationid="miurahr" creationdate="20201103T014111Z">
+        <seg>これらのサブプロジェクトには、* Proj4js (JavaScript) - used in :doc:`OpenLayers &lt;openlayers_overview&gt;`があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6678,10 +6935,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This makes it possible to convert different versions of S code to run on R without major code modifications.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013734Z" creationid="miurahr" creationdate="20201103T013734Z">
+        <seg>この互換性により、異なるバージョンの S のコードを大きく変更することなく R で実行できるよう変換可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This process can also be run inside a Virtual Machine to create a permanent OSGeoLive Virtual Machine from a DVD or ISO image.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OSGeoLive の DVD や ISO イメージから、永続的な仮想マシンを作成するために、仮想マシン内でインストールすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This web page provides information on these standards in a consolidated location.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013344Z" creationid="miurahr" creationdate="20201103T013344Z">
+        <seg>このWebページには、これらの標準に関する情報がまとめられています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6958,6 +7231,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Users can accomplish a broad array of tasks such as: image classification, statistical analysis to infer spatial relationships and patterns of features, and others listed in the core features below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013600Z" creationid="miurahr" creationdate="20201103T013600Z">
+        <seg>ユーザーは、例えば画像分類、空間的関係を推定するための統計解析、地物の分布パターン、そして以下の基本機能に列挙されるものなど、大規模な配列の処理ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Utilizing CSS3 features to make panning and zooming really smooth</seg>
       </tuv>
       <tuv lang="ja">
@@ -7198,6 +7479,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Well Known Text (WKT) format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T014212Z" creationid="miurahr" creationdate="20201103T014212Z">
+        <seg>Well Known Text(WKT)形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What next?</seg>
       </tuv>
       <tuv lang="ja">
@@ -7274,6 +7563,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>システムのカスタマイズとアップデートが可能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can freely copy it, compress it, and port it between Windows, Linux, MacOs etc.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T013808Z" creationid="miurahr" creationdate="20201103T013808Z">
+        <seg>コピー、圧縮や、Windows、Linux、MacOS などのOS間の移行も簡単にできます。</seg>
       </tuv>
     </tu>
     <tu>
