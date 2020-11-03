@@ -94,6 +94,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**API Interfaces:** C, Python, Bourne Shell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T063902Z" creationid="miurahr" creationdate="20201103T063902Z">
+        <seg>**API インターフェイス:** C, Python, Bourne Shell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**API Interfaces:** Command line</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T063729Z" creationid="miurahr" creationdate="20201103T063729Z">
+        <seg>**API インターフェイス:** Command line</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**API Interfaces:** GeoTools, ImageIO-Ext, Java Advanced Imaging, Eclipse Rich Client Platform, Eclipse Modelling Framework</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002926Z" creationid="miurahr" creationdate="20201103T002926Z">
@@ -710,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-gmt|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T063724Z" creationid="miurahr" creationdate="20201103T063724Z">
+        <seg>**ソフトウェアバージョン:** |version-gmt|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-grass|</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011234Z" creationid="miurahr" creationdate="20201103T011234Z">
@@ -914,6 +938,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051317Z" creationid="smellman" creationdate="20201103T051317Z">
         <seg>**サポート:** https://github.com/t-rex-tileserver/t-rex/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** https://gmt.soest.hawaii.edu/projects/gmt/boards/1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T063736Z" creationid="miurahr" creationdate="20201103T063736Z">
+        <seg>**サポート:** https://gmt.soest.hawaii.edu/projects/gmt/boards/1</seg>
       </tuv>
     </tu>
     <tu>
@@ -1150,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Website:**</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T063913Z" creationid="miurahr" creationdate="20201103T063913Z">
+        <seg>**Webサイト:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Website:** http://geoserver.org/</seg>
       </tuv>
       <tuv lang="ja">
@@ -1242,6 +1282,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051549Z" creationid="smellman" creationdate="20201103T051549Z">
         <seg>**ウェブサイト:**https://github.com/ec-jrc/re3gistry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://gmt.soest.hawaii.edu</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T063712Z" creationid="miurahr" creationdate="20201103T063712Z">
+        <seg>**Webサイト:** https://gmt.soest.hawaii.edu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1546,6 +1594,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>:doc:`クイックスタート文書 &lt;../quickstart/geoserver_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/gmt_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T063747Z" creationid="miurahr" creationdate="20201103T063747Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/gmt_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/grass_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T063925Z" creationid="miurahr" creationdate="20201103T063925Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/grass_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -2090,6 +2154,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051942Z" creationid="miurahr" creationdate="20201103T051942Z">
         <seg>ポイントを追加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additional Geometry, Filter and Style parser/encoders available for DOM and SAX applications.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T063243Z" creationid="miurahr" creationdate="20201103T063243Z">
+        <seg>DOMおよびSAXサプリケーションで利用できる追加のジオメトリ、フィルタ、スタイルのパーサ/エンコーダ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4150,6 +4222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fully featured GIS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T063855Z" creationid="miurahr" creationdate="20201103T063855Z">
+        <seg>フル機能のGIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fully transactional</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042630Z" creationid="miurahr" creationdate="20201103T042630Z">
@@ -5574,6 +5654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It features a wide range of tools for working with geographic information (query, layout creation, geoprocessing, networks, etc.), which turns gvSIG into the ideal tool for users working in the land realm.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T064047Z" creationid="miurahr" creationdate="20201103T064047Z">
+        <seg>これには、地理情報を操作するためのさまざまなツール(クエリー、レイアウト作成、地理処理、ネットワークなど)が用意されており、gvSIGを陸上で作業するユーザにとって理想的なツールに変えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It implements various service interfaces (such as WMS-C, WMTS, TMS, Google Maps KML, Virtual Earth) in order to accelerate and optimize map image delivery.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011713Z" creationid="miurahr" creationdate="20201103T011713Z">
@@ -6880,8 +6968,16 @@
       <tuv lang="en-US">
         <seg>OGC Filter and Common Constraint Language (CQL)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T062049Z" creationid="miurahr" creationdate="20201103T062049Z">
-        <seg>OGC フィルターと Common Constraint Language (CQL)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T063634Z" creationid="miurahr" creationdate="20201103T062049Z">
+        <seg>OGC  Filterと Common Constraint Language (CQL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC General Feature Model including Simple Feature support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T063505Z" creationid="miurahr" creationdate="20201103T063505Z">
+        <seg>Simple Featureサポートを含むOGC General Feature Model</seg>
       </tuv>
     </tu>
     <tu>
@@ -11943,6 +12039,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>being available for Windows and Linux (there are also non-oficial Mac OS X versions).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T064125Z" creationid="miurahr" creationdate="20201103T064125Z">
+        <seg>WindowsおよびLinuxで利用できます(オフィシャルではないMac OS Xバージョンもあります)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>being available in over 20 languages (Spanish, English, German, French, Italian,...).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T064106Z" creationid="miurahr" creationdate="20201103T064106Z">
+        <seg>20以上の言語(スペイン語、英語、ドイツ語、フランス語、イタリア語など)に対応しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>being easily extendible, allowing continuous application enhancement, as well as enabling the development of tailor-made solutions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T064101Z" creationid="miurahr" creationdate="20201103T064101Z">
+        <seg>容易に拡張可能であり、継続的なアプリケーションの拡張が可能であるとともに、カスタマイズされたソリューションの開発が可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>build layer trees from different sources</seg>
       </tuv>
       <tuv lang="ja">
@@ -12175,6 +12295,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>gvSIG Desktop</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T064030Z" creationid="miurahr" creationdate="20201103T064030Z">
+        <seg>gvSIGデスクトップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>gvSIG is known for its user-friendly interface and being able to access all common vector and raster formats.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T064040Z" creationid="miurahr" creationdate="20201103T064040Z">
+        <seg>gvSIGは、ユーザフレンドリなインターフェイスと、すべての一般的なベクトル形式とラスター形式にアクセスできることで知られています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>gvSIG is known for:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T064052Z" creationid="miurahr" creationdate="20201103T064052Z">
+        <seg>gvSIGは次のことで知られています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>gvSIG_ is a Geographic Information System (GIS) desktop application designed for capturing, storing, handling, analysing and deploying any kind of referenced geographic information in order to solve complex management and planning problems.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T064036Z" creationid="miurahr" creationdate="20201103T064036Z">
+        <seg>gvSIG_は、地理情報システム(GIS)デスクトップアプリケーションで、複雑な管理と計画の問題を解決するために、参照されているあらゆる種類の地理情報をキャプチャ、保存、処理、分析、および展開するように設計されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>https://help.ubuntu.com/community/Lubuntu/Documentation and https://wiki.lxde.org/en/Main_Page</seg>
       </tuv>
       <tuv lang="ja">
@@ -12243,6 +12395,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>既存のユーザーデータベースや認証方法との統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>integrating in the same view both local and remote data through OGC standards.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T064058Z" creationid="miurahr" creationdate="20201103T064058Z">
+        <seg>OGC標準を使用して、ローカル・データとリモート・データの両方を同じビューで統合できます。</seg>
       </tuv>
     </tu>
     <tu>
