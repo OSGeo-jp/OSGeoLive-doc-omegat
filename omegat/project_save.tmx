@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2224,24 +2224,24 @@
       <tuv lang="en-US">
         <seg>A shape is called a **closed way** because it is just a line that ends at the same point where it begins.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072730Z" creationid="miurahr" creationdate="20201103T072730Z">
-        <seg>シェイプは、開始点と同じポイントで終了する単なるラインであるため、**閉じたウエイ**と呼ばれます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075006Z" creationid="miurahr" creationdate="20201103T072730Z">
+        <seg>シェイプは、データ上では始点と終点が同一の地点にあるだけのウェイなので 閉じたウェイ(closed way) と呼ばれます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>A shape is exactly like a line - the only difference is that the line begins at the same point where it ends.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072627Z" creationid="miurahr" creationdate="20201103T072627Z">
-        <seg>シェイプはラインとまったく同じですが、唯一の違いは、ラインが終点と同じ点から始まることです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074918Z" creationid="miurahr" creationdate="20201103T072627Z">
+        <seg>シェイプはラインに非常によく似ていますが、唯一、ラインの始点と終点が1つのポイントになっていることが異なっています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>A shape is used to represent an area, like a field or a building.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072607Z" creationid="miurahr" creationdate="20201103T072607Z">
-        <seg>シェイプは、フィールドや建物などの領域を表すために使用されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074851Z" creationid="miurahr" creationdate="20201103T072607Z">
+        <seg>シェイプは基本的に、区域や建物など、なんらかのエリアを表しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2728,8 +2728,8 @@
       <tuv lang="en-US">
         <seg>As you click different objects on the sample map, notice that there are three different types of objects on the map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072446Z" creationid="miurahr" creationdate="20201103T072446Z">
-        <seg>サンプルマップ上の異なるオブジェクトをクリックすると、マップ上に3つの異なるタイプのオブジェクトがあることがわかります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074548Z" creationid="miurahr" creationdate="20201103T072446Z">
+        <seg>地図の上のオブジェクトをいくつかクリックしているうちに、オブジェクトにはポイント、ライン、シェイプの3つの種類があることに気がつくかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4072,8 +4072,8 @@
       <tuv lang="en-US">
         <seg>Drag the bar left and right by holding your left mouse down and moving the bar left or right with your mouse.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072425Z" creationid="miurahr" creationdate="20201103T072425Z">
-        <seg>バーを左右にドラッグするには、マウスの左ボタンを押したまま、マウスでバーを左右に移動します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074444Z" creationid="miurahr" creationdate="20201103T072425Z">
+        <seg>マウスを左クリックしたままバーを左右に動かすことで、地図の拡大と縮小ができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4616,8 +4616,8 @@
       <tuv lang="en-US">
         <seg>For now all you need to know is that this information helps describe whether our object is a forest, a river, a building, or something else.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072753Z" creationid="miurahr" creationdate="20201103T072753Z">
-        <seg>ここで知っておく必要があるのは、この情報が、オブジェクトが森なのか、川なのか、建物なのか、その他のものなのかを記述するのに役立つということだけです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075103Z" creationid="miurahr" creationdate="20201103T072753Z">
+        <seg>いまのところ、森林や河川、建物などの内容はタグに書かれた情報によって表されている、ということを知っているだけでかまいません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5712,8 +5712,8 @@
       <tuv lang="en-US">
         <seg>If you are using a laptop and don’t have a mouse, you can zoom in and out using the scale bar in the upper left of the map window.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072422Z" creationid="miurahr" creationdate="20201103T072422Z">
-        <seg>ラップトップを使用していて、マウスがない場合は、マップウィンドウの左上にある縮尺バーを使用して拡大または縮小できます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074439Z" creationid="miurahr" creationdate="20201103T072422Z">
+        <seg>ラップトップを使用していて、トラックパッドやタッチパッドを使っていてマウスがない場合は、地図の左上に表示されている+と-のボタンをクリックしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5728,8 +5728,8 @@
       <tuv lang="en-US">
         <seg>If you have a mouse, you can use your scroll wheel to zoom in and out.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072418Z" creationid="miurahr" creationdate="20201103T072418Z">
-        <seg>マウスを使用している場合は、スクロールホイールを使用してズームインまたはズームアウトできます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074229Z" creationid="miurahr" creationdate="20201103T072418Z">
+        <seg>マウスが使える場合は、マウスのスクロールホイールを回転させることで、拡大と縮小が可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5752,8 +5752,8 @@
       <tuv lang="en-US">
         <seg>If you look closely you will see that within the lines, there are points as well.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072542Z" creationid="miurahr" creationdate="20201103T072537Z">
-        <seg>よく見ると、ラインの中にもポイントがあります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074753Z" creationid="miurahr" creationdate="20201103T072537Z">
+        <seg>ラインの細部を表示させると、ラインの中にいくつかのポイントが存在していることがわかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5872,16 +5872,16 @@
       <tuv lang="en-US">
         <seg>In OSM, points are actually called **nodes**, and lines are called **ways**.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072715Z" creationid="miurahr" creationdate="20201103T072715Z">
-        <seg>OS Mでは、ポイントは実際には**ノード**と呼ばれ、ラインは**ウエイ**と呼ばれます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074958Z" creationid="miurahr" creationdate="20201103T072715Z">
+        <seg>ポイントは実際には ノード(node) と呼ばれ、ラインは ウェイ と呼ばれます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>In OpenStreetMap there is special terminology which you will come to learn as you progress.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072702Z" creationid="miurahr" creationdate="20201103T072702Z">
-        <seg>OpenStreetMapには特別な用語集があり、進むにつれて学習していきます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074936Z" creationid="miurahr" creationdate="20201103T072702Z">
+        <seg>これから先、OpenStreetMapについて調べてゆくと、これらを別の単語で表現していることがあります。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -6512,8 +6512,8 @@
       <tuv lang="en-US">
         <seg>It's easy to think of a map as containing these three basic types of objects - points, lines, and shapes.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072647Z" creationid="miurahr" creationdate="20201103T072639Z">
-        <seg>マップには、ポイント、ライン、シェイプという3つの基本的なオブジェクトタイプが含まれていると考えると簡単です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074921Z" creationid="miurahr" creationdate="20201103T072639Z">
+        <seg>地図には基本的に、ポイント・ライン・シェイプという3つのタイプのオブジェクトしかない、とかんがえるととてもシンプルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6784,8 +6784,8 @@
       <tuv lang="en-US">
         <seg>Lastly, there are numerous shapes on the sample map, representing different places - a forest, a river, a park, and buildings.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072556Z" creationid="miurahr" creationdate="20201103T072556Z">
-        <seg>最後に、サンプルマップには、森、川、公園、建物など、さまざまな場所を表す多数のシェイプがあります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074835Z" creationid="miurahr" creationdate="20201103T072556Z">
+        <seg>最後に、地図の上には多くのシェイプが存在し、森や河川、公園、建物など、それぞれ異なる地点を表現しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6984,8 +6984,8 @@
       <tuv lang="en-US">
         <seg>Look at the sample map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072427Z" creationid="miurahr" creationdate="20201103T072427Z">
-        <seg>サンプルマップを見てください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074457Z" creationid="miurahr" creationdate="20201103T072427Z">
+        <seg>サンプルの地図を見てみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8504,8 +8504,8 @@
       <tuv lang="en-US">
         <seg>Points are a single location, represented by symbols.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072511Z" creationid="miurahr" creationdate="20201103T072511Z">
-        <seg>ポイントは、シンボルで表される単一の位置です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074653Z" creationid="miurahr" creationdate="20201103T072511Z">
+        <seg>ポイントとは単一の地点で、シンボルによって表現されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10289,8 +10289,8 @@
       <tuv lang="en-US">
         <seg>Tags are information that is tied to a point, line or shape that describes what it is.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072744Z" creationid="miurahr" creationdate="20201103T072744Z">
-        <seg>タグとは、ポイント、ライン、またはシェイプに関連付けられた情報で、タグの内容を表します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075046Z" creationid="miurahr" creationdate="20201103T072744Z">
+        <seg>タグとは、ポイントやライン、シェイプに関連付けられた情報で、その地点が何を表しているかを示しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11065,8 +11065,8 @@
       <tuv lang="en-US">
         <seg>There a few different types of objects here.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072430Z" creationid="miurahr" creationdate="20201103T072430Z">
-        <seg>ここにはいくつかの異なるタイプのオブジェクトがあります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074514Z" creationid="miurahr" creationdate="20201103T072430Z">
+        <seg>種類の違うオブジェクトがいくつか表示されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11081,24 +11081,24 @@
       <tuv lang="en-US">
         <seg>There are several lines on the map as well, which represent roads.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072527Z" creationid="miurahr" creationdate="20201103T072527Z">
-        <seg>地図にも道路を表すラインがいくつかあります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074741Z" creationid="miurahr" creationdate="20201103T072527Z">
+        <seg>その他、地図に描かれているいくつかのラインは道路を表現しています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>There are several ways to zoom in and out of the map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072414Z" creationid="miurahr" creationdate="20201103T072414Z">
-        <seg>マップを拡大または縮小するには、いくつかの方法があります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074211Z" creationid="miurahr" creationdate="20201103T072414Z">
+        <seg>表示領域の拡大/縮小を行うにはいくつかの方法があります。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>There is a river, a forest, some buildings, several roads, and a couple of shops.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072433Z" creationid="miurahr" creationdate="20201103T072433Z">
-        <seg>川、森、いくつかの建物、いくつかの道路、いくつかの店があります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074733Z" creationid="miurahr" creationdate="20201103T072433Z">
+        <seg>表示されているのは、河川が1つ、森林が1つ、そして建物と道路がいくつか、複数の店舗です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11121,8 +11121,8 @@
       <tuv lang="en-US">
         <seg>These are known as tags.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072738Z" creationid="miurahr" creationdate="20201103T072738Z">
-        <seg>これらはタグと呼ばれます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075035Z" creationid="miurahr" creationdate="20201103T072738Z">
+        <seg>ここに表示される値はタグと呼ばれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11169,8 +11169,8 @@
       <tuv lang="en-US">
         <seg>These points don’t have any symbols or other information associated with them, but they help to define where the line is located.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072549Z" creationid="miurahr" creationdate="20201103T072549Z">
-        <seg>これらのポイントにはシンボルやその他の関連情報はありませんが、線分の位置を定義するのに役立ちます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074804Z" creationid="miurahr" creationdate="20201103T072549Z">
+        <seg>これらのポイントは特定のシンボルや情報を持っておらず、ラインがどの地点を通過しているのかを指し示しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11225,8 +11225,8 @@
       <tuv lang="en-US">
         <seg>Think about drawing a map by hand, and how you are also drawing points, lines, and shapes.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072806Z" creationid="miurahr" creationdate="20201103T072806Z">
-        <seg>手動でマップを描画する方法、およびポイント、ライン、シェイプを描画する方法について考えてみてください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075123Z" creationid="miurahr" creationdate="20201103T072806Z">
+        <seg>地図を手書きで書くときを思い出してください。ポイントやライン、シェイプをどのように使って描くと、地図がよりわかりやすくなるでしょうか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11537,8 +11537,8 @@
       <tuv lang="en-US">
         <seg>To move the map left or right, up or down, hold your right mouse button down, and move your mouse.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072410Z" creationid="miurahr" creationdate="20201103T072410Z">
-        <seg>マップを左右に移動するには、上または下に移動し、マウスの右ボタンを押したままマウスを移動します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074159Z" creationid="miurahr" creationdate="20201103T072410Z">
+        <seg>画面上で右クリックをしたままマウスを動かすと、表示領域を上下左右に移動させることができます。。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11553,8 +11553,8 @@
       <tuv lang="en-US">
         <seg>To select an object, click on it with your left mouse button.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072437Z" creationid="miurahr" creationdate="20201103T072437Z">
-        <seg>オブジェクトを選択するには、マウスの左ボタンでクリックします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074538Z" creationid="miurahr" creationdate="20201103T072437Z">
+        <seg>オブジェクトを選択するには、対象を左クリックしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12705,8 +12705,8 @@
       <tuv lang="en-US">
         <seg>You may notice that when you select an object, a list appears to the right of the map in a window called “Properties”.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072736Z" creationid="miurahr" creationdate="20201103T072736Z">
-        <seg>オブジェクトを選択すると、[プロパティ]というウィンドウのマップの右側にリストが表示されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T075019Z" creationid="miurahr" creationdate="20201103T072736Z">
+        <seg>オブジェクトを選択すると、JOSMの画面右側に”プロパティ”と呼ばれるリストが表示されることに気がつくかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
