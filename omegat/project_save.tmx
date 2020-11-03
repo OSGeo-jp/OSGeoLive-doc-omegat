@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Administrator manual:** https://github.com/ec-jrc/re3gistry/blob/master/documentation/administrator-manual.md</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051613Z" creationid="smellman" creationdate="20201103T051613Z">
+        <seg>**管理者マニュアル:**https://github.com/ec-jrc/re3gistry/blob/master/documentation/administrator-manual.md</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Air Quality Data e-Reporting Extension**: Starting with version 4.3.0, an extension is available that provides for the Air Quality Data Flows E1a, E1b and E2a compliant data (the instance on OSGeoLive is not configured accordingly).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041910Z" creationid="miurahr" creationdate="20201103T041910Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002250Z" creationid="miurahr" creationdate="20201103T002250Z">
         <seg>**デスクトップ・アプリケーション**： Windows、Mac OS/X、およびLinux上でネイティブに動作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Developer manual:** https://github.com/ec-jrc/re3gistry/blob/master/documentation/developer-manual.md</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051618Z" creationid="smellman" creationdate="20201103T051618Z">
+        <seg>**開発者マニュアル:**https://github.com/ec-jrc/re3gistry/blob/master/documentation/developer-manual.md</seg>
       </tuv>
     </tu>
     <tu>
@@ -734,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Support:** https://github.com/ec-jrc/re3gistry</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051602Z" creationid="smellman" creationdate="20201103T051602Z">
+        <seg>**サポート:**https://github.com/ec-jrc/re3gistry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Support:** https://github.com/t-rex-tileserver/t-rex/</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051317Z" creationid="smellman" creationdate="20201103T051317Z">
@@ -922,6 +946,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**タイルキャッシュ**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**User manual:** https://github.com/ec-jrc/re3gistry/blob/master/documentation/user-manual.md</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051606Z" creationid="smellman" creationdate="20201103T051606Z">
+        <seg>**ユーザーマニュアル:**https://github.com/ec-jrc/re3gistry/blob/master/documentation/user-manual.md</seg>
       </tuv>
     </tu>
     <tu>
@@ -1338,6 +1370,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>:doc:`クイックスタート文書 &lt;../quickstart/qgis_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/re3gistry_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051632Z" creationid="smellman" creationdate="20201103T051632Z">
+        <seg>:doc:`クイックスタートドキュメント&lt;./quickstart/re3gistry_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -2194,6 +2234,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T062232Z" creationid="miurahr" creationdate="20201102T062232Z">
         <seg>中国</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose :menuselection:`Geospatial --&gt; Web Services --&gt; T-Rex` from the menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051919Z" creationid="smellman" creationdate="20201103T051919Z">
+        <seg>メニューから:menuselection:`Geospatial--&gt;Web Services--&gt;T-Rex`を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10015,6 +10063,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>generate a tile cache</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051842Z" creationid="smellman" creationdate="20201103T051842Z">
+        <seg>タイルキャッシュの生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>generate vector tiles without configuration and inspect them with built-in viewers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051836Z" creationid="smellman" creationdate="20201103T051836Z">
+        <seg>設定なしでベクタータイルを生成し、組み込みビューアで検査する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>https://help.ubuntu.com/community/Lubuntu/Documentation and https://wiki.lxde.org/en/Main_Page</seg>
       </tuv>
       <tuv lang="ja">
@@ -10355,6 +10419,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Sv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>t-rex Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051746Z" creationid="smellman" creationdate="20201103T051746Z">
+        <seg>t-rexクイックスタート</seg>
       </tuv>
     </tu>
     <tu>
