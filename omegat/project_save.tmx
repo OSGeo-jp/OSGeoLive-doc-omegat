@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3 different projections are available (3D Globe, Flat Map, Mercator)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010320Z" creationid="miurahr" creationdate="20201103T010320Z">
+        <seg>3種類の投影を使用できます(3D地球儀、平面図、メルカトル)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3D Globes and 2D Maps in a Browser</seg>
       </tuv>
       <tuv lang="ja">
@@ -1146,6 +1154,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ローカルな知識の地球規模のリポジトリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A great solution for the geography lessons</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010306Z" creationid="miurahr" creationdate="20201103T010306Z">
+        <seg>地理の学習に最適なソリューション</seg>
       </tuv>
     </tu>
     <tu>
@@ -1430,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Besides choosing any number of maps to view on your globe (including `OpenStreetMaps &lt;https://www.openstreetmap.org&gt;`_), you are encouraged to include a KDE Marble widget in your application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010204Z" creationid="miurahr" creationdate="20201103T010037Z">
+        <seg>地球儀に表示する(`OpenStreetMaps&lt;https://www.openstreetmap.org&gt;`_ を含む)マップをいろいろ選択するだけでなく、アプリケーションにKDE Marbleウィジェットを含めることをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bi-directional A* Shortest Path</seg>
       </tuv>
       <tuv lang="ja">
@@ -1506,6 +1530,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>CPU: 1 GHz i686 互換の CPU (Intel/AMD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calculate pedestrian, bike and motorcar routes with ease - online and offline, with an arbitrary number of via points.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010052Z" creationid="miurahr" creationdate="20201103T010052Z">
+        <seg>任意の数の経由ポイントを使用して、オンラインとオフラインで、歩行者、自転車、自動車のルートを簡単に計算できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2094,10 +2126,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Earth is not enough?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010220Z" creationid="miurahr" creationdate="20201103T010220Z">
+        <seg>地球だけでは十分じゃない?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Easy Viewing of many Vector and Raster Formats</seg>
       </tuv>
       <tuv lang="ja">
         <seg>様々なベクタとラスタフォーマットの容易な表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Easy to use</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010302Z" creationid="miurahr" creationdate="20201103T010302Z">
+        <seg>使いやすい</seg>
       </tuv>
     </tu>
     <tu>
@@ -2146,6 +2194,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>イベント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Explore the neighborhood with Marble's rich set of city and street level maps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010042Z" creationid="miurahr" creationdate="20201103T010042Z">
+        <seg>Marbleの都市および街路レベルマップの豊富なセットを使用して、周辺を探索します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2234,6 +2290,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002314Z" creationid="miurahr" creationdate="20201103T002314Z">
         <seg>uDigは、オープン・ソース・コンポーネントを使用して空間アプリケーションを構築するための共通のJavaプラットフォームを開発者に提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, the Minnesota DNR `Recreation Compass &lt;http://www.dnr.state.mn.us/maps/compass.html&gt;`_ provides users with more than 10,000 web pages, reports and maps via a single application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T005850Z" creationid="miurahr" creationdate="20201103T005850Z">
+        <seg>例として、ミネソタ DNR `Recreation Compass &lt;http://www.dnr.state.mn.us/maps/compass.html&gt;`_ は10,000を超えるウェブページ、レポートおよび地図を１つのアプリケーションを通じて提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2974,6 +3038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Information layers (Weather, Real-time clouds, Day/Night View, Real-time Satellites, Wikipedia Articles, Photos, Postal Codes, Earthquakes)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010324Z" creationid="miurahr" creationdate="20201103T010324Z">
+        <seg>情報レイヤー(天気、リアルタイム・クラウド、昼/夜ビュー、リアルタイム衛星、ウィキペディアの記事、写真、郵便番号、地震)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Input sources:</seg>
       </tuv>
       <tuv lang="ja">
@@ -3090,6 +3162,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052413Z" creationid="miurahr" creationdate="20201102T052413Z">
         <seg>多くの場合、Mapnikを使用してOSMデータを視覚的にレンダリングするために使用されます。これは、MapnikがPostgreSQLにOSMデータを視覚的にレンダリングする場合によく使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is supported by a diverse group of organizations that fund enhancements and maintenance, and administered within OSGeo by the MapServer Project Steering Committee made up of developers and other contributors.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T005933Z" creationid="miurahr" creationdate="20201103T005933Z">
+        <seg>基金強化およびメインテナンスなどの様々な機関によってサポートされています。開発者とコントリビュータによって構成される MapServer Project Steering Committee として OSGeo のなかで運営されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3294,6 +3374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Later it was hosted by the TerraSIP project, a NASA sponsored project between the UMN and a consortium of land management interests.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T005904Z" creationid="miurahr" creationdate="20201103T005904Z">
+        <seg>後に UMN と土地管理業者コンソーシアムで作られた、NASA のスポンサーによる TerraSIP プロジェクトが管理することになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Layer Compositing</seg>
       </tuv>
       <tuv lang="ja">
@@ -3438,6 +3526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Map Presentation (Atlas View, Street Maps, Satellite Maps, Topographic Maps, Educational Maps)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010309Z" creationid="miurahr" creationdate="20201103T010309Z">
+        <seg>地図表示(地図帳、街路図、衛星地図、地形図、教育用地図)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Map element automation (scalebar, reference map, and legend)</seg>
       </tuv>
       <tuv lang="ja">
@@ -3478,10 +3574,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MapServer is an `Open Source &lt;https://opensource.org/&gt;`_ geographic data rendering engine written in C. Beyond browsing GIS data, MapServer allows you create "geographic image maps", that is, maps that can direct users to web content.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T005834Z" creationid="miurahr" creationdate="20201103T005834Z">
+        <seg>MapServer は C 言語で記述された`オープンソース&lt;https://opensource.org/&gt;`_ のジオグラフィックデータレンダリングエンジンです。GISデータのブラウズはもちろん、MapServer はユーザにコンテンツを直接伝えるためのグラフィックイメージ地図を作ることが出来ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MapServer is an `Open Source &lt;https://opensource.org/&gt;`_ server based application that allows you to publish geographic map images and vector data through the internet using |OGCS| such as |WMS|, |WFS| and |WCS|.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>MapServerは、 `オープンソース &lt;https://opensource.org/&gt;`_ サーバーベースのアプリケーションであり、|WMS|、|WFS|、|WCS|などの |OGCS| を使用して、インターネットを介して地理的地図の画像やベクターデータを公開できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapServer is now a project of `OSGeo &lt;https://www.osgeo.org&gt;`_, and is maintained by a growing number of developers (nearing 20) from around the world.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T005915Z" creationid="miurahr" creationdate="20201103T005915Z">
+        <seg>現在、MapServer は `OSGeo &lt;https://www.osgeo.org&gt;`_ の１プロジェクトとして管理されています。今後増え続ける世界中からの開発者(現在約20人)によって維持管理されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapServer was originally developed by the University of Minnesota (UMN) ForNet project in cooperation with NASA, and the Minnesota Department of Natural Resources (MNDNR).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T005900Z" creationid="miurahr" creationdate="20201103T005900Z">
+        <seg>MapServer は NASA、Minnesota Department of Natural Resources (MNDNR) の協力のもとでミネソタ大学 (UMN) ForNet プロジェクトにより当初開発されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3506,6 +3626,30 @@
       </tuv>
       <tuv lang="ja">
         <seg>Mapserver 及び Mapnik (WMS 無しで直接的に)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Marble also offers maps of the moon and other planets.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010226Z" creationid="miurahr" creationdate="20201103T010226Z">
+        <seg>Marbleは月や他の惑星の地図も提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Marble is an open source KDE Education Project program similar to `NASA World Wind &lt;https://worldwind.arc.nasa.gov/java/&gt;`_ or Google Earth.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T005942Z" creationid="miurahr" creationdate="20201103T005942Z">
+        <seg>Marbleは「NASA World Wind&lt;https://worldwind.arc.nasa.gov/java/&gt;」やGoogle Earthに似たオープンソースのKDE Education Projectプログラムです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Marble takes care of querying various search backends and presents their results in a unified view.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010049Z" creationid="miurahr" creationdate="20201103T010049Z">
+        <seg>Marbleはさまざまな検索バックエンドをクエリーし、その結果を統一されたビューで表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3666,6 +3810,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ESRI シェープファイル, PostGIS, Oracle Spatial のネイティブサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Navigate globe in 3D</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010312Z" creationid="miurahr" creationdate="20201103T010312Z">
+        <seg>地球儀を3Dでナビゲートする</seg>
       </tuv>
     </tu>
     <tu>
@@ -4806,6 +4958,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Search (Online address search, Online POI search)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010328Z" creationid="miurahr" creationdate="20201103T010328Z">
+        <seg>検索(オンライン住所検索、オンラインPOI検索)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search for addresses and places of interest.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010046Z" creationid="miurahr" creationdate="20201103T010046Z">
+        <seg>住所と名所を検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Searchable archives of the mailing list are hosted by `Nabble &lt;http://www.osgeo-org.1560.x6.nabble.com/OSGeoLive-f3777350.html&gt;`_.</seg>
       </tuv>
       <tuv lang="ja">
@@ -5146,6 +5314,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>開始 R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start exploring the world.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010107Z" creationid="miurahr" creationdate="20201103T010107Z">
+        <seg>世界を探検しよう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5534,6 +5710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The same application serves as a "map engine" for other portions of the site, providing spatial context where needed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T005852Z" creationid="miurahr" creationdate="20201103T005852Z">
+        <seg>同様のアプリケーションは空間情報を提供するサイトのマップエンジンとしても利用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The smaller CBD extract is loaded into another PostGIS database called "pgrouting".</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T051611Z" creationid="miurahr" creationdate="20201102T051611Z">
@@ -5722,6 +5906,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>翻訳者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Travel back in time and learn about historic views of our planet using maps from past centuries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010212Z" creationid="miurahr" creationdate="20201103T010212Z">
+        <seg>昔に戻り、過去数世紀の地図を使って、私たちの惑星の歴史的な眺めについて学びましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5950,6 +6142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View clouds and sun shadow, follow satellites and space stations and display their orbits, all updated in real-time.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010209Z" creationid="miurahr" creationdate="20201103T010209Z">
+        <seg>雲や太陽の影を表示したり、衛星や宇宙ステーションを追跡したり、それらの軌道を表示したりします。これらはすべてリアルタイムで更新されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Viewing the metrics requires an Internet connection and Javascript to be enabled.</seg>
       </tuv>
       <tuv lang="ja">
@@ -5966,10 +6166,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Virtual Globe And World Atlas</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010300Z" creationid="miurahr" creationdate="20201103T010245Z">
+        <seg>バーチャル地球儀と世界地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Virtual Machine Advantages</seg>
       </tuv>
       <tuv lang="ja">
         <seg>仮想マシンの利点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Virtual globe and world atlas</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T005938Z" creationid="miurahr" creationdate="20201103T005938Z">
+        <seg>バーチャル地球儀と世界地図</seg>
       </tuv>
     </tu>
     <tu>
