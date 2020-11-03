@@ -1654,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/ideditor_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T065132Z" creationid="miurahr" creationdate="20201103T065132Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/ideditor_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>:doc:`Quickstart documentation &lt;../quickstart/josm_quickstart&gt;`</seg>
       </tuv>
       <tuv lang="ja">
@@ -5106,6 +5114,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T104134Z" creationid="smellman" creationdate="20201101T104134Z">
         <seg>IRCユーザーは、Freenode.netの#osgeoliveまたは#osgeoチャネルを使ってリアルタイムによる支援を試してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ISO 19107 Geometry</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T065707Z" creationid="miurahr" creationdate="20201103T065707Z">
+        <seg>ISO19107ジオメトリ</seg>
       </tuv>
     </tu>
     <tu>
@@ -9743,6 +9759,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `ASPRS LAS format`_ is a sequential binary format used to store data from LiDAR sensors and by LiDAR processing software for data interchange and archival.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070005Z" creationid="miurahr" creationdate="20201103T070005Z">
+        <seg>`ASPRS LAS format`_ は LiDAR センサや LiDAR 処理ソフトウェアがデータの保存、交換，アーカイブに使用しているシーケンシャルなバイナリフォーマットです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `ExtJS 6.2.0 API docs &lt;https://docs.sencha.com/extjs/6.2.0/&gt;`_</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054740Z" creationid="miurahr" creationdate="20201103T054740Z">
@@ -12546,6 +12570,14 @@
         <seg>libLAS is a C/C++ library for reading and writing the very common LAS LiDAR format.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T060022Z" creationid="miurahr" creationdate="20201103T055938Z">
+        <seg>ibLAS は一般的な `LAS` `LiDAR`_ フォーマットを読み書きするための C/C++ ライブラリです。 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>libLAS is a C/C++ library for reading and writing the very common `LAS` `LiDAR`_ format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T065953Z" creationid="miurahr" creationdate="20201103T065953Z">
         <seg>ibLAS は一般的な `LAS` `LiDAR`_ フォーマットを読み書きするための C/C++ ライブラリです。 。</seg>
       </tuv>
     </tu>
