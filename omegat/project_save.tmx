@@ -910,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-opencpn|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102837Z" creationid="smellman" creationdate="20201103T102837Z">
+        <seg>**ソフトウェアバージョン:** |version-opencpn|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-openlayers|</seg>
       </tuv>
       <tuv lang="ja">
@@ -1594,6 +1602,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T065034Z" creationid="miurahr" creationdate="20201103T065034Z">
         <seg>**Webサイト:** https://wiki.openstreetmap.org/wiki/ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://www.opencpn.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102815Z" creationid="smellman" creationdate="20201103T102815Z">
+        <seg>**ウェブサイト:**https://www.opencpn.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -2286,6 +2302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AIS input decoding</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102704Z" creationid="smellman" creationdate="20201103T102704Z">
+        <seg>AIS入力デコード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Above all Mapnik is about making beautiful maps.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055250Z" creationid="miurahr" creationdate="20201103T055210Z">
@@ -2858,6 +2882,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>以前の OSGeo-Live リリースで利用可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BSB raster, C-MAP (CM93/2) and S-57 ENC vector charts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102636Z" creationid="smellman" creationdate="20201103T102636Z">
+        <seg>BSBラスター、C-MAP(CM93/2)、S-57ENCベクトル図</seg>
       </tuv>
     </tu>
     <tu>
@@ -4806,6 +4838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Further, the user may enter routes and waypoints allowing interface to an external autopilot for precise course following.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102604Z" creationid="smellman" creationdate="20201103T102604Z">
+        <seg>さらに、ユーザは、正確なコース追跡のための外部自動操縦装置へのインターフェースを可能にする経路およびウェイポイントを入力することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GDAL Project home</seg>
       </tuv>
       <tuv lang="ja">
@@ -4970,6 +5010,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>GRASS のロケーションとマップセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GRIB weather data overlay</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102808Z" creationid="smellman" creationdate="20201103T102808Z">
+        <seg>GRIB天候データオーバーレイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -6326,6 +6374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>International language support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102759Z" creationid="smellman" creationdate="20201103T102759Z">
+        <seg>国際化のサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Intuitive</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T065016Z" creationid="miurahr" creationdate="20201103T065016Z">
@@ -7558,6 +7614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NMEA GPS or `Gpsd &lt;https://www.berlios.de/software/gpsd/&gt;`_ daemon input</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102722Z" creationid="smellman" creationdate="20201103T102722Z">
+        <seg>NMEA GPSまたは`Gpsd&lt;https://www.berlios.de/software/gpsd/&gt;`_ デーモンの入力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NMEA-0183 files: .nmea, .nme, .nma, .log, .txt</seg>
       </tuv>
       <tuv lang="ja">
@@ -8298,6 +8362,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T102254Z" creationid="smellman" creationdate="20201103T102254Z">
         <seg>OpenCPNはあらゆる船型や船型の船舶を操船するためのフリーナビゲーション・ソフトウェアや、航路計画のためのオフライン・ソフトウェアを提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenCPN supports:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102652Z" creationid="smellman" creationdate="20201103T102652Z">
+        <seg>OpenCPN は次のものをサポートします:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12023,6 +12095,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unlimited route/mark creation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102737Z" creationid="smellman" creationdate="20201103T102737Z">
+        <seg>無制限のルート/マークの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Until now, you have been using the Select tool, which looks like this:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075502Z" creationid="miurahr" creationdate="20201103T073553Z">
@@ -12323,6 +12403,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003156Z" creationid="miurahr" creationdate="20201103T003156Z">
         <seg>QGISを使用したWYSIWYGマップの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Waypoint / autopilot navigation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102728Z" creationid="smellman" creationdate="20201103T102728Z">
+        <seg>ウェイポイント/オートパイロットナビゲーション</seg>
       </tuv>
     </tu>
     <tu>
