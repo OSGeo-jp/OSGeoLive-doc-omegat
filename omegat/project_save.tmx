@@ -3726,6 +3726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DeleteObservation (extension for SOS specification 2.0): for deleting an observation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T073952Z" creationid="sanak" creationdate="20201103T073952Z">
+        <seg>DeleteObservation (SOS 仕様 2.0の拡張): 観測データを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DeleteSensor (from specification version 2.0): for deleting a sensor/procedure and all related offerings and observations.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T073818Z" creationid="sanak" creationdate="20201103T073818Z">
