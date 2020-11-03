@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>(4) The right cell is the main display area where raster and vector data is rendered.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020940Z" creationid="miurahr" creationdate="20201103T020940Z">
+        <seg>(4)右のセルは、ラスタデータとベクタデータがレンダリングされるメイン表示領域です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(verify boot device order if necessary)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T053023Z" creationid="miurahr" creationdate="20201102T053023Z">
@@ -982,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**What will I learn ?** In this section, you will learn what a Mapfile is and how to configure it to allow MapServer to serve a shapefile as images using WMS requests.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021438Z" creationid="miurahr" creationdate="20201103T021438Z">
+        <seg>**何がわかる？** ここでは、Mapfileの概要と、MapServerがWMS要求を使用してシェイプファイルをイメージとして処理できるように設定する方法について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**amd64 or i386 architecture**</seg>
       </tuv>
       <tuv lang="ja">
@@ -1042,6 +1058,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T111258Z" creationid="smellman" creationdate="20201101T111258Z">
         <seg>*OSGeoLiveのコンテンツは、著作権保持者および貢献者によって"現状のまま"提供され、商品性および特定目的への適合性の黙示的な保証を含む(ただし、これらに限定されない)、明示的または暗示的ないかなる保証も拒否されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*deegree* is a Java application for serving maps (and vector data) for other clients to show.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020817Z" creationid="miurahr" creationdate="20201103T020817Z">
+        <seg>*deegree*は、他のクライアントが表示するマップ(およびベクタデータ)を提供するJavaアプリケーションです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1402,6 +1426,38 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020144Z" creationid="miurahr" creationdate="20201103T020144Z">
         <seg>グラフィカル・ユーザー・インタフェース(GUI)またはコマンドライン(CLI)を使用し多数の科学モジュールへのアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Actinia Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020743Z" creationid="miurahr" creationdate="20201103T020743Z">
+        <seg>Actinia クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Actinia can be used in different ways:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020757Z" creationid="miurahr" creationdate="20201103T020757Z">
+        <seg>アクチニアは様々な方法で利用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Actinia is an open source REST API for scalable, distributed, high performance processing of geographical data that uses GRASS GIS for computational tasks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020726Z" creationid="miurahr" creationdate="20201103T020726Z">
+        <seg>Actiniaは、地理データのスケーラブルで分散した高パフォーマンス処理のためのオープンソースREST APIであり、計算タスクにGRASS GISを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Actinia provides a REST API to process satellite images, time series of satellite images, raster and vector data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020657Z" creationid="miurahr" creationdate="20201103T020657Z">
+        <seg>Actiniaは、衛星画像、時系列衛星画像データ、ベクタデータを処理するREST APIを提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1934,6 +1990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Configure MapServer using the Mapfile configuration file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021020Z" creationid="miurahr" creationdate="20201103T021020Z">
+        <seg>Mapfile設定ファイルを使用してMapServerを設定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contact Us</seg>
       </tuv>
       <tuv lang="ja">
@@ -2072,8 +2136,8 @@
       <tuv lang="en-US">
         <seg>Cultural Vector Data Themes:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T012706Z" creationid="miurahr" creationdate="20201103T012516Z">
-        <seg>Culturalベクダーデータのテーマ:</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020604Z" creationid="miurahr" creationdate="20201103T012516Z">
+        <seg>Culturalベクタデータのテーマ:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2368,8 +2432,8 @@
       <tuv lang="en-US">
         <seg>Download and upload OSM vector data.</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>OSMベクトルデータのダウンロードおよびアップロード</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020513Z">
+        <seg>OSMベクタデータのダウンロードおよびアップロード</seg>
       </tuv>
     </tu>
     <tu>
@@ -2434,6 +2498,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>動的ヒートマップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dynamic interaction such as panning and zooming, overlay of markers and vector data is provided by powerful browser functionality.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020528Z" creationid="miurahr" creationdate="20201103T020528Z">
+        <seg>強力なブラウザ機能により、パンやズーム、マーカーやベクタデータのオーバーレイなどの動的な操作が可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3190,6 +3262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Get information about the vector data with ogrinfo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020900Z" creationid="miurahr" creationdate="20201103T020900Z">
+        <seg>ogrinfoでベクタデータに関する情報を取得する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Get support: https://www.openstreetmap.org/help</seg>
       </tuv>
       <tuv lang="ja">
@@ -3306,6 +3386,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>`MapServerチュートリアル &lt;https://www.mapserver.org/tutorial/index.html&gt;`_ をご覧ください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Have a look at the options ogr2ogr provides.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020916Z" creationid="miurahr" creationdate="20201103T020916Z">
+        <seg>ogr2ogrが提供するオプションを見てください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3792,8 +3880,8 @@
       <tuv lang="en-US">
         <seg>It can display map tiles, vector data and markers loaded from any source.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T010758Z" creationid="miurahr" creationdate="20201103T010533Z">
-        <seg>任意のソースから地図タイル、ベクターデータやマーカーをロードして表示可能です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020620Z" creationid="miurahr" creationdate="20201103T010533Z">
+        <seg>任意のソースから地図タイル、ベクタデータやマーカーをロードして表示可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3854,6 +3942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is just as easy to have an aerial photograph or Digital Terrain Model as a backdrop to your vector data, or to show other vector data stored in different formats.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020953Z" creationid="miurahr" creationdate="20201103T020953Z">
+        <seg>航空写真やデジタル地形モデルをベクタデータの背景として使用したり、異なる形式で保存された他のベクタデータを表示することも簡単です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is light weight, yet has all the features most developers ever need for online maps.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011007Z" creationid="miurahr" creationdate="20201103T011007Z">
@@ -3882,6 +3978,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T005933Z" creationid="miurahr" creationdate="20201103T005933Z">
         <seg>基金強化およびメインテナンスなどの様々な機関によってサポートされています。開発者とコントリビュータによって構成される MapServer Project Steering Committee として OSGeo のなかで運営されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It provides a REST API to process satellite images, time series of satellite images, arbitrary raster data with geographical relations and vector data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020441Z" creationid="miurahr" creationdate="20201103T020441Z">
+        <seg>衛星画像、時系列衛星画像、地理的関係を持つ任意のラスタデータ、ベクタデータを処理するREST APIを提供する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4328,8 +4432,8 @@
       <tuv lang="en-US">
         <seg>Manipulation of vector data (merging/intersection/attributes)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T020210Z" creationid="miurahr" creationdate="20201103T020210Z">
-        <seg>ベクターデータの操作(マージ/交差/属性)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020630Z" creationid="miurahr" creationdate="20201103T020210Z">
+        <seg>ベクタデータの操作(マージ/交差/属性)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4424,8 +4528,8 @@
       <tuv lang="en-US">
         <seg>MapServer is an `Open Source &lt;https://opensource.org/&gt;`_ server based application that allows you to publish geographic map images and vector data through the internet using |OGCS| such as |WMS|, |WFS| and |WCS|.</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>MapServerは、 `オープンソース &lt;https://opensource.org/&gt;`_ サーバーベースのアプリケーションであり、|WMS|、|WFS|、|WCS|などの |OGCS| を使用して、インターネットを介して地理的地図の画像やベクターデータを公開できます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021016Z">
+        <seg>MapServerは、 `オープンソース &lt;https://opensource.org/&gt;`_ サーバーベースのアプリケーションであり、|WMS|、|WFS|、|WCS|などの |OGCS| を使用して、インターネットを介して地理的地図の画像やベクタデータを公開できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4688,8 +4792,8 @@
       <tuv lang="en-US">
         <seg>Natural Earth solves the common problem that many cartographers face: finding vector data for making publication-quality small-scale maps at the appropriate level of detail for the maps they are making.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T012447Z" creationid="miurahr" creationdate="20201103T012447Z">
-        <seg>Natural Earthは、多くの地図製作者が直面する一般的な問題を解決します。つまり、作成中のマップに適した詳細レベルでパブリケーション品質の小規模マップを作成するためのベクトルデータを検索します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020542Z" creationid="miurahr" creationdate="20201103T012447Z">
+        <seg>Natural Earthは、多くの地図製作者が直面する一般的な問題を解決します。つまり、作成中のマップに適した詳細レベルでパブリケーション品質の小規模マップを作成するためのベクタデータを検索します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5278,6 +5382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Physical Vector Data Themes:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020616Z" creationid="miurahr" creationdate="20201103T020616Z">
+        <seg>物理ベクタデータのテーマ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Picking the right image for you:</seg>
       </tuv>
       <tuv lang="ja">
@@ -5715,6 +5827,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>R-Tree 空間インデックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>REST API to process satellite images, time series of satellite images, raster and vector data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020457Z" creationid="miurahr" creationdate="20201103T020457Z">
+        <seg>衛星画像、時系列の衛星画像、ラスターおよびベクタデータを処理するREST API。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6911,6 +7031,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `Mapfile &lt;https://mapserver.org/mapfile/index.html&gt;`_ is the configuration file that MapServer uses to render geospatial data as images or vector data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021052Z" creationid="miurahr" creationdate="20201103T021052Z">
+        <seg>`Mapfile&lt;https://mapserver.org/mapfile/index.html&gt;`_ は、MapServerが空間データをイメージまたはベクタデータとしてレンダリングするために使用する設定ファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `Open Source Geospatial Foundation (OSGeo) &lt;https://www.osgeo.org&gt;`__ is a not-for-profit organization whose mission is to foster global adoption of open geospatial technology by being an inclusive software foundation devoted to an open philosophy and participatory community driven development.</seg>
       </tuv>
       <tuv lang="ja">
@@ -7183,6 +7311,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This Quick Start is divided into two parts: GDAL (raster data) and OGR (vector data).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020848Z" creationid="miurahr" creationdate="20201103T020848Z">
+        <seg>このクイックスタートは、GDAL(ラスタデータ)とOGR(ベクタデータ)の2つの部分に分かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This allows a user to create applications which can model the process described by your data.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011658Z" creationid="miurahr" creationdate="20201103T011658Z">
@@ -7359,6 +7495,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try ogr2ogr to import/export your vector data to other formats like PostGIS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020910Z" creationid="miurahr" creationdate="20201103T020910Z">
+        <seg>ogr2ogrを使用して、ベクタデータをPostGISなどの他の形式にインポート/エクスポートしてみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Try some more spatial functions like ``st_buffer(geom)``, ``st_transform(geom,25831)``, ``st_x(geom)`` - you will find full documentation at http://postgis.net/documentation/</seg>
       </tuv>
       <tuv lang="ja">
@@ -7371,6 +7515,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>このクイックスタートの元となったLearnOSMドキュメントを試してください： https://learnosm.org/en/josm/start-josm/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try the QGIS plugin OGR-Layer-Konverter.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020925Z" creationid="miurahr" creationdate="20201103T020925Z">
+        <seg>QGISプラグインOGR-Layer-Konverterを試してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7539,6 +7691,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ベクタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vector Data: GML2, GML3, SHP files, KML, WKT (Well-known Text), DGN, JSON</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T020406Z" creationid="miurahr" creationdate="20201103T020406Z">
+        <seg>ベクタデータ: GML2, GML3, SHP files, KML, WKT (Well-known Text), DGN, JSON</seg>
       </tuv>
     </tu>
     <tu>
@@ -7779,6 +7939,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014212Z" creationid="miurahr" creationdate="20201103T014212Z">
         <seg>Well Known Text(WKT)形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is a Mapfile ?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021028Z" creationid="miurahr" creationdate="20201103T021028Z">
+        <seg>Mapfileとは</seg>
       </tuv>
     </tu>
     <tu>
