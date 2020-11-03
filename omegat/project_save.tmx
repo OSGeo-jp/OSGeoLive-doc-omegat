@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2106,6 +2106,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052137Z" creationid="miurahr" creationdate="20201102T052137Z">
         <seg>OpenStreetMapは誰でも編集できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Applicable Standards</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T055747Z" creationid="sanak" creationdate="20201103T055747Z">
+        <seg>適用可能な標準規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -11443,6 +11451,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>座標変換を行う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>documentation can be found in the `SOS webapp &lt;http://localhost:8080/52nSOS/static/doc/api-doc/&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T055451Z" creationid="sanak" creationdate="20201103T055451Z">
+        <seg>`SOS webapp &lt;http://localhost:8080/52nSOS/static/doc/api-doc/&gt;`_ 内で文書を確認できます。</seg>
       </tuv>
     </tu>
     <tu>
