@@ -270,10 +270,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Licence:** GNU General Public License (GPL) version 2+</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011229Z" creationid="miurahr" creationdate="20201103T011229Z">
+        <seg>**ライセンス:** GNU General Public License (GPL) version 2+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Licence:** GNU General Public License (GPL) version 2.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T044526Z" creationid="miurahr" creationdate="20201102T044526Z">
         <seg>**ライセンス:** GNU General Public License (GPL) version 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Licence:** GNU Lesser General Public License (LGPL) version 2.1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010433Z" creationid="miurahr" creationdate="20201103T010433Z">
+        <seg>**ライセンス:** GNU Lesser General Public License (LGPL) version 2.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,6 +378,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052301Z" creationid="miurahr" creationdate="20201102T052301Z">
         <seg>**Merkaartor**は、Qtツールキットを使用するOpenStreetMap用のマップエディタです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**More Info:** https://www.slideshare.net/marbleglobe/marble-1-6en</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010506Z" creationid="miurahr" creationdate="20201103T010506Z">
+        <seg>**詳細情報:** https://www.slideshare.net/marbleglobe/marble-1-6en</seg>
       </tuv>
     </tu>
     <tu>
@@ -462,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-grass|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011234Z" creationid="miurahr" creationdate="20201103T011234Z">
+        <seg>**ソフトウエアバージョン:** |version-grass|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-leaflet|</seg>
       </tuv>
       <tuv lang="ja">
@@ -498,6 +530,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**ソフトウェアバージョン:** |version-mapserver|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-marble|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010439Z" creationid="miurahr" creationdate="20201103T010439Z">
+        <seg>**ソフトウエアバージョン:** |version-marble|</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Support:** https://grass.osgeo.org/about/community/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011338Z" creationid="miurahr" creationdate="20201103T011338Z">
+        <seg>**サポート:** https://grass.osgeo.org/about/community/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Support:** https://groups.google.com/forum/#!forum/leaflet-js</seg>
       </tuv>
       <tuv lang="ja">
@@ -680,8 +728,16 @@
       <tuv lang="en-US">
         <seg>**Supported Platforms:** GNU/Linux, Mac OSX, MS Windows</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>**対応プラットフォーム:** GNU/Linux, Mac OSX, MS Windows</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011327Z">
+        <seg>**対応OS:** GNU/Linux, Mac OSX, MS Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Supported Platforms:** GNU/Linux, Mac OSX, MS Windows, Maemo 5</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010444Z" creationid="miurahr" creationdate="20201103T010444Z">
+        <seg>**サポートされるOS:** GNU/Linux, Mac OSX, MS Windows, Maemo 5</seg>
       </tuv>
     </tu>
     <tu>
@@ -1262,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additionally, over 100 community supplied modules and toolboxes are available for free from the Add-on repository.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011126Z" creationid="miurahr" creationdate="20201103T011126Z">
+        <seg>さらに、コミュニティが提供する100を超えるモジュールとツールボックスは、アドオンリポジトリから無償で利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Advanced cartographic output</seg>
       </tuv>
       <tuv lang="ja">
@@ -1282,6 +1346,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>データベース上で経路探索を行う方法の利点には、以下のようなものがあります:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After more than 30 years of continuous development GRASS GIS is both the longest maintained and largest Open Source GIS available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011128Z" creationid="miurahr" creationdate="20201103T011128Z">
+        <seg>GRASS GISは、30年以上にわたって継続的に開発されてきたオープンソースGISの中で、最も長く維持され、かつ最大のものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1490,6 +1562,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>バッファ、ユニオン、オーバーレイ、ディスタンス など</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build customized packages to reduce size.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010945Z" creationid="miurahr" creationdate="20201103T010945Z">
+        <seg>サイズを減らすため、カスタマイズパッケージとしてビルド</seg>
       </tuv>
     </tu>
     <tu>
@@ -1744,8 +1824,8 @@
       <tuv lang="en-US">
         <seg>Core Features</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>主な機能</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011152Z">
+        <seg>主要機能</seg>
       </tuv>
     </tu>
     <tu>
@@ -2198,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Explore the `screenshot collection &lt;https://grass.osgeo.org/learn/gallery/&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011215Z" creationid="miurahr" creationdate="20201103T011215Z">
+        <seg> `screenshot collection &lt;https://grass.osgeo.org/learn/gallery/&gt;`_をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Explore the neighborhood with Marble's rich set of city and street level maps.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010042Z" creationid="miurahr" creationdate="20201103T010042Z">
@@ -2466,6 +2554,38 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T044509Z" creationid="miurahr" creationdate="20201102T044509Z">
         <seg>GPX トラックは、通常、GPS 受信機または他のソースから事前にダウンロードされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GRASS GIS has been optimized for performance and large geospatial data analysis.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011108Z" creationid="miurahr" creationdate="20201103T011108Z">
+        <seg>GRASS GISは、パフォーマンスおよび大規模な空間データ分析用に最適化されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GRASS GIS has been translated into many languages and supports a huge array of data formats.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011113Z" creationid="miurahr" creationdate="20201103T011113Z">
+        <seg>GRASS GISは多くの言語に翻訳され、膨大なデータフォーマットをサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GRASS GIS includes tools for spatial modeling, visualization of raster and vector data, management and analysis of geospatial data, and the processing of satellite and aerial imagery.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011102Z" creationid="miurahr" creationdate="20201103T011102Z">
+        <seg>GRASS GISには、空間モデリング、ラスターおよびベクトルデータの視覚化、空間データの管理と分析、衛星および航空画像の処理のためのツールが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GRASS GIS is used around the world in academic and commercial settings as well as by many governmental agencies and environmental consulting companies.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011118Z" creationid="miurahr" creationdate="20201103T011118Z">
+        <seg>GRASS GISは、多くの政府機関や環境コンサルティング会社だけでなく、学術的および商業的な環境で世界中で使用されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3110,10 +3230,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Integration with many online services (Amateur Radio Aprs, OpenCaching.com, etc.)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010400Z" creationid="miurahr" creationdate="20201103T010400Z">
+        <seg>多くのオンラインサービス(Amateur Radio Aprs、OpenCaching.comなど)との統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Interaction and Visual Features</seg>
       </tuv>
       <tuv lang="ja">
         <seg>インタラクティブでビジュアルな機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Interactive KML tours (Creating, editing, viewing)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010349Z" creationid="miurahr" creationdate="20201103T010349Z">
+        <seg>インタラクティブなKMLツアー(作成、編集、表示)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It also can produce sophisticated presentation graphics and hardcopy maps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011111Z" creationid="miurahr" creationdate="20201103T011111Z">
+        <seg>また、高度なプレゼンテーショングラフィックスやハードコピーマップを作成することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3126,10 +3270,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can be extended with many plugins, has a beautiful, easy to use and well-documented API and a simple, readable source code that is a joy to contribute to.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011020Z" creationid="miurahr" creationdate="20201103T011020Z">
+        <seg>多くのプラグインにより拡張することが可能で、見た目も美しく、利用も簡単で、しっかりとドキュメント化された API があり、シンプルで、可読性のあるソースコードで、貢献を楽しめるようにもなっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can be extended with plugins, custom presets and more extensions.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052255Z" creationid="miurahr" creationdate="20201102T052255Z">
         <seg>プラグイン、カスタムプリセット、その他の拡張機能で拡張できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It can display map tiles, vector data and markers loaded from any source.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010758Z" creationid="miurahr" creationdate="20201103T010533Z">
+        <seg>任意のソースから地図タイル、ベクターデータやマーカーをロードして表示可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It comes with a temporal framework for advanced time series processing and a Python API for rapid geospatial programming.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011105Z" creationid="miurahr" creationdate="20201103T011105Z">
+        <seg>高度な時系列処理のための時間的フレームワークと、高速空間プログラミングのためのPython APIが付属しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3142,10 +3310,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is completely free, Open Source JavaScript, released under the 2-clause BSD License (also known as the FreeBSD).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010551Z" creationid="miurahr" creationdate="20201103T010551Z">
+        <seg>完全にフリーなオープンソース JavaScript で、2条項 BSD ライセンス (FreeBSD ライセンスとしても知られています) でリリースされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is composed entirely of free software, allowing it to be freely distributed, duplicated and passed around.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T110511Z" creationid="smellman" creationdate="20201101T110511Z">
         <seg>OSGeoLive は全てフリーソフトで構成されており、自由に複製、配布することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is easily scriptable and versatile enough to be used both for batch data processing on massively-parallel supercomputers as well as a handy desktop GIS for handheld PDAs or netbooks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011131Z" creationid="miurahr" creationdate="20201103T011131Z">
+        <seg>これは簡単にスクリプト化でき、超並列スーパーコンピュータ上でのバッチデータ処理にも、ハンドヘルドPDAやネットブック用の便利なデスクトップGISにも十分に使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is light weight, yet has all the features most developers ever need for online maps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011007Z" creationid="miurahr" creationdate="20201103T011007Z">
+        <seg>軽量ですが、ほとんどの開発者がかつて必要としていたオンライン地図のための全ての機能を持っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3190,10 +3382,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It runs on a variety of popular hardware platforms and is Free open-source software released under the terms of the GNU General Public License.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011121Z" creationid="miurahr" creationdate="20201103T011121Z">
+        <seg>さまざまな一般的なハードウェアプラットフォーム上で動作し、GNU General Public Licenseの条件に基づいてリリースされたフリーのオープンソースソフトウェアです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It supports loading stand-alone GPX tracks and GPX track data as well as editing existing nodes (points), ways (lines), metadata tags (name/value information) and relations (ordered sequence of points and lines) from the OSM database.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T044505Z" creationid="miurahr" creationdate="20201102T044505Z">
         <seg>スタンドアロン GPX トラックや GPX トラックデータの読み込みと共に、OSM データベースから既存のノード (点) 、ウェイ (ライン) 、メタデータタグ (名前/値の情報) 、リレーション (点と線の順序付けられたシーケンス) の編集をサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It works efficiently across all major desktop and mobile platforms out of the box,  taking advantage of HTML5 and CSS3 on modern browsers while being accessible on older ones too.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011025Z" creationid="miurahr" creationdate="20201103T011016Z">
+        <seg>枠を超えた、全てのメジャーなデスクトップ・モバイルプラットフォーム上で、モダンブラウザ上の HTML5 と CSS3 の優位性を持ちつつ、古いブラウザ上でのアクセスも可能とし、効率的に動作します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3406,6 +3614,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Leaflet is an JavaScript library for browser based, mobile-friendly, interactive maps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011004Z" creationid="miurahr" creationdate="20201103T011004Z">
+        <seg>Leaflet はブラウザベースで、モバイルフレンドリーなインタラクティブ地図のための JavaScript ライブラリです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Leaflet is designed with simplicity, performance and usability in mind.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011029Z" creationid="miurahr" creationdate="20201103T011029Z">
+        <seg>Leaflet はシンプル、パフォーマンス、ユーザビリティを念頭に設計されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Learn more about `EXPRESSIONS &lt;https://mapserver.org/mapfile/expressions.html&gt;`_ in MapServer.</seg>
       </tuv>
       <tuv lang="ja">
@@ -3450,6 +3674,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Light-weight library.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010938Z" creationid="miurahr" creationdate="20201103T010938Z">
+        <seg>軽量ライブラリ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4182,6 +4414,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OpenLayers has been developed to further the use of geographic information of all kinds.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010559Z" creationid="miurahr" creationdate="20201103T010536Z">
+        <seg>OpenLayers はすべての種類の地理情報のさらなる利用のために開発されてきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenLayers makes it easy to put a dynamic map in any web page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010640Z" creationid="miurahr" creationdate="20201103T010530Z">
+        <seg>OpenLayersを使用すると、任意のWebページに動的な地図を簡単に配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OpenStreetMap Quickstart</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052114Z" creationid="miurahr" creationdate="20201102T052114Z">
@@ -4378,6 +4626,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>サポートする主なフォーマット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Positioning &amp; Tracking (GPS and WLAN localization, Track export in KML)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010332Z" creationid="miurahr" creationdate="20201103T010332Z">
+        <seg>Positioning&amp;Tracking(GPSとWLANのローカリゼーション、KMLでのトラックエクスポート)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4866,6 +5122,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ルーマニア語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Routing &amp; Navigation (Voice navigation, Online motorcar routing, Online bike routing, Online pedestrian routing, Offline routing optional download, Turn-by-turn navigation)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010343Z" creationid="miurahr" creationdate="20201103T010343Z">
+        <seg>ルーティングとナビゲーション(音声ナビゲーション、オンラインでの自動車のルーティング、オンラインでの自転車のルーティング、オンラインでの歩行者のルーティング、オフラインでのルーティング(オプション)のダウンロード、曲がり角ごとのナビゲーション)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5550,6 +5814,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The GRASS GIS software includes more than 400 built-in analysis modules.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011123Z" creationid="miurahr" creationdate="20201103T011123Z">
+        <seg>GRASS GISソフトウェアには、400以上の分析モジュールが組み込まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Geographic Resources Analysis Support System, commonly referred to as GRASS, is a Geographic Information System (GIS) providing powerful raster, vector, and geospatial processing engines in a single integrated software suite.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T011059Z" creationid="miurahr" creationdate="20201103T011059Z">
+        <seg>GRASS(Geographic Resources Analysis Support System)は、一般にGRASSと呼ばれる地理情報システム(GIS)で単一の統合ソフトウェアスイートで提供する地理情報システム(GIS)です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Learn OSM guide at the link above shows step by step how to navigate the OpenStreetMap website, view and print maps, and sign up for a user account.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052203Z" creationid="miurahr" creationdate="20201102T052203Z">
@@ -5886,6 +6166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tools (Distance Measurement, Bookmarks, Time Simulation, Offline Mode)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010407Z" creationid="miurahr" creationdate="20201103T010407Z">
+        <seg>ツール(距離測定、ブックマーク、時間シミュレーション、オフラインモード)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tools for mapping the world</seg>
       </tuv>
       <tuv lang="ja">
@@ -6202,6 +6490,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>WFS-T サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WMS &amp; TMS support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010403Z" creationid="miurahr" creationdate="20201103T010403Z">
+        <seg>WMSとTMSのサポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -6594,6 +6890,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>`OpenLayers.org Webサイト &lt;https://openlayers.org/&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`OpenStreetMap &lt;https://www.openstreetmap.org&gt;`_ integration</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T010420Z" creationid="miurahr" creationdate="20201103T010420Z">
+        <seg>`OpenStreetMap &lt;https://www.openstreetmap.org&gt;`_ 統合</seg>
       </tuv>
     </tu>
     <tu>
