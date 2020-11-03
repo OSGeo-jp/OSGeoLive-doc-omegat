@@ -2278,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Another quick inspection with 'lasinfo' gives us something we're more comfortable with:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T062937Z" creationid="miurahr" creationdate="20201103T062730Z">
+        <seg>`lasinfo`で更なる簡単な調査をすることで、快適な作業を提供してくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Another source of information about coordinate systems in https://spatialreference.org.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T060226Z" creationid="miurahr" creationdate="20201103T060226Z">
@@ -3302,6 +3310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Database "jdbc-ng" support:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T063002Z" creationid="miurahr" creationdate="20201103T063002Z">
+        <seg>データベース "jdbc-ng"のサポート:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deep integration of standards allowing the application to swap between the appropriate service as required for display, interaction and editing</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002614Z" creationid="miurahr" creationdate="20201103T002614Z">
@@ -3942,6 +3958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For UTM data, this is ok, because it implies an implicit precision of 1 cm.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T062529Z" creationid="miurahr" creationdate="20201103T062529Z">
+        <seg>UTMデータの場合、これは1cmの暗黙的な精度を意味するため、問題ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For a 10 point file, this of course isn't much of a concern, but with a 50 or 500 million point file, it isn't worth waiting for a full scan of the data if all you want is header information.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T060242Z" creationid="miurahr" creationdate="20201103T060242Z">
@@ -3970,6 +3994,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054917Z" creationid="miurahr" creationdate="20201103T054903Z">
         <seg>その他の言語については、メインメニューから :menuselection:`Preferences --&gt; Language Support` を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For decimal degree data of the unprojected Plate Carrée coordinate system, it causes us to lose a bunch of precision.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T062627Z" creationid="miurahr" creationdate="20201103T062627Z">
+        <seg>投影されていない経緯度座標系の10進数データに対しては、かなり精度を失わせることになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5248,8 +5280,8 @@
       <tuv lang="en-US">
         <seg>In our first example, we're going to use the venerable plate carrée non-coordinate system, `EPSG:4326`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T060918Z" creationid="miurahr" creationdate="20201103T060918Z">
-        <seg>最初の例では、由緒ある 正距円筒図法 non-coordinate systemの `EPSG:4326`_を使用します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T062407Z" creationid="miurahr" creationdate="20201103T060918Z">
+        <seg>最初の例では、由緒ある 経緯度座標系の `EPSG:4326`_を使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5858,6 +5890,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Java Swing/AWT 書き込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Java data structures and bindings provided for the following: xsd-core (xml simple types), fes, filter, gml2, gml3, kml, ows, sld, wcs, wfs, wms, wps, vpf.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T063149Z" creationid="miurahr" creationdate="20201103T063149Z">
+        <seg>次データのために提供されるJavaデータ構造とバインディング: xsd-core (xml simple types), fes, filter, gml2, gml3, kml, ows, sld, wcs, wfs, wms, wps, vpf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6862,6 +6902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OGC Style Layer Descriptor / Symbology Encoding data structures and rendering engine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T062201Z" creationid="miurahr" creationdate="20201103T062201Z">
+        <seg>OGC Style Layer Descriptor/記号データ構造のエンコードとレンダリングエンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OGC WMTS 1.0.0 (KVP and RESTful)</seg>
       </tuv>
       <tuv lang="ja">
@@ -7346,6 +7394,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054620Z" creationid="miurahr" creationdate="20201103T054620Z">
         <seg>我々の最後のGeoExtコンポーネントは概観地図-``GeoExt.componnet.OverviewMap``である。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Our process succeeds, but after a quick inspection of the data with ``lasinfo output.las`` we see a problem:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T062429Z" creationid="miurahr" creationdate="20201103T062429Z">
+        <seg>私たちのプロセスは成功しましたが、``lasinfo output.las``を使ってデータを調べたところ、問題がありました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Output LAS file to text</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T062745Z" creationid="miurahr" creationdate="20201103T062745Z">
+        <seg> LASファイルをテキストに出力</seg>
       </tuv>
     </tu>
     <tu>
@@ -9079,6 +9143,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Support of numerous Open Geospatial Consortium (OGC) standards:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T062138Z" creationid="miurahr" creationdate="20201103T062138Z">
+        <seg>多数のオープン地理空間コンソーシアム(OGC)標準のサポート:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Support: https://github.com/t-rex-tileserver/t-rex/</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052713Z" creationid="smellman" creationdate="20201103T052713Z">
@@ -9539,6 +9611,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054503Z" creationid="miurahr" creationdate="20201103T054438Z">
         <seg>``flex``プロパティーを指定すると、ツリー・パネルは画面の領域内の使用可能なスペースをすべて埋めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ``srs.las`` file had a scale of 0.01, or two decimal places of precision for its X, Y, and Z coordinates.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T062523Z" creationid="miurahr" creationdate="20201103T062517Z">
+        <seg> ``srs.las`` ファイルは、スケールは0.01 つまり、X、Y, Z座標の小数点以下2桁の精度でした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10647,6 +10727,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Vector formats and data access:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T063027Z" creationid="miurahr" creationdate="20201103T063027Z">
+        <seg>ベクタフォーマットとデータアクセス:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Vector: WFS, KML, GeoJSON, TopoJSON, GPX, GML, and MapBox vector tiles.</seg>
       </tuv>
       <tuv lang="ja">
@@ -10811,6 +10899,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022801Z" creationid="miurahr" creationdate="20201103T022801Z">
         <seg>これを使って湖を違った形にレンダリングすることができます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We need to set our scale values to something that can hold more precision in our case:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T062632Z" creationid="miurahr" creationdate="20201103T062632Z">
+        <seg>ここでは、スケール値を、より精度の高い値に設定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11147,6 +11243,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002416Z" creationid="miurahr" creationdate="20201103T002416Z">
         <seg>ローカルファイル(Shapefile、jpeg、png、tiffなど)を操作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XML Bindings:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T063036Z" creationid="miurahr" creationdate="20201103T063036Z">
+        <seg>XML バインディング:</seg>
       </tuv>
     </tu>
     <tu>
