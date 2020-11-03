@@ -1334,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Transactions**:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T073436Z" creationid="sanak" creationdate="20201103T073436Z">
+        <seg>**トランザクション**:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**User manual:** https://github.com/ec-jrc/re3gistry/blob/master/documentation/user-manual.md</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051606Z" creationid="smellman" creationdate="20201103T051606Z">
