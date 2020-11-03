@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -130,6 +130,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**API インターフェイス:** Javascript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**API Interfaces:** Qt designer, C++, Python, D-BUS, Shell script</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070439Z" creationid="miurahr" creationdate="20201103T070439Z">
+        <seg>**API インターフェイス:** Qt designer, C++, Python, D-BUS, Shell script</seg>
       </tuv>
     </tu>
     <tu>
@@ -1038,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Support:** https://techbase.kde.org/Projects/Marble</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070445Z" creationid="miurahr" creationdate="20201103T070445Z">
+        <seg>**サポート:** https://techbase.kde.org/Projects/Marble</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Support:** https://www.deegree.org/community</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T061839Z" creationid="miurahr" creationdate="20201103T061839Z">
@@ -1112,8 +1128,8 @@
       <tuv lang="en-US">
         <seg>**Supported Platforms:** GNU/Linux, Mac OSX, MS Windows, Maemo 5</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T010444Z" creationid="miurahr" creationdate="20201103T010444Z">
-        <seg>**サポートされるOS:** GNU/Linux, Mac OSX, MS Windows, Maemo 5</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070433Z" creationid="miurahr" creationdate="20201103T010444Z">
+        <seg>**対応プラットフォーム:** GNU/Linux, Mac OSX, MS Windows, Maemo 5</seg>
       </tuv>
     </tu>
     <tu>
@@ -1350,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Website:** https://mapnik.org/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070329Z" creationid="miurahr" creationdate="20201103T070329Z">
+        <seg>*Webサイト:** https://mapnik.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Website:** https://mapproxy.org/</seg>
       </tuv>
       <tuv lang="ja">
@@ -1362,6 +1386,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**Webサイト:** https://mapserver.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://marble.kde.org/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070424Z" creationid="miurahr" creationdate="20201103T070424Z">
+        <seg>**Webサイト:** https://marble.kde.org/</seg>
       </tuv>
     </tu>
     <tu>
@@ -1706,6 +1738,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>:doc:`クイックスタート文書 &lt;../quickstart/mapserver_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/marble_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070500Z" creationid="miurahr" creationdate="20201103T070500Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/marble_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -3918,6 +3958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Essentially a collection of geographic objects (map, layer, datasource, feature, geometry),  the library doesn't rely on "windowing systems" and can be deployed in any server environment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070258Z" creationid="miurahr" creationdate="20201103T070116Z">
+        <seg>Mapnik はどのようなウィンドウシステムにも依存することなく、ジオグラフィックオブジェクト（マップ、レイヤ、データソース、フィーチャ、ジオメトリ）のコレクションをサーバー環境に展開することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Events</seg>
       </tuv>
       <tuv lang="ja">
@@ -4990,6 +5038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>High-level Python bindings (boost.python) facilitate rapid application development,  targeting zope3, django etc.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070146Z" creationid="miurahr" creationdate="20201103T070146Z">
+        <seg>高レベルのPythonバインディング(boost.python)は、zope3やdjangoなどをターゲットにして、迅速なアプリケーション開発を促進します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>High-precision arithmetic</seg>
       </tuv>
       <tuv lang="ja">
@@ -5822,6 +5878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is intended to play fair in a multi-threaded environment and is aimed primarily,  but not exclusively, at web-based development.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070207Z" creationid="miurahr" creationdate="20201103T070130Z">
+        <seg>また、マルチスレッド Web アプリケーション開発のためにスレッドセーフで動作することを目的としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is just as easy to have an aerial photograph or Digital Terrain Model as a backdrop to your vector data, or to show other vector data stored in different formats.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020953Z" creationid="miurahr" creationdate="20201103T020953Z">
@@ -6534,10 +6598,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mapnik has typically been embedded in Python applications which deliver their maps over the internet although scaling improvements have meant that Mapnik has recently been getting used to create high resolution paper maps too.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070106Z" creationid="miurahr" creationdate="20201103T070106Z">
+        <seg>Mapnikは通常、インターネット経由でマップを配信するPythonアプリケーションに組み込まれていますが、スケーリングの改善により、最近では高解像度の紙のマップの作成にも使われるようになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapnik is a toolkit for rendering beautiful maps, with clean, soft feature edges provided by quality anti-aliasing graphics, intelligent label placement, and scalable, SVG symbolisation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070046Z" creationid="miurahr" creationdate="20201103T070046Z">
+        <seg>Mapnik は美しい地図を描画するツールキットで、高品質なアンチエイリアス処理によるクリーンでソフトなフィーチャの描画、インテリジェントなラベル配置、SVG によるスケーリング可能なシンボル描画が可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mapnik is an toolkit for developing mapping applications.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055153Z" creationid="miurahr" creationdate="20201103T055153Z">
         <seg>Mapnikは、マッピング・アプリケーションを開発するためのツールキットです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapnik is cross platform.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070309Z" creationid="miurahr" creationdate="20201103T070309Z">
+        <seg>Mapnikはクロスプラットフォームです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6690,6 +6778,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>モザイク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most famously, mapnik is used to render the OpenStreetMap main map layers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070050Z" creationid="miurahr" creationdate="20201103T070050Z">
+        <seg>Open Street Map のメイン地図レイヤ描画エンジンとして、よく知られています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7662,6 +7758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Packages are available for most linux distributions and installers are commonly used on Mac OS X and windows.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070314Z" creationid="miurahr" creationdate="20201103T070314Z">
+        <seg>パッケージはほとんどのLinuxディストリビューションで使用でき、インストーラは一般にMac OS XとWindowsで使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pan and zoom the map to the area that you want to edit.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051337Z" creationid="miurahr" creationdate="20201103T051337Z">
@@ -7818,6 +7922,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>PostGISプロジェクトホーム -  http://postgis.net</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PostGIS is stable, fast, standards compliant, with hundreds of spatial functions and is currently the most widely used Open Source spatial database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071016Z" creationid="miurahr" creationdate="20201103T071016Z">
+        <seg>PostGIS は安定して、高速で、標準に準拠した多くの機能を持ち、オープンソースの空間データベースの中では、現在、最も幅広く利用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PostGIS is used by diverse organisations from around the world, including risk-averse government agencies and organisations storing terabytes of data serving millions of web requests per day.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071024Z" creationid="miurahr" creationdate="20201103T071024Z">
+        <seg>PostGIS は世界中の様々な組織で利用されています。その中には危機対策政府機関やテラバイト級データを持ち毎日数百万回のリクエストを処理している機関もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12943,6 +13063,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|OSGeo_community| :doc:`geostyler_overview` - [:doc:`Quickstart &lt;../quickstart/geostyler_quickstart&gt;`] - Generic Styler For Geodata</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070840Z" creationid="miurahr" creationdate="20201103T070840Z">
+        <seg>|OSGeo_community| :doc:`geostyler_overview` - [:doc:`クイックスタート &lt;../quickstart/geostyler_quickstart&gt;`] - Generic Styler For Geodata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|OSGeo_community| :doc:`istsos_overview` - [:doc:`Quickstart &lt;../quickstart/istsos_quickstart&gt;`] - Sensor Observation Service</seg>
       </tuv>
       <tuv lang="ja">
@@ -13231,6 +13359,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|nologo| :doc:`actinia_overview` - [:doc:`Quickstart &lt;../quickstart/actinia_quickstart&gt;`] - Processing of Geographical Data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070730Z" creationid="miurahr" creationdate="20201103T070730Z">
+        <seg>|nologo| :doc:`actinia_overview` - [:doc:`クイックスタート &lt;../quickstart/actinia_quickstart&gt;`] - 地理データの処理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|nologo| :doc:`cesium_overview` - [:doc:`Quickstart &lt;../quickstart/cesium_quickstart&gt;`] - 3D globes and 2D maps in a browser</seg>
       </tuv>
       <tuv lang="ja">
@@ -13243,6 +13379,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>|nologo| :doc:`eoxserver_overview` - [:doc:`クイックスタート &lt;../quickstart/eoxserver_quickstart&gt;`] - Web Coverage Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`geoext_overview` - [:doc:`Quickstart &lt;../quickstart/geoext_quickstart&gt;`] - JavaScript Toolkit Web Mapping</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070923Z" creationid="miurahr" creationdate="20201103T070923Z">
+        <seg>|nologo| :doc:`geoext_overview` - [:doc:`クイックスタート &lt;../quickstart/geoext_quickstart&gt;`] - JavaScript Toolkit Web Mapping</seg>
       </tuv>
     </tu>
     <tu>
@@ -13391,6 +13535,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|nologo| :doc:`re3gistry_overview` - [:doc:`Quickstart &lt;../quickstart/re3gistry_quickstart&gt;`] - Management of reference codes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070656Z" creationid="miurahr" creationdate="20201103T070656Z">
+        <seg>|nologo| :doc:`re3gistry_overview` - [:doc:`クイックスタート &lt;../quickstart/re3gistry_quickstart&gt;`] - Management of reference codes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|nologo| :doc:`saga_overview` - [:doc:`Quickstart &lt;../quickstart/saga_quickstart&gt;`]</seg>
       </tuv>
       <tuv lang="ja">
@@ -13403,6 +13555,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>|nologo| :doc:`spatialite_overview` - [:doc:`クイックスタート &lt;../quickstart/spatialite_quickstart&gt;`] - 軽量データベース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| :doc:`t-rex_overview` - [:doc:`Quickstart &lt;../quickstart/t-rex_quickstart&gt;`] - Vector Tile Service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T070745Z" creationid="miurahr" creationdate="20201103T070649Z">
+        <seg>|nologo| :doc:`t-rex_overview` - [:doc:`クイックスタート &lt;../quickstart/t-rex_quickstart&gt;`] - ベクタタイルサーバ</seg>
       </tuv>
     </tu>
     <tu>
