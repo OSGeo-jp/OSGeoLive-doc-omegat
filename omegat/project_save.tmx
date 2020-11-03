@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3838,6 +3838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DeleteResultTemplate for the deletion of resultTemplates by identifier or offering/observedProperty pairs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T074626Z" creationid="sanak" creationdate="20201103T074626Z">
+        <seg>DeleteResultTemplate 識別子または提供物/観測属性ペアにより、結果テンプレートを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DeleteSensor (from specification version 2.0): for deleting a sensor/procedure and all related offerings and observations.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T073818Z" creationid="sanak" creationdate="20201103T073818Z">
@@ -6102,10 +6110,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>InsertFeatureOfInterest for feature insertion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T074149Z" creationid="sanak" creationdate="20201103T074149Z">
+        <seg>InsertFeatureOfInterest 地物を挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>InsertObservation (from specification version 2.0): for inserting new observations.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T073545Z" creationid="sanak" creationdate="20201103T073545Z">
         <seg>InsertObservation (仕様バージョン2.0以降): 新しい観測データを挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>InsertResult (from specification version 2.0): for inserting results.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T074053Z" creationid="sanak" creationdate="20201103T074053Z">
+        <seg>InsertResult (仕様バージョン2.0以降): 結果データを挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>InsertResultTemplate (from specification version 2.0): for inserting a result template.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T074025Z" creationid="sanak" creationdate="20201103T074025Z">
+        <seg>InsertResultTemplate (仕様バージョン2.0以降): 結果テンプレートを挿入します。</seg>
       </tuv>
     </tu>
     <tu>
