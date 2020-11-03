@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26,6 +26,38 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T053023Z" creationid="miurahr" creationdate="20201102T053023Z">
         <seg> (必要に応じてデバイスの起動順序を確認してください)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CS-Map (C++) - used in MapGuide.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071711Z" creationid="miurahr" creationdate="20201103T071636Z">
+        <seg>* MapGuideでつかわれているCS-Map (C++)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GeoTIFF/libgeotiff (C++).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071707Z" creationid="miurahr" creationdate="20201103T071707Z">
+        <seg>* GeoTIFF/libgeotiff (C++)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* Proj4J (Java).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071704Z" creationid="miurahr" creationdate="20201103T071704Z">
+        <seg>* Proj4J (Java)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* `SpatialReference.org &lt;https://spatialreference.org/&gt;`_  - website to retrieve coordinate system definitions (obsolete).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071700Z" creationid="miurahr" creationdate="20201103T071700Z">
+        <seg>* `SpatialReference.org &lt;https://spatialreference.org/&gt;`_  - 座標系定義を取得するためのWebサイトです(旧式)</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +114,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**API インターフェイス:** C, C++, Python, Java, C#, Ruby, VB6 及び Perl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**API Interfaces:** C, C++, Python, Java, Ruby</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071606Z" creationid="miurahr" creationdate="20201103T071606Z">
+        <seg>**API インターフェイス:** C, C++, Python, Java, Ruby</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**API Interfaces:** rasql, C++, Java</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071422Z" creationid="miurahr" creationdate="20201103T071422Z">
+        <seg>**API インターフェイス:** rasql, C++, Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**API documentation:** https://actinia.mundialis.de/api_docs/</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T061725Z" creationid="miurahr" creationdate="20201103T061725Z">
@@ -234,6 +282,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**商用サポート:** https://qgis.org/en/site/forusers/commercial_support.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Commercial Support:** https://www.qgis.org/en/site/forusers/commercial_support.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071902Z" creationid="miurahr" creationdate="20201103T071902Z">
+        <seg>**商用サポート:** https://www.qgis.org/en/site/forusers/commercial_support.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Licence:**</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071353Z" creationid="miurahr" creationdate="20201103T071353Z">
+        <seg>**ライセンス:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Licence:** BSD</seg>
       </tuv>
       <tuv lang="ja">
@@ -534,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Licence:** `X/MIT style Open Source license &lt;https://trac.osgeo.org/proj4j#License&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071555Z" creationid="miurahr" creationdate="20201103T071555Z">
+        <seg>**ライセンス:** `X/MIT style Open Source license &lt;https://trac.osgeo.org/proj4j#License&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Licences:**</seg>
       </tuv>
       <tuv lang="ja">
@@ -674,6 +746,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**様々なデータストアからデータを配信:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** 4.9.2 (stable)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071546Z" creationid="miurahr" creationdate="20201103T071546Z">
+        <seg>**ソフトウェアバージョン:** 4.9.2 (stable)</seg>
       </tuv>
     </tu>
     <tu>
@@ -862,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-rasdaman|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071412Z" creationid="miurahr" creationdate="20201103T071412Z">
+        <seg>**ソフトウェアバージョン:** |version-rasdaman|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-re3gistry|</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051556Z" creationid="smellman" creationdate="20201103T051556Z">
@@ -914,6 +1002,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041705Z" creationid="miurahr" creationdate="20201103T041705Z">
         <seg>**仕様**: 52°North SOSは、現在の仕様バージョン2.0.0および以前のバージョン1.0.0を実装します(ここではトランザクション操作はありません)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:**  https://rasdaman.com</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071427Z" creationid="miurahr" creationdate="20201103T071427Z">
+        <seg>**サポート:**  https://rasdaman.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -1018,6 +1114,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**サポート:** https://lists.osgeo.org/mailman/listinfo/geos-devel, https://www.osgeo.org/service-providers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** https://lists.osgeo.org/mailman/listinfo/proj</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071611Z" creationid="miurahr" creationdate="20201103T071611Z">
+        <seg>**サポート:** https://lists.osgeo.org/mailman/listinfo/proj</seg>
       </tuv>
     </tu>
     <tu>
@@ -1154,6 +1258,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**対応プラットフォーム:** Linux, Mac, Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Supported Platforms:** Linux, MacOS, Solaris</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071418Z" creationid="miurahr" creationdate="20201103T071418Z">
+        <seg>**対応プラットフォーム:** Linux, MacOS, Solaris</seg>
       </tuv>
     </tu>
     <tu>
@@ -1422,10 +1534,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Website:** https://proj4.org/index.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071600Z" creationid="miurahr" creationdate="20201103T071600Z">
+        <seg>**Webサイト:** https://proj4.org/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Website:** https://projects.eclipse.org/projects/locationtech.jts</seg>
       </tuv>
       <tuv lang="ja">
         <seg>**Webサイト:** https://projects.eclipse.org/projects/locationtech.jts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://rasdaman.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071349Z" creationid="miurahr" creationdate="20201103T071349Z">
+        <seg>**Webサイト:** https://rasdaman.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -1790,10 +1918,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/proj4_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071622Z" creationid="miurahr" creationdate="20201103T071622Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/proj4_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/qgis_mapserver_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071935Z" creationid="miurahr" creationdate="20201103T071935Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/qgis_mapserver_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>:doc:`Quickstart documentation &lt;../quickstart/qgis_quickstart&gt;`</seg>
       </tuv>
       <tuv lang="ja">
         <seg>:doc:`クイックスタート文書 &lt;../quickstart/qgis_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/rasdaman_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071436Z" creationid="miurahr" creationdate="20201103T071436Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/rasdaman_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -8999,6 +9151,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Several packages provide connection with other OSGeo tools and software.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071134Z" creationid="miurahr" creationdate="20201103T071134Z">
+        <seg>いくつかのパッケージは、他のOSGeoツールやソフトウェアとの接続を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shapefiles, External WFS</seg>
       </tuv>
       <tuv lang="ja">
@@ -11063,6 +11223,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using packages for parallelisation users can drastically reduce computational time and increase these capability.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071131Z" creationid="miurahr" creationdate="20201103T071131Z">
+        <seg>並列化のためのパッケージを使用すると、計算時間を大幅に削減し、これらの機能を向上させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Utilizing CSS3 features to make panning and zooming really smooth</seg>
       </tuv>
       <tuv lang="ja">
@@ -11751,6 +11919,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can easily plug R with GRASS-GIS, Qgis, postgreSQL and postGIS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071138Z" creationid="miurahr" creationdate="20201103T071138Z">
+        <seg>RはGRASS-GIS、Qgis、PostgreSQL、postGISで簡単にプラグインできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can fill hospital name, address, and/or other additional information.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052143Z" creationid="miurahr" creationdate="20201103T052143Z">
@@ -12423,6 +12599,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>clients and APIs: GNU Lesser General Public License (LGPL) version 3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071401Z" creationid="miurahr" creationdate="20201103T071401Z">
+        <seg>クライアントとAPI: GNU Lesser General Public License (LGPL) version 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>compose and display maps with complex styling</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012011Z" creationid="miurahr" creationdate="20201103T012011Z">
@@ -12855,6 +13039,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>parallelization and "tile streaming" for unlimited scalability from laptop to cluster and cloud</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071314Z" creationid="miurahr" creationdate="20201103T071314Z">
+        <seg>並列化と"タイルストリーミング"により、ノートパソコンからクラスタやクラウドまで無制限の拡張性を実現</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pgRouting Quickstart</seg>
       </tuv>
       <tuv lang="ja">
@@ -12899,6 +13091,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>地図上にいくつかのデータポイントをプロットする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>powerful, flexible query language for visualization, classification, convolution, aggregation, and many more geospatial functions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071259Z" creationid="miurahr" creationdate="20201103T071259Z">
+        <seg>視覚化、分類、畳み込み、集約、その他多くの空間関数に対応する、強力で柔軟なクエリ言語</seg>
       </tuv>
     </tu>
     <tu>
@@ -12999,10 +13199,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>server engine: GNU General Public License (GPL) version 3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071407Z" creationid="miurahr" creationdate="20201103T071407Z">
+        <seg>サーバエンジン: GNU General Public License (GPL) version 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>simple but powerful configuration format (YAML/JSON)</seg>
       </tuv>
       <tuv lang="ja">
         <seg>単純ながら強力な設定フォーマット (YAML/JSON)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>spatial indexing and adaptive tiling for fast data access</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071302Z" creationid="miurahr" creationdate="20201103T071302Z">
+        <seg>高速データ・アクセスのための空間インデックス作成とアダプティブ・タイリング</seg>
       </tuv>
     </tu>
     <tu>
@@ -13027,6 +13243,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>DEM のような非画像ラスターデータをサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>support for the raster-relevant OGC standards, Reference Implementation for WCS Core and WCPS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071342Z" creationid="miurahr" creationdate="20201103T071342Z">
+        <seg>ラスター関連のOGC標準のサポート、 WCS Core and WCPSの参照実装です</seg>
       </tuv>
     </tu>
     <tu>
@@ -13091,6 +13315,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051422Z" creationid="miurahr" creationdate="20201103T051422Z">
         <seg>スケールバーと、その領域にどのユーザが貢献したかを示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>truly multi-dimensional - 1-D, 2-D, 3-D, 4-D, and beyond</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071255Z" creationid="miurahr" creationdate="20201103T071255Z">
+        <seg>真の多次元-1D、2D、3D、4D、およびそれ以上</seg>
       </tuv>
     </tu>
     <tu>
