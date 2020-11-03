@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7318,6 +7318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Marine GPS navigation software</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102051Z" creationid="smellman" creationdate="20201103T102051Z">
+        <seg>船舶用GPS航法ソフトウェア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mask Layers</seg>
       </tuv>
       <tuv lang="ja">
@@ -8250,6 +8258,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051330Z" creationid="miurahr" creationdate="20201103T051330Z">
         <seg>インターネットブラウザを開き、https://www.openstreetmap.orgのOpenStreetMapのWebサイトにアクセスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenCPN provides free navigation software for use at the helm of vessels of all types and sizes, as well as offline for route planning.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102254Z" creationid="smellman" creationdate="20201103T102254Z">
+        <seg>OpenCPNはあらゆる船型や船型の船舶を操船するためのフリーナビゲーション・ソフトウェアや、航路計画のためのオフライン・ソフトウェアを提供しています。</seg>
       </tuv>
     </tu>
     <tu>
