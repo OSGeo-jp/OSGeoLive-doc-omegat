@@ -998,6 +998,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**What will I learn ?** You will learn how to add a new layer object definition to your Mapfile.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022405Z" creationid="miurahr" creationdate="20201103T022405Z">
+        <seg>**何を学べますか?**新しいレイヤオブジェクト定義をMapfileに追加する方法を学習します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**What will I learn ?** You will learn how to use to render an image with layers from a Mapfile with MapServer using an OGC WMS request.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022105Z" creationid="miurahr" creationdate="20201103T022105Z">
+        <seg>**何を学べますか?** OGC WMS要求を使用して、MapServerを使用してMapfileからレイヤを含むイメージをレンダリングする方法を学習します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**amd64 or i386 architecture**</seg>
       </tuv>
       <tuv lang="ja">
@@ -1226,6 +1242,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011653Z" creationid="miurahr" creationdate="20201103T011653Z">
         <seg> GISクライアントはラスタの実データを要求して空間解析に使うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A Mapfile always starts with the **MAP** object and should contain a list of **LAYER** objects the Mapfile can read and draw.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021748Z" creationid="miurahr" creationdate="20201103T021748Z">
+        <seg>Mapfileは常に**MAP**オブジェクトで始まり、Mapfileが読み取って描画できる**LAYER**オブジェクトのリストを含む必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1470,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add a new layer to the Mapfile to serve a local Shapefile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022338Z" creationid="miurahr" creationdate="20201103T022338Z">
+        <seg>新しいレイヤをMapfileに追加して、ローカルシェイプファイルを提供する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add presets</seg>
       </tuv>
       <tuv lang="ja">
@@ -1558,10 +1590,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All layers specified in the "*&amp;LAYERS=...*" property having *STATUS ON* in the Mapfile will be rendered in addition to all layers with *STATUS DEFAULT*.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022148Z" creationid="miurahr" creationdate="20201103T022148Z">
+        <seg>Mapfileで*STATUS ON*を持つ"*&amp;LAYERS=.*"プロパティで指定されたすべてのレイヤは、*STATUS DEFAULT*を持つすべての画層に加えてレンダリングされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All parameters of the request are WMS-specific, except "*?map=/home/user/mapserver_quickstart.map*", which is MapServer-specific.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022157Z" creationid="miurahr" creationdate="20201103T022157Z">
+        <seg>要求のすべてのパラメータは、MapServer固有の「*?map=/home/user/mapserver_quickstart.map*」を除き、WMS固有です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also if authorised the user can modify the data and send it back to the server to update the stored data using the WFS-T protocol.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011634Z" creationid="miurahr" creationdate="20201103T011626Z">
         <seg>さらに WFS-T プロトコルを利用して、認証されたユーザがサーバのデータを編集、アップロードすることで更新できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Although MapServer is geared towards web applications, it can also produce images on the command line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022218Z" creationid="miurahr" creationdate="20201103T022218Z">
+        <seg>MapServerはウェブアプリケーション向けだが、コマンドラインで画像を生成することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1578,6 +1634,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014514Z" creationid="miurahr" creationdate="20201103T014514Z">
         <seg>rasdamanサービスの事業者には、地図作成機関と気象データセンターがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Among them are:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021459Z" creationid="miurahr" creationdate="20201103T021459Z">
+        <seg>その中には次のようなものがあります</seg>
       </tuv>
     </tu>
     <tu>
@@ -1838,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CLASS: determines how to draw a layer (styling).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021951Z" creationid="miurahr" creationdate="20201103T021951Z">
+        <seg>CLASS: レイヤの描画方法(スタイル設定)を決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CPU: 1 GHz i686 or compatible (Intel/AMD)</seg>
       </tuv>
       <tuv lang="ja">
@@ -2094,6 +2166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create the file "mapserver_quickstart.map" in your home directory: :file:`/home/user/mapserver_quickstart.map`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021639Z" creationid="miurahr" creationdate="20201103T021639Z">
+        <seg>"mapserver_quickstart.map"を、ホームディレクトリ::file:`/home/user/mapserver_quickstart.map`に作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create your custom controls or interactions.</seg>
       </tuv>
       <tuv lang="ja">
@@ -2122,6 +2202,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Linux 環境でブータブル USB ドライブの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating my first Mapfile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021532Z" creationid="miurahr" creationdate="20201103T021532Z">
+        <seg>はじめてMapfileを作成する</seg>
       </tuv>
     </tu>
     <tu>
@@ -2170,6 +2258,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>CSS3 を利用したコントロールのルック&amp;フィールのカスタマイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DATA: the name of the spatial data file this layer uses, in this case a shapefile.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021942Z" creationid="miurahr" creationdate="20201103T021942Z">
+        <seg>DATA:このレイヤが使用する空間データファイル(この場合はシェイプファイル)の名前。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2518,6 +2614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>EXTENT: sets the default geospatial bounding box for this configuration.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021827Z" creationid="miurahr" creationdate="20201103T021827Z">
+        <seg>EXTENT:この設定のデフォルトの空間境界ボックスを設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each SQLite database is simply a file.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013751Z" creationid="miurahr" creationdate="20201103T013751Z">
@@ -2530,6 +2634,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>各フォーマットは、次の場合にレポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each object in a Mapfile starts with its name (for example **MAP**) and ends with an **END**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021741Z" creationid="miurahr" creationdate="20201103T021741Z">
+        <seg>Mapfile内の各オブジェクトは、名前(**MAP**など)で始まり、**END**で終わります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3542,6 +3654,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this command runs successfully, you are able to see your rendered map at file:///home/user/mymap.png.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022328Z" creationid="miurahr" creationdate="20201103T022328Z">
+        <seg>このコマンドが正常に実行されると、file:///home/user/mymap.pngでレンダリングされたマップを表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If we look closer at the **LAYER** in our Mapfile, we'll see that it contains a bunch of properties and objects too.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021507Z" creationid="miurahr" creationdate="20201103T021507Z">
+        <seg>Mapfileの**LAYER**をよく見ると、このファイルにはたくさんのプロパティーとオブジェクトも含まれていることがわかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If we put it in simple words, it's a |WMS| **GetMap** request that tells MapServer to "*use the following Mapfile to render the specified layers as a png image based on some user-supplied parameters such as image size, geographical extent, projection, etc.*".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022133Z" creationid="miurahr" creationdate="20201103T022133Z">
+        <seg>簡単に言うと、これはWMSの**GetMap**要求であり、「*次のMapfileを使用して、イメージサイズ、地理的範囲、投影などのユーザ指定のパラメータに基づいて、指定されたレイヤをpngイメージとしてレンダリングする*」ようMapServerに指示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you are reading this quickstart outside OSGeoLive you may prefer reading the original demo on: https://leafletjs.com/examples/quick-start/, since this demo uses tilestache on OSGeoLive.</seg>
       </tuv>
       <tuv lang="ja">
@@ -3650,6 +3786,22 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T111402Z" creationid="smellman" creationdate="20201101T111402Z">
         <seg>いかなる場合においても、著作権所有者または貢献者は、直接的、間接的、付随的、特別、懲罰的、または結果的な損害(代替の商品またはサービスの調達、使用、日付、または利益の損失、またはビジネスの中断を含むが、これらに限定されない)に対して責任を負わないものとします。ただし、契約、厳格な賠償責任、または不法行為(過失またはその他を含む)のいずれによるものであるかを問わず、いかなる責任の理論に基づくものであっても、かかる損害の可能性について事前に知らされていたとしても、このソフトウェアの使用によって発生したとします。*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In our Mapfile, the data will be drawn as *polygons*.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021930Z" creationid="miurahr" creationdate="20201103T021930Z">
+        <seg>このMapfileでは、データは*ポリゴン*として描画されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In our Mapfile, we currently have only one layer defined.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021818Z" creationid="miurahr" creationdate="20201103T021751Z">
+        <seg>このMapfileでは、いまのところ1つのレイヤのみが定義されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4062,6 +4214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Its main purpose is to define the layers it can draw, how to read necessary data, and how to render it (e.g. color, symbol, label, etc...).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021522Z" creationid="miurahr" creationdate="20201103T021522Z">
+        <seg>その主な目的は、描画できるレイヤ、必要なデータの読み方、レンダリング方法(色、シンボル、ラベルなど)を定義することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JOSM Quickstart</seg>
       </tuv>
       <tuv lang="ja">
@@ -4222,6 +4382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LAYER: defines access and display properties for a spatial dataset.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021835Z" creationid="miurahr" creationdate="20201103T021835Z">
+        <seg>LAYER: 空間データセットのアクセスプロパティと表示プロパティを定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Label Leader Offsetting</seg>
       </tuv>
       <tuv lang="ja">
@@ -4330,6 +4498,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>あなたのアプリケーションでの pgRouting の利用について、もっと知りたい場合は、 `documentation &lt;http://docs.pgrouting.org&gt;`_ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's take a look at some of the objects (and properties) defined in our Mapfile:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021803Z" creationid="miurahr" creationdate="20201103T021803Z">
+        <seg>Mapfileで定義されているオブジェクト(およびプロパティ)をいくつか見てみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4514,6 +4690,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>MapProxy は柔軟で、単純なものから複雑なユースケースまでスケールします: 例えば、 :doc:`OpenLayers &lt;openlayers_overview&gt;` Web クライアントのための単一のタイルキャッシュから、数十の分散型 WMS サービスの結合、統合、高速化を行う、中央の空間データインフラストラクチャ SDI ノードまでスケールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapServer Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021453Z" creationid="miurahr" creationdate="20201103T021453Z">
+        <seg>MapServer クイックスタート</seg>
       </tuv>
     </tu>
     <tu>
@@ -5158,6 +5342,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open a terminal (:menuselection:`Applications --&gt; System Tools --&gt; Terminal Emulator`) and type::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022324Z" creationid="miurahr" creationdate="20201103T022324Z">
+        <seg>ターミナルを開き(:menuselection:`Applications--&gt;System Tools--&gt;Terminal Emulator`)、次のように入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open a web browser and enter the following URL::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022108Z" creationid="miurahr" creationdate="20201103T022108Z">
+        <seg>Webブラウザを開き、次のURLを入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open any text editor (e.g. :menuselection:`Applications --&gt; Accessories --&gt; FeatherPad`).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021604Z" creationid="miurahr" creationdate="20201103T021604Z">
+        <seg>任意のテキストエディタを開きます(例 :menuselection:`アプリケーション--&gt;アクセサリ--&gt;FeatherPad`)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open local data:</seg>
       </tuv>
       <tuv lang="ja">
@@ -5694,6 +5902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Put the following content in it::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021651Z" creationid="miurahr" creationdate="20201103T021651Z">
+        <seg>次の内容を入力します::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QGIS Quickstart</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052447Z" creationid="miurahr" creationdate="20201102T052447Z">
@@ -5975,6 +6191,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Render a map image with MapServer using a WMS **GetMap** request</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022017Z" creationid="miurahr" creationdate="20201103T022017Z">
+        <seg>WMSの**GetMap**要求を使用してMapServerで地図イメージをレンダリングする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Render a map image with MapServer using the command line</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022207Z" creationid="miurahr" creationdate="20201103T022207Z">
+        <seg>コマンドラインを使用してMapServerで地図イメージをレンダリングする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Render any DOM element at any place on the map.</seg>
       </tuv>
       <tuv lang="ja">
@@ -6175,6 +6407,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SHAPEPATH: sets a base path for file-based data (e.g. shapefiles or tiff images).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021840Z" creationid="miurahr" creationdate="20201103T021840Z">
+        <seg>SHAPEPATH:ファイルベースのデータ(シェイプファイルやTIFFイメージなど)のベースパスを設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SQL spatial functions such as AsText(), GeomFromText(), Area(), PointN() ...</seg>
       </tuv>
       <tuv lang="ja">
@@ -6187,6 +6427,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013747Z" creationid="miurahr" creationdate="20201103T013747Z">
         <seg>SQLite は動作が軽く、シンプルで堅牢、簡単に使える人気のあるデータベース管理システム (DBMS) です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>STATUS: defines whether the layer can be drawn (*ON*), can't be drawn (*OFF*) or is always drawn (*DEFAULT*).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021903Z" creationid="miurahr" creationdate="20201103T021903Z">
+        <seg>STATUS: レイヤを描画できる(*ON*)か、描画できない(*OFF*)か、常に描画する(*DEFAULT*)かを定義します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6823,6 +7071,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TYPE: the geometry type that MapServer should use when rendering the data as an image.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021914Z" creationid="miurahr" creationdate="20201103T021914Z">
+        <seg>TYPE: MapServerがデータをイメージとしてレンダリングするときに使用するジオメトリタイプ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table-spaces, schemas</seg>
       </tuv>
       <tuv lang="ja">
@@ -7087,6 +7343,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The example uses the natural earth dataset, which is already on OSGeoLive at :file:`~/data/natural_earth2` (a short cut to :file:`/usr/local/share/data/natural_earth2`).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021735Z" creationid="miurahr" creationdate="20201103T021735Z">
+        <seg>この例では、既にOSGeoLive上の :file:`~/data/natural_earth2`(:file:`/usr/local/share/data/natural_earth2` へのショートカット)にある自然地球データセットを使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The functionality can be accessed through a GUI, the command line or by using the C++ API.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T015627Z" creationid="miurahr" creationdate="20201103T015627Z">
@@ -7155,6 +7419,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052216Z" creationid="miurahr" creationdate="20201102T052216Z">
         <seg>このガイドの残りの部分では、OSMデータの編集とレンダリングに使用するオンラインソフトウェアとオフラインソフトウェアの一部を紹介します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The result looks like the following:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022150Z" creationid="miurahr" creationdate="20201103T022150Z">
+        <seg>結果は次のようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7323,6 +7595,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011658Z" creationid="miurahr" creationdate="20201103T011658Z">
         <seg>この機能を使うと、あなたのデータで記述したプロセスをベースに、ユーザーが活用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This can be useful if you are looking for repetitive mapping, or while debugging.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022223Z" creationid="miurahr" creationdate="20201103T022223Z">
+        <seg>これは、反復マッピングを探している場合やデバッグ中に便利です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7855,6 +8135,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We'll add another layer later.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021516Z" creationid="miurahr" creationdate="20201103T021516Z">
+        <seg>レイヤは後で追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We'll cover this object in more detail later.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T021956Z" creationid="miurahr" creationdate="20201103T021956Z">
+        <seg>このオブジェクトについては、後で詳しく説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Web Map Service (WMS) - images</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003142Z" creationid="miurahr" creationdate="20201103T003142Z">
@@ -7939,6 +8235,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014212Z" creationid="miurahr" creationdate="20201103T014212Z">
         <seg>Well Known Text(WKT)形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What does the above mean?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022111Z" creationid="miurahr" creationdate="20201103T022111Z">
+        <seg>上記はどういう意味ですか?</seg>
       </tuv>
     </tu>
     <tu>
