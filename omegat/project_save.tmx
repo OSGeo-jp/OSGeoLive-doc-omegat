@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**API Interfaces:** REST API, Python</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061716Z" creationid="miurahr" creationdate="20201103T061716Z">
+        <seg>**API インターフェイス:** REST API, Python</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**API Interfaces:** SQL</seg>
       </tuv>
       <tuv lang="ja">
@@ -138,6 +146,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051308Z" creationid="smellman" creationdate="20201103T051308Z">
         <seg>**APIインターフェイス:** http, Mapbox Vector Tiles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**API documentation:** https://actinia.mundialis.de/api_docs/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061725Z" creationid="miurahr" creationdate="20201103T061725Z">
+        <seg>**API文書:** https://actinia.mundialis.de/api_docs/</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Licence:** GNU General Public License (GPL) version 3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061642Z" creationid="miurahr" creationdate="20201103T061642Z">
+        <seg>**ライセンス:** GNU General Public License (GPL) version 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Licence:** GNU Lesser General Public License (LGPL) version 2.1</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010433Z" creationid="miurahr" creationdate="20201103T010433Z">
@@ -410,6 +434,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**ライセンス:** GPL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Licence:** GPL 2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061318Z" creationid="miurahr" creationdate="20201103T061318Z">
+        <seg>**ライセンス:** GPL 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -542,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Other 52°North projects:** :doc:`SOS &lt;./52nSOS_overview&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061349Z" creationid="miurahr" creationdate="20201103T061349Z">
+        <seg>**その他のr 52°North プロジェクト:** :doc:`SOS &lt;./52nSOS_overview&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**QGIS pgRouting Layer Plugin** - https://plugins.qgis.org/plugins/pgRoutingLayer/ provides GUI for pgRouting functions and interacts with map so you don't have to write SQL.</seg>
       </tuv>
       <tuv lang="ja">
@@ -614,10 +654,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-52nWPS|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061314Z" creationid="miurahr" creationdate="20201103T061314Z">
+        <seg>**ソフトウェアバージョン:** |version-52nWPS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-R|</seg>
       </tuv>
       <tuv lang="ja">
         <seg>**ソフトウェアバージョン:** |version-R|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-actinia|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061650Z" creationid="miurahr" creationdate="20201103T061650Z">
+        <seg>**ソフトウェアバージョン:** |version-actinia|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-deegree|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061817Z" creationid="miurahr" creationdate="20201103T061817Z">
+        <seg>**ソフトウェアバージョン:** |version-deegree|</seg>
       </tuv>
     </tu>
     <tu>
@@ -838,6 +902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Support:** https://github.com/mundialis/actinia_core</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061735Z" creationid="miurahr" creationdate="20201103T061735Z">
+        <seg>**サポート:** https://github.com/mundialis/actinia_core</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Support:** https://github.com/t-rex-tileserver/t-rex/</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051317Z" creationid="smellman" creationdate="20201103T051317Z">
@@ -910,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Support:** https://www.deegree.org/community</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061839Z" creationid="miurahr" creationdate="20201103T061839Z">
+        <seg>**サポート:** https://www.deegree.org/community</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Support:** https://www.openstreetmap.org/help</seg>
       </tuv>
       <tuv lang="ja">
@@ -960,8 +1040,8 @@
       <tuv lang="en-US">
         <seg>**Supported Platforms:** GNU/Linux, Mac OSX, MS Windows</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011327Z">
-        <seg>**対応OS:** GNU/Linux, Mac OSX, MS Windows</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061711Z">
+        <seg>**対応プラットフォーム:** GNU/Linux, Mac OSX, MS Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -1000,8 +1080,8 @@
       <tuv lang="en-US">
         <seg>**Supported Platforms:** Windows, Linux</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T003448Z" creationid="miurahr" creationdate="20201103T003448Z">
-        <seg>**サポートされるOS:** Windows, Linux</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061813Z" creationid="miurahr" creationdate="20201103T003448Z">
+        <seg>**対応プラットフォーム:** Windows, Linux</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Website:** http://www.deegree.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061831Z" creationid="miurahr" creationdate="20201103T061831Z">
+        <seg>**Webサイト:** http://www.deegree.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Website:** http://www.gaia-gis.it/gaia-sins/</seg>
       </tuv>
       <tuv lang="ja">
@@ -1110,6 +1198,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Website:** https://52north.org/software/software-projects/wps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061335Z" creationid="miurahr" creationdate="20201103T061335Z">
+        <seg>**Webサイト:** https://52north.org/software/software-projects/wps</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://actinia.mundialis.de/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061634Z" creationid="miurahr" creationdate="20201103T061634Z">
+        <seg>**Webサイト:** https://actinia.mundialis.de/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Website:** https://cran.r-project.org</seg>
       </tuv>
       <tuv lang="ja">
@@ -1122,6 +1226,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**Webサイト:** https://gdal.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://geotools.org/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T062002Z" creationid="miurahr" creationdate="20201103T062002Z">
+        <seg>**Webサイト:** https://geotools.org/</seg>
       </tuv>
     </tu>
     <tu>
@@ -1390,10 +1502,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/52nWPS_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061414Z" creationid="miurahr" creationdate="20201103T061414Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/52nWPS_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>:doc:`Quickstart documentation &lt;../quickstart/R_quickstart&gt;`</seg>
       </tuv>
       <tuv lang="ja">
         <seg>:doc:`クイックスタート文書 &lt;../quickstart/R_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/actinia_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061755Z" creationid="miurahr" creationdate="20201103T061755Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/actinia_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/deegree_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061902Z" creationid="miurahr" creationdate="20201103T061902Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/deegree_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -2710,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clients for Web Feature Service (WFS), Web Map Service (WMS) and experimental support for Web Process Service (WPS)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T062036Z" creationid="miurahr" creationdate="20201103T062036Z">
+        <seg>Web Feature Service(WFS)、Web Map Service(WMS)、およびWeb Process Service(WPS)の試験的サポートのクライアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Close the browser and the terminal window running t-rex.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052336Z" creationid="smellman" creationdate="20201103T052336Z">
@@ -3654,6 +3798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Explore the `tutorial &lt;https://actinia.mundialis.de/tutorial/&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061627Z" creationid="miurahr" creationdate="20201103T061627Z">
+        <seg> `チュートリアル &lt;https://actinia.mundialis.de/tutorial/&gt;`_をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Explore the included files on the latest OSGeoLive distribution, in this directory: file:///usr/local/share/mapnik/</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055826Z" creationid="miurahr" creationdate="20201103T055826Z">
@@ -4046,6 +4198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GEOS (Geometry Engine - Open Source) is a C++ port of the `JTS Topology Suite (JTS) &lt;https://projects.eclipse.org/projects/locationtech&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061146Z" creationid="miurahr" creationdate="20201103T061146Z">
+        <seg>GEOS (Geometry Engine - Open Source) は `JTS Topology Suite (JTS) &lt;https://projects.eclipse.org/projects/locationtech&gt;`_ を C++ に移植したものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GEOS is the most widely used geospatial C++ geometry library, being used by open source projects such as :doc:`PostGIS &lt;postgis_overview&gt;`, :doc:`QGIS &lt;qgis_overview&gt;`, :doc:`GDAL/OGR &lt;gdal_overview&gt;` and :doc:`MapServer &lt;mapserver_overview&gt;`, and by proprietary products including `FME &lt;https://www.safe.com/fme&gt;`_.</seg>
       </tuv>
       <tuv lang="ja">
@@ -4314,6 +4474,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011846Z" creationid="miurahr" creationdate="20201103T011846Z">
         <seg>GeoTools は Web サービスやコマンドライン、デスクトップアプリケーションなどを含むいくつかのプロジェクトで利用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoTools_Support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T062032Z" creationid="miurahr" creationdate="20201103T062032Z">
+        <seg>GeoTools_サポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -4610,6 +4778,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023349Z" creationid="miurahr" creationdate="20201103T023349Z">
         <seg>次に、いくつかのをいくつか紹介しよう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>High Performance Geospatial Processing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061440Z" creationid="miurahr" creationdate="20201103T061440Z">
+        <seg>高パフォーマンスの地理空間処理</seg>
       </tuv>
     </tu>
     <tu>
@@ -5386,6 +5562,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003101Z" creationid="miurahr" creationdate="20201103T003101Z">
         <seg> :doc:`GRASS &lt;grass_overview&gt;`, :doc:`SAGA &lt;saga_overview&gt;`, :doc:`Orfeo Toolbox &lt;otb_overview&gt;` , :doc:`GDAL/OGR &lt;gdal_overview&gt;` などを始めとする多くのアルゴリズムを統合した強力な分析機能を含んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It includes the OpenGIS Simple Features for SQL spatial predicate functions and spatial operators, as well as specific JTS enhanced topology functions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061148Z" creationid="miurahr" creationdate="20201103T061148Z">
+        <seg>OpenGISの "Simple Features for SQL" の空間述語関数と空間演算、 JTS 仕様の拡張トポロジ関数を備えています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6650,6 +6834,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>多くのジオメトリ記法 - EWKT、GML、KML、GeoJSON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC Filter and Common Constraint Language (CQL)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T062049Z" creationid="miurahr" creationdate="20201103T062049Z">
+        <seg>OGC フィルターと Common Constraint Language (CQL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC Grid Coverage representation of raster information</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T062133Z" creationid="miurahr" creationdate="20201103T062133Z">
+        <seg>ラスタ情報表現のOGC Grid Coverage</seg>
       </tuv>
     </tu>
     <tu>
@@ -11287,6 +11487,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`Actinia &lt;https://actinia.mundialis.de/&gt;`__ is an open source REST API for scalable, distributed, high performance processing of geographical data that uses `GRASS GIS &lt;https://grass.osgeo.org/&gt;`__ for computational tasks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T061549Z" creationid="miurahr" creationdate="20201103T061549Z">
+        <seg>`Actinia &lt;https://actinia.mundialis.de/&gt;`__ は、地理データのスケーラブルで分散した高パフォーマンス処理のためのオープンソースREST APIであり、計算タスクに `GRASS GIS &lt;https://grass.osgeo.org/&gt;`__を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`Command line utilities`_ for manipulating LAS data based on `LAStools`_</seg>
       </tuv>
       <tuv lang="ja">
@@ -11507,6 +11715,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>`クイックスタート &lt;osgEarth_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`Quickstart documentation &lt;http://docs.geotools.org/latest/userguide/tutorial/quickstart/index.html&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T062017Z" creationid="miurahr" creationdate="20201103T062017Z">
+        <seg>`クイックスタート文書 &lt;http://docs.geotools.org/latest/userguide/tutorial/quickstart/index.html&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
