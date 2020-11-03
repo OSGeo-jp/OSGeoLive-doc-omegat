@@ -11359,6 +11359,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We would like to thank the Belgian Interregional Environment Agency (`IRCEL - CELINE &lt;https://www.irceline.be/en/&gt;`_) for providing the demonstration data used in this SOS installation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T071945Z" creationid="sanak" creationdate="20201103T071945Z">
+        <seg>我々は、このSOSインストールで利用されているデモデータを提供してくれた、ベルギーの地域間環境庁(`IRCEL - CELINE &lt;https://www.irceline.be/en/&gt;`_)に感謝の意を表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We'll add another layer later.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021516Z" creationid="miurahr" creationdate="20201103T021516Z">
