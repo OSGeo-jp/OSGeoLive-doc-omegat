@@ -3758,6 +3758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Customization</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T104151Z" creationid="smellman" creationdate="20201103T104151Z">
+        <seg>カスタマイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Customization Features</seg>
       </tuv>
       <tuv lang="ja">
@@ -8086,6 +8094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OGC standards supported: GML2, SFS, WMS, KML, SLD, GeoPackage (reading);</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T104344Z" creationid="smellman" creationdate="20201103T104344Z">
+        <seg>サポートされている OGC スタンダード: GML2, SFS, WMS, KML, SLD, GeoPackage (読み込み);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OGC's member-driven consensus process creates royalty free, publicly available, open geospatial standards.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013224Z" creationid="miurahr" creationdate="20201103T013224Z">
@@ -9675,6 +9691,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020123Z" creationid="miurahr" creationdate="20201103T020123Z">
         <seg>SAGAは2001年から開発を行われており、SAGAの開発の中心はハンブルク大学の地理学研究所にあり、世界中のコミュニティからの貢献を受けています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SEXTANTE raster analysis toolbox included in PLUS edition</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T104145Z" creationid="smellman" creationdate="20201103T104145Z">
+        <seg>PLUSエディションに含まれるSEXTANTEラスター解析ツールボックス</seg>
       </tuv>
     </tu>
     <tu>
@@ -13727,6 +13751,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>attribute transfer tools : join, matching*</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T104132Z" creationid="smellman" creationdate="20201103T104132Z">
+        <seg>属性転送ツール : 結合、マッチング*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>being available for Windows and Linux (there are also non-oficial Mac OS X versions).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T064125Z" creationid="miurahr" creationdate="20201103T064125Z">
@@ -14143,6 +14175,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>internationalization (cz, de, en, es, fi, fr, hu, it, ja, pt, ta, zh)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T104213Z" creationid="smellman" creationdate="20201103T104213Z">
+        <seg>国際化(cz, de, en, es, fi, fr, hu, it, ja, pt, ta, zh)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>libLAS Quickstart</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055934Z" creationid="miurahr" creationdate="20201103T055934Z">
@@ -14339,6 +14379,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>プリント・コンポーザー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>provides an API, scripting via BeanShell and Java Python/Ython</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T104252Z" creationid="smellman" creationdate="20201103T104252Z">
+        <seg>BeanShellおよびJava Python/Ythonを介したAPI、スクリプトの提供</seg>
       </tuv>
     </tu>
     <tu>
