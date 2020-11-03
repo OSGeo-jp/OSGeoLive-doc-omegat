@@ -3726,6 +3726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DeleteSensor (from specification version 2.0): for deleting a sensor/procedure and all related offerings and observations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T073818Z" creationid="sanak" creationdate="20201103T073818Z">
+        <seg>DeleteSensor (仕様バージョン2.0以降): センサー/プロシージャと全ての関連するオブジェクトと観測データを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Demo</seg>
       </tuv>
       <tuv lang="ja">
@@ -5890,6 +5898,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>DVDまたはUSBドライブをコンピュータもしくは仮想マシンにマウント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>InsertObservation (from specification version 2.0): for inserting new observations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T073545Z" creationid="sanak" creationdate="20201103T073545Z">
+        <seg>InsertObservation (仕様バージョン2.0以降): 新しい観測データを挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>InsertSensor (from specification version 2.0): for inserting metadata of new sensors.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T073512Z" creationid="sanak" creationdate="20201103T073512Z">
+        <seg>InsertSensor (仕様バージョン2.0以降): 新しいセンサーのメタデータを挿入します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11235,6 +11259,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011600Z" creationid="miurahr" creationdate="20201103T011436Z">
         <seg>彼らがあなたのデータを再デジタル化しない限り、あなたのデータを盗む方法はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UpdateSensorDescription (from specification version 2.0): for updating the description of a sensor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T073611Z" creationid="sanak" creationdate="20201103T073611Z">
+        <seg>UpdateSensorDescription (仕様バージョン2.0以降): センサーの説明を更新します。</seg>
       </tuv>
     </tu>
     <tu>
