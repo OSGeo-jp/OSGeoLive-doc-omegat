@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -122,6 +122,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**API インターフェイス:** WMS, WFS, WCS, REST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**API Interfaces:** http, Mapbox Vector Tiles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051308Z" creationid="smellman" creationdate="20201103T051308Z">
+        <seg>**APIインターフェイス:** http, Mapbox Vector Tiles</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,6 +306,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002835Z" creationid="miurahr" creationdate="20201103T002835Z">
         <seg>**ライセンス:** Dual BSD / EPL (Eclipse Foundation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Licence:** EUPL</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051552Z" creationid="smellman" creationdate="20201103T051552Z">
+        <seg>**ライセンス:**EUPL</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-re3gistry|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051556Z" creationid="smellman" creationdate="20201103T051556Z">
+        <seg>**ソフトウェアバージョン:**version-re3gistry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-spatialite|</seg>
       </tuv>
       <tuv lang="ja">
@@ -706,6 +730,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002928Z" creationid="miurahr" creationdate="20201103T002928Z">
         <seg>**サポート:**http://udig.refractions.net/users/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** https://github.com/t-rex-tileserver/t-rex/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051317Z" creationid="smellman" creationdate="20201103T051317Z">
+        <seg>**サポート:** https://github.com/t-rex-tileserver/t-rex/</seg>
       </tuv>
     </tu>
     <tu>
@@ -954,6 +986,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**Webサイト:** https://gdal.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://github.com/ec-jrc/re3gistry</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051549Z" creationid="smellman" creationdate="20201103T051549Z">
+        <seg>**ウェブサイト:**https://github.com/ec-jrc/re3gistry</seg>
       </tuv>
     </tu>
     <tu>
@@ -1306,6 +1346,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>:doc:`クイックスタート文書 &lt;../quickstart/spatialite_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/t-rex_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051328Z" creationid="smellman" creationdate="20201103T051328Z">
+        <seg>:doc:`クイックスタートドキュメント&lt;./quickstart/t-rex_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
