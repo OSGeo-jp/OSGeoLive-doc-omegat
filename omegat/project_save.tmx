@@ -9833,8 +9833,8 @@
       <tuv lang="en-US">
         <seg>Spatial filter: BBOX, using a bounding box.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201103T075708Z" creationid="sanak" creationdate="20201103T075708Z">
-        <seg>空間フィルタ: BBOX、using a bounding box.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T075932Z" creationid="sanak" creationdate="20201103T075708Z">
+        <seg>空間フィルタ: BBOX、バウンディングボックスを指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10315,6 +10315,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014502Z" creationid="miurahr" creationdate="20201103T014502Z">
         <seg>テクノロジーは成熟して安定しており、10年以上にわたって稼働しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Temporal filter: During, with time period.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T075909Z" creationid="sanak" creationdate="20201103T075909Z">
+        <seg>時間フィルタ: During、期間を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Temporal filter: TEquals, with time instant.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T080121Z" creationid="sanak" creationdate="20201103T080121Z">
+        <seg>時間フィルタ: TEquals、時間を指定します。</seg>
       </tuv>
     </tu>
     <tu>
