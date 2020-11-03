@@ -13,3 +13,4 @@ geographic information	地理情報
 Open Source	オープンソース
 2-clause BSD License	2条項BSDライセンス
 redigitise	再デジタル化
+political boundaries	政治的境界	国境のほうがいいか？
