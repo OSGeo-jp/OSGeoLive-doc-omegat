@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1574,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A basic demo application is available which highlights using Mapnik to serve tiles into an OpenLayers web map in the OSM/Google tile scheme.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055529Z" creationid="miurahr" creationdate="20201103T055513Z">
+        <seg>OSM/GoogleタイルスキームでOpenLayersウェブマップを表示する、タイル提供用にMapnikを使用する基本的なデモアプリケーションが利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A browser based client</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041542Z" creationid="miurahr" creationdate="20201103T041542Z">
@@ -1594,6 +1602,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011952Z" creationid="miurahr" creationdate="20201103T011952Z">
         <seg>スレッド間、トランザクションサポート、スレッド間のロックをサポートするクリーンなデータアクセスAPI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A common storage format for these point cloud data is ASPRS LAS format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T060050Z" creationid="miurahr" creationdate="20201103T060050Z">
+        <seg>一般的な点群データの保存に使用されているのが ASPRS LAS フォーマットです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2006,6 +2022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All LAS data are in some sort of coordinate system, even if that coordinate system is not described in the LAS file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T060200Z" creationid="miurahr" creationdate="20201103T060200Z">
+        <seg>その座標系がLASファイルに記述されていない場合でも、すべてのLASデータはある種の座標系にあります。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Pairs Shortest Path, Floyd-Warshall Algorithm</seg>
       </tuv>
       <tuv lang="ja">
@@ -2098,6 +2122,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Android ブラウザ 2.2+, 3.1+, 4+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Another source of information about coordinate systems in https://spatialreference.org.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T060226Z" creationid="miurahr" creationdate="20201103T060226Z">
+        <seg> https://spatialreference.org の座標系に関する別の情報源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2310,6 +2342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Below is a listing of common operations that you might want to do on LAS data, and the utilities and approaches to take to complete those tasks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T060128Z" creationid="miurahr" creationdate="20201103T060128Z">
+        <seg>以下は、LASデータに対して実行する一般的な操作と、これらのタスクを実行するために使用するユーティリティとアプローチの一覧です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Besides choosing any number of maps to view on your globe (including `OpenStreetMaps &lt;https://www.openstreetmap.org&gt;`_), you are encouraged to include a KDE Marble widget in your application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010204Z" creationid="miurahr" creationdate="20201103T010037Z">
@@ -2510,6 +2550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Check that the server is working by requesting a tile from the server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055626Z" creationid="miurahr" creationdate="20201103T055626Z">
+        <seg>サーバからタイルを要求して、サーバが動作していることを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Check the `OGC Support and Configuration &lt;https://www.mapserver.org/ogc/index.html&gt;`_ to learn more about OGC standards in MapServer (WMS, WFS, SLD, WFS Filter Encoding, WCS, SOS, etc.).</seg>
       </tuv>
       <tuv lang="ja">
@@ -2562,6 +2610,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052045Z" creationid="miurahr" creationdate="20201103T052045Z">
         <seg>**Hospital Grounds**をクリックして、ポイントに病院のタグを付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click :menuselection:`Desktop --&gt; Spatial Tools --&gt; Start Mapnik &amp; TileStache`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055615Z" creationid="miurahr" creationdate="20201103T055615Z">
+        <seg> :menuselection:`Desktop --&gt; Spatial Tools --&gt; Start Mapnik &amp; TileStache`をクリック。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2626,6 +2682,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051937Z" creationid="miurahr" creationdate="20201103T051937Z">
         <seg>リセットボタンをクリックすると、デフォルトの位置に戻ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click this link http://localhost:8012/example/0/0/0.png and observe the output in the server terminal window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055651Z" creationid="miurahr" creationdate="20201103T055651Z">
+        <seg>このリンク http://localhost:8012/example/0/0/0.png をクリックして、ターミナルウィンドウの出力を確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3574,6 +3638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Explore the included files on the latest OSGeoLive distribution, in this directory: file:///usr/local/share/mapnik/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055826Z" creationid="miurahr" creationdate="20201103T055826Z">
+        <seg>最新のOSGeoLiveディストリビューションに含まれている次のディレクトリのファイルを見てください。file:///usr/local/share/mapnik/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Explore the neighborhood with Marble's rich set of city and street level maps.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010042Z" creationid="miurahr" creationdate="20201103T010042Z">
@@ -3686,10 +3758,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Follow the tutorials to learn more about Mapnik: https://github.com/mapnik/mapnik/wiki/MapnikTutorials</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055718Z" creationid="miurahr" creationdate="20201103T055718Z">
+        <seg>チュートリアルに従ってMapnikについて学んでください: https://github.com/mapnik/mapnik/wiki/MapnikTutorials</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For Developers</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002619Z" creationid="miurahr" creationdate="20201103T002619Z">
         <seg>開発者向け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a 10 point file, this of course isn't much of a concern, but with a 50 or 500 million point file, it isn't worth waiting for a full scan of the data if all you want is header information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T060242Z" creationid="miurahr" creationdate="20201103T060242Z">
+        <seg>10ポイント・ファイルの場合、これはもちろんそれほど重要なことではありませんが、50または500,000,000ポイント・ファイルの場合、ヘッダー情報だけが必要であれば、データの完全スキャンを待つ価値はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3778,6 +3866,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Rの空間的側面の詳細については、おそらく「R Spatial Task View &lt;https://cran.r-project.org/web/views/Spatial.html&gt; `_から始めるのが最適です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For terrestrial LAS data, these coordinate system descriptions often map to coordinate systems described by the `EPSG`_ database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T060209Z" creationid="miurahr" creationdate="20201103T060209Z">
+        <seg>地上LASデータの場合、これらの座標系の記述は、 `EPSG`_データベースによって記述された座標系にマップされることがよくあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5734,6 +5830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LiDAR (Light Detection and Ranging) is a form of high precision range detection much like a radar system that uses laser light as the electromagnetic emission.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T060032Z" creationid="miurahr" creationdate="20201103T060032Z">
+        <seg>LiDAR (ライダー、Light Detection and Ranging) はレーダーと似た高精度な距離検出の一種で、電磁放射線の代わりにレーザー光線を使用するものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LiDAR Data Access</seg>
       </tuv>
       <tuv lang="ja">
@@ -6454,6 +6558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now that we know our input coordinate system, we can make a decision about what to reproject the data to.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T060334Z" creationid="miurahr" creationdate="20201103T060334Z">
+        <seg>入力座標系がわかったので、データの再投影先を決定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now the map and layers have been configured we are going to create and configure our GeoExt components.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054203Z" creationid="miurahr" creationdate="20201103T054203Z">
@@ -6710,6 +6822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One of LiDAR systems' products is a "point cloud" data product that can be conceptualized as a series of point measurements representing distance from the sensor to a returned emission.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T060044Z" creationid="miurahr" creationdate="20201103T060044Z">
+        <seg>LiDAR システムは "点群" データのように、センサからの距離等を反射波を用いて計測した結果を概念化したデータを出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Online help: https://wiki.openstreetmap.org/wiki/Merkaartor/Documentation</seg>
       </tuv>
       <tuv lang="ja">
@@ -6962,6 +7082,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>その他 webkit ベースのブラウザ (webOS、Blackberry 7+ 等)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Our 'lasinfo' invocation tells us that the ``srs.las`` file is in a UTM North Zone 17 coordinate system:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T060327Z" creationid="miurahr" creationdate="20201103T060327Z">
+        <seg>`lasinfo`を呼び出すと``srs.las``ファイルがUTM North Zone 17座標系にあることがわかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7306,6 +7434,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002617Z" creationid="miurahr" creationdate="20201103T002617Z">
         <seg>印刷とPDFの生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Processing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T060144Z" creationid="miurahr" creationdate="20201103T060144Z">
+        <seg>処理方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -7803,6 +7939,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>再投影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reprojecting an LAS file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T060149Z" creationid="miurahr" creationdate="20201103T060149Z">
+        <seg>LA Sファイルの再投影</seg>
       </tuv>
     </tu>
     <tu>
@@ -8879,6 +9023,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The --no-check option tells lasinfo to only print the header information for the file and to not scan through all of the points.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T060235Z" creationid="miurahr" creationdate="20201103T060235Z">
+        <seg>--no-checkオプションを指定すると、lasinfoはファイルのヘッダー情報だけを印刷し、すべてのポイントをスキャンしないように指示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The 52°North |SOS| supports the interoperable provision of live and archived sensor observation data.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041627Z" creationid="miurahr" creationdate="20201103T041627Z">
@@ -8891,6 +9043,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041517Z" creationid="miurahr" creationdate="20201103T041517Z">
         <seg>52°North WPSは、Sextante、ArcGIS Server、R、GRASS7、またはカスタム開発関数によって提供される空間処理アルゴリズムへのWebアクセスを可能にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ASPRS LAS format is a sequential binary format used to store data from LiDAR sensors and by LiDAR processing software for data interchange and archival.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T060010Z" creationid="miurahr" creationdate="20201103T055953Z">
+        <seg>`ASPRS LAS format`_ は LiDAR センサや LiDAR 処理ソフトウェアがデータの保存、交換，アーカイブに使用しているシーケンシャルなバイナリフォーマットです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9143,6 +9303,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The above code depends on having an XML stylesheet that Mapnik can read, defining the layers to read data from and the styles to apply to those layers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055345Z" creationid="miurahr" creationdate="20201103T055345Z">
+        <seg>上記のコードは、Mapnikが読み取れるXMLスタイルシートを用意し、データを読み込むレイヤーと、それらのレイヤーに適用するスタイルを定義することに依存しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The appearance of each map layer can be controlled using the SLD standard which allows features to be coloured and labeled.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011432Z" creationid="miurahr" creationdate="20201103T011432Z">
@@ -9179,6 +9347,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011644Z" creationid="miurahr" creationdate="20201103T011644Z">
         <seg>シェープファイルや JSON のような標準規格同様に、データは圧縮した GML で送受信を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The demo data can be found in :file:`/home/user/data/las/srs.las`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T060133Z" creationid="miurahr" creationdate="20201103T060133Z">
+        <seg>デモデータは、ファイル`/home/user/data/las/srs.las`にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The demo uses a tileserver designed for Mapnik called "TileStache".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055551Z" creationid="miurahr" creationdate="20201103T055539Z">
+        <seg>このデモでは、Mapnik用に設計された`TileStache`と呼ばれるtileserverを使っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9271,6 +9455,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The libLAS 'command-line utilities' provide the bulk of user-facing operational software for libLAS, although the underlying libLAS library is what powers them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T060058Z" creationid="miurahr" creationdate="20201103T060058Z">
+        <seg>libLASの「コマンドライン・ユーティリティー」は、libLAS用のユーザー向けの操作ソフトウェアの大部分を提供していますが、基礎となるlibLAS・ライブラリーがその原動力となっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The licenses of all the packaged projects are summarized further on this page.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T110619Z" creationid="smellman" creationdate="20201101T110619Z">
@@ -9347,6 +9539,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T005852Z" creationid="miurahr" creationdate="20201103T005852Z">
         <seg>同様のアプリケーションは空間情報を提供するサイトのマップエンジンとしても利用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The server starts in a terminal window (which stays open and outputs basic debugging information).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055623Z" creationid="miurahr" creationdate="20201103T055623Z">
+        <seg>サーバはターミナルウィンドウで起動します(ターミナルウィンドウは開いたままになり、基本的なデバッグ情報を出力します)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9459,6 +9659,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023521Z" creationid="miurahr" creationdate="20201103T023521Z">
         <seg>次に、`メーリングリスト&lt;https://www.mapserver.org/community/lists.html&gt;` _のコミュニティに参加して、アイデアを交換したり、ソフトウェアの改善点について話し合ったり、質問したりします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then try this::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055339Z" creationid="miurahr" creationdate="20201103T055339Z">
+        <seg>次の操作を試してください::</seg>
       </tuv>
     </tu>
     <tu>
@@ -10263,6 +10471,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Visit the Leaflet demo application page `http://localhost/leaflet-demo.html &lt;../../../leaflet-demo.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055712Z" creationid="miurahr" creationdate="20201103T055702Z">
+        <seg>Leafletデモアプリケーションのページ `http://localhost/leaflet-demo.html &lt;../../../leaflet-demo.html&gt;`_. にアクセスしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visit the Mapnik website: https://mapnik.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055840Z" creationid="miurahr" creationdate="20201103T055840Z">
+        <seg> Mapnik websiteを訪問してください: https://mapnik.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visit the TileStache website for more information: http://tilestache.org/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055601Z" creationid="miurahr" creationdate="20201103T055601Z">
+        <seg>詳細については、TileStacheのウェブサイトを訪れてください: http://tilestache.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Visualize basemaps from OSM, Bingsat, Lansat, MapBox satellite, MapQuest Open Aerial or any other WMS sources.</seg>
       </tuv>
       <tuv lang="ja">
@@ -10723,6 +10955,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>インストールした仮想マシンのバックアップが可能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can create one of these inside QGIS with the Quantumnik plugin: https://plugins.qgis.org/plugins/quantumnik/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055412Z" creationid="miurahr" creationdate="20201103T055412Z">
+        <seg>Quantumnikプラグインを使えば、QGISの中で以下のいずれかを作ることができます: https://plugins.qgis.org/plugins/quantumnik/</seg>
       </tuv>
     </tu>
     <tu>
@@ -11635,6 +11875,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>既存のユーザーデータベースや認証方法との統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>libLAS Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T055934Z" creationid="miurahr" creationdate="20201103T055934Z">
+        <seg>libLAS クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>libLAS is a C/C++ library for reading and writing the very common LAS LiDAR format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T060022Z" creationid="miurahr" creationdate="20201103T055938Z">
+        <seg>ibLAS は一般的な `LAS` `LiDAR`_ フォーマットを読み書きするための C/C++ ライブラリです。 。</seg>
       </tuv>
     </tu>
     <tu>
