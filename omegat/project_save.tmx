@@ -312,8 +312,8 @@
       <tuv lang="en-US">
         <seg>**INSPIRE Download Service Extension**: Starting with Version 4.2.0, an extension is available that allows the SOS to be used as an INSPIRE download service.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T041717Z" creationid="miurahr" creationdate="20201103T041717Z">
-        <seg>**INSPIRE Download Service Extension**: バージョン4.2.0以降では、SOSをINSPIREダウンロードサービスとして使用できるように拡張されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T053952Z" creationid="miurahr" creationdate="20201103T041717Z">
+        <seg>**INSPIRE ダウンロードサービス拡張**: バージョン4.2.0以降では、SOSをINSPIREダウンロードサービスとして使用できるように拡張されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2160,8 +2160,8 @@
       <tuv lang="en-US">
         <seg>Background information is provided in a `blog post &lt;https://blog.52north.org/2014/01/30/52north-supports-the-jrc-in-developing-an-inspire-download-service-based-on-sos/&gt;`_ and in the `wiki &lt;https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#INSPIRE_Download_Service_extensi&gt;`_ .</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T041859Z" creationid="miurahr" creationdate="20201103T041859Z">
-        <seg>背景情報は、`blog post &lt;https://blog.52north.org/2014/01/30/52north-supports-the-jrc-in-developing-an-inspire-download-service-based-on-sos/&gt;`_  および  `wiki &lt;https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#INSPIRE_Download_Service_extensi&gt;`_で提供されている。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T054358Z" creationid="miurahr" creationdate="20201103T041859Z">
+        <seg>背景情報は、`ブログポスト &lt;https://blog.52north.org/2014/01/30/52north-supports-the-jrc-in-developing-an-inspire-download-service-based-on-sos/&gt;`_  および  `Wiki &lt;https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#INSPIRE_Download_Service_extensi&gt;`_で提供されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8691,6 +8691,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>`オープンソース地理空間財団 (OSGeo) &lt;https://www.osgeo.org&gt;`__ は非営利組織であり、その使命は、オープンな哲学と、全員参加のコミュニティー駆動の開発に献身的な、包括的なソフトウェア財団であることによって、オープンな地理空間技術の世界的な採択を育むことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `installation and configuration &lt;https://wiki.52north.org/SensorWeb/AqdEReporting#Installation&gt;`_ is documented in the 52°North Wiki.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T053839Z" creationid="sanak" creationdate="20201103T053839Z">
+        <seg>`インストールと設定 &lt;https://wiki.52north.org/SensorWeb/AqdEReporting#Installation&gt;`_ は 52°North Wiki 内に記載されています。</seg>
       </tuv>
     </tu>
     <tu>
