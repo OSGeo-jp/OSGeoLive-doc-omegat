@@ -1,6 +1,5 @@
 OpenStreetMap	OpenStreetMap	固有名詞なので変更しない
 QuickStart	クイックスタート	タイトルは統一する
-Software Version	ソフトウエアバージョン
 Licence	ライセンス
 Styled Layer Descriptor	Styled Layer Descriptor	訳語が定義されていない
 Supported Platforms	対応OS
@@ -26,3 +25,14 @@ Scale	スケール
 inspector	インスペクタ
 schema	スキーマ
 identifier integrity	識別子の完全性
+Software Version	ソフトウェアバージョン
+Core Features	主な機能
+Details	詳細
+Website	Webサイト	2019/080/05長瀬追記 "ウェブサイト"から変更
+Supported Platforms	対応プラットフォーム
+API Interfaces	API インターフェイス	2019/08/05長瀬追記 "API インタフェース"から変更
+Support	サポート
+Supported Formats	対応フォーマット
+Cartesian	デカルト
+Implemented Standards	準拠している標準規格
+QuickStart documentation	クイックスタート文書
