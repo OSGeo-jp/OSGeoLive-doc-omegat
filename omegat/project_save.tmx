@@ -3462,6 +3462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data import/export can be done by command line tools (shp2pgsql, pgsql2shp, ogr2ogr, dxf2postgis) or from desktop and web GIS clients.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071046Z" creationid="miurahr" creationdate="20201103T071046Z">
+        <seg>データのインポート・エクスポートは、コマンドラインツール (shp2pgsql、pgsql2shp、ogr2ogr、dxf2postgis) や、デスクトップ、Web GIS クライアントから可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data is published via standards based interfaces, such as WMS, WFS, WCS, WPS, Tile Caching and more.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011412Z" creationid="miurahr" creationdate="20201103T011412Z">
@@ -3490,6 +3498,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T063002Z" creationid="miurahr" creationdate="20201103T063002Z">
         <seg>データベース "jdbc-ng"のサポート:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Database administration is available for desktop and the web via pgAdmin, phpPgAdmin, and others.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071033Z" creationid="miurahr" creationdate="20201103T071033Z">
+        <seg>データベース管理は、pgAdmin、phpPgAdmin、その他のプログラムを利用して可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10379,6 +10395,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022656Z" creationid="miurahr" creationdate="20201103T022656Z">
         <seg> これらの属性値は、複数のCLASSオブジェクトを使用してデータセット内の要素を異なる方法で描画する方法として使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These clients can also map and manipulate PostGIS spatial data tables.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T071049Z" creationid="miurahr" creationdate="20201103T071049Z">
+        <seg>これらのクライアントは PostGIS 空間データテーブルの地図表示や操作を可能とします。</seg>
       </tuv>
     </tu>
     <tu>
