@@ -2694,6 +2694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analysis &amp; Query</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103921Z" creationid="smellman" creationdate="20201103T103921Z">
+        <seg>解析とクエリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Android browser 2.2+, 3.1+, 4+</seg>
       </tuv>
       <tuv lang="ja">
@@ -13671,6 +13679,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>analysis : buffer, union, overlay, centroid, convex hull...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T104001Z" creationid="smellman" creationdate="20201103T104001Z">
+        <seg>解析:バッファ、和、オーバーレイ、図心、凸包...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>and many others</seg>
       </tuv>
       <tuv lang="ja">
@@ -13807,6 +13823,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>coordinate conversions between CRS'</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103911Z" creationid="smellman" creationdate="20201103T103911Z">
+        <seg>CRS間の座標変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>create ``GetMap`` responses from cache with support for free-zooming and any projection (for any Desktop GIS)</seg>
       </tuv>
       <tuv lang="ja">
@@ -13881,8 +13905,8 @@
       <tuv lang="en-US">
         <seg>drawing points, lines, polygons, multi-geometries, geometry collections and circles (eventually mixed in a single layer)</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T103502Z" creationid="smellman" creationdate="20201103T103502Z">
-        <seg>ポイント、線、ポリゴン、マルチジオメトリ、ジオメトリコレクション、円の描画(最終的には一つのレイヤーに混在)</seg>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103745Z" creationid="smellman" creationdate="20201103T103502Z">
+        <seg>ポイント、ライン、ポリゴン、マルチジオメトリ、ジオメトリコレクション、円の描画(最終的には一つのレイヤーに混在)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13891,6 +13915,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>属性の編集、表示、検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>editing tools : converter, noder, polygonizer, planar graph, topology cleaning in PLUS edition, ...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T104059Z" creationid="smellman" creationdate="20201103T104059Z">
+        <seg>編集ツール : コンバータ、ノード、ポリゴナイザー、平面グラフ、PLUSエディションでのトポロジの消去、...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14447,10 +14479,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>spatial and attribute query functions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103932Z" creationid="smellman" creationdate="20201103T103932Z">
+        <seg>空間クエリー関数と属性クエリー関数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>spatial indexing and adaptive tiling for fast data access</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071302Z" creationid="miurahr" creationdate="20201103T071302Z">
         <seg>高速データ・アクセスのための空間インデックス作成とアダプティブ・タイリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>statistics : length, area, layer statistics, attribute statistics, plots...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T104033Z" creationid="smellman" creationdate="20201103T104020Z">
+        <seg>統計:長さ、面積、レイヤーの統計、属性の統計、印刷...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14571,6 +14619,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>単純な算術演算には R を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>warping, quality assurance tools</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103831Z" creationid="smellman" creationdate="20201103T103831Z">
+        <seg>ワーピング、品質保証ツール</seg>
       </tuv>
     </tu>
     <tu>
