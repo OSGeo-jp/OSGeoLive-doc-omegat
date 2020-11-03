@@ -20,3 +20,4 @@ hydrology	水文学	スイモンガク（地球上の水について循環の観
 landscape development	景観開発
 terrain analysis	地形分析
 projection	投影
+raster data	ラスタデータ
