@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1726,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*You must however never upload these fictitious data to the database.*</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072406Z" creationid="miurahr" creationdate="20201103T072406Z">
+        <seg>*ただし、これらの架空のデータをデータベースにアップロードしないでください。*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*deegree* is a Java application for serving maps (and vector data) for other clients to show.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020817Z" creationid="miurahr" creationdate="20201103T020817Z">
@@ -2214,6 +2222,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A shape is called a **closed way** because it is just a line that ends at the same point where it begins.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072730Z" creationid="miurahr" creationdate="20201103T072730Z">
+        <seg>シェイプは、開始点と同じポイントで終了する単なるラインであるため、**閉じたウエイ**と呼ばれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A shape is exactly like a line - the only difference is that the line begins at the same point where it ends.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072627Z" creationid="miurahr" creationdate="20201103T072627Z">
+        <seg>シェイプはラインとまったく同じですが、唯一の違いは、ラインが終点と同じ点から始まることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A shape is used to represent an area, like a field or a building.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072607Z" creationid="miurahr" creationdate="20201103T072607Z">
+        <seg>シェイプは、フィールドや建物などの領域を表すために使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A special note about **Deleting**: In general you should avoid deleting other people's mapping if it just needs improvement.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053026Z" creationid="miurahr" creationdate="20201103T053026Z">
@@ -2694,6 +2726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As you click different objects on the sample map, notice that there are three different types of objects on the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072446Z" creationid="miurahr" creationdate="20201103T072446Z">
+        <seg>サンプルマップ上の異なるオブジェクトをクリックすると、マップ上に3つの異なるタイプのオブジェクトがあることがわかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At https://standards.rasdaman.com a collection of interactive demos is available.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014425Z" creationid="miurahr" creationdate="20201103T014425Z">
@@ -2822,10 +2862,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Be sure to click on the line around the forest, not one of the points on the line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072854Z" creationid="miurahr" creationdate="20201103T072854Z">
+        <seg>ライン上のポイントではなく、森の周囲のラインをクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Before the last *END* statement in the Mapfile, add the following layer configuration::</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022422Z" creationid="miurahr" creationdate="20201103T022422Z">
         <seg>Mapfileの最後の*END*文の前に、次のレイヤ設定を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Before you draw, you need to make sure that nothing is selected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T073558Z" creationid="miurahr" creationdate="20201103T073558Z">
+        <seg>描画する前に、何も選択されていないことを確認する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3062,6 +3118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changing objects</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072826Z" creationid="miurahr" creationdate="20201103T072826Z">
+        <seg>オブジェクトの変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Check that the server is working by requesting a tile from the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055626Z" creationid="miurahr" creationdate="20201103T055626Z">
@@ -3142,10 +3206,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click in the black space on the map, where it is empty, to make sure nothing is selected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T073614Z" creationid="miurahr" creationdate="20201103T073604Z">
+        <seg>何も選択されていないことを確認するには、マップ上の黒いスペースをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on it, and then click “Open”.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074003Z" creationid="miurahr" creationdate="20201103T072355Z">
+        <seg>ファイルをクリックして、もう一度"Open"をクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on one of the points on the line around the forest.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072923Z" creationid="miurahr" creationdate="20201103T072923Z">
+        <seg>森を囲むライン上のポイントの1つをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on th `X-Ray` entry in the upper right menu to open the x-ray viewer.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052237Z" creationid="smellman" creationdate="20201103T052237Z">
         <seg>右上のメニューの `X-Ray` をクリックして、x-ray ビューアを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the second button, the Draw tool.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T073619Z" creationid="miurahr" creationdate="20201103T073619Z">
+        <seg>2番目の[描画]ツールボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3354,6 +3450,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T051354Z" creationid="miurahr" creationdate="20201102T051354Z">
         <seg>パブや居酒屋、ガソリンスタンド、レストランやスーパーマーケットなどが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Continue until you are happy with your line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T073859Z" creationid="miurahr" creationdate="20201103T073859Z">
+        <seg>ラインに満足するまで続けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3958,6 +4062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drag the bar left and right by holding your left mouse down and moving the bar left or right with your mouse.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072425Z" creationid="miurahr" creationdate="20201103T072425Z">
+        <seg>バーを左右にドラッグするには、マウスの左ボタンを押したまま、マウスでバーを左右に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Draw your own map</seg>
       </tuv>
       <tuv lang="ja">
@@ -4326,10 +4438,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Find an empty area on the map, and double-click with your mouse.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T073624Z" creationid="miurahr" creationdate="20201103T073624Z">
+        <seg>マップ上の空の領域を見つけ、マウスでダブルクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Find out more about OSM on the website: https://www.openstreetmap.org</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OSMの詳細については、次のWebサイトをご覧ください: https://www.openstreetmap.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find the file **sample.osm**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072349Z" creationid="miurahr" creationdate="20201103T072349Z">
+        <seg>**sample.osm**ファイルを探します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4478,6 +4606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For now all you need to know is that this information helps describe whether our object is a forest, a river, a building, or something else.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072753Z" creationid="miurahr" creationdate="20201103T072753Z">
+        <seg>ここで知っておく必要があるのは、この情報が、オブジェクトが森なのか、川なのか、建物なのか、その他のものなのかを記述するのに役立つということだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For terrestrial LAS data, these coordinate system descriptions often map to coordinate systems described by the `EPSG`_ database.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T060209Z" creationid="miurahr" creationdate="20201103T060209Z">
@@ -4538,6 +4674,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>使いやすいグラフィカルなユーザーインターフェイス:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the desktop, choose :menuselection:`Navigation and Maps --&gt; JOSM`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072323Z" creationid="miurahr" creationdate="20201103T072323Z">
+        <seg>デスクトップから:menuselection:`Navigation and Maps--&gt;JOSM`を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5342,6 +5486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hold your left mouse button down and drag your mouse.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072929Z" creationid="miurahr" creationdate="20201103T072929Z">
+        <seg>マウスの左ボタンを押したまま、マウスをドラッグします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Homepage: http://merkaartor.be</seg>
       </tuv>
       <tuv lang="ja">
@@ -5550,10 +5702,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you are using a laptop and don’t have a mouse, you can zoom in and out using the scale bar in the upper left of the map window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072422Z" creationid="miurahr" creationdate="20201103T072422Z">
+        <seg>ラップトップを使用していて、マウスがない場合は、マップウィンドウの左上にある縮尺バーを使用して拡大または縮小できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you choose the layer with the ID 0 you can load the whole service with all layers at once.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023336Z" creationid="miurahr" creationdate="20201103T023336Z">
         <seg>ID 0のレイヤを選択すると、すべてのレイヤを含むサービス全体を一度にロードできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you have a mouse, you can use your scroll wheel to zoom in and out.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072418Z" creationid="miurahr" creationdate="20201103T072418Z">
+        <seg>マウスを使用している場合は、スクロールホイールを使用してズームインまたはズームアウトできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5570,6 +5738,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053343Z" creationid="miurahr" creationdate="20201103T053343Z">
         <seg>他のユーザが編集していたのと同時に同じフィーチャ(点、経路、または領域)を編集した場合は、**衝突**を解決するまで編集をアップロードできないという警告が表示されます。変更を受け入れてアップロードする編集を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you look closely you will see that within the lines, there are points as well.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072542Z" creationid="miurahr" creationdate="20201103T072537Z">
+        <seg>よく見ると、ラインの中にもポイントがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5682,6 +5858,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013333Z" creationid="miurahr" creationdate="20201103T013333Z">
         <seg>2020年に`OGC API&lt;https://ogcapi.ogc.org/&gt;`_ファミリの標準が開発され始めました。これは、空間データを誰でも簡単にWebに提供できるようにするためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In OSM, points are actually called **nodes**, and lines are called **ways**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072715Z" creationid="miurahr" creationdate="20201103T072715Z">
+        <seg>OS Mでは、ポイントは実際には**ノード**と呼ばれ、ラインは**ウエイ**と呼ばれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In OpenStreetMap there is special terminology which you will come to learn as you progress.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072702Z" creationid="miurahr" creationdate="20201103T072702Z">
+        <seg>OpenStreetMapには特別な用語集があり、進むにつれて学習していきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6198,6 +6390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is probably in your Downloads folder, unless you saved it somewhere else.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072353Z" creationid="miurahr" creationdate="20201103T072353Z">
+        <seg>別の場所に保存していない限り、通常はDownloadsフォルダにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is supported by a diverse group of organizations that fund enhancements and maintenance, and administered within OSGeo by the MapServer Project Steering Committee made up of developers and other contributors.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T005933Z" creationid="miurahr" creationdate="20201103T005933Z">
@@ -6274,6 +6474,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052328Z" creationid="miurahr" creationdate="20201102T052328Z">
         <seg>これはJOSMよりも少しユーザーフレンドリーですが、機能は少なめです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's easy to think of a map as containing these three basic types of objects - points, lines, and shapes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072647Z" creationid="miurahr" creationdate="20201103T072639Z">
+        <seg>マップには、ポイント、ライン、シェイプという3つの基本的なオブジェクトタイプが含まれていると考えると簡単です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6542,6 +6750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lastly, there are numerous shapes on the sample map, representing different places - a forest, a river, a park, and buildings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072556Z" creationid="miurahr" creationdate="20201103T072556Z">
+        <seg>最後に、サンプルマップには、森、川、公園、建物など、さまざまな場所を表す多数のシェイプがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Later it was hosted by the TerraSIP project, a NASA sponsored project between the UMN and a consortium of land management interests.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T005904Z" creationid="miurahr" creationdate="20201103T005904Z">
@@ -6678,10 +6894,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lines?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072823Z" creationid="miurahr" creationdate="20201103T072823Z">
+        <seg>ライン?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linux, Windows, Mac OS X, Solaris, and more</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Linux, Windows, Mac OS X, Solaris その他</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Load a sample (ficticious) map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072330Z" creationid="miurahr" creationdate="20201103T072330Z">
+        <seg>サンプル(架空)マップをロードする</seg>
       </tuv>
     </tu>
     <tu>
@@ -6718,6 +6950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Look at the sample map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072427Z" creationid="miurahr" creationdate="20201103T072427Z">
+        <seg>サンプルマップを見てください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Management of the full lifecycle of the reference codes (based on the ISO 19135 Standard)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T015442Z" creationid="miurahr" creationdate="20201103T015442Z">
@@ -6730,6 +6970,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020630Z" creationid="miurahr" creationdate="20201103T020210Z">
         <seg>ベクタデータの操作(マージ/交差/属性)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Many of these buttons open new windows on the right side that provide more information about the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T073521Z" creationid="miurahr" creationdate="20201103T073521Z">
+        <seg>これらのボタンの多くは、マップに関する詳細情報を提供する新しいウィンドウを右側に開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7110,6 +7358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Move your mouse and click again.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T073641Z" creationid="miurahr" creationdate="20201103T073641Z">
+        <seg>マウスを移動して、もう一度クリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Multi-Dimensional Big Data Analytics Engine</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014322Z" creationid="miurahr" creationdate="20201103T014322Z">
@@ -7390,6 +7646,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now hold your left mouse button down and drag your mouse.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072858Z" creationid="miurahr" creationdate="20201103T072858Z">
+        <seg>マウスの左ボタンを押したまま、マウスをドラッグします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now let’s open the sample map file in JOSM. Click the “Open” button in the upper left.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T074131Z" creationid="miurahr" creationdate="20201103T072346Z">
+        <seg>次に、JOSMでサンプルの地図を開きます。JOSMの左上に表示されている"ファイルを開く"ボタンを押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now let’s open up a sample OSM file which we will use to learn the basic ways to draw maps with JOSM. Note that this map is not real, in that it is not a real map of a real place, so we will not save it on OpenStreetMap.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072337Z" creationid="miurahr" creationdate="20201103T072337Z">
+        <seg>次に、サンプルのOSMファイルを開きます。このファイルを使用して、JOSMを使用してマップを描画する基本的な方法を学習します。このマップは実際の場所の実際のマップではないため、OpenStreetMapには保存しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now that we know our input coordinate system, we can make a decision about what to reproject the data to.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T060334Z" creationid="miurahr" creationdate="20201103T060334Z">
@@ -7666,6 +7946,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>OSM ファイル: .osm, .xlm, .osmbz2, .osmbz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the left side of JOSM is a column of buttons.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T073505Z" creationid="miurahr" creationdate="20201103T073505Z">
+        <seg>JOSMの左側にはボタンの列があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On this sample map, there are two points, a shoe shop and a supermarket.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072515Z" creationid="miurahr" creationdate="20201103T072515Z">
+        <seg>このサンプルマップには、靴屋とスーパーマーケットの2つのポイントがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8170,6 +8466,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>点パターン分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Points are a single location, represented by symbols.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072511Z" creationid="miurahr" creationdate="20201103T072511Z">
+        <seg>ポイントは、シンボルで表される単一の位置です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Points, lines, and shapes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072502Z" creationid="miurahr" creationdate="20201103T072442Z">
+        <seg>ポイント、ライン、シェイプ</seg>
       </tuv>
     </tu>
     <tu>
@@ -9231,6 +9543,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the forest on the left side of the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072834Z" creationid="miurahr" creationdate="20201103T072834Z">
+        <seg>マップの左側にある森を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select timezone</seg>
       </tuv>
       <tuv lang="ja">
@@ -9275,6 +9595,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>シェープファイル、 外部WFS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shapes?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072818Z" creationid="miurahr" creationdate="20201103T072818Z">
+        <seg>シェイプ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9927,6 +10255,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tags are information that is tied to a point, line or shape that describes what it is.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072744Z" creationid="miurahr" creationdate="20201103T072744Z">
+        <seg>タグとは、ポイント、ライン、またはシェイプに関連付けられた情報で、タグの内容を表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tap delay elimination on mobile devices</seg>
       </tuv>
       <tuv lang="ja">
@@ -10463,6 +10799,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The most important buttons, however, are at the top of these column.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T073528Z" creationid="miurahr" creationdate="20201103T073528Z">
+        <seg>ただし、最も重要なボタンは、この列の一番上にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The most visible aspect to OSM is the online web-tile interface from https://www.openstreetmap.org, but the maps can also be viewed, imported, or edited in many applications such as :doc:`QGIS &lt;qgis_overview&gt;` , :doc:`OpenLayers &lt;openlayers_overview&gt;`, ArcGIS and dedicated OSM applications.</seg>
       </tuv>
       <tuv lang="ja">
@@ -10543,6 +10887,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The shoe shop is represented by a shoe symbol, and the market is represented by a shopping cart.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072520Z" creationid="miurahr" creationdate="20201103T072520Z">
+        <seg>靴屋は靴のシンボルで表され、市場はショッピングカートで表されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The smaller CBD extract is loaded into another PostGIS database called "pgrouting".</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T051611Z" creationid="miurahr" creationdate="20201102T051611Z">
@@ -10587,6 +10939,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053127Z" creationid="miurahr" creationdate="20201103T053127Z">
         <seg>シェイプを選択して右マウスボタンでコンテキストメニューを表示したときに使用できるツールは、ラインをクリックしたときのツールと似ています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The top buttons in this column are the ones you will use the most.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T073539Z" creationid="miurahr" creationdate="20201103T073539Z">
+        <seg>この列の一番上のボタンが、最もよく使用するボタンです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10671,6 +11031,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There a few different types of objects here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072430Z" creationid="miurahr" creationdate="20201103T072430Z">
+        <seg>ここにはいくつかの異なるタイプのオブジェクトがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are points, lines, and shapes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072451Z" creationid="miurahr" creationdate="20201103T072451Z">
+        <seg>ポイント、ライン、シェイプがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are several lines on the map as well, which represent roads.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072527Z" creationid="miurahr" creationdate="20201103T072527Z">
+        <seg>地図にも道路を表すラインがいくつかあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are several ways to zoom in and out of the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072414Z" creationid="miurahr" creationdate="20201103T072414Z">
+        <seg>マップを拡大または縮小するには、いくつかの方法があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is a river, a forest, some buildings, several roads, and a couple of shops.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072433Z" creationid="miurahr" creationdate="20201103T072433Z">
+        <seg>川、森、いくつかの建物、いくつかの道路、いくつかの店があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There is no need for precalculation.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014251Z" creationid="miurahr" creationdate="20201103T014251Z">
@@ -10683,6 +11083,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053951Z" creationid="miurahr" creationdate="20201103T053951Z">
         <seg>これらはすべて``/var/www/html/geoext/``の``src``フォルダにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These are known as tags.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072738Z" creationid="miurahr" creationdate="20201103T072738Z">
+        <seg>これらはタグと呼ばれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10703,6 +11111,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These buttons change what you can do with your mouse.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T073533Z" creationid="miurahr" creationdate="20201103T073533Z">
+        <seg>これらのボタンを使用すると、マウス操作を変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These clients can also map and manipulate PostGIS spatial data tables.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071049Z" creationid="miurahr" creationdate="20201103T071049Z">
@@ -10715,6 +11131,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>これらは以下を含みます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These points don’t have any symbols or other information associated with them, but they help to define where the line is located.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072549Z" creationid="miurahr" creationdate="20201103T072549Z">
+        <seg>これらのポイントにはシンボルやその他の関連情報はありませんが、線分の位置を定義するのに役立ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10743,6 +11167,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They are used for selecting objects and for drawing new ones.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T073544Z" creationid="miurahr" creationdate="20201103T073544Z">
+        <seg>これらは、オブジェクトの選択や新しいオブジェクトの描画に使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They can be used to define sets of permissible values for a data field or to provide a reference or context for the data being exchanged.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T015155Z" creationid="miurahr" creationdate="20201103T015155Z">
@@ -10755,6 +11187,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>試してみること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Think about drawing a map by hand, and how you are also drawing points, lines, and shapes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072806Z" creationid="miurahr" creationdate="20201103T072806Z">
+        <seg>手動でマップを描画する方法、およびポイント、ライン、シェイプを描画する方法について考えてみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10847,6 +11287,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is how you can change the shape of an object, or move a point.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T073451Z" creationid="miurahr" creationdate="20201103T073451Z">
+        <seg>これにより、オブジェクトの形状を変更したり、ポイントを移動したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This makes it possible to convert different versions of S code to run on R without major code modifications.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013734Z" creationid="miurahr" creationdate="20201103T013734Z">
@@ -10887,6 +11335,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This quickstart covers basic usage of the Java OpenStreetMap editor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072142Z" creationid="miurahr" creationdate="20201103T072142Z">
+        <seg>このクイックスタートでは、Java OpenStreetMapエディターの基本的な使い方について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This starts t-rex in zero-config mode connecting to PostGIS database `osm_local`.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051957Z" creationid="smellman" creationdate="20201103T051957Z">
@@ -10907,6 +11363,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013344Z" creationid="miurahr" creationdate="20201103T013344Z">
         <seg>このWebページには、これらの標準に関する情報がまとめられています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will draw a single point.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T073630Z" creationid="miurahr" creationdate="20201103T073630Z">
+        <seg>これにより、単一のポイントが描画されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11015,6 +11479,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To draw a line, single-click with your mouse.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T073638Z" creationid="miurahr" creationdate="20201103T073638Z">
+        <seg>ラインを描画するには、マウスでシングルクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To enable **OpenStreetMap GPS traces** click on the box.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051917Z" creationid="miurahr" creationdate="20201103T051917Z">
@@ -11031,10 +11503,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To move the map left or right, up or down, hold your right mouse button down, and move your mouse.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072410Z" creationid="miurahr" creationdate="20201103T072410Z">
+        <seg>マップを左右に移動するには、上または下に移動し、マウスの右ボタンを押したままマウスを移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To output the route geometry, link the result with the road geometries:</seg>
       </tuv>
       <tuv lang="ja">
         <seg>経路のジオメトリを出力するために、結果を道路のジオメトリにリンクさせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To select an object, click on it with your left mouse button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072437Z" creationid="miurahr" creationdate="20201103T072437Z">
+        <seg>オブジェクトを選択するには、マウスの左ボタンでクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11267,6 +11755,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011600Z" creationid="miurahr" creationdate="20201103T011436Z">
         <seg>彼らがあなたのデータを再デジタル化しない限り、あなたのデータを盗む方法はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Until now, you have been using the Select tool, which looks like this:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T073553Z" creationid="miurahr" creationdate="20201103T073553Z">
+        <seg>これまでは、次のような[選択]ツールを使用していました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11791,6 +12287,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We’ll learn more about tags in a later chapter.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072747Z" creationid="miurahr" creationdate="20201103T072747Z">
+        <seg>タグについては、後の章で詳しく説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What Next?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023338Z" creationid="miurahr" creationdate="20201103T023338Z">
@@ -11831,6 +12335,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What other places are best represented by points?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072810Z" creationid="miurahr" creationdate="20201103T072810Z">
+        <seg>他にはどんな場所をポイントで表すのが一番いいですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What's next?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054646Z" creationid="miurahr" creationdate="20201103T054646Z">
@@ -11843,6 +12355,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053331Z" creationid="miurahr" creationdate="20201103T053331Z">
         <seg>編集内容をOpenStreetMapに保存する場合は、[**保存**]ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When JOSM starts, it will look something like this:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072326Z" creationid="miurahr" creationdate="20201103T072326Z">
+        <seg>JOSMが始まると、次のようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12151,6 +12671,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may notice that when you select an object, a list appears to the right of the map in a window called “Properties”.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072736Z" creationid="miurahr" creationdate="20201103T072736Z">
+        <seg>オブジェクトを選択すると、[プロパティ]というウィンドウのマップの右側にリストが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may use attribution text similar to one of the following:</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T111053Z" creationid="smellman" creationdate="20201101T111053Z">
@@ -12175,6 +12703,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You should be able to move the forest to a new location on the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072906Z" creationid="miurahr" creationdate="20201103T072906Z">
+        <seg>マップ上の新しい場所に森を移動できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should be able to move the point.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072935Z" creationid="miurahr" creationdate="20201103T072935Z">
+        <seg>ポイントを移動できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You should now be able to refresh the link http://localhost/geoext/demo.html in your browser and see a complete GeoExt application similar to the image below.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054643Z" creationid="miurahr" creationdate="20201103T054643Z">
@@ -12191,6 +12735,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You should now see a sample map that looks like this:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T073936Z" creationid="miurahr" creationdate="20201103T072358Z">
+        <seg>サンプルの地図が開き、次のように表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You will notice that the color of your shape will change depending on the attributes that you assign to it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053109Z" creationid="miurahr" creationdate="20201103T053109Z">
@@ -12203,6 +12755,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052522Z" creationid="miurahr" creationdate="20201102T052507Z">
         <seg>QGISが空プロジェクトで起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will use these data in order to try various editing techniques.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T072402Z" creationid="miurahr" creationdate="20201103T072402Z">
+        <seg>これらのデータを使用して、さまざまな編集方法を試します。</seg>
       </tuv>
     </tu>
     <tu>
