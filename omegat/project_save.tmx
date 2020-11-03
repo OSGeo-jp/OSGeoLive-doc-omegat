@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Commercial Support:** https://52north.org/services/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T053521Z" creationid="sanak" creationdate="20201103T053521Z">
+        <seg>**商用サポート:** https://52north.org/services/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Commercial Support:** https://pgrouting.org/support.html</seg>
       </tuv>
       <tuv lang="ja">
@@ -190,10 +198,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Community Support:** https://list.52north.org/mailman/listinfo/sensorweb</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T053535Z" creationid="sanak" creationdate="20201103T053535Z">
+        <seg>**コミュニティサポート:** https://list.52north.org/mailman/listinfo/sensorweb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Community Support:** https://qgis.org/en/site/forusers/support.html</seg>
       </tuv>
       <tuv lang="ja">
         <seg>**コミュニティサポート:**  https://qgis.org/en/site/forusers/support.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Community Website:** https://52north.org/research/research-labs/sensor-web/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T053549Z" creationid="sanak" creationdate="20201103T053549Z">
+        <seg>**コミュニティWebサイト:** https://52north.org/research/research-labs/sensor-web/</seg>
       </tuv>
     </tu>
     <tu>
@@ -490,6 +514,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052357Z" creationid="miurahr" creationdate="20201102T052345Z">
         <seg>**Osmosis**は、OSMデータに対して生データのレベルで多くのタスクを実行するための高機能ユーティリティプログラムです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Other 52°North projects on OSGeoLive:** :doc:`WPS &lt;./52nWPS_overview&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T053631Z" creationid="sanak" creationdate="20201103T053631Z">
+        <seg>**OSGeoLiveでの他の 52°North プロジェクト:** :doc:`WPS &lt;./52nWPS_overview&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -858,6 +890,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**サポート:** |SUPPORT|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Supported DBMS:** PostgreSQL (9+) + PostGIS (2+), MariaDB/MySQL (5.6+), Oracle DB (9+), SQL Server 2012</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T053507Z" creationid="sanak" creationdate="20201103T053507Z">
+        <seg>**サポートする DBMS:** PostgreSQL (9+) + PostGIS (2+), MariaDB/MySQL (5.6+), Oracle DB (9+), SQL Server 2012</seg>
       </tuv>
     </tu>
     <tu>
@@ -1298,6 +1338,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>3D 地形レンダリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/52nSOS_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T053749Z" creationid="sanak" creationdate="20201103T053749Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/52nSOS_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
