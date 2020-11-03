@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Support:** https://www.cruisersforum.com/forums/f134/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102843Z" creationid="smellman" creationdate="20201103T102843Z">
+        <seg>**サポート:**https://www.cruisersforum.com/forums/f134/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Support:** https://www.deegree.org/community</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T061839Z" creationid="miurahr" creationdate="20201103T061839Z">
@@ -1930,6 +1938,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T070500Z" creationid="miurahr" creationdate="20201103T070500Z">
         <seg>:doc:`クイックスタート文書 &lt;../quickstart/marble_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/opencpn_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102903Z" creationid="smellman" creationdate="20201103T102903Z">
+        <seg>:doc:`クイックスタート文書&lt;./quickstart/opencpn_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -3766,6 +3782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data Formats</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103124Z" creationid="smellman" creationdate="20201103T103124Z">
+        <seg>データフォーマット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data Sets</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012508Z" creationid="miurahr" creationdate="20201103T012508Z">
@@ -4514,6 +4538,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>重複を回避するフィーチャのラベル付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Features (Core Features and PlugIns*)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103059Z" creationid="smellman" creationdate="20201103T103059Z">
+        <seg>機能 (主要機能とプラグイン*)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6442,6 +6474,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020620Z" creationid="miurahr" creationdate="20201103T010533Z">
         <seg>任意のソースから地図タイル、ベクタデータやマーカーをロードして表示可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It comes in a CORE and a PLUS edition, with the latter adding lots of useful plugins.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103013Z" creationid="smellman" creationdate="20201103T103013Z">
+        <seg>CORE版とPLUS版があり、後者には便利なプラグインがたくさん追加されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8386,6 +8426,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>GEOS 経由で提供される OpenGis 空間解析関数 - Overlaps()、Touches()、Union()、Buffer() など</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenJUMP is an easy to use and powerful desktop GIS that enables users to display, edit, analyse and conflate geographic data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102958Z" creationid="smellman" creationdate="20201103T102958Z">
+        <seg>OpenJUMPは、ユーザが地理データを表示、編集、分析、および確認できる、使いやすく強力なデスクトップGISです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenJUMP is excellent for data editing and rapid prototyping of GIS functions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103025Z" creationid="smellman" creationdate="20201103T103025Z">
+        <seg>OpenJUMPはGIS機能のデータ編集とラピッドプロトタイピングに優れています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14251,6 +14307,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>読み取り/書き込み/更新 (rw+)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>reads (files): GML, SHP, DXF+, MIF*, CSV+, KML+, OSM* &amp; TIFF, ASCII grid, JPG, PNG, JPEG2000+, MrSID*, ECW+</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T103142Z" creationid="smellman" creationdate="20201103T103142Z">
+        <seg>読み込み (ファイル): GML, SHP, DXF+, MIF*, CSV+, KML+, OSM* &amp; TIFF, ASCII grid, JPG, PNG, JPEG2000+, MrSID*, ECW+</seg>
       </tuv>
     </tu>
     <tu>
