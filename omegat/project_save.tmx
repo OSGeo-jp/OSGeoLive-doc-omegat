@@ -1774,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After that you can use the built-in Maputnik editor (also linked from the info page) to create your own Mapbox GL Json style.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T052655Z" creationid="smellman" creationdate="20201103T052655Z">
+        <seg>その後、組み込みのMaputnikエディター(infoページからもリンク)を使って、独自のMapbox GL Jsonスタイルを作成することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After you have your own username and password, you will be able to add your first points to the map, learn how to do street surveys and work with aerial imagery.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052209Z" creationid="miurahr" creationdate="20201102T052209Z">
@@ -8007,6 +8015,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Support: https://github.com/t-rex-tileserver/t-rex/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T052713Z" creationid="smellman" creationdate="20201103T052713Z">
+        <seg>サポート: https://github.com/t-rex-tileserver/t-rex/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Support: https://liblas.org/community.html</seg>
       </tuv>
       <tuv lang="ja">
@@ -8935,6 +8951,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To create your own map viewer you can use the snippets on the info page in the t-rex backend.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T052634Z" creationid="smellman" creationdate="20201103T052634Z">
+        <seg>独自のマップビューアを作成するには、t-rexバックエンドのinfoページにあるスニペットを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To do so you would change your query to below:</seg>
       </tuv>
       <tuv lang="ja">
@@ -8947,6 +8971,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051917Z" creationid="miurahr" creationdate="20201103T051917Z">
         <seg>**OpenStreetMap GPSトレース**を有効にするには、ボックスをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To inspect the generated tiles type::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T052554Z" creationid="smellman" creationdate="20201103T052554Z">
+        <seg>生成されたタイルを検査するには、次のように入力します::</seg>
       </tuv>
     </tu>
     <tu>
@@ -9531,6 +9563,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Webサイト: https://liblas.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Website: https://t-rex.tileserver.ch/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T052706Z" creationid="smellman" creationdate="20201103T052706Z">
+        <seg>ウェブサイト: https://t-rex.tileserver.ch/</seg>
       </tuv>
     </tu>
     <tu>
