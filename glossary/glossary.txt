@@ -2,3 +2,5 @@ OpenStreetMap	OpenStreetMap	固有名詞なので変更しない
 QuickStart	クイックスタート	タイトルは統一する
 Software Version	ソフトウエアバージョン
 Licence	ライセンス
+Styled Layer Descriptor	Styled Layer Descriptor	訳語が定義されていない
+Supported Platforms	サポートされるOS
