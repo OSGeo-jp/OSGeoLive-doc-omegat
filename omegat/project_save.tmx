@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1762,6 +1762,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>エリア: 重複するエリアの結合、マルチポリゴンを作成、ほか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As a library, it presents a single abstract data model to the calling application for all supported formats.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T044241Z" creationid="sanak" creationdate="20201103T044241Z">
+        <seg>ライブラリとして、サポートしている全てのフォーマットについて、アプリケーション呼び出しのための単一抽象データモデルを提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8155,6 +8163,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>以下の表は OSGeoLive 上の各ドキュメントの貢献者を記載したものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The utilities are based upon a cross platform, C++ library, accessible via numerous programming languages.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T044236Z" creationid="sanak" creationdate="20201103T044236Z">
+        <seg>このユーティリティはクロスプラットフォームの C++ ライブラリに基づいて作成しており、数多くのプログラミング言語からアクセスできます。</seg>
       </tuv>
     </tu>
     <tu>
