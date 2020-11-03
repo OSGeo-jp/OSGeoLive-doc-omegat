@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Do not draw all these ways in one line* so that the inner contours suspend from the outer contour.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053213Z" creationid="miurahr" creationdate="20201103T053213Z">
+        <seg>*これらのすべての方法を1本の線で描画しないでください*。内側の輪郭線が外側の輪郭線から一時停止します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Empower everyone with open source geospatial*</seg>
       </tuv>
       <tuv lang="ja">
@@ -1406,10 +1414,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A "line" created in the iD editor is actually a "way" with "tags" on it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053012Z" creationid="miurahr" creationdate="20201103T053012Z">
+        <seg>iDエディタで作成される "ライン"は、実際には"タグ"がついた"ウエイ"です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A "point" created in the iD editor is actually a standalone "node" with a set of "tags" on it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052318Z" creationid="miurahr" creationdate="20201103T052318Z">
         <seg>iDエディタで作成される"ポイント"は、実際には"タグ"のセットが付いた独立の"ノード"です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A "polygon" in the iD editor is actually a "closed way" with tags on it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053146Z" creationid="miurahr" creationdate="20201103T053146Z">
+        <seg>iDエディタの"ポリゴン"は、実際にはタグが付いた"閉じたウエイ"です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1586,6 +1610,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041631Z" creationid="miurahr" creationdate="20201103T041631Z">
         <seg>センサーには、河川の水位計、気象ステーション、大気質モニタリングステーションなどがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A special note about **Deleting**: In general you should avoid deleting other people's mapping if it just needs improvement.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053026Z" creationid="miurahr" creationdate="20201103T053026Z">
+        <seg>**削除**に関する特記事項: 一般的に、改善が必要な場合は、他のユーザのマッピングを削除しないようにしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,6 +2398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click once on a point where the road segment begins, move your mouse, and click to add additional points.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052517Z" creationid="miurahr" creationdate="20201103T052517Z">
+        <seg>道路セグメントの始点を1回クリックし、マウスを移動してクリックし、点を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the **Background settings** button or use the *shortcut key* **b**.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051435Z" creationid="miurahr" creationdate="20201103T051435Z">
@@ -2598,6 +2638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create a circle from a line (only active if the line is closed) |image29|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052740Z" creationid="miurahr" creationdate="20201103T052740Z">
+        <seg>線分から円を作成する(ラインが閉じている場合にのみ有効) |image29|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create the file "mapserver_quickstart.map" in your home directory: :file:`/home/user/mapserver_quickstart.map`</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021639Z" creationid="miurahr" creationdate="20201103T021639Z">
@@ -2806,6 +2854,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delete line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052705Z" creationid="miurahr" creationdate="20201103T052705Z">
+        <seg>ラインの削除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delete point from line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052622Z" creationid="miurahr" creationdate="20201103T052622Z">
+        <seg>ラインからポイントを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Demo</seg>
       </tuv>
       <tuv lang="ja">
@@ -2902,6 +2966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disconnect point from line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052626Z" creationid="miurahr" creationdate="20201103T052626Z">
+        <seg>ポイントをラインから切断します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Document</seg>
       </tuv>
       <tuv lang="ja">
@@ -2966,6 +3038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double-click to end the drawing process.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052520Z" creationid="miurahr" creationdate="20201103T052520Z">
+        <seg>図面プロセスを終了するには、ダブルクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Download</seg>
       </tuv>
       <tuv lang="ja">
@@ -3010,6 +3090,30 @@
       </tuv>
       <tuv lang="ja">
         <seg>図面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drawing lines</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052428Z" creationid="miurahr" creationdate="20201103T052428Z">
+        <seg>線の描画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drawing multipolygons</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053149Z" creationid="miurahr" creationdate="20201103T053149Z">
+        <seg>マルチポリゴンを描画する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drawing shapes (polygons)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053051Z" creationid="miurahr" creationdate="20201103T053051Z">
+        <seg>シェイプ(ポリゴン)を描画する</seg>
       </tuv>
     </tu>
     <tu>
@@ -3294,6 +3398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Find a road that hasn’t been drawn on the map and trace it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052510Z" creationid="miurahr" creationdate="20201103T052510Z">
+        <seg>地図に描かれていない道を探して、たどってみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Find out more about OSM on the website: https://www.openstreetmap.org</seg>
       </tuv>
       <tuv lang="ja">
@@ -3386,6 +3498,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Rの空間的側面の詳細については、おそらく「R Spatial Task View &lt;https://cran.r-project.org/web/views/Spatial.html&gt; `_から始めるのが最適です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Form a square shape from a line (only active if the line is closed) |image31|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052900Z" creationid="miurahr" creationdate="20201103T052900Z">
+        <seg>線分から四角形を作成する(ラインが閉じている場合のみ有効)) |image31|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4342,6 +4462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you really feel something should be deleted, consider asking the original mapper or one of the OSM email lists about it first.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053045Z" creationid="miurahr" creationdate="20201103T053045Z">
+        <seg>削除する必要があると本当に感じている場合は、最初に元のマッパーまたはOSM電子メールリストのいずれかに問い合わせてみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Image- and HTML-based markers</seg>
       </tuv>
       <tuv lang="ja">
@@ -5070,6 +5198,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Just as with a point, select the appropriate tags for your line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052527Z" creationid="miurahr" creationdate="20201103T052527Z">
+        <seg>点の場合と同様に、線分に適切なタグを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Just think of buildings with inner courtyards or lakes with islands.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053158Z" creationid="miurahr" creationdate="20201103T053158Z">
+        <seg>中庭のある建物や島のある湖を思い浮かべてください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>K-Dijkstra, One to Many Shortest Path</seg>
       </tuv>
       <tuv lang="ja">
@@ -5662,6 +5806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Move line |image30|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052752Z" creationid="miurahr" creationdate="20201103T052752Z">
+        <seg>ラインを移動 |image30|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Multi-Dimensional Big Data Analytics Engine</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014322Z" creationid="miurahr" creationdate="20201103T014322Z">
@@ -5866,6 +6018,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052027Z" creationid="miurahr" creationdate="20201103T052027Z">
         <seg>新しい点が追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Notice the panel on the left.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052523Z" creationid="miurahr" creationdate="20201103T052523Z">
+        <seg>左側のパネルに注目してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6336,8 +6496,8 @@
       <tuv lang="en-US">
         <seg>Or, if you want to delete your point, click the left mouse button on the point, activate the context menu by clicking with the right mouse button and then click the button which looks like a trashcan.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T052247Z" creationid="miurahr" creationdate="20201103T052247Z">
-        <seg>または、ポイントを削除する場合は、ポイント上で左マウスボタンをクリックし、右マウスボタンでクリックしてコンテキストメニューをアクティブにし、ごみ箱のようなボタンをクリックします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052402Z" creationid="miurahr" creationdate="20201103T052247Z">
+        <seg>または、ポイントを削除する場合は、ポイント上で左マウスボタンをクリックし、さらに右マウスボタンでクリックしてコンテキストメニューを表示し、ごみ箱のボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7039,6 +7199,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rather draw these contours separate, attach tags to the outer contour only, select all contours and hit **c** in order to combine them into what is called a multipolygon.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053224Z" creationid="miurahr" creationdate="20201103T053224Z">
+        <seg>むしろ、これらの等高線を別々に描き、外側の等高線のみにタグを付け、すべての等高線を選択して**c**を押し、それらをいわゆるマルチポリゴンに結合します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Read the `Introduction to MapServer &lt;https://mapserver.org/introduction.html#introduction&gt;`_.</seg>
       </tuv>
       <tuv lang="ja">
@@ -7203,6 +7371,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>タイルレイヤとマーカーのための Retina 解像度のサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reverse line direction (good for rivers &amp; one-way streets) |image32|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052928Z" creationid="miurahr" creationdate="20201103T052928Z">
+        <seg>ラインの方向を逆転 (河川や一方通行の設定に便利) |image32|</seg>
       </tuv>
     </tu>
     <tu>
@@ -7623,6 +7799,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sometimes you have to draw a polygon which does not only have an outer contour but also one or more inner contours.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053155Z" creationid="miurahr" creationdate="20201103T053155Z">
+        <seg>外部輪郭だけでなく、1つまたは複数の内部輪郭を持つポリゴンを描画する必要がある場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sophisticated spatial query support</seg>
       </tuv>
       <tuv lang="ja">
@@ -7763,6 +7947,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013826Z" creationid="miurahr" creationdate="20201103T013826Z">
         <seg>特別に ISOメタデータ、SLD/SE スタイル、SVG グラフィックスをサポート。XML ドキュメントは標準の XPath 構文でクエリ可能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Split a line into two lines from the point you’ve selected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052638Z" creationid="miurahr" creationdate="20201103T052638Z">
+        <seg>選択したポイントから2本のラインに分割します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8639,6 +8831,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The tools that are available when you select a shape and activate the context menu with the right mouse button are similar to those when you click on a line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053127Z" creationid="miurahr" creationdate="20201103T053127Z">
+        <seg>シェイプを選択して右マウスボタンでコンテキストメニューを表示したときに使用できるツールは、ラインをクリックしたときのツールと似ています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The utilities are based upon a cross platform, C++ library, accessible via numerous programming languages.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T044236Z" creationid="sanak" creationdate="20201103T044236Z">
@@ -8675,6 +8875,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>論理または正規表現ベースのクラスを利用した主題マッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then drag the line to a new position.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052544Z" creationid="miurahr" creationdate="20201103T052537Z">
+        <seg>次に、ラインを新しい位置にドラッグします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8863,6 +9071,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This preserves the history of the items in the OSM database and is respectful of fellow mappers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053040Z" creationid="miurahr" creationdate="20201103T053040Z">
+        <seg>これにより、OSMデータベース内のアイテムの履歴が保持され、他のマッパーにも配慮されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This process can also be run inside a Virtual Machine to create a permanent OSGeoLive Virtual Machine from a DVD or ISO image.</seg>
       </tuv>
       <tuv lang="ja">
@@ -8931,6 +9147,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051913Z" creationid="miurahr" creationdate="20201103T051913Z">
         <seg>**お使いのコンピュータからGPSトラックを表示**(GPXフォーマット)するには、GPXファイルをiDエディタにドラッグ&amp;ドロップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To add a new line, click on the **Line** button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052503Z" creationid="miurahr" creationdate="20201103T052503Z">
+        <seg>新しいラインを追加するには、**ライン**ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To add a new multi-sided shape, click on the **Area** button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053056Z" creationid="miurahr" creationdate="20201103T053056Z">
+        <seg>新しい多辺形状を追加するには、**領域**ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9115,6 +9347,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>:menuselection:`Geospatial` メニューから、たくさんのアプリケーションを試してみてください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try to trace a building using the imagery as a guide.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053104Z" creationid="miurahr" creationdate="20201103T053104Z">
+        <seg>イメージをガイドとして使用して、建物をトレースしてみます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9647,6 +9887,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you click your left mouse button on a line (but not on a point), you will see these tools:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052652Z" creationid="miurahr" creationdate="20201103T052652Z">
+        <seg>ライン上(ポイント上ではない)でマウスの左ボタンをクリックすると、次のツールが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you click your left mouse button on an individual point (node) on the line and click on the right mouse button to activate the context menu, you will see these tools:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052610Z" creationid="miurahr" creationdate="20201103T052610Z">
+        <seg>ラインの個々のポイント(ノード)上で左マウスボタンをクリックし、さらに右マウスボタンをクリックしてコンテキストメニューを表示すると、次のツールが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you select any of the contours of the newly created multipolygon you can see on the left to which multipolygons it belongs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053322Z" creationid="miurahr" creationdate="20201103T053229Z">
+        <seg>新しく作成したマルチポリゴンのいずれかの輪郭を選択すると、そのマルチポリゴンが属する残りのオブジェクトを確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Which outputs:</seg>
       </tuv>
       <tuv lang="ja">
@@ -9719,6 +9983,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You also can move the whole line by selecting it, and choosing the **Move tool**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052535Z" creationid="miurahr" creationdate="20201103T052535Z">
+        <seg>ライン全体を移動するには、ラインを選択して**移動ツール**を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can add or edit tags from this panel.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051401Z" creationid="miurahr" creationdate="20201103T051401Z">
@@ -9747,6 +10019,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>システムのカスタマイズとアップデートが可能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can delete your own mistakes, but you should try to *adjust* other people's mapped objects if they need changes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053036Z" creationid="miurahr" creationdate="20201103T053036Z">
+        <seg>自分の間違いを削除することもできますが、変更が必要な場合は、他のユーザのマッピングされたオブジェクトを*調整*してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can drag points from the line by clicking your left mouse button on a point and dragging it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052530Z" creationid="miurahr" creationdate="20201103T052530Z">
+        <seg>ポイント上でマウスの左ボタンをクリックしてドラッグすると、ラインからポイントをドラッグできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9859,6 +10147,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>`R-Spatial &lt;https://www.rspatial.org&gt;`_ ページもチェックしてみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will notice that the color of your shape will change depending on the attributes that you assign to it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T053109Z" creationid="miurahr" creationdate="20201103T053109Z">
+        <seg>シェイプのカラーは、割り当てるアトリビュートに応じて変化します。</seg>
       </tuv>
     </tu>
     <tu>
