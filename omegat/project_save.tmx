@@ -2742,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As the host vessel moves, new charts are selected and displayed at user specified resolution and detail.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102540Z" creationid="smellman" creationdate="20201103T102540Z">
+        <seg>ホストの船舶が移動すると、新しいチャートが選択され、ユーザ指定の解像度および詳細で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As you click different objects on the sample map, notice that there are three different types of objects on the map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T074548Z" creationid="miurahr" creationdate="20201103T072446Z">
@@ -6150,6 +6158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Information received by standard radio links describing the position and intent of other vessels can also be shown.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102420Z" creationid="smellman" creationdate="20201103T102420Z">
+        <seg>他の船舶の位置及び意図を記述する標準無線リンクによって受信された情報も示すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Initially developed as a central component of the EU's :doc:`INSPIRE &lt;inspire_overview&gt;` infrastructure, it provides a consistent central access point where labels and descriptions for reference codes can be easily browsed by humans and retrieved by machines.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T015034Z" creationid="miurahr" creationdate="20201103T015034Z">
@@ -6386,6 +6402,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T064047Z" creationid="miurahr" creationdate="20201103T064047Z">
         <seg>これには、地理情報を操作するためのさまざまなツール(クエリー、レイアウト作成、地理処理、ネットワークなど)が用意されており、gvSIGを陸上で作業するユーザにとって理想的なツールに変えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It has been developed by a team of active sailors using real world conditions for program testing and refinement.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102332Z" creationid="smellman" creationdate="20201103T102332Z">
+        <seg>これは、プログラムのテストと改良のために実世界の条件を使用して、アクティブな水兵のチームによって開発されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8258,6 +8282,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051330Z" creationid="miurahr" creationdate="20201103T051330Z">
         <seg>インターネットブラウザを開き、https://www.openstreetmap.orgのOpenStreetMapのWebサイトにアクセスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenCPN presents a user with the vessel's current position, speed and course superimposed upon accurate navigational chart images, tide and current predictions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T102354Z" creationid="smellman" creationdate="20201103T102354Z">
+        <seg>OpenCPNは、正確な航海図画像、潮汐及び海流予測に重ね合わされた船の現在位置、速度及び針路をユーザに提示します。</seg>
       </tuv>
     </tu>
     <tu>
