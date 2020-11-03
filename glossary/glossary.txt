@@ -22,3 +22,7 @@ terrain analysis	地形分析
 projection	投影
 raster data	ラスタデータ
 **What will I learn ?**	何を学べますか？
+Scale	スケール
+inspector	インスペクタ
+schema	スキーマ
+identifier integrity	識別子の完全性
