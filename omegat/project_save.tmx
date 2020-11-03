@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2214,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cache seeding</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T052323Z" creationid="smellman" creationdate="20201103T052323Z">
+        <seg>キャッシュシード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calculate pedestrian, bike and motorcar routes with ease - online and offline, with an arbitrary number of via points.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010052Z" creationid="miurahr" creationdate="20201103T010052Z">
@@ -2370,6 +2378,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051937Z" creationid="miurahr" creationdate="20201103T051937Z">
         <seg>リセットボタンをクリックすると、デフォルトの位置に戻ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close the browser and the terminal window running t-rex.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T052336Z" creationid="smellman" creationdate="20201103T052336Z">
+        <seg>ブラウザを閉じ、t-rexを実行しているターミナルウィンドウを閉じます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2578,6 +2594,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021639Z" creationid="miurahr" creationdate="20201103T021639Z">
         <seg>"mapserver_quickstart.map"を、ホームディレクトリ::file:`/home/user/mapserver_quickstart.map`に作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create the file "ne.toml" in your home directory: :file:`/home/user/ne.toml`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T052403Z" creationid="smellman" creationdate="20201103T052403Z">
+        <seg>ファイル"ne.toml"をホームディレクトリ::file:`/home/user/ne.toml`に作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4114,6 +4138,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ホームページ：https://wiki.openstreetmap.org/wiki/Osm2pgsql</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hover the mouse on a line to inspect the content of a feature.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T052257Z" creationid="smellman" creationdate="20201103T052257Z">
+        <seg>フィーチャの内容を検査するには、線の上にマウスを置きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6134,10 +6166,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open a terminal (:menuselection:`System Tools --&gt; LXTerminal`) and type::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T052438Z" creationid="smellman" creationdate="20201103T052438Z">
+        <seg>端末を開き(:menuselection:`System Tools--&gt;LXTerminal`)、次を入力します::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open a web browser and enter the following URL::</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022108Z" creationid="miurahr" creationdate="20201103T022108Z">
         <seg>Webブラウザを開き、次のURLを入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open any text editor (e.g. :menuselection:`Accessories --&gt; FeatherPad`).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T052346Z" creationid="smellman" creationdate="20201103T052346Z">
+        <seg>任意のテキストエディタを開きます(例:menuselection:`Accessories--&gt;FeatherPad`)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8207,6 +8255,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Mapbox GL viewer and Maputnik require WebGL support, which is probably not available when running OSGeoLive in a VM.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T052317Z" creationid="smellman" creationdate="20201103T052317Z">
+        <seg>Mapbox GLビューアとMaputnikにはWebGLサポートが必要ですが、VMでOSGeoLiveを実行している場合はおそらく利用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Netherlands</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T062202Z" creationid="miurahr" creationdate="20201102T062202Z">
@@ -8971,6 +9027,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ラベリングとシンボル描画のための TrueType フォントサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try also the other viewers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T052305Z" creationid="smellman" creationdate="20201103T052305Z">
+        <seg>他のビューアも試してください。</seg>
       </tuv>
     </tu>
     <tu>
