@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Config tips and tweaks**</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113515Z" creationid="miurahr" creationdate="20201103T113515Z">
+        <seg>**設定のヒントと微調整**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Create a Virtual Machine**</seg>
       </tuv>
       <tuv lang="ja">
@@ -2078,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A QGIS project saves layers, styles, map extents and settings for use at a later time.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T114030Z" creationid="miurahr" creationdate="20201103T114030Z">
+        <seg>QGISプロジェクトは、レイヤ、スタイル、マップ範囲、および設定を保存し、後で使用できるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A USB flash drive (at least 4 Gig, 8+ Gig is recommended).</seg>
       </tuv>
       <tuv lang="ja">
@@ -2614,6 +2630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All configuration changes, software updates, and saved files are permanent, just like on any "regular" computer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113323Z" creationid="miurahr" creationdate="20201103T113323Z">
+        <seg>すべての構成変更、ソフトウェア更新、および保存されたファイルは、「通常の」コンピュータと同様に永続的です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All documentation is provided under a `Creative Commons Attribution 3.0 Unported License &lt;https://creativecommons.org/licenses/by/3.0/&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T110546Z" creationid="smellman" creationdate="20201101T110546Z">
@@ -2650,6 +2674,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011634Z" creationid="miurahr" creationdate="20201103T011626Z">
         <seg>さらに WFS-T プロトコルを利用して、認証されたユーザがサーバのデータを編集、アップロードすることで更新できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also once the OSGeo system starts, add yourself to the vboxsf group so that the shared folders (defined above) are accessible by running in a terminal window:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113611Z" creationid="miurahr" creationdate="20201103T113611Z">
+        <seg>また、OSGeoシステムが起動したら、vboxsfグループに自分自身を追加し、ターミナルウィンドウでを実行して共有フォルダ(上記で定義)にアクセスできるようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2746,6 +2778,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>特定の用途向けアプリケーション:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply this change by starting a new desktop session: either restart the virtual machine or log out and log back in (username "user", password "user").</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113608Z" creationid="miurahr" creationdate="20201103T113608Z">
+        <seg>この変更を適用するには、新しいデスクトップセッションを開始します。仮想マシンを再起動するか、ログアウトして再度ログインします(ユーザー名「user」、パスワード「user」)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3134,6 +3174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CPU: Any CPU will do, but a processor which supports "Virtualization Technology" will be faster.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113420Z" creationid="miurahr" creationdate="20201103T113420Z">
+        <seg>CPU: どのCPUでもかまいませんが、"Virtualization Technology"をサポートの方が高速です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cache seeding</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052323Z" creationid="smellman" creationdate="20201103T052323Z">
@@ -3146,6 +3194,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010052Z" creationid="miurahr" creationdate="20201103T010052Z">
         <seg>任意の数の経由ポイントを使用して、オンラインとオフラインで、歩行者、自転車、自動車のルートを簡単に計算できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Call the project 'My QGIS project'.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113933Z" creationid="miurahr" creationdate="20201103T113933Z">
+        <seg>このプロジェクトを'My QGIS project'と呼んでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3238,6 +3294,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose :menuselection:`Project --&gt; Open`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T114109Z" creationid="miurahr" creationdate="20201103T114109Z">
+        <seg> :menuselection:`Project --&gt; Open`を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose :menuselection:`Project --&gt; Save`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113913Z" creationid="miurahr" creationdate="20201103T113858Z">
+        <seg>:menuselection:`Project--&gt;Save`を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chrome for Android 4+ and iOS</seg>
       </tuv>
       <tuv lang="ja">
@@ -3258,6 +3330,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>空間データのためのクラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click 'Save'.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113938Z" creationid="miurahr" creationdate="20201103T113938Z">
+        <seg>[保存]をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3314,6 +3394,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052237Z" creationid="smellman" creationdate="20201103T052237Z">
         <seg>右上のメニューの `X-Ray` をクリックして、x-ray ビューアを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the "Download virtual machine" button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113444Z" creationid="miurahr" creationdate="20201103T113444Z">
+        <seg>「Download virtual machine(仮想マシンのダウンロード)」ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3542,6 +3630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Continue to the next screen and choose "Use an existing virtual hard disk file".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113505Z" creationid="miurahr" creationdate="20201103T113505Z">
+        <seg>次の画面に進み、"既存の仮想ハードディスクファイルを使用する"を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Continue until you are happy with your line.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075615Z" creationid="miurahr" creationdate="20201103T073859Z">
@@ -3642,6 +3738,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052740Z" creationid="miurahr" creationdate="20201103T052740Z">
         <seg>線分から円を作成する(ラインが閉じている場合にのみ有効) |image29|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create a project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113723Z" creationid="miurahr" creationdate="20201103T113723Z">
+        <seg>プロジェクトを作成する</seg>
       </tuv>
     </tu>
     <tu>
@@ -4158,6 +4262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Download `Virtual Box &lt;https://www.virtualbox.org/&gt;`_  for your platform, and install the software.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113432Z" creationid="miurahr" creationdate="20201103T113432Z">
+        <seg>`Virtual Box&lt;https://www.virtualbox.org/&gt;&lt;https://www.virtualbox.org/&gt;`_をダウンロードし、ソフトウェアをインストールしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Download and upload OSM vector data.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020513Z">
@@ -4186,6 +4298,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T074444Z" creationid="miurahr" creationdate="20201103T072425Z">
         <seg>マウスを左クリックしたままバーを左右に動かすことで、地図の拡大と縮小ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drag the layer from the browser panel and drop it in the map frame.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113801Z" creationid="miurahr" creationdate="20201103T113801Z">
+        <seg>ブラウザパネルから画層をドラッグし、マップフレームにドロップします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5486,10 +5606,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go the browser panel on the left of the screen.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113746Z" creationid="miurahr" creationdate="20201103T113746Z">
+        <seg>画面の左側にあるブラウザパネルに移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to :menuselection:`Layer --&gt; Add Layer --&gt; Add WMS/WMTS Layer`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023003Z" creationid="miurahr" creationdate="20201103T023003Z">
         <seg> :menuselection:`Layer --&gt; Add Layer --&gt; Add WMS/WMTS Layer`にいく</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the "Display" section and increase video memory to 32 or 64 MB.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113525Z" creationid="miurahr" creationdate="20201103T113525Z">
+        <seg>「ディスプレイ」セクションに移動し、ビデオメモリを32MBまたは64MBに増やします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6078,6 +6214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition download the OSGeo Virtual disk file (vmdk) from :doc:`live.osgeo.org &lt;../download&gt;`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113442Z" creationid="miurahr" creationdate="20201103T113442Z">
+        <seg>さらに、doc:`live.osgeo.org&lt;./download&gt;`からOSGeo仮想ディスクファイル(vmdk)をダウンロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition recent sample data for the FOSS4G host city and a number of JOSM plugins have been included.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T044934Z" creationid="miurahr" creationdate="20201102T044934Z">
@@ -6158,6 +6302,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In some host operating systems, it may be required to "Enable 3D Acceleration" for display to work properly.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113527Z" creationid="miurahr" creationdate="20201103T113527Z">
+        <seg>一部のホストオペレーティングシステムでは、表示を正しく機能させるために「3Dアクセラレータを有効にする]が必要になる場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the "General" section, go to the Advanced tab, and click to select "Show at top of screen" for the Mini toolbar.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113522Z" creationid="miurahr" creationdate="20201103T113522Z">
+        <seg>[全般]セクションで、[詳細設定]タブに移動し、ミニツールバーの[画面上部に表示]をクリックして選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the LAYER object, we'll add another CLASS object just before our current one::</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022815Z" creationid="miurahr" creationdate="20201103T022815Z">
@@ -6174,10 +6334,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the above example, we defined a Shared Folder path on the host system and named it "GIS" in the VM Settings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113622Z" creationid="miurahr" creationdate="20201103T113622Z">
+        <seg>上の例では、ホストシステム上に共有フォルダパスを定義し、VM設定で「GIS」という名前を付けました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the image below, public GPS traces are shown in various colors, indicating the direction of travel.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051921Z" creationid="miurahr" creationdate="20201103T051921Z">
         <seg>下のイメージでは、公共のGPS追跡がさまざまな色で表示され、進行方向を示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the next screen set the memory to 1024 MB (or more if your host computer has more than 4GB, like in the screenshot below).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113455Z" creationid="miurahr" creationdate="20201103T113455Z">
+        <seg>次の画面で、メモリを1024MBに設定します(下のスクリーンショットのように、ホストコンピュータのメモリが4GBを超える場合はそれ以上)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7054,6 +7230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Layers can be added to QGIS using the browser panel, located on the left of the screen.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113744Z" creationid="miurahr" creationdate="20201103T113744Z">
+        <seg>レイヤは、画面の左側にあるブラウザパネルを使用してQGISに追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Leaflet is an JavaScript library for browser based, mobile-friendly, interactive maps.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011004Z" creationid="miurahr" creationdate="20201103T011004Z">
@@ -7082,6 +7266,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>あなたのアプリケーションでの pgRouting の利用について、もっと知りたい場合は、 `documentation &lt;http://docs.pgrouting.org&gt;`_ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's open an existing QGIS project and have a look at how it works.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T114042Z" creationid="miurahr" creationdate="20201103T114042Z">
+        <seg>既存のQGISプロジェクトを開いて、その仕組みを見てみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's start by adding a vector layer to the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113740Z" creationid="miurahr" creationdate="20201103T113740Z">
+        <seg>まず、ベクトルレイヤをマップに追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7218,6 +7418,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T074457Z" creationid="miurahr" creationdate="20201103T072427Z">
         <seg>サンプルの地図を見てみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make the location to save the project '/home/user/desktop'.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113918Z" creationid="miurahr" creationdate="20201103T113918Z">
+        <seg>プロジェクトを保存する場所を'/home/user/desktop'にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7742,10 +7950,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Navigate the folder tree to 'home/data/natural_earth2'.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113752Z" creationid="miurahr" creationdate="20201103T113752Z">
+        <seg>フォルダツリーを'home/data/natural_earth2'に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Navigate the map</seg>
       </tuv>
       <tuv lang="ja">
         <seg>マップをナビゲートする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Navigate to '/home/user/qgis-example'.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T114121Z" creationid="miurahr" creationdate="20201103T114121Z">
+        <seg> '/home/user/qgis-example'に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7870,6 +8094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note that when QGIS is opened you will be presented with a list of recent projects to chose from.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T114056Z" creationid="miurahr" creationdate="20201103T114056Z">
+        <seg>QGISを開くと、最近選択したプロジェクトのリストが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note:</seg>
       </tuv>
       <tuv lang="ja">
@@ -7910,6 +8142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now click on the button (a folder icon) to browse to where you saved the OSGeoLive vmdk-file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113509Z" creationid="miurahr" creationdate="20201103T113509Z">
+        <seg>次に、ボタン(フォルダアイコン)をクリックして、OSGeoLive vmdkファイルを保存した場所を参照します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now click the :guilabel:`Add` button on the right to add an additional layout and then :guilabel:`Close` the IBus Preferences window.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055121Z" creationid="miurahr" creationdate="20201103T055121Z">
@@ -7934,6 +8174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now let's try adding a raster layer to the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113831Z" creationid="miurahr" creationdate="20201103T113831Z">
+        <seg>次に、プロジェクトにラスタレイヤを追加してみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now let’s draw a map in order to practice the techniques you have learned.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T080125Z" creationid="miurahr" creationdate="20201103T080125Z">
@@ -7954,6 +8202,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T072337Z" creationid="miurahr" creationdate="20201103T072337Z">
         <seg>次に、サンプルのOSMファイルを開きます。このファイルを使用して、JOSMを使用してマップを描画する基本的な方法を学習します。このマップは実際の場所の実際のマップではないため、OpenStreetMapには保存しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now that we have added some content to our project we can save this project so that we can come back to it at a later time.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113854Z" creationid="miurahr" creationdate="20201103T113854Z">
+        <seg>プロジェクトにコンテンツを追加したので、このプロジェクトを保存して、後で再び作業できるようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8254,6 +8510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On Windows run the installer, or on Ubuntu-like Linux systems do the following:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113435Z" creationid="miurahr" creationdate="20201103T113435Z">
+        <seg>Windowsでインストーラを実行するか、UbuntuのようなLinuxシステムで次の操作を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the left side of JOSM is a column of buttons.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075333Z" creationid="miurahr" creationdate="20201103T073505Z">
@@ -8290,6 +8554,38 @@
       </tuv>
       <tuv lang="ja">
         <seg>Proj.4 ライブラリ使用による、1000を超える投影法でのオンザフライ地図投影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once the "Folder path" and "Folder name" are defined, click OK, and again OK to finish and close the settings window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113538Z" creationid="miurahr" creationdate="20201103T113538Z">
+        <seg>「フォルダパス」と「フォルダ名」を定義したら、[OK]をクリックし、もう一度[OK]をクリックして設定ウィンドウを閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once the VM is created, click on the Settings button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113519Z" creationid="miurahr" creationdate="20201103T113519Z">
+        <seg>VMが作成されたら、[設定]ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once the layer has been dragged onto the map frame, you will see a layer showing countries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113819Z" creationid="miurahr" creationdate="20201103T113819Z">
+        <seg>レイヤをマップフレームにドラッグすると、レイヤに国が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once the layer has been dragged onto the map frame, you will see a raster layer showing land cover and bathymetry.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113849Z" creationid="miurahr" creationdate="20201103T113849Z">
+        <seg>レイヤをマップフレームにドラッグすると、土地被覆と水深を示すラスタレイヤが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8342,6 +8638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open QGIS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T114051Z" creationid="miurahr" creationdate="20201103T114044Z">
+        <seg>QGISを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open a :menuselection:`Applications --&gt; Accessories --&gt; Terminal` window and connect to the ``city_routing`` database:</seg>
       </tuv>
       <tuv lang="ja">
@@ -8386,6 +8690,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022108Z" creationid="miurahr" creationdate="20201103T022108Z">
         <seg>Webブラウザを開き、次のURLを入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open an existing project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T114007Z" creationid="miurahr" creationdate="20201103T114007Z">
+        <seg>既存のプロジェクトを開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -9303,6 +9615,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RAM: 2 GB at least.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113329Z" creationid="miurahr" creationdate="20201103T113329Z">
+        <seg>RAM:2GB以上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>REST API to process satellite images, time series of satellite images, raster and vector data.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020457Z" creationid="miurahr" creationdate="20201103T020457Z">
@@ -9647,6 +9967,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Run "sudo adduser user users".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113603Z" creationid="miurahr" creationdate="20201103T113603Z">
+        <seg>sudo adduser user usersを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Run the Dijkstra shortest path function assuming undirected travel:</seg>
       </tuv>
       <tuv lang="ja">
@@ -9863,6 +10191,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select 'HYP_50M_SR_W.tif'.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113833Z" creationid="miurahr" creationdate="20201103T113833Z">
+        <seg>[HYP_50M_SR_W.tif]を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select 'ne_10m_admin_0_countries.shp'.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113756Z" creationid="miurahr" creationdate="20201103T113756Z">
+        <seg>'ne_10m_admin_0_countries.shp'を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select :guilabel:`Install RELEASE`</seg>
       </tuv>
       <tuv lang="ja">
@@ -9923,6 +10267,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075152Z" creationid="miurahr" creationdate="20201103T072834Z">
         <seg>地図の左側にある森林を選択してみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the project 'QGIS-NaturalEarth-Example.qgs'.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T120201Z" creationid="miurahr" creationdate="20201103T120201Z">
+        <seg>プロジェクト'QGIS-NaturalEarth-Example.qgs'を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this file, press Next and Create.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113512Z" creationid="miurahr" creationdate="20201103T113512Z">
+        <seg>このファイルを選択し、[次へ]と[作成]を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10047,10 +10407,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So 20 GB is a good recommendation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113402Z" creationid="miurahr" creationdate="20201103T113402Z">
+        <seg>したがって、20GBが推奨されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So a total of 2 GB will be needed for smooth operation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113338Z" creationid="miurahr" creationdate="20201103T113338Z">
+        <seg>したがって、スムーズな動作には合計2GBが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Software on OSGeoLive is available under various Free and Open Source licenses, as listed in the Project Overviews.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T110705Z" creationid="smellman" creationdate="20201101T110705Z">
         <seg>OSGeoLiveのソフトウェアは、プロジェクト概要に記載されているように、さまざまなフリーおよびオープンソースライセンスの下で利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some applications, like GeoServer, needs the virtual machine to have at least 2GB of RAM. So if possible, consider providing 2 GB or more for your virtual machine.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113344Z" creationid="miurahr" creationdate="20201103T113344Z">
+        <seg>GeoServerなどの一部のアプリケーションでは、仮想マシンに2GB以上のRAMが必要です。可能であれば、仮想マシンに2GB以上のRAMを用意することを検討してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10115,6 +10499,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T062019Z" creationid="miurahr" creationdate="20201102T062019Z">
         <seg>スペイン語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spare Hard Disk Space: The virtual disk file (vmdk) from :doc:`live.osgeo.org &lt;../download&gt;`  unzips to almost 10 GB.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113354Z" creationid="miurahr" creationdate="20201103T113354Z">
+        <seg>ハードディスクの空き容量:doc:`live.osgeo.org&lt;./download&gt;`の仮想ディスクファイル(vmdk)は、ほぼ10GBに解凍されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10263,6 +10655,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start QGIS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113717Z" creationid="miurahr" creationdate="20201103T113717Z">
+        <seg>スタートQGIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start QGIS via :menuselection:`Geospatial --&gt; Desktop GIS --&gt; QGIS Desktop`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022939Z" creationid="miurahr" creationdate="20201103T022939Z">
@@ -10283,6 +10683,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052013Z" creationid="smellman" creationdate="20201103T052013Z">
         <seg>T-Rexを起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start a terminal.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113600Z" creationid="miurahr" creationdate="20201103T113600Z">
+        <seg>端末を起動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10775,6 +11183,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Lubuntu system runs well with 1 GB of RAM, and you'll need to keep at least the same amount of memory for your host system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113334Z" creationid="miurahr" creationdate="20201103T113334Z">
+        <seg>Ubuntuシステムは1GBのRAMで正常に動作するので、ホストシステムと少なくとも同じ量のメモリを確保する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The MapServer project website contains many resources to help you get started.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023344Z" creationid="miurahr" creationdate="20201103T023344Z">
@@ -11247,6 +11663,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The response speed of a VM is much faster than on the DVD, and typically comparable with installing directly on the host machine.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113319Z" creationid="miurahr" creationdate="20201103T113319Z">
+        <seg>VMの応答速度はDVDよりもはるかに速く、通常はホストマシンに直接インストールするのと同等です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The result looks like the following:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022150Z" creationid="miurahr" creationdate="20201103T022150Z">
@@ -11287,6 +11711,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The shared folder will appear in the file system under /media/sf_GIS/.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113626Z" creationid="miurahr" creationdate="20201103T113626Z">
+        <seg>共有フォルダは、ファイルシステムの/media/sf_GIS/の下に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The shoe shop is represented by a shoe symbol, and the market is represented by a shopping cart.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T072520Z" creationid="miurahr" creationdate="20201103T072520Z">
@@ -11299,6 +11731,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T051611Z" creationid="miurahr" creationdate="20201102T051611Z">
         <seg>小さなCBD抽出物は、「pgrouting」と呼ばれる別のPostGISデータベースにロードされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The solution is to fix the vmdk with the following one-time procedure:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113557Z" creationid="miurahr" creationdate="20201103T113557Z">
+        <seg>この問題を解決するには、次の1回限りの手順でvmdkを修正します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11355,6 +11795,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054244Z" creationid="miurahr" creationdate="20201103T054244Z">
         <seg>ツリーには独自のデータストア``GeoExt.data.store.LayersTree``があり、OpenLayersマップのレイヤで埋めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The user "user" is not a member of the "users" group on the OSGeoLive virtual machine.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113548Z" creationid="miurahr" creationdate="20201103T113548Z">
+        <seg>ユーザー「user」は、OSGeoLive仮想マシンの「users」グループのメンバーではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11427,6 +11875,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055339Z" creationid="miurahr" creationdate="20201103T055339Z">
         <seg>次の操作を試してください::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then unzip the downloaded file (using `7zip &lt;https://www.7-zip.org&gt;`_ ).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113449Z" creationid="miurahr" creationdate="20201103T113449Z">
+        <seg>次に、ダウンロードしたファイルを解凍します(`7zip&lt;https://www7-zip.org&gt;`_)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11703,6 +12159,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This information is stored as a QGIS project file and has an extension of '.qgs' or '.qgz', with '.qgz' being the default file format in QGIS going into the future.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T114036Z" creationid="miurahr" creationdate="20201103T114036Z">
+        <seg>この情報はQGISのプロジェクトファイルとして保存され、拡張子は「.qgs」または「.qgz」になります。「.qgz」は将来のQGISでの既定のファイル形式です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a convenient way to open a project you have used recently.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T114059Z" creationid="miurahr" creationdate="20201103T114059Z">
+        <seg>これは、最近使用したプロジェクトを開くのに便利な方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is a simple example, but you can do much, much more.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023341Z" creationid="miurahr" creationdate="20201103T023341Z">
@@ -11747,6 +12219,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053040Z" creationid="miurahr" creationdate="20201103T053040Z">
         <seg>これにより、OSMデータベース内のアイテムの履歴が保持され、他のマッパーにも配慮されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This prevents some tools from writing to its data directory and causes some software to fail to start.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113553Z" creationid="miurahr" creationdate="20201103T113553Z">
+        <seg>これにより、一部のツールがデータディレクトリに書き込みできなくなり、一部のソフトウェアが起動できなくなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11903,6 +12383,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To create a new project, choose :menuselection:`Project --&gt; New`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113735Z" creationid="miurahr" creationdate="20201103T113735Z">
+        <seg>新しいプロジェクトを作成するには、:menuselection:`Project--&gt;New`を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To create your own map viewer you can use the snippets on the info page in the t-rex backend.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052634Z" creationid="smellman" creationdate="20201103T052634Z">
@@ -11947,6 +12435,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052554Z" creationid="smellman" creationdate="20201103T052554Z">
         <seg>生成されたタイルを検査するには、次のように入力します::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To mount this folder in the user's home directory, for example, in a terminal run:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113642Z" creationid="miurahr" creationdate="20201103T113642Z">
+        <seg>このフォルダをユーザのホームディレクトリにマウントするには(たとえば、ターミナルで次のように実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12903,6 +13399,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you install the iso on the VM, the username must be set to "user"</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113543Z" creationid="miurahr" creationdate="20201103T113543Z">
+        <seg>VMにisoをインストールする場合は、ユーザー名を「user」に設定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you select any of the contours of the newly created multipolygon you can see on the left to which multipolygons it belongs</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053322Z" creationid="miurahr" creationdate="20201103T053229Z">
@@ -13043,6 +13547,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>インストールした仮想マシンのバックアップが可能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can check your computer CPU `here &lt;https://www.intel.com/content/www/us/en/support/articles/000005486/processors.html&gt;`__.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113425Z" creationid="miurahr" creationdate="20201103T113425Z">
+        <seg>あなたのコンピュータのCPUはここ&lt;https://www.intel.com/content/www/us/en/support/articles/000005486/processors.html&gt;で確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can choose to make the shared folder read-only, and auto-mounted.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113534Z" creationid="miurahr" creationdate="20201103T113534Z">
+        <seg>共有フォルダを読み取り専用にし、自動マウントすることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13271,6 +13791,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You will know the project has been saved because there will be a project file on the desktop called 'My QGIS project' and the top of your project document will no longer read as 'untitled' but instead will read as 'My QGIS project'.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T114003Z" creationid="miurahr" creationdate="20201103T113954Z">
+        <seg>プロジェクトが保存されたことがわかります。これは、'My QGIS project'という名前のプロジェクトファイルがデスクトップにあり、プロジェクトドキュメントの一番上が「untitled」ではなく'My QGIS project'になるためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You will notice that the color of your shape will change depending on the attributes that you assign to it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053109Z" creationid="miurahr" creationdate="20201103T053109Z">
@@ -13291,6 +13819,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T072402Z" creationid="miurahr" creationdate="20201103T072402Z">
         <seg>これらのデータを使用して、さまざまな編集方法を試します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You'll also want more space to allow some room to work on the virtual machine.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113358Z" creationid="miurahr" creationdate="20201103T113358Z">
+        <seg>また、仮想マシン上で作業できるスペースを確保するために、より多くのスペースが必要になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13399,6 +13935,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[5] Status Bar: General information about the map and access to a universal search bar.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113721Z" creationid="miurahr" creationdate="20201103T113721Z">
+        <seg>[5]ステータスバー:マップに関する一般情報とユニバーサル検索バーへのアクセス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`Actinia &lt;https://actinia.mundialis.de/&gt;`__ is an open source REST API for scalable, distributed, high performance processing of geographical data that uses `GRASS GIS &lt;https://grass.osgeo.org/&gt;`__ for computational tasks.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T061549Z" creationid="miurahr" creationdate="20201103T061549Z">
@@ -13491,6 +14035,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T044913Z" creationid="miurahr" creationdate="20201102T044913Z">
         <seg>`OpenStreetMap &lt;https://www.openstreetmap.org&gt;`_ は、道路地図のような地理的データを誰でも利用できるために、自由な地理情報データを作成し提供することを目的としたプロジェクトです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`Other ways to create a Virtual Machine &lt;https://wiki.osgeo.org/wiki/Live_GIS_Virtual_Machine&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T113655Z" creationid="miurahr" creationdate="20201103T113655Z">
+        <seg>`仮想マシンを作成するその他の方法&lt;https://wiki.osgeo.org/wiki/Live_GIS_Virtual_Machine&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
