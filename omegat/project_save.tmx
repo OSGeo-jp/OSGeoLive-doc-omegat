@@ -1014,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**What will I learn ?** You will see an example of styling elements inside a layer depending on some of its data properties.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022536Z" creationid="miurahr" creationdate="20201103T022536Z">
+        <seg>**何を学ベますか?** レイヤ内の要素のスタイル設定の例が、データプロパティの一部に応じて表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**amd64 or i386 architecture**</seg>
       </tuv>
       <tuv lang="ja">
@@ -1790,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Before the last *END* statement in the Mapfile, add the following layer configuration::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022422Z" creationid="miurahr" creationdate="20201103T022422Z">
+        <seg>Mapfileの最後の*END*文の前に、次のレイヤ設定を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Belgium</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T062330Z" creationid="miurahr" creationdate="20201102T062330Z">
@@ -1990,10 +2006,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Class objects are always read from the top to the bottom for each feature to be drawn.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022828Z" creationid="miurahr" creationdate="20201103T022828Z">
+        <seg>クラスオブジェクトは、描画されるフィーチャごとに常に上から下に読み込まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Classes for spatial data</seg>
       </tuv>
       <tuv lang="ja">
         <seg>空間データのためのクラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click button **New** and add a name and your Service URL</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T023314Z" creationid="miurahr" creationdate="20201103T023314Z">
+        <seg>ボタン**New**をクリックし、名前とサービスURLを追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2854,6 +2886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, if we look closer at our "ne_10m_lakes" data file using a tool such as `ogrinfo &lt;https://gdal.org/ogrinfo.html&gt;`_, we'll see the geometry and attribute definitions it contains.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022749Z" creationid="miurahr" creationdate="20201103T022601Z">
+        <seg>たとえば、`ogrinfo&lt;https://gdal.org/ogrinfo.html&gt;`_などのツールを使用して"ne_10m_lakes"データファイルを詳しく調べると、このファイルに含まれるジオメトリと属性定義がわかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, the Minnesota DNR `Recreation Compass &lt;http://www.dnr.state.mn.us/maps/compass.html&gt;`_ provides users with more than 10,000 web pages, reports and maps via a single application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T005850Z" creationid="miurahr" creationdate="20201103T005850Z">
@@ -3438,6 +3478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to :menuselection:`Layer --&gt; Add Layer --&gt; Add WMS/WMTS Layer`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T023003Z" creationid="miurahr" creationdate="20201103T023003Z">
+        <seg> :menuselection:`Layer --&gt; Add Layer --&gt; Add WMS/WMTS Layer`にいく</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Great flexibility to create tooltips and markers.</seg>
       </tuv>
       <tuv lang="ja">
@@ -3654,6 +3702,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a feature does not match any class then it is not rendered at all but if the last class in a layer contains no EXPRESSION then that class acts as a default.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022843Z" creationid="miurahr" creationdate="20201103T022843Z">
+        <seg>フィーチャがどのクラスとも一致しない場合、フィーチャはまったくレンダリングされませんが、画層の最後のクラスにEXPRESSIONが含まれていない場合、そのクラスが既定として機能します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the feature does not match a class the next class is checked.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022835Z" creationid="miurahr" creationdate="20201103T022835Z">
+        <seg>フィーチャがクラスと一致しない場合、次のクラスがチェックされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this command runs successfully, you are able to see your rendered map at file:///home/user/mymap.png.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022328Z" creationid="miurahr" creationdate="20201103T022328Z">
@@ -3690,6 +3754,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>もし PostgreSQL 9.6+ を実行している場合は、 postgis の行はスキップ可能で、 :code:`CREATE EXTENSION pgrouting CASCADE;` を実行します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you choose the layer with the ID 0 you can load the whole service with all layers at once.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T023336Z" creationid="miurahr" creationdate="20201103T023336Z">
+        <seg>ID 0のレイヤを選択すると、すべてのレイヤを含むサービス全体を一度にロードできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3750,6 +3822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In a Mapfile, a LAYER object can contain an infinite number of CLASS objects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022541Z" creationid="miurahr" creationdate="20201103T022541Z">
+        <seg>Mapfileでは、LAYERオブジェクトに無限個のCLASSオブジェクトを含めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition recent sample data for the FOSS4G host city and a number of JOSM plugins have been included.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T044934Z" creationid="miurahr" creationdate="20201102T044934Z">
@@ -3790,6 +3870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In our "ne_10m_lakes" dataset, we have a *ScaleRank* attribute, which seems to be related to the size of the lakes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022810Z" creationid="miurahr" creationdate="20201103T022810Z">
+        <seg>"ne_10m_lakes"データセットには、湖の大きさに関係すると思われる*ScaleRank*属性がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In our Mapfile, the data will be drawn as *polygons*.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021930Z" creationid="miurahr" creationdate="20201103T021930Z">
@@ -3802,6 +3890,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021818Z" creationid="miurahr" creationdate="20201103T021751Z">
         <seg>このMapfileでは、いまのところ1つのレイヤのみが定義されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the LAYER object, we'll add another CLASS object just before our current one::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022815Z" creationid="miurahr" creationdate="20201103T022815Z">
+        <seg>LAYERオブジェクトでは、現在のオブジェクトの直前に別のCLASSオブジェクトを追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4002,6 +4098,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052949Z" creationid="miurahr" creationdate="20201102T052949Z">
         <seg>また、サンプル データセットやドキュメントも含んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It basically tells MapServer to draw the elements having the "ScaleRank" property equal to "0" or "1" with a black outline.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022825Z" creationid="miurahr" creationdate="20201103T022825Z">
+        <seg>基本的には、MapServerに対して、「0」または「1」に等しい「ScaleRank」プロパティを持つ要素を黒いアウトラインで描画するように指示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4510,6 +4614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's take our previous WMS **GetMap** request and add our new "Lakes" layer to the image rendered.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022455Z" creationid="miurahr" creationdate="20201103T022455Z">
+        <seg>前述のWMSの**GetMap**要求を受け取り、レンダリングしたイメージに新しい「Lakes」レイヤを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LiDAR Data Access</seg>
       </tuv>
       <tuv lang="ja">
@@ -4722,6 +4834,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T005915Z" creationid="miurahr" creationdate="20201103T005915Z">
         <seg>現在、MapServer は `OSGeo &lt;https://www.osgeo.org&gt;`_ の１プロジェクトとして管理されています。今後増え続ける世界中からの開発者(現在約20人)によって維持管理されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapServer supports different OGC Standards like OGC WMS, WFS or WCS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022927Z" creationid="miurahr" creationdate="20201103T022927Z">
+        <seg>MapServerは、OGC WMS、WFS、WCSなど、さまざまなOGC標準をサポートしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5054,6 +5174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note that the new one we just added has the "STATUS" property set to "ON".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022435Z" creationid="miurahr" creationdate="20201103T022435Z">
+        <seg>ここで追加した新しいオブジェクトの「STATUS」プロパティが「ON」に設定されていることに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note:</seg>
       </tuv>
       <tuv lang="ja">
@@ -5082,6 +5210,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>これで、ホストマシンで選択したフォルダ内のファイルが、 VM 上のユーザのホームディレクトリ内の "GIS" フォルダでも利用可能になりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now we have 2 layer definitions in our Mapfile.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022431Z" creationid="miurahr" creationdate="20201103T022431Z">
+        <seg>これで、Mapfileに2つのレイヤ定義が作成されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5886,6 +6022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Publish your data as OGC WMS (Web Map Service)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022915Z" creationid="miurahr" creationdate="20201103T022915Z">
+        <seg>データをOGC WMS(Web Map Service)としてパブリッシュする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Publishing spatial data to the internet</seg>
       </tuv>
       <tuv lang="ja">
@@ -6455,6 +6599,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save your settings:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T023317Z" creationid="miurahr" creationdate="20201103T023317Z">
+        <seg>設定を保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Scale dependent feature drawing and application execution</seg>
       </tuv>
       <tuv lang="ja">
@@ -6855,6 +7007,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start QGIS via :menuselection:`Geospatial --&gt; Desktop GIS --&gt; QGIS Desktop`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022939Z" creationid="miurahr" creationdate="20201103T022939Z">
+        <seg>QGISの起動方法:menuselection:`Geospatial--&gt;Desktop GIS--&gt;QGIS Desktop`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start R</seg>
       </tuv>
       <tuv lang="ja">
@@ -6923,6 +7083,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002611Z" creationid="miurahr" creationdate="20201103T002528Z">
         <seg>スタイルレイヤー記述子レンダリングの制御。uDigで一般的なWeb Map Serverと同じ設定を使用してマップを配信できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Style a layer using Mapfile configurations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022522Z" creationid="miurahr" creationdate="20201103T022522Z">
+        <seg>マップファイル設定を使用してレイヤのスタイルを設定する</seg>
       </tuv>
     </tu>
     <tu>
@@ -7111,6 +7279,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That means that unless we specifically request it, it won't be rendered.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022439Z" creationid="miurahr" creationdate="20201103T022439Z">
+        <seg>具体的にお願いしないと出せないということですね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The "cost" parameter can be dynamically calculated through SQL and its value can come from multiple fields or tables.</seg>
       </tuv>
       <tuv lang="ja">
@@ -7143,10 +7319,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The LAYER "CLASSITEM" property tells MapServer which attribute to use when evaluating EXPRESSIONs defined in the CLASS objects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022846Z" creationid="miurahr" creationdate="20201103T022846Z">
+        <seg>LAYERの「CLASSITEM」プロパティは、CLASSオブジェクトで定義された式を評価するときに使用する属性をMapServerに伝えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Learn OSM guide at the link above shows step by step how to navigate the OpenStreetMap website, view and print maps, and sign up for a user account.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052203Z" creationid="miurahr" creationdate="20201102T052203Z">
         <seg>上記のリンクにある『Learn OSM』ガイドでは、OpenStreetMapのWebサイトの操作方法、マップの表示と印刷方法、ユーザアカウントへのサインアップ方法を順を追って説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The MapServer project website contains many resources to help you get started.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T023344Z" creationid="miurahr" creationdate="20201103T023344Z">
+        <seg>MapServerプロジェクトのWebサイトには、作業を開始に役立つ多くのリソースが用意されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7375,6 +7567,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The image rendered by MapServer looks like our previous map, but with the addition of the lakes from our new layer:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022513Z" creationid="miurahr" creationdate="20201103T022513Z">
+        <seg>MapServerによってレンダリングされたイメージは、前のマップに似ていますが、新しいレイヤから湖が追加されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The latest stable release is |osgeolive-version| and can be downloaded from:</seg>
       </tuv>
       <tuv lang="ja">
@@ -7427,6 +7627,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022150Z" creationid="miurahr" creationdate="20201103T022150Z">
         <seg>結果は次のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The result of this new addition should make the big lakes in our map image rendered with a black outline:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022905Z" creationid="miurahr" creationdate="20201103T022905Z">
+        <seg>この新しい追加の結果、地図イメージ内の大きな湖が黒いアウトラインでレンダリングされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7503,10 +7711,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then you can connect to your service and add one or more layers of the service to your QGIS project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T023327Z" creationid="miurahr" creationdate="20201103T023327Z">
+        <seg>その後、サービスに接続し、サービスの1つまたは複数のレイヤをQGISプロジェクトに追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There is no need for precalculation.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014251Z" creationid="miurahr" creationdate="20201103T014251Z">
         <seg>事前の計算処理は必要ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These are used to style the elements contained in the spatial data file (DATA).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022545Z" creationid="miurahr" creationdate="20201103T022545Z">
+        <seg>これらは、空間データファイル(DATA)に含まれる要素のスタイルを設定するために使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These attribute values can be used as a way to draw the elements inside a dataset differently using multiple CLASS objects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022656Z" creationid="miurahr" creationdate="20201103T022656Z">
+        <seg> これらの属性値は、複数のCLASSオブジェクトを使用してデータセット内の要素を異なる方法で描画する方法として使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7627,6 +7859,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011833Z" creationid="miurahr" creationdate="20201103T011833Z">
         <seg>これには、処理を連結することや、 レンダリング変換を使用したWMS インターフェイスによる強力な可視化が含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a simple example, but you can do much, much more.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T023341Z" creationid="miurahr" creationdate="20201103T023341Z">
+        <seg>これは簡単な例ですが、できることはたくさんあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7959,6 +8199,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using QGIS Desktop to load your OGC WMS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022935Z" creationid="miurahr" creationdate="20201103T022935Z">
+        <seg>QGISデスクトップを使用したOGC WMSのロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Utilizing CSS3 features to make panning and zooming really smooth</seg>
       </tuv>
       <tuv lang="ja">
@@ -8135,6 +8383,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We can use this as a way to render the lakes differently.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022801Z" creationid="miurahr" creationdate="20201103T022801Z">
+        <seg>これを使って湖を違った形にレンダリングすることができます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We simply need to add the new layer name to the "LAYERS" property list::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022506Z" creationid="miurahr" creationdate="20201103T022506Z">
+        <seg>「LAYERS」プロパティリストに新しいレイヤ名を追加するだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will now add a new layer to our Mapfile.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022415Z" creationid="miurahr" creationdate="20201103T022415Z">
+        <seg>次に、新しいレイヤをMapfileに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We'll add another layer later.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021516Z" creationid="miurahr" creationdate="20201103T021516Z">
@@ -8239,6 +8511,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What Next?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T023338Z" creationid="miurahr" creationdate="20201103T023338Z">
+        <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What does our new CLASS object do?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022818Z" creationid="miurahr" creationdate="20201103T022818Z">
+        <seg>新しいCLASSオブジェクトは何をしますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What does the above mean?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022111Z" creationid="miurahr" creationdate="20201103T022111Z">
@@ -8263,6 +8551,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a feature matches the "EXPRESSION" specified in a class, that class is going to render the feature.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022831Z" creationid="miurahr" creationdate="20201103T022831Z">
+        <seg>フィーチャがクラスで指定された「EXPRESSION」に一致すると、そのクラスはフィーチャをレンダリングします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Which outputs:</seg>
       </tuv>
       <tuv lang="ja">
@@ -8283,6 +8579,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>:command:`\\q` コマンドで PostgreSQL シェルを終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With OGC WMS you can publish your data as a Map Service and integrate the service in a Desktop GIS like QGIS or in a Web Client like OpenLayers or Mapbender.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T022932Z" creationid="miurahr" creationdate="20201103T022932Z">
+        <seg>OGC WMSを使用すると、データをマップサービスとしてパブリッシュし、QGISのようなデスクトップGISや、OpenLayersやMapbenderのようなWebクライアントでサービスを統合できます。</seg>
       </tuv>
     </tu>
     <tu>
