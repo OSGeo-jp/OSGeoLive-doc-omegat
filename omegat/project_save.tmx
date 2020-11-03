@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8119,6 +8119,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The iD editor is a great way to edit for small and easy changes that don't require the advanced features of JOSM (a more advanced mapping editor).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051314Z" creationid="miurahr" creationdate="20201103T051314Z">
+        <seg>iDエディタは、JOSM(より高度なマッピングエディタ)の高度な機能を必要としない、小さくて簡単な変更を編集するための優れた方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The iD editor is the de facto, browser-based OpenStreetMap editor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051105Z" creationid="miurahr" creationdate="20201103T051059Z">
+        <seg>iDエディタは事実上、ブラウザベースのOpenStreetMapエディタです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The image rendered by MapServer looks like our previous map, but with the addition of the lakes from our new layer:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022513Z" creationid="miurahr" creationdate="20201103T022513Z">
@@ -8403,6 +8419,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022223Z" creationid="miurahr" creationdate="20201103T022223Z">
         <seg>これは、反復マッピングを探している場合やデバッグ中に便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This chapter demonstrates the basics of editing with iD.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051317Z" creationid="miurahr" creationdate="20201103T051317Z">
+        <seg>この章では、iDを使用した編集の基本について説明します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9967,10 +9991,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>iD editor Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051055Z" creationid="miurahr" creationdate="20201103T051055Z">
+        <seg>iDエディタ クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>iD is fast and easy to use, and allows mapping from various data sources such as ground survey, satellite and aerial imageries, GPS traces or street-level imagery.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052236Z" creationid="miurahr" creationdate="20201102T052236Z">
         <seg>iDは高速で使いやすく、地上測量、衛星および航空画像、GPS追跡または街路レベルの画像など、さまざまなデータソースからのマッピングが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>iD is fast and easy to use, and allows mapping from various data sources such as satellite and aerial imageries, GPS, Field Papers or Mapillary.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051309Z" creationid="miurahr" creationdate="20201103T051309Z">
+        <seg>iDは高速で使いやすく、衛星や航空画像、GPS、Field Papers、Mapillaryなどのさまざまなデータソースからのマッピングが可能です。</seg>
       </tuv>
     </tu>
     <tu>
