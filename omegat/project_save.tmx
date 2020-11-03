@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3840,16 +3840,16 @@
       <tuv lang="en-US">
         <seg>DeleteResultTemplate for the deletion of resultTemplates by identifier or offering/observedProperty pairs</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201103T074626Z" creationid="sanak" creationdate="20201103T074626Z">
-        <seg>DeleteResultTemplate 識別子または提供物/観測属性ペアにより、結果テンプレートを削除します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T075400Z" creationid="sanak" creationdate="20201103T074626Z">
+        <seg>DeleteResultTemplate 識別子または提供サービスID/計測項目ペアにより、結果テンプレートを削除します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>DeleteSensor (from specification version 2.0): for deleting a sensor/procedure and all related offerings and observations.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201103T073818Z" creationid="sanak" creationdate="20201103T073818Z">
-        <seg>DeleteSensor (仕様バージョン2.0以降): センサー/プロシージャと全ての関連するオブジェクトと観測データを削除します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T074734Z" creationid="sanak" creationdate="20201103T073818Z">
+        <seg>DeleteSensor (仕様バージョン2.0以降): センサー/プロシージャと全ての関連する提供物と観測データを削除します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12467,6 +12467,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022932Z" creationid="miurahr" creationdate="20201103T022932Z">
         <seg>OGC WMSを使用すると、データをマップサービスとしてパブリッシュし、QGISのようなデスクトップGISや、OpenLayersやMapbenderのようなWebクライアントでサービスを統合できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Within these operations, the following filter operators are possible where applicable:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T075527Z" creationid="sanak" creationdate="20201103T075527Z">
+        <seg>これらの操作では、該当する場合、以下のフィルタ演算子が利用可能です:</seg>
       </tuv>
     </tu>
     <tu>
