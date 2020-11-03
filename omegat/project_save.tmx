@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -450,6 +450,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T051623Z" creationid="miurahr" creationdate="20201102T051623Z">
         <seg>**ライセンス:** `Open Data Commons Open Database License (ODbL) &lt;https://opendatacommons.org/licenses/odbl/&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Login** using your OpenStreetMap account.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051333Z" creationid="miurahr" creationdate="20201103T051333Z">
+        <seg>OpenStreetMapアカウントを使用して**ログイン**します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1398,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A "point" created in the iD editor is actually a standalone "node" with a set of "tags" on it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052318Z" creationid="miurahr" creationdate="20201103T052318Z">
+        <seg>iDエディタで作成される"ポイント"は、実際には"タグ"のセットが付いた独立の"ノード"です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A GIS client can request the actual raster data for use in spatial analysis.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011653Z" creationid="miurahr" creationdate="20201103T011653Z">
@@ -1694,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adding points</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051942Z" creationid="miurahr" creationdate="20201103T051942Z">
+        <seg>ポイントを追加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional ports are available for C# and JavaScript.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012416Z" creationid="miurahr" creationdate="20201103T012416Z">
@@ -1922,6 +1946,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>psql のプロンプトで、以下をタイプします:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the same time, the left panel will change to show a form where you can select attributes for the object.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052035Z" creationid="miurahr" creationdate="20201103T052035Z">
+        <seg>同時に、左側のパネルが変わり、オブジェクトの属性を選択できるフォームが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2286,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click **Hospital Grounds** to tag the point as a hospital.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052045Z" creationid="miurahr" creationdate="20201103T052045Z">
+        <seg>**Hospital Grounds**をクリックして、ポイントに病院のタグを付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click button **New** and add a name and your Service URL</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023314Z" creationid="miurahr" creationdate="20201103T023314Z">
@@ -2298,6 +2338,38 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052237Z" creationid="smellman" creationdate="20201103T052237Z">
         <seg>右上のメニューの `X-Ray` をクリックして、x-ray ビューアを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the small arrow next to **Edit**, then click **Edit with iD (in-browser editor)**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051350Z" creationid="miurahr" creationdate="20201103T051350Z">
+        <seg>**[編集]**の横の小さな矢印をクリックし、[**iD編集(ブラウザ内エディタ)**]をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the **Background settings** button or use the *shortcut key* **b**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051435Z" creationid="miurahr" creationdate="20201103T051435Z">
+        <seg>**背景設定**ボタンをクリックするか、*ショートカットキー***b**を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the navigation buttons to move the imagery.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051935Z" creationid="miurahr" creationdate="20201103T051935Z">
+        <seg>イメージを移動するには、ナビゲーションボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the reset button to return to the default position.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051937Z" creationid="miurahr" creationdate="20201103T051937Z">
+        <seg>リセットボタンをクリックすると、デフォルトの位置に戻ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2386,6 +2458,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021020Z" creationid="miurahr" creationdate="20201103T021020Z">
         <seg>Mapfile設定ファイルを使用してMapServerを設定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Configuring the background layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051426Z" creationid="miurahr" creationdate="20201103T051426Z">
+        <seg>背景レイヤーの設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -3062,6 +3142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter your **FieldPaper snapshot URL**, which will be something like this: http://fieldpapers.org/snapshots/cqhmf2v9#18/37.80593/-122.22715</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051840Z" creationid="miurahr" creationdate="20201103T051840Z">
+        <seg>**FieldPaperのスナップショットURL**を入力します。次のようになります。http://fieldpapers.org/snapshots/cqhmf2v9#18/37.80593/-122.22715</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Events</seg>
       </tuv>
       <tuv lang="ja">
@@ -3214,10 +3302,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example,   if you want to **add a Field Paper**  [1], click **Custom** then   click on the magnifying glass (search) icon to open the following window:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051832Z" creationid="miurahr" creationdate="20201103T051832Z">
+        <seg>たとえば、Field Paper**[1]を**追加する場合は、**Custom**をクリックし、虫眼鏡(検索)アイコンをクリックして次のウィンドウを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, if we look closer at our "ne_10m_lakes" data file using a tool such as `ogrinfo &lt;https://gdal.org/ogrinfo.html&gt;`_, we'll see the geometry and attribute definitions it contains.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022749Z" creationid="miurahr" creationdate="20201103T022601Z">
         <seg>たとえば、`ogrinfo&lt;https://gdal.org/ogrinfo.html&gt;`_などのツールを使用して"ne_10m_lakes"データファイルを詳しく調べると、このファイルに含まれるジオメトリと属性定義がわかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, if you know that there is a hospital in your area, click on the position of the hospital building.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052024Z" creationid="miurahr" creationdate="20201103T052024Z">
+        <seg>たとえば、地域に病院があることがわかっている場合は、病院の建物の位置をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4126,6 +4230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If there is `imagery offset &lt;/en/josm/aerial-imagery&gt;`__, you can **correct the imagery offset** by clicking **Fix Alignment**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051930Z" creationid="miurahr" creationdate="20201103T051930Z">
+        <seg>`imagery offset&lt;/en/josm/aerial-imagery&gt;`__がある場合は、**Fix Alignment**をクリックして**image offset**を修正できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this command runs successfully, you are able to see your rendered map at file:///home/user/mymap.png.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022328Z" creationid="miurahr" creationdate="20201103T022328Z">
@@ -4178,6 +4290,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>質問、コメント、または問題が発生した場合は、`私たちのメーリングリスト &lt;https://lists.osgeo.org/mailman/listinfo/osgeolive&gt;`_ にご連絡ください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you make a mistake, such as a wrong location, you can move your point to a new location by holding the left mouse button on your point and dragging it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052226Z" creationid="miurahr" creationdate="20201103T052226Z">
+        <seg>位置を間違えた場合などに、マウスの左ボタンを押したままドラッグすると、ポイントを新しい位置に移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4354,6 +4474,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022815Z" creationid="miurahr" creationdate="20201103T022815Z">
         <seg>LAYERオブジェクトでは、現在のオブジェクトの直前に別のCLASSオブジェクトを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the image below, public GPS traces are shown in various colors, indicating the direction of travel.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051921Z" creationid="miurahr" creationdate="20201103T051921Z">
+        <seg>下のイメージでは、公共のGPS追跡がさまざまな色で表示され、進行方向を示しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5654,6 +5782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note that each feature will have different options, depending on what tag you choose from the feature panel.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052148Z" creationid="miurahr" creationdate="20201103T052148Z">
+        <seg>各フィーチャには、フィーチャパネルから選択したタグに応じて異なるオプションがあることに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note that images are not necessarily provided under the same CC license as the text; check with the author.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T111044Z" creationid="smellman" creationdate="20201101T111044Z">
@@ -5686,6 +5822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Notice that a new point is added.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052027Z" creationid="miurahr" creationdate="20201103T052027Z">
+        <seg>新しい点が追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now bootup the VM by clicking the Start (green arrow) button.</seg>
       </tuv>
       <tuv lang="ja">
@@ -5706,6 +5850,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022431Z" creationid="miurahr" creationdate="20201103T022431Z">
         <seg>これで、Mapfileに2つのレイヤ定義が作成されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now, click on a position that you know to mark a location.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052013Z" creationid="miurahr" creationdate="20201103T052013Z">
+        <seg>次に、位置をマークする位置をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6014,6 +6166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open your Internet browser, and go to the OpenStreetMap website at https://www.openstreetmap.org.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051330Z" creationid="miurahr" creationdate="20201103T051330Z">
+        <seg>インターネットブラウザを開き、https://www.openstreetmap.orgのOpenStreetMapのWebサイトにアクセスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OpenGIS |SFSQL| spatial predicate functions and spatial operators</seg>
       </tuv>
       <tuv lang="ja">
@@ -6118,6 +6278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Or, if you want to delete your point, click the left mouse button on the point, activate the context menu by clicking with the right mouse button and then click the button which looks like a trashcan.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052247Z" creationid="miurahr" creationdate="20201103T052247Z">
+        <seg>または、ポイントを削除する場合は、ポイント上で左マウスボタンをクリックし、右マウスボタンでクリックしてコンテキストメニューをアクティブにし、ごみ箱のようなボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other features:</seg>
       </tuv>
       <tuv lang="ja">
@@ -6186,6 +6354,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>PHP, Python, Perl, Ruby, Java, .NET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pan and zoom the map to the area that you want to edit.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051337Z" creationid="miurahr" creationdate="20201103T051337Z">
+        <seg>編集する領域にマップを画面移動およびズームします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7615,6 +7791,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Starting the iD Editor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051320Z" creationid="miurahr" creationdate="20201103T051320Z">
+        <seg>iDエディタを起動する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Statistical Programming</seg>
       </tuv>
       <tuv lang="ja">
@@ -8263,6 +8447,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The iD editor requires an active connection to the Internet.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051323Z" creationid="miurahr" creationdate="20201103T051323Z">
+        <seg>iDエディタには、インターネットへのアクティブな接続が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The image rendered by MapServer looks like our previous map, but with the addition of the lakes from our new layer:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022513Z" creationid="miurahr" creationdate="20201103T022513Z">
@@ -8663,10 +8855,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To **display GPS tracks from your computer** (GPX format), drag and drop the GPX file into iD editor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051913Z" creationid="miurahr" creationdate="20201103T051913Z">
+        <seg>**お使いのコンピュータからGPSトラックを表示**(GPXフォーマット)するには、GPXファイルをiDエディタにドラッグ&amp;ドロップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To add a new point, click on the **Point** button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051957Z" creationid="miurahr" creationdate="20201103T051957Z">
+        <seg>新しい点を追加するには、[**Point**]ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To change the **brightness level** click one of these boxes, the levels are 100%, 75%, 50%, and 25% |image16|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051509Z" creationid="miurahr" creationdate="20201103T051509Z">
+        <seg>**輝度レベル**を変更するには、これらのボックスの1つをクリックします。レベルは、100%、75%、50%、および25%の|image16|です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To do so you would change your query to below:</seg>
       </tuv>
       <tuv lang="ja">
         <seg>osm_id を使用するために、以下のクエリに変更してみます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To enable **OpenStreetMap GPS traces** click on the box.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051917Z" creationid="miurahr" creationdate="20201103T051917Z">
+        <seg>**OpenStreetMap GPSトレース**を有効にするには、ボックスをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9375,10 +9599,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You also can **change the background layer** based on your desired tile provider (the default is Bing Aerial Imagery).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051823Z" creationid="miurahr" creationdate="20201103T051823Z">
+        <seg>また、目的のタイルプロバイダに基づいて**背景レイヤーを変更する**こともできます(デフォルトはBing Aerial Imagery)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You also can meet us at Slack, Matrix or Glitter.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T104205Z" creationid="smellman" creationdate="20201101T104205Z">
         <seg>Slack、Matrix、Glitterでも私達に会うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can add or edit tags from this panel.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051401Z" creationid="miurahr" creationdate="20201103T051401Z">
+        <seg>このパネルからタグを追加または編集できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can add your own map tiles by clicking on **Custom**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051828Z" creationid="miurahr" creationdate="20201103T051828Z">
+        <seg>**Custom**をクリックすると、独自のマップタイルを追加できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9395,6 +9643,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>システムのカスタマイズとアップデートが可能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can fill hospital name, address, and/or other additional information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052143Z" creationid="miurahr" creationdate="20201103T052143Z">
+        <seg>病院の名前、住所、その他の追加情報を入力できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9423,6 +9679,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can pan by holding the left mouse button and dragging the map to your desired area.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051341Z" creationid="miurahr" creationdate="20201103T051341Z">
+        <seg>マウスの左ボタンを押したままマップを目的の領域にドラッグすると、画面移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can save your work within the VM</seg>
       </tuv>
       <tuv lang="ja">
@@ -9435,6 +9699,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ボックスにepsg:4326と入力するか、 `http://prj2epsg.org/search &lt;http://prj2epsg.org/search&gt;`_ に移動して、次のリンクをクリックすると表示される文字列を貼り付けます 「不明」に。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use the forms to fill detail information about your point.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052139Z" creationid="miurahr" creationdate="20201103T052139Z">
+        <seg>フォームを使用して、ポイントに関する詳細情報を入力できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9503,6 +9775,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your mouse cursor will change into plus (+) sign.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T052002Z" creationid="miurahr" creationdate="20201103T052002Z">
+        <seg>マウスカーソルがプラス(+)記号に変わります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your version should be 2.1.0 or higher to use examples in this quickstart.</seg>
       </tuv>
       <tuv lang="ja">
@@ -9527,10 +9807,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1] **Edit Feature Panel:** This panel shows tags from the object</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051354Z" creationid="miurahr" creationdate="20201103T051354Z">
+        <seg>[1]**[フィーチャ編集]パネル:**このパネルにはオブジェクトのタグが表示されます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1] Menu bar: Access to various QGIS features using a standard hierarchical menu.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052530Z" creationid="miurahr" creationdate="20201102T052530Z">
         <seg>[1]メニューバー:標準の階層メニューを使用して、さまざまなQGIS機能にアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2] **Tools:** This panel shows basic editing tools.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051405Z" creationid="miurahr" creationdate="20201103T051405Z">
+        <seg>[2]**ツール:**このパネルには、基本的な編集ツールが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9543,10 +9839,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3] **Map panel:** This panel show various configuration functions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051409Z" creationid="miurahr" creationdate="20201103T051409Z">
+        <seg>[3]**Mapパネル:**このパネルには、さまざまな設定機能が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3] Browser Panel: A spatial file browser allowing drag and drop content into the map frame.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052544Z" creationid="miurahr" creationdate="20201102T052544Z">
         <seg>[3]ブラウザパネル:マップフレームにコンテンツをドラッグアンドドロップできる空間ファイルブラウザ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[4] **Information panel:** This panel shows various information, such as</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051419Z" creationid="miurahr" creationdate="20201103T051419Z">
+        <seg>[4]**情報パネル:**このパネルには、次のようなさまざまな情報が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10423,6 +10735,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>selected on the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051357Z" creationid="miurahr" creationdate="20201103T051357Z">
+        <seg>マップ上で選択されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>simple but powerful configuration format (YAML/JSON)</seg>
       </tuv>
       <tuv lang="ja">
@@ -10507,6 +10827,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>幾何補正プラグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>the scale bar and which users have contributed to the area.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201103T051422Z" creationid="miurahr" creationdate="20201103T051422Z">
+        <seg>スケールバーと、その領域にどのユーザが貢献したかを示します。</seg>
       </tuv>
     </tu>
     <tu>
