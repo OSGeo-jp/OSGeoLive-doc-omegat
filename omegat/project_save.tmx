@@ -9831,6 +9831,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Spatial filter: BBOX, using a bounding box.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201103T075708Z" creationid="sanak" creationdate="20201103T075708Z">
+        <seg>空間フィルタ: BBOX、using a bounding box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spatial regression</seg>
       </tuv>
       <tuv lang="ja">
