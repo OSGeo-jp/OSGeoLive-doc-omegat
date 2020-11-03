@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Licence:** `MIT license &lt;https://opensource.org/licenses/MIT&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051241Z" creationid="smellman" creationdate="20201103T051241Z">
+        <seg>**ライセンス:** `MIT license &lt;https://opensource.org/licenses/MIT&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Licence:** `MIT-style license &lt;https://mapserver.org/copyright.html#license&gt;`_</seg>
       </tuv>
       <tuv lang="ja">
@@ -626,6 +634,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**ソフトウェアバージョン:** |version-spatialite|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-t-rex|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051257Z" creationid="smellman" creationdate="20201103T051257Z">
+        <seg>**ソフトウェアバージョン:**version-t-rex</seg>
       </tuv>
     </tu>
     <tu>
@@ -1002,6 +1018,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**Webサイト:** https://projects.eclipse.org/projects/locationtech.jts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://t-rex.tileserver.ch/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051227Z" creationid="smellman" creationdate="20201103T051227Z">
+        <seg>**ウェブサイト:** https://t-rex.tileserver.ch/</seg>
       </tuv>
     </tu>
     <tu>
@@ -1862,6 +1886,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Auto-detection of layers in data source</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051108Z" creationid="smellman" creationdate="20201103T051108Z">
+        <seg>データソース内のレイヤーの自動検出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Automatic reprojection to grid CRS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051206Z" creationid="smellman" creationdate="20201103T051206Z">
+        <seg>グリッドCRSへの自動再投影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Available in prior OSGeo-Live releases</seg>
       </tuv>
       <tuv lang="ja">
@@ -1986,6 +2026,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003152Z" creationid="miurahr" creationdate="20201103T003152Z">
         <seg>組み込みのPDF出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Built-in viewers for data display and inspection</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051124Z" creationid="smellman" creationdate="20201103T051124Z">
+        <seg>データ表示および検査用の組み込みビューア</seg>
       </tuv>
     </tu>
     <tu>
@@ -7519,6 +7567,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Support for PostGIS databases and GDAL vector formats</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051052Z" creationid="smellman" creationdate="20201103T051052Z">
+        <seg>PostGISデータベースとGDALベクターフォーマットのサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Support for SE removes the need for a lot of proprietary extensions</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042537Z" creationid="miurahr" creationdate="20201103T042537Z">
@@ -7531,6 +7587,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002520Z" creationid="miurahr" creationdate="20201103T002520Z">
         <seg>Web MapServer標準のサポート(:doc:`GeoServer&lt;geoserver_overview&gt;',テスト済みMapServer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support for custom tile grids</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051214Z" creationid="smellman" creationdate="20201103T051214Z">
+        <seg>カスタムタイルグリッドのサポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -8419,6 +8483,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>タイルキャッシュ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tile generation command with simple parallelization</seg>
+      </tuv>
+      <tuv lang="ja" changeid="smellman" changedate="20201103T051154Z" creationid="smellman" creationdate="20201103T051154Z">
+        <seg>シンプルな並列化によるタイル生成コマンド</seg>
       </tuv>
     </tu>
     <tu>
