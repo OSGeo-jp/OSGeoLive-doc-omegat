@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Features**</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T004507Z" creationid="miurahr" creationdate="20201108T004414Z">
+        <seg>**フィーチャー**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Full vector data can be sent to a client using the WFS protocol:**</seg>
       </tuv>
       <tuv lang="ja">
@@ -1810,6 +1818,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>*オープンソース地理空間で、すべての人に力を*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Features* represent real world things and can be rendered using different *geometries* (like point, line or polygon) using a given *style*, which determines its look (line thinkness, fill color, etc).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T004459Z" creationid="miurahr" creationdate="20201108T004459Z">
+        <seg>*フィーチャー*は現実世界のものを表し、特定の*スタイル*を使用して、さまざまな*ジオメトリ*(点、線、ポリゴンなど)を使用してレンダリングできます。これにより、外観(線の思考、塗り潰し色など)が決まります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6496,8 +6512,8 @@
       <tuv lang="en-US">
         <seg>In the case of *vector layers*, its source reads vector data using a *format* class (for example GeoJSON or KML) and provides the layer with a set of *features*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T004357Z" creationid="miurahr" creationdate="20201108T004357Z">
-        <seg>*ベクタレイヤ*の場合、そのソースは*フォーマット*クラス(例えばGeoJSONやKML)を使ってベクタデータを読み込み、一連の*機能*をレイヤに提供します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T015224Z" creationid="miurahr" creationdate="20201108T004357Z">
+        <seg>*ベクタレイヤ*の場合、そのソースは*フォーマット*クラス(例えばGeoJSONやKML)を使ってベクタデータを読み込み、一連の*フィーチャー*をレイヤに提供します。</seg>
       </tuv>
     </tu>
     <tu>
