@@ -2422,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A single PostgreSQL server lets you organise work by arranging it into separate databases.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T041034Z" creationid="miurahr" creationdate="20201108T041034Z">
+        <seg>単一のPostgreSQLサーバでは、作業を別々のデータベースに整理することで、作業を組織することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A special note about **Deleting**: In general you should avoid deleting other people's mapping if it just needs improvement.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053026Z" creationid="miurahr" creationdate="20201103T053026Z">
@@ -3678,6 +3686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Client-server architecture</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T040733Z" creationid="miurahr" creationdate="20201108T040733Z">
+        <seg>クライアント/サーバ・アーキテクチャ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clients for Web Feature Service (WFS), Web Map Service (WMS) and experimental support for Web Process Service (WPS)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T062036Z" creationid="miurahr" creationdate="20201103T062036Z">
@@ -3706,6 +3722,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T062257Z" creationid="miurahr" creationdate="20201102T062257Z">
         <seg>コロンビア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Command-line clients run from within a Terminal Emulator window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T040904Z" creationid="miurahr" creationdate="20201108T040904Z">
+        <seg>コマンドラインクライアントは、ターミナルエミュレータウィンドウから実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3990,6 +4014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create and query a spatial database from the command line and :doc:`QGIS &lt;../overview/qgis_overview&gt;` graphical client.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T040712Z" creationid="miurahr" creationdate="20201108T040712Z">
+        <seg>コマンドラインと:doc:`QGIS&lt;./overview/qgis_overview&gt;`グラフィカルクライアントから空間データベースを作成し、クエリーを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create the file "mapserver_quickstart.map" in your home directory: :file:`/home/user/mapserver_quickstart.map`</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021639Z" creationid="miurahr" creationdate="20201103T021639Z">
@@ -4018,6 +4050,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>空間データの作成，編集とエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating a spatially-enabled database</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T040840Z" creationid="miurahr" creationdate="20201108T040840Z">
+        <seg>空間的に有効なデータベースの作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -4650,6 +4690,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013751Z" creationid="miurahr" creationdate="20201103T013751Z">
         <seg>それぞれのデータベースは一つのファイルに格納されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each database is an independent regime, with its own tables, views, users and so on.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T041039Z" creationid="miurahr" creationdate="20201108T041039Z">
+        <seg>各データベースは、独自のテーブル、ビュー、ユーザなどを持つ独立したシステムです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7806,6 +7854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manage data from the ``pgAdmin`` client.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T040726Z" creationid="miurahr" creationdate="20201108T040726Z">
+        <seg>``pgAdmin``クライアントからデータを管理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Management of the full lifecycle of the reference codes (based on the ISO 19135 Standard)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T015442Z" creationid="miurahr" creationdate="20201103T015442Z">
@@ -9670,6 +9726,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PostgreSQL gives us a utility program for creating databases, ``createdb``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T041310Z" creationid="miurahr" creationdate="20201108T041310Z">
+        <seg>PostgreSQLは、データベースを作成するためのユーティリティプログラム ``createdb``を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PostgreSQL, like many databases, works as a server in a client-server system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T040739Z" creationid="miurahr" creationdate="20201108T040739Z">
+        <seg>PostgreSQLは、多くのデータベースと同様に、クライアント/サーバシステムのサーバとして機能します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Powerful *schema assisted* parsing technology using XML Schema to bind to GML content</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012022Z" creationid="miurahr" creationdate="20201103T012022Z">
@@ -11143,6 +11215,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start a Terminal Emulator (LXTerminal currently) from the Applications menu in the Accessories section.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T041001Z" creationid="miurahr" creationdate="20201108T041001Z">
+        <seg>「アクセサリ」セクションの「アプリケーション」メニューからターミナルエミュレータ(現在はLXTerminal)を起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start a terminal.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113600Z" creationid="miurahr" creationdate="20201103T113600Z">
@@ -11911,6 +11991,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The client makes a request to the server and gets back a response.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T040744Z" creationid="miurahr" creationdate="20201108T040744Z">
+        <seg>クライアントはサーバーに要求を行い、応答を受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The clients can either be PCs or mobile devices.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014237Z" creationid="miurahr" creationdate="20201103T014237Z">
@@ -12107,6 +12195,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T110619Z" creationid="smellman" creationdate="20201101T110619Z">
         <seg>パッケージ化されたすべてのプロジェクトのライセンスについては、このページで詳しく説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The list uses a standard unix pager - hit space for next page, :kbd:`b` to go back, :kbd:`q` to quit, h for help.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T041253Z" creationid="miurahr" creationdate="20201108T041234Z">
+        <seg>このリストでは標準的なUNIXのページャの使いかたを示します - スペースで次のページ、:kbd:`b`は戻る、:kbd:`q`は終了、hはヘルプを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12463,6 +12559,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is nothing to stop the server being on the same computer as the client, and this enables you to use PostgreSQL on a single machine.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T040812Z" creationid="miurahr" creationdate="20201108T040812Z">
+        <seg>サーバがクライアントと同じコンピュータ上にあることを止めるものは何もありません。これにより、単一のマシン上でPostgreSQLを使用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These are all in the ``src`` folder in ``/var/www/html/geoext/``.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053951Z" creationid="miurahr" creationdate="20201103T053951Z">
@@ -12663,6 +12767,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This gives you a Unix shell command prompt.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T041004Z" creationid="miurahr" creationdate="20201108T041004Z">
+        <seg>これにより、Unixシェルのコマンドプロンプトが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This includes data import and export to databases, sorting, cleaning, and creating data dumps.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052351Z" creationid="miurahr" creationdate="20201102T052351Z">
@@ -12723,6 +12835,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075313Z" creationid="miurahr" creationdate="20201103T073451Z">
         <seg>オブジェクトの位置を変更したい場合や、オブジェクトの形を変更したい場合はこのようにして行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is the same way that the internet works - your browser is a client and a web server sends back the web page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T040802Z" creationid="miurahr" creationdate="20201108T040802Z">
+        <seg>これは、インターネットが動作するのと同じ方法です。つまり、ブラウザあり、WebサーバはWebページを送り返します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13615,6 +13735,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We need to create a database before adding the PostGIS extensions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T041314Z" creationid="miurahr" creationdate="20201108T041314Z">
+        <seg>PostGIS拡張を追加する前に、データベースを作成する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We need to set our scale values to something that can hold more precision in our case:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T062632Z" creationid="miurahr" creationdate="20201103T062632Z">
@@ -13679,6 +13807,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We will create a new one for this quickstart.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T041141Z" creationid="miurahr" creationdate="20201108T041141Z">
+        <seg>このクイックスタート用に新しいものを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We will now add a new layer to our Mapfile.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022415Z" creationid="miurahr" creationdate="20201103T022415Z">
@@ -13707,6 +13843,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021516Z" creationid="miurahr" creationdate="20201103T021516Z">
         <seg>レイヤは後で追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We'll call our database ``demo``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T041702Z" creationid="miurahr" creationdate="20201108T041702Z">
+        <seg>わたしたちのデータベースを ``demo``と呼びます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13983,6 +14127,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you connect to a PostgreSQL server you have to specify a database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T041042Z" creationid="miurahr" creationdate="20201108T041042Z">
+        <seg>PostgreSQLサーバに接続する場合、データベースを指定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you install the iso on the VM, the username must be set to "user"</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113543Z" creationid="miurahr" creationdate="20201103T113543Z">
@@ -14027,6 +14179,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022932Z" creationid="miurahr" creationdate="20201103T022932Z">
         <seg>OGC WMSを使用すると、データをマップサービスとしてパブリッシュし、QGISのようなデスクトップGISや、OpenLayersやMapbenderのようなWebクライアントでサービスを統合できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With PostgreSQL the requests are in the SQL language and the response is usually a table of data from the database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T040808Z" creationid="miurahr" creationdate="20201108T040808Z">
+        <seg>PostgreSQLでは、要求はSQL言語で行われ、応答は通常データベースからのデータのテーブルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14231,6 +14391,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can get a list of databases on the server with the::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T041109Z" creationid="miurahr" creationdate="20201108T041109Z">
+        <seg>次のコマンドを使用すると、サーバ上のデータベースのリストを取得できます::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can install additional software</seg>
       </tuv>
       <tuv lang="ja">
@@ -14399,6 +14567,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You should see several databases used by some of the projects on the system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T041135Z" creationid="miurahr" creationdate="20201108T041135Z">
+        <seg>システム上の一部のプロジェクトで使用されている複数のデータベースが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You should see the following:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T015400Z" creationid="miurahr" creationdate="20201108T015400Z">
@@ -14443,6 +14619,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113358Z" creationid="miurahr" creationdate="20201103T113358Z">
         <seg>また、仮想マシン上で作業できるスペースを確保するために、より多くのスペースが必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your client connects to the server via the internal 'loopback' network connection, and is not visible to other computers unless you configure it to be so.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T040837Z" creationid="miurahr" creationdate="20201108T040837Z">
+        <seg>クライアントは、内部の「ループバック」ネットワーク接続を介してサーバに接続し、そのように設定しない限り、他のコンピュータからは見えません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14911,6 +15095,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>and hit enter to see the PostgreSQL version number.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T041022Z" creationid="miurahr" creationdate="20201108T041022Z">
+        <seg>エンターを押してPostgreSQLのバージョン番号を確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>and many others</seg>
       </tuv>
       <tuv lang="ja">
@@ -15027,6 +15219,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071401Z" creationid="miurahr" creationdate="20201103T071401Z">
         <seg>クライアントとAPI: GNU Lesser General Public License (LGPL) version 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>command.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T041125Z" creationid="miurahr" creationdate="20201108T041125Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
