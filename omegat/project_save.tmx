@@ -2830,6 +2830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All the usual SQL operations can be applied to select data from a PostGIS table:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043052Z" creationid="miurahr" creationdate="20201108T043052Z">
+        <seg>通常のすべてのSQL操作を適用して、PostGISテーブルからデータを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also if authorised the user can modify the data and send it back to the server to update the stored data using the WFS-T protocol.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011634Z" creationid="miurahr" creationdate="20201103T011626Z">
@@ -3010,6 +3018,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T102540Z" creationid="smellman" creationdate="20201103T102540Z">
         <seg>ホストの船舶が移動すると、新しいチャートが選択され、ユーザ指定の解像度および詳細で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As you can see this gets increasingly tedious very quickly.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043031Z" creationid="miurahr" creationdate="20201108T043031Z">
+        <seg>ご覧のように、これは非常に時間のかかる作業になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3318,6 +3334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But now we have three cities in our database, and we can work with that.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043045Z" creationid="miurahr" creationdate="20201108T043045Z">
+        <seg>しかし今では3つの都市がデータベースに登録されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By combining these rules with OGC Filters scale dependent styling can be implemented allowing more detail to be added as a user zooms in.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011608Z" creationid="miurahr" creationdate="20201103T011608Z">
@@ -3494,6 +3518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose the ne_10m_lakes table and hit ``Add`` at the bottom (not ``Load`` at the top - that loads database connection parameters), and it should be loaded into QGIS:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043653Z" creationid="miurahr" creationdate="20201108T043653Z">
+        <seg>ne_10m_lakesテーブルを選択し、一番下にある``[追加]``をクリックします(データベース接続パラメータをロードする``[読み込み]``をクリックするのではなく)。QGISにロードする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chrome for Android 4+ and iOS</seg>
       </tuv>
       <tuv lang="ja">
@@ -3562,6 +3594,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075523Z" creationid="miurahr" creationdate="20201103T073604Z">
         <seg>なにもオブジェクトが描かれていない、地図の黒い地点をクリックすることで、なにも選択していない状態にすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on Connections drop down menu and choose Natural Earth.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043455Z" creationid="miurahr" creationdate="20201108T043455Z">
+        <seg>[接続]ドロップダウンメニューをクリックし、[Natural Earth]を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3886,6 +3926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Conventionally this geometry column is named ``geom`` (the older PostGIS convention was ``the_geom``).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T042843Z" creationid="miurahr" creationdate="20201108T042843Z">
+        <seg>従来、このジオメトリカラムには``geom``という名前(古いPostGISでは``the_geom``でした)を使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Convert the countries to GML.</seg>
       </tuv>
       <tuv lang="ja">
@@ -4050,6 +4098,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>空間データの作成，編集とエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating a Spatial Table using SQL</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T042649Z" creationid="miurahr" creationdate="20201108T042649Z">
+        <seg>SQLを使用した空間テーブルの作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -5058,6 +5114,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054216Z" creationid="miurahr" creationdate="20201103T054216Z">
         <seg>まず、``GeoExt.component.Map``を作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First we create an ordinary database table to store some city data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T042723Z" creationid="miurahr" creationdate="20201108T042723Z">
+        <seg>まず、都市データを保存するための通常のデータベーステーブルを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6142,6 +6206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hit ``Edit`` if you want to see what those parameters are for Natural Earth, or just hit ``Connect`` to continue:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043524Z" creationid="miurahr" creationdate="20201108T043524Z">
+        <seg>これらのパラメータがNatural Earthのパラメータであることを確認するには、``[編集]``をクリックします。続行するには、``[接続]``をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hold the right mouse button and drag your mouse, until you have a nice empty area to draw on.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T080205Z" creationid="miurahr" creationdate="20201103T080205Z">
@@ -6442,6 +6514,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053045Z" creationid="miurahr" creationdate="20201103T053045Z">
         <seg>削除する必要があると本当に感じている場合は、最初に元のマッパーまたはOSM電子メールリストのいずれかに問い合わせてみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want to have a look at your geometry in WKT format again, you can use the functions ST_AsText(geom) or ST_AsEwkt(geom).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043111Z" creationid="miurahr" creationdate="20201108T043111Z">
+        <seg>ジオメトリを再びWKT形式で表示する場合は、関数ST_AsText(geom)またはST_AsEwkt(geom)を使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7902,6 +7982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Luckily there are other ways of getting data into PostGIS tables that are much easier.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043035Z" creationid="miurahr" creationdate="20201108T043035Z">
+        <seg>幸いなことに、PostGISテーブルにデータを取り込む方法は他にもあり、その方がずっと簡単です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make the location to save the project '/home/user/desktop'.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113918Z" creationid="miurahr" creationdate="20201103T113918Z">
@@ -8118,6 +8206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mapping</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043335Z" creationid="miurahr" creationdate="20201108T043335Z">
+        <seg>マッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mapping and Timeline for events</seg>
       </tuv>
       <tuv lang="ja">
@@ -8314,6 +8410,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021200Z" creationid="miurahr" creationdate="20201108T021200Z">
         <seg>ほとんどの(マップ、レイヤ、コントロールなどの)要素は、イベントをトリガして変更を通知します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most of the open source desktop GIS programs can do this - QGIS, gvSIG, uDig for example.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043350Z" creationid="miurahr" creationdate="20201108T043350Z">
+        <seg>QGIS、gvSIG、uDigなど、オープンソースのデスクトップGISプログラムのほとんどがこれを実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most of them start with ST (for spatial type) and are listed in a section of the PostGIS documentation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043147Z" creationid="miurahr" creationdate="20201108T043147Z">
+        <seg>そのほとんどはST(空間タイプ)で始まり、PostGISドキュメントのセクションにリストされています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8646,6 +8758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Notice how the 'WHERE' part of the line stops us getting back distances of a city to itself (which will all be zero) or the reverse distances to the ones in the table above (London, England to London, Ontario is the same distance as London, Ontario to London, England).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043237Z" creationid="miurahr" creationdate="20201108T043237Z">
+        <seg>SQL行の'WHERE'部分が、都市からそれ自体までの距離(すべて0)または上記の表の逆方向の距離(英国ロンドンからオンタリオロンドンまでは、オンタリオロンドンからイギリスロンドンまでと同じ距離)を取得するのを停止することに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Notice how the map frame has been updated to reflect the changes in the layer list.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T120410Z" creationid="miurahr" creationdate="20201103T120410Z">
@@ -8714,6 +8834,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075222Z" creationid="miurahr" creationdate="20201103T072858Z">
         <seg>選択ができたら、森林を選択した状態でマウスを左クリックし、クリックしたままマウスをドラッグさせてみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now if you check the cities table you should see the new column, and be informed that the table currently contains no rows.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T042924Z" creationid="miurahr" creationdate="20201108T042924Z">
+        <seg>citiesテーブルをチェックすると、新しい列が表示され、テーブルに現在行が含まれていないことが通知されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8806,10 +8934,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now we have a spatial database we can make some spatial tables.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T042655Z" creationid="miurahr" creationdate="20201108T042655Z">
+        <seg>これで空間データベースが完成し、空間テーブルを作成できるようになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now we know how to draw points, lines and shapes, but we still haven’t defined what they represent.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075813Z" creationid="miurahr" creationdate="20201103T075729Z">
         <seg>ポイント、ライン、シェイプを描画する方法はわかりました。単にポイントを描いただけでは、そのポイントが何を表しているのか不明瞭なままです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now we'll show you how to make a map from QGIS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043358Z" creationid="miurahr" creationdate="20201108T043358Z">
+        <seg>では、QGISから地図を作る方法を説明しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9782,10 +9926,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PostGIS adds many functions with spatial functionality to PostgreSQL.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043139Z" creationid="miurahr" creationdate="20201108T043139Z">
+        <seg>PostGISはPostgreSQLに空間機能を持つ多くの関数を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PostGIS adds spatial capabilities to the PostgreSQL relational database.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T025634Z" creationid="miurahr" creationdate="20201108T025634Z">
         <seg>PostGISは、PostgreSQLリレーショナルデータベースに空間機能を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PostGIS geometry type is the first and still most popular type used by PostGIS users.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T042641Z" creationid="miurahr" creationdate="20201108T042641Z">
+        <seg>PostGISジオメトリタイプは、PostGISユーザが使用する最初の最も一般的なタイプです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10321,8 +10481,8 @@
       <tuv lang="en-US">
         <seg>Raster overview tables are used by tools such as QGIS to provide lower resolution versions of raster data for faster loading.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T042612Z" creationid="miurahr" creationdate="20201108T042612Z">
-        <seg>ラスター概要テーブルは、QGISなどのツールで使用され、ラスターデータの低解像度バージョンを提供して、読み込みを高速化します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T042632Z" creationid="miurahr" creationdate="20201108T042612Z">
+        <seg>ラスタデータ概要テーブルは、QGISなどのツールで使用され、ラスタデータの低解像度バージョンを提供して、読み込みを高速化します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11007,6 +11167,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Simple queries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043048Z" creationid="miurahr" creationdate="20201108T043048Z">
+        <seg>単純なクエリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Since we are still using autogenerated edge ids, our edge numbers are the same as our previous query, but the nodes are the osm node ids.</seg>
       </tuv>
       <tuv lang="ja">
@@ -11215,6 +11383,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Spatial queries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043120Z" creationid="miurahr" creationdate="20201108T043120Z">
+        <seg>空間クエリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spatial regression</seg>
       </tuv>
       <tuv lang="ja">
@@ -11299,6 +11475,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113717Z" creationid="miurahr" creationdate="20201103T113717Z">
         <seg>スタートQGIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start QGIS from the Desktop GIS menu and choose ``Add PostGIS layers`` from the layer menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043416Z" creationid="miurahr" creationdate="20201108T043416Z">
+        <seg>デスクトップGISメニューからQGISを起動し、レイヤメニューから``PostGISレイヤを追加``を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12399,6 +12583,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The parameters for connecting to the Natural Earth data in PostGIS are already defined in the Connections drop-down menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043441Z" creationid="miurahr" creationdate="20201108T043441Z">
+        <seg>PostGISでNatural Earthデータに接続するためのパラメータは、[接続]ドロップダウンメニューで既に定義されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The parsing / encoding technology is provided with bindings for many OGC standards including GML, Filter, KML, SLD, and SE.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012026Z" creationid="miurahr" creationdate="20201103T012026Z">
@@ -12935,6 +13127,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This gives us an encoded hexadecimal version of the coordinates, not so useful for humans.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043058Z" creationid="miurahr" creationdate="20201108T043058Z">
+        <seg>これにより、座標のエンコードされた16進数バージョンが得られますが、人間にとってはあまり有用ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This gives us the distance, in metres, between each pair of cities.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043157Z" creationid="miurahr" creationdate="20201108T043157Z">
+        <seg>これにより、都市間の距離がメートル単位でわかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This gives you a Unix shell command prompt.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041004Z" creationid="miurahr" creationdate="20201108T041004Z">
@@ -13087,6 +13295,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This table has three fields - one for a numeric ID identifying the city, one for the city name, and another for the geometry column:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T042728Z" creationid="miurahr" creationdate="20201108T042728Z">
+        <seg>このテーブルには3つのフィールドがあります。1つは都市を識別する数値ID用、1つは都市名用、もう1つはジオメトリ列用です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This tells PostGIS what kind of geometry each feature has (points, lines, polygons etc), how many dimensions (in this case 2, if it had 3 or 4 dimensions we would use POINTZ, POINTM, or POINTZM), and the spatial reference system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T042857Z" creationid="miurahr" creationdate="20201108T042857Z">
+        <seg>これにより、PostGISに、各フィーチャが持つジオメトリの種類(ポイント、ライン、ポリゴンなど)、寸法の数(この場合は2、寸法が3または4の場合はPOINTZ、POINTM、またはPOINTZMを使用)、および空間参照システムが通知されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This uses the OpenLayers map we created, and will be positioned in the 'center' region of our application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054228Z" creationid="miurahr" creationdate="20201103T054228Z">
@@ -13199,6 +13423,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To add rows to the table we use some SQL statements.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T042933Z" creationid="miurahr" creationdate="20201108T042933Z">
+        <seg>テーブルに行を追加するには、いくつかのSQL文を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To change settings open :menuselection:`Preferences --&gt; Keyboard Input Methods` from the main menu and click on the :guilabel:`Input Method` tab.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055016Z" creationid="miurahr" creationdate="20201103T055016Z">
@@ -13263,6 +13495,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To get the geometry into the geometry column we use the PostGIS ``ST_GeomFromText`` function to convert from a text format that gives the coordinates and a spatial reference system id:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043018Z" creationid="miurahr" creationdate="20201108T043018Z">
+        <seg>ジオメトリ列にジオメトリを取得するには、PostGISの``ST_GeomFromText``関数を使用して、座標と空間参照システムIDを与えるテキスト形式から変換します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To inspect the generated tiles type::</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052554Z" creationid="smellman" creationdate="20201103T052554Z">
@@ -13291,6 +13531,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>経路のジオメトリを出力するために、結果を道路のジオメトリにリンクさせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To produce a map from PostGIS data, you need a client that can get at the data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043341Z" creationid="miurahr" creationdate="20201108T043341Z">
+        <seg>PostGISデータからマップを作成するには、データを取得できるクライアントが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To quit PostgreSQL command line, enter:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043305Z" creationid="miurahr" creationdate="20201108T043305Z">
+        <seg>PostgreSQLコマンドラインを終了するには、次のように入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13395,6 +13651,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>データをモザイク化するには、gdalwarpまたはgdal_merge.pyを試してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try it without the 'WHERE' part and see what happens.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043255Z" creationid="miurahr" creationdate="20201108T043255Z">
+        <seg>'WHERE'の部分を外して試してみて、何が起こるか見てください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13603,6 +13867,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T080218Z" creationid="miurahr" creationdate="20201103T080218Z">
         <seg>描画ツールを使って、ポイント、ライン、シェイプを描いてみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the arrow keys to recall and edit command lines.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043028Z" creationid="miurahr" creationdate="20201108T043028Z">
+        <seg>矢印キーを使用して、コマンドラインを呼び出したり編集します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13911,6 +14183,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We can also compute the distance using a spheroid by using a different function and specifying the spheroid name, semi-major axis and inverse flattening parameters:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043302Z" creationid="miurahr" creationdate="20201108T043302Z">
+        <seg>また、別の関数を使用し、回転楕円体の名前、半長軸、および逆平坦化パラメータを指定して、回転楕円体を使用して距離を計算することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We can use this as a way to render the lakes differently.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022801Z" creationid="miurahr" creationdate="20201103T022801Z">
@@ -13963,6 +14243,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T015426Z" creationid="miurahr" creationdate="20201108T015426Z">
         <seg>**target**プロパティーを使用して、マップをレンダリングするDOM要素を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We used EPSG:4326 coordinates for our cities.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T042913Z" creationid="miurahr" creationdate="20201108T042913Z">
+        <seg>我々の都市には、EPSG:4326座標を使用しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14047,6 +14335,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We'll be focussing our attention on that type.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T042713Z" creationid="miurahr" creationdate="20201108T042644Z">
+        <seg>そのタイプに注目してみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We'll call our database ``demo``.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041702Z" creationid="miurahr" creationdate="20201108T041702Z">
@@ -14063,10 +14359,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We'll now use one to answer a practical question - how far are these three Londons away from each other, in metres, assuming a spherical earth?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043154Z" creationid="miurahr" creationdate="20201108T043154Z">
+        <seg>ここでは、球形の地球を仮定して、これら3つのロンドンが互いにどのくらい離れているのかという現実的な疑問に答えるために1つを使うことにしよう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We'll use the text editor FeatherPad installed on OSGeoLive to create a new HTML file at ``/var/www/html/geoext/demo.html``</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053911Z" creationid="miurahr" creationdate="20201103T053911Z">
         <seg>OSGeoLiveにインストールされているテキストエディタのFeatherPadを使って、``/var/www/html/geoext/demo.html`` に新しいHTMLファイルを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We've already seen ST_GeomFromText which converts WKT to geometry.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043144Z" creationid="miurahr" creationdate="20201108T043144Z">
+        <seg>WKTをジオメトリに変換するST_GeomFromTextについては、すでに説明しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14479,6 +14791,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You are now back to system console:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043333Z" creationid="miurahr" creationdate="20201108T043333Z">
+        <seg>システムコンソールに戻ります:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can add additional information by clicking these icons:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053357Z" creationid="miurahr" creationdate="20201103T053357Z">
@@ -14499,6 +14819,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051828Z" creationid="miurahr" creationdate="20201103T051828Z">
         <seg>**Custom**をクリックすると、独自のマップタイルを追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also use ST_X(geom), ST_Y(geom) to get the numeric value of the coordinates:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043116Z" creationid="miurahr" creationdate="20201108T043116Z">
+        <seg>ST_X(geom)、ST_Y(geom)を使用して、座標の数値を取得することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14547,6 +14875,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>システムのカスタマイズとアップデートが可能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can define new server connections here, and store the settings for easy recall.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043451Z" creationid="miurahr" creationdate="20201108T043451Z">
+        <seg>ここで新しいサーバ接続を定義し、簡単に呼び出せるように設定を保存できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14827,6 +15163,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053109Z" creationid="miurahr" creationdate="20201103T053109Z">
         <seg>シェイプのカラーは、割り当てるアトリビュートに応じて変化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will now get a list of the spatial tables in the database:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T043536Z" creationid="miurahr" creationdate="20201108T043536Z">
+        <seg>データベース内の空間テーブルのリストが表示されます:</seg>
       </tuv>
     </tu>
     <tu>
