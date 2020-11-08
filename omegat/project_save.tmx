@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Layers**</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T003926Z" creationid="miurahr" creationdate="20201108T003926Z">
+        <seg>**レイヤ**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Licence:**</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071353Z" creationid="miurahr" creationdate="20201103T071353Z">
@@ -666,6 +674,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051333Z" creationid="miurahr" creationdate="20201103T051333Z">
         <seg>OpenStreetMapアカウントを使用して**ログイン**します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Map**</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T004103Z" creationid="miurahr" creationdate="20201108T004103Z">
+        <seg>**マップ**</seg>
       </tuv>
     </tu>
     <tu>
@@ -1046,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Source**</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T004209Z" creationid="miurahr" creationdate="20201108T004209Z">
+        <seg>**ソース**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Spatial coordinate system:** Latitude-Longitude WGS84</seg>
       </tuv>
       <tuv lang="ja">
@@ -1422,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**View**</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T004011Z" creationid="miurahr" creationdate="20201108T004011Z">
+        <seg>**ビュー**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Website:**</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T063913Z" creationid="miurahr" creationdate="20201103T063913Z">
@@ -1786,6 +1818,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T080306Z" creationid="miurahr" creationdate="20201103T080306Z">
         <seg>*最初にサンプルデータを含むレイヤーを削除することが非常に重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Layers* can be added to the map in a stacked order.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T003921Z" creationid="miurahr" creationdate="20201108T003921Z">
+        <seg>*レイヤ*はスタック順にマップに追加できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3054,6 +3094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Before we start working with OpenLayers it helps to understand OpenLayers core concepts:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T003742Z" creationid="miurahr" creationdate="20201108T003437Z">
+        <seg>OpenLayersで作業を始める前に、OpenLayersの主な概念を理解しておくとよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Before you draw, you need to make sure that nothing is selected.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075519Z" creationid="miurahr" creationdate="20201103T073558Z">
@@ -3806,6 +3854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Core concepts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T003747Z" creationid="miurahr" creationdate="20201108T003414Z">
+        <seg>主な概念</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Country</seg>
       </tuv>
       <tuv lang="ja">
@@ -4518,6 +4574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each layer has a *source*, which knows how to load the layer content.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T004231Z" creationid="miurahr" creationdate="20201108T004231Z">
+        <seg>各レイヤには、レイヤコンテンツのロード方法を知っている*ソース*があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each object in a Mapfile starts with its name (for example **MAP**) and ends with an **END**.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021741Z" creationid="miurahr" creationdate="20201103T021741Z">
@@ -4850,6 +4914,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T062529Z" creationid="miurahr" creationdate="20201103T062529Z">
         <seg>UTMデータの場合、これは1cmの暗黙的な精度を意味するため、問題ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a *map* to render, a *view*, one or more *layers*, and a target container are needed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T004028Z" creationid="miurahr" creationdate="20201108T003726Z">
+        <seg>*マップ*をレンダリングするには、*ビュー*、1つまたは複数の*レイヤ*、およびターゲットコンテナが必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6422,6 +6494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the case of *vector layers*, its source reads vector data using a *format* class (for example GeoJSON or KML) and provides the layer with a set of *features*.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T004357Z" creationid="miurahr" creationdate="20201108T004357Z">
+        <seg>*ベクタレイヤ*の場合、そのソースは*フォーマット*クラス(例えばGeoJSONやKML)を使ってベクタデータを読み込み、一連の*機能*をレイヤに提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the image below, public GPS traces are shown in various colors, indicating the direction of travel.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051921Z" creationid="miurahr" creationdate="20201103T051921Z">
@@ -6894,6 +6974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is like a camera through which we look at the map's content.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T003936Z" creationid="miurahr" creationdate="20201108T003818Z">
+        <seg>これはマップの内容を見るためのカメラのようなものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is more powerful and complex than iD, can be used for bulk editing, off-line or on an unreliable Internet connection.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052249Z" creationid="miurahr" creationdate="20201102T052249Z">
@@ -6922,6 +7010,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T005933Z" creationid="miurahr" creationdate="20201103T005933Z">
         <seg>基金強化およびメインテナンスなどの様々な機関によってサポートされています。開発者とコントリビュータによって構成される MapServer Project Steering Committee として OSGeo のなかで運営されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is used to set the resolution, the center location, etc.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T003810Z" creationid="miurahr" creationdate="20201108T003810Z">
+        <seg>解像度や中心位置などを設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7314,6 +7410,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113744Z" creationid="miurahr" creationdate="20201103T113744Z">
         <seg>レイヤは、画面の左側にあるブラウザパネルを使用してQGISに追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Layers can be either *raster layers* (images), or *vector layers* (points/lines/polygons).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T004155Z" creationid="miurahr" creationdate="20201108T004155Z">
+        <seg>レイヤは、*ラスタレイヤ*(イメージ)または*ベクタレイヤ*(点/線分/ポリゴン)のいずれかです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11211,6 +11315,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>"コスト" パラメータは SQL 経由で動的に計算可能で、複数の列やテーブルからの値を使用することも可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The *map* is the core component of OpenLayers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T004052Z" creationid="miurahr" creationdate="20201108T003647Z">
+        <seg>*マップ*はOpenLayersの主要な要素です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The *view* determines how the map is rendered.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T003959Z" creationid="miurahr" creationdate="20201108T003806Z">
+        <seg>*ビュー*はmapのレンダリング方法を決定します。</seg>
       </tuv>
     </tu>
     <tu>
