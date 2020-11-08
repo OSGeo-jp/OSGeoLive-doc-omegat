@@ -41,3 +41,8 @@ Simple Feature	Simple Feature	OGC用語
 Grid Coverage	Grid Coverage	OGC用語
 Common Constraint Language	Common Constraint Language	OGC用語
 Web Feature Service	Web Feature Service	ＯＧＣ用語, WFS
+layer	レイヤ
+view	ビュー
+map	マップ
+raster layer	ラスタレイヤ
+vector layer	ベクタレイヤ
