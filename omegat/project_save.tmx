@@ -2336,8 +2336,8 @@
       <tuv lang="en-US">
         <seg>A map shows data contained within layers, so we have created a tiled layer, represented by the ``ol.layer.Tile`` class, that loads content from the OpenStreetMap project, using the ``ol.source.OSM`` source class.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T015633Z" creationid="miurahr" creationdate="20201108T015633Z">
-        <seg>レイヤ内にマップのデータを表示するため、「ol.source.OSM」ソースクラスを使用してOpenStreetMapプロジェクトからコンテンツをロードするようにしたタイルレイヤの「ol.layer.Tile」クラスを作成しました。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T021026Z" creationid="miurahr" creationdate="20201108T015633Z">
+        <seg>レイヤ内にマップのデータを表示するため、``ol.source.OSM``ソースクラスを使用してOpenStreetMapプロジェクトからコンテンツをロードするようにしたタイルレイヤの``ol.layer.Tile``クラスを作成しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2440,8 +2440,8 @@
       <tuv lang="en-US">
         <seg>A style is represented by the ``ol.style.Style`` class which has properties to set the ``fill``, ``stroke``, ``text`` and ``image`` to be applied.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T020258Z" creationid="miurahr" creationdate="20201108T020258Z">
-        <seg>スタイルは、「ol.style.Style」クラスによって表され、このクラスは、適用される「fill」、「stroke」、「text」および「image」を設定するプロパティを有する。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020714Z" creationid="miurahr" creationdate="20201108T020258Z">
+        <seg>スタイルは、``ol.style.Style``クラスによって表され、このクラスは、適用される``fill``、``stroke``、``text``および``image``を設定するプロパティを有する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2640,8 +2640,8 @@
       <tuv lang="en-US">
         <seg>Add them manually with the ``map.addLayer()`` method:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T015933Z" creationid="miurahr" creationdate="20201108T015933Z">
-        <seg>「map.addLayer()」メソッドを使って手動で追加します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020913Z" creationid="miurahr" creationdate="20201108T015933Z">
+        <seg>``map.addLayer()``メソッドを使って手動で追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4798,6 +4798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Events can be easily registered on an object with the ``on()`` method and unregistered with ``un()``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T021334Z" creationid="miurahr" creationdate="20201108T021334Z">
+        <seg>イベントは``on()``メソッドでオブジェクトに簡単に登録でき、``un()``で登録解除できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Examples are enumerations, controlled vocabularies, taxonomies, thesauri or, simply, ‘lists of things’.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T015215Z" creationid="miurahr" creationdate="20201103T015215Z">
@@ -4952,8 +4960,8 @@
       <tuv lang="en-US">
         <seg>Finally, we set the initial position of the *camera* using the ``ol.View`` class, set the initial zoom level and center location.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T015639Z" creationid="miurahr" creationdate="20201108T015639Z">
-        <seg>最後に、「ol.View」クラスを使用して*camera*の初期位置を設定し、初期ズームレベルと中心位置を設定します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T021011Z" creationid="miurahr" creationdate="20201108T015639Z">
+        <seg>最後に、``ol.View``クラスを使用して*camera*の初期位置を設定し、初期ズームレベルと中心位置を設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5082,6 +5090,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002314Z" creationid="miurahr" creationdate="20201103T002314Z">
         <seg>uDigは、オープン・ソース・コンポーネントを使用して空間アプリケーションを構築するための共通のJavaプラットフォームを開発者に提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example we can be notified each time the mouse is moved over the map, or when a feature is added to a vector layer, etc.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T021242Z" creationid="miurahr" creationdate="20201108T021242Z">
+        <seg>たとえば、マウスがマップ上を移動するたびに通知されたり、フィーチャがベクタレイヤに追加されるたびに通知されたりします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6624,8 +6640,8 @@
       <tuv lang="en-US">
         <seg>In the code, we have loaded a TopoJSON file and styled it through the ``style`` property.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T020548Z" creationid="miurahr" creationdate="20201108T020548Z">
-        <seg>このコードでは、TopoJSONファイルをロードし、「style」プロパティーを使ってスタイルを設定しています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020815Z" creationid="miurahr" creationdate="20201108T020548Z">
+        <seg>このコードでは、TopoJSONファイルをロードし、``style``プロパティーを使ってスタイルを設定しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7992,8 +8008,8 @@
       <tuv lang="en-US">
         <seg>Maps are represented by the ``ol.Map`` class.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T015421Z" creationid="miurahr" creationdate="20201108T015421Z">
-        <seg>マップは「ol.Map」クラスで表されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T021059Z" creationid="miurahr" creationdate="20201108T015421Z">
+        <seg>マップは``ol.Map``クラスで表されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8162,6 +8178,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>この 4〜5 年で製造されたマシンのほとんどは、この要件を満たしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most of the components, like map, layers or controls, trigger events to notify changes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T021200Z" creationid="miurahr" creationdate="20201108T021200Z">
+        <seg>ほとんどの(マップ、レイヤ、コントロールなどの)要素は、イベントをトリガして変更を通知します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8464,8 +8488,8 @@
       <tuv lang="en-US">
         <seg>Note, in the previous code we must change the ``url_to_file`` to point to a valid GeoJSON file placed in our server.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T020013Z" creationid="miurahr" creationdate="20201108T020013Z">
-        <seg>前のコードでは、サーバに置かれた有効なGeoJSONファイルを指すように「url_to_file」を変更する必要があることに注意してください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020830Z" creationid="miurahr" creationdate="20201108T020013Z">
+        <seg>前のコードでは、サーバに置かれた有効なGeoJSONファイルを指すように``url_to_file``を変更する必要があることに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10839,6 +10863,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sometimes the quickest way to work out how OpenLayers works is to look at examples and their source code.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T021507Z" creationid="miurahr" creationdate="20201108T021507Z">
+        <seg>OpenLayersの動作を理解するための最も簡単な方法は、サンプルとそのソースコードを調べることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sometimes you have to draw a polygon which does not only have an outer contour but also one or more inner contours.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053155Z" creationid="miurahr" creationdate="20201103T053155Z">
@@ -11943,6 +11975,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following code registers an event on a map instance, and will be notified each time the pointer is moved.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T021425Z" creationid="miurahr" creationdate="20201108T021420Z">
+        <seg>次のコードでは、マップのインスタンスにイベントを登録し、ポインタが移動するたびに通知されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The functionality can be accessed through a GUI, the command line or by using the C++ API.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T015627Z" creationid="miurahr" creationdate="20201103T015627Z">
@@ -12793,8 +12833,8 @@
       <tuv lang="en-US">
         <seg>Tiled layers are represented by the ``ol.layer.Tile`` class and must use a source that knows how to load tiles from a given provider, like ``ol.source.OSM`` or ``ol.source.Stamen``:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T015814Z" creationid="miurahr" creationdate="20201108T015814Z">
-        <seg>タイルレイヤーは「ol.layer.Tile」クラスで表され、「ol.source.OSM」または「ol.source.Stamen」のように、特定のプロバイダからタイルをロードする方法を知っているソースを使用する必要があります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020950Z" creationid="miurahr" creationdate="20201108T015814Z">
+        <seg>タイルレイヤーは``ol.layer.Tile``クラスで表され、``ol.source.OSM``または``ol.source.Stamen``のように、特定のプロバイダからタイルをロードする方法を知っているソースを使用する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13353,8 +13393,8 @@
       <tuv lang="en-US">
         <seg>Vector layers are represented by the ``ol.layer.Vector`` class and must use a source suitable for reading the vector format, like ``ol.source.GeoJSON``, ``ol.source.KML`` or ``ol.source.TopoJSON``.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T020006Z" creationid="miurahr" creationdate="20201108T020006Z">
-        <seg>ベクタレイヤは「ol.layer.Vector」クラスで表され、「ol.source.GeoJSON」、「ol.source.KML」、「ol.source.TopoJSON」など、ベクタフォーマットの読み込みに適したソースを使用する必要があります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020904Z" creationid="miurahr" creationdate="20201108T020006Z">
+        <seg>ベクタレイヤは``ol.layer.Vector``クラスで表され、``ol.source.GeoJSON``、``ol.source.KML``、``ol.source.TopoJSON``など、ベクタフォーマットの読み込みに適したソースを使用する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13537,8 +13577,8 @@
       <tuv lang="en-US">
         <seg>We have set a ``fill`` and ``stroke``, required for lines and polygons, and an ``image`` (in this case a circle) used for point features.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T020640Z" creationid="miurahr" creationdate="20201108T020640Z">
-        <seg>ラインとポリゴンに必要な``塗り潰し``と「ストローク」、およびポイントフィーチャに使用する「イメージ」(この場合は円)を設定しました。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020751Z" creationid="miurahr" creationdate="20201108T020640Z">
+        <seg>ラインとポリゴンに必要な``fill``と``stroke``、およびポイントフィーチャに使用する``image``(この場合は円)を設定しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13857,8 +13897,8 @@
       <tuv lang="en-US">
         <seg>When constructing the ``ol.Map``, use the ``layers`` property:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T015923Z" creationid="miurahr" creationdate="20201108T015923Z">
-        <seg>「ol.Map」を作成する場合は、「layers」プロパティを使用します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020929Z" creationid="miurahr" creationdate="20201108T015923Z">
+        <seg>``ol.Map``を作成する場合は、``layers``プロパティを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13959,6 +13999,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Within the callback function we obtain the pointer coordinates and print in the browser console in two different projections.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T021444Z" creationid="miurahr" creationdate="20201108T021444Z">
+        <seg>コールバック関数内では、ポインタの座標を取得し、ブラウザコンソールに2つの異なる投影法で出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Within these operations, the following filter operators are possible where applicable:</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T075527Z" creationid="sanak" creationdate="20201103T075527Z">
@@ -13987,6 +14035,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011959Z" creationid="miurahr" creationdate="20201103T011959Z">
         <seg>広範囲のマップ投影を使用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Work with events</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T021102Z" creationid="miurahr" creationdate="20201108T021102Z">
+        <seg>イベントの操作</seg>
       </tuv>
     </tu>
     <tu>
@@ -14123,6 +14179,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052143Z" creationid="miurahr" creationdate="20201103T052143Z">
         <seg>病院の名前、住所、その他の追加情報を入力できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can find more OpenLayers information here:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T021511Z" creationid="miurahr" creationdate="20201108T021511Z">
+        <seg>OpenLayersの詳細については、以下を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14463,6 +14527,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`API Docs &lt;../../openlayers/apidoc/&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T021534Z" creationid="miurahr" creationdate="20201108T021534Z">
+        <seg>`APIドキュメント &lt;../../openlayers/apidoc/&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`Actinia &lt;https://actinia.mundialis.de/&gt;`__ is an open source REST API for scalable, distributed, high performance processing of geographical data that uses `GRASS GIS &lt;https://grass.osgeo.org/&gt;`__ for computational tasks.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T061549Z" creationid="miurahr" creationdate="20201103T061549Z">
@@ -14475,6 +14547,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>`LAStools`_ に基づく LAS データを操作するための `コマンドラインユーティリティ`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`Examples &lt;../../openlayers/examples/&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T021525Z" creationid="miurahr" creationdate="20201108T021525Z">
+        <seg>`例 &lt;../../openlayers/examples/&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
