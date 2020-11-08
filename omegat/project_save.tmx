@@ -2438,6 +2438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A style is represented by the ``ol.style.Style`` class which has properties to set the ``fill``, ``stroke``, ``text`` and ``image`` to be applied.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020258Z" creationid="miurahr" creationdate="20201108T020258Z">
+        <seg>スタイルは、「ol.style.Style」クラスによって表され、このクラスは、適用される「fill」、「stroke」、「text」および「image」を設定するプロパティを有する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A wealth of information is available on our `Wiki site &lt;https://trac.osgeo.org/osgeolive/wiki&gt;`_, and a `bug and wish tracking system &lt;https://trac.osgeo.org/osgeolive/report/10&gt;`_ is also available.</seg>
       </tuv>
       <tuv lang="ja">
@@ -2614,10 +2622,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add raster layers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T015646Z" creationid="miurahr" creationdate="20201108T015646Z">
+        <seg>ラスタレイヤ追加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add source tag |image40|</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053503Z" creationid="miurahr" creationdate="20201103T053503Z">
         <seg>sourceタグの追加 |image40|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add them manually with the ``map.addLayer()`` method:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T015933Z" creationid="miurahr" creationdate="20201108T015933Z">
+        <seg>「map.addLayer()」メソッドを使って手動で追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add vector layers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T015941Z" creationid="miurahr" creationdate="20201108T015941Z">
+        <seg>ベクタレイヤを追加する</seg>
       </tuv>
     </tu>
     <tu>
@@ -2906,6 +2938,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>特定の用途向けアプリケーション:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply style to features</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020118Z" creationid="miurahr" creationdate="20201108T020118Z">
+        <seg>フィーチャにスタイルを適用する</seg>
       </tuv>
     </tu>
     <tu>
@@ -4886,10 +4926,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Features can also be created manually.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020115Z" creationid="miurahr" creationdate="20201108T020057Z">
+        <seg>フィーチャーは手動で作成することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Features within vector layers can be styled.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020127Z" creationid="miurahr" creationdate="20201108T020127Z">
+        <seg>ベクタレイヤ内のフィーチャにスタイルを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Files referencing the name of the featured city contain the same data as the above files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T051507Z" creationid="miurahr" creationdate="20201102T051507Z">
         <seg>対象都市名を参照するファイルには、上記のファイルと同じデータが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finally, we set the initial position of the *camera* using the ``ol.View`` class, set the initial zoom level and center location.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T015639Z" creationid="miurahr" creationdate="20201108T015639Z">
+        <seg>最後に、「ol.View」クラスを使用して*camera*の初期位置を設定し、初期ズームレベルと中心位置を設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6438,6 +6502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, a style can be applied to a layer, which determines the style of all contained features, or to an individual feature.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020207Z" creationid="miurahr" creationdate="20201108T020207Z">
+        <seg>さらに、レイヤにスタイルを適用して、含まれているすべてのフィーチャのスタイルを決定したり、個々のフィーチャにスタイルを適用することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, move to the "Shared Folders" section, and click the "Add folder" (green + icon on the right) to find a directory on your host computer that you wish to share inside the VM.</seg>
       </tuv>
       <tuv lang="ja">
@@ -6550,6 +6622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the code, we have loaded a TopoJSON file and styled it through the ``style`` property.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020548Z" creationid="miurahr" creationdate="20201108T020548Z">
+        <seg>このコードでは、TopoJSONファイルをロードし、「style」プロパティーを使ってスタイルを設定しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the image below, public GPS traces are shown in various colors, indicating the direction of travel.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051921Z" creationid="miurahr" creationdate="20201103T051921Z">
@@ -6562,6 +6642,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113455Z" creationid="miurahr" creationdate="20201103T113455Z">
         <seg>次の画面で、メモリを1024MBに設定します(下のスクリーンショットのように、ホストコンピュータのメモリが4GBを超える場合はそれ以上)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this case we need to create a geometry that represents the feature:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020111Z" creationid="miurahr" creationdate="20201108T020111Z">
+        <seg>この場合、フィーチャーを表すジオメトリを作成する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7462,6 +7550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Layers can be added to the map in two ways:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T015919Z" creationid="miurahr" creationdate="20201108T015919Z">
+        <seg>レイヤは、次の2つの方法でマップに追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Layers can be either *raster layers* (images), or *vector layers* (points/lines/polygons).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T004155Z" creationid="miurahr" creationdate="20201108T004155Z">
@@ -8326,6 +8422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note that Javascript security will prevent sourcing of datasets from an external URL on a different domain / port (a.k.a.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020026Z" creationid="miurahr" creationdate="20201108T020026Z">
+        <seg>Javascriptセキュリティでは、異なるドメイン/ポート上の外部URLからデータセットを取得することができないことに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note that each feature will have different options, depending on what tag you choose from the feature panel.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052148Z" creationid="miurahr" creationdate="20201103T052148Z">
@@ -8354,6 +8458,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T114056Z" creationid="miurahr" creationdate="20201103T114056Z">
         <seg>QGISを開くと、最近選択したプロジェクトのリストが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note, in the previous code we must change the ``url_to_file`` to point to a valid GeoJSON file placed in our server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020013Z" creationid="miurahr" creationdate="20201108T020013Z">
+        <seg>前のコードでは、サーバに置かれた有効なGeoJSONファイルを指すように「url_to_file」を変更する必要があることに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11935,10 +12047,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The most used raster layers are the tiled layers, provided by the likes of OpenStreetMap, Stamen, Bing, etc.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T015744Z" creationid="miurahr" creationdate="20201108T015744Z">
+        <seg>OpenStreetMap、Stamen、Bingなどによって提供されるタイルレイヤが、最も使用されるラスタレイヤです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The most visible aspect to OSM is the online web-tile interface from https://www.openstreetmap.org, but the maps can also be viewed, imported, or edited in many applications such as :doc:`QGIS &lt;qgis_overview&gt;` , :doc:`OpenLayers &lt;openlayers_overview&gt;`, ArcGIS and dedicated OSM applications.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OSMを最も目にする光景は、 https://www.openstreetmap.org のオンライン上でのウェブタイルによるインターフェイスです。しかしマップは、 :doc:`QGIS &lt;qgis_overview&gt;` や :doc:`OpenLayers &lt;openlayers_overview&gt;`, ArcGIS および 専用の OSM アプリケーションなどの、多くのアプリケーションで閲覧、インポート、編集が可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The next example shows the World's administrative limits dataset styled to use a green fill and stroke:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020422Z" creationid="miurahr" creationdate="20201108T020346Z">
+        <seg>次の例は、緑の塗りと線を使用するようにスタイル設定された世界の行政区界データセットを示しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12067,6 +12195,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054255Z" creationid="miurahr" creationdate="20201103T054255Z">
         <seg>このストアは、ツリー・パネルへの入力に使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The style is determined by a combination of fill, stroke, text  and image, which are all optional.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020250Z" creationid="miurahr" creationdate="20201108T020147Z">
+        <seg>スタイルは、塗り、線、テキスト、イメージの組み合わせによって決まります。これらはすべて任意の設定項目です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12655,6 +12791,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tiled layers are represented by the ``ol.layer.Tile`` class and must use a source that knows how to load tiles from a given provider, like ``ol.source.OSM`` or ``ol.source.Stamen``:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T015814Z" creationid="miurahr" creationdate="20201108T015814Z">
+        <seg>タイルレイヤーは「ol.layer.Tile」クラスで表され、「ol.source.OSM」または「ol.source.Stamen」のように、特定のプロバイダからタイルをロードする方法を知っているソースを使用する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tiles, Markers, Popups, Image overlays, WMS, GeoJSON</seg>
       </tuv>
       <tuv lang="ja">
@@ -13207,6 +13351,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Vector layers are represented by the ``ol.layer.Vector`` class and must use a source suitable for reading the vector format, like ``ol.source.GeoJSON``, ``ol.source.KML`` or ``ol.source.TopoJSON``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020006Z" creationid="miurahr" creationdate="20201108T020006Z">
+        <seg>ベクタレイヤは「ol.layer.Vector」クラスで表され、「ol.source.GeoJSON」、「ol.source.KML」、「ol.source.TopoJSON」など、ベクタフォーマットの読み込みに適したソースを使用する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Vector: WFS, KML, GeoJSON, TopoJSON, GPX, GML, and MapBox vector tiles.</seg>
       </tuv>
       <tuv lang="ja">
@@ -13379,6 +13531,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022801Z" creationid="miurahr" creationdate="20201103T022801Z">
         <seg>これを使って湖を違った形にレンダリングすることができます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We have set a ``fill`` and ``stroke``, required for lines and polygons, and an ``image`` (in this case a circle) used for point features.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020640Z" creationid="miurahr" creationdate="20201108T020640Z">
+        <seg>ラインとポリゴンに必要な``塗り潰し``と「ストローク」、およびポイントフィーチャに使用する「イメージ」(この場合は円)を設定しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13691,6 +13851,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T120323Z" creationid="miurahr" creationdate="20201103T120323Z">
         <seg>レイヤパネルでレイヤをオンにすると、マップフレームが更新されてレイヤが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When constructing the ``ol.Map``, use the ``layers`` property:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T015923Z" creationid="miurahr" creationdate="20201108T015923Z">
+        <seg>「ol.Map」を作成する場合は、「layers」プロパティを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15419,6 +15587,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>1つの MapProxy インスタンスで複数の WMS サービスを実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>same-origin policy).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T020048Z" creationid="miurahr" creationdate="20201108T020036Z">
+        <seg>(aka. 同一発信元ポリシー)。</seg>
       </tuv>
     </tu>
     <tu>
