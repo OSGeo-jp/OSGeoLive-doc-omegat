@@ -5198,6 +5198,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>EOxServer Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T141053Z" creationid="miurahr" creationdate="20201116T141053Z">
+        <seg>EOxServer クイックスタートt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EOxServer is a server for presenting big Earth Observation (EO) data archives and metadata via Open Standards.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T141535Z" creationid="miurahr" creationdate="20201116T141535Z">
+        <seg>EOxServerは、大規模な地球観測(EO)データアーカイブとメタデータをオープンスタンダードで提供するサーバです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ESRI Shape) into the database.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043905Z" creationid="miurahr" creationdate="20201108T043832Z">
@@ -9546,6 +9562,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041933Z" creationid="miurahr" creationdate="20201103T041933Z">
         <seg>詳細については</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More information and step-by-step tutorials about the INSPIRE workspace can be found in the deegree `documentation &lt;https://download.deegree.org/documentation/3.4.1/html/lightly.html#example-workspace-1-inspire-network-services&gt;`__.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T140908Z" creationid="miurahr" creationdate="20201116T140908Z">
+        <seg>INSPIRE作業フォルダに関する詳細情報と段階的なチュートリアルは、deegree`文書 &lt;https://download.deegree.org/documentation/3.4.1/html/lightly.html#example-workspace-1-inspire-network-services&gt;`__にあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14955,6 +14979,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is more information in the demo installations and on the deegree website.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T140945Z" creationid="miurahr" creationdate="20201116T140945Z">
+        <seg>詳細については、デモインストールとdeegree Webサイトを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There is no need for precalculation.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014251Z" creationid="miurahr" creationdate="20201103T014251Z">
@@ -15519,6 +15551,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T124549Z" creationid="miurahr" creationdate="20201116T124549Z">
         <seg>これは、EOxServer Web Clientの簡単な説明です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This was just a short introduction to the features of deegree 3.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T140927Z" creationid="miurahr" creationdate="20201116T140927Z">
+        <seg>これはdeegree3の機能を簡単に紹介したものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17611,6 +17651,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can pan through the map holding the left mouse button and drag the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T140800Z" creationid="miurahr" creationdate="20201116T140800Z">
+        <seg>マウスの左ボタンを押したままマップを移動し、マップをドラッグできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can return to the  homepage at any point by selecting the catalogue logo in the top left of the top toolbar.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133218Z" creationid="miurahr" creationdate="20201116T133218Z">
@@ -18031,6 +18079,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ズーム/パン アニメーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zooming is possible via mouse wheel or the navigation elements on the left side.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T140808Z" creationid="miurahr" creationdate="20201116T140808Z">
+        <seg>ズームは、マウスホイールまたは左側のナビゲーション要素を使用して可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18699,6 +18755,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>deegree online demo - Available here: https://www.deegree.org/demo/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T140951Z" creationid="miurahr" creationdate="20201116T140951Z">
+        <seg>deegreeオンラインデモ-利用可能:https://www.deegree.org/demo/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>deegree provides geospatial webservices based upon |OGC| and `INSPIRE Network Services &lt;https://inspire.ec.europa.eu&gt;`_ specifications.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042333Z" creationid="miurahr" creationdate="20201103T042333Z">
@@ -18711,6 +18775,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042336Z" creationid="miurahr" creationdate="20201103T042336Z">
         <seg>deegreeは以下をサポートしている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>deegree website - Available here: https://www.deegree.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T140956Z" creationid="miurahr" creationdate="20201116T140956Z">
+        <seg>deegree Webサイト-利用可能:https://www.deegree.org</seg>
       </tuv>
     </tu>
     <tu>
