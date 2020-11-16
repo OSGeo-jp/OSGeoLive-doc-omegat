@@ -2574,6 +2574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Access the catalog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133137Z" creationid="miurahr" creationdate="20201116T133137Z">
+        <seg>カタログへのアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Access to a large number of scientific modules via the Graphical User Interface or the command line</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020144Z" creationid="miurahr" creationdate="20201103T020144Z">
@@ -2754,6 +2762,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011126Z" creationid="miurahr" creationdate="20201103T011126Z">
         <seg>さらに、コミュニティが提供する100を超えるモジュールとツールボックスは、アドオンリポジトリから無償で利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additionally, you can use the funnel icons in the table header to further filter results, and use the triangle icons in the table header to sort results.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132531Z" creationid="miurahr" creationdate="20201116T132531Z">
+        <seg>さらに、テーブルヘッダーのファンネルアイコンを使用して結果をさらにフィルタしたり、テーブルヘッダーの三角形アイコンを使用して結果を並べ替えたりできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3906,6 +3922,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131739Z" creationid="miurahr" creationdate="20201116T131739Z">
         <seg>地図をクリックすると、関連情報が表示されます(利用可能な場合)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clicking the Print button in the dialog will generate a PDF printout that you can open or save.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132822Z" creationid="miurahr" creationdate="20201116T132822Z">
+        <seg>ダイアログの[印刷]ボタンをクリックすると、PDFの印刷出力が生成され、開いたり保存したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clicking the magnifying glass icon/parcel number will zoom you to the specific parcel as illustrated in the following screenshot.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132750Z" creationid="miurahr" creationdate="20201116T132750Z">
+        <seg>虫眼鏡アイコン/区画番号をクリックすると、次のスクリーンショットに示すように、特定の区画にズームします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5094,10 +5126,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter the username ``admin`` and password ``admin`` and select the blue **Sign in** button to sign in as the catalog administrator.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133414Z" creationid="miurahr" creationdate="20201116T133414Z">
+        <seg>ユーザー名``admin``とパスワード``admin``を入力し、青い**[サインイン]**ボタンを選択してカタログ管理者としてサインインします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter your **FieldPaper snapshot URL**, which will be something like this: http://fieldpapers.org/snapshots/cqhmf2v9#18/37.80593/-122.22715</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051840Z" creationid="miurahr" creationdate="20201103T051840Z">
         <seg>**FieldPaperのスナップショットURL**を入力します。次のようになります。http://fieldpapers.org/snapshots/cqhmf2v9#18/37.80593/-122.22715</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter your search parameters in the Super Tab then click the "Go!" button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132727Z" creationid="miurahr" creationdate="20201116T132727Z">
+        <seg>Super Tabに検索パラメータを入力し、[Go!]ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5290,6 +5338,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T051507Z" creationid="miurahr" creationdate="20201102T051507Z">
         <seg>対象都市名を参照するファイルには、上記のファイルと同じデータが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finally, click the "Go" button to actually select the features.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132503Z" creationid="miurahr" creationdate="20201116T132457Z">
+        <seg>最後に、[Go]ボタンをクリックして、地物を実際に選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5950,10 +6006,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GeoMoose Project home</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132831Z" creationid="miurahr" creationdate="20201116T132831Z">
+        <seg>GeoMooseプロジェクトのホーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GeoMoose Quickstart</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131907Z" creationid="miurahr" creationdate="20201116T131907Z">
         <seg>GeoMooseクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoMoose Tutorial</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132838Z" creationid="miurahr" creationdate="20201116T132838Z">
+        <seg>GeoMooseのチュートリアル</seg>
       </tuv>
     </tu>
     <tu>
@@ -5970,6 +6042,30 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131911Z" creationid="miurahr" creationdate="20201116T131911Z">
         <seg>GeoMooseは、分散型地図データを表示するためのブラウザベースのマッピングフレームワークです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoMoose will return a summary of what was selected in the Super Tab as well, highlight the selected features on the map, and show an attribute table of the selected features.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132517Z" creationid="miurahr" creationdate="20201116T132517Z">
+        <seg>GeoMooseは、スーパータブで選択されたものの概要も返し、マップ上で選択されたフィーチャを強調表示し、選択されたフィーチャの属性テーブルを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoNetwork Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132902Z" creationid="miurahr" creationdate="20201116T132902Z">
+        <seg>GeoNetworkクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoNetwork is a catalog application to manage spatially referenced resources.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132911Z" creationid="miurahr" creationdate="20201116T132911Z">
+        <seg>GeoNetworkは、空間的に参照されているリソースを管理するためのカタログアプリケーションです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6854,6 +6950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If not, refer to the `Installation Guide &lt;https://geonetwork-opensource.org/manuals/trunk/en/install-guide/index.html&gt;`__.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133122Z" creationid="miurahr" creationdate="20201116T133122Z">
+        <seg>そうでない場合は、`インストールガイド&lt;https://geonetwork-opensource.org/manuals/trunk/en/install-guide/index.html&gt;`__を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the active GRASS GIS session has identical location/mapset settings, then an alias can be used to avoid the persistent option in each single command call:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T123059Z" creationid="miurahr" creationdate="20201116T123059Z">
@@ -6962,6 +7066,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053343Z" creationid="miurahr" creationdate="20201103T053343Z">
         <seg>他のユーザが編集していたのと同時に同じフィーチャ(点、経路、または領域)を編集した場合は、**衝突**を解決するまで編集をアップロードできないという警告が表示されます。変更を受け入れてアップロードする編集を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you hover over a line in the table, the corresponding feature on the map will be highlighted.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132525Z" creationid="miurahr" creationdate="20201116T132525Z">
+        <seg>テーブルの上にカーソルを置くと、対応する地物が強調表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7310,6 +7422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the Web Services folder on the Desktop, double-click **start GeoNetwork**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133158Z" creationid="miurahr" creationdate="20201116T133158Z">
+        <seg>デスクトップのWeb Servicesフォルダで、**GeoNetworkを開始**をダブルクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the above example, we defined a Shared Folder path on the host system and named it "GIS" in the VM Settings.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113622Z" creationid="miurahr" creationdate="20201103T113622Z">
@@ -7362,6 +7482,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T044020Z" creationid="miurahr" creationdate="20201108T044020Z">
         <seg>パブリックアイテムには、データベースによって提供されるレイヤのリストがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the screenshot below, this is labelled  “My GeoNetwork catalogue” but it may have a different name and logo.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133355Z" creationid="miurahr" creationdate="20201116T133355Z">
+        <seg>下のスクリーンショットでは、これに「My GeoNetwork catalog」というラベルが付いていますが、名前とロゴが異なる場合があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7838,6 +7966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is currently used in numerous Spatial Data Infrastructure initiatives across the world.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132937Z" creationid="miurahr" creationdate="20201116T132937Z">
+        <seg>現在、世界中の多くのSpatial Data Infrastructureイニシアティブで使用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is easily extensible and suitable for both desktop and web development.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055257Z" creationid="miurahr" creationdate="20201103T055257Z">
@@ -7954,6 +8090,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012338Z" creationid="miurahr" creationdate="20201103T012338Z">
         <seg>JTS は2次元デカルト平面上の線形ジオメトリ処理のための、完全で、矛盾がなく、ロバスト(堅牢)な基本的アルゴリズムを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It provides powerful metadata editing and search functions as well as an interactive web map viewer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132916Z" creationid="miurahr" creationdate="20201116T132916Z">
+        <seg>強力なメタデータ編集と検索機能、およびインタラクティブなWebマップビューアを提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8554,6 +8698,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T072330Z" creationid="miurahr" creationdate="20201103T072330Z">
         <seg>サンプル(架空)マップをロードする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Load sample data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133427Z" creationid="miurahr" creationdate="20201116T133427Z">
+        <seg>サンプルデータを読み込み</seg>
       </tuv>
     </tu>
     <tu>
@@ -9430,6 +9582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note: not all layers can be used with the Select Features tool.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132442Z" creationid="miurahr" creationdate="20201116T132442Z">
+        <seg>注: 地物を選択ツールで使用できないレイヤもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Notice how the 'WHERE' part of the line stops us getting back distances of a city to itself (which will all be zero) or the reverse distances to the ones in the table above (London, England to London, Ontario is the same distance as London, Ontario to London, England).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043237Z" creationid="miurahr" creationdate="20201108T043237Z">
@@ -9962,6 +10122,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Proj.4 ライブラリ使用による、1000を超える投影法でのオンザフライ地図投影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once signed in, the top toolbar will change to include some additional elements, namely a link to the Admin console, the name of the signed in user, a link to Sign out, and a dropdown box for changing the interface language.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133423Z" creationid="miurahr" creationdate="20201116T133423Z">
+        <seg>サインインすると、上部のツールバーが変更され、管理コンソールへのリンク、サインインしたユーザの名前、サインアウトへのリンク、インターフェイス言語を変更するためのドロップダウンボックスなどの追加要素が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10830,6 +10998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Prerequisites</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132941Z" creationid="miurahr" creationdate="20201116T132941Z">
+        <seg>前提条件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Presentation</seg>
       </tuv>
       <tuv lang="ja">
@@ -10858,6 +11034,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>以前利用可能だったアプリケーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Print the map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132808Z" creationid="miurahr" creationdate="20201116T132808Z">
+        <seg>マップを印刷</seg>
       </tuv>
     </tu>
     <tu>
@@ -11795,6 +11979,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Search for features</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132547Z" creationid="miurahr" creationdate="20201116T132547Z">
+        <seg>地物を検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Searchable archives of the mailing list are hosted by `Nabble &lt;http://www.osgeo-org.1560.x6.nabble.com/OSGeoLive-f3777350.html&gt;`_.</seg>
       </tuv>
       <tuv lang="ja">
@@ -11847,6 +12039,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113756Z" creationid="miurahr" creationdate="20201103T113756Z">
         <seg>'ne_10m_admin_0_countries.shp'を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select **Admin console** in the top toolbar to access the administrative functions in the catalog, then select the blue **Metadata and templates** button to access the sample data and templates tab.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133452Z" creationid="miurahr" creationdate="20201116T133452Z">
+        <seg>トップツールバーの**管理コンソール**を選択してカタログ内の管理機能にアクセスし、青い**メタデータとテンプレート**ボタンを選択してサンプルデータとテンプレートタブにアクセスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select **Sign in** in the top right of the top toolbar in the homepage to visit the sign in page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133406Z" creationid="miurahr" creationdate="20201116T133406Z">
+        <seg>ホームページのトップツールバーの右上にある**サインイン**を選択して、サインインページを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12015,6 +12223,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ダイクストラ法による最短経路探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sign in</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133359Z" creationid="miurahr" creationdate="20201116T133359Z">
+        <seg>サインイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -13499,6 +13715,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following screenshot demonstrates a search of all parcel owners containing the name "frank".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132732Z" creationid="miurahr" creationdate="20201116T132732Z">
+        <seg>次のスクリーンショットは、「frank」という名前を含むすべての区画所有者の検索を示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The functionality can be accessed through a GUI, the command line or by using the C++ API.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T015627Z" creationid="miurahr" creationdate="20201103T015627Z">
@@ -13759,6 +13983,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T124543Z" creationid="miurahr" creationdate="20201116T124543Z">
         <seg>結果はダウンロードウィジェットに表示され、ダウンロードするフォーマット、投影、データセットを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The results can be downloaded as a CSV file using the download icon to the top and left of the table.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132541Z" creationid="miurahr" creationdate="20201116T132541Z">
+        <seg>結果は、テーブルの左上にあるダウンロードアイコンを使用してCSVファイルとしてダウンロードできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14307,6 +14539,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This guide assumes that you have Geonetwork installed and running, and know the URL so you can connect to it from your browser.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133113Z" creationid="miurahr" creationdate="20201116T133113Z">
+        <seg>このガイドでは、Geonetworkがインストールされ実行されており、ブラウザから接続できるようにURLがわかっていることを前提としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This includes data import and export to databases, sorting, cleaning, and creating data dumps.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052351Z" creationid="miurahr" creationdate="20201102T052351Z">
@@ -14395,6 +14635,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is only the first step on the road to using GeoMoose.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132826Z" creationid="miurahr" creationdate="20201116T132826Z">
+        <seg>これは、GeoMooseを使用するための最初のステップにすぎません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the same way that the internet works - your browser is a client and a web server sends back the web page.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T040802Z" creationid="miurahr" creationdate="20201108T040802Z">
@@ -14415,6 +14663,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013734Z" creationid="miurahr" creationdate="20201103T013734Z">
         <seg>この互換性により、異なるバージョンの S のコードを大きく変更することなく R で実行できるよう変換可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This next screenshot shows how the Print tool looks as provided with demo for GeoMoose.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132816Z" creationid="miurahr" creationdate="20201116T132816Z">
+        <seg>次のスクリーンショットは、GeoMooseのデモで提供されている印刷ツールの外観を示しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14539,6 +14795,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will be referred to throughout this document as the *homepage*.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133208Z" creationid="miurahr" creationdate="20201116T133208Z">
+        <seg>これは、このドキュメント全体で*ホームページ*と呼ばれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This will draw a single point.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075545Z" creationid="miurahr" creationdate="20201103T073630Z">
@@ -14563,6 +14827,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will open the Firefox web browser at the URL ``http://localhost:8880/geonetwork``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133204Z" creationid="miurahr" creationdate="20201116T133204Z">
+        <seg>これにより、URL``http://localhost:8880/geonetwork``でFirefox Webブラウザが開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This will show all the tags attached to the feature.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053620Z" creationid="miurahr" creationdate="20201103T053620Z">
@@ -14575,6 +14847,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>スレッドセーフ (再入可能な API の使用)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Three results appear in the list and are highlighted on the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132738Z" creationid="miurahr" creationdate="20201116T132738Z">
+        <seg>3つの結果が一覧に表示され、マップ上で強調表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Throughout this guide we will use the URL ``http://localhost:8880/geonetwork`` to refer to the catalog, please substitute a different URL if this is not correct for your system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133130Z" creationid="miurahr" creationdate="20201116T133130Z">
+        <seg>このガイド全体を通じて、URL``http://localhost:8880/geonetwork``を使用してカタログを参照します。システムに合わない場合は、別のURLに置き換えてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14647,6 +14935,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T042933Z" creationid="miurahr" creationdate="20201108T042933Z">
         <seg>テーブルに行を追加するには、いくつかのSQL文を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To be available for selection, a layer needs to be a vector layer and be configured for selection in the mapbook.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132452Z" creationid="miurahr" creationdate="20201116T132452Z">
+        <seg>選択可能にするには、レイヤがベクタレイヤであり、マップブックで選択するように設定されている必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14823,6 +15119,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132353Z" creationid="miurahr" creationdate="20201116T132353Z">
         <seg>開始するには、「Select Features」アイコン(マウスカーソルアイコン)をクリックし、ポイント、ライン、ポリゴンを選択して、マップで選択の描画を開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To start, hover over the "Search" menu in the toolbar and then click on the "Search Parcels" icon.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132804Z" creationid="miurahr" creationdate="20201116T132716Z">
+        <seg>開始するには、ツールバーの"検索"メニューにカーソルを置き、"区画検索"アイコンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16259,6 +16563,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can also search for features by attribute.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132557Z" creationid="miurahr" creationdate="20201116T132557Z">
+        <seg>地物を属性で検索することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can also select an area to display by clicking the magnifier icon and selecting the desired area (via rectangular select).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131644Z" creationid="miurahr" creationdate="20201116T131644Z">
@@ -16455,6 +16767,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051341Z" creationid="miurahr" creationdate="20201103T051341Z">
         <seg>マウスの左ボタンを押したままマップを目的の領域にドラッグすると、画面移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can return to the  homepage at any point by selecting the catalogue logo in the top left of the top toolbar.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133218Z" creationid="miurahr" creationdate="20201116T133218Z">
+        <seg>トップツールバーの左上に表示されているカタログロゴを選択すると、ホームページにいつでも戻ることができます。</seg>
       </tuv>
     </tu>
     <tu>
