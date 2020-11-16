@@ -2718,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add a layer from a NetCDF file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234407Z" creationid="miurahr" creationdate="20201116T234407Z">
+        <seg>NetCDFファイルからレイヤを追加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add a new layer</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142244Z" creationid="miurahr" creationdate="20201116T142244Z">
@@ -2854,6 +2862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adding the style to the layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234219Z" creationid="miurahr" creationdate="20201116T234219Z">
+        <seg>レイヤにスタイルを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional Geometry, Filter and Style parser/encoders available for DOM and SAX applications.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T063243Z" creationid="miurahr" creationdate="20201103T063243Z">
@@ -2938,6 +2954,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011128Z" creationid="miurahr" creationdate="20201103T011128Z">
         <seg>GRASS GISは、30年以上にわたって継続的に開発されてきたオープンソースGISの中で、最も長く維持され、かつ最大のものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After running "Start GeoServer"</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234445Z" creationid="miurahr" creationdate="20201116T234445Z">
+        <seg>"GeoServerの開始"の実行後</seg>
       </tuv>
     </tu>
     <tu>
@@ -3322,6 +3346,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>psql のプロンプトで、以下をタイプします:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the bottom of that page is a file upload box and a browse button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234041Z" creationid="miurahr" creationdate="20201116T234041Z">
+        <seg>このページの下部には、ファイルアップロードボックスと参照ボタンがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3814,6 +3846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change the :guilabel:`Default Style` box to the name of the style you uploaded in the previous section.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234306Z" creationid="miurahr" creationdate="20201116T234306Z">
+        <seg>:guilabel:`Default Style`ボックスを前のセクションでアップロードしたスタイルの名前に変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changing objects</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075137Z" creationid="miurahr" creationdate="20201103T072826Z">
@@ -4030,6 +4070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on :guilabel:`Add stores` then :guilabel:`NetCDF`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234604Z" creationid="miurahr" creationdate="20201116T234604Z">
+        <seg>:guilabel:`ストア追加`をクリックし、次に:guilabel:`NetCDF`をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on :guilabel:`Compute from data` and :guilabel:`Compute from native bounds` to fill in the Bounding Boxes.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231056Z" creationid="miurahr" creationdate="20201116T231006Z">
@@ -4102,6 +4150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the :guilabel:`Layers` link in the Menu on the left of the |GS| window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234236Z" creationid="miurahr" creationdate="20201116T234236Z">
+        <seg>|GS| ウィンドウの左側にあるメニューの:guilabel:`レイヤ`リンクをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the Select tool, in the column of buttons on the left.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075858Z" creationid="miurahr" creationdate="20201103T075858Z">
@@ -4122,6 +4178,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134749Z" creationid="miurahr" creationdate="20201116T134749Z">
         <seg>最後のアイコンをクリックして、イメージサービスの種類を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the layer (e.g. *ne_10m_land*), then select the :guilabel:`Publishing` tab.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234300Z" creationid="miurahr" creationdate="20201116T234300Z">
+        <seg>レイヤ(例:*ne_10m_land*)をクリックし、:guilabel:`Publishing`タブを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4270,10 +4334,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the upload link (next to the browse button) and a copy of the file appears in the editor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234134Z" creationid="miurahr" creationdate="20201116T234120Z">
+        <seg>アップロードリンク(参照ボタンの横)をクリックすると、ファイルの内容がエディタに表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click this link http://localhost:8012/example/0/0/0.png and observe the output in the server terminal window.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055651Z" creationid="miurahr" creationdate="20201103T055651Z">
         <seg>このリンク http://localhost:8012/example/0/0/0.png をクリックして、ターミナルウィンドウの出力を確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clicking browse to find the files you just saved.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234113Z" creationid="miurahr" creationdate="20201116T234113Z">
+        <seg>[参照ボタン] をクリックして、保存したファイルを検索します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4314,6 +4394,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T040733Z" creationid="miurahr" creationdate="20201108T040733Z">
         <seg>クライアント/サーバ・アーキテクチャ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clients for WMS layers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234342Z" creationid="miurahr" creationdate="20201116T234342Z">
+        <seg>WMSレイヤーのクライアント</seg>
       </tuv>
     </tu>
     <tu>
@@ -4442,6 +4530,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054036Z" creationid="miurahr" creationdate="20201103T054036Z">
         <seg>OpenLayersオブジェクトを設定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Configure a NetCDF store</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234433Z" creationid="miurahr" creationdate="20201116T234433Z">
+        <seg>NetCDFストアを設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -7678,6 +7774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you click on the validate button the highlighted lines will give you an error but you can safely ignore the error (or delete those lines as they don't do anything).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234128Z" creationid="miurahr" creationdate="20201116T234128Z">
+        <seg>妥当性検査ボタンをクリックすると、強調表示されたラインにエラーが表示されますが、エラーを無視しても安全です(または、何もしないラインを削除してもかまいません)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you have a mouse, you can use your scroll wheel to zoom in and out.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T074229Z" creationid="miurahr" creationdate="20201103T072418Z">
@@ -9590,6 +9694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Login as the administrator.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234454Z" creationid="miurahr" creationdate="20201116T234454Z">
+        <seg>管理者としてログインします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Look at the sample map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T074457Z" creationid="miurahr" creationdate="20201103T072427Z">
@@ -10562,6 +10674,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142550Z" creationid="miurahr" creationdate="20201116T142550Z">
         <seg>次に、[*ファイルを選択*]ボタンをクリックすると、ファイル選択ウィンドウが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now click :guilabel:`Save` and go to the Layer Preview page to check that it looks good.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234325Z" creationid="miurahr" creationdate="20201116T234325Z">
+        <seg>次に、:guilabel:`保存`をクリックし、レイヤプレビューページに移動して、外観が良いことを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12098,6 +12218,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>:guilabel:`Log in` ボタンをクリックします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press the :guilabel:`Submit` at the bottom of the page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234216Z" creationid="miurahr" creationdate="20201116T234216Z">
+        <seg>ページの下部にある:guilabel:`Submit`を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14467,6 +14595,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The GeoServer NetCDF plugin allows the publication of rasters from NetCDF files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234429Z" creationid="miurahr" creationdate="20201116T234412Z">
+        <seg>GeoServer NetCDFプラグインを使用すると、NetCDFファイルからラスターを発行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Geographic Resources Analysis Support System, commonly referred to as GRASS, is a Geographic Information System (GIS) providing powerful raster, vector, and geospatial processing engines in a single integrated software suite.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011059Z" creationid="miurahr" creationdate="20201103T011059Z">
@@ -15643,6 +15779,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The |WMS| layers you are serving from |GS| can be used with a variety of clients on this OSGeoLive distribution, including:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234358Z" creationid="miurahr" creationdate="20201116T234358Z">
+        <seg>|GS| から提供されているWMSレイヤは、このOSGeoLiveディストリビューションのさまざまなクライアントで使用できます。次のものがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thematic mapping using logical or regular expression-based classes</seg>
       </tuv>
       <tuv lang="ja">
@@ -15711,6 +15855,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T074514Z" creationid="miurahr" creationdate="20201103T072430Z">
         <seg>種類の違うオブジェクトがいくつか表示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are example style files for all of the example Natural Earth layers in :file:`/usr/local/share/geoserver`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234332Z" creationid="miurahr" creationdate="20201116T234332Z">
+        <seg>:file:`/usr/local/share/geoserver`には、すべてのNatural Earthサンプルレイヤのサンプルスタイルファイルがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19061,8 +19213,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You will now see the *admin page*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T150536Z" creationid="miurahr" creationdate="20201116T150536Z">
-        <seg>これで、*管理ページ*が表示されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234005Z" creationid="miurahr" creationdate="20201116T150536Z">
+        <seg>これで、*admin page*が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
