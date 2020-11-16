@@ -2862,6 +2862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, you can show or hide the streets-overlay and select the background layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T123308Z" creationid="miurahr" creationdate="20201116T123308Z">
+        <seg>また、通りのオーバーレイを表示または非表示にしたり、背景のレイヤを選択したりすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatively you can choose delete from the context menu of the layer.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T080335Z" creationid="miurahr" creationdate="20201103T080335Z">
@@ -6438,6 +6446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the active GRASS GIS session has identical location/mapset settings, then an alias can be used to avoid the persistent option in each single command call:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T123059Z" creationid="miurahr" creationdate="20201116T123059Z">
+        <seg>アクティブなGRASS GISセッションのロケーション/マップセット設定が同じである場合は、エイリアスを使用して、単一のコマンド呼び出しごとに永続的なオプションを回避できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the feature does not match a class the next class is checked.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022835Z" creationid="miurahr" creationdate="20201103T022835Z">
@@ -7918,6 +7934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let the Coordinate Reference System Selector default to (WGS 84 EPSG:4326) and hit ``OK``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T122833Z" creationid="miurahr" creationdate="20201116T122833Z">
+        <seg>座標参照系セレクタの既定値を(WGS 84 EPSG:4326)にして、``OK``を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's interact with the layer panel and change the visibility of some map layers.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T120342Z" creationid="miurahr" creationdate="20201103T120342Z">
@@ -9326,6 +9350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the bottom, you'll find the timeslider widget, that allows you to explore the contents in the temporal dimension.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T123253Z" creationid="miurahr" creationdate="20201116T123253Z">
+        <seg>下部にはタイムスライダウィジェットが表示され、時間次元のコンテンツを表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the left side of JOSM is a column of buttons.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075333Z" creationid="miurahr" creationdate="20201103T073505Z">
@@ -9346,6 +9378,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075936Z" creationid="miurahr" creationdate="20201103T075936Z">
         <seg>トップメニューに表示されている”プリセット”をクリックしてください。より詳細なメニューが表示されますので、地点に対して定義したい種別が表示されるまでマウスを移動させてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the top you can see a menu bar to show the Layer Selection and the Tools widgets.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T123240Z" creationid="miurahr" creationdate="20201116T123240Z">
+        <seg>上部には、レイヤ選択とツールウィジェットを表示するメニューバーが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9926,6 +9966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please note, that when you disable the "MER FRS 1P RGB reduced" layer, the timeslider widget is hidden and only reappears once a layer dataset layer is enabled.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T123320Z" creationid="miurahr" creationdate="20201116T123320Z">
+        <seg>"MER FRS1P RGB reduced"レイヤを無効にすると、タイムスライダウィジェットは非表示になり、レイヤデータセットレイヤが有効になると再表示されることに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Plug-ins for the ImageIO-EXT project allowing GeoTools to read additional raster formats from GDAL</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012108Z" creationid="miurahr" creationdate="20201103T012108Z">
@@ -10290,6 +10338,34 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T110638Z" creationid="smellman" creationdate="20201101T110638Z">
         <seg>プロジェクトの概要と概要の翻訳は、「Creative Commons Attribution3.0Unported License&lt;https://creativecommons.org/licenses/by/3.0/&gt;」の下で提供されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Project-Id-Version: OSGeoLive 14.0
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2020-10-21 10:22-0500
+PO-Revision-Date: 2018-06-09 16:37+0000
+Last-Translator: Ko Nagase &lt;nagase@georepublic.co.jp&gt;, 2019
+Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Language: ja
+Plural-Forms: nplurals=1; plural=0;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T122936Z" creationid="miurahr" creationdate="20201116T122936Z">
+        <seg>Project-Id-Version: OSGeoLive 14.0
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2020-10-21 10:22-0500
+PO-Revision-Date: 2018-06-09 16:37+0000
+Last-Translator: Ko Nagase &lt;nagase@georepublic.co.jp&gt;, 2019
+Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Language: ja 
+Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12143,6 +12219,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Layer Selection widget allows you to enable or disable the visibility and configure the rendering of the layers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T123258Z" creationid="miurahr" creationdate="20201116T123258Z">
+        <seg>レイヤ選択ウィジェットを使用すると、表示/非表示を切り替えたり、レイヤーのレンダリングを設定したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Learn OSM guide at the link above shows step by step how to navigate the OpenStreetMap website, view and print maps, and sign up for a user account.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052203Z" creationid="miurahr" creationdate="20201102T052203Z">
@@ -12303,6 +12387,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Tools widget provides three different tools: the Bounding Box Selection Tool, the Selection Management Tool and the Download Tool.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T123720Z" creationid="miurahr" creationdate="20201116T123720Z">
+        <seg>ツールウィジェットには、境界ボックス選択ツール、選択管理ツール、ダウンロードツールの3つの異なるツールが用意されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `-outsize` switch can be used to set the size of the output file.</seg>
       </tuv>
       <tuv lang="ja">
@@ -12455,6 +12547,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The client provides a set of interactions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T123233Z" creationid="miurahr" creationdate="20201116T123233Z">
+        <seg>クライアントは一連の操作を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The clients can either be PCs or mobile devices.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014237Z" creationid="miurahr" creationdate="20201103T014237Z">
@@ -12523,6 +12623,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055551Z" creationid="miurahr" creationdate="20201103T055539Z">
         <seg>このデモでは、Mapnik用に設計された`TileStache`と呼ばれるtileserverを使っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The demonstration instance is filled with ENVISAT MERIS scenes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T123218Z" creationid="miurahr" creationdate="20201116T123218Z">
+        <seg>デモインスタンスはENVISAT MERISのシーンで構成されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12667,6 +12775,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041253Z" creationid="miurahr" creationdate="20201108T041234Z">
         <seg>このリストでは標準的なUNIXのページャの使いかたを示します - スペースで次のページ、:kbd:`b`は戻る、:kbd:`q`は終了、hはヘルプを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The main area is the map widget of the client with a set of datasets already displayed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T123247Z" creationid="miurahr" creationdate="20201116T123247Z">
+        <seg>主な領域は、クライアントのマップウィジェットで、一連のデータセットがすでに表示されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13459,6 +13575,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075545Z" creationid="miurahr" creationdate="20201103T073630Z">
         <seg>単一の地点が1つ描画されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will launch the default browser which will navigate to the correct location automatically.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T123138Z" creationid="miurahr" creationdate="20201116T123138Z">
+        <seg>これにより既定のブラウザが起動し、自動的に正しい場所に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14763,6 +14887,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075949Z" creationid="miurahr" creationdate="20201103T075949Z">
         <seg>プリセットをクリックすると、詳細な情報入力を促すポップアップが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you click on the Print tool, a dialog appears which asks for a title for the printed map, the page size and rotation, printed resolution, and shows a preview of what will be printed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T123150Z" creationid="miurahr" creationdate="20201116T123150Z">
+        <seg>印刷ツールをクリックすると、ダイアログが表示され、印刷されるマップのタイトル、ページサイズと回転、印刷解像度、印刷内容のプレビューが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
