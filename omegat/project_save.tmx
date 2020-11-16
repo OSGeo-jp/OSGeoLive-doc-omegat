@@ -2702,6 +2702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add a new layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142244Z" creationid="miurahr" creationdate="20201116T142244Z">
+        <seg>新しいレイヤを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add a new layer to the Mapfile to serve a local Shapefile</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022338Z" creationid="miurahr" creationdate="20201103T022338Z">
@@ -3590,6 +3598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But, without being logged in, you are limited to read-only access of public layers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142103Z" creationid="miurahr" creationdate="20201116T142103Z">
+        <seg>しかし、ログインしていないと、パブリックレイヤーへの読み取り専用アクセスに制限されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By clicking on the dot, the map automatically zooms to the extent of the dataset.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T123846Z" creationid="miurahr" creationdate="20201116T123846Z">
@@ -3778,6 +3794,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135114Z" creationid="miurahr" creationdate="20201116T135114Z">
         <seg>:menuselection:`Geospatial--&gt;Web Services--&gt;deegree`メニューから*'deegreeを開始'*を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose :menuselection:`Geospatial --&gt; Web Services --&gt; EOxServer`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T141628Z" creationid="miurahr" creationdate="20201116T141628Z">
+        <seg>メニューから:menuselection:`Geospatial--&gt;Web Services--&gt;EOxServer`を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4038,10 +4062,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click that link, and in the dialog that displays, fill in the user credentials.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142236Z" creationid="miurahr" creationdate="20201116T142236Z">
+        <seg>そのリンクをクリックし、表示されるダイアログでユーザー認証情報を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the **Background settings** button or use the *shortcut key* **b**.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051435Z" creationid="miurahr" creationdate="20201103T051435Z">
         <seg>**背景設定**ボタンをクリックするか、*ショートカットキー***b**を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the **Web Client** link to open the integrated EOxServer client.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T141800Z" creationid="miurahr" creationdate="20201116T141800Z">
+        <seg>**Web Client**リンクをクリックして、統合されたEOxServerクライアントを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5974,6 +6014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From any page in the web interface, you will see a *Sign in* link on the top-right of the page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142113Z" creationid="miurahr" creationdate="20201116T142113Z">
+        <seg>Webインターフェイスの任意のページから、ページの右上に[*サインイン*]リンクが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From the **Search tab**, click on the card for **Physiographic Map of North and Central Eurasia (Sample record, please remove!)** to view the metadata.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134100Z" creationid="miurahr" creationdate="20201116T134100Z">
@@ -6010,6 +6058,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T072323Z" creationid="miurahr" creationdate="20201103T072323Z">
         <seg>デスクトップから:menuselection:`Navigation and Maps--&gt;JOSM`を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the interface shown above, one can view and modify existing spatial layers and maps, as well as find information on other GeoNode users.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142059Z" creationid="miurahr" creationdate="20201116T142059Z">
+        <seg>上記のインターフェイスから、既存の空間レイヤとマップをビューおよび変更したり、他のGeoNodeユーザに関する情報を検索したりできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6370,6 +6426,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132911Z" creationid="miurahr" creationdate="20201116T132911Z">
         <seg>GeoNetworkは、空間的に参照されているリソースを管理するためのカタログアプリケーションです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoNode Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142019Z" creationid="miurahr" creationdate="20201116T142019Z">
+        <seg>GeoNodeクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoNode is a web-based application and platform for developing geospatial information systems (GIS) and for deploying spatial data infrastructures (SDI).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142032Z" creationid="miurahr" creationdate="20201116T142032Z">
+        <seg>GeoNodeは、地理空間情報システム(GIS)の開発および空間データインフラストラクチャ(SDI)の展開のためのWebベースのアプリケーションおよびプラットフォームです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7678,6 +7750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In order to create a map and add layers to it, you have to sign in first.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142108Z" creationid="miurahr" creationdate="20201116T142108Z">
+        <seg>マップを作成してレイヤを追加するには、最初にサインインする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In our "ne_10m_lakes" dataset, we have a *ScaleRank* attribute, which seems to be related to the size of the lakes.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022810Z" creationid="miurahr" creationdate="20201103T022810Z">
@@ -8186,6 +8266,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022825Z" creationid="miurahr" creationdate="20201103T022825Z">
         <seg>基本的には、MapServerに対して、「0」または「1」に等しい「ScaleRank」プロパティを持つ要素を黒いアウトラインで描画するように指示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It builds upon an Open Source stack of software which includes Python, :doc:`MapServer &lt;../overview/mapserver_overview&gt;`, Django/GeoDjango, :doc:`GDAL &lt;../overview/gdal_overview&gt;`, PROJ.4 and a :doc:`SpatiaLite &lt;../overview/spatialite_overview&gt;` or :doc:`PostGIS &lt;../overview/postgis_overview&gt;` database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T141559Z" creationid="miurahr" creationdate="20201116T141559Z">
+        <seg>これは、Python、:doc:`MapServer&lt;./overview/mapserver_overview&gt;`、Django/GeoDjango、:doc:`GDAL&lt;./overview/gdal_overview&gt;`、PROJ.4および:doc:`Spatialite&lt;./overview/spatialite_overview&gt;`または:doc:`PostGIS&lt;./overview/postgis_overview&gt;`データベースを含むソフトウェアのオープンソーススタック上に構築されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8858,6 +8946,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>レイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Layers also can be associated with metadata, ratings, and comments.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142410Z" creationid="miurahr" creationdate="20201116T142410Z">
+        <seg>レイヤーはメタデータ、評価、コメントに関連付けることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Layers are a published resource representing a raster or vector spatial data source.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142248Z" creationid="miurahr" creationdate="20201116T142248Z">
+        <seg>レイヤーは、ラスタまたはベクタ空間データソースを表すパブリッシュされたリソースです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10658,6 +10762,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T114051Z" creationid="miurahr" creationdate="20201103T114044Z">
         <seg>QGISを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Source Geospatial Content Management System</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142025Z" creationid="miurahr" creationdate="20201116T142025Z">
+        <seg>オープンソース地理空間コンテンツ管理システム</seg>
       </tuv>
     </tu>
     <tu>
@@ -12787,6 +12899,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sign in as a registered user</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142053Z" creationid="miurahr" creationdate="20201116T142053Z">
+        <seg>登録ユーザーとしてサインイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Similar to a map, you can zoom and pan the currently visible time of interest and select a time of interest by drawing on the area containing the red dots.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T123729Z" creationid="miurahr" creationdate="20201116T123729Z">
@@ -13123,10 +13243,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start EoxServer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T141622Z" creationid="miurahr" creationdate="20201116T141622Z">
+        <seg>EoxServerを起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start GeoMoose</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131930Z" creationid="miurahr" creationdate="20201116T131930Z">
         <seg>GeoMooseを開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start GeoNode</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142035Z" creationid="miurahr" creationdate="20201116T142035Z">
+        <seg>GeoNodeを起動</seg>
       </tuv>
     </tu>
     <tu>
@@ -14579,6 +14715,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The page will look like the image below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142050Z" creationid="miurahr" creationdate="20201116T142050Z">
+        <seg>ページは次のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The panel on the left will show the upload panel.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053335Z" creationid="miurahr" creationdate="20201103T053335Z">
@@ -15403,6 +15547,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This launches a browser showing the demonstration instance available at http://localhost/eoxserver/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T141633Z" creationid="miurahr" creationdate="20201116T141633Z">
+        <seg>これによりブラウザが起動し、http://localhost/eoxserver/で利用可能なデモインスタンスが表示されます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This legend gives you an overview of all the layers currently loaded into the application, with the option to turn them on or off.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131702Z" creationid="miurahr" creationdate="20201116T131702Z">
@@ -15915,10 +16067,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To see existing layers, from the navigation bar on the top of any page, select *Data* menu and click on the *Layers* link.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142502Z" creationid="miurahr" creationdate="20201116T142502Z">
+        <seg>既存のレイヤーを表示するには、ページの最上部にあるナビゲーションバーから[*データ*]メニューを選択し、[*レイヤー*]リンクをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To select an object, click on it with your left mouse button.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T074538Z" creationid="miurahr" creationdate="20201103T072437Z">
         <seg>オブジェクトを選択するには、対象を左クリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To start GeoNode on your OSGeoLive DVD you have to choose :menuselection:`Geospatial --&gt; Browser Clients --&gt; GeoNode --&gt; Start GeoNode` and after a few moments the GeoNode webpage will automatically open at http://geonode.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142047Z" creationid="miurahr" creationdate="20201116T142047Z">
+        <seg>OSGeoLive DVD上でGeoNodeを起動するには、:menuselection:`Geospatial--&gt;Browser Clients--&gt;GeoNode--&gt;Start GeoNode`を選択する必要があります。しばらくすると、GeoNodeのWebページがhttp://geonodeで自動的に開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16039,6 +16207,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ラベリングとシンボル描画のための TrueType フォントサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try "admin" and "admin" for the Username and Password.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142241Z" creationid="miurahr" creationdate="20201116T142241Z">
+        <seg>ユーザー名とパスワードに「admin」と「admin」を使用してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16307,10 +16483,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the Admin Client to inspect EO data archives</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T141618Z" creationid="miurahr" creationdate="20201116T141618Z">
+        <seg>管理クライアントを使用してEOデータアーカイブを検査</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the Draw tool to create points, lines, and shapes.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T080218Z" creationid="miurahr" creationdate="20201103T080218Z">
         <seg>描画ツールを使って、ポイント、ライン、シェイプを描いてみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the Web Client to view, filter, subset, and download EO data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T141607Z" creationid="miurahr" creationdate="20201116T141607Z">
+        <seg>Web Clientを使用して、EOデータをビュー、フィルタリング、サブセット、ダウンロード</seg>
       </tuv>
     </tu>
     <tu>
@@ -17275,6 +17467,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Within this client you can explore the contents of the EOxServer instance.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T141806Z" creationid="miurahr" creationdate="20201116T141806Z">
+        <seg>このクライアントでは、EOxServerインスタンスの内容を表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Work with GeoExt components</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054159Z" creationid="miurahr" creationdate="20201103T054159Z">
@@ -17319,6 +17519,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T124623Z" creationid="miurahr" creationdate="20201116T124623Z">
         <seg>管理クライアントとの連携</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Work with the Web Client</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T141752Z" creationid="miurahr" creationdate="20201116T141752Z">
+        <seg>Web Clientの操作</seg>
       </tuv>
     </tu>
     <tu>
