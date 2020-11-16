@@ -3934,6 +3934,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click *Done* next to the *Add Layers* button to see the legend of your map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T145113Z" creationid="miurahr" creationdate="20201116T145113Z">
+        <seg>*Add Layers*ボタンの横の*Done*をクリックして、マップの凡例を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click *Save*.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T144811Z" creationid="miurahr" creationdate="20201116T144811Z">
+        <seg>*保存*をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click :menuselection:`Desktop --&gt; Spatial Tools --&gt; Start Mapnik &amp; TileStache`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055615Z" creationid="miurahr" creationdate="20201103T055615Z">
@@ -4138,6 +4154,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142948Z" creationid="miurahr" creationdate="20201116T142948Z">
         <seg>[*Maps*]ツールバーの[*Explore Maps*]リンクをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the *Map* button in the toolbar, and then click *Publish Map*.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T145405Z" creationid="miurahr" creationdate="20201116T145405Z">
+        <seg>ツールバーの *Map*ボタンをクリックし、*Publish Map*をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5482,6 +5506,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>イメージに OSGeo-Live のような名前を付け、"Operating System" に Linux、"Version" に Ubuntu を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter a title and abstract for your map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T144806Z" creationid="miurahr" creationdate="20201116T144806Z">
+        <seg>マップのタイトルと要約を入力してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7590,6 +7622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you open this link in a new window, your map will appear exactly as it was saved.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T145040Z" creationid="miurahr" creationdate="20201116T145040Z">
+        <seg>このリンクを新しいウィンドウで開くと、マップは保存された状態で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you really feel something should be deleted, consider asking the original mapper or one of the OSM email lists about it first.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053045Z" creationid="miurahr" creationdate="20201103T053045Z">
@@ -9374,6 +9414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make any final adjustments to the map composition as desired, including zoom and pan settings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T145340Z" creationid="miurahr" creationdate="20201116T145340Z">
+        <seg>ズームやパンの設定など、必要に応じてマップの構成を最終的に調整します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make the location to save the project '/home/user/desktop'.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113918Z" creationid="miurahr" creationdate="20201103T113918Z">
@@ -10286,6 +10334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Notice that the link on the top right of the page changed to reflect the map's name.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T145030Z" creationid="miurahr" creationdate="20201116T145030Z">
+        <seg>ページの右上のリンクが、マップの名前を反映するように変更されていることに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Notice the panel on the left.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052523Z" creationid="miurahr" creationdate="20201103T052523Z">
@@ -10354,6 +10410,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T042924Z" creationid="miurahr" creationdate="20201108T042924Z">
         <seg>citiesテーブルをチェックすると、新しい列が表示され、テーブルに現在行が含まれていないことが通知されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now let's finish our map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T145120Z" creationid="miurahr" creationdate="20201116T145120Z">
+        <seg>次に、マップを終了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12499,6 +12563,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right click on the *USA Population* layer and select *Zoom to layer extend*</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T145138Z" creationid="miurahr" creationdate="20201116T145138Z">
+        <seg>*USA Population*レイヤを右クリックして、 *Zoom to layer extend*を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Roads, rails, urban polygons, parks and protected areas, Pacific nation groups, and water boundary indicators round out the cultural offerings.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012716Z" creationid="miurahr" creationdate="20201103T012522Z">
@@ -13047,6 +13119,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T072818Z" creationid="miurahr" creationdate="20201103T072818Z">
         <seg>シェイプ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Share your map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T145116Z" creationid="miurahr" creationdate="20201116T145116Z">
+        <seg>あなたのマップを共有</seg>
       </tuv>
     </tu>
     <tu>
@@ -15139,6 +15219,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The title and abstract as previously created should still be there.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T145448Z" creationid="miurahr" creationdate="20201116T145448Z">
+        <seg>前に作成したタイトルと要約が残っているはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The tools are as follows:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134220Z" creationid="miurahr" creationdate="20201116T134220Z">
@@ -15771,6 +15859,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This link contains a permalink to your map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T145034Z" creationid="miurahr" creationdate="20201116T145034Z">
+        <seg>このリンクには、マップへのパーマリンクが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This makes it possible to convert different versions of S code to run on R without major code modifications.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013734Z" creationid="miurahr" creationdate="20201103T013734Z">
@@ -16311,6 +16407,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043305Z" creationid="miurahr" creationdate="20201108T043305Z">
         <seg>PostgreSQLコマンドラインを終了するには、次のように入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To save the map click on the *Map* button in the toolbar, and select *Save Map*.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T144802Z" creationid="miurahr" creationdate="20201116T144802Z">
+        <seg>マップを保存するには、ツールバーの*Map* ボタンをクリックし、 *Save Map*を選択します。</seg>
       </tuv>
     </tu>
     <tu>
