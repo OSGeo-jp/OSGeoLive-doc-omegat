@@ -3358,6 +3358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By clicking on the dot, the map automatically zooms to the extent of the dataset.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T123846Z" creationid="miurahr" creationdate="20201116T123846Z">
+        <seg>点をクリックすると、マップは自動的にデータセットの範囲にズームします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By combining these rules with OGC Filters scale dependent styling can be implemented allowing more detail to be added as a user zooms in.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011608Z" creationid="miurahr" creationdate="20201103T011608Z">
@@ -11347,6 +11355,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Similar to a map, you can zoom and pan the currently visible time of interest and select a time of interest by drawing on the area containing the red dots.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T123729Z" creationid="miurahr" creationdate="20201116T123729Z">
+        <seg>マップと同様に、現在表示されている注視点をズームおよびパンしたり、赤い点を含む領域を描画して注視点を選択したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Similar to the layer tree store and tree panel, we create a ``GeoExt.data.store.Features`` store and a grid panel.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054528Z" creationid="miurahr" creationdate="20201103T054528Z">
@@ -14859,6 +14875,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the Bounding Box Tool is enabled, you can draw a bounding box directly on the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T124522Z" creationid="miurahr" creationdate="20201116T124522Z">
+        <seg>境界ボックスツールを有効にすると、境界ボックスを直接地図上に描画できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you are editing an object, you will see a strip of icons at the bottom of the attribute panel.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053354Z" creationid="miurahr" creationdate="20201103T053354Z">
@@ -15095,6 +15119,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051828Z" creationid="miurahr" creationdate="20201103T051828Z">
         <seg>**Custom**をクリックすると、独自のマップタイルを追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also hover on a dot to see the dataset ID.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T123735Z" creationid="miurahr" creationdate="20201116T123735Z">
+        <seg>点の上にカーソルを置くと、データセットIDを表示することもできます。</seg>
       </tuv>
     </tu>
     <tu>
