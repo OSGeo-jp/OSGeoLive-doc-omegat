@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Optional) Installing GeoStyler</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235106Z" creationid="miurahr" creationdate="20201116T235106Z">
+        <seg>(オプション)GeoStylerのインストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Requires an internet connection).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054911Z" creationid="miurahr" creationdate="20201103T054911Z">
@@ -2350,6 +2358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A complete beginner tutorial can be found on `localhost/geostyler &lt;localhost/geostyler&gt;`__.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235051Z" creationid="miurahr" creationdate="20201116T235051Z">
+        <seg>完全な初心者向けチュートリアルは、`localhost/geostyler&lt;localhost/geostyler&gt;`__にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A complete list of the available objects and properties a Mapfile can have can be found in the `MapServer documentation page &lt;https://mapserver.org/mapfile/index.html&gt;`_.</seg>
       </tuv>
       <tuv lang="ja">
@@ -2950,6 +2966,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After defining ``myStyle`` as a state variable, you can use it as follows:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235417Z" creationid="miurahr" creationdate="20201116T235417Z">
+        <seg>``myStyle``を状態変数として定義すると、次のように使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After importing, you can use it in your render method like this:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235341Z" creationid="miurahr" creationdate="20201116T235341Z">
+        <seg>インポート後、レンダリングメソッドで次のように使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After more than 30 years of continuous development GRASS GIS is both the longest maintained and largest Open Source GIS available.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011128Z" creationid="miurahr" creationdate="20201103T011128Z">
@@ -2986,6 +3018,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052209Z" creationid="miurahr" creationdate="20201102T052209Z">
         <seg>独自のユーザー名とパスワードを入力すると、地図に最初のポイントを追加したり、街路調査の方法を学習したり、航空画像を操作したりできるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Afterwards, we are able to read an existing SLD into the GeoStyler-readable format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235406Z" creationid="miurahr" creationdate="20201116T235406Z">
+        <seg>その後、既存のSLDをGeoStylerで読み取り可能な形式で読み込むことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3266,6 +3306,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T044241Z" creationid="sanak" creationdate="20201103T044241Z">
         <seg>ライブラリとして、サポートしている全てのフォーマットについて、アプリケーション呼び出しのための単一抽象データモデルを提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As a next step, you can try to add an OpenLayers map and connect the ``Style`` component to the map, so that you can directly see the changes you made on the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235444Z" creationid="miurahr" creationdate="20201116T235444Z">
+        <seg>次のステップとして、OpenLayersマップを追加し、``Style``コンポーネントをマップに接続して、マップ上で行った変更を直接見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3862,6 +3910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Check out these other resources about this application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235452Z" creationid="miurahr" creationdate="20201116T235452Z">
+        <seg>このアプリケーションに関する他のリソースを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Check that the server is working by requesting a tile from the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055626Z" creationid="miurahr" creationdate="20201103T055626Z">
@@ -4354,6 +4410,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T234113Z" creationid="miurahr" creationdate="20201116T234113Z">
         <seg>[参照ボタン] をクリックして、保存したファイルを検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clicking on points will cause the value of "Ozone_concentration" to be shown in a table at the bottom of the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234855Z" creationid="miurahr" creationdate="20201116T234855Z">
+        <seg>点をクリックすると、「オゾン濃度」の値がマップの下部のテーブルに表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5286,6 +5350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Don't forget to install the parsers you want to use:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235316Z" creationid="miurahr" creationdate="20201116T235316Z">
+        <seg>使用するパーサーのインストールを忘れないでください:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Don't worry if the layer preview doesn't look very good as it is using the default style.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231106Z" creationid="miurahr" creationdate="20201116T231106Z">
@@ -5674,6 +5746,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T144806Z" creationid="miurahr" creationdate="20201116T144806Z">
         <seg>マップのタイトルと要約を入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter a value for Data Source Name (this example uses "netcdf") and a NetCDF URL.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234653Z" creationid="miurahr" creationdate="20201116T234653Z">
+        <seg>[Data Source Name]の値(今回は「netcdf」)と、NetCDF URLを入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6768,8 +6848,8 @@
       <tuv lang="en-US">
         <seg>GeoServer Quickstart</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>ジオサーバー クイック スタート</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234934Z">
+        <seg>GeoServer クイック スタート</seg>
       </tuv>
     </tu>
     <tu>
@@ -6826,6 +6906,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>GeoServer は EPSG データベースの主な投影法をサポートしており、オンデマンドでそれらの投影法への再投影ができます。クライアント側で再投影を制限され手いる場合にはサーバ側でその処理を行うこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoStyler Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234943Z" creationid="miurahr" creationdate="20201116T234943Z">
+        <seg>GeoStyler クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoStyler makes it easy to style geodata in any web page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235057Z" creationid="miurahr" creationdate="20201116T235057Z">
+        <seg>GeoStylerを使用すると、あらゆるWebページで地理データのスタイルを簡単に設定できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7526,6 +7622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, it is recommended to install GeoStyler for each project separately.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235124Z" creationid="miurahr" creationdate="20201116T235124Z">
+        <seg>ただし、GeoStylerはプロジェクトごとに個別にインストールすることをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Howto</seg>
       </tuv>
       <tuv lang="ja">
@@ -7970,6 +8074,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042806Z" creationid="miurahr" creationdate="20201103T042806Z">
         <seg>WPS標準1.0.0を実装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import the GeoStyler ``Style`` component into your application as follows:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235332Z" creationid="miurahr" creationdate="20201116T235325Z">
+        <seg>GeoStyler``Style``コンポーネントを次のようにアプリケーションにインポートします:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8586,6 +8698,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>インストール Tips: ユーザ名に "user" 以外を指定してインストールした場合、Tomcat アプリケーションでは https://trac.osgeo.org/osgeo/ticket/1153 に記載のように、サービスコマンドへの権限が必要となります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Integrate GeoStyler</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235320Z" creationid="miurahr" creationdate="20201116T235320Z">
+        <seg>GeoStylerを統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Integrate geostyler-sld-parser</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235352Z" creationid="miurahr" creationdate="20201116T235352Z">
+        <seg>geostyler-sld-parserを統合</seg>
       </tuv>
     </tu>
     <tu>
@@ -11110,6 +11238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OSGeoLive comes with GeoStyler already installed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235111Z" creationid="miurahr" creationdate="20201116T235111Z">
+        <seg>OSGeoLiveにはGeoStylerがすでにインストールされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OSGeoLive development is coordinated via email and internet chat (IRC) as detailed on the `OSGeoLive Wiki &lt;https://trac.osgeo.org/osgeolive#Communication&gt;`_.</seg>
       </tuv>
       <tuv lang="ja">
@@ -11870,6 +12006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please make sure that all peer dependencies are installed in the specified versions:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235305Z" creationid="miurahr" creationdate="20201116T235305Z">
+        <seg>関連する依存ライブラリのインストールについて指定されたバージョンであるか、確認してください:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please note, that when you disable the "MER FRS 1P RGB reduced" layer, the timeslider widget is hidden and only reappears once a layer dataset layer is enabled.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T123320Z" creationid="miurahr" creationdate="20201116T123320Z">
@@ -12182,6 +12326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press "Save", "Publish" the "O3" layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234801Z" creationid="miurahr" creationdate="20201116T234801Z">
+        <seg>"保存"と"O3"レイヤを"公開" を押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press :guilabel:`publish` next to one of the layers to finish adding the data.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T230820Z" creationid="miurahr" creationdate="20201116T230820Z">
@@ -12226,6 +12378,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T234216Z" creationid="miurahr" creationdate="20201116T234216Z">
         <seg>ページの下部にある:guilabel:`Submit`を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preview the NetCDF layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234816Z" creationid="miurahr" creationdate="20201116T234816Z">
+        <seg>NetCDFレイヤをプレビュー</seg>
       </tuv>
     </tu>
     <tu>
@@ -13203,6 +13363,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Scroll down to find the "cite:O3" entry, and click on the "OpenLayers" link to show a preview of the layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234847Z" creationid="miurahr" creationdate="20201116T234847Z">
+        <seg>下へスクロールして"cite: O3"の項目を探し、"OpenLayers"リンクをクリックしてレイヤのプレビューを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scroll down to the bottom of the "Data" tab and press "Save" again.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234812Z" creationid="miurahr" creationdate="20201116T234812Z">
+        <seg>"Data"タブの一番下までスクロールダウンし、もう一度"保存"を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Scroll to the bottom of the page and click on the **OpenLayers** link in the **tiger-ny** row.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T150613Z" creationid="miurahr" creationdate="20201116T150613Z">
@@ -13295,6 +13471,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125110Z" creationid="miurahr" creationdate="20201116T125110Z">
         <seg>詳細については、:doc:`EOxServerの概要&lt;./overview/eoxserver_overview&gt;`を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select "Layer Preview" from the menu on the left</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234826Z" creationid="miurahr" creationdate="20201116T234826Z">
+        <seg>左側のメニューから"レイヤプレビュー"を選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -13635,6 +13819,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Simply run following command from your project root:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235145Z" creationid="miurahr" creationdate="20201116T235145Z">
+        <seg>プロジェクトのルートから次のコマンドを実行するだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Since we are still using autogenerated edge ids, our edge numbers are the same as our previous query, but the nodes are the osm node ids.</seg>
       </tuv>
       <tuv lang="ja">
@@ -13695,6 +13887,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130147Z" creationid="miurahr" creationdate="20201116T130147Z">
         <seg>そこで、最初のステップでWGS84を座標系としてイメージに割り当てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So you should be able to import it into your project as described in the next section.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235115Z" creationid="miurahr" creationdate="20201116T235115Z">
+        <seg>したがって、次のセクションで説明するように、プロジェクトにインポートできるはずです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14603,6 +14803,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The GeoStyler UI should now match the style that was defined as SLD.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235427Z" creationid="miurahr" creationdate="20201116T235427Z">
+        <seg>GeoStyler UIは、SLDとして定義されたスタイルと一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Geographic Resources Analysis Support System, commonly referred to as GRASS, is a Geographic Information System (GIS) providing powerful raster, vector, and geospatial processing engines in a single integrated software suite.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011059Z" creationid="miurahr" creationdate="20201103T011059Z">
@@ -14811,6 +15019,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The UI is independent from any styling format and should be usable for e.g. OpenLayer or SLD.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235102Z" creationid="miurahr" creationdate="20201116T235102Z">
+        <seg>UIはどのスタイルフォーマットからも独立しており、OpenLayerやSLDなどで使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The WFS in this example acts as an INSPIRE Download service (direct access) and outputs valid, harmonized INSPIRE GML.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135529Z" creationid="miurahr" creationdate="20201116T135529Z">
@@ -14935,6 +15151,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054732Z" creationid="miurahr" creationdate="20201103T054732Z">
         <seg>`OpenLayers v4.6.5 APIドキュメント &lt;https://openlayers.org/en/v4.6.5/apidoc&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ``Style`` component provides a variety of styling functionality.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235337Z" creationid="miurahr" creationdate="20201116T235337Z">
+        <seg>``Style``コンポーネントは、さまざまなスタイリング機能を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ``Style`` component should now be visible in the browser.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235345Z" creationid="miurahr" creationdate="20201116T235345Z">
+        <seg>``Style``コンポーネントがブラウザに表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15423,6 +15655,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075400Z" creationid="miurahr" creationdate="20201103T073528Z">
         <seg>しかし、それらのボタンのなかで最も重要なのは、列の一番上に表示されているボタンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The most simple way to install GeoStyler is to use ``npm``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235140Z" creationid="miurahr" creationdate="20201116T235132Z">
+        <seg>GeoStylerをインストールする最も簡単な方法は、``npm``を使用することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16083,6 +16323,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This GeoServer instance has been configured with the ``NETCDF_DATA_DIR`` Java system property to allow the publication of NetCDF files in read-only directories.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234908Z" creationid="miurahr" creationdate="20201116T234908Z">
+        <seg>このGeoServerインスタンスは、``NETCDF_DATA_DIR``Javaシステムプロパティを使用して設定されており、読み取り専用ディレクトリにNetCDFファイルを公開できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This Quick Start describes how to enable pgrouting in a PostgreSQL database, load data with osm2pgrouting, and run a basic shortest path query with the sample test data.</seg>
       </tuv>
       <tuv lang="ja">
@@ -16119,6 +16367,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020848Z" creationid="miurahr" creationdate="20201103T020848Z">
         <seg>このクイックスタートは、GDAL(ラスタデータ)とOGR(ベクタデータ)の2つの部分に分かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This Quickstart describes some basic steps required to start working with GeoStyler: installing GeoStyler and adding a first UI component to your react application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235040Z" creationid="miurahr" creationdate="20201116T235040Z">
+        <seg>このクイックスタートでは、GeoStylerをはじめて使うときの基本的な手順について説明します。GeoStylerをインストールし、最初のUIコンポーネントをreactアプリケーションに追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16347,6 +16603,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is only the first step on the road to using GeoServer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234922Z" creationid="miurahr" creationdate="20201116T234922Z">
+        <seg>これは、GeoServerを使用するための最初のステップにすぎません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the same way that the internet works - your browser is a client and a web server sends back the web page.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T040802Z" creationid="miurahr" creationdate="20201108T040802Z">
@@ -16463,6 +16727,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T072142Z" creationid="miurahr" creationdate="20201103T072142Z">
         <seg>このクイックスタートでは、Java OpenStreetMapエディターの基本的な使い方について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This sections describes the required steps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235128Z" creationid="miurahr" creationdate="20201116T235128Z">
+        <seg>ここでは、必要な手順について説明します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16795,6 +17067,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To connect this style with the UI, we have to store it in a state variable and pass it to our ``Style`` component.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235412Z" creationid="miurahr" creationdate="20201116T235412Z">
+        <seg>このスタイルをUIに接続するには、状態変数に保存し、``Style``コンポーネントに渡す必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To continue using the stand-alone application, visit `&lt;http://files.geomajas.org/downloads/2.3.0/geomajas-standalone-gwt2.zip&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131826Z" creationid="miurahr" creationdate="20201116T131826Z">
@@ -16843,6 +17123,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To edit an existing SLD via GeoStyler, we first have to import and instantiate the ``geostyler-sld-parser``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235401Z" creationid="miurahr" creationdate="20201116T235401Z">
+        <seg>GeoStylerを使用して既存のSLDを編集するには、まず``geostyler-sld-parser``をインポートしてインスタンス化する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To enable **OpenStreetMap GPS traces** click on the box.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051917Z" creationid="miurahr" creationdate="20201103T051917Z">
@@ -16871,6 +17159,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231454Z" creationid="miurahr" creationdate="20201116T231454Z">
         <seg>はじめに、で陸地と海洋のデータセットのスタイルを設定しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To get the edited style as SLD from the ``Style`` component, you can use the ``writeStyle()`` method of the geostyler-sld-parser within the ``onStyleChange()`` method of the ``Style`` component.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235436Z" creationid="miurahr" creationdate="20201116T235436Z">
+        <seg>編集されたスタイルを``Style``コンポーネントからSLDとして取得するには、``Style``コンポーネントの``onStyleChange()``メソッド内でgeostyler-sld-parserの``writeStyle()``メソッドを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18915,6 +19211,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can skip this section, if you just want to take a first look at the library.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235120Z" creationid="miurahr" creationdate="20201116T235120Z">
+        <seg>ライブラリを最初に見たい場合は、このセクションをスキップできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can type epsg:4326 in the box, or go to `http://prj2epsg.org/search &lt;http://prj2epsg.org/search&gt;`_ and paste in the string you see if you click on the link next to "UNKNOWN".</seg>
       </tuv>
       <tuv lang="ja">
@@ -18967,6 +19271,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>イメージのダウンロードが成功したかを確認するために、 md5 チェックサムを利用することが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use this sample file::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T234716Z" creationid="miurahr" creationdate="20201116T234716Z">
+        <seg>次のサンプルファイルを利用可能::</seg>
       </tuv>
     </tu>
     <tu>
@@ -19503,6 +19815,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>`GeoForAll &lt;https://www.osgeo.org/initiatives/geo-for-all&gt;`__: 世界中で100を超える教育研究機関が、パートナーとともに、地理空間教育と機会を誰もが利用できるようにしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`GeoStyler Documentation &lt;https://geostyler.github.io/geostyler/latest/index.html&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235505Z" creationid="miurahr" creationdate="20201116T235505Z">
+        <seg>`GeoStyler 文書 &lt;https://geostyler.github.io/geostyler/latest/index.html&gt;`__</seg>
       </tuv>
     </tu>
     <tu>
