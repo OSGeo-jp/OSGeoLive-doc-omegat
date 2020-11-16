@@ -2846,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adding the style to GeoServer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231818Z" creationid="miurahr" creationdate="20201116T231818Z">
+        <seg>GeoServerへのスタイルの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional Geometry, Filter and Style parser/encoders available for DOM and SAX applications.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T063243Z" creationid="miurahr" creationdate="20201103T063243Z">
@@ -3970,6 +3978,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055615Z" creationid="miurahr" creationdate="20201103T055615Z">
         <seg> :menuselection:`Desktop --&gt; Spatial Tools --&gt; Start Mapnik &amp; TileStache`をクリック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click ``OK`` and |UG| will display the changes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231756Z" creationid="miurahr" creationdate="20201116T231756Z">
+        <seg>``OK``をクリックすると、|UG| が変更を表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5278,6 +5294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drag the ne_10m_land and ne_10m_ocean tables into the map window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231625Z" creationid="miurahr" creationdate="20201116T231625Z">
+        <seg>ne_10m_landテーブルとne_10m_oceanテーブルをマップウィンドウにドラッグします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Draw a shape the same way that you draw a line, but finish the shape by double-clicking on the point where you started the line.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075627Z" creationid="miurahr" creationdate="20201103T075627Z">
@@ -6058,6 +6082,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Rに関する一般的な情報については、公式の `Introduction to R &lt;https://cran.r-project.org/doc/manuals/R-intro.html&gt;`_ またはメインの `R Project &lt;https://www.r-project.org/&gt;`_ ページ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more details on how to use |UG| see the :doc:`uDig Quickstart &lt;../quickstart/udig_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231606Z" creationid="miurahr" creationdate="20201116T231606Z">
+        <seg>|UG| の使用方法に関するその他の詳細については、:doc:`uDigクイックスタート&lt;./quickstart/udig_quickstart&gt;`を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8046,6 +8078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the :ref:`Layer list &lt;Layer_list&gt;` select the style button (it looks like an artist's palette).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231651Z" creationid="miurahr" creationdate="20201116T231651Z">
+        <seg>:ref:`レイヤリスト&lt;Layer_list&gt;`でスタイルボタン(アーティストのパレットのように見えます)を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the LAYER object, we'll add another CLASS object just before our current one::</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022815Z" creationid="miurahr" creationdate="20201103T022815Z">
@@ -8154,6 +8194,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133355Z" creationid="miurahr" creationdate="20201116T133355Z">
         <seg>下のスクリーンショットでは、これに「My GeoNetwork catalog」というラベルが付いていますが、名前とロゴが異なる場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the simple window we can easily select a nice blue for the oceans by clicking on the colored box on the fill tab and choosing from the color picker it produces.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231708Z" creationid="miurahr" creationdate="20201116T231708Z">
+        <seg>シンプルなウィンドウでは、塗りつぶしタブの色付きのボックスをクリックし、表示されるカラーピッカーから選択することで、海洋に適した青を簡単に選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8530,6 +8578,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052949Z" creationid="miurahr" creationdate="20201102T052949Z">
         <seg>また、サンプル データセットやドキュメントも含んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It also provides a simple editor to modify the XML if I need to.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231523Z" creationid="miurahr" creationdate="20201116T231523Z">
+        <seg>また、必要に応じてXMLを変更するための簡単なエディタも提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10678,6 +10734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now we need to transfer these styles to |GS|.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231829Z" creationid="miurahr" creationdate="20201116T231829Z">
+        <seg>次に、これらのスタイルを |GS| に転送する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now we'll show you how to make a map from QGIS.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043358Z" creationid="miurahr" creationdate="20201108T043358Z">
@@ -10998,6 +11062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the style window there is an export button which allows you to save the SLD file that defines your style.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231837Z" creationid="miurahr" creationdate="20201116T231837Z">
+        <seg>スタイルウィンドウにはエクスポートボタンがあり、スタイルを定義するSLDファイルを保存できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the top menu, click “Presets” and choose the type of location you would like to define.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075936Z" creationid="miurahr" creationdate="20201103T075936Z">
@@ -11042,6 +11114,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Proj.4 ライブラリ使用による、1000を超える投影法でのオンザフライ地図投影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once saved, you can go to the |GS| admin page again and select ``Styles`` (at the bottom of the ``Data`` section).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231856Z" creationid="miurahr" creationdate="20201116T231856Z">
+        <seg>保存後、再度 |GS| 管理ページに移動して、``Styles``(``Data``セクションの下部)を選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11274,6 +11354,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051330Z" creationid="miurahr" creationdate="20201103T051330Z">
         <seg>インターネットブラウザを開き、https://www.openstreetmap.orgのOpenStreetMapのWebサイトにアクセスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open |UG| and add the shapefiles (using the add data button in the top left hand corner).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231618Z" creationid="miurahr" creationdate="20201116T231618Z">
+        <seg>|UG| を開き、シェイプファイルを追加します(左上隅のデータ追加ボタンを使用)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11626,6 +11714,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020616Z" creationid="miurahr" creationdate="20201103T020616Z">
         <seg>物理ベクタデータのテーマ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pick the same blue for the border color so it will match.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231726Z" creationid="miurahr" creationdate="20201116T231726Z">
+        <seg>境界線の色に同じ青を選択して、一致させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12643,6 +12739,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Repeat the steps above to change the color of the land layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231801Z" creationid="miurahr" creationdate="20201116T231801Z">
+        <seg>上記の手順を繰り返して、土地のレイヤの色を変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Replication</seg>
       </tuv>
       <tuv lang="ja">
@@ -13223,6 +13327,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134745Z" creationid="miurahr" creationdate="20201116T134745Z">
         <seg>画像のレイヤを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the ``Add New Style`` link.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231923Z" creationid="miurahr" creationdate="20201116T231923Z">
+        <seg>``Add New Style``リンクを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15619,6 +15731,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are several options here but |UG| allows you to open the shapefiles directly and apply simple styles using a GUI.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231518Z" creationid="miurahr" creationdate="20201116T231518Z">
+        <seg>ここにはいくつかのオプションがありますが、|UG| ではシェイプファイルを直接開き、GUIを使用して簡単なスタイルを適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are several ways to zoom in and out of the map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T074211Z" creationid="miurahr" creationdate="20201103T072414Z">
@@ -15911,6 +16031,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041759Z" creationid="miurahr" creationdate="20201108T041759Z">
         <seg>これは``postgres``と呼ばれるコアシステムデータベースに接続します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This gives a nice looking basic world map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231812Z" creationid="miurahr" creationdate="20201116T231812Z">
+        <seg>これにより、美しい外観の基本的な世界マップが得られます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16319,6 +16447,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T150623Z" creationid="miurahr" creationdate="20201116T150623Z">
         <seg>これにより、新しいウィンドウが開き、サンプルデータのプレビューが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will open the :ref:`Style Pane &lt;Style_Pane&gt;`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231700Z" creationid="miurahr" creationdate="20201116T231700Z">
+        <seg>これにより、:ref:`スタイルペイン&lt;Style_Pane&gt;`が開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17243,6 +17379,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using |UG| to create simple styles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231532Z" creationid="miurahr" creationdate="20201116T231532Z">
+        <seg>|UG| を使用したシンプルなスタイルの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Utilizing CSS3 features to make panning and zooming really smooth</seg>
       </tuv>
       <tuv lang="ja">
@@ -17511,6 +17655,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043302Z" creationid="miurahr" creationdate="20201108T043302Z">
         <seg>また、別の関数を使用し、回転楕円体の名前、半長軸、および逆平坦化パラメータを指定して、回転楕円体を使用して距離を計算することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We can also increase the opacity of the fill to 100% to make the color look better.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231714Z" creationid="miurahr" creationdate="20201116T231714Z">
+        <seg>また、塗りつぶしの不透明度を100%に上げて、カラーの見栄えを良くすることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18379,6 +18531,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can create SLD files using a simple text editor, but sometimes a graphical editor is better.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231505Z" creationid="miurahr" creationdate="20201116T231505Z">
+        <seg>SLDファイルは簡単なテキストエディタで作成できますが、グラフィカルエディタの方がよい場合もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can create one of these inside QGIS with the Quantumnik plugin: https://plugins.qgis.org/plugins/quantumnik/</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055412Z" creationid="miurahr" creationdate="20201103T055412Z">
@@ -18623,6 +18783,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130623Z" creationid="miurahr" creationdate="20201116T130623Z">
         <seg>ogr2ogrを使用して、ファイルフォーマット間で簡単なフィーチャデータを変換できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use the ``define custom colors`` section to create your preferred color.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231807Z" creationid="miurahr" creationdate="20201116T231807Z">
+        <seg>``define custom colors``セクションを使用して、好みの色を作成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20847,6 +21015,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|OSGeo_project| :doc:`qgis_overview` - [:doc:`クイックスタート &lt;../quickstart/qgis_quickstart&gt;`]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|UG| automatically applies a style (so you can see the data).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231635Z" creationid="miurahr" creationdate="20201116T231635Z">
+        <seg>|UG| は自動的にスタイルを適用します(データが見えるようになります)。</seg>
       </tuv>
     </tu>
     <tu>
