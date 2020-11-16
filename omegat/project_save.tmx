@@ -6030,6 +6030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Get a summary about your data with ogrinfo together with `-so`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130541Z" creationid="miurahr" creationdate="20201116T130541Z">
+        <seg>ogrinfoに`-so`を付けて、データの概要を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Get information about the raster data with gdalinfo</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125550Z" creationid="miurahr" creationdate="20201116T125550Z">
@@ -6054,10 +6062,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Get the list of the supported formats with `--formats`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130602Z" creationid="miurahr" creationdate="20201116T130602Z">
+        <seg>対応フォーマットの一覧を`--formats`で取得します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Get to know GDAL</seg>
       </tuv>
       <tuv lang="ja">
         <seg>GDALについて知る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get to know OGR</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130528Z" creationid="miurahr" creationdate="20201116T130528Z">
+        <seg>OGRについて知る</seg>
       </tuv>
     </tu>
     <tu>
@@ -6282,6 +6306,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041923Z" creationid="miurahr" creationdate="20201103T041923Z">
         <seg>したがって、観測データはRESTfulな方法で要求することができ、JSONエンコードされた応答で返されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here are some additional challenges for you to try:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130737Z" creationid="miurahr" creationdate="20201116T130737Z">
+        <seg>次に、試すべき追加の課題をいくつか示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6730,6 +6762,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053045Z" creationid="miurahr" creationdate="20201103T053045Z">
         <seg>削除する必要があると本当に感じている場合は、最初に元のマッパーまたはOSM電子メールリストのいずれかに問い合わせてみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you run ogrinfo without a parameter you will get a summary about your data and afterwards a section for every dataset.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130547Z" creationid="miurahr" creationdate="20201116T130547Z">
+        <seg>パラメーターを指定せずにogrinfoを実行すると、データの概要と、その後のすべてのデータセットのセクションが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7378,6 +7418,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052949Z" creationid="miurahr" creationdate="20201102T052949Z">
         <seg>また、サンプル データセットやドキュメントも含んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It also provides the GdalTools Plugin to process raster data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130800Z" creationid="miurahr" creationdate="20201116T130800Z">
+        <seg>また、ラスタデータを処理するためのGdalToolsプラグインも提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8678,6 +8726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mosaic the east.tif and west.tif into a single file:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130510Z" creationid="miurahr" creationdate="20201116T130510Z">
+        <seg>east.tifとwest.tifをモザイク化して単一のファイルにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mosaic your data with gdal_warp or gdal_merge.py</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125353Z" creationid="miurahr" creationdate="20201116T125353Z">
@@ -9790,6 +9846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the shape file with a Desktop GIS like QGIS, and have a look.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130533Z" creationid="miurahr" creationdate="20201116T130533Z">
+        <seg>QGISのようなデスクトップGISを使用してシェイプファイルを開き、確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open your Internet browser, and go to the OpenStreetMap website at https://www.openstreetmap.org.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051330Z" creationid="miurahr" creationdate="20201103T051330Z">
@@ -10718,6 +10782,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052451Z" creationid="miurahr" creationdate="20201102T052451Z">
         <seg>QGISはユーザフレンドリなデスクトップGISクライアントで、データの視覚化、管理、編集、分析、印刷可能なマップの作成を行うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS uses GDAL/OGR too to suport many formats.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130755Z" creationid="miurahr" creationdate="20201116T130755Z">
+        <seg>QGISはGDAL/OGRも使用して、多くの形式をサポートしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13299,6 +13371,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The same task can be accomplished with gdalwarp.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130514Z" creationid="miurahr" creationdate="20201116T130514Z">
+        <seg>gdalwarpを使用して実行することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The server starts in a terminal window (which stays open and outputs basic debugging information).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055623Z" creationid="miurahr" creationdate="20201103T055623Z">
@@ -13535,6 +13615,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T074211Z" creationid="miurahr" creationdate="20201103T072414Z">
         <seg>表示領域の拡大/縮小を行うにはいくつかの方法があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is a lot more functionality you can try.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131523Z" creationid="miurahr" creationdate="20201116T131523Z">
+        <seg>他にも多くの機能を試すことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13883,6 +13971,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is only the first step on the road to using GDAL and OGR.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130816Z" creationid="miurahr" creationdate="20201116T130816Z">
+        <seg>これは、GDALとOGRを使用するための最初のステップにすぎません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the same way that the internet works - your browser is a client and a web server sends back the web page.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T040802Z" creationid="miurahr" creationdate="20201108T040802Z">
@@ -13895,6 +13991,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013734Z" creationid="miurahr" creationdate="20201103T013734Z">
         <seg>この互換性により、異なるバージョンの S のコードを大きく変更することなく R で実行できるよう変換可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This plugin integrates the gdal-tools into QGIS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130806Z" creationid="miurahr" creationdate="20201116T130806Z">
+        <seg>このプラグインはgdal-toolsをQGISに統合します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14347,6 +14451,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try gdaladdo to build internal overviews</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130742Z" creationid="miurahr" creationdate="20201116T130742Z">
+        <seg>gdaladdoで内部概要を作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Try gdalwarp or gdal_merge.py to mosaic your data</seg>
       </tuv>
       <tuv lang="ja">
@@ -14575,6 +14687,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002734Z" creationid="miurahr" creationdate="20201103T002734Z">
         <seg>ネイティブウィジェットの使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use ogr2ogr to convert data between file formats</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130610Z" creationid="miurahr" creationdate="20201116T130610Z">
+        <seg>ogr2ogrを使用してファイルフォーマット間でデータを変換</seg>
       </tuv>
     </tu>
     <tu>
@@ -15667,6 +15787,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can convert your data to other formats.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130557Z" creationid="miurahr" creationdate="20201116T130557Z">
+        <seg>データを他の形式に変換できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can create PostGIS databases using the SQL language.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041739Z" creationid="miurahr" creationdate="20201108T041739Z">
@@ -15747,6 +15875,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can forward the result from ogrinfo to grep to filter and get only the attribute COUNTRY.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130552Z" creationid="miurahr" creationdate="20201116T130552Z">
+        <seg>ogrinfoの結果をgrepに転送して、COUNTRY属性だけをフィルタリングして取得できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can freely copy it, compress it, and port it between Windows, Linux, MacOs etc.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013808Z" creationid="miurahr" creationdate="20201103T013808Z">
@@ -15799,6 +15935,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ボックスにepsg:4326と入力するか、 `http://prj2epsg.org/search &lt;http://prj2epsg.org/search&gt;`_ に移動して、次のリンクをクリックすると表示される文字列を貼り付けます 「不明」に。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use `--formats` to get the list of the supported formats with read/write information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130630Z" creationid="miurahr" creationdate="20201116T130630Z">
+        <seg>`--formats`を使用して、読み書き可能な情報を持つ対応フォーマットの一覧を取得できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use ogr2ogr to converts simple features data between file formats.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130623Z" creationid="miurahr" creationdate="20201116T130623Z">
+        <seg>ogr2ogrを使用して、ファイルフォーマット間で簡単なフィーチャデータを変換できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16911,6 +17063,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>柔軟で強力な認証 API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>gdal_merge.py is a python script that can be used for simple mosaicking tasks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130454Z" creationid="miurahr" creationdate="20201116T130454Z">
+        <seg>gdal_merge.pyは、シンプルなモザイク作業に使用できるPythonスクリプトです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>gdalwarp has a variety of advantages over gdal_merge, but can be slow to merge many files:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130522Z" creationid="miurahr" creationdate="20201116T130522Z">
+        <seg>gdalwarpはgdal_mergeよりもさまざまな利点がありますが、多くのファイルのマージに時間がかかることがあります。</seg>
       </tuv>
     </tu>
     <tu>
