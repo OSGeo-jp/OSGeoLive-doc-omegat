@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(You can also open this manually by pointing your browser to http://localhost:8033).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135147Z" creationid="miurahr" creationdate="20201116T135147Z">
+        <seg>(ブラウザでhttp://localhost:8033)を選択して手動で開くこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(verify boot device order if necessary)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T053023Z" creationid="miurahr" creationdate="20201102T053023Z">
@@ -1878,10 +1886,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*deegree 3* is the new generation of the deegree Java framework for GIS applications and OGC-service implementations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135024Z" creationid="miurahr" creationdate="20201116T135024Z">
+        <seg>*deegree3*は、deegree Javaフレームワークの新世代であり、GISアプリケーションとOGCサービス実装のためのものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*deegree 3* uses configurations conformant to all *deegree 3* based webservices.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135209Z" creationid="miurahr" creationdate="20201116T135209Z">
+        <seg>*deegree3*はすべての*deegree3*ベースのウェブサービスに準拠した設定を使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*deegree* is a Java application for serving maps (and vector data) for other clients to show.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020817Z" creationid="miurahr" creationdate="20201103T020817Z">
         <seg>*deegree*は、他のクライアントが表示するマップ(およびベクタデータ)を提供するJavaアプリケーションです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*deegree* is open source software for spatial data infrastructures and the geospatial web.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135008Z" creationid="miurahr" creationdate="20201116T135008Z">
+        <seg>*deegree*は、空間データインフラストラクチャと地理空間Webのためのオープンソースソフトウェアです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3318,6 +3350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Available components are:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135014Z" creationid="miurahr" creationdate="20201116T135014Z">
+        <seg>利用可能なコンポーネント:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Available in prior OSGeo-Live releases</seg>
       </tuv>
       <tuv lang="ja">
@@ -3678,6 +3718,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cesium Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134553Z" creationid="miurahr" creationdate="20201116T134553Z">
+        <seg>Cesiumクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cesium is a JavaScript library for creating 3D globes and 2D maps in a web browser without any plugins.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134606Z" creationid="miurahr" creationdate="20201116T134606Z">
+        <seg>Cesiumは、プラグインなしでウェブブラウザで3D地球儀と2Dマップを作成するためのJavaScriptライブラリです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changing objects</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075137Z" creationid="miurahr" creationdate="20201103T072826Z">
@@ -3706,6 +3762,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T062232Z" creationid="miurahr" creationdate="20201102T062232Z">
         <seg>中国</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose *'Start deegree'* from the :menuselection:`Geospatial --&gt; Web Services --&gt; deegree` menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135114Z" creationid="miurahr" creationdate="20201116T135114Z">
+        <seg>:menuselection:`Geospatial--&gt;Web Services--&gt;deegree`メニューから*'deegreeを開始'*を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3894,6 +3958,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the last icon and select a type of image service.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134749Z" creationid="miurahr" creationdate="20201116T134749Z">
+        <seg>最後のアイコンをクリックして、イメージサービスの種類を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the magnifying glass and type in the location you are looking for.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134700Z" creationid="miurahr" creationdate="20201116T134700Z">
+        <seg>虫眼鏡をクリックして、探している位置を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the map where you want to measure.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132255Z" creationid="miurahr" creationdate="20201116T132255Z">
@@ -3914,6 +3994,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051350Z" creationid="miurahr" creationdate="20201103T051350Z">
         <seg>**[編集]**の横の小さな矢印をクリックし、[**iD編集(ブラウザ内エディタ)**]をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the wire framed globe icon to select your preferred view.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134734Z" creationid="miurahr" creationdate="20201116T134734Z">
+        <seg>ワイヤーで囲まれたビューアイコンをクリックして、希望の地球儀を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3994,6 +4082,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055651Z" creationid="miurahr" creationdate="20201103T055651Z">
         <seg>このリンク http://localhost:8012/example/0/0/0.png をクリックして、ターミナルウィンドウの出力を確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clicking on the feature will bring up an identification box at the bottom of the map showing details about the area selected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134513Z" creationid="miurahr" creationdate="20201116T134513Z">
+        <seg>地物をクリックすると、マップの下部に識別ボックスが表示され、選択された領域の詳細が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5518,6 +5614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Firefox opens the *deegree 3 services console*.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135136Z" creationid="miurahr" creationdate="20201116T135136Z">
+        <seg>Firefoxは*deegree3サービス コンソール*を開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>First get to know your drivers.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125616Z" creationid="miurahr" creationdate="20201116T125616Z">
@@ -5562,6 +5666,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055718Z" creationid="miurahr" creationdate="20201103T055718Z">
         <seg>チュートリアルに従ってMapnikについて学んでください: https://github.com/mapnik/mapnik/wiki/MapnikTutorials</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Follow up by visiting subsequent chapters to learn how to associate resources with your metadata, tag it with keywords and add it to categories, and publish your metadata to the outside world.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134541Z" creationid="miurahr" creationdate="20201116T134541Z">
+        <seg>後続の章へ進んで、リソースをメタデータに関連付け、キーワードでタグ付けしてカテゴリに追加し、メタデータを外部に公開する方法を学習しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6790,6 +6902,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here the 2.5D Columbus view has been selected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134738Z" creationid="miurahr" creationdate="20201116T134738Z">
+        <seg>ここでは、2.5D Columbusビューが選択されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here the Natural Earth II is selected and you can see how the map's image layer has changed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134755Z" creationid="miurahr" creationdate="20201116T134755Z">
+        <seg>ここでNatural Earth IIが選択され、マップのイメージレイヤがどのように変化したかを見ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here we reproject the WGS84 geographic image to the Mercator projection:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130156Z" creationid="miurahr" creationdate="20201116T130156Z">
@@ -7606,6 +7734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the following display, we look for India.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134726Z" creationid="miurahr" creationdate="20201116T134726Z">
+        <seg>次の表示では、インドを探します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the future you can connect to it directly with ``psql -d demo``, but here's a neat way of switching within the ``psql`` command line:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041856Z" creationid="miurahr" creationdate="20201108T041856Z">
@@ -7702,10 +7838,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In-depth documentation is available `locally &lt;http://localhost/cesium/&gt;`_ on the OSGeoLive package.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134850Z" creationid="miurahr" creationdate="20201116T134850Z">
+        <seg>詳細なドキュメントは、OSGeoLiveパッケージの`locally&lt;http://localhost/cesium/&gt;`_で入手できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Include coastline, land, ocean, minor islands, reefs, physical region features and points, rivers, lakes, glaciated areas, Antarctic ice shelves, bathymetry, geographic lines, and graticles.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012727Z" creationid="miurahr" creationdate="20201103T012727Z">
         <seg>海岸線、陸地、海洋、小島嶼、岩礁、物理的地域の特徴及び地点、河川、湖、氷河区域、南極の棚氷、水深測定、地理的境界線及び氷床を含む。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Included are some harmonized dutch administrative units, cadastral parcels and addresses.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135418Z" creationid="miurahr" creationdate="20201116T135418Z">
+        <seg>いくつかの調和されたオランダの行政単位、地籍区画、住所が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8022,6 +8174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can be used to build web-based geospatial-data-infrastructures (GDI).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135029Z" creationid="miurahr" creationdate="20201116T135029Z">
+        <seg>Webベースの地理空間データインフラストラクチャ(GDI)の構築に使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can display map tiles, vector data and markers loaded from any source.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020620Z" creationid="miurahr" creationdate="20201103T010533Z">
@@ -8042,6 +8202,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011105Z" creationid="miurahr" creationdate="20201103T011105Z">
         <seg>高度な時系列処理のための時間的フレームワークと、高速空間プログラミングのためのPython APIが付属しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It consists of a transactional WFS (2.0.0 and 1.1.0) for all Annex I Data Themes and a WMS (1.3.0 and 1.1.1) which serves three layers of those Annex I Data Themes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135323Z" creationid="miurahr" creationdate="20201116T135323Z">
+        <seg>すべてのAnnex Iデータテーマ用のトランザクションWFS(2.0.0および1.1.0)と、これらのAnnex Iデータテーマの3つのレイヤを提供するWMS(1.3.0および1.1.1)で構成されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8298,6 +8466,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T044505Z" creationid="miurahr" creationdate="20201102T044505Z">
         <seg>スタンドアロン GPX トラックや GPX トラックデータの読み込みと共に、OSM データベースから既存のノード (点) 、ウェイ (ライン) 、メタデータタグ (名前/値の情報) 、リレーション (点と線の順序付けられたシーケンス) の編集をサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for time-dynamic data visualization.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134622Z" creationid="miurahr" creationdate="20201116T134622Z">
+        <seg>OSGeoLiveは、ハードウェアアクセラレーションによるグラフィックス処理にWebGLを使用し、クロスプラットフォーム、クロスブラウザ対応で、時間動的なデータ視覚化に合わせて調整されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8858,6 +9034,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T072330Z" creationid="miurahr" creationdate="20201103T072330Z">
         <seg>サンプル(架空)マップをロードする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Load a workspace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135201Z" creationid="miurahr" creationdate="20201116T135201Z">
+        <seg>作業フォルダを読み込む</seg>
       </tuv>
     </tu>
     <tu>
@@ -9934,6 +10118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now the 2D map is selected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134742Z" creationid="miurahr" creationdate="20201116T134742Z">
+        <seg>これで、2Dマップが選択されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now the map and layers have been configured we are going to create and configure our GeoExt components.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054203Z" creationid="miurahr" creationdate="20201103T054203Z">
@@ -10506,6 +10698,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052501Z" creationid="miurahr" creationdate="20201102T052501Z">
         <seg>[デスクトップGIS]フォルダを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the browser and point it to http://localhost/cesium/Apps/HelloWorld.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134719Z" creationid="miurahr" creationdate="20201116T134651Z">
+        <seg>ブラウザを開き、http://localhost/cesium/Apps/HelloWorld.htmlを開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -11222,6 +11422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press start on the *deegree-inspire-workspace*.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135302Z" creationid="miurahr" creationdate="20201116T135302Z">
+        <seg>*deegree-inspire-workspace*の開始を押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press the :guilabel:`Log in` button.</seg>
       </tuv>
       <tuv lang="ja">
@@ -11715,6 +11923,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Read our written `tutorials &lt;https://cesium.com/docs&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134812Z" creationid="miurahr" creationdate="20201116T134812Z">
+        <seg>`チュートリアル&lt;https://cesium.com/docs&gt;`_をお読みください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Read the `EOxServer Operators' Guide &lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125130Z" creationid="miurahr" creationdate="20201116T125130Z">
@@ -12131,6 +12347,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sandcastle is generally one of the best ways to learn about Cesium, and all the code examples are useful for this purpose.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134837Z" creationid="miurahr" creationdate="20201116T134837Z">
+        <seg>Sandcastleは一般的にCesiumについて学ぶ最良の方法の1つであり、すべてのコード例がこの目的に役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Save your settings:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023317Z" creationid="miurahr" creationdate="20201103T023317Z">
@@ -12183,6 +12407,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010328Z" creationid="miurahr" creationdate="20201103T010328Z">
         <seg>検索(オンライン住所検索、オンラインPOI検索)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search for a location</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134656Z" creationid="miurahr" creationdate="20201116T134656Z">
+        <seg>場所を検索</seg>
       </tuv>
     </tu>
     <tu>
@@ -12315,6 +12547,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a feature on the map corresponding to a category in the legend, such as an area of water.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134503Z" creationid="miurahr" creationdate="20201116T134503Z">
+        <seg>水域など、凡例のカテゴリに対応する地物を地図上で選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select and run applications from the "Geospatial" menu.</seg>
       </tuv>
       <tuv lang="ja">
@@ -12359,6 +12599,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075919Z" creationid="miurahr" creationdate="20201103T075919Z">
         <seg>描画ツールを選択した状態で、編集したいオブジェクトの一部をクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the **paintbrush** icon next to the layer to see the legend, showing you the classification used for the display.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134453Z" creationid="miurahr" creationdate="20201116T134453Z">
+        <seg>レイヤの横にある**paintbrush**アイコンを選択すると、凡例が表示され、表示に使用された分類が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the Image layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134745Z" creationid="miurahr" creationdate="20201116T134745Z">
+        <seg>画像のレイヤを選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -12811,6 +13067,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start Cesium</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134648Z" creationid="miurahr" creationdate="20201116T134648Z">
+        <seg>Cesiumの開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start GeoMoose</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131930Z" creationid="miurahr" creationdate="20201116T131930Z">
@@ -12895,6 +13159,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113600Z" creationid="miurahr" creationdate="20201103T113600Z">
         <seg>端末を起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start deegree 3 webservices</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135050Z" creationid="miurahr" creationdate="20201116T135050Z">
+        <seg>deegree3 webサービスを開始</seg>
       </tuv>
     </tu>
     <tu>
@@ -13199,6 +13471,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>スウェーデン語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Switch between 3D, 2.5D and 2D</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134730Z" creationid="miurahr" creationdate="20201116T134730Z">
+        <seg>3D、2.5D、2Dの切り替え</seg>
       </tuv>
     </tu>
     <tu>
@@ -13627,6 +13907,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The WFS in this example acts as an INSPIRE Download service (direct access) and outputs valid, harmonized INSPIRE GML.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135529Z" creationid="miurahr" creationdate="20201116T135529Z">
+        <seg>この例のWFSはINSPIREダウンロードサービス(直接アクセス)として動作し、有効で統一されたINSPIRE GMLを出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `--format` commandline switch can be used to query details about a particular driver, including creation options, and permitted data types.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125635Z" creationid="miurahr" creationdate="20201116T125635Z">
@@ -13687,6 +13975,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T124639Z" creationid="miurahr" creationdate="20201116T124639Z">
         <seg>`Admin Client`はDjangos標準の管理者であり、利用可能なデータを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `Cesium Forum &lt;https://groups.google.com/forum/#!forum/cesium-dev&gt;`_ is a great place to search for answers to common questions, and to raise questions that haven't been asked before.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134900Z" creationid="miurahr" creationdate="20201116T134900Z">
+        <seg>`Cesium Forum&lt;https://groups.google.com/forum/#!forum/cesium-dev&gt;`_は、一般的な質問に対する回答を検索したり、これまでに質問されたことのない質問を提起したりするのに最適な場所です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13807,6 +14103,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011432Z" creationid="miurahr" creationdate="20201103T011432Z">
         <seg>各マップ画層の外観は、フィーチャの色付けとラベル付けを可能にするSLD標準を使用してコントロールできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The application will take a few moments to start up.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135118Z" creationid="miurahr" creationdate="20201116T135118Z">
+        <seg>アプリケーションの起動には少し時間がかかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14167,6 +14471,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T123247Z" creationid="miurahr" creationdate="20201116T123247Z">
         <seg>主な領域は、クライアントのマップウィジェットで、一連のデータセットがすでに表示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The map will zoom to the extent of this layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134445Z" creationid="miurahr" creationdate="20201116T134445Z">
+        <seg>マップはこのレイヤの範囲にズームします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14891,6 +15203,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This guide shows how to use the Cesium with the 3D (Globe), 2.5D (Columbus View) and 2D (map).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134638Z" creationid="miurahr" creationdate="20201116T134638Z">
+        <seg>このガイドでは、Cesiumを3D(地球儀)、2.5D(コロンブスビュー)、2D(マップ)で使用する方法について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This includes data import and export to databases, sorting, cleaning, and creating data dumps.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052351Z" creationid="miurahr" creationdate="20201102T052351Z">
@@ -14935,6 +15255,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023341Z" creationid="miurahr" creationdate="20201103T023341Z">
         <seg>これは簡単な例ですが、できることはたくさんあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a simple web-based GUI for editing the configuration files of the *deegree workspace*.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135156Z" creationid="miurahr" creationdate="20201116T135156Z">
+        <seg>これは、*deegree作業フォルダ*の設定ファイルを編集するためのシンプルなWebベースのGUIです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15203,6 +15531,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This workspace includes an example configuration for INSPIRE View- and Download-Services.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135314Z" creationid="miurahr" creationdate="20201116T135314Z">
+        <seg>この作業フォルダには、INSPIREビュー・ダウンロードサービスの設定例が含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Those configurations are stored in the workspace.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135219Z" creationid="miurahr" creationdate="20201116T135219Z">
+        <seg>これらの設定は作業フォルダに保存されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thread safe (using the reentrant API)</seg>
       </tuv>
       <tuv lang="ja">
@@ -15407,6 +15751,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052554Z" creationid="smellman" creationdate="20201103T052554Z">
         <seg>生成されたタイルを検査するには、次のように入力します::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To manage the included and ready-to-use workspaces, click *'workspaces'* on the left side.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135232Z" creationid="miurahr" creationdate="20201116T135232Z">
+        <seg>含まれているすぐに使用できるワークスペースを管理するには、左側の[*'workspaces'*]をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16171,6 +16523,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Watch our `video tutorials &lt;https://www.youtube.com/playlist?list=PLBk_Dtk-_Tlm4STvXKFEdfUWylPemo-9V&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134927Z" creationid="miurahr" creationdate="20201116T134927Z">
+        <seg>`ビデオチュートリアル&lt;https://www.youtube.com/playlist?list=PLBk_Dtk - _Tlm4STvXKFEdfUWylPemo-9V&gt;`_をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Waypoint / autopilot navigation</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T102728Z" creationid="smellman" creationdate="20201103T102728Z">
@@ -16915,6 +17275,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You are now in the workspace management of the running *deegree* instance.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135238Z" creationid="miurahr" creationdate="20201116T135238Z">
+        <seg>これで、実行中の*deegree*インスタンスの作業フォルダ管理が開始されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can add additional information by clicking these icons:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053357Z" creationid="miurahr" creationdate="20201103T053357Z">
@@ -17051,6 +17419,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can develop some quick applications using the `Sandcastle website &lt;https://sandcastle.cesium.com/index.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134822Z" creationid="miurahr" creationdate="20201116T134822Z">
+        <seg>`Sandcastle Webサイト&lt;https://sandcastle.cesium.com/index.html&gt;`_を使用して、いくつかのクイックアプリケーションを開発できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can dismiss this dialog by selecting the **X** in the top right corner.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134458Z" creationid="miurahr" creationdate="20201116T134458Z">
+        <seg>このダイアログを閉じるには、右上隅の**X**を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can double click the last point to finish the drawing process.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132358Z" creationid="miurahr" creationdate="20201116T132358Z">
@@ -17175,6 +17559,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134233Z" creationid="miurahr" creationdate="20201116T134233Z">
         <seg>カタログを検索したり、WebサービスやKMLからレイヤーを追加したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can see which workspace is currently active (only one can be active at a time) workspace, inactive locally available workspaces and offical workspaces which can be imported if you have a internet connection.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135247Z" creationid="miurahr" creationdate="20201116T135247Z">
+        <seg>現在アクティブな作業フォルダ(一度に1つしかアクティブにできない)、非アクティブなローカルで利用可能なワークスペース、およびインターネット接続がある場合にインポートできるオフラインのワークスペースを確認できます。作業フォルダ</seg>
       </tuv>
     </tu>
     <tu>
@@ -17503,6 +17895,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>このクイックスタートのサンプルを使用するためには、バージョンは 2.1.0 かそれ以上である必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoom and pan around the map as needed to identify a suitable area.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134508Z" creationid="miurahr" creationdate="20201116T134508Z">
+        <seg>適切な領域を特定するために、必要に応じてマップをズームおよびパンします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18215,6 +18615,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>データベーステーブル: PostgreSQL/PostGIS、Oracle Spatial、MS SQL Spatial、SpatiaLite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>deegree Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135001Z" creationid="miurahr" creationdate="20201116T135001Z">
+        <seg>deegreeクイックスタート</seg>
       </tuv>
     </tu>
     <tu>
