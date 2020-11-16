@@ -3294,6 +3294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As you scroll down the page you will see that |GS| has filled in many of the fields for you.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T230958Z" creationid="miurahr" creationdate="20201116T230849Z">
+        <seg>ページをスクロールすると、|GS| が多くのフィールドにデータ挿入していることがわかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At https://standards.rasdaman.com a collection of interactive demos is available.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014425Z" creationid="miurahr" creationdate="20201103T014425Z">
@@ -3994,6 +4002,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135602Z" creationid="miurahr" creationdate="20201116T135602Z">
         <seg>*'see layers'*をクリックして、簡単なマップクライアントを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on :guilabel:`Add new Store`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T230536Z" creationid="miurahr" creationdate="20201116T230536Z">
+        <seg>:guilabel:`Add new Store`をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on :guilabel:`Compute from data` and :guilabel:`Compute from native bounds` to fill in the Bounding Boxes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231056Z" creationid="miurahr" creationdate="20201116T231006Z">
+        <seg>:guilabel:`Compute from data`と:guilabel:`Compute from native bounds`をクリックして、境界ボックス内のデータ表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5150,6 +5174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Don't worry if the layer preview doesn't look very good as it is using the default style.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231106Z" creationid="miurahr" creationdate="20201116T231106Z">
+        <seg>レイヤのプレビューは既定のスタイルを使用しているため、あまり見栄えがしなくても心配ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double click on the 'QGIS' icon.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052504Z" creationid="miurahr" creationdate="20201102T052504Z">
@@ -5766,6 +5798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Finally hit :guilabel:`save` and you have published your first layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231012Z" creationid="miurahr" creationdate="20201116T231012Z">
+        <seg>最後に:guilabel:`save`をクリックて、最初のレイヤを公開しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Finally, click the "Go" button to actually select the features.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132503Z" creationid="miurahr" creationdate="20201116T132457Z">
@@ -6194,6 +6234,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142059Z" creationid="miurahr" creationdate="20201116T142059Z">
         <seg>上記のインターフェイスから、既存の空間レイヤとマップをビューおよび変更したり、他のGeoNodeユーザに関する情報を検索したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the |GS| admin page go to :guilabel:`Stores`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T230530Z" creationid="miurahr" creationdate="20201116T230530Z">
+        <seg>|GS| 管理ページから:guilabel:`Stores`に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8078,6 +8126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the next section we will look at producing a nicer style.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231111Z" creationid="miurahr" creationdate="20201116T231111Z">
+        <seg>次のセクションでは、より良いスタイルの作成について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the public item, there is the list of the layers provided by the database.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T044020Z" creationid="miurahr" creationdate="20201108T044020Z">
@@ -9018,6 +9074,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052527Z" creationid="miurahr" creationdate="20201103T052527Z">
         <seg>点の場合と同様に、線分に適切なタグを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Just select the natural earth store from the drop down box to get back to the store's page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231124Z" creationid="miurahr" creationdate="20201116T231124Z">
+        <seg>ドロップダウンボックスからNatural Earthストアを選択するだけで、ストアのページに戻ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11902,6 +11966,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press :guilabel:`publish` next to one of the layers to finish adding the data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T230820Z" creationid="miurahr" creationdate="20201116T230820Z">
+        <seg>いずれかのレイヤーの横にある:guilabel:`publish`を押して、データの追加を完了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press :guilabel:`save`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T230814Z" creationid="miurahr" creationdate="20201116T230814Z">
+        <seg>:guilabel:`save`を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press start on the *deegree-inspire-workspace*.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135302Z" creationid="miurahr" creationdate="20201116T135302Z">
@@ -13131,6 +13211,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the :guilabel:`Directory of spatial files`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T230545Z" creationid="miurahr" creationdate="20201116T230545Z">
+        <seg>:guilabel:`Directory of spatial files`を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the Image layer</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134745Z" creationid="miurahr" creationdate="20201116T134745Z">
@@ -13811,6 +13899,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Styling a data set into a map layer |GS| uses an OGC standard called |SLD|.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231208Z" creationid="miurahr" creationdate="20201116T231208Z">
+        <seg>マップレイヤへのデータセットのスタイリングにおいて、 |GS| は |SLD| と呼ばれるOGC標準を使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Styling and Publishing</seg>
       </tuv>
       <tuv lang="ja">
@@ -13823,6 +13919,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>スタイリングとカスタマイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Styling data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231223Z" creationid="miurahr" creationdate="20201116T231130Z">
+        <seg>データをスタイリング</seg>
       </tuv>
     </tu>
     <tu>
@@ -15579,6 +15683,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These are represented as XML files which describe the rules that are used to apply various symbolizers to the data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231448Z" creationid="miurahr" creationdate="20201116T231448Z">
+        <seg>これらは、データにさまざまな図案化を適用するために使用されるルールを記述するXMLファイルとして表されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These are used to style the elements contained in the spatial data file (DATA).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022545Z" creationid="miurahr" creationdate="20201103T022545Z">
@@ -16227,6 +16339,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will take you to the *Layers* page:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T230827Z" creationid="miurahr" creationdate="20201116T230827Z">
+        <seg>これにより、*Layers*ページに移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This workspace includes an example configuration for INSPIRE View- and Download-Services.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135314Z" creationid="miurahr" creationdate="20201116T135314Z">
@@ -16455,6 +16575,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131637Z" creationid="miurahr" creationdate="20201116T131637Z">
         <seg>よく見るには、マウスホイールを使用してズームインするか、アプリケーションの左上に表示されるズームボタンを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To get started, lets style the Land and Ocean datasets.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231454Z" creationid="miurahr" creationdate="20201116T231454Z">
+        <seg>はじめに、で陸地と海洋のデータセットのスタイルを設定しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16879,6 +17007,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T042121Z" creationid="miurahr" creationdate="20201108T042121Z">
         <seg>``\dv``と入力すると、データベース内のビューの一覧が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type in a name for the Data Store (for example, *Natural Earth*) and fill in the URL to the data set - in this case :file:`/usr/local/share/data/natural_earth2/`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T230804Z" creationid="miurahr" creationdate="20201116T230804Z">
+        <seg>データストアの名前(*Natural Earth*など)を入力し、データセットのURL(この場合は:file:`/usr/local/share/data/natural_earth2/`)を入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17411,6 +17547,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We need to create a Store for our data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T230514Z" creationid="miurahr" creationdate="20201116T230514Z">
+        <seg>データ用のストアを作成する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We need to create a database before adding the PostGIS extensions.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041314Z" creationid="miurahr" creationdate="20201108T041314Z">
@@ -17907,6 +18051,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you reach :guilabel:`Coordinate Reference System` you will notice that under *Native SRS* it says UNKNOWN you will need to fill in the next box (*declared SRS*) to make sure |GS| knows where the data is.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T230931Z" creationid="miurahr" creationdate="20201116T230931Z">
+        <seg>:guilabel:`Coordinate Reference System`に到達すると、*Native SRS*の下にUNKNOWNと表示されていることがわかります。次のボックス(*declared SRS*)に入力して、|GS| がデータの場所を確実に認識できるようにする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you select any of the contours of the newly created multipolygon you can see on the left to which multipolygons it belongs</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053322Z" creationid="miurahr" creationdate="20201103T053229Z">
@@ -18347,6 +18499,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can follow the same step with the other layers in the directory by using the :guilabel:`Add a new resource` button on the layers page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T231117Z" creationid="miurahr" creationdate="20201116T231117Z">
+        <seg>ディレクトリ内の他のレイヤーについても、レイヤーページの:guilabel:`Add a new resource`ボタンを使用して同じ手順を実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can forward the result from ogrinfo to grep to filter and get only the attribute COUNTRY.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130552Z" creationid="miurahr" creationdate="20201116T130552Z">
@@ -18463,6 +18623,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130623Z" creationid="miurahr" creationdate="20201116T130623Z">
         <seg>ogr2ogrを使用して、ファイルフォーマット間で簡単なフィーチャデータを変換できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use the browse button to find the directory if your data is somewhere else.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T230810Z" creationid="miurahr" creationdate="20201116T230810Z">
+        <seg>データが他の場所にある場合は、ブラウズボタンを使用してディレクトリを検索できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18735,6 +18903,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052522Z" creationid="miurahr" creationdate="20201102T052507Z">
         <seg>QGISが空プロジェクトで起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will see the following:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T230555Z" creationid="miurahr" creationdate="20201116T230555Z">
+        <seg>次のように表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will see this page:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T230540Z" creationid="miurahr" creationdate="20201116T230540Z">
+        <seg>次のページが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
