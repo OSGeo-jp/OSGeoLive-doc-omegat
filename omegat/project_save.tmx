@@ -1854,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Search facets*, or  filters, that provide ways of narrowing down the search results, such as *Type of Resource*, *Topic*, *Keywords*,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133829Z" creationid="miurahr" creationdate="20201116T133829Z">
+        <seg>検索結果を絞り込む*リソースタイプ*、*トピック*、*キーワード*などを提供する*検索ファセット*、またはフィルタ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*The contents of OSGeoLive are provided by the copyright holders and contributors "as is" and any express or implied warranties, including, but not limited to, the implied warranties of the merchantability and fitness for a particular purpose are disclaimed.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T111258Z" creationid="smellman" creationdate="20201101T111258Z">
@@ -2238,6 +2246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A Web Mapping Service (WMS) or Web Feature Service (WFS) link to the data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134147Z" creationid="miurahr" creationdate="20201116T134147Z">
+        <seg>Web Mapping Service(WMS)またはWeb Feature Service(WFS)がデータにリンクしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A `GeoExt workshop &lt;https://github.com/geoext/geoext3-ws&gt;`_ details all the steps for configuring and using GeoExt3 in your ExtJS applications</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054718Z" creationid="miurahr" creationdate="20201103T054718Z">
@@ -2306,6 +2322,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Mapfileで使用できるオブジェクトとプロパティの完全なリストは、 `MapServerドキュメントページ &lt;https://mapserver.org/mapfile/index.html&gt;`_ にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A file download of the data,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134137Z" creationid="miurahr" creationdate="20201116T134137Z">
+        <seg>データのファイルダウンロード</seg>
       </tuv>
     </tu>
     <tu>
@@ -2638,6 +2662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add a graticule (grid lines) to your map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134359Z" creationid="miurahr" creationdate="20201116T134359Z">
+        <seg>マップに目盛(グリッドライン)を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add a new layer to the Mapfile to serve a local Shapefile</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022338Z" creationid="miurahr" creationdate="20201103T022338Z">
@@ -2674,6 +2706,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053425Z" creationid="miurahr" creationdate="20201103T053425Z">
         <seg>標高の追加 |image37|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add layers to the map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134024Z" creationid="miurahr" creationdate="20201116T134024Z">
+        <seg>マップにレイヤーを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add new layers to the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134228Z" creationid="miurahr" creationdate="20201116T134228Z">
+        <seg>マップにレイヤーを追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -2754,6 +2802,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012416Z" creationid="miurahr" creationdate="20201103T012416Z">
         <seg>他の移植は、C# と JavaScript で利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additionally there is a geographic search tool in the top left.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134402Z" creationid="miurahr" creationdate="20201116T134402Z">
+        <seg>さらに、左上に地理検索ツールがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3002,6 +3058,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132133Z" creationid="miurahr" creationdate="20201116T132133Z">
         <seg>選択または定義するビュースケールの編集可能なプルダウンリスト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An overview map, where you can draw a box to filter results spatially (Hint- if you can’t see this, select MAP in the bottom right corner of your page)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133842Z" creationid="miurahr" creationdate="20201116T133842Z">
+        <seg>概要のマップで、結果を空間的にフィルタリングするためのボックスを描画できます(ヒントが表示されない場合は、ページの右下隅にあるマップを選択してください)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3342,6 +3406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Below this are tabs classifying the records by date added (latest news) and popularity (most popular).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133658Z" creationid="miurahr" creationdate="20201116T133658Z">
+        <seg>この下には、追加された日付(最新ニュース)と人気(最も一般的)でレコードを分類するタブがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Besides choosing any number of maps to view on your globe (including `OpenStreetMaps &lt;https://www.openstreetmap.org&gt;`_), you are encouraged to include a KDE Marble widget in your application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010204Z" creationid="miurahr" creationdate="20201103T010037Z">
@@ -3482,6 +3554,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011608Z" creationid="miurahr" creationdate="20201103T011608Z">
         <seg>これらのルールをOGCと組み合わせることで、スケールに依存するスタイル設定を実装できるため、ユーザがズームインしたときに詳細を追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By selecting the vertical ellipsis in the search box you can access the **advanced search** panel and search by *category*, *keyword*, *contact*, or records within a specific time period.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133855Z" creationid="miurahr" creationdate="20201116T133855Z">
+        <seg>検索ボックスの垂直方向の省略記号を選択すると、**高度な検索**パネルにアクセスして、*カテゴリ*、*キーワード*、*連絡先*、または指定された期間内のレコードで検索できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4606,6 +4686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deleting the record</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133945Z" creationid="miurahr" creationdate="20201116T133940Z">
+        <seg>レコードを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Demo</seg>
       </tuv>
       <tuv lang="ja">
@@ -4734,6 +4822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display results</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133900Z" creationid="miurahr" creationdate="20201116T133900Z">
+        <seg>表示結果を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Document</seg>
       </tuv>
       <tuv lang="ja">
@@ -4846,6 +4942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Downloading the record as multiple formats</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133959Z" creationid="miurahr" creationdate="20201116T133953Z">
+        <seg>複数のフォーマットでレコードをダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drag panning with inertia</seg>
       </tuv>
       <tuv lang="ja">
@@ -4882,6 +4986,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075627Z" creationid="miurahr" creationdate="20201103T075627Z">
         <seg>シェイプを描くには、ラインと同じような操作をした後、ラインを描き始めたポイントでダブルクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draw annotations on the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134331Z" creationid="miurahr" creationdate="20201116T134331Z">
+        <seg>マップ上に注釈を表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5090,6 +5202,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>編集ツール:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Editing the record</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133942Z" creationid="miurahr" creationdate="20201116T133935Z">
+        <seg>レコードを編集</seg>
       </tuv>
     </tu>
     <tu>
@@ -5338,6 +5458,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T051507Z" creationid="miurahr" creationdate="20201102T051507Z">
         <seg>対象都市名を参照するファイルには、上記のファイルと同じデータが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filter layers on the map (if configured),</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134308Z" creationid="miurahr" creationdate="20201116T134308Z">
+        <seg>マップ上のレイヤーをフィルタ(設定されている場合)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5614,6 +5742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For the purposes of this Quick Start Guide, select Geographic information - Metadata (iso19139) and then select the blue **Load samples for selected standards** button below the list.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133531Z" creationid="miurahr" creationdate="20201116T133531Z">
+        <seg>このクイックスタートガイドでは、[地理情報メタデータ(iso19139)]を選択し、一覧の下にある青い**[選択された標準のサンプルをロード**]ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For this process we assume that HYP_50M_SR_W.tif has been properly created with bounds.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130136Z" creationid="miurahr" creationdate="20201116T130136Z">
@@ -5682,6 +5818,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>使いやすいグラフィカルなユーザーインターフェイス:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the **Search tab**, click on the card for **Physiographic Map of North and Central Eurasia (Sample record, please remove!)** to view the metadata.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134100Z" creationid="miurahr" creationdate="20201116T134100Z">
+        <seg>**検索タブ**から、**Physiographic Region of North and Central Eurasia(これはサンプルです。削除できます!)**のカードをクリックしてメタデータをビューに移動します。マップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5762,6 +5906,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T045112Z" creationid="miurahr" creationdate="20201102T045112Z">
         <seg>基本的にOSMの焦点はデータにあり、リッチな地図は、これから単純に溢れたものとなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further information such as a web page,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134141Z" creationid="miurahr" creationdate="20201116T134141Z">
+        <seg>Webページなどの詳細情報</seg>
       </tuv>
     </tu>
     <tu>
@@ -7494,6 +7646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the top right of the record are icons for:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133931Z" creationid="miurahr" creationdate="20201116T133931Z">
+        <seg>レコードの右上には、次のアイコンがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the upper right, a toggleable legend box is provided.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131653Z" creationid="miurahr" creationdate="20201116T131653Z">
@@ -8774,10 +8934,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manage existing layers or change the background map (the default is openstreetmap),</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134242Z" creationid="miurahr" creationdate="20201116T134242Z">
+        <seg>既存のレイヤーを管理するか、背景のマップを変更します(既定はOpenStreetMap)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manage the Map, by setting it back to default settings, loading a new map definition, downloading the current map, or saving the map configuration as a layer in the catalog,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134315Z" creationid="miurahr" creationdate="20201116T134315Z">
+        <seg>マップを管理します。既定の設定に戻すか、新しいマップ定義を読み込むか、現在のマップをダウンロードするか、マップの設定をレイヤとしてカタログに保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Management of the full lifecycle of the reference codes (based on the ISO 19135 Standard)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T015442Z" creationid="miurahr" creationdate="20201103T015442Z">
         <seg>(ISO19135規格に基づく)リファレンスコードのライフサイクル全体の管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Managing the record (such as assigning viewing or editing privileges, transferring ownership to a different user)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133950Z" creationid="miurahr" creationdate="20201116T133950Z">
+        <seg>レコードの管理(表示または編集権限の割り当て、所有権の別のユーザーへの転送など)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9054,6 +9238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Measure distances on the map,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134327Z" creationid="miurahr" creationdate="20201116T134327Z">
+        <seg>地図上の距離を計測</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Meteorology and Climatology</seg>
       </tuv>
       <tuv lang="ja">
@@ -9242,6 +9434,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>マウス: 特にMac でトラックパッドを使用している方には、3ボタンマウスの利用をお勧めします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move down the page until the **Download and links** section is visible.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134118Z" creationid="miurahr" creationdate="20201116T134118Z">
+        <seg>ページを下へ移動して、**ダウンロードとリンク**セクションを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11046,6 +11246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Print the map,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134319Z" creationid="miurahr" creationdate="20201116T134319Z">
+        <seg>マップを印刷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Printing and PDF Generation</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002617Z" creationid="miurahr" creationdate="20201103T002617Z">
@@ -11715,6 +11923,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Return to the catalog homepage by selecting the catalog name in the top left of the top toolbar.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133548Z" creationid="miurahr" creationdate="20201116T133548Z">
+        <seg>トップツールバーの左上に表示されているカタログ名を選択して、カタログのホームページに戻ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reverse line direction (good for rivers &amp; one-way streets) |image32|</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052928Z" creationid="miurahr" creationdate="20201103T052928Z">
@@ -11987,6 +12203,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Search for spatial data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133540Z" creationid="miurahr" creationdate="20201116T133540Z">
+        <seg>空間データを検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Searchable archives of the mailing list are hosted by `Nabble &lt;http://www.osgeo-org.1560.x6.nabble.com/OSGeoLive-f3777350.html&gt;`_.</seg>
       </tuv>
       <tuv lang="ja">
@@ -12051,6 +12275,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select **Search** in the top toolbar to access the Search page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133708Z" creationid="miurahr" creationdate="20201116T133708Z">
+        <seg>トップツールバーの**検索**を選択して、検索ページにアクセスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select **Sign in** in the top right of the top toolbar in the homepage to visit the sign in page.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133406Z" creationid="miurahr" creationdate="20201116T133406Z">
@@ -12071,6 +12303,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>:guilabel:`Install` を選択します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a card to take you to a page showing the full details for that record.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133917Z" creationid="miurahr" creationdate="20201116T133917Z">
+        <seg>カードを選択すると、そのレコードの詳細全体が表示されるページに移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12119,6 +12359,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075919Z" creationid="miurahr" creationdate="20201103T075919Z">
         <seg>描画ツールを選択した状態で、編集したいオブジェクトの一部をクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the blue **Back to search** button to return to the Search page when you’re done.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133924Z" creationid="miurahr" creationdate="20201116T133924Z">
+        <seg>青色の[**検索に戻る**]ボタンをクリックすると、検索ページに戻ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12963,10 +13211,34 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Switching to **Full view** or **XML view**</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134008Z" creationid="miurahr" creationdate="20201116T134008Z">
+        <seg>**完全なビュー**または**XMLビュー**に切り替える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Switching to **Full view** will show more detailed metadata.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134015Z" creationid="miurahr" creationdate="20201116T134015Z">
+        <seg>**完全なビュー**に切り替えると、より詳細なメタデータが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Switzerland</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T062214Z" creationid="miurahr" creationdate="20201102T062214Z">
         <seg>スイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Synchronise layers with the small map on the Search tab,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134324Z" creationid="miurahr" creationdate="20201116T134324Z">
+        <seg>検索タブでレイヤーを小さなマップに同期させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13063,6 +13335,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>"コスト" パラメータは SQL 経由で動的に計算可能で、複数の列やテーブルからの値を使用することも可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **Download and links** section shows external resources associated with the metadata record, such as:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134134Z" creationid="miurahr" creationdate="20201116T134134Z">
+        <seg>**ダウンロードとリンク**セクションには、メタデータレコードに関連付けられた次のような外部リソースが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13319,6 +13599,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T015347Z" creationid="miurahr" creationdate="20201103T015347Z">
         <seg>Re3gistryソフトウェアのバージョン番号は、セマンティック・バージョン付与標準2.0.0に準拠しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Search page provides different ways for search:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133714Z" creationid="miurahr" creationdate="20201116T133714Z">
+        <seg>検索ページには、さまざまな検索方法が用意されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13627,6 +13915,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The default standards in GeoNetwork 3.2 are:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133502Z" creationid="miurahr" creationdate="20201116T133502Z">
+        <seg>GeoNetwork3.2の既定の標準規格は次のとおりです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The demo data are published under a |CC BY 3.0| License.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T072137Z" creationid="sanak" creationdate="20201103T072137Z">
@@ -13763,6 +14059,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The homepage will now show icons representing the loaded records, classified by topic (in blue) and resource type (in green).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133651Z" creationid="miurahr" creationdate="20201116T133651Z">
+        <seg>ホームページには、トピック(青)とリソースタイプ(緑)で分類された読み込んだレコードを表すアイコンが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The iD editor is a great way to edit for small and easy changes that don't require the advanced features of JOSM (a more advanced mapping editor).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051314Z" creationid="miurahr" creationdate="20201103T051314Z">
@@ -13847,6 +14151,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041253Z" creationid="miurahr" creationdate="20201108T041234Z">
         <seg>このリストでは標準的なUNIXのページャの使いかたを示します - スペースで次のページ、:kbd:`b`は戻る、:kbd:`q`は終了、hはヘルプを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The lower group of tools look like this:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134335Z" creationid="miurahr" creationdate="20201116T134335Z">
+        <seg>下のグループのツールは次のようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14011,6 +14323,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The search results are depicted as “cards”, showing the Categories the metadata is classified with, the title of the record, a thumbnail, an abstract (if present) and links to downloads and other resources (if present).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133911Z" creationid="miurahr" creationdate="20201116T133911Z">
+        <seg>検索結果は「カード」として表示され、メタデータが分類されるカテゴリ、レコードのタイトル、サムネイル、要約(存在する場合)、ダウンロードおよびその他のリソースへのリンク(存在する場合)が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The server starts in a terminal window (which stays open and outputs basic debugging information).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055623Z" creationid="miurahr" creationdate="20201103T055623Z">
@@ -14091,6 +14411,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The tools are as follows:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134220Z" creationid="miurahr" creationdate="20201116T134220Z">
+        <seg>ツールは次のとおりです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The tools that are available when you select a shape and activate the context menu with the right mouse button are similar to those when you click on a line.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053127Z" creationid="miurahr" creationdate="20201103T053127Z">
@@ -14103,6 +14431,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075419Z" creationid="miurahr" creationdate="20201103T073539Z">
         <seg>最も重要なボタンは、このカラムの一番上のほうに配置されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The top group looks like this:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134217Z" creationid="miurahr" creationdate="20201116T134217Z">
+        <seg>一番上のグループは次のようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14375,6 +14711,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014111Z" creationid="miurahr" creationdate="20201103T014111Z">
         <seg>これらのサブプロジェクトには、* Proj4js (JavaScript) - used in :doc:`OpenLayers &lt;openlayers_overview&gt;`があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are as follows:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134338Z" creationid="miurahr" creationdate="20201116T134338Z">
+        <seg>次のとおりです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14755,6 +15099,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This step will switch you to the **Map** tab in the catalog, and after a short delay the WMS layer will be added to the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134204Z" creationid="miurahr" creationdate="20201116T134204Z">
+        <seg>この手順により、カタログの**マップ**タブに切り替わり、少し時間が経つとWMSレイヤがマップに追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This tab lists all the metadata standards loaded in the catalog.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133457Z" creationid="miurahr" creationdate="20201116T133457Z">
+        <seg>このタブには、カタログにロードされているすべてのメタデータ標準が一覧表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This table has three fields - one for a numeric ID identifying the city, one for the city name, and another for the geometry column:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T042728Z" creationid="miurahr" creationdate="20201108T042728Z">
@@ -15131,6 +15491,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To switch back to the original view select **Default view** from the list.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134019Z" creationid="miurahr" creationdate="20201116T134019Z">
+        <seg>元のビューに戻すには、一覧から**既定のビュー**を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To try out the applications, simply:</seg>
       </tuv>
       <tuv lang="ja">
@@ -15167,6 +15535,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>世界をマッピングするためのツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tools for using the Map are arranged in two groups in the right-hand side of the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134211Z" creationid="miurahr" creationdate="20201116T134211Z">
+        <seg>マップを使用するためのツールは、マップの右側に2つのグループで配置されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15567,6 +15943,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071131Z" creationid="miurahr" creationdate="20201103T071131Z">
         <seg>並列化のためのパッケージを使用すると、計算時間を大幅に削減し、これらの機能を向上させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the Manage Layers tool, select the cog symbol next to **Physiography of North and Central Eurasia Landform** and select **Zoom to layer**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134426Z" creationid="miurahr" creationdate="20201116T134426Z">
+        <seg>レイヤーを管理ツールを使用して、**Physiography of North and Central Eurasia Landform**の横にあるcogシンボルを選択し、**レイヤへズーム**を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16787,6 +17171,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can search the catalog, add layers from web services, or KML,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134233Z" creationid="miurahr" creationdate="20201116T134233Z">
+        <seg>カタログを検索したり、WebサービスやKMLからレイヤーを追加したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can select features from a Point, Line, Polygon, or from an existing feature.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132329Z" creationid="miurahr" creationdate="20201116T132329Z">
@@ -17123,10 +17515,42 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Zoom in on the map,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134341Z" creationid="miurahr" creationdate="20201116T134341Z">
+        <seg>地図上で拡大ズーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Zoom in to a famous group of lakes in Canada.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043751Z" creationid="miurahr" creationdate="20201108T043751Z">
         <seg>カナダの有名な湖のグループを拡大表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoom out on the map,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134345Z" creationid="miurahr" creationdate="20201116T134345Z">
+        <seg>地図上でズームアウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoom to the initial extent of the map,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134349Z" creationid="miurahr" creationdate="20201116T134349Z">
+        <seg>マップの最初の範囲にズーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoom to your position (if your browser is location-enabled),</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T134355Z" creationid="miurahr" creationdate="20201116T134355Z">
+        <seg>自分の位置にズームします(ブラウザがロケーション対応の場合)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17511,6 +17935,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T042235Z" creationid="miurahr" creationdate="20201108T042235Z">
         <seg>`raster` -データをn次元の行列として格納するデータ型で、各位置(ピクセル)は</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>a full text search box providing suggestions as you type,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T133736Z" creationid="miurahr" creationdate="20201116T133736Z">
+        <seg>入力時に提案を表示する全文検索ボックス</seg>
       </tuv>
     </tu>
     <tu>
