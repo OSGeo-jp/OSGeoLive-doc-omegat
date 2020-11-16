@@ -2838,6 +2838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additionally it supports multiple request types and queries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135534Z" creationid="miurahr" creationdate="20201116T135534Z">
+        <seg>さらに、複数のリクエストタイプとクエリをサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additionally there is a geographic search tool in the top left.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134402Z" creationid="miurahr" creationdate="20201116T134402Z">
@@ -3894,6 +3902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on *'see layers'* to open a simple map-client.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135602Z" creationid="miurahr" creationdate="20201116T135602Z">
+        <seg>*'see layers'*をクリックして、簡単なマップクライアントを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on Connections drop down menu and choose Natural Earth.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043455Z" creationid="miurahr" creationdate="20201108T043455Z">
@@ -3938,6 +3954,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132157Z" creationid="miurahr" creationdate="20201116T132157Z">
         <seg>上部ツールバーの"identify"(円形アイコンの中の"i")ボタンをクリック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the **+** on the right side to open a layer tree showing all available  layers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135617Z" creationid="miurahr" creationdate="20201116T135617Z">
+        <seg>右側の**+**をクリックすると、レイヤの木が開き、利用可能なすべてのレイヤが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14475,6 +14499,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The map client is based on `OpenLayers &lt;https://openlayers.org/&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T140731Z" creationid="miurahr" creationdate="20201116T140731Z">
+        <seg>マップクライアントは、`OpenLayers&lt;https://openlayers.org/&gt;`_に基づいています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The map will zoom to the extent of this layer.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134445Z" creationid="miurahr" creationdate="20201116T134445Z">
@@ -14647,6 +14679,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055623Z" creationid="miurahr" creationdate="20201103T055623Z">
         <seg>サーバはターミナルウィンドウで起動します(ターミナルウィンドウは開いたままになり、基本的なデバッグ情報を出力します)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The service is configured to visualize the data and a basemap (rendered by `OpenStreetMap &lt;https://www.openstreetmap.org/&gt;`_).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135610Z" creationid="miurahr" creationdate="20201116T135610Z">
+        <seg>このサービスは、データとベースマップ(`OpenStreetMap&lt;https://www.openstreetmap.org/&gt;`_)を視覚化するように設定されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15139,6 +15179,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This can easily changed to PostGIS, Oracle Spatial or Microsoft SQL Server as backend.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135545Z" creationid="miurahr" creationdate="20201116T135545Z">
+        <seg>これは、バックエンドとしてPostGIS、Oracle Spatial、Microsoft SQL Serverに簡単に変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This chapter demonstrates the basics of editing with iD.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051317Z" creationid="miurahr" creationdate="20201103T051317Z">
@@ -15535,6 +15583,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135314Z" creationid="miurahr" creationdate="20201116T135314Z">
         <seg>この作業フォルダには、INSPIREビュー・ダウンロードサービスの設定例が含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This workspace loads harmonized INSPIRE GML from local files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135539Z" creationid="miurahr" creationdate="20201116T135539Z">
+        <seg>この作業フォルダは、ローカルのファイルから調和されたINSPIRE GMLをロードします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16399,6 +16455,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>非常に美しい、マーカー、ポップアップ、その他地図コントロールのデフォルトのデザイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View a map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135548Z" creationid="miurahr" creationdate="20201116T135548Z">
+        <seg>マップビュー</seg>
       </tuv>
     </tu>
     <tu>
@@ -17279,6 +17343,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135238Z" creationid="miurahr" creationdate="20201116T135238Z">
         <seg>これで、実行中の*deegree*インスタンスの作業フォルダ管理が開始されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can activate the INSPIRE layer served by the deegree WMS here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T135621Z" creationid="miurahr" creationdate="20201116T135621Z">
+        <seg>deegree WMSが提供するINSPIREレイヤは、ここで有効化できます。</seg>
       </tuv>
     </tu>
     <tu>
