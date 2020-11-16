@@ -2422,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A map composition interface will display.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T143013Z" creationid="miurahr" creationdate="20201116T143013Z">
+        <seg>マップ合成インターフェイスが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A map shows data contained within layers, so we have created a tiled layer, represented by the ``ol.layer.Tile`` class, that loads content from the OpenStreetMap project, using the ``ol.source.OSM`` source class.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021026Z" creationid="miurahr" creationdate="20201108T015633Z">
@@ -2926,6 +2934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After the layer upload is completed, you can either preview the layer with *Layer Info* button, or edit the layer metadata with *Edit Metadata* or edit layer style on GeoServer with *Manage Styles* button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142915Z" creationid="miurahr" creationdate="20201116T142915Z">
+        <seg>レイヤのアップロードが完了したら、*Layer Info*ボタンを使用してレイヤをプレビューするか、*Edit Metadata*を使用してレイヤメタデータを編集するか、*Manage Styles*ボタンを使用してGeoServer上のレイヤスタイルを編集できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After you have your own username and password, you will be able to add your first points to the map, learn how to do street surveys and work with aerial imagery.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052209Z" creationid="miurahr" creationdate="20201102T052209Z">
@@ -3414,6 +3430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Be aware that you have to upload a complete set of files, consisting of a *shp*, a *prj*, a *dbf* and a *shx* file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142541Z" creationid="miurahr" creationdate="20201116T142541Z">
+        <seg>*shp*、*prj*、*dbf*、*shx*ファイルからなる完全なファイルセットをアップロードする必要があることに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Be sure to click on the line around the forest, not one of the points on the line.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075214Z" creationid="miurahr" creationdate="20201103T072854Z">
@@ -3610,6 +3634,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T123846Z" creationid="miurahr" creationdate="20201116T123846Z">
         <seg>点をクリックすると、マップは自動的にデータセットの範囲にズームします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By clicking one of the above *Upload* links you will be brought to the upload page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142523Z" creationid="miurahr" creationdate="20201116T142523Z">
+        <seg>上記の[アップロード]リンクのいずれかをクリックすると、アップロードページが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3990,6 +4022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the *New Layers* button and select *Add Layers*.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T143225Z" creationid="miurahr" creationdate="20201116T143225Z">
+        <seg>*New Layers* ボタンをクリックし、 *Add Layers*を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the Select tool, in the column of buttons on the left.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075858Z" creationid="miurahr" creationdate="20201103T075858Z">
@@ -4082,6 +4122,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T141800Z" creationid="miurahr" creationdate="20201116T141800Z">
         <seg>**Web Client**リンクをクリックして、統合されたEOxServerクライアントを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the *Explore Maps* link on the *Maps* toolbar.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142948Z" creationid="miurahr" creationdate="20201116T142948Z">
+        <seg>[*Maps*]ツールバーの[*Explore Maps*]リンクをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4502,6 +4550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create a new map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142937Z" creationid="miurahr" creationdate="20201116T142937Z">
+        <seg>新規マップの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create a project</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113723Z" creationid="miurahr" creationdate="20201103T113723Z">
@@ -4634,6 +4690,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>現在 (2017/08/11)、CRAN パッケージリポジトリで 11239 のパッケージが利用可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Currently, there aren't any maps here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142955Z" creationid="miurahr" creationdate="20201116T142955Z">
+        <seg>現在、地図はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6438,6 +6502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GeoNode has the ability to restrict who can view, edit, and manage layers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142728Z" creationid="miurahr" creationdate="20201116T142728Z">
+        <seg>GeoNodeには、レイヤのビュー、編集、管理が可能なユーザを制限する機能があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GeoNode is a web-based application and platform for developing geospatial information systems (GIS) and for deploying spatial data infrastructures (SDI).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142032Z" creationid="miurahr" creationdate="20201116T142032Z">
@@ -7318,6 +7390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a 404 popup message appears, ignore it, this is due to a missing GeoServer plugin that is not installed on OSGeoLive.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T143155Z" creationid="miurahr" creationdate="20201116T143155Z">
+        <seg>404ポップアップメッセージが表示された場合は無視してください。これは、OSGeoLiveにインストールされていないGeoServerプラグインが存在しないためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If a feature does not match any class then it is not rendered at all but if the last class in a layer contains no EXPRESSION then that class acts as a default.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022843Z" creationid="miurahr" creationdate="20201103T022843Z">
@@ -7346,6 +7426,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133122Z" creationid="miurahr" creationdate="20201116T133122Z">
         <seg>そうでない場合は、`インストールガイド&lt;https://geonetwork-opensource.org/manuals/trunk/en/install-guide/index.html&gt;`__を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If one of them is missing, GeoNode will warn you before you upload them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142545Z" creationid="miurahr" creationdate="20201116T142545Z">
+        <seg>いずれかが欠けていると、アップロード前にGeoNodeから警告が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7734,6 +7822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In case you want to upload data from any other page, from the navigation bar, select *Data* menu and click on the *Upload Layers* link.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142518Z" creationid="miurahr" creationdate="20201116T142518Z">
+        <seg>他のページからデータをアップロードする場合は、ナビゲーションバーから[*Data*]メニューを選択し、[*Upload Layers*]リンクをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In no event shall the copyright owner or contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, date, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liablity, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.*</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T111402Z" creationid="smellman" creationdate="20201101T111402Z">
@@ -7894,6 +7990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the same area, under *Who can edit this data*, select your username.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142816Z" creationid="miurahr" creationdate="20201116T142816Z">
+        <seg>同じ領域で、[*Who can edit this data*]の下からユーザー名を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the screenshot below, this is labelled  “My GeoNetwork catalogue” but it may have a different name and logo.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133355Z" creationid="miurahr" creationdate="20201116T133355Z">
@@ -7946,6 +8050,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>このサンプルでは、 `city_routing` というデータベースを作成し、そのデータベースで pgRouting を有効化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this interface there is a toolbar, layer list, and map window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T143159Z" creationid="miurahr" creationdate="20201116T143159Z">
+        <seg>このインターフェイスには、ツールバー、レイヤ一覧、マップウィンドウがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9934,6 +10046,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Navigate to :file:`/home/user/data/natural_earth2` folder and select all the :file:`ne_10m_admin_0_countries` files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142718Z" creationid="miurahr" creationdate="20201116T142718Z">
+        <seg>:file:`/home/user/data/natural_earth2`フォルダに移動し、:file:`ne_10m_admin_0_countries`ファイルをすべて選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Navigating the map</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131623Z" creationid="miurahr" creationdate="20201116T131623Z">
@@ -10166,6 +10286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now click *Choose Files* button and you'll see a file selection window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142550Z" creationid="miurahr" creationdate="20201116T142550Z">
+        <seg>次に、[*ファイルを選択*]ボタンをクリックすると、ファイル選択ウィンドウが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now click on the button (a folder icon) to browse to where you saved the OSGeoLive vmdk-file.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113509Z" creationid="miurahr" creationdate="20201103T113509Z">
@@ -10330,6 +10458,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043358Z" creationid="miurahr" creationdate="20201108T043358Z">
         <seg>では、QGISから地図を作る方法を説明しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now you should be able to see all the available layers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T143618Z" creationid="miurahr" creationdate="20201116T143618Z">
+        <seg>これで、利用可能なすべてのレイヤーが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10618,6 +10754,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T044030Z" creationid="miurahr" creationdate="20201108T044030Z">
         <seg>左側では、データベースからテーブルを選択し、右側のタブを使用してテーブルについて調べることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the right side of the page you can see the *Permission* section, where you can limit the access on your layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142733Z" creationid="miurahr" creationdate="20201116T142733Z">
+        <seg>ページの右側には*Permission*セクションが表示され、レイヤのアクセスを制限できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11586,6 +11730,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135302Z" creationid="miurahr" creationdate="20201116T135302Z">
         <seg>*deegree-inspire-workspace*の開始を押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press the *Layer Info* button to see the layer page</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142932Z" creationid="miurahr" creationdate="20201116T142932Z">
+        <seg>*Layer Info*ボタンを押して、レイヤページを表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -14675,6 +14827,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The map window contains the OpenStreetMap layer by default.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T143203Z" creationid="miurahr" creationdate="20201116T143203Z">
+        <seg>マップウィンドウには、既定でOpenStreetMapレイヤが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The most important buttons, however, are at the top of these column.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075400Z" creationid="miurahr" creationdate="20201103T073528Z">
@@ -14703,6 +14863,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T020422Z" creationid="miurahr" creationdate="20201108T020346Z">
         <seg>次の例は、緑の塗りと線を使用するようにスタイル設定された世界の行政区界データセットを示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The next step for you is to create a map and add the newly created layers to this map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142942Z" creationid="miurahr" creationdate="20201116T142942Z">
+        <seg>次のステップは、マップを作成し、新しく作成したレイヤをこのマップに追加することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14791,6 +14959,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022905Z" creationid="miurahr" creationdate="20201103T022905Z">
         <seg>この新しい追加の結果、地図イメージ内の大きな湖が黒いアウトラインでレンダリングされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The result will look like this:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142507Z" creationid="miurahr" creationdate="20201116T142507Z">
+        <seg>結果は次のようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15731,10 +15907,34 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will bring up the list of maps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142951Z" creationid="miurahr" creationdate="20201116T142951Z">
+        <seg>これにより、地図の一覧が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This will draw a single point.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075545Z" creationid="miurahr" creationdate="20201103T073630Z">
         <seg>単一の地点が1つ描画されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will ensure that anonymous view access is disabled.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142758Z" creationid="miurahr" creationdate="20201116T142758Z">
+        <seg>これにより、匿名のビューアクセスが無効になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will ensure that only you are able to edit the data in the layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142821Z" creationid="miurahr" creationdate="20201116T142821Z">
+        <seg>これにより、レイヤのデータを編集できるのはあなただけになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15859,6 +16059,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To add a layer to your account, select the *Upload* button on the top right of the *Layers* page:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142512Z" creationid="miurahr" creationdate="20201116T142512Z">
+        <seg>アカウントにレイヤを追加するには、*Layers*ページの右上にある*Upload*ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To add a new line, click on the **Line** button.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052503Z" creationid="miurahr" creationdate="20201103T052503Z">
@@ -15879,6 +16087,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051957Z" creationid="miurahr" creationdate="20201103T051957Z">
         <seg>新しい点を追加するには、[**Point**]ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To add one click the *Create a New Map* button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T143008Z" creationid="miurahr" creationdate="20201116T143008Z">
+        <seg>追加するには、*Create a New Map* ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16119,6 +16335,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>アプリケーションを試すには、単に以下の手順を実施します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To upload data, click the *Upload* button at the bottom.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142837Z" creationid="miurahr" creationdate="20201116T142837Z">
+        <seg>データをアップロードするには、下部の*Upload*ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16399,6 +16623,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>UTF Grid サポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Under *Who can view and download this data*, select *Any registered user*.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142754Z" creationid="miurahr" creationdate="20201116T142754Z">
+        <seg>[*Who can view and download this data*]の下で、[*Any registered user*]を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17787,6 +18019,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can either do that by using *drag &amp; drop* on the *Drop Files Here* area or you can use the *Choose Files* button to select them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142534Z" creationid="miurahr" creationdate="20201116T142534Z">
+        <seg>これは、*Drop Files Here*領域の*ドラッグ&amp;ドロップ*を使用するか、*Choose Files*ボタンを使用して選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can exclude single datasets using the "delete" checkbox on the right and click on "Save".</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T124919Z" creationid="miurahr" creationdate="20201116T124919Z">
@@ -17995,6 +18235,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have two possibilities to add your files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142526Z" creationid="miurahr" creationdate="20201116T142526Z">
+        <seg>ファイルを追加する方法は2つあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may notice that when you select an object, a list appears to the right of the map in a window called “Properties”.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075019Z" creationid="miurahr" creationdate="20201103T072736Z">
@@ -18055,6 +18303,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054643Z" creationid="miurahr" creationdate="20201103T054643Z">
         <seg>ブラウザでリンクhttp://localhost/geoext/demo.htmlを更新すると、下の画像のような完全なGeoExtアプリケーションが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should now be able to see all the files you want to upload.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T142723Z" creationid="miurahr" creationdate="20201116T142723Z">
+        <seg>これで、アップロードするすべてのファイルが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
