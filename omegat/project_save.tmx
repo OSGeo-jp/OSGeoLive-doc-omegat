@@ -5598,6 +5598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Experiment with this view and look at some of the other previews.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150654Z" creationid="miurahr" creationdate="20201116T150654Z">
+        <seg>このビューを試して、他のプレビューをいくつか見てみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Explicit control of the input and output ranges is also available.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130035Z" creationid="miurahr" creationdate="20201116T130035Z">
@@ -8142,6 +8150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this example we are going to use the :doc:`Natural Earth data set &lt;../overview/naturalearth_overview&gt;` that is included on OSGeoLive (:file:`/usr/local/share/data/natural_earth2/`).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150735Z" creationid="miurahr" creationdate="20201116T150735Z">
+        <seg>この例では、OSGeoLiveに含まれている:doc:`Natural Earthデータセット&lt;./overview/naturalearth_overview&gt;`(:file:`/usr/local/share/data/natural_earth2/`)を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this example we will create a database called `city_routing` and enable pgRouting in the database.</seg>
       </tuv>
       <tuv lang="ja">
@@ -9414,6 +9430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Loading data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150707Z" creationid="miurahr" creationdate="20201116T150701Z">
+        <seg>データをロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Loading map data</seg>
       </tuv>
       <tuv lang="ja">
@@ -9426,6 +9450,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>GNU libiconv によるロケール、文字コード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Log in using the username **admin** and password **geoserver**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150532Z" creationid="miurahr" creationdate="20201116T150532Z">
+        <seg>ユーザー名**admin**とパスワード**geoserver**を使用してログインします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10986,6 +11018,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113849Z" creationid="miurahr" creationdate="20201103T113849Z">
         <seg>レイヤをマップフレームにドラッグすると、土地被覆と水深を示すラスタレイヤが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once you are comfortable viewing existing data you can move on to adding some new data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150658Z" creationid="miurahr" creationdate="20201116T150658Z">
+        <seg>既存のデータを見やすくなったら、新しいデータを追加することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12851,6 +12891,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Scroll to the bottom of the page and click on the **OpenLayers** link in the **tiger-ny** row.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150613Z" creationid="miurahr" creationdate="20201116T150613Z">
+        <seg>ページの下部までスクロールし、**tiger-ny**行の**OpenLayers**リンクをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sea Floor Mapping</seg>
       </tuv>
       <tuv lang="ja">
@@ -13063,6 +13111,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T143631Z" creationid="miurahr" creationdate="20201116T143631Z">
         <seg>最初の項目をクリックし、Ctrlキーを押しながら残りの項目をクリックして、いくつかのレイヤーを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the **Layer Preview** link at the top of the *Data* section in the left hand menu to see a preview of the layers that are loaded on the server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150607Z" creationid="miurahr" creationdate="20201116T150607Z">
+        <seg>左側のメニューの *Data*セクションの一番上にある **Layer Preview**リンクをクリックすると、サーバーにロードされているレイヤのプレビューが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14603,6 +14659,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The application will take a few moments to start up and will open a web page at http://localhost:8082/geoserver/web</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150517Z" creationid="miurahr" creationdate="20201116T150517Z">
+        <seg>アプリケーションの起動には少し時間がかかり、http://localhost:8082/geoserver/web でWebページが開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The application will take a few moments to start up.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135118Z" creationid="miurahr" creationdate="20201116T135118Z">
@@ -16135,6 +16199,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T120301Z" creationid="miurahr" creationdate="20201103T120301Z">
         <seg>以下に示すように、Natural Earchデータセットを持つQGISプロジェクトが開かれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will open a new window with a preview of some of the sample data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150623Z" creationid="miurahr" creationdate="20201116T150623Z">
+        <seg>これにより、新しいウィンドウが開き、サンプルデータのプレビューが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18603,6 +18675,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You will either need to run in a Virtual Machine, or from a USB, or install OSGeoLive (or just GeoServer) onto your hard drive.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150722Z" creationid="miurahr" creationdate="20201116T150722Z">
+        <seg>仮想マシンまたはUSBから実行するか、OSGeoLive(または単にGeoServer)をハードドライブにインストールする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You will find the demo data at :file:`/usr/local/share/data`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125445Z" creationid="miurahr" creationdate="20201116T125445Z">
@@ -18619,6 +18699,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You will not be able to carry out the following steps if you are running with a **read only** file system (such as the DVD).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150715Z" creationid="miurahr" creationdate="20201116T150715Z">
+        <seg>**読み取り専用**ファイルシステム(DVDなど)を使用している場合は、次の手順を実行できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You will notice that the color of your shape will change depending on the attributes that you assign to it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053109Z" creationid="miurahr" creationdate="20201103T053109Z">
@@ -18631,6 +18719,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043536Z" creationid="miurahr" creationdate="20201108T043536Z">
         <seg>データベース内の空間テーブルのリストが表示されます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will now see the *admin page*.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150536Z" creationid="miurahr" creationdate="20201116T150536Z">
+        <seg>これで、*管理ページ*が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19335,6 +19431,30 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>異なるソースからのレイヤーツリーの構築</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>by clicking on the zoom bar on the left, the higher you click on it the more zoomed in you will see.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150632Z" creationid="miurahr" creationdate="20201116T150632Z">
+        <seg>左側のズームバーをクリックすると、クリックするほど拡大して表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>by dragging a box on the map while holding down the :kbd:`shift key` - this will zoom in to the box selected (or as near as will fit in the screen).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150650Z" creationid="miurahr" creationdate="20201116T150650Z">
+        <seg>:kbd:`shiftキー`-を押しながらマップ上のボックスをドラッグすると、選択されたボックスにズームします(または画面に収まる程度にズームします)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>by using the mouse scroll wheel (if you have one), scrolling up will zoom in and down will zoom out.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150638Z" creationid="miurahr" creationdate="20201116T150638Z">
+        <seg>マウスのスクロールホイールを使用すると(ある場合)、上へスクロールするとズームインし、下へスクロールするとズームアウトします。</seg>
       </tuv>
     </tu>
     <tu>
