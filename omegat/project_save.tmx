@@ -1886,6 +1886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3 Bands of type Byte.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125611Z" creationid="miurahr" creationdate="20201116T125611Z">
+        <seg>バイト型の3バンドです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3 different projections are available (3D Globe, Flat Map, Mercator)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010320Z" creationid="miurahr" creationdate="20201103T010320Z">
@@ -3034,6 +3042,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T102540Z" creationid="smellman" creationdate="20201103T102540Z">
         <seg>ホストの船舶が移動すると、新しいチャートが選択され、ユーザ指定の解像度および詳細で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As we saw before with gdainfo no coordinate system was set.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130143Z" creationid="miurahr" creationdate="20201116T130143Z">
+        <seg>前に見たように、gdainfoには座標系が設定されていませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4974,6 +4990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Explicit control of the input and output ranges is also available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130035Z" creationid="miurahr" creationdate="20201116T130035Z">
+        <seg>入力および出力範囲の明示的な制御も可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Explore the `screenshot collection &lt;https://grass.osgeo.org/learn/gallery/&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011215Z" creationid="miurahr" creationdate="20201103T011215Z">
@@ -5158,6 +5182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>First get to know your drivers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125616Z" creationid="miurahr" creationdate="20201116T125616Z">
+        <seg>まずドライバーについて知りましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>First lets create a map tile layer using OpenStreetMap, and some WMS layers that are available from the MapServer Itasca demo on OSGeoLive.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054043Z" creationid="miurahr" creationdate="20201103T054043Z">
@@ -5270,6 +5302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For every image a polygon is generated with the bounds of the extent of the polygon and the path to the file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130119Z" creationid="miurahr" creationdate="20201116T130119Z">
+        <seg>すべてのイメージに対して、ポリゴンの範囲とファイルへのパスの境界を持つポリゴンが生成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example we can be notified each time the mouse is moved over the map, or when a feature is added to a vector layer, etc.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021242Z" creationid="miurahr" creationdate="20201108T021242Z">
@@ -5362,6 +5402,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T060209Z" creationid="miurahr" creationdate="20201103T060209Z">
         <seg>地上LASデータの場合、これらの座標系の記述は、 `EPSG`_データベースによって記述された座標系にマップされることがよくあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For this process we assume that HYP_50M_SR_W.tif has been properly created with bounds.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130136Z" creationid="miurahr" creationdate="20201116T130136Z">
+        <seg>このプロセスでは、HYP_50M_SR_W.tifが境界付きで正しく作成されているものとします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5982,6 +6030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Get information about the raster data with gdalinfo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125550Z" creationid="miurahr" creationdate="20201116T125550Z">
+        <seg>gdalinfoでラスタデータの情報を取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Get information about the vector data with ogrinfo</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020900Z" creationid="miurahr" creationdate="20201103T020900Z">
@@ -6206,6 +6262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Have a look at your output shapefile with QGIS and ogrinfo (you will learn more about ogrinfo later in this tutorial)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130127Z" creationid="miurahr" creationdate="20201116T130127Z">
+        <seg>QGISとogrinfoを使用して、出力シェイプファイルを見てみましょう(ogrinfoについては、このチュートリアルの後半で詳しく説明します)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Heatmaps.</seg>
       </tuv>
       <tuv lang="ja">
@@ -6218,6 +6282,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041923Z" creationid="miurahr" creationdate="20201103T041923Z">
         <seg>したがって、観測データはRESTfulな方法で要求することができ、JSONエンコードされた応答で返されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here we reproject the WGS84 geographic image to the Mercator projection:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130156Z" creationid="miurahr" creationdate="20201116T130156Z">
+        <seg>ここでは、WGS84の地理的イメージをメルカトル図法に再投影します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here we reproject to the Ortho projection.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130206Z" creationid="miurahr" creationdate="20201116T130206Z">
+        <seg>ここでは、オルソ投影に再投影します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8038,6 +8118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's split our image into two with `-srcwin` which makes a copy based on pixel/line location (xoff yoff xsize ysize).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130051Z" creationid="miurahr" creationdate="20201116T130051Z">
+        <seg>ピクセル/ラインの位置に基づいてコピーを作成する`-srcwin`を使用して、イメージを2つに分割してみましょう(xoff yoff xsize ysize)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's start by adding a vector layer to the map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113740Z" creationid="miurahr" creationdate="20201103T113740Z">
@@ -8918,6 +9006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note how the poles are clipped?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130254Z" creationid="miurahr" creationdate="20201116T130241Z">
+        <seg>極がどのようにクリップされているかご注意ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note that Javascript security will prevent sourcing of datasets from an external URL on a different domain / port (a.k.a.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T020026Z" creationid="miurahr" creationdate="20201108T020026Z">
@@ -9682,6 +9778,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052501Z" creationid="miurahr" creationdate="20201102T052501Z">
         <seg>[デスクトップGIS]フォルダを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the file with a Desktop GIS like QGIS, and have a look.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125545Z" creationid="miurahr" creationdate="20201116T125545Z">
+        <seg>QGISのようなデスクトップGISを使用してファイルを開き、確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10803,6 +10907,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Raster tileindex with gdaltindex</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130108Z" creationid="miurahr" creationdate="20201116T130108Z">
+        <seg>gdaltindex付きラスタータイルインデックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Raster: WMS/WMTS, OpenStreetMap, Stamen, Bing, other XYZ sources, static images, etc.</seg>
       </tuv>
       <tuv lang="ja">
@@ -10815,6 +10927,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053224Z" creationid="miurahr" creationdate="20201103T053224Z">
         <seg>むしろ、これらの等高線を別々に描き、外側の等高線のみにタグを付け、すべての等高線を選択して**c**を押し、それらをいわゆるマルチポリゴンに結合します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Read more about this in the RasterTutorial https://trac.osgeo.org/gdal/wiki/UserDocs/RasterProcTutorial.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130347Z" creationid="miurahr" creationdate="20201116T130347Z">
+        <seg>詳細については、RasterTutorial https://trac.osgeo.org/gdal/wiki/UserDocs/RasterProcTutorialをご覧ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11575,6 +11695,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113338Z" creationid="miurahr" creationdate="20201103T113338Z">
         <seg>したがって、スムーズな動作には合計2GBが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So the first step is to copy the data to your home directory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125505Z" creationid="miurahr" creationdate="20201116T125505Z">
+        <seg>したがって、最初のステップは、データをホームディレクトリにコピーすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So we assign WGS84 as coordinate system to the image in the first step.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130147Z" creationid="miurahr" creationdate="20201116T130147Z">
+        <seg>そこで、最初のステップでWGS84を座標系としてイメージに割り当てます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12555,10 +12691,50 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `--format` commandline switch can be used to query details about a particular driver, including creation options, and permitted data types.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125635Z" creationid="miurahr" creationdate="20201116T125635Z">
+        <seg>`--format`コマンドラインスイッチを使用すると、特定のドライバについて、作成オプションや許可されたデータ型などを含めて詳細に問い合わせることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `--formats` commandline switch of gdal_translate can be used to see a list of available format drivers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125624Z" creationid="miurahr" creationdate="20201116T125624Z">
+        <seg>gdal_translateの`--formats`コマンドラインスイッチを使用すると、利用可能なフォーマットドライバの一覧を表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `-of` flag is used to select an output format and the -co flag is used to specify a creation option:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125716Z" creationid="miurahr" creationdate="20201116T125716Z">
+        <seg>`-of`フラグは出力フォーマットの選択に使用され、-coフラグは作成オプションの指定に使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `-ot` switch can be used to alter the output data type.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125723Z" creationid="miurahr" creationdate="20201116T125723Z">
+        <seg>`-ot`スイッチを使用して、出力データ型を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `-outsize` switch can be used to set the size of the output file.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>`-outsize` スイッチを使用して、出力ファイルのサイズを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `-scale` switch can be used to rescale data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130029Z" creationid="miurahr" creationdate="20201116T130029Z">
+        <seg>`-scale`スイッチは、データの再スケールに使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12771,6 +12947,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The default output format is GeoTIFF.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125641Z" creationid="miurahr" creationdate="20201116T125641Z">
+        <seg>既定の出力形式はGeoTIFFです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The default renderer is *canvas*.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T015432Z" creationid="miurahr" creationdate="20201108T015432Z">
@@ -12863,6 +13047,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013628Z" creationid="miurahr" creationdate="20201103T013628Z">
         <seg>Rで利用できる機能は、GISや画像処理ソフトウェアの機能を補完し、拡張します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The gdalinfo `-mm` switch can be used to see pixel min/max values.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130043Z" creationid="miurahr" creationdate="20201116T130043Z">
+        <seg>gdalinfo`-mm`スイッチを使用して、ピクセルの最小値/最大値を表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The gdalwarp command can be used to reproject images.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130152Z" creationid="miurahr" creationdate="20201116T130152Z">
+        <seg>gdalwarpコマンドを使用して、イメージを再投影できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13651,6 +13851,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is because the edges at the pole can't be reprojected gdalwarp does not read all the data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130323Z" creationid="miurahr" creationdate="20201116T130323Z">
+        <seg>これは、極のエッジを再投影できないためです。gdalwarpはすべてのデータを読み取りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is because you have defined what it is.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T080042Z" creationid="miurahr" creationdate="20201103T080042Z">
@@ -14085,8 +14293,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Translation</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>翻訳</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125710Z">
+        <seg>変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Translations are accomplished with the gdal_translate command.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125651Z" creationid="miurahr" creationdate="20201116T125651Z">
+        <seg>変換はgdal_translateコマンドで行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14335,6 +14551,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>gdalinfo を使用してデータ型を検証します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use gdalinfo to verify the change and have a look at the image.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130202Z" creationid="miurahr" creationdate="20201116T130202Z">
+        <seg>gdalinfoを使用して変更を確認し、イメージを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use gdalinfo to verify the size.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130016Z" creationid="miurahr" creationdate="20201116T130016Z">
+        <seg>gdalinfoを使用してサイズを検証します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14675,6 +14907,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We can force gdalwarp to read a bunch of surplus data around chunks as one way to resolve this.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130337Z" creationid="miurahr" creationdate="20201116T130337Z">
+        <seg> これを解決する1つの方法として、gdalwarpにチャンク周辺の余剰データを強制的に読み取らせることができます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We can use this as a way to render the lakes differently.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022801Z" creationid="miurahr" creationdate="20201103T022801Z">
@@ -14743,6 +14983,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075839Z" creationid="miurahr" creationdate="20201103T075806Z">
         <seg>ポイントを追加するときには、それが店舗なのか、学校なのか、それとも他の施設なのかを示しましょう。シェイプについても同様で、そこがなにに使われている土地なのか、それとも建物なのか、などを示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We want to have a look at the :doc:`Natural Earth data &lt;../overview/naturalearth_overview&gt;` in this quickstart.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125454Z" creationid="miurahr" creationdate="20201116T125454Z">
+        <seg>このクイックスタートの:doc:`Natural Earthデータ&lt;./overview/naturalearth_overview&gt;`を見てみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We want to work with a copy of the data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125500Z" creationid="miurahr" creationdate="20201116T125500Z">
+        <seg>データのコピーを操作します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15323,6 +15579,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You also could use `-projwin` and define the corners in georeferenced coordinates (ulx uly lrx lry).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130104Z" creationid="miurahr" creationdate="20201116T130104Z">
+        <seg>`-projwin`を使用して、地理参照座標(ulx uly lrx lry)でコーナーを定義することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You are now back to system console:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043333Z" creationid="miurahr" creationdate="20201108T043333Z">
@@ -15375,6 +15639,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>インストールした仮想マシンのバックアップが可能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can build a shapefile as a raster tileindex.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T130113Z" creationid="miurahr" creationdate="20201116T130113Z">
+        <seg>シェイプファイルをラスタタイルインデックスとして作成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15715,6 +15987,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You will find the demo data at :file:`/usr/local/share/data`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125445Z" creationid="miurahr" creationdate="20201116T125445Z">
+        <seg>デモデータは:file:`/usr/local/share/data`にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You will know the project has been saved because there will be a project file on the desktop called 'My QGIS project' and the top of your project document will no longer read as 'untitled' but instead will read as 'My QGIS project'.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T114003Z" creationid="miurahr" creationdate="20201103T113954Z">
@@ -15743,6 +16023,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052522Z" creationid="miurahr" creationdate="20201102T052507Z">
         <seg>QGISが空プロジェクトで起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will then find a NaturalEarth Raster file and a .tfw World-file at: ::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125537Z" creationid="miurahr" creationdate="20201116T125537Z">
+        <seg>次のNaturalEarth Rasterファイルと.tfw World-fileがあることを確認してください:::</seg>
       </tuv>
     </tu>
     <tu>
