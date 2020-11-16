@@ -3310,6 +3310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Build a shapefile as a raster tileindex with gdaltindex</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125359Z" creationid="miurahr" creationdate="20201116T125359Z">
+        <seg>シェイプファイルをgdaltindex付きのラスタータイルインデックスとして作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build customized packages to reduce size.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010945Z" creationid="miurahr" creationdate="20201103T010945Z">
@@ -4998,6 +5006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Explore your image data with gdalinfo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125316Z" creationid="miurahr" creationdate="20201116T125316Z">
+        <seg>gdalinfoを使用して画像データを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Extensible plugin architecture</seg>
       </tuv>
       <tuv lang="ja">
@@ -5294,6 +5310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, you can inspect the dataset series that is loaded by default by clicking the "Dataset Series" link and then the "MER_FRS_1P_RGB_reduced" link.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T124859Z" creationid="miurahr" creationdate="20201116T124859Z">
+        <seg>たとえば、既定でロードされているデータセットシリーズを検査するには、[データセットシリーズ]リンクをクリックし、[MER_FRS_1P_RGB_reduced]リンクをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For further details, check the `comprehensive list of OGC standards &lt;https://www.ogc.org/standards/&gt;`__.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013431Z" creationid="miurahr" creationdate="20201103T013431Z">
@@ -5350,6 +5374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Format translations with gdal_translate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125343Z" creationid="miurahr" creationdate="20201116T125343Z">
+        <seg>gdal_translateでフォーマット変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fortunately R is well documented on the web site which eases the learning process.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013658Z" creationid="miurahr" creationdate="20201103T013658Z">
@@ -5394,6 +5426,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>使いやすいグラフィカルなユーザーインターフェイス:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the EOxServer main page, click the **Admin Client** link and login with user `admin` and password `admin`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T124634Z" creationid="miurahr" creationdate="20201116T124634Z">
+        <seg>EOxServerのメインページで[**Admin Client**]リンクをクリックし、ユーザー「admin」とパスワード「admin」でログインします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6182,10 +6222,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here you can also see the included datasets.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T124906Z" creationid="miurahr" creationdate="20201116T124906Z">
+        <seg>ここでは、含まれているデータセットも確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here's a few resources to check out next:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023349Z" creationid="miurahr" creationdate="20201103T023349Z">
         <seg>次に、いくつかのをいくつか紹介しよう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here’s a few resources to check out next:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125049Z" creationid="miurahr" creationdate="20201116T125049Z">
+        <seg>次に、いくつかのをいくつか紹介しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6502,6 +6558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you are already in the OSGeoLive environment, read the local copy of the `EOxServer Users' local documentation &lt;https://localhost/eoxserver-docs/EOxServer_documentation.pdf&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125242Z" creationid="miurahr" creationdate="20201116T125242Z">
+        <seg>すでにOSGeoLive環境にいる場合は、メディアにはいっている`EOxServer Users'ローカルドキュメント&lt;https://localhost/eoxserver-docs/EOxServer_documentation.pdf&gt;`_をお読みください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you are reading this quickstart outside OSGeoLive you may prefer reading the original demo on: https://leafletjs.com/examples/quick-start/, since this demo uses tilestache on OSGeoLive.</seg>
       </tuv>
       <tuv lang="ja">
@@ -6594,6 +6658,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043111Z" creationid="miurahr" creationdate="20201108T043111Z">
         <seg>ジオメトリを再びWKT形式で表示する場合は、関数ST_AsText(geom)またはST_AsEwkt(geom)を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want to visualize the results, you can use one of the Desktop GIS Software applications on OSGeoLive like :doc:`../overview/qgis_overview`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125430Z" creationid="miurahr" creationdate="20201116T125430Z">
+        <seg>結果を視覚化する場合は、OSGeoLiveのデスクトップGISソフトウェアアプリケーションの1つである:doc:`../overview/qgis_overview`を使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8510,6 +8582,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>More information can be found in the `operators' guide &lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T124738Z" creationid="miurahr" creationdate="20201116T124738Z">
+        <seg>詳細については、`運用者ガイド&lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mosaic your data with gdal_warp or gdal_merge.py</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125353Z" creationid="miurahr" creationdate="20201116T125353Z">
+        <seg>データをgdal_warpまたはgdal_merge.pyでモザイク化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mosaicking</seg>
       </tuv>
       <tuv lang="ja">
@@ -9974,10 +10062,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please feel free to explore the client.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T124647Z" creationid="miurahr" creationdate="20201116T124647Z">
+        <seg>クライアントを自由にご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please note, that when you disable the "MER FRS 1P RGB reduced" layer, the timeslider widget is hidden and only reappears once a layer dataset layer is enabled.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T123320Z" creationid="miurahr" creationdate="20201116T123320Z">
         <seg>"MER FRS1P RGB reduced"レイヤを無効にすると、タイムスライダウィジェットは非表示になり、レイヤデータセットレイヤが有効になると再表示されることに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please refer to the `online documentation &lt;https://docs.eoxserver.org/en/latest/users/webclient.html&gt;`_ for more information on this topic.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T124616Z" creationid="miurahr" creationdate="20201116T124616Z">
+        <seg>このトピックの詳細については、`オンライン文書 &lt;https://docs.eoxserver.org/en/latest/users/webclient.html&gt;`_を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10715,6 +10819,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Read the `EOxServer Operators' Guide &lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125130Z" creationid="miurahr" creationdate="20201116T125130Z">
+        <seg>`EOxServer 運用者ガイド&lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_を読んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Read the `Introduction to MapServer &lt;https://mapserver.org/introduction.html#introduction&gt;`_.</seg>
       </tuv>
       <tuv lang="ja">
@@ -10723,10 +10835,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Read the complete `EOxServer Users' documentation &lt;https://docs.eoxserver.org/en/latest/users/index.html&gt;`_ starting from the `EOxServer Basics &lt;https://docs.eoxserver.org/en/latest/users/basics.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125154Z" creationid="miurahr" creationdate="20201116T125154Z">
+        <seg>`EOxServerの基本事項&lt;https://docs.eoxserver.org/en/latest/users/basics.html&gt;`_から始まる完全な`EOxServer ユーザーズドキュメント&lt;https://docs.eoxserver.org/en/latest/users/index.html&gt;`_を読んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reading and writing spatial data</seg>
       </tuv>
       <tuv lang="ja">
         <seg>空間データの読み込みと書き出し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ready to use EOxServer?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125246Z" creationid="miurahr" creationdate="20201116T125246Z">
+        <seg>EOxServerを使用する準備はできていますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10839,6 +10967,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>レプリケーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reproject your data with gdalwarp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125348Z" creationid="miurahr" creationdate="20201116T125348Z">
+        <seg>gdalwarpを使用してデータを再投影</seg>
       </tuv>
     </tu>
     <tu>
@@ -11183,6 +11319,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T105719Z" creationid="smellman" creationdate="20201101T105719Z">
         <seg>あなたのニーズを満たすために、 https://www.osgeo.org/service-providers/  をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the :doc:`EOxServer Overview &lt;../overview/eoxserver_overview&gt;` for more information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125110Z" creationid="miurahr" creationdate="20201116T125110Z">
+        <seg>詳細については、:doc:`EOxServerの概要&lt;./overview/eoxserver_overview&gt;`を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12427,6 +12571,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `Admin Client` is Djangos standard admin and allows you to configure the available data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T124639Z" creationid="miurahr" creationdate="20201116T124639Z">
+        <seg>`Admin Client`はDjangos標準の管理者であり、利用可能なデータを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `ExtJS 6.2.0 API docs &lt;https://docs.sencha.com/extjs/6.2.0/&gt;`_</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054740Z" creationid="miurahr" creationdate="20201103T054740Z">
@@ -12543,6 +12695,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011432Z" creationid="miurahr" creationdate="20201103T011432Z">
         <seg>各マップ画層の外観は、フィーチャの色付けとラベル付けを可能にするSLD標準を使用してコントロールできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bounding box is used for querying within the Download Tool.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T124528Z" creationid="miurahr" creationdate="20201116T124528Z">
+        <seg>境界ボックスは、ダウンロードツール内でクエリに使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12835,6 +12995,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The only thing you'll need for this quickstart is a terminal.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125415Z" creationid="miurahr" creationdate="20201116T125415Z">
+        <seg>このクイックスタートに必要なのはターミナルだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The panel on the left will show the upload panel.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053335Z" creationid="miurahr" creationdate="20201103T053335Z">
@@ -12863,6 +13031,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T044921Z" creationid="miurahr" creationdate="20201102T044921Z">
         <seg>自由だと考えられている地図の多くは、実は法的・技術的な制約があり、人々が創造的に、生産的に、あるいは今まで予期しなかった方法でそれを利用することを妨げているため、このプロジェクトは開始されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The project website contains a lot of resources to help you get started.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125030Z" creationid="miurahr" creationdate="20201116T124936Z">
+        <seg>プロジェクトのWebサイトには、はじめての人に役立つ資材がたくさん用意されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12903,6 +13079,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003134Z" creationid="miurahr" creationdate="20201103T003134Z">
         <seg>作成されるWebマップは、デスクトップとまったく同じように表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The results are shown in the Download widget, where you can select the format, projection and datasets to download.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T124543Z" creationid="miurahr" creationdate="20201116T124543Z">
+        <seg>結果はダウンロードウィジェットに表示され、ダウンロードするフォーマット、投影、データセットを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13087,6 +13271,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023521Z" creationid="miurahr" creationdate="20201103T023521Z">
         <seg>次に、`メーリングリスト&lt;https://www.mapserver.org/community/lists.html&gt;` _のコミュニティに参加して、アイデアを交換したり、ソフトウェアの改善点について話し合ったり、質問したりします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then join the community on the `mailing lists &lt;https://docs.eoxserver.org/en/latest/users/mailing_lists.html&gt;`_ to exchange ideas, discuss potential software improvements, and ask questions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125301Z" creationid="miurahr" creationdate="20201116T125301Z">
+        <seg>次に、`メーリングリスト&lt;https://docs.eoxserver.org/en/latest/users/mailing_lists.html&gt;`_のコミュニティに参加して、アイデアを交換したり、ソフトウェアの改善点について話し合ったり、質問したりします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13443,6 +13635,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is a simple demonstration, but you can do much more with EOxServer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T124929Z" creationid="miurahr" creationdate="20201116T124929Z">
+        <seg>これは簡単なデモですが、EOxServerでできることはたくさんあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is a simple example, but you can do much, much more.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023341Z" creationid="miurahr" creationdate="20201103T023341Z">
@@ -13531,6 +13731,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This query include s the selected time of interest and bounding box.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T124537Z" creationid="miurahr" creationdate="20201116T124537Z">
+        <seg>このクエリには、選択された対象の時刻と境界ボックスが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This quick start details the steps to create a rich web application using GeoExt components in less than 200 lines of code.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053833Z" creationid="miurahr" creationdate="20201103T053833Z">
@@ -13575,6 +13783,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054228Z" creationid="miurahr" creationdate="20201103T054228Z">
         <seg>これは、作成したOpenLayersマップを使用し、アプリケーションの``中央``領域に配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This was a quick introduction to the EOxServer Web Client.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T124549Z" creationid="miurahr" creationdate="20201116T124549Z">
+        <seg>これは、EOxServer Web Clientの簡単な説明です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14883,6 +15099,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the Download Tool is enabled, a query to the server is sent.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T124533Z" creationid="miurahr" creationdate="20201116T124533Z">
+        <seg>ダウンロードツールが有効になると、サーバーへのクエリーが送信されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you are editing an object, you will see a strip of icons at the bottom of the attribute panel.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053354Z" creationid="miurahr" creationdate="20201103T053354Z">
@@ -15059,6 +15283,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Work with the Admin Client</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T124623Z" creationid="miurahr" creationdate="20201116T124623Z">
+        <seg>管理クライアントとの連携</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>XML Bindings:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T063036Z" creationid="miurahr" creationdate="20201103T063036Z">
@@ -15215,6 +15447,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071138Z" creationid="miurahr" creationdate="20201103T071138Z">
         <seg>RはGRASS-GIS、Qgis、PostgreSQL、postGISで簡単にプラグインできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can exclude single datasets using the "delete" checkbox on the right and click on "Save".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T124919Z" creationid="miurahr" creationdate="20201116T124919Z">
+        <seg>単一のデータセットを除外するには、右側の[削除]チェックボックスをオンにして[保存]をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16403,6 +16643,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>get information about your data with ogrinfo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125406Z" creationid="miurahr" creationdate="20201116T125406Z">
+        <seg>ogrinfoでデータに関する情報を取得する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>gvSIG Desktop</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T064030Z" creationid="miurahr" creationdate="20201103T064030Z">
@@ -17023,6 +17271,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>単純な算術演算には R を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>use ogr2ogr to transform your data to other formats</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T125410Z" creationid="miurahr" creationdate="20201116T125410Z">
+        <seg>ogr2ogrを使用してデータを他の形式に変換</seg>
       </tuv>
     </tu>
     <tu>
