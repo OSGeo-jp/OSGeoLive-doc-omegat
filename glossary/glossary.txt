@@ -46,3 +46,4 @@ view	ビュー
 map	マップ
 raster layer	ラスタレイヤ
 vector layer	ベクタレイヤ
+symbolizer	図案化	検討が必要
