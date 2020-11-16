@@ -2158,6 +2158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A "Jump to" location pull down list</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132008Z" creationid="miurahr" creationdate="20201116T132008Z">
+        <seg>"Jump to"の場所のプルダウンリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A "line" created in the iD editor is actually a "way" with "tags" on it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053012Z" creationid="miurahr" creationdate="20201103T053012Z">
@@ -2178,6 +2186,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053146Z" creationid="miurahr" creationdate="20201103T053146Z">
         <seg>iDエディタの"ポリゴン"は、実際にはタグが付いた"閉じたウエイ"です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A Footer bar with:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132111Z" creationid="miurahr" creationdate="20201116T132111Z">
+        <seg>フッタバー:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2226,6 +2242,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054718Z" creationid="miurahr" creationdate="20201103T054718Z">
         <seg>`GeoExtワークショップ&lt;https://github.com/geoext/GeoExt3-ws&gt;`_では、ExtJSアプリケーションでGeoExt3を設定および使用するためのすべての手順について詳しく説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A banner bar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131952Z" creationid="miurahr" creationdate="20201116T131952Z">
+        <seg>バナーバー</seg>
       </tuv>
     </tu>
     <tu>
@@ -2350,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A map window with navigation and zoom controls</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131959Z" creationid="miurahr" creationdate="20201116T131959Z">
+        <seg>ナビゲーションとズームコントロールを備えたマップウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A multitude of raster and vector data formats</seg>
       </tuv>
       <tuv lang="ja">
@@ -2430,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A side menu with:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132003Z" creationid="miurahr" creationdate="20201116T132003Z">
+        <seg>サイドメニュー:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A single PostgreSQL server lets you organise work by arranging it into separate databases.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041034Z" creationid="miurahr" creationdate="20201108T041034Z">
@@ -2458,6 +2498,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T020714Z" creationid="miurahr" creationdate="20201108T020258Z">
         <seg>スタイルは、``ol.style.Style``クラスによって表され、このクラスは、適用される``fill``、``stroke``、``text``および``image``を設定するプロパティを有する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A tool bar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131955Z" creationid="miurahr" creationdate="20201116T131955Z">
+        <seg>ツールバー</seg>
       </tuv>
     </tu>
     <tu>
@@ -2886,6 +2934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively, you can then access the application using the following URL: `&lt;http://localhost:8080/geomajas/&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131610Z" creationid="miurahr" creationdate="20201116T131610Z">
+        <seg>あるいは、次のURLを使用してアプリケーションにアクセスすることもできます。`&lt;http://localhost:8080/geomajas/&gt;`_。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Although MapServer is geared towards web applications, it can also produce images on the command line.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022218Z" creationid="miurahr" creationdate="20201103T022218Z">
@@ -2922,6 +2978,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T015417Z" creationid="miurahr" creationdate="20201108T015417Z">
         <seg>OpenLayersマップはHTML DOM要素にアタッチする必要があるため、*map*idで識別される``&lt;div&gt;``要素を作成しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An editable pull down list for a view scales to choose from or define.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132133Z" creationid="miurahr" creationdate="20201116T132133Z">
+        <seg>選択または定義するビュースケールの編集可能なプルダウンリスト。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3018,6 +3082,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T044241Z" creationid="sanak" creationdate="20201103T044241Z">
         <seg>ライブラリとして、サポートしている全てのフォーマットについて、アプリケーション呼び出しのための単一抽象データモデルを提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As needed, additional tabs will appear: an "Information" readout, a "Custom" output tab, and others.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132108Z" creationid="miurahr" creationdate="20201116T132108Z">
+        <seg>必要に応じて、追加のタブが表示されます:"Information"の読み出し、"Custom"の出力タブなどです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3574,6 +3646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose to measure a point, line, or polygon.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132259Z" creationid="miurahr" creationdate="20201116T132259Z">
+        <seg>ポイント、ライン、ポリゴンの計測を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chrome for Android 4+ and iOS</seg>
       </tuv>
       <tuv lang="ja">
@@ -3626,6 +3706,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055615Z" creationid="miurahr" creationdate="20201103T055615Z">
         <seg> :menuselection:`Desktop --&gt; Spatial Tools --&gt; Start Mapnik &amp; TileStache`をクリック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click a point on the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132214Z" creationid="miurahr" creationdate="20201116T132214Z">
+        <seg>マップ上の点をクリックしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3686,10 +3774,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the "identify" ("i" in a circle icon) button in the top toolbar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132157Z" creationid="miurahr" creationdate="20201116T132157Z">
+        <seg>上部ツールバーの"identify"(円形アイコンの中の"i")ボタンをクリック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the Select tool, in the column of buttons on the left.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075858Z" creationid="miurahr" creationdate="20201103T075858Z">
         <seg>画面左側にあるカラムから、”選択”ツールをクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the desktop icon "Start GeoMoose".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131938Z" creationid="miurahr" creationdate="20201116T131938Z">
+        <seg>デスクトップアイコン"Start GeoMoose"をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the map where you want to measure.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132255Z" creationid="miurahr" creationdate="20201116T132255Z">
+        <seg>測定するマップ上でクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3742,6 +3854,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the double ended arrow icon in the top toolbar to start the measuring tool.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132250Z" creationid="miurahr" creationdate="20201116T132250Z">
+        <seg>上部ツールバーの両端の矢印アイコンをクリックして、測定ツールを起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the info icon in the upper left to toggle between basic or more detailed information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131744Z" creationid="miurahr" creationdate="20201116T131744Z">
+        <seg>左上の情報アイコンをクリックして、基本情報と詳細情報を切り替えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the navigation buttons to move the imagery.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051935Z" creationid="miurahr" creationdate="20201103T051935Z">
@@ -3770,6 +3898,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055651Z" creationid="miurahr" creationdate="20201103T055651Z">
         <seg>このリンク http://localhost:8012/example/0/0/0.png をクリックして、ターミナルウィンドウの出力を確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clicking on the map will display the related information if available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131739Z" creationid="miurahr" creationdate="20201116T131739Z">
+        <seg>地図をクリックすると、関連情報が表示されます(利用可能な場合)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3962,6 +4098,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>貢献者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Control tabs starting with "Catalog", for displaying the layer list.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132016Z" creationid="miurahr" creationdate="20201116T132016Z">
+        <seg>"Catalog"で始まるコントロールタブで、レイヤ一覧を表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4618,6 +4762,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052504Z" creationid="miurahr" creationdate="20201102T052504Z">
         <seg>「QGIS」アイコンをダブルクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double click to end the line/polygon.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132314Z" creationid="miurahr" creationdate="20201116T132314Z">
+        <seg>ダブルクリックしてライン/ポリゴンを終了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5478,6 +5630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From the Desktop, select :menuselection:`Browser Clients --&gt; Start Geomajas`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131601Z" creationid="miurahr" creationdate="20201116T131601Z">
+        <seg>デスクトップから:menuselection:`Browser Clients--&gt;Start Geomajas`を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From the EOxServer main page, click the **Admin Client** link and login with user `admin` and password `admin`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T124634Z" creationid="miurahr" creationdate="20201116T124634Z">
@@ -5742,6 +5902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gathering information</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131727Z" creationid="miurahr" creationdate="20201116T131727Z">
+        <seg>情報の収集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>General GIS viewing, editing and analysis in the browser</seg>
       </tuv>
       <tuv lang="ja">
@@ -5778,6 +5946,30 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053825Z" creationid="miurahr" creationdate="20201103T053812Z">
         <seg>GeoExtはブラウザ上で動作するJavaScriptライブラリであり、ExtJSフレームワークとOpenLayersライブラリを組み合わせて拡張したものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoMoose Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131907Z" creationid="miurahr" creationdate="20201116T131907Z">
+        <seg>GeoMooseクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoMoose is a GIS data portal management framework.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131922Z" creationid="miurahr" creationdate="20201116T131922Z">
+        <seg>GeoMooseはGISデータポータル管理フレームワークです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoMoose is a browser based mapping framework for displaying distributed cartographic data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131911Z" creationid="miurahr" creationdate="20201116T131911Z">
+        <seg>GeoMooseは、分散型地図データを表示するためのブラウザベースのマッピングフレームワークです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5906,6 +6098,30 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T062032Z" creationid="miurahr" creationdate="20201103T062032Z">
         <seg>GeoTools_サポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geomajas Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131538Z" creationid="miurahr" creationdate="20201116T131538Z">
+        <seg>Geomajasクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geomajas applications have the ability to display a variety of information within the layers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131733Z" creationid="miurahr" creationdate="20201116T131733Z">
+        <seg>Geomajasアプリケーションには、レイヤー内のさまざまな情報を表示する機能があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geomajas itself is an application framework allowing you to build very diverse and advanced web GIS solutions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131543Z" creationid="miurahr" creationdate="20201116T131543Z">
+        <seg>Geomajas自身は、非常に多様で高度なWeb GISソリューションを構築できるアプリケーションフレームワークです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6194,6 +6410,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043958Z" creationid="miurahr" creationdate="20201108T043958Z">
         <seg> ``Database -&gt; DB Manager -&gt; DB Manager``に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the "Browser Clients" folder on the desktop.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131934Z" creationid="miurahr" creationdate="20201116T131934Z">
+        <seg>デスクトップ上の"Browser Clients"フォルダに移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6590,6 +6814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Identify a location</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132138Z" creationid="miurahr" creationdate="20201116T132138Z">
+        <seg>ロケーションを識別</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Identify features by attributes, point, bounding box or geometry across one or more layers</seg>
       </tuv>
       <tuv lang="ja">
@@ -6774,10 +7006,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you want to adjust your selection you can do that with the "Modify Feature" option.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132405Z" creationid="miurahr" creationdate="20201116T132405Z">
+        <seg>選択を調整する場合は、[地物の変更]オプションを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want to have a look at your geometry in WKT format again, you can use the functions ST_AsText(geom) or ST_AsEwkt(geom).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043111Z" creationid="miurahr" creationdate="20201108T043111Z">
         <seg>ジオメトリを再びWKT形式で表示する場合は、関数ST_AsText(geom)またはST_AsEwkt(geom)を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want to use this sample application to build and customize your own Web GIS solution, visit `&lt;http://www.geomajas.org/client-gwt&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131756Z" creationid="miurahr" creationdate="20201116T131756Z">
+        <seg>このサンプルアプリケーションを使用して独自のWeb GISソリューションを構築およびカスタマイズする場合は、`&lt;http://www.geomajas.org/client-gwt&gt;`_を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7118,6 +7366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the upper right, a toggleable legend box is provided.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131653Z" creationid="miurahr" creationdate="20201116T131653Z">
+        <seg>右上に、切り替え可能な凡例ボックスが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this Quickstart we will use 'PostgreSQL' when describing general database functions, and 'PostGIS' when describing the additional spatial functionality provided by PostGIS.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T040634Z" creationid="miurahr" creationdate="20201108T040634Z">
@@ -7130,6 +7386,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T020111Z" creationid="miurahr" creationdate="20201108T020111Z">
         <seg>この場合、フィーチャーを表すジオメトリを作成する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this case, it will show the results of a query of each active and identifiable layer for the point that you clicked in the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132229Z" creationid="miurahr" creationdate="20201116T132229Z">
+        <seg>この場合、レイヤ内でクリックしたポイントについて、有効で識別可能な各マップのクエリー結果が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7382,6 +7646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Interested in learning more about Geomajas?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131829Z" creationid="miurahr" creationdate="20201116T131829Z">
+        <seg>Geomajasについてもっと知りたいですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>International keyboard support is installed, but you will need to configure the system for your specific keyboard.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055009Z" creationid="miurahr" creationdate="20201103T055009Z">
@@ -7626,6 +7898,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052413Z" creationid="miurahr" creationdate="20201102T052413Z">
         <seg>多くの場合、Mapnikを使用してOSMデータを視覚的にレンダリングするために使用されます。これは、MapnikがPostgreSQLにOSMデータを視覚的にレンダリングする場合によく使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is particularly useful for managing spatial and non-spatial data within county, city and municipal offices (from which GeoMoose originated).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131917Z" creationid="miurahr" creationdate="20201116T131917Z">
+        <seg>これは、郡、市、市のオフィス(GeoMooseの起源)内の空間データと非空間データの管理に特に便利です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8878,6 +9158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Multiple coordinate readouts, one each for: X,Y (local dataset coordinates), LAT/LON (Decimal) and United States National Grid (USNG)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132125Z" creationid="miurahr" creationdate="20201116T132125Z">
+        <seg>複数の座標表示:X、Y(データセットのローカル座標)、LAT/LON(10進数)、United States National Grid(USNG)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NMEA GPS or `Gpsd &lt;https://www.berlios.de/software/gpsd/&gt;`_ daemon input</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T102722Z" creationid="smellman" creationdate="20201103T102722Z">
@@ -8954,6 +9242,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T114121Z" creationid="miurahr" creationdate="20201103T114121Z">
         <seg> '/home/user/qgis-example'に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Navigating the map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131623Z" creationid="miurahr" creationdate="20201116T131623Z">
+        <seg>マップのナビゲーション</seg>
       </tuv>
     </tu>
     <tu>
@@ -9634,6 +9930,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T123240Z" creationid="miurahr" creationdate="20201116T123240Z">
         <seg>上部には、レイヤ選択とツールウィジェットを表示するメニューバーが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On this OSGeo Live DVD we have included a ready-to-use Geomajas Application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131548Z" creationid="miurahr" creationdate="20201116T131548Z">
+        <seg>このOSGeo Live DVDには、すぐに使用できるGeomajas Applicationが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10338,6 +10642,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010332Z" creationid="miurahr" creationdate="20201103T010332Z">
         <seg>Positioning&amp;Tracking(GPSとWLANのローカリゼーション、KMLでのトラックエクスポート)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Positive values expand what you drew by that distance, negative values shrink your drawing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132419Z" creationid="miurahr" creationdate="20201116T132419Z">
+        <seg>正の値を指定すると、その距離で描いたものが拡大され、負の値を指定すると縮小されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11571,6 +11883,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select features</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132344Z" creationid="miurahr" creationdate="20201116T132325Z">
+        <seg>地物を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select keyboard</seg>
       </tuv>
       <tuv lang="ja">
@@ -11631,6 +11951,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>user="user", password="user" でログインします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select which layer you want to select features from using the "Query Layer" select-box.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132433Z" creationid="miurahr" creationdate="20201116T132423Z">
+        <seg>「クエリーレイヤ」選択ボックスを使用して、地物を選択するレイヤを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12015,6 +12343,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042749Z" creationid="miurahr" creationdate="20201103T042749Z">
         <seg>標準インスペクタ: スキーマの妥当性、識別子の完全性、INSPIRE要件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start GeoMoose</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131930Z" creationid="miurahr" creationdate="20201116T131930Z">
+        <seg>GeoMooseを開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start Geomajas</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131556Z" creationid="miurahr" creationdate="20201116T131556Z">
+        <seg>Geomajasを開始</seg>
       </tuv>
     </tu>
     <tu>
@@ -12571,10 +12915,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The GeoMoose measure tool allows you to: * measure a point (return the coordinates of a picked point) * measure the distance along a potentially multi-segment line * measure the area of a polygon.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132245Z" creationid="miurahr" creationdate="20201116T132245Z">
+        <seg>GeoMooseの計測ツールを使用すると、次のことができます。*点を計測(選択された点の座標を返す)*複数の区間を含む可能性のある線に沿った距離を計測*ポリゴンの面積を計測</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Geographic Resources Analysis Support System, commonly referred to as GRASS, is a Geographic Information System (GIS) providing powerful raster, vector, and geospatial processing engines in a single integrated software suite.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011059Z" creationid="miurahr" creationdate="20201103T011059Z">
         <seg>GRASS(Geographic Resources Analysis Support System)は、一般にGRASSと呼ばれる地理情報システム(GIS)で単一の統合ソフトウェアスイートで提供する地理情報システム(GIS)です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Interfaces presented above shows:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131949Z" creationid="miurahr" creationdate="20201116T131949Z">
+        <seg>上記のインターフェイスは次のものを示しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12963,6 +13323,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The catalog along the left side of the Map view will change to the "Super Tab" - a place to where GeoMoose displays results of an action or asks for more information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132223Z" creationid="miurahr" creationdate="20201116T132223Z">
+        <seg>マップビューの左側に表示されるカタログが「Super Tab」に変わります。GeoMooseがアクションの結果を表示したり、詳細情報を要求したりする場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The client makes a request to the server and gets back a response.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T040744Z" creationid="miurahr" creationdate="20201108T040744Z">
@@ -13015,6 +13383,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011644Z" creationid="miurahr" creationdate="20201103T011644Z">
         <seg>シェープファイルや JSON のような標準規格同様に、データは圧縮した GML で送受信を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default is to buffer by "0" which does nothing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132414Z" creationid="miurahr" creationdate="20201116T132414Z">
+        <seg>既定値は"0"でバッファリングされ、何も行われません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13075,6 +13451,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The download page always features the latest and greatest sample applications, documentation, tips and tricks to roll-your-own.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131813Z" creationid="miurahr" creationdate="20201116T131813Z">
+        <seg>ダウンロードページには、常に最新で最高のサンプルアプリケーション、ドキュメント、独自のロールアップのためのヒントやトリックが掲載されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The example uses the natural earth dataset, which is already on OSGeoLive at :file:`~/data/natural_earth2` (a short cut to :file:`/usr/local/share/data/natural_earth2`).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021735Z" creationid="miurahr" creationdate="20201103T021735Z">
@@ -13103,6 +13487,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021425Z" creationid="miurahr" creationdate="20201108T021420Z">
         <seg>次のコードでは、マップのインスタンスにイベントを登録し、ポインタが移動するたびに通知されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following links provide more information:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131835Z" creationid="miurahr" creationdate="20201116T131835Z">
+        <seg>詳細については、次のリンクを参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13191,6 +13583,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022513Z" creationid="miurahr" creationdate="20201103T022513Z">
         <seg>MapServerによってレンダリングされたイメージは、前のマップに似ていますが、新しいレイヤから湖が追加されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The installed version of GeoMoose on the Live DVD is an example configuration that displays an example set of layers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131927Z" creationid="miurahr" creationdate="20201116T131927Z">
+        <seg>Live DVDにインストールされているGeoMooseのバージョンは、レイヤのサンプルセットを表示する設定例です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13827,6 +14227,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This also shows more detailed information about each layer regarding icons and colouring.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131706Z" creationid="miurahr" creationdate="20201116T131706Z">
+        <seg>これにより、アイコンと色に関する各レイヤの詳細情報も表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This application features a map, navigation controllers, several data layers, a ribbon toolbar with GIS tools and the Layer Tree.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131553Z" creationid="miurahr" creationdate="20201116T131553Z">
+        <seg>このアプリケーションは、マップ、ナビゲーションコントローラ、複数のデータレイヤ、GISツールを含むリボンツールバー、およびレイヤツリーを特徴としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This can be useful if you are looking for repetitive mapping, or while debugging.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022223Z" creationid="miurahr" creationdate="20201103T022223Z">
@@ -13983,6 +14399,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T040802Z" creationid="miurahr" creationdate="20201108T040802Z">
         <seg>これは、インターネットが動作するのと同じ方法です。つまり、ブラウザあり、WebサーバはWebページを送り返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This legend gives you an overview of all the layers currently loaded into the application, with the option to turn them on or off.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131702Z" creationid="miurahr" creationdate="20201116T131702Z">
+        <seg>この凡例は、アプリケーションにロードされているすべてのレイヤの概要を、オン/オフのオプション付きで示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14243,6 +14667,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To continue using the stand-alone application, visit `&lt;http://files.geomajas.org/downloads/2.3.0/geomajas-standalone-gwt2.zip&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131826Z" creationid="miurahr" creationdate="20201116T131826Z">
+        <seg>スタンドアロンアプリケーションの使用を継続するには、`&lt;http://files.geomajas.org/downloads/2.3.0/geomajas-standalone-gwt2. zip&gt;`_を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To continue using the web demo, visit `&lt;http://www.geomajas.org/demo&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131821Z" creationid="miurahr" creationdate="20201116T131821Z">
+        <seg>ウェブデモを継続するには、`&lt;http://www.geomajas.org/demo&gt;`_をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To create a new project, choose :menuselection:`Project --&gt; New`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113735Z" creationid="miurahr" creationdate="20201103T113735Z">
@@ -14291,6 +14731,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To get a closer look, you can either use the mousewheel to zoom in or use the provided zoom-buttons in the upper left of the application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131637Z" creationid="miurahr" creationdate="20201116T131637Z">
+        <seg>よく見るには、マウスホイールを使用してズームインするか、アプリケーションの左上に表示されるズームボタンを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To get the geometry into the geometry column we use the PostGIS ``ST_GeomFromText`` function to convert from a text format that gives the coordinates and a spatial reference system id:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043018Z" creationid="miurahr" creationdate="20201108T043018Z">
@@ -14303,6 +14751,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052554Z" creationid="smellman" creationdate="20201103T052554Z">
         <seg>生成されたタイルを検査するには、次のように入力します::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To measure a line or polygon click on the map for each vertex a of the line/polygon.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132310Z" creationid="miurahr" creationdate="20201116T132310Z">
+        <seg>ラインまたはポリゴンを計測するには、ライン/ポリゴンの各頂点aのマップ上でクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To measure a point, just click the point on the map you want to measure.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132304Z" creationid="miurahr" creationdate="20201116T132304Z">
+        <seg>点を計測するには、マップ上で計測する点をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14351,6 +14815,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T074538Z" creationid="miurahr" creationdate="20201103T072437Z">
         <seg>オブジェクトを選択するには、対象を左クリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To start, click on the "Select Features" icon (mouse cursor icon), pick point, line, polygon and start drawing your selection in the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132353Z" creationid="miurahr" creationdate="20201116T132353Z">
+        <seg>開始するには、「Select Features」アイコン(マウスカーソルアイコン)をクリックし、ポイント、ライン、ポリゴンを選択して、マップで選択の描画を開始します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14627,6 +15099,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Understanding the legend</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131648Z" creationid="miurahr" creationdate="20201116T131648Z">
+        <seg>凡例について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unless they redigitise your data there is no way to steal your data.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011600Z" creationid="miurahr" creationdate="20201103T011436Z">
@@ -14711,6 +15191,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043028Z" creationid="miurahr" creationdate="20201108T043028Z">
         <seg>矢印キーを使用して、コマンドラインを呼び出したり編集します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the measuring tool</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132234Z" creationid="miurahr" creationdate="20201116T132234Z">
+        <seg>測定ツールを使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -14983,6 +15471,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003156Z" creationid="miurahr" creationdate="20201103T003156Z">
         <seg>QGISを使用したWYSIWYGマップの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait for Geomajas to open in a browser window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131605Z" creationid="miurahr" creationdate="20201116T131605Z">
+        <seg>Geomajasがブラウザウィンドウで開くまで待ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15563,6 +16059,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you’re finished using the application, select :menuselection:`Browser Clients --&gt; Stop Geomajas`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131617Z" creationid="miurahr" creationdate="20201116T131617Z">
+        <seg>アプリケーションの使用が終了したら、:menuselection:`Browser Clients--&gt;Stop Geomajas`を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Which outputs:</seg>
       </tuv>
       <tuv lang="ja">
@@ -15707,6 +16211,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You also have the option to select features based on a buffered version of what you drew.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132410Z" creationid="miurahr" creationdate="20201116T132410Z">
+        <seg>描画したもののバッファバージョンに基づいてフィーチャを選択するオプションもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You are now back to system console:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043333Z" creationid="miurahr" creationdate="20201108T043333Z">
@@ -15743,6 +16255,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T123735Z" creationid="miurahr" creationdate="20201116T123735Z">
         <seg>点の上にカーソルを置くと、データセットIDを表示することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also select an area to display by clicking the magnifier icon and selecting the desired area (via rectangular select).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131644Z" creationid="miurahr" creationdate="20201116T131644Z">
+        <seg>拡大アイコンをクリックして、表示する領域を選択することもできます(矩形選択)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15835,10 +16355,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can double click the last point to finish the drawing process.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132358Z" creationid="miurahr" creationdate="20201116T132358Z">
+        <seg>最後の点をダブルクリックすると、描画プロセスを終了できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can drag points from the line by clicking your left mouse button on a point and dragging it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052530Z" creationid="miurahr" creationdate="20201103T052530Z">
         <seg>ポイント上でマウスの左ボタンをクリックしてドラッグすると、ラインからポイントをドラッグできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can drag the map with your mouse so that the desired area is centered on your screen.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131628Z" creationid="miurahr" creationdate="20201116T131628Z">
+        <seg>マップをマウスでドラッグすると、目的の領域が画面の中央に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15927,6 +16463,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>VM 内に作業状態を保存することが可能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can select features from a Point, Line, Polygon, or from an existing feature.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132329Z" creationid="miurahr" creationdate="20201116T132329Z">
+        <seg>地物はポイント、ライン、ポリゴン、または既存の地物から選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16135,6 +16679,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T015400Z" creationid="miurahr" creationdate="20201108T015400Z">
         <seg>次のように表示されるはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will be presented with a web page displaying a demo interface of a GeoMoose instance.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T131945Z" creationid="miurahr" creationdate="20201116T131945Z">
+        <seg>Webページが表示され、GeoMooseインスタンスのデモインターフェイスが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17751,6 +18303,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T103245Z" creationid="smellman" creationdate="20201103T103245Z">
         <seg>出力: GML, SHP, WKT, DXF+, CSV+, PostGIS &amp; JPG, TIFF, ASCII grid*, SVG+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>you can also measure a pre-existing feature on the map (if it is from a vector layer, including previous query results) without having to manually trace over it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T132321Z" creationid="miurahr" creationdate="20201116T132321Z">
+        <seg>手動でトレースすることなく、マップ上の既存の地物を計測することもできます(ベクタレイヤからのものであれば、前のクエリー結果を含めて)。</seg>
       </tuv>
     </tu>
     <tu>
