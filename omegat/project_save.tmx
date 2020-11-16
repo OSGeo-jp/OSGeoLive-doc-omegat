@@ -13333,8 +13333,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select the ``Add New Style`` link.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T231923Z" creationid="miurahr" creationdate="20201116T231923Z">
-        <seg>``Add New Style``リンクを選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T233056Z" creationid="miurahr" creationdate="20201116T231923Z">
+        <seg>``新規スタイル追加``リンクを選択します。</seg>
       </tuv>
     </tu>
     <tu>
