@@ -2454,6 +2454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A new dialog will appear with instructions on how to embed this map in a webpage, including a code snippet.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T145910Z" creationid="miurahr" creationdate="20201116T145910Z">
+        <seg>新しいダイアログが表示され、このマップをWebページに埋め込む方法がコードスニペットを含めて指示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A number of editors to choose from</seg>
       </tuv>
       <tuv lang="ja">
@@ -6150,6 +6158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From the Start menu, select |osgeolive-appmenupath-geoserver|.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150507Z" creationid="miurahr" creationdate="20201116T150507Z">
+        <seg>スタートメニューから、|osgeolive-appmenupath-geoserver|を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From the ``Table`` menu choose the ``Import layer/file`` option.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T044123Z" creationid="miurahr" creationdate="20201108T044123Z">
@@ -6602,6 +6618,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011414Z" creationid="miurahr" creationdate="20201103T011414Z">
         <seg>GeoServer は、ブラウザベースの管理インターフェイスを持ち、バックエンド側で複数のデータソースへ接続します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoServer is a java application for serving maps (and data) for other clients (such as web browsers) to draw.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150434Z" creationid="miurahr" creationdate="20201116T150434Z">
+        <seg>GeoServerは、他のクライアント(Webブラウザなど)が描画するマップ(およびデータ)を提供するJavaアプリケーションです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7614,6 +7638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you need help or want to get some information about a specific topic please don't hasitate to ask us!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150213Z" creationid="miurahr" creationdate="20201116T150148Z">
+        <seg>ヘルプが必要な場合や、特定のトピックに関する情報を取得したい場合は、遠慮なくお問い合わせください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you now run ``psql -l`` you should see your ``demo`` database in the listing.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041731Z" creationid="miurahr" creationdate="20201108T041731Z">
@@ -7898,6 +7930,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142108Z" creationid="miurahr" creationdate="20201116T142108Z">
         <seg>マップを作成してレイヤを追加するには、最初にサインインする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In order to get started with GeoNode our `documentation &lt;https://docs.geonode.org/en/master/&gt;`_ might be useful.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150142Z" creationid="miurahr" creationdate="20201116T150142Z">
+        <seg>GeoNodeを使用するには、`documentation&lt;https://docs.geonode.org/en/master/&gt;`_が便利です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9414,6 +9454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make any adjustments as necessary, and click *Save*.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T145508Z" creationid="miurahr" creationdate="20201116T145508Z">
+        <seg>必要に応じて調整し、 *Save*をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make any final adjustments to the map composition as desired, including zoom and pan settings.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T145340Z" creationid="miurahr" creationdate="20201116T145340Z">
@@ -10546,6 +10594,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T143618Z" creationid="miurahr" creationdate="20201116T143618Z">
         <seg>これで、利用可能なすべてのレイヤーが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now you've gotten a quick insight in the possibilities of GeoNode.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T145923Z" creationid="miurahr" creationdate="20201116T145923Z">
+        <seg>これで、GeoNodeの可能性について簡単に理解できました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16347,6 +16403,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To install GeoNode on your own server, follow our `Quick Installation Guide &lt;https://docs.geonode.org/en/master/start/index.html#quick-installation-guide&gt;`_ .</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T145956Z" creationid="miurahr" creationdate="20201116T145934Z">
+        <seg>GeoNodeを独自のサーバーにインストールするには、`クイックインストールガイド&lt;https://docs.geonode.org/en/master/start/index.html#quick-installation-guide&gt;`_に従ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To learn more about GeoNode and its features, visit our webpage www.geonode.org.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T145928Z" creationid="miurahr" creationdate="20201116T145928Z">
+        <seg>GeoNodeとその機能の詳細については、Webページwww.geonode.orgを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To manage the included and ready-to-use workspaces, click *'workspaces'* on the left side.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135232Z" creationid="miurahr" creationdate="20201116T135232Z">
@@ -17995,6 +18067,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can adjust the parameters as necessary.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T145912Z" creationid="miurahr" creationdate="20201116T145912Z">
+        <seg>必要に応じてパラメータを調整できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can also hover on a dot to see the dataset ID.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T123735Z" creationid="miurahr" creationdate="20201116T123735Z">
@@ -18119,6 +18199,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134458Z" creationid="miurahr" creationdate="20201116T134458Z">
         <seg>このダイアログを閉じるには、右上隅の**X**を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can do this through the #geonode IRC channel using https://webchat.freenode.net/, through the `GeoNode Gitter channel &lt;https://gitter.im/GeoNode/general&gt;`_ or by asking your question in our `mailing list &lt;https://lists.osgeo.org/cgi-bin/mailman/listinfo/geonode-users&gt;`_ !</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150423Z" creationid="miurahr" creationdate="20201116T150423Z">
+        <seg>https://webchat.freenode.net/ の #geonode IRCチャネルを使用したり、`GeoNode Gitterチャネル&lt;https://gitter.im/GeoNode/general&gt;`_ にアクセスしたり、または私たちの`メーリングリスト&lt;https://lists.osgeo.org/cgi-bin/mailman/listinfo/geonode-users&gt;`_!で質していただけます。問</seg>
       </tuv>
     </tu>
     <tu>
@@ -18599,6 +18687,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>以下の環境が最低限必須となります:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your map can now be shared.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T145917Z" creationid="miurahr" creationdate="20201116T145917Z">
+        <seg>これで、マップを共有できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19687,6 +19783,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T104213Z" creationid="smellman" creationdate="20201103T104213Z">
         <seg>国際化(cz, de, en, es, fi, fr, hu, it, ja, pt, ta, zh)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>learn about clients that can display your maps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T150438Z" creationid="miurahr" creationdate="20201116T150438Z">
+        <seg>マップを表示できるクライアントについて学習</seg>
       </tuv>
     </tu>
     <tu>
