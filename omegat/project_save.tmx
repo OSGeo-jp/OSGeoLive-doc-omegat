@@ -3326,6 +3326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As our input dataset we will use a DTM from the GRASS GIS example dataset, which is accessible by GDAL using the GDAL-GRASS driver.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235652Z" creationid="miurahr" creationdate="20201116T235652Z">
+        <seg>入力データセットとして、GRASS GISサンプルデータセットからのDTMを使用します。これは、GDAL-GRASSドライバを使用してGDALからアクセス可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As per the `terms of the Creative Commons license &lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F&gt;`_, if you include OSGeoLive documentation into a new document, you will need to attribute the contributors.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T110855Z" creationid="smellman" creationdate="20201101T110855Z">
@@ -4790,6 +4798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create a map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235645Z" creationid="miurahr" creationdate="20201116T235645Z">
+        <seg>マップを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create a new map</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142937Z" creationid="miurahr" creationdate="20201116T142937Z">
@@ -5102,6 +5118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Define the gradient</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235840Z" creationid="miurahr" creationdate="20201116T235840Z">
+        <seg>グラデーションを定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Definition of interfaces for key spatial concepts and data structures</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011932Z" creationid="miurahr" creationdate="20201103T011932Z">
@@ -5290,6 +5314,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133900Z" creationid="miurahr" creationdate="20201116T133900Z">
         <seg>表示結果を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display the color bar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235925Z" creationid="miurahr" creationdate="20201116T235925Z">
+        <seg>カラーバーを表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -6006,6 +6038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Finally we can add a colorbar with `psscale`:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235947Z" creationid="miurahr" creationdate="20201116T235947Z">
+        <seg>最後に、`psscale`を使ってカラーバーを追加します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Finally, click the "Go" button to actually select the features.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132503Z" creationid="miurahr" creationdate="20201116T132457Z">
@@ -6294,6 +6334,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For our GMT example we will first transform the dataset into geographic coordinates Longitude-Latitude (EPSG:4326) using the `gdalwarp` command:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235744Z" creationid="miurahr" creationdate="20201116T235744Z">
+        <seg>GMTの例では、最初に`gdalwarp`コマンドを使用して、データセットを地理座標(経度-緯度)(EPSG:4326)に変換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For our shaded relief example we need to specify show how the color intensity is distributed along the grid.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235901Z" creationid="miurahr" creationdate="20201116T235901Z">
+        <seg>シェーディングされた防災地図の例では、カラー強度がグリッドに沿ってどのように分布しているかを表示するように指定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For terrestrial LAS data, these coordinate system descriptions often map to coordinate systems described by the `EPSG`_ database.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T060209Z" creationid="miurahr" creationdate="20201103T060209Z">
@@ -6382,6 +6438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From a quick look at the DTM metadata, open a terminal and use the GDAL command `gdalinfo`:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235658Z" creationid="miurahr" creationdate="20201116T235658Z">
+        <seg>DTMメタデータをざっと見て、端末を開き、GDALコマンド`gdalinfo`:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From any page in the web interface, you will see a *Sign in* link on the top-right of the page.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142113Z" creationid="miurahr" creationdate="20201116T142113Z">
@@ -6414,6 +6478,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From the Start menu, choose :menuselection:`Navigation and Maps --&gt; GpsPrune`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000439Z" creationid="miurahr" creationdate="20201117T000344Z">
+        <seg>[スタート]メニューから:menuselection:`ナビゲーションと地図--&gt;GpsPrune`を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the Start menu, select :menuselection:`Geospatial --&gt; Navigation and Maps --&gt; OpenCPN`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000454Z" creationid="miurahr" creationdate="20201117T000454Z">
+        <seg>From the Start menu, select :menuselection:`Geospatial --&gt; ナビゲーションと地図 --&gt; OpenCPN`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From the Start menu, select |osgeolive-appmenupath-geoserver|.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T150507Z" creationid="miurahr" creationdate="20201116T150507Z">
@@ -6432,8 +6512,8 @@
       <tuv lang="en-US">
         <seg>From the desktop, choose :menuselection:`Navigation and Maps --&gt; JOSM`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072323Z" creationid="miurahr" creationdate="20201103T072323Z">
-        <seg>デスクトップから:menuselection:`Navigation and Maps--&gt;JOSM`を選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000448Z" creationid="miurahr" creationdate="20201103T072323Z">
+        <seg>デスクトップから:menuselection:`ナビゲーションと地図--&gt;JOSM`を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6602,6 +6682,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042432Z" creationid="miurahr" creationdate="20201103T042432Z">
         <seg>GM L2/3.0/3.1/3.2出力/入力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GMT Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235550Z" creationid="miurahr" creationdate="20201116T235550Z">
+        <seg>GMTクイックスタート</seg>
       </tuv>
     </tu>
     <tu>
@@ -7286,6 +7374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go through the GMT tutorial and follow the several examples available in the src code.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000025Z" creationid="miurahr" creationdate="20201117T000025Z">
+        <seg>GMTチュートリアルを実行し、srcコードで利用可能ないくつかの例に従ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to :menuselection:`Layer --&gt; Add Layer --&gt; Add WMS/WMTS Layer`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023003Z" creationid="miurahr" creationdate="20201103T023003Z">
@@ -7314,6 +7410,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113525Z" creationid="miurahr" creationdate="20201103T113525Z">
         <seg>「ディスプレイ」セクションに移動し、ビデオメモリを32MBまたは64MBに増やします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GpsPrune Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000149Z" creationid="miurahr" creationdate="20201117T000149Z">
+        <seg>GpsPruneクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GpsPrune is a java application for viewing and editing coordinate data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000154Z" creationid="miurahr" creationdate="20201117T000154Z">
+        <seg>GpsPruneは、座標データを表示および編集するためのJavaアプリケーションです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7406,6 +7518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Have a read of the local documentation stored in: `/usr/share/doc/gmt/html/ &lt;../../gmt/html/index.html&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000120Z" creationid="miurahr" creationdate="20201117T000120Z">
+        <seg>`/usr/share/doc/gmt/html/&lt;././gmt/html/index.html&gt;`_に保存されているローカルのドキュメントを読んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Heatmaps.</seg>
       </tuv>
       <tuv lang="ja">
@@ -7442,6 +7562,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134755Z" creationid="miurahr" creationdate="20201116T134755Z">
         <seg>ここでNatural Earth IIが選択され、マップのイメージレイヤがどのように変化したかを見ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here the flag `-D` is used to select the colorbar position `TC: Top Center`, the size `5x0.25` expressed in inches `i` the orientation by `h: horizontal` and the flag `-By` to set a label `m` on the `y axis`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000002Z" creationid="miurahr" creationdate="20201117T000002Z">
+        <seg>ここでは、フラグ`-D`を使用して、カラーバーの位置`TC:Top Center`、サイズ`5x0.25`をインチ`i`で表したもの、方向を`h:horizontal`で表したもの、フラグ`-By`を使用してラベル`m`を`y軸`に設定したものを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8142,6 +8270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In `grdgradient` we will use the `-Ne` flag to normalize the output using a cumulative Laplace distribution and the `-A` flag for Azimuthal direction for a directional derivative.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235915Z" creationid="miurahr" creationdate="20201116T235915Z">
+        <seg>「grdgradient」では、「-Ne」フラグを使用して、累積ラプラス分布を使用して出力を正規化し、「-A」フラグを方位角方向の方向微分に使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In a Mapfile, a LAYER object can contain an infinite number of CLASS objects.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022541Z" creationid="miurahr" creationdate="20201103T022541Z">
@@ -8438,6 +8574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this Quick Start, we will load and view a data file included on this live image, and access some online information to supplement it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000254Z" creationid="miurahr" creationdate="20201117T000205Z">
+        <seg>このクイックスタートでは、このライブイメージに含まれるデータファイルをロードして表示し、オンライン情報を使って追加情報を確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this Quickstart we will use 'PostgreSQL' when describing general database functions, and 'PostGIS' when describing the additional spatial functionality provided by PostGIS.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T040634Z" creationid="miurahr" creationdate="20201108T040634Z">
@@ -8490,6 +8634,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T143159Z" creationid="miurahr" creationdate="20201116T143159Z">
         <seg>このインターフェイスには、ツールバー、レイヤ一覧、マップウィンドウがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this quick GMT tutorial we will use a digital terrain model (DTM) to generate a shaded relief map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235638Z" creationid="miurahr" creationdate="20201116T235638Z">
+        <seg>このクイックGMTチュートリアルでは、デジタル地形モデル(DTM)を使用して、シェーディングされた防災地図を生成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8870,6 +9022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can be used for preparing data for GPS devices and for analyzing the data recorded by them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000159Z" creationid="miurahr" creationdate="20201117T000159Z">
+        <seg>GPS機器のデータの準備や、記録されたデータの分析に使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can be used to build web-based geospatial-data-infrastructures (GDI).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135029Z" creationid="miurahr" creationdate="20201116T135029Z">
@@ -9170,6 +9330,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134622Z" creationid="miurahr" creationdate="20201116T134622Z">
         <seg>OSGeoLiveは、ハードウェアアクセラレーションによるグラフィックス処理にWebGLを使用し、クロスプラットフォーム、クロスブラウザ対応で、時間動的なデータ視覚化に合わせて調整されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It will be useful therefore if you have some kind of internet connection for this demonstration.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000333Z" creationid="miurahr" creationdate="20201117T000259Z">
+        <seg>したがってこのデモでは、インターネット接続が必須です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9830,6 +9998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Look at some of the examples found in: `/usr/share/doc/gmt/examples &lt;../../gmt/examples/&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000017Z" creationid="miurahr" creationdate="20201117T000017Z">
+        <seg>次の例を見てください。`/usr/share/doc/gmt/examples&lt;././gmt/examples/&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Look at the sample map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T074457Z" creationid="miurahr" creationdate="20201103T072427Z">
@@ -9842,6 +10018,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043035Z" creationid="miurahr" creationdate="20201108T043035Z">
         <seg>幸いなことに、PostGISテーブルにデータを取り込む方法は他にもあり、その方がずっと簡単です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make a color palette</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235749Z" creationid="miurahr" creationdate="20201116T235749Z">
+        <seg>カラーパレットを作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -11530,6 +11714,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055333Z" creationid="miurahr" creationdate="20201103T055333Z">
         <seg>ターミナルウィンドウを開き、コマンドラインに`python`と入力して、pythonインタプリタを起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open a terminal, then</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000042Z" creationid="miurahr" creationdate="20201117T000042Z">
+        <seg>端末を開き、次に</seg>
       </tuv>
     </tu>
     <tu>
@@ -14179,6 +14371,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start GpsPrune</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000302Z" creationid="miurahr" creationdate="20201117T000302Z">
+        <seg>GpsPruneの開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start JOSM</seg>
       </tuv>
       <tuv lang="ja">
@@ -14471,6 +14671,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052713Z" creationid="smellman" creationdate="20201103T052713Z">
         <seg>サポート: https://github.com/t-rex-tileserver/t-rex/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support: https://gmt.soest.hawaii.edu/projects/gmt/boards/1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000140Z" creationid="miurahr" creationdate="20201117T000140Z">
+        <seg>サポート: https://gmt.soest.hawaii.edu/projects/gmt/boards/1</seg>
       </tuv>
     </tu>
     <tu>
@@ -15707,6 +15915,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The output is a netCDF file which can then be used as color intensity by the `grdimage` command as follow:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235920Z" creationid="miurahr" creationdate="20201116T235920Z">
+        <seg>出力はnetCDFファイルで、次のように`grdimage`コマンドでカラー強度として使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The output ps document should look like:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000008Z" creationid="miurahr" creationdate="20201117T000008Z">
+        <seg>出力されるps文書は次のようになります:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The page will look like the image below.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142050Z" creationid="miurahr" creationdate="20201116T142050Z">
@@ -16095,6 +16319,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T074514Z" creationid="miurahr" creationdate="20201103T072430Z">
         <seg>種類の違うオブジェクトがいくつか表示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are 30 example jobs built in, to test:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000039Z" creationid="miurahr" creationdate="20201117T000032Z">
+        <seg>30のサンプルジョブが組み込まれています。テストするには:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16907,6 +17139,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will then give you the empty window shown below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000358Z" creationid="miurahr" creationdate="20201117T000358Z">
+        <seg>これにより、次のような空のウィンドウが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This workspace includes an example configuration for INSPIRE View- and Download-Services.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135314Z" creationid="miurahr" creationdate="20201116T135314Z">
@@ -17043,6 +17283,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To assign a color map to our grid we can make a GMT color palette tables with the `makecpt` command.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235810Z" creationid="miurahr" creationdate="20201116T235810Z">
+        <seg>グリッドにカラーマップを割り当てるには、`makecpt`コマンドを使用してGMTカラーパレットテーブルを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To be available for selection, a layer needs to be a vector layer and be configured for selection in the mapbook.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132452Z" creationid="miurahr" creationdate="20201116T132452Z">
@@ -17111,6 +17359,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>osm_id を使用するために、以下のクエリに変更してみます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To do so, we will compute the directional derivative, or gradient, from our grid using the `grdgradient` command.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235908Z" creationid="miurahr" creationdate="20201116T235908Z">
+        <seg>そのために、「grdgradient」コマンドを使用して、グリッドから方向の導関数、つまり勾配を計算します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17343,6 +17599,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T042018Z" creationid="miurahr" creationdate="20201108T041954Z">
         <seg>postgisがインストールされていることを確認するには、次のクエリを実行します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To view the results in Ghostview (http://www.gnu.org/software/gv/) , use command `gv`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000056Z" creationid="miurahr" creationdate="20201117T000056Z">
+        <seg>結果をGhostview(http://www.gnu.org/software/gv/))で表示するには、コマンド`gv`を使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17591,6 +17855,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T042121Z" creationid="miurahr" creationdate="20201108T042121Z">
         <seg>``\dv``と入力すると、データベース内のビューの一覧が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type `q` to quit Ghostview.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000100Z" creationid="miurahr" creationdate="20201117T000100Z">
+        <seg>`q`と入力してGhostviewを終了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18115,10 +18387,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We can convert the DTM in a GMT Compatible netCDF file format with `gdal_translate` as follow:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235711Z" creationid="miurahr" creationdate="20201116T235711Z">
+        <seg>`gdal_translate`を使用して、GMT互換のnetCDFファイル形式のDTMを次のように変換できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We can force gdalwarp to read a bunch of surplus data around chunks as one way to resolve this.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130337Z" creationid="miurahr" creationdate="20201116T130337Z">
         <seg> これを解決する1つの方法として、gdalwarpにチャンク周辺の余剰データを強制的に読み取らせることができます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We can see the DTM is in a projected coordinate system and the data range is between 50 and 160 meters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235705Z" creationid="miurahr" creationdate="20201116T235705Z">
+        <seg>DTMが投影された座標系にあり、データ範囲が50～160メートルであることがわかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18275,6 +18563,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We will set the range and number of colors with the flag `-T` and assign a colormap with the flag `-C`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235823Z" creationid="miurahr" creationdate="20201116T235823Z">
+        <seg>`-T`フラグで色の範囲と数を設定し、`-C`フラグでカラーマップを割り当てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We will use the ``Ext.Loader`` class to load in GeoExt JavaScript source files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053946Z" creationid="miurahr" creationdate="20201103T053946Z">
@@ -18407,6 +18703,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T015554Z" creationid="miurahr" creationdate="20201103T015554Z">
         <seg>人間が読める方法で参照コードにアクセスするためのWebアプリケーション。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Website: https://gmt.soest.hawaii.edu</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000126Z" creationid="miurahr" creationdate="20201117T000126Z">
+        <seg>Webサイト: https://gmt.soest.hawaii.edu</seg>
       </tuv>
     </tu>
     <tu>
@@ -19087,6 +19391,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T124919Z" creationid="miurahr" creationdate="20201116T124919Z">
         <seg>単一のデータセットを除外するには、右側の[削除]チェックボックスをオンにして[保存]をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can experiment with other colortables, see `man gmt makecpt` for a complete list.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235836Z" creationid="miurahr" creationdate="20201116T235836Z">
+        <seg>他のcolortablesを試してみることもできます。完全なリストについては、`man gmt makecpt`を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19787,6 +20099,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`Beginner Tutorial &lt;https://geostyler.github.io/geostyler-beginner-workshop&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235519Z" creationid="miurahr" creationdate="20201116T235519Z">
+        <seg>`初心者むけチュートリアル &lt;https://geostyler.github.io/geostyler-beginner-workshop&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`Command line utilities`_ for manipulating LAS data based on `LAStools`_</seg>
       </tuv>
       <tuv lang="ja">
@@ -20063,6 +20383,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T042144Z" creationid="miurahr" creationdate="20201108T042144Z">
         <seg>`geometry`-データを平面に描かれたベクトルとして格納するデータ型です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`geostyler.org Website &lt;https://geostyler.org&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201116T235536Z" creationid="miurahr" creationdate="20201116T235536Z">
+        <seg>`geostyler.org Webサイト &lt;https://geostyler.org&gt;`__</seg>
       </tuv>
     </tu>
     <tu>
