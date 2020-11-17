@@ -18499,6 +18499,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To learn more about QGIS, a good starting point is the `Documentation page`_ on the QGIS homepage and `A Gentle Introduction to GIS`_ eBook.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T020525Z" creationid="miurahr" creationdate="20201117T020525Z">
+        <seg>QGISの詳細については、QGISホームページの`ドキュメントページ`_と`A Gentle Introduction to GIS(英語)`_eBookを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To look up the corresponding osm_ids for our nodes, we would use this query:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T001808Z" creationid="miurahr" creationdate="20201117T001808Z">
@@ -22367,6 +22375,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>画像 (.jpg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>in the :menuselection:`Geospatial --&gt; Web Services` menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015828Z" creationid="miurahr" creationdate="20201117T015828Z">
+        <seg>:menuselection:`Geospatial --&gt; Web Services` メニューにあります。</seg>
       </tuv>
     </tu>
     <tu>
