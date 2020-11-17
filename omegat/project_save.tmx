@@ -1838,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**pgRouting Workshop** - The workshop `"FOSS4G routing with pgRouting tools and OpenStreetMap road data"` is available in: https://workshop.pgrouting.org.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001534Z" creationid="miurahr" creationdate="20201117T001534Z">
+        <seg>**pgRouting Workshop**-ワークショップ`"pgRouting toolsとOpenStreetMap道路データを使用したFOSS4Gルーティング"``は:https://workshop.pgrouting.org で利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Do not draw all these ways in one line* so that the inner contours suspend from the outer contour.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053213Z" creationid="miurahr" creationdate="20201103T053213Z">
@@ -4566,6 +4574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Close the PostGIS manager and get back to the main QGIS window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002015Z" creationid="miurahr" creationdate="20201117T002015Z">
+        <seg>PostGISマネージャを閉じて、メインのQGISウィンドウに戻ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Close the browser and the terminal window running t-rex.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052336Z" creationid="smellman" creationdate="20201103T052336Z">
@@ -6310,6 +6326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For cases where you have one ways or different speed limits on either lane, cost going on one direction of a road, may be different than going the other way.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001557Z" creationid="miurahr" creationdate="20201117T001557Z">
+        <seg>一方の車線に1本のウェイまたは異なる速度制限がある場合、道路の一方の方向を通るコストは、もう一方のウェイを通るコストと異なることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For decimal degree data of the unprojected Plate Carrée coordinate system, it causes us to lose a bunch of precision.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T062627Z" creationid="miurahr" creationdate="20201103T062627Z">
@@ -6458,6 +6482,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133531Z" creationid="miurahr" creationdate="20201116T133531Z">
         <seg>このクイックスタートガイドでは、[地理情報メタデータ(iso19139)]を選択し、一覧の下にある青い**[選択された標準のサンプルをロード**]ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For these cases you need to add an additional column to your query `reverse_cost`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001548Z" creationid="miurahr" creationdate="20201117T001548Z">
+        <seg>このような場合は、クエリ`reverse_cost`に列を追加する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7654,6 +7686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here is how you use osm2pgrouting version 2.1.0+.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001926Z" creationid="miurahr" creationdate="20201117T001926Z">
+        <seg>osm2pgrouting version2.1.0+の使用方法を次に示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here the 2.5D Columbus view has been selected.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134738Z" creationid="miurahr" creationdate="20201116T134738Z">
@@ -8626,6 +8666,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231111Z" creationid="miurahr" creationdate="20201116T231111Z">
         <seg>次のセクションでは、より良いスタイルの作成について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the previous examples, we assumed streets have equal cost in both directions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001603Z" creationid="miurahr" creationdate="20201117T001603Z">
+        <seg>前の例では、両方向で道路のコストが等しいと仮定しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10990,6 +11038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Not all pgRouting functions have been changed to use bigints, so osm_ids can't be used with all functions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001914Z" creationid="miurahr" creationdate="20201117T001914Z">
+        <seg>pgRouting の全ての関数が、 bigint 型を使用できるようになっていませんので、 osm_id を全ての関数で使用することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note how the poles are clipped?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130254Z" creationid="miurahr" creationdate="20201116T130241Z">
@@ -11066,6 +11122,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132442Z" creationid="miurahr" creationdate="20201116T132442Z">
         <seg>注: 地物を選択ツールで使用できないレイヤもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note: the SQL statement must always have field names `id, source, target, and cost`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001836Z" creationid="miurahr" creationdate="20201117T001836Z">
+        <seg>注:SQL文には、常にフィールド名`id,source,target,およびcost`が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11218,6 +11282,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T072337Z" creationid="miurahr" creationdate="20201103T072337Z">
         <seg>次に、サンプルのOSMファイルを開きます。このファイルを使用して、JOSMを使用してマップを描画する基本的な方法を学習します。このマップは実際の場所の実際のマップではないため、OpenStreetMapには保存しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now load the SIDS data into the map using the 'Add PostGIS Layer' option.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002032Z" creationid="miurahr" creationdate="20201117T002032Z">
+        <seg>次に、'PostGISマップを追加'オプションを使用して、SIDSデータをレイヤにロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now load the data from osm file:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001957Z" creationid="miurahr" creationdate="20201117T001957Z">
+        <seg>次に、osmファイルからデータをロードします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11834,6 +11914,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>メニューから :menuselection:`Applications --&gt; Accessories --&gt; Terminal` を開き、 psql を起動します: (psql は、PostgreSQL にパッケージされているコマンドラインツールです)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open a new terminal window to verify the version of osm2pgrouting you have installed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001930Z" creationid="miurahr" creationdate="20201117T001930Z">
+        <seg>新しいターミナルウィンドウを開き、インストールされているosm2pgroutingのバージョンを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14043,6 +14131,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the SQL Window icon and cut and paste the above pgRouting Query.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001611Z" creationid="miurahr" creationdate="20201117T001611Z">
+        <seg>SQLウィンドウアイコンを選択し、上記のpgRouting Queryをカット&amp;ペーストします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the ``Add New Style`` link.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T233056Z" creationid="miurahr" creationdate="20201116T231923Z">
@@ -14171,6 +14267,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Should read 2.1 or higher.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001936Z" creationid="miurahr" creationdate="20201117T001936Z">
+        <seg>2.1以上の値が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sign in</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133359Z" creationid="miurahr" creationdate="20201116T133359Z">
@@ -14231,6 +14335,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>まだ自動生成されたエッジの id を使用しているため、エッジ番号は先述のクエリと同じとなりますが、ノードは osm ノード id となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since we are using fields `source_osm` and `target_osm`, we need to alias them so resulting pgr_dijkstra query columns are named source and target.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001828Z" creationid="miurahr" creationdate="20201117T001828Z">
+        <seg>ここではフィールド`source_osm`と`target_osm`を使用しているため、これらのフィールドに別名を付ける必要があります。そうすることで、pgr_dijkstraクエリーの列にsourceとtargetという名前が付けられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15707,6 +15819,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The benefit of using the osm_ids instead of the auto-generated ids is that your results will be consistent between different databases if they share a common set of osm ids.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001848Z" creationid="miurahr" creationdate="20201117T001848Z">
+        <seg>自動生成された id の代わりに osm_id を使用する利点は、異なるデータベース間でも、それらが共通の osm id を共有している場合は結果に一貫性が得られることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The bounding box is used for querying within the Download Tool.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T124528Z" creationid="miurahr" creationdate="20201116T124528Z">
@@ -16319,6 +16439,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135610Z" creationid="miurahr" creationdate="20201116T135610Z">
         <seg>このサービスは、データとベースマップ(`OpenStreetMap&lt;https://www.openstreetmap.org/&gt;`_)を視覚化するように設定されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The shapefile should be imported into PostGIS with no errors.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002011Z" creationid="miurahr" creationdate="20201117T002011Z">
+        <seg>シェープファイルは、エラーなしでPostGISにインポートする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17731,6 +17859,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To look up the corresponding osm_ids for our nodes, we would use this query:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001808Z" creationid="miurahr" creationdate="20201117T001808Z">
+        <seg>ノードと一致する osm_id を検索するために、以下のクエリを使用してみます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To manage bookmarks, go to "Bookmarks-&gt;Manage Bookmarks".</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T001049Z" creationid="miurahr" creationdate="20201117T001049Z">
@@ -17879,6 +18015,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142837Z" creationid="miurahr" creationdate="20201116T142837Z">
         <seg>データをアップロードするには、下部の*Upload*ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To use the DbManager extension of QGIS open up QGIS then go to ``Database -&gt; DB Manager -&gt; DB Manager``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001732Z" creationid="miurahr" creationdate="20201117T001732Z">
+        <seg>QGISのDbManager拡張機能を使用するには、QGISを開き、``Database-&gt;DB Manager-&gt;DB Manager``に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19319,6 +19463,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T040808Z" creationid="miurahr" creationdate="20201108T040808Z">
         <seg>PostgreSQLでは、要求はSQL言語で行われ、応答は通常データベースからのデータのテーブルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With a bit of rearranging of the layers and some colouring, you should be able to produce a choropleth map of the sudden infant death syndrome counts (sid74 or sid79 fields) in North Carolina:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002509Z" creationid="miurahr" creationdate="20201117T002509Z">
+        <seg>レイヤの再配置と若干の色付けを行うことで、North Carolinaの乳幼児突然死症候群の発生数 (sid74またはsid79フィールド)の階級区分図を作成できるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21515,6 +21667,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>osm2pgrouting is a command-line tool for loading .osm files into pgRouting compatible format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001920Z" creationid="miurahr" creationdate="20201117T001920Z">
+        <seg>osm2pgroutingは、.osmファイルをpgRouting互換形式でロードするためのコマンドラインツールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>parallelization and "tile streaming" for unlimited scalability from laptop to cluster and cloud</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071314Z" creationid="miurahr" creationdate="20201103T071314Z">
@@ -21559,6 +21719,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>pgRouting は以下の機能を提供します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pgr_dijkstra also supports bigints for nodes and edges, and osm2pgrouting loads the osm_ids as well, so you could alternatively use the osm_id instead of the autogenerated source and targets for nodes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001756Z" creationid="miurahr" creationdate="20201117T001756Z">
+        <seg>pgr_dijkstra はさらにノードとエッジに bigint 型を使用可能で、osm2pgrouting は同様に osm_id を読み込みますので、自動生成された source と target ノードの代わりに、osm_id を使用できるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
