@@ -6232,8 +6232,8 @@
       <tuv lang="en-US">
         <seg>Finally hit :guilabel:`save` and you have published your first layer.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T231012Z" creationid="miurahr" creationdate="20201116T231012Z">
-        <seg>最後に:guilabel:`save`をクリックて、最初のレイヤを公開しました。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T004052Z" creationid="miurahr" creationdate="20201116T231012Z">
+        <seg>最後に:guilabel:`保存`をクリックて、最初のレイヤを公開しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7200,8 +7200,8 @@
       <tuv lang="en-US">
         <seg>GeoServer Project home - http://geoserver.org/</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>ジオサーバー プロジェクト ホーム - http://geoserver.org/</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003853Z">
+        <seg>GeoServer プロジェクト ホーム - http://geoserver.org/</seg>
       </tuv>
     </tu>
     <tu>
@@ -7216,24 +7216,24 @@
       <tuv lang="en-US">
         <seg>GeoServer Styling Workshop - https://docs.geoserver.org/latest/en/user/styling/workshop/index.html</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>ジオサーバースタイリングワークショップ - https://docs.geoserver.org/latest/en/user/styling/workshop/index.html</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003942Z">
+        <seg>GeoServer スタイリングワークショップ - https://docs.geoserver.org/latest/en/user/styling/workshop/index.html</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>GeoServer Tutorials - https://docs.geoserver.org/latest/en/user/tutorials/index.html</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>ジオサーバーのチュートリアル - https://docs.geoserver.org/latest/en/user/tutorials/index.html</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003904Z">
+        <seg>GeoServer チュートリアル - https://docs.geoserver.org/latest/en/user/tutorials/index.html</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>GeoServer User Manual - https://docs.geoserver.org/latest/en/user/</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>ジオサーバーユーザーマニュアル -  https://docs.geoserver.org/latest/en/user/</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003859Z">
+        <seg>GeoServer ユーザーマニュアル -  https://docs.geoserver.org/latest/en/user/</seg>
       </tuv>
     </tu>
     <tu>
@@ -10454,6 +10454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Many common languages are included on OSGeoLive.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T004258Z" creationid="miurahr" creationdate="20201117T004258Z">
+        <seg>OSGeoLive は標準で多くの言語に対応しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Many of these buttons open new windows on the right side that provide more information about the map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075345Z" creationid="miurahr" creationdate="20201103T073521Z">
@@ -13040,16 +13048,16 @@
       <tuv lang="en-US">
         <seg>Press :guilabel:`publish` next to one of the layers to finish adding the data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T230820Z" creationid="miurahr" creationdate="20201116T230820Z">
-        <seg>いずれかのレイヤーの横にある:guilabel:`publish`を押して、データの追加を完了します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003955Z" creationid="miurahr" creationdate="20201116T230820Z">
+        <seg>いずれかのレイヤーの横にある:guilabel:`公開`を押して、データの追加を完了します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Press :guilabel:`save`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T230814Z" creationid="miurahr" creationdate="20201116T230814Z">
-        <seg>:guilabel:`save`を押します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003947Z" creationid="miurahr" creationdate="20201116T230814Z">
+        <seg>:guilabel:`保存`を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17821,8 +17829,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This will take you to the *Layers* page:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T230827Z" creationid="miurahr" creationdate="20201116T230827Z">
-        <seg>これにより、*Layers*ページに移動します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T004004Z" creationid="miurahr" creationdate="20201116T230827Z">
+        <seg>これにより、*レイヤ*ページに移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18319,6 +18327,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134019Z" creationid="miurahr" creationdate="20201116T134019Z">
         <seg>元のビューに戻すには、一覧から**既定のビュー**を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To switch languages:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T004300Z" creationid="miurahr" creationdate="20201117T004300Z">
+        <seg>言語を切り替えるには以下を実行します:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19511,6 +19527,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052706Z" creationid="smellman" creationdate="20201103T052706Z">
         <seg>ウェブサイト: https://t-rex.tileserver.ch/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Website: https://wiki.openstreetmap.org/wiki/ID</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T004245Z" creationid="miurahr" creationdate="20201117T004245Z">
+        <seg>Webサイト: https://wiki.openstreetmap.org/wiki/ID</seg>
       </tuv>
     </tu>
     <tu>
