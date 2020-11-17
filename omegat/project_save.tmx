@@ -10150,6 +10150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Left-Click on the layer 'HYP_50M_SR_W'.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T014533Z" creationid="miurahr" creationdate="20201117T014533Z">
+        <seg>レイヤ'HYP_50M_SR_W`を左クリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let the Coordinate Reference System Selector default to (WGS 84 EPSG:4326) and hit ``OK``.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T122833Z" creationid="miurahr" creationdate="20201116T122833Z">
@@ -11378,6 +11386,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T120410Z" creationid="miurahr" creationdate="20201103T120410Z">
         <seg>マップフレームが更新され、レイヤリストの変更が反映されていることに注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Notice how the raster layer is now on top of all other layers in the layer panel.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T014637Z" creationid="miurahr" creationdate="20201117T014637Z">
+        <seg>ラスタレイヤがレイヤパネルの他のすべてのレイヤーの上に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16571,6 +16587,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The navigation toolbar allows users to move around the map and change the map extent.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T014819Z" creationid="miurahr" creationdate="20201117T014819Z">
+        <seg>ナビゲーションツールバーを使用すると、マップを移動したり、マップの範囲を変更したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The next example shows the World's administrative limits dataset styled to use a green fill and stroke:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T020422Z" creationid="miurahr" creationdate="20201108T020346Z">
@@ -17627,6 +17651,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This now renders the raster layer on top of all other layers in the map frame.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T014657Z" creationid="miurahr" creationdate="20201117T014657Z">
+        <seg>これで、ラスタレイヤがマップフレームの他のすべてのレイヤの上にレンダリングされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This plugin integrates the gdal-tools into QGIS.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130806Z" creationid="miurahr" creationdate="20201116T130806Z">
@@ -17895,6 +17927,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135539Z" creationid="miurahr" creationdate="20201116T135539Z">
         <seg>この作業フォルダは、ローカルのファイルから調和されたINSPIRE GMLをロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This would be a more appropriate position for a map layer like this.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T014747Z" creationid="miurahr" creationdate="20201117T014747Z">
+        <seg>これは、このようなマップレイヤに適した位置です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18535,6 +18575,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043255Z" creationid="miurahr" creationdate="20201108T043255Z">
         <seg>'WHERE'の部分を外して試してみて、何が起こるか見てください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try moving the 'HYP_50M_SR_W' layer to the bottom of the layer list.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T014715Z" creationid="miurahr" creationdate="20201117T014715Z">
+        <seg>'HYP_50M_SR_W'レイヤをレイヤリストの一番下に移動してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19831,6 +19879,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>これは以下を出力します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While holding the mouse button down drag the layer to the top of the list.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T014555Z" creationid="miurahr" creationdate="20201117T014555Z">
+        <seg>マウスボタンを押したまま、レイヤをリストの一番上にドラッグします。</seg>
       </tuv>
     </tu>
     <tu>
