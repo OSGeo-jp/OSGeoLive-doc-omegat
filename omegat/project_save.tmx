@@ -4222,6 +4222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click and hold the left mouse button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015142Z" creationid="miurahr" creationdate="20201117T015142Z">
+        <seg>左マウスボタンを押したままにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click button **New** and add a name and your Service URL</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023314Z" creationid="miurahr" creationdate="20201103T023314Z">
@@ -4278,6 +4286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on a layer name in the layer panel.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015328Z" creationid="miurahr" creationdate="20201117T015328Z">
+        <seg>レイヤパネルでレイヤの名前をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on it, and then click “Open”.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T074003Z" creationid="miurahr" creationdate="20201103T072355Z">
@@ -4314,6 +4330,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132157Z" creationid="miurahr" creationdate="20201116T132157Z">
         <seg>上部ツールバーの"identify"(円形アイコンの中の"i")ボタンをクリック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the 'Color' swatch shown below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015515Z" creationid="miurahr" creationdate="20201117T015438Z">
+        <seg>下に表示されている[カラー]をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the 'Zoom to layer' button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015337Z" creationid="miurahr" creationdate="20201117T015337Z">
+        <seg>[レイヤにズーム]ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6118,6 +6150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Extend QGIS functionality with `Plugins &lt;https://docs.qgis.org/3.4/en/docs/user_manual/plugins/plugins.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015703Z" creationid="miurahr" creationdate="20201117T015703Z">
+        <seg>`プラグイン &lt;https://docs.qgis.org/3.4/en/docs/user_manual/plugins/plugins.html&gt;`_を使用してQGIS機能を拡張します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Extensible plugin architecture</seg>
       </tuv>
       <tuv lang="ja">
@@ -6250,6 +6290,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132503Z" creationid="miurahr" creationdate="20201116T132457Z">
         <seg>最後に、[Go]ボタンをクリックして、地物を実際に選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finally, try the zoom to layer tool.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015318Z" creationid="miurahr" creationdate="20201117T015318Z">
+        <seg>最後に、レイヤズームツールを使用してみます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8758,6 +8806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the 'Select Color' palette, move the cross-hair to your preferred colour.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015454Z" creationid="miurahr" creationdate="20201117T015454Z">
+        <seg>[色選択]パレットで、十字を希望の色に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the :ref:`Layer list &lt;Layer_list&gt;` select the style button (it looks like an artist's palette).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231651Z" creationid="miurahr" creationdate="20201116T231651Z">
@@ -8890,6 +8946,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231708Z" creationid="miurahr" creationdate="20201116T231708Z">
         <seg>シンプルなウィンドウでは、塗りつぶしタブの色付きのボックスをクリックし、表示されるカラーピッカーから選択することで、海洋に適した青を簡単に選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the style dock, we can also modify the size of the map features.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015548Z" creationid="miurahr" creationdate="20201117T015524Z">
+        <seg>スタイル枠では、地物のサイズを変更することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the style panel enter the value '0.5' in the 'width' input.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015612Z" creationid="miurahr" creationdate="20201117T015612Z">
+        <seg>スタイルパネルで、入力値「width」に値「0.5」を入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10094,6 +10166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Layers can be styled in QGIS using the style dock.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015401Z" creationid="miurahr" creationdate="20201117T015401Z">
+        <seg>レイヤーは、スタイルドックを使用してQGISでスタイル設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Layers can be turned on or off by clicking the checkbox next to the layer name in the layers panel.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T120318Z" creationid="miurahr" creationdate="20201103T120318Z">
@@ -10218,6 +10298,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022455Z" creationid="miurahr" creationdate="20201103T022455Z">
         <seg>前述のWMSの**GetMap**要求を受け取り、レンダリングしたイメージに新しい「Lakes」レイヤを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's try changing the map extent with the zoom-in tool.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015053Z" creationid="miurahr" creationdate="20201117T015053Z">
+        <seg>ズームインツールでマップの範囲を変更してみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let’s try modifying the colour first.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015434Z" creationid="miurahr" creationdate="20201117T015434Z">
+        <seg>最初に色を変更してみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10418,6 +10514,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T145340Z" creationid="miurahr" creationdate="20201116T145340Z">
         <seg>ズームやパンの設定など、必要に応じてマップの構成を最終的に調整します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make sure that the 'ne_10m_rivers_lakes_centrelines' is selected at the top of the style panel.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015606Z" creationid="miurahr" creationdate="20201117T015606Z">
+        <seg>スタイルパネルの最上部で「ne_10m_rivers_lakes_centrelines」が選択されていることを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11006,6 +11110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Move the cursor over the map frame.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015116Z" creationid="miurahr" creationdate="20201117T015116Z">
+        <seg>マップの枠の上にカーソルを移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Move your mouse and click again.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075608Z" creationid="miurahr" creationdate="20201103T073641Z">
@@ -11414,10 +11526,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Notice the line in the symbol preview increase in width, and so do the lines that are in the map frame.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015631Z" creationid="miurahr" creationdate="20201117T015631Z">
+        <seg>シンボルプレビューのラインの幅が大きくなり、マップフレームのラインも大きくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Notice the panel on the left.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052523Z" creationid="miurahr" creationdate="20201103T052523Z">
         <seg>左側のパネルに注目してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Notice this draws a rectangle which is the area that will be zoomed to.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015153Z" creationid="miurahr" creationdate="20201117T015153Z">
+        <seg>これにより、ズームされる領域である長方形が描画されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11674,6 +11802,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052013Z" creationid="miurahr" creationdate="20201103T052013Z">
         <seg>次に、位置をマークする位置をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now, let’s look at the zoom to full extent tool.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015227Z" creationid="miurahr" creationdate="20201117T015227Z">
+        <seg>次に、全範囲ズームツールを見てみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13715,6 +13851,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Release the mouse button when happy with the area created.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015157Z" creationid="miurahr" creationdate="20201117T015157Z">
+        <seg>領域が作成されたら、マウスボタンを離します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remote Sensing Laboratory at the National Technical University of Athens, provides hardware resources and development support to the OSGeoLive project.</seg>
       </tuv>
       <tuv lang="ja">
@@ -14407,6 +14551,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T143631Z" creationid="miurahr" creationdate="20201116T143631Z">
         <seg>最初の項目をクリックし、Ctrlキーを押しながら残りの項目をクリックして、いくつかのレイヤーを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the 'Zoom in' tool from the navigation toolbar.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015110Z" creationid="miurahr" creationdate="20201117T015110Z">
+        <seg>ナビゲーションツールバーから'ズームイン'ツールを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15115,6 +15267,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start manipulating data with the `Processing toolbox &lt;https://docs.qgis.org/3.4/en/docs/user_manual/processing/toolbox.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015730Z" creationid="miurahr" creationdate="20201117T015719Z">
+        <seg>`処理ツールボックス &lt;https://docs.qgis.org/3.4/en/docs/user_manual/processing/toolbox.html&gt;`_を使用してデータの操作してみます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start page: https://www.openstreetmap.org/edit</seg>
       </tuv>
       <tuv lang="ja">
@@ -15191,6 +15351,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022522Z" creationid="miurahr" creationdate="20201103T022522Z">
         <seg>マップファイル設定を使用してレイヤのスタイルを設定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Style your layers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015356Z" creationid="miurahr" creationdate="20201117T015356Z">
+        <seg>レイヤーのスタイルを設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -16107,6 +16275,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The above button acts as a toggle so the style dock can be easily hidden from view by clicking the same button again.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015414Z" creationid="miurahr" creationdate="20201117T015414Z">
+        <seg>上記のボタンはトグルとして機能するため、同じボタンをもう一度クリックすると、スタイル枠をビューから簡単に隠すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The above code depends on having an XML stylesheet that Mapnik can read, defining the layers to read data from and the styles to apply to those layers.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055345Z" creationid="miurahr" creationdate="20201103T055345Z">
@@ -16539,6 +16715,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The map should zoom to the extent of the selected ('active') layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015352Z" creationid="miurahr" creationdate="20201117T015352Z">
+        <seg>マップは選択された(「アクティブ」)レイヤの範囲にズームします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The map will zoom to the extent of this layer.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134445Z" creationid="miurahr" creationdate="20201116T134445Z">
@@ -16675,6 +16859,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The process of using the zoom out tool is the same as the zoom-in tool.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015206Z" creationid="miurahr" creationdate="20201117T015206Z">
+        <seg>ズームアウトツールを使用するプロセスは、ズームインツールと同じです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The project was started because most maps you think of as free actually have legal or technical restrictions on their use, holding back people from using them in creative, productive or unexpected ways.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T044921Z" creationid="miurahr" creationdate="20201102T044921Z">
@@ -16711,6 +16903,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113319Z" creationid="miurahr" creationdate="20201103T113319Z">
         <seg>VMの応答速度はDVDよりもはるかに速く、通常はホストマシンに直接インストールするのと同等です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The result is just the opposite.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015210Z" creationid="miurahr" creationdate="20201117T015210Z">
+        <seg>結果は正反対です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16859,10 +17059,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The style dock is not visible by default, but easily accessible via a button at the top of the layer panel as shown below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015408Z" creationid="miurahr" creationdate="20201117T015408Z">
+        <seg>スタイル枠は既定では表示されていませんが、次に示すように、レイヤパネルの上部にあるボタンから簡単にアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The style is determined by a combination of fill, stroke, text  and image, which are all optional.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T020250Z" creationid="miurahr" creationdate="20201108T020147Z">
         <seg>スタイルは、塗り、線、テキスト、イメージの組み合わせによって決まります。これらはすべて任意の設定項目です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The symbol preview will be updated with the new colour, and so will the layer in the map frame.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015519Z" creationid="miurahr" creationdate="20201117T015519Z">
+        <seg>シンボルプレビューが新しい色で更新され、レイヤフレームのマップも更新されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16991,6 +17207,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T080325Z" creationid="miurahr" creationdate="20201103T080325Z">
         <seg>次に、そのウィンドウの右下隅にあるごみ箱アイコンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then click the back arrow to return to the symbol render preview.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015500Z" creationid="miurahr" creationdate="20201117T015500Z">
+        <seg>次に、戻る矢印をクリックしてシンボルレンダリングプレビューに戻ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17779,6 +18003,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This tool will zoom the map out to an extent that will fit in all the layers in the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015305Z" creationid="miurahr" creationdate="20201117T015305Z">
+        <seg>このツールは、マップのすべてのレイヤーに収まるようにマップをズームアウトします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This uses the OpenLayers map we created, and will be positioned in the 'center' region of our application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054228Z" creationid="miurahr" creationdate="20201103T054228Z">
@@ -17847,6 +18079,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142821Z" creationid="miurahr" creationdate="20201116T142821Z">
         <seg>これにより、レイヤのデータを編集できるのはあなただけになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will launch a colour palette allowing you to choose a different colour.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015448Z" creationid="miurahr" creationdate="20201117T015448Z">
+        <seg>これにより、異なる色を選択できるカラーパレットが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18299,6 +18539,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To modify the thickness of the lines follow these steps:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015559Z" creationid="miurahr" creationdate="20201117T015553Z">
+        <seg>線の太さを変更するには、次の手順に従います:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To mount this folder in the user's home directory, for example, in a terminal run:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113642Z" creationid="miurahr" creationdate="20201103T113642Z">
@@ -18439,6 +18687,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T001732Z" creationid="miurahr" creationdate="20201117T001732Z">
         <seg>QGISのDbManager拡張機能を使用するには、QGISを開き、``Database-&gt;DB Manager-&gt;DB Manager``に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To use this tool follow these steps:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015323Z" creationid="miurahr" creationdate="20201117T015323Z">
+        <seg>このツールを使用するには、次の手順に従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To use this tool, click on the 'Zoom to full extent' button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015312Z" creationid="miurahr" creationdate="20201117T015312Z">
+        <seg>このツールを使用するには、[全体にズーム]ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18591,6 +18855,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020910Z" creationid="miurahr" creationdate="20201103T020910Z">
         <seg>ogr2ogrを使用して、ベクタデータをPostGISなどの他の形式にインポート/エクスポートしてみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try publishing your QGIS map to the web using `QGIS Map Server &lt;../overview/qgis_mapserver_overview.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015811Z" creationid="miurahr" creationdate="20201117T015811Z">
+        <seg>`QGISマップサーバ &lt;./overview/qgis_mapserver_overview.html&gt;`_を使用して、QGISマップをWebに公開してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18807,6 +19079,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T073611Z" creationid="sanak" creationdate="20201103T073611Z">
         <seg>UpdateSensorDescription (仕様バージョン2.0以降): センサーの説明を更新します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use QGIS to view content from a `PostGIS database &lt;https://docs.qgis.org/3.4/en/docs/training_manual/spatial_databases/index.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015754Z" creationid="miurahr" creationdate="20201117T015742Z">
+        <seg>`PostGISデータベース &lt;https://docs.qgis.org/3.4/en/docs/training_manual/spatial_databases/index.html&gt;`_からコンテンツをビューするのにQGISを使用してみます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19779,6 +20059,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the style dock is enabled it will appear on the right-hand side of the screen ready to style the active layer highlighted in the layer panel.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015420Z" creationid="miurahr" creationdate="20201117T015420Z">
+        <seg>スタイル枠が有効になると、画面の右側に表示され、レイヤパネルで強調表示されているアクティブなレイヤのスタイルを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you are editing an object, you will see a strip of icons at the bottom of the attribute panel.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053354Z" creationid="miurahr" creationdate="20201103T053354Z">
@@ -19891,6 +20179,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>While still holding the mouse button move the cursor diagonally in any direction.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015147Z" creationid="miurahr" creationdate="20201117T015147Z">
+        <seg>マウスボタンを押したまま、任意の方向でカーソルを斜めに移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Widespread geo-application integration</seg>
       </tuv>
       <tuv lang="ja">
@@ -19927,6 +20223,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T002509Z" creationid="miurahr" creationdate="20201117T002509Z">
         <seg>レイヤの再配置と若干の色付けを行うことで、North Carolinaの乳幼児突然死症候群の発生数 (sid74またはsid79フィールド)の階級区分図を作成できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the style dock now open, we can modify the colour and the width of the lines in the 'ne_10m_rivers_lakes_centrelines' layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015430Z" creationid="miurahr" creationdate="20201117T015430Z">
+        <seg>スタイルの枠が開いた状態で、'ne_10m_rivers_lakes_centrelines'レイヤの線の色と幅を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the style dock open, we can modify the appearance of the layer shown at the top of the style dock.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015425Z" creationid="miurahr" creationdate="20201117T015425Z">
+        <seg>スタイル枠を開くと、スタイル枠の最上部に表示されるレイヤの外観を変更できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21011,6 +21323,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1] Pan: Allows the map to be dragged ('panned') to a new location.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T015048Z" creationid="miurahr" creationdate="20201117T014854Z">
+        <seg>[1]パン: マップを新しい位置にドラッグ(「パン」)できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2] **Tools:** This panel shows basic editing tools.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051405Z" creationid="miurahr" creationdate="20201103T051405Z">
@@ -21023,6 +21343,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052534Z" creationid="miurahr" creationdate="20201102T052534Z">
         <seg>[2]ツールバー:マップ、画層、属性、および選択を操作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2] Zoom in: Allows the map extent to be zoomed in.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T014900Z" creationid="miurahr" creationdate="20201117T014900Z">
+        <seg>[2]ズームイン:マップの範囲をズームインできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21043,6 +21371,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3] Zoom out: Allows the map to be zoomed out.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T014917Z" creationid="miurahr" creationdate="20201117T014917Z">
+        <seg>[3]ズームアウト:マップのズームアウトを許可します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[4] **Information panel:** This panel shows various information, such as</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051419Z" creationid="miurahr" creationdate="20201103T051419Z">
@@ -21059,10 +21395,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[4] Zoom to full extent: Changes the map extent to fit all of the map layers into the map frame.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T014937Z" creationid="miurahr" creationdate="20201117T014923Z">
+        <seg>[4]全範囲ズーム: マップの範囲を変更して、すべてのマップレイヤーをマップの枠に合わせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[5] Status Bar: General information about the map and access to a universal search bar.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113721Z" creationid="miurahr" creationdate="20201103T113721Z">
         <seg>[5]ステータスバー:マップに関する一般情報とユニバーサル検索バーへのアクセス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[5] Zoom to layer: Changes the map extent to fit the extent of the layer highlighted in the layer panel.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T014934Z" creationid="miurahr" creationdate="20201117T014934Z">
+        <seg>[5]レイヤにズーム: マップパネルで強調表示されているレイヤの範囲に合わせてレイヤの範囲を変更します。</seg>
       </tuv>
     </tu>
     <tu>
