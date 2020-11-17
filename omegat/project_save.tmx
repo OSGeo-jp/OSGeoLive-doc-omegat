@@ -8622,6 +8622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition to controlling layer visibility, we can also change the order in which layers are drawn in the layer panel.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T013739Z" creationid="miurahr" creationdate="20201117T013739Z">
+        <seg>レイヤの表示/非表示を制御するだけでなく、レイヤパネルに表示されるレイヤーの順序を変更することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition to the raster query language, rasdaman supports OGC's WMS, WCS and WCPS web service standards, as well as C++ and Java APIs.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014416Z" creationid="miurahr" creationdate="20201103T014416Z">
@@ -16587,6 +16595,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The order that the layers appear in the layer list is the order which they will draw on in the map frame.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T014103Z" creationid="miurahr" creationdate="20201117T014103Z">
+        <seg>レイヤ一覧に表示されるレイヤの順序は、マップフレームに表示される順序です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The output is a netCDF file which can then be used as color intensity by the `grdimage` command as follow:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235920Z" creationid="miurahr" creationdate="20201116T235920Z">
@@ -17503,6 +17519,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T080042Z" creationid="miurahr" creationdate="20201103T080042Z">
         <seg>これで、何であるかの定義をおこなうことができました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is done by selecting a layer in the layer panel and dragging it up or down the list.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T013748Z" creationid="miurahr" creationdate="20201117T013748Z">
+        <seg>これは、[レイヤ]パネルでレイヤを選択し、上または下にドラッグすることで行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19207,6 +19231,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130337Z" creationid="miurahr" creationdate="20201116T130337Z">
         <seg> これを解決する1つの方法として、gdalwarpにチャンク周辺の余剰データを強制的に読み取らせることができます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We can now see the 'ne_10m_populated_places' layer as points, but can no longer see the rivers and lakes which are within the 'Waters' layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T013729Z" creationid="miurahr" creationdate="20201117T013729Z">
+        <seg>現在では、`ne_10m_populated_places`レイヤをポイントとして見ることができますが、`Waters`レイヤ内の河川や湖を見ることはできません。</seg>
       </tuv>
     </tu>
     <tu>
