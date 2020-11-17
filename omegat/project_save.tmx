@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Beware, this may delete an existing installed partition).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001346Z" creationid="miurahr" creationdate="20201117T001346Z">
+        <seg>(インストールされている既存のパーティションが削除される可能性があることに注意してください)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Optional) Installing GeoStyler</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235106Z" creationid="miurahr" creationdate="20201116T235106Z">
@@ -1822,6 +1830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**pgRouting Website** - Visit the project website https://pgrouting.org to learn more about pgRouting.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001512Z" creationid="miurahr" creationdate="20201117T001512Z">
+        <seg>**pgRouting Webサイト** - pgRouting についてもっと知りたいときは、Webサイト https://pgrouting.org を訪問してください。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Do not draw all these ways in one line* so that the inner contours suspend from the outer contour.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053213Z" creationid="miurahr" creationdate="20201103T053213Z">
@@ -2606,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A window will appear like this:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001016Z" creationid="miurahr" creationdate="20201117T001016Z">
+        <seg>次のようなウィンドウが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ACID transactional integrity</seg>
       </tuv>
       <tuv lang="ja">
@@ -2722,6 +2746,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053542Z" creationid="miurahr" creationdate="20201103T053542Z">
         <seg>Wikipediaリンクを追加 |image43|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add a bookmark</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000932Z" creationid="miurahr" creationdate="20201117T000932Z">
+        <seg>ブックマークを追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -3390,6 +3422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As you start typing, suggestions below the search line will appear like this:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000939Z" creationid="miurahr" creationdate="20201117T000939Z">
+        <seg>入力を開始すると、検索ラインの下に次のような提案が表示されます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At https://standards.rasdaman.com a collection of interactive demos is available.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014425Z" creationid="miurahr" creationdate="20201103T014425Z">
@@ -3602,6 +3642,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133658Z" creationid="miurahr" creationdate="20201116T133658Z">
         <seg>この下には、追加された日付(最新ニュース)と人気(最も一般的)でレコードを分類するタブがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Besides choosing any number of maps to view on your globe (including OpenStreetMap), you are encouraged to include a KDE Marble widget in your application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000702Z" creationid="miurahr" creationdate="20201117T000702Z">
+        <seg>地球儀に表示する(`OpenStreet Maps&lt;https://www.openstreetmap.org&gt;`_を含む)マップをいろいろ選択するだけでなく、アプリケーションにKDE Marbleウィジェットを含めることをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3910,6 +3958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change the display</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000743Z" creationid="miurahr" creationdate="20201117T000743Z">
+        <seg>表示の変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changing objects</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075137Z" creationid="miurahr" creationdate="20201103T072826Z">
@@ -4090,6 +4146,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231756Z" creationid="miurahr" creationdate="20201116T231756Z">
         <seg>``OK``をクリックすると、|UG| が変更を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click a label in any place to view more information about it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000855Z" creationid="miurahr" creationdate="20201117T000855Z">
+        <seg>任意の場所のラベルをクリックすると、ビューの詳細情報が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4302,10 +4366,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click one of entries in the "Theme" list in "Map View" tab to switch between them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000851Z" creationid="miurahr" creationdate="20201117T000851Z">
+        <seg>「マップビュー」タブの「テーマ」リストの項目の1つをクリックして、切り替えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click that link, and in the dialog that displays, fill in the user credentials.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142236Z" creationid="miurahr" creationdate="20201116T142236Z">
         <seg>そのリンクをクリックし、表示されるダイアログでユーザー認証情報を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the "Ok" button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001023Z" creationid="miurahr" creationdate="20201117T001023Z">
+        <seg>「OK」ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5678,6 +5758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Earth at Night</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000812Z" creationid="miurahr" creationdate="20201117T000812Z">
+        <seg>夜の地球</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Earth is not enough?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010220Z" creationid="miurahr" creationdate="20201103T010220Z">
@@ -6058,6 +6146,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021011Z" creationid="miurahr" creationdate="20201108T015639Z">
         <seg>最後に、``ol.View``クラスを使用して*camera*の初期位置を設定し、初期ズームレベルと中心位置を設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find a location</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000900Z" creationid="miurahr" creationdate="20201117T000900Z">
+        <seg>場所を検索</seg>
       </tuv>
     </tu>
     <tu>
@@ -6514,6 +6610,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T000448Z" creationid="miurahr" creationdate="20201103T072323Z">
         <seg>デスクトップから:menuselection:`ナビゲーションと地図--&gt;JOSM`を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the desktop, choose :menuselection:`Navigation and Maps --&gt; zyGrib GRIB file viewer`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000506Z" creationid="miurahr" creationdate="20201117T000506Z">
+        <seg>From the desktop, choose :menuselection:`ナビゲーションと地図 --&gt; zyGrib GRIB file viewer`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10326,10 +10430,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Marble Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000550Z" creationid="miurahr" creationdate="20201117T000550Z">
+        <seg>Marble クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Marble also offers maps of the moon and other planets.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010226Z" creationid="miurahr" creationdate="20201103T010226Z">
         <seg>Marbleは月や他の惑星の地図も提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Marble has 11 different views (themes):</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000757Z" creationid="miurahr" creationdate="20201117T000757Z">
+        <seg>Marbleには11種類のビュー(テーマ)があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Marble is an open source KDE Education Project program similar to NASA World Wind or Google Earth.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000628Z" creationid="miurahr" creationdate="20201117T000628Z">
+        <seg>MarbleはオープンソースのKDE 教育プロジェクト プログラムで、NASA World WindやGoogle Earthに似ています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10450,6 +10578,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042639Z" creationid="miurahr" creationdate="20201103T042639Z">
         <seg>モジュラー型の検査アーキテクチャにより、さまざまな基準に照らして挿入されたレコードを検証可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000819Z" creationid="miurahr" creationdate="20201117T000819Z">
+        <seg>月</seg>
       </tuv>
     </tu>
     <tu>
@@ -11478,6 +11614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the desktop, choose :menuselection:`Navigation and Maps --&gt; Marble`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000734Z" creationid="miurahr" creationdate="20201117T000525Z">
+        <seg>デスクトップから :menuselection:`ナビゲーションと地図 --&gt; Marble`を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the left side of JOSM is a column of buttons.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075333Z" creationid="miurahr" creationdate="20201103T073505Z">
@@ -11870,6 +12014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OpenLayers Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001322Z" creationid="miurahr" creationdate="20201117T001322Z">
+        <seg>OpenLayersクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OpenLayers allows map rendering using two different mechanisms: Canvas and WebGL.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T015429Z" creationid="miurahr" creationdate="20201108T015429Z">
@@ -12190,6 +12342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Plain Map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000928Z" creationid="miurahr" creationdate="20201117T000928Z">
+        <seg>プレインマップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please feel free to explore the client.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T124647Z" creationid="miurahr" creationdate="20201116T124647Z">
@@ -12458,6 +12618,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>強力なツール:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Precipitation (December)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000834Z" creationid="miurahr" creationdate="20201117T000834Z">
+        <seg>降水量(12月)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Precipitation (July)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000837Z" creationid="miurahr" creationdate="20201117T000837Z">
+        <seg>降水量(7月)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13515,6 +13691,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Satellite View</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000809Z" creationid="miurahr" creationdate="20201117T000809Z">
+        <seg>サテライトビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Save your settings:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023317Z" creationid="miurahr" creationdate="20201103T023317Z">
@@ -13543,6 +13727,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042533Z" creationid="miurahr" creationdate="20201103T042509Z">
         <seg>スケールに依存するスタイル設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scale the globe by rotating the wheel of your mouse.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000747Z" creationid="miurahr" creationdate="20201117T000747Z">
+        <seg>マウスのホイールを回転させて地球儀をスケールさせます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13663,6 +13855,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125110Z" creationid="miurahr" creationdate="20201116T125110Z">
         <seg>詳細については、:doc:`EOxServerの概要&lt;./overview/eoxserver_overview&gt;`を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the `Marble documentation &lt;https://docs.kde.org/trunk5/en/kdeedu/marble/index.html&gt;`_ for help.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001124Z" creationid="miurahr" creationdate="20201117T001124Z">
+        <seg>ヘルプについて、`Marble documentation &lt;https://docs.kde.org/trunk5/en/kdeedu/marble/index.html&gt;`_ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the `Marble homepage &lt;https://marble.kde.org/&gt;`_ for more information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001221Z" creationid="miurahr" creationdate="20201117T001221Z">
+        <seg>詳細については、 `Marble ホームページ &lt;https://marble.kde.org/&gt;`_ を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14299,6 +14507,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Specify which disk to want to install on.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001331Z" creationid="miurahr" creationdate="20201117T001331Z">
+        <seg>インストールするディスクを指定してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Split a line into two lines from the point you’ve selected.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052638Z" creationid="miurahr" creationdate="20201103T052638Z">
@@ -14383,6 +14599,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>JOSM を起動する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start Marble</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000714Z" creationid="miurahr" creationdate="20201117T000714Z">
+        <seg>Marbleの開始</seg>
       </tuv>
     </tu>
     <tu>
@@ -14879,6 +15103,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014502Z" creationid="miurahr" creationdate="20201103T014502Z">
         <seg>テクノロジーは成熟して安定しており、10年以上にわたって稼働しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Temperature (December)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000840Z" creationid="miurahr" creationdate="20201117T000840Z">
+        <seg>気温(12月)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Temperature (July).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000846Z" creationid="miurahr" creationdate="20201117T000846Z">
+        <seg>気温(7月)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16291,6 +16531,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then the bookmark will appear.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001027Z" creationid="miurahr" creationdate="20201117T001027Z">
+        <seg>するとブックマークが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then try this::</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055339Z" creationid="miurahr" creationdate="20201103T055339Z">
@@ -16591,6 +16839,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113302Z" creationid="miurahr" creationdate="20201103T113302Z">
         <seg>ここでは、 OSGeo-Live を VirtualBox の仮想マシン内で動作させる1つの方法について記載します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This Quick Start describes some basic steps required to start working with OpenLayers: creating a basic map, adding raster and vector layers and styling features.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001303Z" creationid="miurahr" creationdate="20201117T001303Z">
+        <seg>このクイックスタートでは、OpenLayersをはじめて使うときの基本的な手順について説明します。基本的なマップの作成、ラスタレイヤとベクタレイヤの追加、地物のスタイリングです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17235,6 +17491,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To add a bookmark, press the left button of your mouse and click "Add bookmark".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001012Z" creationid="miurahr" creationdate="20201117T001002Z">
+        <seg>ブックマークを追加するには、マウスの左ボタンを押して[ブックマーク追加]をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To add a layer to your account, select the *Upload* button on the top right of the *Layers* page:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142512Z" creationid="miurahr" creationdate="20201116T142512Z">
@@ -17403,6 +17667,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To find a location, enter its name into the search line on the top of "Search" panel.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000905Z" creationid="miurahr" creationdate="20201117T000905Z">
+        <seg>場所を検索するには、「検索」パネルの一番上の検索行に名前を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To get a closer look, you can either use the mousewheel to zoom in or use the provided zoom-buttons in the upper left of the application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131637Z" creationid="miurahr" creationdate="20201116T131637Z">
@@ -17459,6 +17731,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To manage bookmarks, go to "Bookmarks-&gt;Manage Bookmarks".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001049Z" creationid="miurahr" creationdate="20201117T001049Z">
+        <seg>ブックマークを管理するには、「ブックマーク-&gt;ブックマークの管理」に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To manage the included and ready-to-use workspaces, click *'workspaces'* on the left side.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135232Z" creationid="miurahr" creationdate="20201116T135232Z">
@@ -17487,6 +17767,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113642Z" creationid="miurahr" creationdate="20201103T113642Z">
         <seg>このフォルダをユーザのホームディレクトリにマウントするには(たとえば、ターミナルで次のように実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To move around press the left button of your mouse and move it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000751Z" creationid="miurahr" creationdate="20201117T000751Z">
+        <seg>移動するには、マウスの左ボタンを押して移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17787,6 +18075,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try to use the Routing feature.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001105Z" creationid="miurahr" creationdate="20201117T001054Z">
+        <seg>ルーティング機能を使用してみます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Turn Restriction Shortest Path (TRSP)</seg>
       </tuv>
       <tuv lang="ja">
@@ -17943,6 +18239,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T073611Z" creationid="sanak" creationdate="20201103T073611Z">
         <seg>UpdateSensorDescription (仕様バージョン2.0以降): センサーの説明を更新します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use bookmarks in Marble to remember the location of something.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000958Z" creationid="miurahr" creationdate="20201117T000943Z">
+        <seg>Marbleのブックマークを使用して、表示したことのある位置を記憶します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19099,6 +19403,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Write the name, description and destination folder of the bookmark</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T001019Z" creationid="miurahr" creationdate="20201117T001019Z">
+        <seg>ブックマークの名前、説明、移動先フォルダを記入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>XML Bindings:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T063036Z" creationid="miurahr" creationdate="20201103T063036Z">
@@ -19847,6 +20159,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052522Z" creationid="miurahr" creationdate="20201102T052507Z">
         <seg>QGISが空プロジェクトで起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will see a window like this:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T000739Z" creationid="miurahr" creationdate="20201117T000739Z">
+        <seg>次のようなウィンドウが表示されます:</seg>
       </tuv>
     </tu>
     <tu>
