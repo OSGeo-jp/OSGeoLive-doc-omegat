@@ -3006,6 +3006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After connection established, you can see the list of the databases already existing in the system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002611Z" creationid="miurahr" creationdate="20201117T002611Z">
+        <seg>接続が確立されると、システムにすでに存在するデータベースの一覧が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After defining ``myStyle`` as a state variable, you can use it as follows:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235417Z" creationid="miurahr" creationdate="20201116T235417Z">
@@ -3062,10 +3070,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Afterwards expand the ``public`` schema.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002648Z" creationid="miurahr" creationdate="20201117T002648Z">
+        <seg>その後、``public``スキーマを展開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Afterwards, we are able to read an existing SLD into the GeoStyler-readable format.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235406Z" creationid="miurahr" creationdate="20201116T235406Z">
         <seg>その後、既存のSLDをGeoStylerで読み取り可能な形式で読み込むことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Afterwards, you should press the green arrow button, pointing to the right (execute query).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002821Z" creationid="miurahr" creationdate="20201117T002821Z">
+        <seg>その後、緑色の矢印ボタンを押して右向きにします(クエリーを実行)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3470,6 +3494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At this point you are able only to see the existing databases on the system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002622Z" creationid="miurahr" creationdate="20201117T002622Z">
+        <seg>この時点では、システム上の既存のデータベースしか表示できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Attach listener functions to map events.</seg>
       </tuv>
       <tuv lang="ja">
@@ -3818,6 +3850,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011608Z" creationid="miurahr" creationdate="20201103T011608Z">
         <seg>これらのルールをOGCと組み合わせることで、スケールに依存するスタイル設定を実装できるため、ユーザがズームインしたときに詳細を追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By navigating and expanding the ``Tables``, you can see all the tables contained within this schema.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002653Z" creationid="miurahr" creationdate="20201117T002653Z">
+        <seg>``Tables``を移動して展開すると、このスキーマに含まれるすべてのテーブルを表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By pressing it a tree is going to appear, displaying the contents of the database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002640Z" creationid="miurahr" creationdate="20201117T002640Z">
+        <seg>これを押すとツリーが表示され、データベースの内容が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4718,6 +4766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Connect to a remote OGR data source via ogr_fdw</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003101Z" creationid="miurahr" creationdate="20201117T003101Z">
+        <seg>ogr_fdw経由でリモートOGRデータソースに接続</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contact Us</seg>
       </tuv>
       <tuv lang="ja">
@@ -4870,6 +4926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create a FDW to a WFS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003247Z" creationid="miurahr" creationdate="20201117T003247Z">
+        <seg>WFSへのFDWの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create a basic map</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T015234Z" creationid="miurahr" creationdate="20201108T015234Z">
@@ -4890,6 +4954,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T015328Z" creationid="miurahr" creationdate="20201108T015328Z">
         <seg>/home/user/でbasic-map.htmlという名前のファイルを作成して、次の内容を記入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create a foreign Server that tells you where to find the data source that you want to connect</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003026Z" creationid="miurahr" creationdate="20201117T003026Z">
+        <seg>接続するデータソースの場所を通知する外部サーバーを作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -5222,6 +5294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Define the user that should be used when you connect to the foreign server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003032Z" creationid="miurahr" creationdate="20201117T003032Z">
+        <seg>外部サーバーに接続するときに使用するユーザーを定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Definition of interfaces for key spatial concepts and data structures</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011932Z" creationid="miurahr" creationdate="20201103T011932Z">
@@ -5418,6 +5498,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235925Z" creationid="miurahr" creationdate="20201116T235925Z">
         <seg>カラーバーを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do it for the natural_earth2 database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002630Z" creationid="miurahr" creationdate="20201117T002630Z">
+        <seg>Natural_earth2データベースで実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5958,6 +6046,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Executing a SQL query from pgAdmin III</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002657Z" creationid="miurahr" creationdate="20201117T002657Z">
+        <seg>pgAdmin IIIからのSQLクエリーの実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Existing at the cutting edge, OGC actively analyzes and anticipates emerging tech trends, and runs an agile, collaborative Research and Development (R&amp;D) lab - the OGC Innovation Program - that builds and tests innovative prototype solutions to members' use cases.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013228Z" creationid="miurahr" creationdate="20201103T013228Z">
@@ -6190,6 +6286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Find new tables in your database and have a look at the data from a foreign table.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003054Z" creationid="miurahr" creationdate="20201117T003054Z">
+        <seg>データベース内の新しいテーブルを検索し、外部テーブルのデータを参照します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Find out more about OSM on the website: https://www.openstreetmap.org</seg>
       </tuv>
       <tuv lang="ja">
@@ -6226,6 +6330,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054043Z" creationid="miurahr" creationdate="20201103T054043Z">
         <seg>まず、OpenStreetMapを使用してマップタイル画層を作成し、OSGeoLiveのMapServer Itascaデモで使用できるWMS画層をいくつか作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First load the extension for the Foreign Data Wrapper that you want to use.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002932Z" creationid="miurahr" creationdate="20201117T002932Z">
+        <seg>最初に、使用する外部データラッパーの拡張機能をロードします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6306,6 +6418,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>4 GB USB フラッシュドライブ用には、osgeolive-mini ISO を使用 (WindowsとMac向けのインストーラーを含まない)、永続性は非サポート。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a connection to a different PostgreSQL database you need ``postgres_fdw``</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002937Z" creationid="miurahr" creationdate="20201117T002937Z">
+        <seg>異なるPostgreSQLデータベースへの接続には、``postgres_fdw``が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6670,6 +6790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From you database you can access remote objects like tables from other PostgreSQL databases or connect to remote databases like Oracle, MySQL, MS SQL or CouchDB.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002839Z" creationid="miurahr" creationdate="20201117T002839Z">
+        <seg>データベースから、他のPostgreSQLデータベースからテーブルなどのリモートオブジェクトにアクセスしたり、Oracle、MySQL、MS SQL、CouchDBなどのリモートデータベースに接続したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Full Spatial metadata in line with OpenGis specifications</seg>
       </tuv>
       <tuv lang="ja">
@@ -6738,6 +6866,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T102604Z" creationid="smellman" creationdate="20201103T102604Z">
         <seg>さらに、ユーザは、正確なコース追跡のための外部自動操縦装置へのインターフェースを可能にする経路およびウェイポイントを入力することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Furthermore we are going to sort the result, based on the computed rate.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002720Z" creationid="miurahr" creationdate="20201117T002720Z">
+        <seg>さらに、計算されたレートに基づいて結果を並べ替えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7398,6 +7534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Get to know Foreign Data Wrappers (FDW)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002826Z" creationid="miurahr" creationdate="20201117T002826Z">
+        <seg>外部データラッパー(FDW)について知る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Get to know GDAL</seg>
       </tuv>
       <tuv lang="ja">
@@ -7410,6 +7554,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130528Z" creationid="miurahr" creationdate="20201116T130528Z">
         <seg>OGRについて知る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get to know pgAdmin III</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002518Z" creationid="miurahr" creationdate="20201117T002518Z">
+        <seg>pgAdmin IIIについて知る</seg>
       </tuv>
     </tu>
     <tu>
@@ -7686,6 +7838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here are the steps:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002927Z" creationid="miurahr" creationdate="20201117T002927Z">
+        <seg>次の手順に従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here is how you use osm2pgrouting version 2.1.0+.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T001926Z" creationid="miurahr" creationdate="20201117T001926Z">
@@ -7746,6 +7906,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023349Z" creationid="miurahr" creationdate="20201103T023349Z">
         <seg>次に、いくつかのをいくつか紹介しよう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here, you have the option of creating a new connection to a PostgreSQL server, or connecting to an existing server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002602Z" creationid="miurahr" creationdate="20201117T002602Z">
+        <seg>ここでは、PostgreSQLサーバへの新しい接続を作成するか、既存のサーバに接続するかを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8766,6 +8934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this case, we are going to connect to the predefined ``local`` server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002607Z" creationid="miurahr" creationdate="20201117T002607Z">
+        <seg>この場合、定義済みの``local``サーバに接続します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this example we are going to use the :doc:`Natural Earth data set &lt;../overview/naturalearth_overview&gt;` that is included on OSGeoLive (:file:`/usr/local/share/data/natural_earth2/`).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T150735Z" creationid="miurahr" creationdate="20201116T150735Z">
@@ -8982,6 +9158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inspect which formats are supported:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003225Z" creationid="miurahr" creationdate="20201117T003220Z">
+        <seg>サポートされているフォーマットを確認:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Install OSGeoLive</seg>
       </tuv>
       <tuv lang="ja">
@@ -8994,6 +9178,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ハードディスクに OSGeoLive をインストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Install the extension ``ogr_fdw`` in your database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003212Z" creationid="miurahr" creationdate="20201117T003212Z">
+        <seg>拡張機能``ogr_fdw``をデータベースにインストールします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9966,6 +10158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's see how it works!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002859Z" creationid="miurahr" creationdate="20201117T002859Z">
+        <seg>動作の仕組みを見てみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's split our image into two with `-srcwin` which makes a copy based on pixel/line location (xoff yoff xsize ysize).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130051Z" creationid="miurahr" creationdate="20201116T130051Z">
@@ -10886,6 +11086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Navigate at the ``schemas`` subtree, expand it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002644Z" creationid="miurahr" creationdate="20201117T002644Z">
+        <seg>``schemas``サブツリーに移動して展開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Navigate globe in 3D</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010312Z" creationid="miurahr" creationdate="20201103T010312Z">
@@ -11398,6 +11606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now you can create a foreign table.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003040Z" creationid="miurahr" creationdate="20201117T003040Z">
+        <seg>これで、外部テーブルを作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now you should be able to see all the available layers.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T143618Z" creationid="miurahr" creationdate="20201116T143618Z">
@@ -11694,6 +11910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the database prompt type:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003215Z" creationid="miurahr" creationdate="20201117T003215Z">
+        <seg>データベースプロンプトで、次のように入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the desktop, choose :menuselection:`Navigation and Maps --&gt; Marble`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T000734Z" creationid="miurahr" creationdate="20201117T000525Z">
@@ -11938,6 +12162,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052438Z" creationid="smellman" creationdate="20201103T052438Z">
         <seg>端末を開き(:menuselection:`System Tools--&gt;LXTerminal`)、次を入力します::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open a terminal and search for ogr_fdw_info:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003237Z" creationid="miurahr" creationdate="20201117T003229Z">
+        <seg>端末を開き、ogr_fdw_infoを検索します:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12450,6 +12682,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235305Z" creationid="miurahr" creationdate="20201116T235305Z">
         <seg>関連する依存ライブラリのインストールについて指定されたバージョンであるか、確認してください:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please note that in pgAdmin III the foreign data wrappers, foreign servers, user mappings and foreign tables are not displayed by default in the tree.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002944Z" creationid="miurahr" creationdate="20201117T002944Z">
+        <seg>pgAdmin IIIでは、外部データラッパー、外部サーバ、ユーザマッピング、外部テーブルが既定でツリーに表示されないことに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please note that there is a new version of pgAdmin called pgAdmin4 that can get installed via apt install pgadmin4</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002539Z" creationid="miurahr" creationdate="20201117T002539Z">
+        <seg>pgAdminの新しいバージョンであるpgadmin4があり、apt install pgadmin4を使用してインストールできることに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13323,6 +13571,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Read more about ``ogr_fdw``: * Repository: https://github.com/pramsey/pgsql-ogr-fdw * New and improved: http://blog.cleverelephant.ca/2016/04/ogr-fdw-update.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003205Z" creationid="miurahr" creationdate="20201117T003205Z">
+        <seg>``ogr_fdw``: *リポジトリ: https://github.com/pramsey/pgsql-ogr-fdw* 新規改良版: http://blog.cleverelephant.ca/2016/04/ogr-fdw-update.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Read more about this in the RasterTutorial https://trac.osgeo.org/gdal/wiki/UserDocs/RasterProcTutorial.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130347Z" creationid="miurahr" creationdate="20201116T130347Z">
@@ -13543,6 +13799,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>再スケーリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Results might look like these: ::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003240Z" creationid="miurahr" creationdate="20201117T003240Z">
+        <seg>結果は次のようになります:::</seg>
       </tuv>
     </tu>
     <tu>
@@ -14695,6 +14959,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Geoserverを起動する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start Geoserver via :menuselection:`Geospatial --&gt; Web Services --&gt; GeoServer --&gt;  Start GeoServer`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003318Z" creationid="miurahr" creationdate="20201117T003318Z">
+        <seg>Geoserverの起動 :menuselection:`Geospatial--&gt;Web Services--&gt;GeoServer--&gt;Start GeoServer`</seg>
       </tuv>
     </tu>
     <tu>
@@ -15987,10 +16259,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The easiest way is to connect to a different PostgreSQL database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002923Z" creationid="miurahr" creationdate="20201117T002909Z">
+        <seg>異なるPostgreSQLデータベースに接続するのが一番簡単でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The example uses the natural earth dataset, which is already on OSGeoLive at :file:`~/data/natural_earth2` (a short cut to :file:`/usr/local/share/data/natural_earth2`).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021735Z" creationid="miurahr" creationdate="20201103T021735Z">
         <seg>この例では、既にOSGeoLive上の :file:`~/data/natural_earth2`(:file:`/usr/local/share/data/natural_earth2` へのショートカット)にある自然地球データセットを使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The extension ``ogr_fdw`` allows connection too several geodata formats like KML, GeoPackage, WFS, GeoJSON, GPX, GML and more.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003110Z" creationid="miurahr" creationdate="20201117T003110Z">
+        <seg>拡張``ogr_fdw``は、KML、GeoPackage、WFS、GeoJSON、GPX、GMLなどのいくつかの地理データフォーマットの接続を可能にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16335,6 +16623,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125030Z" creationid="miurahr" creationdate="20201116T124936Z">
         <seg>プロジェクトのWebサイトには、はじめての人に役立つ資材がたくさん用意されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The red "X" on the image of most of the databases, denotes that you haven't been yet connected to any of them (you are connected only to the default ``postgres`` database).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002619Z" creationid="miurahr" creationdate="20201117T002619Z">
+        <seg>ほとんどのデータベースのイメージ上の赤い"X"は、まだどのデータベースにも接続していないことを示しています(あなたはデフォルトの``postgres``データベースにのみ接続しています)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17227,6 +17523,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is the official client for PostgreSQL.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002530Z" creationid="miurahr" creationdate="20201117T002530Z">
+        <seg>これはPostgreSQLの公式クライアントです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the same way that the internet works - your browser is a client and a web server sends back the web page.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T040802Z" creationid="miurahr" creationdate="20201108T040802Z">
@@ -17763,6 +18067,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To do that, we need to perform the following query (submit it on the text editor of the SQL Window):</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002816Z" creationid="miurahr" creationdate="20201117T002816Z">
+        <seg>そのためには、次のクエリを実行する必要があります(SQLウィンドウのテキストエディタで送信)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To draw a line, single-click with your mouse.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075601Z" creationid="miurahr" creationdate="20201103T073638Z">
@@ -17927,6 +18239,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>経路のジオメトリを出力するために、結果を道路のジオメトリにリンクさせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To perform a query on the database, you have to press the ``SQL`` button from the main toolbar (the one with the yellow Magnifying lens).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002708Z" creationid="miurahr" creationdate="20201117T002708Z">
+        <seg>データベースに対してクエリを実行するには、メインツールバーの``SQL``ボタン(黄色の拡大レンズ付き)を押す必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18819,6 +19139,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We are going to find the rate of the SIDS over the births for the 1974 for each city.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002807Z" creationid="miurahr" creationdate="20201117T002712Z">
+        <seg>各都市の1974年の乳幼児突然死症候群の発生率を求めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We can also compute the distance using a spheroid by using a different function and specifying the spheroid name, semi-major axis and inverse flattening parameters:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043302Z" creationid="miurahr" creationdate="20201108T043302Z">
@@ -19579,6 +19907,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You also can connect via ODBC, connect to CSV, Geospatial Data and even to twitter.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002845Z" creationid="miurahr" creationdate="20201117T002845Z">
+        <seg>ODBC経由で接続したり、CSVや地理空間データに接続したり、Twitterに接続することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You also can meet us at Slack, Matrix or Glitter.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T104205Z" creationid="smellman" creationdate="20201101T104205Z">
@@ -19731,6 +20067,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can connect, by double clicking, on the name of a database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002626Z" creationid="miurahr" creationdate="20201117T002626Z">
+        <seg>データベースの名前をダブルクリックすることで接続できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can convert your data to other formats.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130557Z" creationid="miurahr" creationdate="20201116T130557Z">
@@ -19875,6 +20219,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can find and launch pgAdmin III from the Databases folder, existing on the OSGeoLive Desktop.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002556Z" creationid="miurahr" creationdate="20201117T002556Z">
+        <seg>pgAdmin IIIは、OSGeoLiveデスクトップ上のDatabasesフォルダから検索して起動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can find more OpenLayers information here:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021511Z" creationid="miurahr" creationdate="20201108T021511Z">
@@ -19971,6 +20323,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can see now that the red X disappeared and a "+" appeared on the left.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002635Z" creationid="miurahr" creationdate="20201117T002635Z">
+        <seg>これで、赤いXが消え、左側に「+」が表示されたことがわかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can see which workspace is currently active (only one can be active at a time) workspace, inactive locally available workspaces and offical workspaces which can be imported if you have a internet connection.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135247Z" creationid="miurahr" creationdate="20201116T135247Z">
@@ -20043,6 +20403,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can use the graphical database client ``pgAdmin III`` from the Databases menu to query and modify your database non-spatially.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002526Z" creationid="miurahr" creationdate="20201117T002526Z">
+        <seg>グラフィカルなデータベースクライアント``pgAdmin III``を[データベース]メニューから使用して、データベースに対して非空間的に問い合わせや変更を行うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can use the md5 checksum to verify the image downloaded successfully.</seg>
       </tuv>
       <tuv lang="ja">
@@ -20099,10 +20467,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You find a list of different FDW at:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002849Z" creationid="miurahr" creationdate="20201117T002849Z">
+        <seg>異なるFDWの一覧は次の場所にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You find the manager in the menu.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043941Z" creationid="miurahr" creationdate="20201108T043941Z">
         <seg>マネージャーはメニューにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have to activate them via menu via :menuselection:`File --&gt; Options --&gt; Browser --&gt; Display`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T003014Z" creationid="miurahr" creationdate="20201117T003014Z">
+        <seg>これらを有効にするには、メニューの :menuselection:`File--&gt;Options--&gt;Browser--&gt;Display`を使用する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21679,6 +22063,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071314Z" creationid="miurahr" creationdate="20201103T071314Z">
         <seg>並列化と"タイルストリーミング"により、ノートパソコンからクラスタやクラウドまで無制限の拡張性を実現</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pgAdmin III lets you use SQL to manipulate your data tables.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002544Z" creationid="miurahr" creationdate="20201117T002544Z">
+        <seg>pgAdmin IIIでは、SQLを使用してデータテーブルを操作できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pgAdmin III, offers the capability of executing queries to a relational database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T002702Z" creationid="miurahr" creationdate="20201117T002702Z">
+        <seg>pgAdmin IIIは、リレーショナルデータベースへのクエリーを実行する機能を提供します。</seg>
       </tuv>
     </tu>
     <tu>
