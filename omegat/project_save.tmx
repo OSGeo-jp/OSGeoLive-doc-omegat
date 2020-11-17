@@ -8446,6 +8446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If your computer is set to boot from CD (as is often the case) you should boot up into a Lubuntu system, with Geospatial applications installed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T004538Z" creationid="miurahr" creationdate="20201117T004538Z">
+        <seg>コンピューターが CD から起動可能になっていれば、地理空間アプリケーションをインストールした Lubuntu のシステムが起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Image- and HTML-based markers</seg>
       </tuv>
       <tuv lang="ja">
@@ -12482,6 +12490,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>その他 webkit ベースのブラウザ (webOS、Blackberry 7+ 等)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Otherwise you'll have to adjust the BIOS boot settings or press the boot menu button just after powering-up.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201117T004611Z" creationid="miurahr" creationdate="20201117T004611Z">
+        <seg>CD から起動可能になっていない場合には BIOS の設定を変更するか、電源投入時に起動メニューボタンを押してください。</seg>
       </tuv>
     </tu>
     <tu>
