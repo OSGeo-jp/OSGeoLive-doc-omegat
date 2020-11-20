@@ -4670,6 +4670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the arrow labelled Workbench in the upper right corner, to reveal the contents of the uDig workbench.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T141524Z" creationid="miurahr" creationdate="20201120T141524Z">
+        <seg>右上隅にあるワークベンチというラベルの矢印をクリックすると、uDigワークベンチの内容が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the checkbox next to the 'Water' layer to turn the layer off.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T120350Z" creationid="miurahr" creationdate="20201103T120350Z">
@@ -8706,6 +8714,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T074229Z" creationid="miurahr" creationdate="20201103T072418Z">
         <seg>マウスが使える場合は、マウスのスクロールホイールを回転させることで、拡大と縮小が可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you have any difficulties, or are running uDig please review the Running uDig reference page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T140915Z" creationid="miurahr" creationdate="20201120T140915Z">
+        <seg>問題がある場合、またはuDigを実行している場合は、実行中のuDigのリファレンスページを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15339,6 +15355,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shown above is a typical uDig session with the</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T141845Z" creationid="miurahr" creationdate="20201120T141845Z">
+        <seg>上に表示されているのは、典型的なuDigセッションで</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sign in</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133359Z" creationid="miurahr" creationdate="20201116T133359Z">
@@ -16747,6 +16771,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Workbench window offers multiple Editors (each showing a Map) and supporting Views (offering information about the current Map).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T141833Z" creationid="miurahr" creationdate="20201120T141833Z">
+        <seg>ワークベンチウィンドウには複数のエディタ(それぞれがマップを表示)とサポートするビュー(現在のマップに関する情報を提供)があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ZOO-Project provides a developer friendly Web Processing Service (WPS) framework for creating and chaining Web Processing Services.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T134108Z" creationid="miurahr" creationdate="20201120T134108Z">
@@ -16975,6 +17007,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133542Z" creationid="miurahr" creationdate="20201120T133542Z">
         <seg>アプリケーションは、現在の時刻に設定されたタイムスライダが下部に表示された気象マップを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The application will take a few moments to start up</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T140908Z" creationid="miurahr" creationdate="20201120T140908Z">
+        <seg>アプリケーションの起動にはしばらくかかります</seg>
       </tuv>
     </tu>
     <tu>
@@ -18671,6 +18711,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T134618Z" creationid="miurahr" creationdate="20201120T134618Z">
         <seg>ここでは、OSGeoLive のブータブル (起動できる) USB フラッシュドライブを作る方法について記載します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This screen has links to tutorials, documentation and the project website.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T141518Z" creationid="miurahr" creationdate="20201120T141518Z">
+        <seg>この画面には、チュートリアル、ドキュメント、およびプロジェクトWebサイトへのリンクがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20707,6 +20755,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Welcome View</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T140941Z" creationid="miurahr" creationdate="20201120T140921Z">
+        <seg>ウェルカム画面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Welcome to |osgeolive-version|</seg>
       </tuv>
       <tuv lang="ja">
@@ -20971,6 +21027,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you start up uDig for the first time the Welcome view takes up the entire display.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T140936Z" creationid="miurahr" creationdate="20201120T140927Z">
+        <seg>uDigを初めて起動すると、ウェルカム画面が画面全体に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you're done, click the red power button to close.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133802Z" creationid="miurahr" creationdate="20201120T133802Z">
@@ -21151,6 +21215,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T141752Z" creationid="miurahr" creationdate="20201116T141752Z">
         <seg>Web Clientの操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Workbench</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T141554Z" creationid="miurahr" creationdate="20201120T141554Z">
+        <seg>ワークベンチ</seg>
       </tuv>
     </tu>
     <tu>
@@ -21623,6 +21695,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133218Z" creationid="miurahr" creationdate="20201116T133218Z">
         <seg>トップツールバーの左上に表示されているカタログロゴを選択すると、ホームページにいつでも戻ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can return to the Welcome view at any time by selecting the :menuselection:`Help --&gt; Welcome` from the menu bar.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T141545Z" creationid="miurahr" creationdate="20201120T141545Z">
+        <seg>メニューバーから:menuselection:`Help--&gt;Welcome`を選択すると、いつでもウェルカム画面に戻ることができます。</seg>
       </tuv>
     </tu>
     <tu>
