@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>"CAPE" stands for Convective Available Potential Energy at ground level.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133650Z" creationid="miurahr" creationdate="20201120T133650Z">
+        <seg>"CAPE"は対流利用可能ポテンシャルエネルギー(Convection Available Potential Energy)の略です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(4) The right cell is the main display area where raster and vector data is rendered.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020940Z" creationid="miurahr" creationdate="20201103T020940Z">
@@ -2502,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A new window opens and an animation will be generated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133722Z" creationid="miurahr" creationdate="20201120T133722Z">
+        <seg>新しいウィンドウが開き、アニメーションが生成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A number of editors to choose from</seg>
       </tuv>
       <tuv lang="ja">
@@ -2738,6 +2754,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020657Z" creationid="miurahr" creationdate="20201103T020657Z">
         <seg>Actiniaは、衛星画像、時系列衛星画像データ、ベクタデータを処理するREST APIを提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activity Workshop</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133027Z" creationid="miurahr" creationdate="20201120T133027Z">
+        <seg>アクティビティワークショップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3098,6 +3122,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043927Z" creationid="miurahr" creationdate="20201108T043927Z">
         <seg>ここでもQGISを使って説明します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Again,  mark out a box of interest with a left-click drag, but this time covering most or all of the zoomed-in map canvas.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133450Z" creationid="miurahr" creationdate="20201120T133450Z">
+        <seg>再度、左クリックドラッグで対象のボックスをマークします。ただし、今回は拡大されたマップキャンバスのほとんどまたはすべてをカバーしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4022,6 +4054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change views</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133550Z" creationid="miurahr" creationdate="20201120T133550Z">
+        <seg>ビューの変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changing objects</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075137Z" creationid="miurahr" creationdate="20201103T072826Z">
@@ -4050,6 +4090,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>`OGC サポートと構成 &lt;https://www.mapserver.org/ogc/index.html&gt;`_をチェックして、MapServerのOGC標準（WMS、WFS、SLD、WFS Filter Encoding、WCS、SOSなど）の詳細を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Check the connection to the data server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133334Z" creationid="miurahr" creationdate="20201120T133334Z">
+        <seg>データサーバーへの接続をチェックしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4566,6 +4614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the right-hand most icon on the toolbar (a rocketship).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133711Z" creationid="miurahr" creationdate="20201120T133711Z">
+        <seg>ツールバーの右端のアイコン(ロケットシップ)をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the upload link (next to the browse button) and a copy of the file appears in the editor.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T234134Z" creationid="miurahr" creationdate="20201116T234120Z">
@@ -5034,6 +5090,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053848Z" creationid="miurahr" creationdate="20201103T053848Z">
         <seg>HTMLページを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create an animation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133707Z" creationid="miurahr" creationdate="20201120T133707Z">
+        <seg>アニメーションを作成する</seg>
       </tuv>
     </tu>
     <tu>
@@ -5662,6 +5726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Download data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133406Z" creationid="miurahr" creationdate="20201120T133406Z">
+        <seg>データのダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Download the file here: `sample.osm &lt;https://learnosm.org/files/sample.osm&gt;`__</seg>
       </tuv>
       <tuv lang="ja">
@@ -5970,6 +6042,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133942Z" creationid="miurahr" creationdate="20201116T133935Z">
         <seg>レコードを編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Email</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133022Z" creationid="miurahr" creationdate="20201120T133022Z">
+        <seg>Eメール</seg>
       </tuv>
     </tu>
     <tu>
@@ -6558,6 +6638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, select :menuselection:`Weather map --&gt; Cloud cover` and the view should change.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133633Z" creationid="miurahr" creationdate="20201120T133633Z">
+        <seg>たとえば、:menuselection:`Weather map--&gt;Cloud cover`を選択すると、ビューが変更されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, the Minnesota DNR `Recreation Compass &lt;http://www.dnr.state.mn.us/maps/compass.html&gt;`_ provides users with more than 10,000 web pages, reports and maps via a single application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T005850Z" creationid="miurahr" creationdate="20201103T005850Z">
@@ -6802,6 +6890,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T044123Z" creationid="miurahr" creationdate="20201108T044123Z">
         <seg>``Table``メニューから``Import layer/file``オプションを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the ``Weather map`` menu, select a variable to visualize.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133613Z" creationid="miurahr" creationdate="20201120T133613Z">
+        <seg>``Weather map``メニューから、視覚化する変数を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7784,7 +7880,7 @@
       <tuv lang="en-US">
         <seg>Greek</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T062039Z" creationid="miurahr" creationdate="20201102T062039Z">
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133251Z" creationid="miurahr" creationdate="20201102T062039Z">
         <seg>ギリシャ語</seg>
       </tuv>
     </tu>
@@ -8150,6 +8246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hungary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133156Z" creationid="miurahr" creationdate="20201120T133156Z">
+        <seg>ハンガリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IE10/IE11 for Win8-based devices</seg>
       </tuv>
       <tuv lang="ja">
@@ -8262,6 +8366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If in doubt, accept the defaults.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133531Z" creationid="miurahr" creationdate="20201120T133513Z">
+        <seg>よくわからない場合は、デフォルトを受け入れてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If not, refer to the `Installation Guide &lt;https://geonetwork-opensource.org/manuals/trunk/en/install-guide/index.html&gt;`__.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133122Z" creationid="miurahr" creationdate="20201116T133122Z">
@@ -8370,6 +8482,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T234128Z" creationid="miurahr" creationdate="20201116T234128Z">
         <seg>妥当性検査ボタンをクリックすると、強調表示されたラインにエラーが表示されますが、エラーを無視しても安全です(または、何もしないラインを削除してもかまいません)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you downloaded data for southern Africa, cloud cover may be more interesting.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133703Z" creationid="miurahr" creationdate="20201120T133703Z">
+        <seg>アフリカ南部のデータをダウンロードした場合は、雲量の方が興味深いかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you downloaded data for the Gulf of Mexico you'll be interested to view the CAPE data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133644Z" creationid="miurahr" creationdate="20201120T133644Z">
+        <seg>メキシコ湾のデータをダウンロードした場合、CAPEデータのビューに興味があるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9554,6 +9682,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T061148Z" creationid="miurahr" creationdate="20201103T061148Z">
         <seg>OpenGISの "Simple Features for SQL" の空間述語関数と空間演算、 JTS 仕様の拡張トポロジ関数を備えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is a measure of atmospheric instability, and high values (1000s of J/kg) indicate a threat of thunderstorms and/or tornadoes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133656Z" creationid="miurahr" creationdate="20201120T133656Z">
+        <seg>これは大気の不安定性の尺度であり、高い値(1000J/kg)は雷雨や竜巻の脅威を示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11118,6 +11254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Move the mouse around the map you'll see the exact conditions listed in the pane on the left.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133556Z" creationid="miurahr" creationdate="20201120T133556Z">
+        <seg>マップの周りでマウスを動かすと、左側のペインに正確な条件が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Move your mouse and click again.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075608Z" creationid="miurahr" creationdate="20201103T073641Z">
@@ -12070,6 +12214,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Okeanos is build on top of existing proven open source software (e.g. Synnefo, Google Ganeti).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133010Z" creationid="miurahr" creationdate="20201120T133010Z">
+        <seg>Okeanoは、既存の実証済みのオープンソースソフトウェア(例:Synnefo、Google Ganeti)の上に構築されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Okeanos is kindly providing Virtual Machines for building the OSGeoLive iso images.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133019Z" creationid="miurahr" creationdate="20201120T133019Z">
+        <seg>Okeanosは親切にもOSGeoLive isoイメージを構築するための仮想マシンを提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Okeanos is the Greek Academic cloud service (IaaS) which is providing virtualized computing resources free of charge to the Greek Universities and public Research Centres.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133003Z" creationid="miurahr" creationdate="20201120T133003Z">
+        <seg>Okeanosはギリシャのアカデミッククラウドサービス(IaaS)であり、ギリシャの大学公共研究センターに仮想コンピューティングリソースを無償で提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On Windows run the installer, or on Ubuntu-like Linux systems do the following:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113435Z" creationid="miurahr" creationdate="20201103T113435Z">
@@ -12130,6 +12298,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231837Z" creationid="miurahr" creationdate="20201116T231837Z">
         <seg>スタイルウィンドウにはエクスポートボタンがあり、スタイルを定義するSLDファイルを保存できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the toolbar at the top right of the screen, click the power plug icon.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133339Z" creationid="miurahr" creationdate="20201120T133339Z">
+        <seg>画面右上のツールバーで、電源プラグアイコンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14403,6 +14579,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the :doc:`OpenCPN quickstart &lt;../quickstart/opencpn_quickstart&gt;` for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133848Z" creationid="miurahr" creationdate="20201120T133848Z">
+        <seg>詳細は、:doc:`クイックスタート文書&lt;./quickstart/opencpn_quickstart&gt;`を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See the `Marble documentation &lt;https://docs.kde.org/trunk5/en/kdeedu/marble/index.html&gt;`_ for help.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T001124Z" creationid="miurahr" creationdate="20201117T001124Z">
@@ -14479,6 +14663,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>:guilabel:`Install` を選択します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select :menuselection:`File --&gt; Download GRIB` and select the features you want to download.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133510Z" creationid="miurahr" creationdate="20201120T133510Z">
+        <seg>:menuselection:`File--&gt;Download GRIB`を選択し、ダウンロードしたい地物を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14663,6 +14855,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132433Z" creationid="miurahr" creationdate="20201116T132423Z">
         <seg>「クエリーレイヤ」選択ボックスを使用して、地物を選択するレイヤを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select your preferred language and click :guilabel:`OK`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133324Z" creationid="miurahr" creationdate="20201120T133324Z">
+        <seg>使用する言語を選択し、:guilabel:`OK`をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15291,6 +15491,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start zyGrib</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133320Z" creationid="miurahr" creationdate="20201120T133320Z">
+        <seg>zyGribを開始する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Starting the iD Editor</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051320Z" creationid="miurahr" creationdate="20201103T051320Z">
@@ -15811,6 +16019,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The :doc:`OpenCPN software &lt;../overview/opencpn_overview&gt;` (also on this disc) has a GRIB overlay plugin which you may try with your newly downloaded GRIB file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133817Z" creationid="miurahr" creationdate="20201120T133817Z">
+        <seg>:doc:`OpenCPNソフトウェア&lt;./overview/opencpn_overview&gt;`(このディスクにもあります)にはGRIBオーバーレイプラグインがあり、新しくダウンロードしたGRIBファイルで試すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ASPRS LAS format is a sequential binary format used to store data from LiDAR sensors and by LiDAR processing software for data interchange and archival.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T060010Z" creationid="miurahr" creationdate="20201103T055953Z">
@@ -15823,6 +16039,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>DebianGISとUbuntuGISプロジェクトは、コアパッケージの多くを提供し品質を保証します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The File Server Status window opens and after a moment, it will confirm the status of the connection.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133346Z" creationid="miurahr" creationdate="20201120T133346Z">
+        <seg>ファイルサーバーの状態ウィンドウが開き、しばらくすると接続の状態が確認されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15863,6 +16087,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011059Z" creationid="miurahr" creationdate="20201103T011059Z">
         <seg>GRASS(Geographic Resources Analysis Support System)は、一般にGRASSと呼ばれる地理情報システム(GIS)で単一の統合ソフトウェアスイートで提供する地理情報システム(GIS)です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Gulf of Mexico or the southern tip of Africa often have dynamic winds.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133436Z" creationid="miurahr" creationdate="20201120T133436Z">
+        <seg>メキシコ湾やアフリカの南端にはしばしばダイナミックな風があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16295,6 +16527,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011432Z" creationid="miurahr" creationdate="20201103T011432Z">
         <seg>各マップ画層の外観は、フィーチャの色付けとラベル付けを可能にするSLD標準を使用してコントロールできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The application displays a weather map with a time slider along the bottom, set for the current time.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133542Z" creationid="miurahr" creationdate="20201120T133542Z">
+        <seg>アプリケーションは、現在の時刻に設定されたタイムスライダが下部に表示された気象マップを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16863,6 +17103,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T015206Z" creationid="miurahr" creationdate="20201117T015206Z">
         <seg>ズームアウトツールを使用するプロセスは、ズームインツールと同じです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The program opens and you are presented with a map of the world.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133330Z" creationid="miurahr" creationdate="20201120T133330Z">
+        <seg>プログラムが開き、世界のマップが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19187,6 +19435,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the mouse to click and drag a box on the map canvas on a part of the world you are interested in.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133411Z" creationid="miurahr" creationdate="20201120T133411Z">
+        <seg>マウスを使用して、地図キャンバス上のボックスをクリックして、関心のある世界の一部にドラッグします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>User friendly GUI</seg>
       </tuv>
       <tuv lang="ja">
@@ -20051,6 +20307,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When it is done it will rewind to the beginning of the time series.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133741Z" creationid="miurahr" creationdate="20201120T133741Z">
+        <seg>終了すると、時系列の先頭に戻ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When ready click the ``Download`` button, and save the file to disk.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133536Z" creationid="miurahr" creationdate="20201120T133536Z">
+        <seg>準備ができたら、``Download``ボタンをクリックし、ファイルをディスクに保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the Bounding Box Tool is enabled, you can draw a bounding box directly on the map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T124522Z" creationid="miurahr" creationdate="20201116T124522Z">
@@ -20163,6 +20435,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you're done, click the red power button to close.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133802Z" creationid="miurahr" creationdate="20201120T133802Z">
+        <seg>終了したら、赤い電源ボタンをクリックして閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you’re finished using the application, select :menuselection:`Browser Clients --&gt; Stop Geomajas`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131617Z" creationid="miurahr" creationdate="20201116T131617Z">
@@ -20247,6 +20527,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T015425Z" creationid="miurahr" creationdate="20201117T015425Z">
         <seg>スタイル枠を開くと、スタイル枠の最上部に表示されるレイヤの外観を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With your box drawn on the map, click the zoom-to-box icon on the taskbar (the magnifying glass with a small box underneath it)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133443Z" creationid="miurahr" creationdate="20201120T133443Z">
+        <seg>地図にボックスを描画した状態で、タスクバーのボックスズームアイコン(小さなボックスが下にある虫眼鏡)をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20459,6 +20747,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can also save each frame as an image file for later encoding into an AVI, MPEG, or animated GIF `using other software &lt;https://grasswiki.osgeo.org/wiki/Movies&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133757Z" creationid="miurahr" creationdate="20201120T133757Z">
+        <seg>各フレームを画像ファイルとして保存して、後で他のソフトウェア&lt;https://grasswiki.osgeo.org/wiki/Movies&gt;`_を使用してAVI、MPEG、またはアニメーションGIF`にエンコードすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can also search for features by attribute.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132557Z" creationid="miurahr" creationdate="20201116T132557Z">
@@ -20495,6 +20791,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130113Z" creationid="miurahr" creationdate="20201116T130113Z">
         <seg>シェイプファイルをラスタタイルインデックスとして作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can change the time by moving the slider along the bottom, or from the drop down menu in the top-left of the window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133602Z" creationid="miurahr" creationdate="20201120T133602Z">
+        <seg>時間を変更するには、下部に沿ってスライダを移動するか、ウィンドウの左上にあるドロップダウンメニューから移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20707,6 +21011,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can get GRIB data from many sources, but as a convenience the zyGrib authors maintain a data server to use with zyGrib.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133401Z" creationid="miurahr" creationdate="20201120T133401Z">
+        <seg>多くのソースからGRIBデータを取得することができますが、zyGribの作者は便宜上、zyGribで使用するデータサーバーを維持管理しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can get a list of databases on the server with the::</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041109Z" creationid="miurahr" creationdate="20201108T041109Z">
@@ -20743,6 +21055,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T140800Z" creationid="miurahr" creationdate="20201116T140800Z">
         <seg>マウスの左ボタンを押したままマップを移動し、マップをドラッグできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can play, pause and rewind the sequence as you like.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133745Z" creationid="miurahr" creationdate="20201120T133745Z">
+        <seg>再生、一時停止、巻き戻しが可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20863,6 +21183,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>イメージのダウンロードが成功したかを確認するために、 md5 チェックサムを利用することが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use the mouse wheel to zoom in if you like.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133547Z" creationid="miurahr" creationdate="20201120T133547Z">
+        <seg>マウスホイールを使用してズームインすることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21191,6 +21519,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113358Z" creationid="miurahr" creationdate="20201103T113358Z">
         <seg>また、仮想マシン上で作業できるスペースを確保するために、より多くのスペースが必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You'll need an internet connection to download GRIB weather forecast data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133352Z" creationid="miurahr" creationdate="20201120T133352Z">
+        <seg>GRIB天気予報データをダウンロードするにはインターネット接続が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22975,6 +23311,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132321Z" creationid="miurahr" creationdate="20201116T132321Z">
         <seg>手動でトレースすることなく、マップ上の既存の地物を計測することもできます(ベクタレイヤからのものであれば、前のクエリー結果を含めて)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>zyGrib Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133310Z" creationid="miurahr" creationdate="20201120T133310Z">
+        <seg>zyGribクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>zyGrib is a program to download and visualize weather forecast data in the standard GRIB distribution format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133317Z" creationid="miurahr" creationdate="20201120T133317Z">
+        <seg>zyGribは、標準的なGRIB配布フォーマットで天気予報データをダウンロードして視覚化するプログラムです。</seg>
       </tuv>
     </tu>
     <tu>
