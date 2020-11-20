@@ -2262,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>:file:`~/data` (a short cut to :file:`/usr/local/share/data`)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142029Z" creationid="miurahr" creationdate="20201120T142029Z">
+        <seg>:file:`~/data`(:file:`/usr/local/share/data`へのショートカット)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A "Jump to" location pull down list</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132008Z" creationid="miurahr" creationdate="20201116T132008Z">
@@ -2530,6 +2538,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>多数のラスタ・ベクタデータフォーマット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A new Map editor will be opened based on the contents of your shapefile.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142101Z" creationid="miurahr" creationdate="20201120T142101Z">
+        <seg>シェイプファイルの内容に基づいて、新しいマップエディタが開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4102,6 +4118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Catalog view (3) and</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T141903Z" creationid="miurahr" creationdate="20201120T141903Z">
+        <seg>カタログビュー(3)と</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Catalogue</seg>
       </tuv>
       <tuv lang="ja">
@@ -4218,6 +4242,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051919Z" creationid="smellman" creationdate="20201103T051919Z">
         <seg>メニューから:menuselection:`Geospatial--&gt;Web Services--&gt;T-Rex`を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose :menuselection:`Layer --&gt; Add` from the menu bar to open up the **Add Data** wizard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T141952Z" creationid="miurahr" creationdate="20201120T141952Z">
+        <seg>メニューバーから:menuselection:`Layer--&gt;Add`を選択して、**Add Data**ウィザードを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5878,6 +5910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drag :file:`HYP_50M_SR_W.tif` onto the Map Editor, a new layer is added to to the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142408Z" creationid="miurahr" creationdate="20201120T142408Z">
+        <seg>:file:`HYP_50M_SR_W.tif`をマップエディタにドラッグすると、新しいレイヤがマップに追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drag panning with inertia</seg>
       </tuv>
       <tuv lang="ja">
@@ -6458,6 +6498,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T020127Z" creationid="miurahr" creationdate="20201108T020127Z">
         <seg>ベクタレイヤ内のフィーチャにスタイルを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T141921Z" creationid="miurahr" creationdate="20201120T141921Z">
+        <seg>ファイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -10582,6 +10630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Layers view (1),</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T141851Z" creationid="miurahr" creationdate="20201120T141851Z">
+        <seg>レイヤビュー(1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Leaflet is an JavaScript library for browser based, mobile-friendly, interactive maps.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011004Z" creationid="miurahr" creationdate="20201103T011004Z">
@@ -11042,6 +11098,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010309Z" creationid="miurahr" creationdate="20201103T010309Z">
         <seg>地図表示(地図帳、街路図、衛星地図、地形図、教育用地図)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Map editor (4).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T141908Z" creationid="miurahr" creationdate="20201120T141908Z">
+        <seg>マップエディタ(4)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12782,6 +12846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One of the most common questions asked when uDig is considered for an organization is how much memory the application uses.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142559Z" creationid="miurahr" creationdate="20201120T142559Z">
+        <seg>組織でuDigが検討されるときによく聞かれる質問の1つは、アプリケーションが使用するメモリの量です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Online help: https://wiki.openstreetmap.org/wiki/Merkaartor/Documentation</seg>
       </tuv>
       <tuv lang="ja">
@@ -12962,6 +13034,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130533Z" creationid="miurahr" creationdate="20201116T130533Z">
         <seg>QGISのようなデスクトップGISを使用してシェイプファイルを開き、確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open up the :file:`~/data/natural_earth2/` folder on the desktop</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142353Z" creationid="miurahr" creationdate="20201120T142353Z">
+        <seg>デスクトップ上の:file:`~/data/natural_earth2/`フォルダを開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -13758,6 +13838,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press :guilabel:`Next` to open up a file dialog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142013Z" creationid="miurahr" creationdate="20201120T142013Z">
+        <seg>:guilabel:`Next`を押してファイルダイアログを開きます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press :guilabel:`Open`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142050Z" creationid="miurahr" creationdate="20201120T142050Z">
+        <seg>:guilabel:`Open`を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press :guilabel:`publish` next to one of the layers to finish adding the data.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T003955Z" creationid="miurahr" creationdate="20201116T230820Z">
@@ -13950,6 +14046,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012455Z" creationid="miurahr" creationdate="20201103T012455Z">
         <seg>投影に適したベクトルは、経度180度で正確に一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Projects view (2),</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T141857Z" creationid="miurahr" creationdate="20201120T141857Z">
+        <seg>プロジェクトビュー(2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14603,6 +14707,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right now the `HYP_50M_SR_W` layer is drawn on top of the `ne 10m admin 0 countries` layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142448Z" creationid="miurahr" creationdate="20201120T142448Z">
+        <seg>現在、`HYP_50M_SR_W`レイヤは`ne10m admin0countries`レイヤの上に描画されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Roads, rails, urban polygons, parks and protected areas, Pacific nation groups, and water boundary indicators round out the cultural offerings.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012716Z" creationid="miurahr" creationdate="20201103T012522Z">
@@ -15011,6 +15123,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select **Files** from the list of data sources</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142005Z" creationid="miurahr" creationdate="20201120T142005Z">
+        <seg>データソースのリストから**ファイル**を選択します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select **Search** in the top toolbar to access the Search page.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133708Z" creationid="miurahr" creationdate="20201116T133708Z">
@@ -15195,6 +15315,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the `HYP_50M_SR_W` layer in the catalog view and drag it to the bottom of the list</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142457Z" creationid="miurahr" creationdate="20201120T142457Z">
+        <seg>カタログレイヤの`HYP_50M_SR_W`ビューを選択し、リストの一番下にドラッグします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the ``Add New Style`` link.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T233056Z" creationid="miurahr" creationdate="20201116T231923Z">
@@ -15207,6 +15335,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133924Z" creationid="miurahr" creationdate="20201116T133924Z">
         <seg>青色の[**検索に戻る**]ボタンをクリックすると、検索ページに戻ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the following file from the :file:`natural_earth2` folder:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142040Z" creationid="miurahr" creationdate="20201120T142040Z">
+        <seg>:file:`natural_earth2`フォルダから次のファイルを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16427,6 +16563,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The **Layers** view shows a single layer is displayed on this map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142319Z" creationid="miurahr" creationdate="20201120T142319Z">
+        <seg>**レイヤ**ビューは、単一のレイヤがこのマップに表示されていることを示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The **Projects** view has been updated to show that your map is stored in `projects &gt; ne 10m admin 0 countries`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142333Z" creationid="miurahr" creationdate="20201120T142333Z">
+        <seg>**プロジェクト**ビューが更新され、あなたのマップが`projects&gt;ne10m admin0countries`に保存されていることが示されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The *map* is the core component of OpenLayers.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T004052Z" creationid="miurahr" creationdate="20201108T003647Z">
@@ -16655,6 +16807,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T110537Z" creationid="smellman" creationdate="20201101T110537Z">
         <seg>OSGeo-Liveプロジェクトは、`LGPL license v2.1&lt;http://www.gnu.de/documents/lgpl-2.1. en . html&gt;`__のもとで配布されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The OSGeoLive DVD contains sample data in:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142019Z" creationid="miurahr" creationdate="20201120T142019Z">
+        <seg>OSGeoLive DVDにはサンプルデータが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16995,6 +17155,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The above shapefile is not loaded into memory, we have a policy of keeping data on disk and drawing data like this shapefile onto the screen as needed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142702Z" creationid="miurahr" creationdate="20201120T142702Z">
+        <seg>上記のシェープファイルはメモリにロードされません。必要に応じてディスク上にデータを保持し、このシェープファイルのようなデータを画面上に描画するポリシーがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The appearance of each map layer can be controlled using the SLD standard which allows features to be coloured and labeled.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011432Z" creationid="miurahr" creationdate="20201103T011432Z">
@@ -17135,6 +17303,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132414Z" creationid="miurahr" creationdate="20201116T132414Z">
         <seg>既定値は"0"でバッファリングされ、何も行われません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default name and projection of the Map has been taken from your shapefile.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142203Z" creationid="miurahr" creationdate="20201120T142203Z">
+        <seg>マップのデフォルト名と投影はシェイプファイルから取得されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18219,6 +18395,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These views will be described further as we demonstrate their use.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T141915Z" creationid="miurahr" creationdate="20201120T141915Z">
+        <seg>これらのビューについては、その使用方法を説明する際に詳しく説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They are as follows:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134338Z" creationid="miurahr" creationdate="20201116T134338Z">
@@ -18783,6 +18967,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054228Z" creationid="miurahr" creationdate="20201103T054228Z">
         <seg>これは、作成したOpenLayersマップを使用し、アプリケーションの``中央``領域に配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This view is used to change the order and appearance of information in your Map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142328Z" creationid="miurahr" creationdate="20201120T142328Z">
+        <seg>このビューは、マップ内の情報の順序と外観を変更するために使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This view is used to track the use of resources by the uDig application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142222Z" creationid="miurahr" creationdate="20201120T142222Z">
+        <seg>このビューは、uDigアプリケーションによるリソースの使用を追跡するために使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19411,6 +19611,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To start out with we are going to load some of the sample data included on the DVD.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T141931Z" creationid="miurahr" creationdate="20201120T141931Z">
+        <seg>まず、DVDに含まれているサンプルデータの一部をロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To start, click on the "Select Features" icon (mouse cursor icon), pick point, line, polygon and start drawing your selection in the map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132353Z" creationid="miurahr" creationdate="20201116T132353Z">
@@ -19839,6 +20047,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011600Z" creationid="miurahr" creationdate="20201103T011436Z">
         <seg>彼らがあなたのデータを再デジタル化しない限り、あなたのデータを盗む方法はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlike most GIS applications uDig can get by with a fixed amount of memory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142610Z" creationid="miurahr" creationdate="20201120T142610Z">
+        <seg>ほとんどのGISアプリケーションとは異なり、uDigは固定された量のメモリで動作します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21355,6 +21571,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can also drag and drop shapefiles directly into the uDig application!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142857Z" creationid="miurahr" creationdate="20201120T142857Z">
+        <seg>シェイプファイルをuDigアプリケーションに直接ドラッグ&amp;ドロップすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can also hover on a dot to see the dataset ID.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T123735Z" creationid="miurahr" creationdate="20201116T123735Z">
@@ -21651,6 +21875,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can have multiple projects open at a time, each project can have several maps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142341Z" creationid="miurahr" creationdate="20201120T142341Z">
+        <seg>一度に複数のプロジェクトを開くことができ、各プロジェクトは複数のマップを持つことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can install additional software</seg>
       </tuv>
       <tuv lang="ja">
@@ -21735,6 +21967,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T002635Z" creationid="miurahr" creationdate="20201117T002635Z">
         <seg>これで、赤いXが消え、左側に「+」が表示されたことがわかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can see the **Catalog view** has been updated with an entry for :file:`ne_10m_admin_0_countries.shp`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142213Z" creationid="miurahr" creationdate="20201120T142213Z">
+        <seg>**ビューカタログ**が:file:`ne_10m_admin_0_countries.shp`のエントリで更新されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can see the order the layers are drawn in the layer view.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T142419Z" creationid="miurahr" creationdate="20201120T142419Z">
+        <seg>レイヤが描画される順序をレイヤビューで確認できます。</seg>
       </tuv>
     </tu>
     <tu>
