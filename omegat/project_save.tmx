@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(This is the recommended process for creating a USB.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135002Z" creationid="miurahr" creationdate="20201120T135002Z">
+        <seg>(これはUSBを作成するための推奨プロセスです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(You can also open this manually by pointing your browser to http://localhost:8033).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135147Z" creationid="miurahr" creationdate="20201116T135147Z">
@@ -2006,6 +2014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>:doc:`Download &lt;../download&gt;` osgeolive or osgeolive-mini to your computer's hard drive.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135114Z" creationid="miurahr" creationdate="20201120T135024Z">
+        <seg>osgeoliveまたはosgeolive-miniをコンピュータのハードディスクに :doc:`ダウンロード &lt;../download&gt;`してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>:doc:`Quickstart documentation &lt;../quickstart/52nSOS_quickstart&gt;`</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T053749Z" creationid="sanak" creationdate="20201103T053749Z">
@@ -3686,6 +3702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Be certain to select the correct block device as ``dd`` will overwrite it without question, even if it is your primary system drive.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134945Z" creationid="miurahr" creationdate="20201120T134945Z">
+        <seg>``dd``は、たとえプライマリシステムドライブであっても、問題なく上書きするので、正しいブロックデバイスを選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Be sure to click on the line around the forest, not one of the points on the line.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075214Z" creationid="miurahr" creationdate="20201103T072854Z">
@@ -3774,10 +3798,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Boot your computer into a recent Ubuntu/Xbuntu distribution.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135150Z" creationid="miurahr" creationdate="20201120T135132Z">
+        <seg>最新のUbuntu/Xbuntuディストリビューションでコンピュータを起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Booting from a flash drive is faster than from a DVD, and the USB drive can be configured to store data between sessions (called persistence).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T134627Z" creationid="miurahr" creationdate="20201120T134627Z">
         <seg>フラッシュドライブからの起動は DVD から起動するよりも速く動作し、フラッシュドライブではセッションを超えてデータを保存することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Booting from the USB drive:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135733Z" creationid="miurahr" creationdate="20201120T135733Z">
+        <seg>USBドライブから起動中:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5218,6 +5258,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>OSGeoLive を起動できる ブータブル USB フラッシュドライブの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creating bootable USB drive with Ubuntu Startup Disk Creator</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134957Z" creationid="miurahr" creationdate="20201120T134957Z">
+        <seg>Ubuntu Startup Disk Creatorを使用したブータブルUSBドライブの作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -8486,6 +8534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If installing OSGeoLive 8.0 onto a USB, then you will need to be running Ubuntu 14.04 or newer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135019Z" creationid="miurahr" creationdate="20201120T135019Z">
+        <seg>OS GeoLive8.0をUSBにインストールする場合は、Ubuntu14.04以降を実行している必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If not, refer to the `Installation Guide &lt;https://geonetwork-opensource.org/manuals/trunk/en/install-guide/index.html&gt;`__.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133122Z" creationid="miurahr" creationdate="20201116T133122Z">
@@ -8582,6 +8638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you can't figure out yours try this website that lists many BIOS hotkeys.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135807Z" creationid="miurahr" creationdate="20201120T135807Z">
+        <seg>あなたのBIOSがわからない場合は、多くのBIOSホットキーがリストされているこのWebサイトを試してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you choose the layer with the ID 0 you can load the whole service with all layers at once.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023336Z" creationid="miurahr" creationdate="20201103T023336Z">
@@ -8642,6 +8706,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053343Z" creationid="miurahr" creationdate="20201103T053343Z">
         <seg>他のユーザが編集していたのと同時に同じフィーチャ(点、経路、または領域)を編集した場合は、**衝突**を解決するまで編集をアップロードできないという警告が表示されます。変更を受け入れてアップロードする編集を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you have extra room you might adjust the slider to create persistent storage space on the USB drive (recommended).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135435Z" creationid="miurahr" creationdate="20201120T135435Z">
+        <seg>余裕がある場合は、スライダーを調整してUSBドライブに永続的なストレージスペースを作成することをお勧めします(推奨)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8738,6 +8810,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125430Z" creationid="miurahr" creationdate="20201116T125430Z">
         <seg>結果を視覚化する場合は、OSGeoLiveのデスクトップGISソフトウェアアプリケーションの1つである:doc:`../overview/qgis_overview`を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If your computer does not have a boot menu, then boot into your system BIOS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135758Z" creationid="miurahr" creationdate="20201120T135758Z">
+        <seg>コンピュータに起動メニューがない場合は、システムBIOSで起動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8978,6 +9058,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T111402Z" creationid="smellman" creationdate="20201101T111402Z">
         <seg>いかなる場合においても、著作権所有者または貢献者は、直接的、間接的、付随的、特別、懲罰的、または結果的な損害(代替の商品またはサービスの調達、使用、日付、または利益の損失、またはビジネスの中断を含むが、これらに限定されない)に対して責任を負わないものとします。ただし、契約、厳格な賠償責任、または不法行為(過失またはその他を含む)のいずれによるものであるかを問わず、いかなる責任の理論に基づくものであっても、かかる損害の可能性について事前に知らされていたとしても、このソフトウェアの使用によって発生したとします。*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In order for this option to be available you will need an 8+ GB USB flash drive.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135443Z" creationid="miurahr" creationdate="20201120T135443Z">
+        <seg>このオプションを利用するには、8GB以上のUSBフラッシュドライブが必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9454,6 +9542,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insert the USB drive into an open USB port.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135740Z" creationid="miurahr" creationdate="20201120T135740Z">
+        <seg>開いているUSBポートにUSBドライブを挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insert the USB flash drive into your computer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135155Z" creationid="miurahr" creationdate="20201120T135155Z">
+        <seg>USBフラッシュドライブをコンピュータに挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>InsertFeatureOfInterest for feature insertion</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T074149Z" creationid="sanak" creationdate="20201103T074149Z">
@@ -9818,6 +9922,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T061103Z" creationid="miurahr" creationdate="20201103T061103Z">
         <seg>また、OSSIM、Cadcorp SIS、FME、Google Earth、VTP、Thuban、ILWIS、MapGuide、ArcGISなどのパッケージソフトウェアでも使用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is applicable to Ubuntu and Ubuntu variants such as OSGeoLive.)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135007Z" creationid="miurahr" creationdate="20201120T135007Z">
+        <seg>UbuntuやOSGeoLiveなどのUbuntuバージョンにも適用されます。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11294,6 +11406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Most computers are not set to boot from a USB drive by default.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135749Z" creationid="miurahr" creationdate="20201120T135749Z">
+        <seg>ほとんどのコンピュータは、デフォルトではUSBドライブから起動するように設定されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Most famously, mapnik is used to render the OpenStreetMap main map layers.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T070050Z" creationid="miurahr" creationdate="20201103T070050Z">
@@ -11670,6 +11790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note also, the USB drive is often listed under hard drives rather than removable devices.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135825Z" creationid="miurahr" creationdate="20201120T135825Z">
+        <seg>また、USBドライブは多くの場合、取り外し可能なデバイスではなくハードドライブに表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note how the poles are clipped?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130254Z" creationid="miurahr" creationdate="20201116T130241Z">
@@ -11722,6 +11850,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T020830Z" creationid="miurahr" creationdate="20201108T020013Z">
         <seg>前のコードでは、サーバに置かれた有効なGeoJSONファイルを指すように``url_to_file``を変更する必要があることに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note, that for some computers you will need to have the USB drive inserted into the computer in order to select it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135821Z" creationid="miurahr" creationdate="20201120T135821Z">
+        <seg>一部のコンピュータでは、USBドライブをコンピュータに挿入して選択する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13462,6 +13598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Power on the Machine and select to boot from USB:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135745Z" creationid="miurahr" creationdate="20201120T135745Z">
+        <seg>マシンの電源を入れ、USBから起動するように選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Powerful *schema assisted* parsing technology using XML Schema to bind to GML content</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012022Z" creationid="miurahr" creationdate="20201103T012022Z">
@@ -14859,10 +15003,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select :guilabel:`Make Startup Disk`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135726Z" creationid="miurahr" creationdate="20201120T135726Z">
+        <seg>:guilabel:`Make Startup Disk`を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select :menuselection:`File --&gt; Download GRIB` and select the features you want to download.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133510Z" creationid="miurahr" creationdate="20201120T133510Z">
         <seg>:menuselection:`File--&gt;Download GRIB`を選択し、ダウンロードしたい地物を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select :menuselection:`System Tools --&gt; Startup Disk Creator`, or search for `Startup Disk Creator` from the Unity desktop.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135212Z" creationid="miurahr" creationdate="20201120T135212Z">
+        <seg>:menuselection:`System Tools--&gt;Startup Disk Creator`を選択するか、デスクトップから`Startup Disk Creator`を検索します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14987,6 +15147,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the USB flash drive.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135429Z" creationid="miurahr" creationdate="20201120T135429Z">
+        <seg>USBフラッシュドライブを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the ``Add New Style`` link.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T233056Z" creationid="miurahr" creationdate="20201116T231923Z">
@@ -15011,6 +15179,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the osgeolive or osgeolive-mini ISO Image that you downloaded earlier.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135227Z" creationid="miurahr" creationdate="20201120T135227Z">
+        <seg>先ほどダウンロードしたosgeoliveまたはosgeolive-mini ISOイメージを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the project 'QGIS-NaturalEarth-Example.qgs'.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T120201Z" creationid="miurahr" creationdate="20201103T120201Z">
@@ -15031,6 +15207,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>タイムゾーンを選択します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select to boot from the USB device.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135816Z" creationid="miurahr" creationdate="20201120T135816Z">
+        <seg>選択してUSBデバイスから起動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15687,6 +15871,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>VirtualBox アプリケーションを起動し、新しい VM を作成するために New ボタンをクリックし、Next をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start with the computer off.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135737Z" creationid="miurahr" creationdate="20201120T135737Z">
+        <seg>コンピュータをオフにして起動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16515,6 +16707,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The USB drive should not be mounted.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134907Z" creationid="miurahr" creationdate="20201120T134907Z">
+        <seg>USBドライブはマウントされていないようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The WFS in this example acts as an INSPIRE Download service (direct access) and outputs valid, harmonized INSPIRE GML.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135529Z" creationid="miurahr" creationdate="20201116T135529Z">
@@ -16791,6 +16991,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013355Z" creationid="miurahr" creationdate="20201103T013355Z">
         <seg>ビルディング・ブロックは、特定の標準の要件だけでなく、OGCのInnovation Programにおける相互運用性のプロトタイピングとテストによっても定義されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The button to enter BIOS varies by brand and model of computer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135802Z" creationid="miurahr" creationdate="20201120T135802Z">
+        <seg>BIOSに入るボタンは、コンピュータのブランドとモデルによって異なります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17635,6 +17843,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The version of Ubuntu you are running, needs to be the same or newer than the version of Lubuntu being installed onto your USB.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135013Z" creationid="miurahr" creationdate="20201120T135013Z">
+        <seg>実行しているUbuntuのバージョンは、USBにインストールされているUbuntuのバージョンと同じか新しい必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The website provides series of clear tutorials covering making a simple tool through to releasing your own custom application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002318Z" creationid="miurahr" creationdate="20201103T002318Z">
@@ -18039,6 +18255,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235040Z" creationid="miurahr" creationdate="20201116T235040Z">
         <seg>このクイックスタートでは、GeoStylerをはじめて使うときの基本的な手順について説明します。GeoStylerをインストールし、最初のUIコンポーネントをreactアプリケーションに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This `Video &lt;https://www.youtube.com/watch?v=eQBdVO-n6Mg&gt;`_ demonstrates booting from USB.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135832Z" creationid="miurahr" creationdate="20201120T135832Z">
+        <seg>この`ビデオ&lt;https://www.youtube.com/watch?v=eQBdVO-n6Mg&gt;`_は、USBからの起動を示しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19579,6 +19803,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use ``lsblk`` to list block devices and ``dmesg`` to see kernel messages identifying the USB drive when it is connected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134851Z" creationid="miurahr" creationdate="20201120T134851Z">
+        <seg>``lsblk``を使用してブロックデバイスを一覧表示し、``dmesg``を使用して接続時にUSBドライブを識別するカーネルメッセージを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use bookmarks in Marble to remember the location of something.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T000958Z" creationid="miurahr" creationdate="20201117T000943Z">
@@ -19967,6 +20199,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003156Z" creationid="miurahr" creationdate="20201103T003156Z">
         <seg>QGISを使用したWYSIWYGマップの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait 20 minutes or so for the USB flash drive to be created.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135729Z" creationid="miurahr" creationdate="20201120T135729Z">
+        <seg>USBフラッシュドライブが作成されるまで20分ほど待ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20559,6 +20799,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T120323Z" creationid="miurahr" creationdate="20201103T120323Z">
         <seg>レイヤパネルでレイヤをオンにすると、マップフレームが更新されてレイヤが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When booting, look for a message indicating a Boot Menu (most commonly you press F12)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135754Z" creationid="miurahr" creationdate="20201120T135754Z">
+        <seg>起動時に、起動メニューを示すメッセージを探します(通常はF12を押します)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21167,6 +21415,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134458Z" creationid="miurahr" creationdate="20201116T134458Z">
         <seg>このダイアログを閉じるには、右上隅の**X**を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can do this by running from an OSGeoLive DVD, as explained in :doc:`osgeolive_quickstart`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135141Z" creationid="miurahr" creationdate="20201120T135141Z">
+        <seg>これは、:doc:`osgeolive_クイックスタート`で説明されているように、OSGeoLive DVDから実行すること実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22335,6 +22591,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>`これらのプログラムは、有用であることを願って配布されますが、いかなる場合でも無保証ですー特定の目的に対する商品性または適合性も保証するものではありません。`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>``/dev/sdX`` is the block device for the USB drive, where ``X`` might be ``b`` or ``c``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134844Z" creationid="miurahr" creationdate="20201120T134844Z">
+        <seg>``/dev/sdX``はUSBドライブのブロックデバイスで、``X``は``b``または``c``かもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>``sudo`` is not required if the command is run as ``root``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134938Z" creationid="miurahr" creationdate="20201120T134912Z">
+        <seg>``sudo``は、``root``としてコマンド実行している場合は必要ありません。</seg>
       </tuv>
     </tu>
     <tu>
