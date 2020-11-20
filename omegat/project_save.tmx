@@ -3270,6 +3270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternative USB creation methods and latest tips are collected here: `wiki &lt;https://wiki.osgeo.org/wiki/Live_GIS_Disc_Quick_Start_for_USB&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135853Z" creationid="miurahr" creationdate="20201120T135853Z">
+        <seg>代替のUSB作成方法と最新のヒントは、次の場所に集められています:`wiki&lt;https://wiki.osgeo.org/wiki/Live_GIS_Disc_Quick_Start_for_USB&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatively you can choose delete from the context menu of the layer.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T080335Z" creationid="miurahr" creationdate="20201103T080335Z">
@@ -4242,6 +4250,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132259Z" creationid="miurahr" creationdate="20201116T132259Z">
         <seg>ポイント、ライン、ポリゴンの計測を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose |osgeolive-appmenupath-udig| from menu</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T140855Z" creationid="miurahr" creationdate="20201120T140855Z">
+        <seg>メニューから |osgeolive-appmenupath-udig| を選択してください</seg>
       </tuv>
     </tu>
     <tu>
@@ -14066,6 +14082,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Questions can be directed to our email list: https://lists.osgeo.org/pipermail/osgeolive/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T135916Z" creationid="miurahr" creationdate="20201120T135916Z">
+        <seg>質問は、メイリングリストに送ることができます: https://lists.osgeo.org/pipermail/osgeolive/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Quick Starts</seg>
       </tuv>
       <tuv lang="ja">
@@ -22787,6 +22811,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>apply colour to map features using styling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T140813Z" creationid="miurahr" creationdate="20201120T140813Z">
+        <seg>スタイルを使用して地物に色を適用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>attribute transfer tools : join, matching*</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T104132Z" creationid="smellman" creationdate="20201103T104132Z">
@@ -23347,6 +23379,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>load a map layers from a shapefile and |WMS|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T140755Z" creationid="miurahr" creationdate="20201120T140755Z">
+        <seg>シェープファイルとWMSからマップレイヤをロードする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>load some data from a shapefile and map it</seg>
       </tuv>
       <tuv lang="ja">
@@ -23715,6 +23755,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>start uDig</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T140825Z" creationid="miurahr" creationdate="20201120T140825Z">
+        <seg>uDigの開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>statistics : length, area, layer statistics, attribute statistics, plots...</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T104033Z" creationid="smellman" creationdate="20201103T104020Z">
@@ -23827,6 +23875,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>uDig (User Friendly Internet Desktop GIS), is a GIS Desktop client for editing and viewing Geospatial data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T140747Z" creationid="miurahr" creationdate="20201120T140747Z">
+        <seg>uDig(User Friendly Internet Desktop GIS)は、地理空間データを編集および表示するためのGISデスクトップクライアントです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>uDig Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T140738Z" creationid="miurahr" creationdate="20201120T140738Z">
+        <seg>uDig クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>uDig is:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002151Z" creationid="miurahr" creationdate="20201103T002123Z">
@@ -23847,6 +23911,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125410Z" creationid="miurahr" creationdate="20201116T125410Z">
         <seg>ogr2ogrを使用してデータを他の形式に変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>use the standard map tools</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T140800Z" creationid="miurahr" creationdate="20201120T140800Z">
+        <seg>標準のマップツールを使用する</seg>
       </tuv>
     </tu>
     <tu>
