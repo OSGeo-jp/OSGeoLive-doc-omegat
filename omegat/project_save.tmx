@@ -1998,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>8+ GB is recommended if you wish to support persistence.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134814Z" creationid="miurahr" creationdate="20201120T134814Z">
+        <seg>永続性をサポートする場合は 8 GB 以上を推奨。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>:doc:`Quickstart documentation &lt;../quickstart/52nSOS_quickstart&gt;`</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T053749Z" creationid="sanak" creationdate="20201103T053749Z">
@@ -2314,6 +2322,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011628Z" creationid="miurahr" creationdate="20201103T011617Z">
         <seg> WFS クライアントは、ベクタデータをダウンロードして地図表示や空間解析等の用途に使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A WPS provides web access to functions which run spatial algorithms.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134113Z" creationid="miurahr" creationdate="20201120T134113Z">
+        <seg>WPSは空間アルゴリズムを実行する関数へのWebアクセスを提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3286,6 +3302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An OSGeoLive ISO image (downloaded from: :doc:`OSGeoLive downloads &lt;../download&gt;`) or converted from a DVD.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134748Z" creationid="miurahr" creationdate="20201120T134748Z">
+        <seg>OSGeoLive ISOイメージ(: :doc:`OSGeoLive downloads &lt;../download&gt;`からダウンロード)またはDVDから変換されたもの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An OpenLayers map needs to be attached to a HTML DOM element, so we have created a ``&lt;div&gt;`` element identified by the *map* id.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T015417Z" creationid="miurahr" creationdate="20201108T015417Z">
@@ -3750,6 +3774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Booting from a flash drive is faster than from a DVD, and the USB drive can be configured to store data between sessions (called persistence).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134627Z" creationid="miurahr" creationdate="20201120T134627Z">
+        <seg>フラッシュドライブからの起動は DVD から起動するよりも速く動作し、フラッシュドライブではセッションを超えてデータを保存することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Both political (administrative) and physical (natural) features are included and vector features align perfectly with included raster data.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012445Z" creationid="miurahr" creationdate="20201103T012445Z">
@@ -3922,6 +3954,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>LAS データの読み込み、書き込み、操作に使用する C/C++/Python API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CGAL triangulations demo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134347Z" creationid="miurahr" creationdate="20201120T134347Z">
+        <seg>CGAL三角形分割デモ</seg>
       </tuv>
     </tu>
     <tu>
@@ -4358,6 +4398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on simple geometry process like Buffer, Centroid, ConvexHull or Boundary and the result will be displayed in yellow.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134328Z" creationid="miurahr" creationdate="20201120T134328Z">
+        <seg>バッファ、重心、凸包、境界などの単純なジオメトリ処理をクリックすると、結果が黄色で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on th `X-Ray` entry in the upper right menu to open the x-ray viewer.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052237Z" creationid="smellman" creationdate="20201103T052237Z">
@@ -4458,6 +4506,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134700Z" creationid="miurahr" creationdate="20201116T134700Z">
         <seg>虫眼鏡をクリックして、探している位置を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the map to select a feature from the :doc:`GeoServer &lt;../overview/geoserver_overview&gt;` WFS Server, the feature will be displayed in blue.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134322Z" creationid="miurahr" creationdate="20201120T134322Z">
+        <seg>地図をクリックして:doc:`GeoServer&lt;./overview/geoserver_overview&gt;`WFS Serverから地物を選択すると、地物が青で表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6342,6 +6398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fill the form on the left to configure the WPS service execution.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134509Z" creationid="miurahr" creationdate="20201120T134509Z">
+        <seg>左側のフォームに入力して、WPSサービスの実行を設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Filter layers on the map (if configured),</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134308Z" creationid="miurahr" creationdate="20201116T134308Z">
@@ -6446,6 +6510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Firefox will open the ZOO Project demonstration landing page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134159Z" creationid="miurahr" creationdate="20201120T134159Z">
+        <seg>FirefoxはZOOプロジェクトのデモがある着地ページを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>First get to know your drivers.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125616Z" creationid="miurahr" creationdate="20201116T125616Z">
@@ -6546,6 +6618,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>4 GB USB フラッシュドライブ用には、osgeolive-mini ISO を使用 (WindowsとMac向けのインストーラーを含まない)、永続性は非サポート。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a 8+ GB USB flash drive, use either osgeolive-mini ISO, or osgeolive ISO (with Windows and Mac installers).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134811Z" creationid="miurahr" creationdate="20201120T134811Z">
+        <seg>8 GB 以上の USB フラッシュドライブ用には、osgeolive-mini ISO か osgeolive ISO のどちらかを使用 (WindowsとMac向けのインストーラーを含む)、</seg>
       </tuv>
     </tu>
     <tu>
@@ -6666,6 +6746,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013431Z" creationid="miurahr" creationdate="20201103T013431Z">
         <seg>詳細については、`包括的なOGC標準リスト&lt;https://www.ogc.org/standards/&gt;`__を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For further questions you can contact the ZOO Project mailing list: zoo-discuss@lists.osgeo.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134554Z" creationid="miurahr" creationdate="20201120T134554Z">
+        <seg>詳細については、ZOO Projectメーリングリスト:zoo-discuss@lists.osgeo.orgに問い合わせてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6838,6 +6926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From here, you can select a demon application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134242Z" creationid="miurahr" creationdate="20201120T134242Z">
+        <seg>ここから、デモアプリケーションを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From the **Search tab**, click on the card for **Physiographic Map of North and Central Eurasia (Sample record, please remove!)** to view the metadata.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134100Z" creationid="miurahr" creationdate="20201116T134100Z">
@@ -6874,6 +6970,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T000454Z" creationid="miurahr" creationdate="20201117T000454Z">
         <seg>From the Start menu, select :menuselection:`Geospatial --&gt; ナビゲーションと地図 --&gt; OpenCPN`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the Start menu, select :menuselection:`Geospatial --&gt; Web Services --&gt; ZOO Project`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134135Z" creationid="miurahr" creationdate="20201120T134135Z">
+        <seg>[スタート]メニューから:menuselection:`Geospatial--&gt;Web Services--&gt;ZOO Project`を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8318,6 +8422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ISO images for OSGeoLive 10.5 and later are *isohybrid* (and for amd64, also support UEFI boot).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134830Z" creationid="miurahr" creationdate="20201120T134830Z">
+        <seg>OS GeoLive10.5以降のISOイメージは*isohybrid*です(amd64もサポートUEFIブート)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Identify a location</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132138Z" creationid="miurahr" creationdate="20201116T132138Z">
@@ -8474,6 +8586,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023336Z" creationid="miurahr" creationdate="20201103T023336Z">
         <seg>ID 0のレイヤを選択すると、すべてのレイヤを含むサービス全体を一度にロードできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you chose image/png as the output format, you will see the result of your processing displayed on the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134522Z" creationid="miurahr" creationdate="20201120T134522Z">
+        <seg>出力形式としてimage/pngを選択した場合、処理結果が地図に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10622,6 +10742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Look for latest tips here: https://wiki.osgeo.org/wiki/Live_GIS_Disc_Quick_Start_for_USB</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134651Z" creationid="miurahr" creationdate="20201120T134651Z">
+        <seg>ここで最新のヒントを探してください: https://wiki.osgeo.org/wiki/Live_GIS_Disc_Quick_Start_for_USB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Luckily there are other ways of getting data into PostGIS tables that are much easier.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043035Z" creationid="miurahr" creationdate="20201108T043035Z">
@@ -11822,6 +11950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now select another feature near the first you've selected, then click on a multiple geometries process button like Union, Intersection, Symmetric Difference or Difference to get the result displayed in red on the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134343Z" creationid="miurahr" creationdate="20201120T134343Z">
+        <seg>最初に選択した地物の近くにある別のジオメトリを選択し、[和](Union)、[交差](Intersection)、[対称差](Symmetric Difference)、[差](Difference)などの複数のジオメトリの処理ボタンをクリックして、結果を地図上に赤で表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now switch your connection from the ``postgres`` database to the new ``demo`` database.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041839Z" creationid="miurahr" creationdate="20201108T041839Z">
@@ -12070,6 +12206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OGR spatial tools demo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134259Z" creationid="miurahr" creationdate="20201120T134259Z">
+        <seg>OGR空間ツールのデモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OGR-based query output generation</seg>
       </tuv>
       <tuv lang="ja">
@@ -12214,6 +12358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OTB Applications demo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134442Z" creationid="miurahr" creationdate="20201120T134442Z">
+        <seg>OTBアプリケーションのデモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Okeanos is build on top of existing proven open source software (e.g. Synnefo, Google Ganeti).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133010Z" creationid="miurahr" creationdate="20201120T133010Z">
@@ -12242,6 +12394,30 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113435Z" creationid="miurahr" creationdate="20201103T113435Z">
         <seg>Windowsでインストーラを実行するか、UbuntuのようなLinuxシステムで次の操作を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the ZOO Project demonstration landing page, click :guilabel:`view` on CGAL triangulations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134405Z" creationid="miurahr" creationdate="20201120T134405Z">
+        <seg>ZOOプロジェクトのデモ着地ページで、CGAL三角形分割の:guilabel:`view`をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the ZOO Project demonstration landing page, click :guilabel:`view` on OGR spatial tools.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134313Z" creationid="miurahr" creationdate="20201120T134313Z">
+        <seg>ZOOプロジェクトのデモ着地ページで、OGR空間ツールの:guilabel:`ビュー`をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the ZOO Project demonstration landing page, click :guilabel:`view` on OTB application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134500Z" creationid="miurahr" creationdate="20201120T134500Z">
+        <seg>ZOOプロジェクトのデモ着地ページで、OTBアプリケーションの:guilabel:`view`をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12418,6 +12594,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T080300Z" creationid="miurahr" creationdate="20201103T080300Z">
         <seg>これらの基本的な編集テクニックに慣れてきたら、実際のフィーチャのマッピングにうつるとよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once you have selected the values for your processing, press the :guilabel:`Execute` button at the bottom of the left form.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134517Z" creationid="miurahr" creationdate="20201120T134517Z">
+        <seg>処理する値を選択したら、左側のフォームの下部にある:guilabel:`Execute`ボタンを押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13442,6 +13626,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T234216Z" creationid="miurahr" creationdate="20201116T234216Z">
         <seg>ページの下部にある:guilabel:`Submit`を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press the Voronoi or Delaunay button to display on your map the result of the WPS service execution, as shown below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134416Z" creationid="miurahr" creationdate="20201120T134416Z">
+        <seg>ボロノイまたはドロネーボタンを押して、以下に示すように、WPSサービスの実行結果をマップに表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15435,6 +15627,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start ZOO-Project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134117Z" creationid="miurahr" creationdate="20201120T134117Z">
+        <seg>ZOOプロジェクトを開始する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start a Terminal Emulator (LXTerminal currently) from the Applications menu in the Accessories section.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041001Z" creationid="miurahr" creationdate="20201108T041001Z">
@@ -15719,6 +15919,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>サポート: https://liblas.org/community.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support: https://zygrib.org/forum/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133903Z" creationid="miurahr" creationdate="20201120T133903Z">
+        <seg>サポート:https://zygrib.org/forum/</seg>
       </tuv>
     </tu>
     <tu>
@@ -16311,6 +16519,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135529Z" creationid="miurahr" creationdate="20201116T135529Z">
         <seg>この例のWFSはINSPIREダウンロードサービス(直接アクセス)として動作し、有効で統一されたINSPIRE GMLを出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ZOO-Project provides a developer friendly Web Processing Service (WPS) framework for creating and chaining Web Processing Services.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134108Z" creationid="miurahr" creationdate="20201120T134108Z">
+        <seg>ZOOプロジェクトは、Web Processing Servicesを作成およびチェーンするための開発者向けのWeb Processing Service(WPS)フレームワークを提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18203,6 +18419,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This quickstart describes the preferred method for creating a Bootable OSGeoLive USB flash drive.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134618Z" creationid="miurahr" creationdate="20201120T134618Z">
+        <seg>ここでは、OSGeoLive のブータブル (起動できる) USB フラッシュドライブを作る方法について記載します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This sections describes the required steps.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235128Z" creationid="miurahr" creationdate="20201116T235128Z">
@@ -19299,6 +19523,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Under Linux, these images can be written directly to the block device for a USB drive with the ``dd`` command-line utility:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134836Z" creationid="miurahr" creationdate="20201120T134836Z">
+        <seg>Linuxでは、``dd``コマンドラインユーティリティを使用して、これらのイメージをUSBドライブのブロックデバイスに直接書き込むことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Understanding the legend</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131648Z" creationid="miurahr" creationdate="20201116T131648Z">
@@ -19747,6 +19979,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wait while it runs through the time sequence for the first time.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133947Z" creationid="miurahr" creationdate="20201120T133947Z">
+        <seg>最初に実行されるまで待ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Watch our `video tutorials &lt;https://www.youtube.com/playlist?list=PLBk_Dtk-_Tlm4STvXKFEdfUWylPemo-9V&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134927Z" creationid="miurahr" creationdate="20201116T134927Z">
@@ -19847,6 +20087,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022801Z" creationid="miurahr" creationdate="20201103T022801Z">
         <seg>これを使って湖を違った形にレンダリングすることができます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We have documented what we know, but there are likely more tricks and issues.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134642Z" creationid="miurahr" creationdate="20201120T134642Z">
+        <seg>私たちは知っていることを文書化しましたが、おそらくもっと多くのトリックと問題があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We have found that there are a number of quirks and tricks involved in successfully building a USB drive.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134637Z" creationid="miurahr" creationdate="20201120T134637Z">
+        <seg>USBドライブを正常に構築するためには、さまざまな工夫が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20175,6 +20431,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T004245Z" creationid="miurahr" creationdate="20201117T004245Z">
         <seg>Webサイト: https://wiki.openstreetmap.org/wiki/ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Website: https://www.zygrib.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T133853Z" creationid="miurahr" creationdate="20201120T133853Z">
+        <seg>Webサイト: https://www.zygrib.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -20699,6 +20963,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can access the capabilities of the ZOO WPS Server:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134532Z" creationid="miurahr" creationdate="20201120T134532Z">
+        <seg>ZOO WPSサーバーの機能にアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can activate the INSPIRE layer served by the deegree WMS here.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135621Z" creationid="miurahr" creationdate="20201116T135621Z">
@@ -21087,6 +21359,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134233Z" creationid="miurahr" creationdate="20201116T134233Z">
         <seg>カタログを検索したり、WebサービスやKMLからレイヤーを追加したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can see below a sample KMeansClassification execution when selecting the image/png output format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134526Z" creationid="miurahr" creationdate="20201120T134526Z">
+        <seg>image/png出力フォーマットを選択すると、サンプルのKMeansClassification実行が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21575,6 +21855,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>このクイックスタートのサンプルを使用するためには、バージョンは 2.1.0 かそれ以上である必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoo Project Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T134052Z" creationid="miurahr" creationdate="20201120T134052Z">
+        <seg>Zoo プロジェクト クイックスタート</seg>
       </tuv>
     </tu>
     <tu>
