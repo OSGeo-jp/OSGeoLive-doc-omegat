@@ -2702,6 +2702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A wizard shows you the layers you can add to the **Map**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T055554Z" creationid="miurahr" creationdate="20201121T055554Z">
+        <seg>ウィザードには、**マップ**に追加できるレイヤが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ACID transactional integrity</seg>
       </tuv>
       <tuv lang="ja">
@@ -15211,6 +15219,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select :menuselection:`File --&gt; New --&gt; New Map` from the menu bar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T133740Z" creationid="miurahr" creationdate="20201121T133740Z">
+        <seg>メニューバーから :menuselection:`ファイル--&gt;新規--&gt;新規マップ` を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select :menuselection:`System Tools --&gt; Startup Disk Creator`, or search for `Startup Disk Creator` from the Unity desktop.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T135212Z" creationid="miurahr" creationdate="20201120T135212Z">
@@ -20963,6 +20979,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Web Map Server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T055501Z" creationid="miurahr" creationdate="20201121T055501Z">
+        <seg>Web Map サーバ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Web Map Service (WMS) - images</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003142Z" creationid="miurahr" creationdate="20201103T003142Z">
@@ -21667,6 +21691,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can also connect to Web Map Servers using the **Add Data** (:menuselection:`Layer --&gt; Add...`) Wizard and paste WMS URL right there.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T055616Z" creationid="miurahr" creationdate="20201121T055616Z">
+        <seg>**Add Data**( :menuselection:`マップ--&gt;Add...` )ウィザードを使用してWebレイヤサーバに接続し、WMS URLをそこに貼り付けることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can also drag and drop shapefiles directly into the uDig application!</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T142857Z" creationid="miurahr" creationdate="20201120T142857Z">
@@ -21775,6 +21807,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130557Z" creationid="miurahr" creationdate="20201116T130557Z">
         <seg>データを他の形式に変換できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can copy a WMS URL (e.g. for `WMS 1.1.1`_) from right panel of `GeoServer Welcome page`_ and "paste" it either on the **Map** view or the **Layers** view.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T055549Z" creationid="miurahr" creationdate="20201121T055549Z">
+        <seg>`GeoServer Welcome page`_の右パネルからWMS URL(例えば `WMS1.1.1`_ 用)をコピーし、それを**マップ**ビューまたは**レイヤ**ビューのいずれかに「貼り付ける」ことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22119,6 +22159,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ボックスにepsg:4326と入力するか、 `http://prj2epsg.org/search &lt;http://prj2epsg.org/search&gt;`_ に移動して、次のリンクをクリックすると表示される文字列を貼り付けます 「不明」に。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use Navigation Back |BNAV| and Forward |FNAV| in the menu bar to cycle though previously visited locations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T055446Z" creationid="miurahr" creationdate="20201121T055446Z">
+        <seg>メニューバーのナビゲーション|BNAV| 戻ると|FNAV| 進むを使用して、前に訪れた場所を循環させることができます。</seg>
       </tuv>
     </tu>
     <tu>
