@@ -1862,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Default EPSG code*: this will be the native Coordinate Reference System of your geometries in the database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T024340Z" creationid="miurahr" creationdate="20201122T024340Z">
+        <seg>*Default EPSG code*:これはデータベース内のジオメトリのネイティブの座標参照システムになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Do not draw all these ways in one line* so that the inner contours suspend from the outer contour.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053213Z" creationid="miurahr" creationdate="20201103T053213Z">
@@ -1898,6 +1906,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T003921Z" creationid="miurahr" creationdate="20201108T003921Z">
         <seg>*レイヤ*はスタック順にマップに追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Permitted EPSG*: here you can configure which other Coordinate Reference Systems your system will support and reproject if requested.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T024354Z" creationid="miurahr" creationdate="20201122T024354Z">
+        <seg>*Permitted EPSG*: ここでは、システムがサポートして再投影する他の座標参照系を設定できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4406,6 +4422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click :guilabel:`Next`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T024643Z" creationid="miurahr" creationdate="20201122T024643Z">
+        <seg>:guilabel:`Next`をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click :menuselection:`Desktop --&gt; Spatial Tools --&gt; Start Mapnik &amp; TileStache`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055615Z" creationid="miurahr" creationdate="20201103T055615Z">
@@ -4870,6 +4894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clicking on the "Customize database" box, you are able to change the default database configuration for this new istSOS instance.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T025055Z" creationid="miurahr" creationdate="20201122T025055Z">
+        <seg>"Customize database"ボックスをクリックすると、この新しいistSOSインスタンスのデフォルトデータベース設定を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clicking on the feature will bring up an identification box at the bottom of the map showing details about the area selected.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134513Z" creationid="miurahr" creationdate="20201116T134513Z">
@@ -5066,6 +5098,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T023233Z" creationid="miurahr" creationdate="20201122T023233Z">
         <seg>データベース接続を設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Configure your service proxy address.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T024446Z" creationid="miurahr" creationdate="20201122T024446Z">
+        <seg>サービスプロキシアドレスを設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5290,6 +5330,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142937Z" creationid="miurahr" creationdate="20201116T142937Z">
         <seg>新規マップの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create a new service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T024531Z" creationid="miurahr" creationdate="20201122T024531Z">
+        <seg>新しいサービスを作成する</seg>
       </tuv>
     </tu>
     <tu>
@@ -7254,10 +7302,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From the toolbar buttons menu press the "new service" button and click :guilabel:`Next`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T024610Z" creationid="miurahr" creationdate="20201122T024610Z">
+        <seg>ツールバーのボタンメニューから"new service"ボタンを押し、:guilabel:`Next`をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From the toolbar buttons menu, press the "Database" button and fill in the database configuration options:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T023722Z" creationid="miurahr" creationdate="20201122T023722Z">
         <seg>ツールバーのボタンメニューから、"Database"ボタンを押し、データベース設定オプションを入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the toolbar buttons menu, press the "GetObservation Configuration" button to set maximum time interval per getObservation request (zero for no limits) and aggregation no-data value.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T024423Z" creationid="miurahr" creationdate="20201122T024423Z">
+        <seg>ツールバーのボタンメニューから、"GetObservation Configuration"ボタンを押して、getObservation要求ごとの最大時間間隔(無制限の場合は0)と集計のno-data値を設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9366,6 +9430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the EPSG field you can set the database native projection.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T024629Z" creationid="miurahr" creationdate="20201122T024629Z">
+        <seg>EPSGフィールドでは、データベースのネイティブ投影を設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the LAYER object, we'll add another CLASS object just before our current one::</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022815Z" creationid="miurahr" creationdate="20201103T022815Z">
@@ -10834,6 +10906,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T123443Z" creationid="miurahr" creationdate="20201108T123443Z">
         <seg>他のものはすべてそのままにして、``Load``を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Leave it empty to use the default.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T024638Z" creationid="miurahr" creationdate="20201122T024638Z">
+        <seg>デフォルトを使用する場合は空のままにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12418,6 +12498,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T060334Z" creationid="miurahr" creationdate="20201103T060334Z">
         <seg>入力座標系がわかったので、データの再投影先を決定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now that you have configured istSOS, it's time to create a new service instance.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T024549Z" creationid="miurahr" creationdate="20201122T024549Z">
+        <seg>istSOSを設定したので、次は新しいサービスインスタンスを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14090,6 +14178,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T142013Z" creationid="miurahr" creationdate="20201120T142013Z">
         <seg>:guilabel:`Next`を押してファイルダイアログを開きます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press :guilabel:`Next`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T024701Z" creationid="miurahr" creationdate="20201122T024701Z">
+        <seg>:guilabel:`Next`を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17231,6 +17327,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T044044Z" creationid="miurahr" creationdate="20201108T044044Z">
         <seg>[プレビュー]タブに小さなマップが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Proxy URL field is the base URL seen beyond a reverse proxy.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T024540Z" creationid="miurahr" creationdate="20201122T024520Z">
+        <seg>プロキシURLフィールドは、リバースプロキシ越しで見えるベースのURLをいれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20447,6 +20551,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>チュートリアル: https://learnosm.org/en/osm-data/osmosis/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type **demo** for the Service name.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T024621Z" creationid="miurahr" creationdate="20201122T024621Z">
+        <seg>サービス名に**demo**と入力します。</seg>
       </tuv>
     </tu>
     <tu>
