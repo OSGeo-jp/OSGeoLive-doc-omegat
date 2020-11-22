@@ -3766,6 +3766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Before working from the command line, we need to open a terminal window: :menuselection:`LXDE Menu -&gt; Accessories -&gt; LXTerminal`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T021411Z" creationid="miurahr" creationdate="20201122T021411Z">
+        <seg>コマンドラインから作業する前に、ターミナルウィンドウ::menuselection:`システムツール-&gt;LXTerminal`を開く必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Before you draw, you need to make sure that nothing is selected.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075519Z" creationid="miurahr" creationdate="20201103T073558Z">
@@ -4674,6 +4682,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142236Z" creationid="miurahr" creationdate="20201116T142236Z">
         <seg>そのリンクをクリックし、表示されるダイアログでユーザー認証情報を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the "Execute SQL" button at the right, and see the results in the bottom right pane.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T013755Z" creationid="miurahr" creationdate="20201122T013755Z">
+        <seg>右側の"Execute SQL"ボタンをクリックすると、右下のペインに結果が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9414,6 +9430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the upper right SQL pane type::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T013631Z" creationid="miurahr" creationdate="20201122T013631Z">
+        <seg>右上のSQLペインで、次のように入力します::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the upper right, a toggleable legend box is provided.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131653Z" creationid="miurahr" creationdate="20201116T131653Z">
@@ -9482,6 +9506,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>このサンプルでは、 `city_routing` というデータベースを作成し、そのデータベースで pgRouting を有効化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this example, we will load a shapefile, and search for schools which are near highway 42.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T013825Z" creationid="miurahr" creationdate="20201122T013825Z">
+        <seg>この例では、シェイプファイルをロードし、highway 42の近くにある学校を検索します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12190,6 +12222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now let's try tweaking this SQL statement to get NOME and (Lat,Long) for only the NOME_PROV fields include "BRESCIA", this time using the MunicipalHallsView.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T013613Z" creationid="miurahr" creationdate="20201122T013613Z">
+        <seg>次に、このSQL文を調整して、NOME_PROVフィールドだけのNOMEと(Lat,Long)を取得してみましょう。NOME_PROVフィールドには"BRESCIA"が含まれます。今度はMunicipalHallsViewを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now let’s draw a map in order to practice the techniques you have learned.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T080125Z" creationid="miurahr" creationdate="20201103T080125Z">
@@ -14765,8 +14805,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Right Click on the MunicipalHalls table and select "Edit table rows".</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201121T134356Z" creationid="miurahr" creationdate="20201121T134356Z">
-        <seg>MunicipalHallsテーブルを右クリックして、"テーブル行の編集"を選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T013028Z" creationid="miurahr" creationdate="20201121T134356Z">
+        <seg>MunicipalHallsテーブルを右クリックして、"Edit table rows"を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14855,6 +14895,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113603Z" creationid="miurahr" creationdate="20201103T113603Z">
         <seg>sudo adduser user usersを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run an SQL query</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T013040Z" creationid="miurahr" creationdate="20201122T013040Z">
+        <seg>SQLクエリを実行する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run spatialite from the command line</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T013800Z" creationid="miurahr" creationdate="20201122T013800Z">
+        <seg>コマンドラインからspatialiteを実行する</seg>
       </tuv>
     </tu>
     <tu>
@@ -20471,6 +20527,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013600Z" creationid="miurahr" creationdate="20201103T013600Z">
         <seg>ユーザーは、例えば画像分類、空間的関係を推定するための統計解析、地物の分布パターン、そして以下の基本機能に列挙されるものなど、大規模な配列の処理ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Users needing to script or automate queries will learn the advantages of working with a spatialite database from the command line interface.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T013806Z" creationid="miurahr" creationdate="20201122T013806Z">
+        <seg>スクリプトを使用したりクエリを自動化したりする必要があるユーザは、コマンドラインインターフェイスからspatialiteデータベースを操作する利点を学習します。</seg>
       </tuv>
     </tu>
     <tu>
