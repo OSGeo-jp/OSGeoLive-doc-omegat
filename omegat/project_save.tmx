@@ -13336,8 +13336,8 @@
       <tuv lang="en-US">
         <seg>Open a :menuselection:`Applications --&gt; Accessories --&gt; Terminal` window and open up psql: (psql is the commandline tool packaged with PostgreSQL)</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>メニューから :menuselection:`Applications --&gt; Accessories --&gt; Terminal` を開き、 psql を起動します: (psql は、PostgreSQL にパッケージされているコマンドラインツールです)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T034029Z">
+        <seg>メニューから :menuselection:`システムツール --&gt; LXTerminal` を開き、 psql を起動します: (psql は、PostgreSQL にパッケージされているコマンドラインツールです)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13382,6 +13382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open a terminal by selecting :menuselection:`Accessories --&gt; LXTerminal`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T033834Z" creationid="miurahr" creationdate="20201122T033834Z">
+        <seg>Open a terminal by selecting :menuselection:`システムツール --&gt; LXTerminal`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open a terminal window and type `python` on the command line to enter a python interpreter.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055333Z" creationid="miurahr" creationdate="20201103T055333Z">
@@ -13394,6 +13402,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T000042Z" creationid="miurahr" creationdate="20201117T000042Z">
         <seg>端末を開き、次に</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open a text editor by selecting :menuselection:`Accessories --&gt; FeatherPad`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T033820Z" creationid="miurahr" creationdate="20201122T033739Z">
+        <seg>:menuselection:`アクセサリ--&gt;FeatherPad`を選択して、テキストエディタを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13432,8 +13448,8 @@
       <tuv lang="en-US">
         <seg>Open any text editor (e.g. :menuselection:`Applications --&gt; Accessories --&gt; FeatherPad`).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T021604Z" creationid="miurahr" creationdate="20201103T021604Z">
-        <seg>任意のテキストエディタを開きます(例 :menuselection:`アプリケーション--&gt;アクセサリ--&gt;FeatherPad`)。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T033916Z" creationid="miurahr" creationdate="20201103T021604Z">
+        <seg>任意のテキストエディタを開きます(例 :menuselection:`アクセサリ--&gt;FeatherPad`)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18035,10 +18051,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The file uses a Comma Separated Values (CSV) format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T033533Z" creationid="miurahr" creationdate="20201122T033203Z">
+        <seg>このファイルはCSV(カンマ区切りテキスト)形式を使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The final step in creating our application is to create a viewport - a container representing the application which will display all the components we created above.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054636Z" creationid="miurahr" creationdate="20201103T054636Z">
         <seg>アプリケーションを作成する最後のステップは、ビューポートを作成することです。ビューポートとは、上記で作成したすべてのコンポーネントを表示するアプリケーションを表すコンテナです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The first line contains header information, including URI names of the observed properties.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T033545Z" creationid="miurahr" creationdate="20201122T033545Z">
+        <seg>最初の行には、観測されたプロパティのURI名を含むヘッダ情報が含まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18055,6 +18087,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021425Z" creationid="miurahr" creationdate="20201108T021420Z">
         <seg>次のコードでは、マップのインスタンスにイベントを登録し、ポインタが移動するたびに通知されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following lines contain the data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T033550Z" creationid="miurahr" creationdate="20201122T033550Z">
+        <seg>次の行にデータが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
