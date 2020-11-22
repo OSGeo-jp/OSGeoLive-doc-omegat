@@ -3862,6 +3862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Browse to the :file:`/home/user/data/spatialite` directory and choose :file:`trento.sqlite`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T134028Z" creationid="miurahr" creationdate="20201121T134028Z">
+        <seg>:file:`/home/user/data/spatialite`ディレクトリにブラウズし、:file:`trento.sqlite`を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Browser Based</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T065018Z" creationid="miurahr" creationdate="20201103T065018Z">
@@ -12062,6 +12070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Notice the SQL query which has been created for you in the top right pane, and results in the bottom right.::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T013019Z" creationid="miurahr" creationdate="20201122T013019Z">
+        <seg>右上のペインに作成されたSQLクエリが表示され、結果が右下に表示されます。::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Notice the line in the symbol preview increase in width, and so do the lines that are in the map frame.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T015631Z" creationid="miurahr" creationdate="20201117T015631Z">
@@ -13050,6 +13066,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052501Z" creationid="miurahr" creationdate="20201102T052501Z">
         <seg>[デスクトップGIS]フォルダを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Spatialite GUI by selecting :menuselection:`Geospatial-&gt;Databases-&gt;Spatialite GUI`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T133943Z" creationid="miurahr" creationdate="20201121T133943Z">
+        <seg>:menuselection:`Geospatial-&gt;Databases-&gt;Spatialite GUI`を選択して、Spatialite GUIを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14739,10 +14763,34 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right Click on the MunicipalHalls table and select "Edit table rows".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T134356Z" creationid="miurahr" creationdate="20201121T134356Z">
+        <seg>MunicipalHallsテーブルを右クリックして、"テーブル行の編集"を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right click on elements of the left panel to select from a list of common database actions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T134310Z" creationid="miurahr" creationdate="20201121T134310Z">
+        <seg>左側のパネルの要素を右クリックして、一般的なデータベースアクションのリストから選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right click on the *USA Population* layer and select *Zoom to layer extend*</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T145138Z" creationid="miurahr" creationdate="20201116T145138Z">
         <seg>*USA Population*レイヤを右クリックして、 *Zoom to layer extend*を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right click on the MunicipalHallsView table and select "Show Columns"</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T134043Z" creationid="miurahr" creationdate="20201121T134043Z">
+        <seg>MunicipalHallsViewテーブルを右クリックして、"Show Columns"を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15227,6 +15275,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select :menuselection:`File-&gt;Connecting an existing SQLite DB`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T133959Z" creationid="miurahr" creationdate="20201121T133959Z">
+        <seg>:menuselection:`File-&gt;Connecting an existing SQLite DB`を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select :menuselection:`System Tools --&gt; Startup Disk Creator`, or search for `Startup Disk Creator` from the Unity desktop.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T135212Z" creationid="miurahr" creationdate="20201120T135212Z">
@@ -15707,6 +15763,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some sample SQL queries are shown.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T133851Z" creationid="miurahr" creationdate="20201121T133823Z">
+        <seg>いくつかのサンプルSQLクエリも示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sometimes the quickest way to work out how OpenLayers works is to look at examples and their source code.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021507Z" creationid="miurahr" creationdate="20201108T021507Z">
@@ -15775,6 +15839,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113354Z" creationid="miurahr" creationdate="20201103T113354Z">
         <seg>ハードディスクの空き容量:doc:`live.osgeo.org&lt;./download&gt;`の仮想ディスクファイル(vmdk)は、ほぼ10GBに解凍されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SpatiaLite Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T133751Z" creationid="miurahr" creationdate="20201121T133751Z">
+        <seg>Spatialiteクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SpatiaLite is an SQLite database engine with spatial functions added.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T133807Z" creationid="miurahr" creationdate="20201121T133807Z">
+        <seg>SpatiaLite は空間を扱う関数を追加した SQLite データベースエンジンです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15863,6 +15943,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>空間構造 (例: 4分木とR木、ドロネー三角形分割)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spatialite-gui provides a visual interface for viewing and maintaining a spatialite database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T133838Z" creationid="miurahr" creationdate="20201121T133838Z">
+        <seg>Spatialite-guiは、spatialiteデータベースを表示および維持するためのビジュアルインターフェイスを提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16031,6 +16119,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>開始 R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start Spatialite and load a database</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T133829Z" creationid="miurahr" creationdate="20201121T133829Z">
+        <seg>Spatialiteを起動してデータベースを読み込む</seg>
       </tuv>
     </tu>
     <tu>
@@ -17259,6 +17355,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The bottom right panel shows the results of the SQL query.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T134336Z" creationid="miurahr" creationdate="20201121T134336Z">
+        <seg>右下のパネルには、SQLクエリの結果が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The bounding box is used for querying within the Download Tool.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T124528Z" creationid="miurahr" creationdate="20201116T124528Z">
@@ -17623,6 +17727,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T144736Z" creationid="miurahr" creationdate="20201116T144736Z">
         <seg>レイヤーがマップに追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The left panel displays the database hierarchy, such as a list of tables, and columns within the table.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T134302Z" creationid="miurahr" creationdate="20201121T134302Z">
+        <seg>左側のパネルには、テーブルのリストやテーブル内のカラムなど、データベースの階層が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18115,6 +18227,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The top right panel shows SQL for the action selected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T134319Z" creationid="miurahr" creationdate="20201121T134319Z">
+        <seg>右上のパネルには、選択したアクションのSQLが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The tree has its own data store - ``GeoExt.data.store.LayersTree``, which we will fill with layers from our OpenLayers map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054244Z" creationid="miurahr" creationdate="20201103T054244Z">
@@ -18543,6 +18663,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>このクイックスタートでは、PostgreSQL データベースで pgrouting を有効化し、 osm2pgrouting でデータを読み込み、サンプルのテストデータに対して基本的な最短経路探索クエリを実行する方法について記述しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This Quick Start describes how to open a spatialite database from both GUI applications and the command line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T133817Z" creationid="miurahr" creationdate="20201121T133817Z">
+        <seg>このクイックスタートでは、GUIアプリケーションとコマンドラインの両方からspatialiteデータベースを開く方法について説明します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21931,10 +22059,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can easily see the structure of the tables and data contents using point and click functions, many of which construct common SQL queries, or craft your own SQL queries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T133925Z" creationid="miurahr" creationdate="20201121T133925Z">
+        <seg>ポイント・アンド・クリック機能を使用すると、テーブルとデータコンテンツの構造を簡単に確認できます。その多くは一般的なSQLクエリーを構築したり、独自のSQLクエリーを作成したりします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can either do that by using *drag &amp; drop* on the *Drop Files Here* area or you can use the *Choose Files* button to select them.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142534Z" creationid="miurahr" creationdate="20201116T142534Z">
         <seg>これは、*Drop Files Here*領域の*ドラッグ&amp;ドロップ*を使用するか、*Choose Files*ボタンを使用して選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can enter your own customised SQL into this panel.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T134327Z" creationid="miurahr" creationdate="20201121T134327Z">
+        <seg>このパネルには、独自にカスタマイズしたSQLを入力できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22487,6 +22631,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053109Z" creationid="miurahr" creationdate="20201103T053109Z">
         <seg>シェイプのカラーは、割り当てるアトリビュートに応じて変化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will notice the display broken into 3 areas:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T134047Z" creationid="miurahr" creationdate="20201121T134047Z">
+        <seg>表示が3つの領域に分割されていることがわかります。</seg>
       </tuv>
     </tu>
     <tu>
