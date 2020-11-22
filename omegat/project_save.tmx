@@ -4406,6 +4406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click :menuselection:`Geospatial --&gt; Webservices --&gt; istSOS` to open the Web Admin interface.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T023204Z" creationid="miurahr" creationdate="20201122T023204Z">
+        <seg>:menuselection:`Geospatial--&gt;Webservices--&gt;istSOS`をクリックして、Web Adminインターフェイスを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click ``OK`` and |UG| will display the changes.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231756Z" creationid="miurahr" creationdate="20201116T231756Z">
@@ -5306,6 +5314,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T040712Z" creationid="miurahr" creationdate="20201108T040712Z">
         <seg>コマンドラインと:doc:`QGIS&lt;./overview/qgis_overview&gt;`グラフィカルクライアントから空間データベースを作成し、クエリーを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create postgis database</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T022239Z" creationid="miurahr" creationdate="20201122T022239Z">
+        <seg>postgisデータベースを作成する</seg>
       </tuv>
     </tu>
     <tu>
@@ -6362,6 +6378,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021334Z" creationid="miurahr" creationdate="20201108T021334Z">
         <seg>イベントは``on()``メソッドでオブジェクトに簡単に登録でき、``un()``で登録解除できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Every instance has its own database schema independent from other instances.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T022302Z" creationid="miurahr" creationdate="20201122T022302Z">
+        <seg>すべてのインスタンスには、他のインスタンスから独立した独自のデータベーススキーマがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13110,6 +13134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open a terminal and execute the following commands:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T022247Z" creationid="miurahr" creationdate="20201122T022247Z">
+        <seg>端末を開き、次のコマンドを実行します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open a terminal and search for ogr_fdw_info:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T003237Z" creationid="miurahr" creationdate="20201117T003229Z">
@@ -15675,6 +15707,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set up an istSOS service instance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T022252Z" creationid="miurahr" creationdate="20201122T022252Z">
+        <seg>istSOSサービスインスタンスを設定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Several packages provide connection with other OSGeo tools and software.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071134Z" creationid="miurahr" creationdate="20201103T071134Z">
@@ -17723,6 +17763,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first steps into istSOS setup is to configure the default configuration options.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T022322Z" creationid="miurahr" creationdate="20201122T022322Z">
+        <seg>istSOSセットアップの最初のステップは、デフォルトの設定オプションを設定することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following code registers an event on a map instance, and will be notified each time the pointer is moved.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021425Z" creationid="miurahr" creationdate="20201108T021420Z">
@@ -18079,6 +18127,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133330Z" creationid="miurahr" creationdate="20201120T133330Z">
         <seg>プログラムが開き、世界のマップが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The project provides also a Graphical user Interface that allows for easing the daily operations and a RESTFull Web api for automatizing administration procedures.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T022222Z" creationid="miurahr" creationdate="20201122T022222Z">
+        <seg>このプロジェクトはまた、日常的な操作を容易にするグラフィカル・ユーザー・インターフェースと、管理手順を自動化するためのRESTフル Web apiも提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18703,6 +18759,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>これらは以下を含みます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These options will then be automatically used for your convenience by every new istSOS instance created.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T022328Z" creationid="miurahr" creationdate="20201122T022328Z">
+        <seg>これらのオプションは、新しいistSOSインスタンスが作成されるたびに自動的に使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21731,6 +21795,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With istSOS you can organize your sensor data in different instances.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T022257Z" creationid="miurahr" creationdate="20201122T022257Z">
+        <seg>istSOSを使用すると、センサーデータをさまざまなインスタンスまとめることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With the style dock now open, we can modify the colour and the width of the lines in the 'ne_10m_rivers_lakes_centrelines' layer.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T015430Z" creationid="miurahr" creationdate="20201117T015430Z">
@@ -22231,6 +22303,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201121T134327Z" creationid="miurahr" creationdate="20201121T134327Z">
         <seg>このパネルには、独自にカスタマイズしたSQLを入力できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can even deploy other databases over your network according to your needs.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T022307Z" creationid="miurahr" creationdate="20201122T022307Z">
+        <seg>必要に応じて、ネットワーク上に他のデータベースを展開することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24119,6 +24199,38 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T104213Z" creationid="smellman" creationdate="20201103T104213Z">
         <seg>国際化(cz, de, en, es, fi, fr, hu, it, ja, pt, ta, zh)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>istSOS Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T022027Z" creationid="miurahr" creationdate="20201122T022027Z">
+        <seg>istSOSクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>istSOS allows for managing and dispatch observations from monitoring sensors according to the Sensor Observation Service standard.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T022153Z" creationid="miurahr" creationdate="20201122T022153Z">
+        <seg>istSOSは、Sensor Observation Service標準に従って、モニタリングセンサーからの観測情報を管理し、ディスパッチすることを可能にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>istSOS is an OGC |SOS| server implementation written in `Python &lt;https://www.python.org/&gt;`__.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T022053Z" creationid="miurahr" creationdate="20201122T022053Z">
+        <seg>istSOSは、`Python&lt;https://www.python.org/&gt;`__ で記述されたOGC |SOS|サーバ実装です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>istSOS is released under the GPLv2 licence, and runs on all major platforms (Windows, Linux, Mac OS X), even though it has been used in production in linux environment only.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T022235Z" creationid="miurahr" creationdate="20201122T022235Z">
+        <seg>istSOSはGPLv2ライセンスでリリースされ、すべての主要プラットフォーム(Windows、Linux、Mac OS X)で動作します。ただし、これまでLinux環境でのみ使用されていました。</seg>
       </tuv>
     </tu>
     <tu>
