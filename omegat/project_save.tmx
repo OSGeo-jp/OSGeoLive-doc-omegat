@@ -3750,6 +3750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Be sure to visit the tutorial `Spatialite cookbook`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T021945Z" creationid="miurahr" creationdate="20201122T021945Z">
+        <seg>チュートリアル`Spatialite cookbook`_を必ず参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Before the last *END* statement in the Mapfile, add the following layer configuration::</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022422Z" creationid="miurahr" creationdate="20201103T022422Z">
@@ -3768,8 +3776,8 @@
       <tuv lang="en-US">
         <seg>Before working from the command line, we need to open a terminal window: :menuselection:`LXDE Menu -&gt; Accessories -&gt; LXTerminal`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T021411Z" creationid="miurahr" creationdate="20201122T021411Z">
-        <seg>コマンドラインから作業する前に、ターミナルウィンドウ::menuselection:`システムツール-&gt;LXTerminal`を開く必要があります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T021424Z" creationid="miurahr" creationdate="20201122T021411Z">
+        <seg>コマンドラインから作業する前に、ターミナルウィンドウ::menuselection:`システムツール-&gt;LXTerminal`を開いてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5254,6 +5262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create a new spatialite database and load a shapefile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T021453Z" creationid="miurahr" creationdate="20201122T021453Z">
+        <seg>新しいspatialiteデータベースを作成し、シェープファイルを読み込む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create a project</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113723Z" creationid="miurahr" creationdate="20201103T113723Z">
@@ -6594,6 +6610,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T015318Z" creationid="miurahr" creationdate="20201117T015318Z">
         <seg>最後に、レイヤズームツールを使用してみます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finally, we output the query to a "comma separated values" text file "schools_rt42.txt" with the following commands::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T021815Z" creationid="miurahr" creationdate="20201122T021815Z">
+        <seg>最後に、次のコマンドを使用して、クエリを"comma separated values"テキストファイル"schools_rt42.txt"に出力します::</seg>
       </tuv>
     </tu>
     <tu>
@@ -8222,6 +8246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Helpful commands from the command line::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T021446Z" creationid="miurahr" creationdate="20201122T021446Z">
+        <seg>コマンドラインからの便利なコマンド::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hence, observation data can be requested in a RESTful way and is returned in JSON encoded responses.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041923Z" creationid="miurahr" creationdate="20201103T041923Z">
@@ -9422,6 +9454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the terminal open a sample database with **spatialite** by typing::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T021442Z" creationid="miurahr" creationdate="20201122T021442Z">
+        <seg>ターミナルで、次のように入力して**spatialite**でサンプルデータベースを開きます::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the top right of the record are icons for:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133931Z" creationid="miurahr" creationdate="20201116T133931Z">
@@ -9730,6 +9770,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T073512Z" creationid="sanak" creationdate="20201103T073512Z">
         <seg>InsertSensor (仕様バージョン2.0以降): 新しいセンサーのメタデータを挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inspect geometries with spatialite-gui</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T021828Z" creationid="miurahr" creationdate="20201122T021828Z">
+        <seg>spatialite-guiを使用してジオメトリを検査する</seg>
       </tuv>
     </tu>
     <tu>
@@ -10754,6 +10802,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T122833Z" creationid="miurahr" creationdate="20201116T122833Z">
         <seg>座標参照系セレクタの既定値を(WGS 84 EPSG:4326)にして、``OK``を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's create a new, empty spatialite database, and load two shapefiles from the north_carolina dataset::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T021511Z" creationid="miurahr" creationdate="20201122T021501Z">
+        <seg>新しい空のspatialiteデータベースを作成し、north_carolinaデータセットから2つのシェープファイルをロードしてみましょう::</seg>
       </tuv>
     </tu>
     <tu>
@@ -12014,6 +12070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note the format of the .loadshp command: first the shapefile without the .shp extension, then the name of the new spatialite table, next the character encoding, and finally the EPSG code of the shapefile's CRS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T021731Z" creationid="miurahr" creationdate="20201122T021731Z">
+        <seg>loadshpコマンドの形式に注意してください: 最初は.shp拡張子のないシェープファイル、次に新しいspatialiteテーブルの名前、次に文字コード、最後にシェープファイルのCRSのEPSGコードです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note, in the previous code we must change the ``url_to_file`` to point to a valid GeoJSON file placed in our server.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T020830Z" creationid="miurahr" creationdate="20201108T020013Z">
@@ -12362,6 +12426,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231829Z" creationid="miurahr" creationdate="20201116T231829Z">
         <seg>次に、これらのスタイルを |GS| に転送する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now we'll query for schools near to highway 42.::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T021749Z" creationid="miurahr" creationdate="20201122T021749Z">
+        <seg>次に、ハイウェイ42に近い学校を検索します::</seg>
       </tuv>
     </tu>
     <tu>
@@ -13074,6 +13146,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T114007Z" creationid="miurahr" creationdate="20201103T114007Z">
         <seg>既存のプロジェクトを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open and edit SpatiaLite layers in QGIS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T021848Z" creationid="miurahr" creationdate="20201122T021848Z">
+        <seg>QGISでSpatialiteレイヤを開いて編集する</seg>
       </tuv>
     </tu>
     <tu>
@@ -19751,6 +19831,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T020525Z" creationid="miurahr" creationdate="20201117T020525Z">
         <seg>QGISの詳細については、QGISホームページの`ドキュメントページ`_と`A Gentle Introduction to GIS(英語)`_eBookを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To learn more about SpatiaLite, a starting point is the `SpatiaLite project page`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T021901Z" creationid="miurahr" creationdate="20201122T021901Z">
+        <seg>Spatialiteの詳細については、`Spatialite project page`_を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
