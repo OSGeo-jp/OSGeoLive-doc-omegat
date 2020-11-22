@@ -4470,6 +4470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click :menuselection:`Data Management --&gt; Data Viewer`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T034547Z" creationid="miurahr" creationdate="20201122T034547Z">
+        <seg>:menuselection:`Data Management--&gt;Data Viewer`をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click :menuselection:`Desktop --&gt; Spatial Tools --&gt; Start Mapnik &amp; TileStache`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055615Z" creationid="miurahr" creationdate="20201103T055615Z">
@@ -4482,6 +4490,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T023204Z" creationid="miurahr" creationdate="20201122T023204Z">
         <seg>:menuselection:`Geospatial--&gt;Webservices--&gt;istSOS`をクリックして、Web Adminインターフェイスを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click :menuselection:`Geospatial --&gt; Webservices --&gt; istSOS`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T034524Z" creationid="miurahr" creationdate="20201122T034524Z">
+        <seg>:menuselection:`Geospatial--&gt;Webservices--&gt;istSOS`をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4822,10 +4838,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the :guilabel:`Add` button</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T034639Z" creationid="miurahr" creationdate="20201122T034639Z">
+        <seg>:guilabel:`Add`ボタンをクリックします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the :guilabel:`Enter` button in the administration page</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T034534Z" creationid="miurahr" creationdate="20201122T034534Z">
+        <seg>管理ページで:guilabel:`Enter`ボタンをクリックします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the :guilabel:`Enter` button in the administration page.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T023229Z" creationid="miurahr" creationdate="20201122T023229Z">
         <seg>管理ページで:guilabel:`Enter`ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the :guilabel:`Plot` button and check that the data have been added (watch out at your time zone!)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T034654Z" creationid="miurahr" creationdate="20201122T034654Z">
+        <seg>:guilabel:`Plot`ボタンをクリックし、データが追加されたことを確認します(タイムゾーンに注意してください)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9686,6 +9726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the terminal, enter: "cd /usr/share/istsos/" and press ENTER.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T034433Z" creationid="miurahr" creationdate="20201122T034433Z">
+        <seg>端末で:"cd/usr/share/istSOS/"と入力し、ENTERを押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the top right of the record are icons for:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133931Z" creationid="miurahr" creationdate="20201116T133931Z">
@@ -13328,8 +13376,8 @@
       <tuv lang="en-US">
         <seg>Open a :menuselection:`Applications --&gt; Accessories --&gt; Terminal` window and connect to the ``city_routing`` database:</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>メニューから、 :menuselection:`Applications --&gt; Accessories --&gt; Terminal` を開き、 ``city_routing`` データベースに接続します:</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T034123Z">
+        <seg>メニューから、 :menuselection:`システムツール --&gt; LXTerminal` を開き、 ``city_routing`` データベースに接続します:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13440,8 +13488,8 @@
       <tuv lang="en-US">
         <seg>Open any text editor (e.g. :menuselection:`Accessories --&gt; FeatherPad`).</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T052346Z" creationid="smellman" creationdate="20201103T052346Z">
-        <seg>任意のテキストエディタを開きます(例:menuselection:`Accessories--&gt;FeatherPad`)。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T034347Z" creationid="smellman" creationdate="20201103T052346Z">
+        <seg>任意のテキストエディタを開きます(例:menuselection:`アクセサリ--&gt;FeatherPad`)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15907,6 +15955,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the following:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T034557Z" creationid="miurahr" creationdate="20201122T034557Z">
+        <seg>次を選択してください:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the forest on the left side of the map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075152Z" creationid="miurahr" creationdate="20201103T072834Z">
@@ -16613,8 +16669,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Start a Terminal Emulator (LXTerminal currently) from the Applications menu in the Accessories section.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T041001Z" creationid="miurahr" creationdate="20201108T041001Z">
-        <seg>「アクセサリ」セクションの「アプリケーション」メニューからターミナルエミュレータ(現在はLXTerminal)を起動します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T034159Z" creationid="miurahr" creationdate="20201108T041001Z">
+        <seg>「システムツール」メニューからターミナルエミュレータ(現在はLXTerminal)を起動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20243,6 +20299,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To learn more about istSOS, a starting point is the `istSOS Documentation`_ and the `istSOS Tutorial`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T034633Z" creationid="miurahr" creationdate="20201122T034633Z">
+        <seg>istSOSについてさらに学ぶには、 `istSOS Documentation`_ と `istSOS Tutorial`_を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To look up the corresponding osm_ids for our nodes, we would use this query:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T001808Z" creationid="miurahr" creationdate="20201117T001808Z">
@@ -22267,6 +22331,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Write "python scripts/csv2istsos.py -p T_LUGANO -u http://localhost/istsos -s demo -w ~/Desktop" and press ENTER</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T034505Z" creationid="miurahr" creationdate="20201122T034505Z">
+        <seg> "python scripts/csv2istsos.py -p T_LUGANO -u http://localhost/istsos -s demo -w ~/Desktop" とうちこんで、ENTERを押します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Write the name, description and destination folder of the bookmark</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T001019Z" creationid="miurahr" creationdate="20201117T001019Z">
@@ -23135,6 +23207,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T073936Z" creationid="miurahr" creationdate="20201103T072358Z">
         <seg>サンプルの地図が開き、次のように表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should see a message "Insert observation success: True"</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T034515Z" creationid="miurahr" creationdate="20201122T034515Z">
+        <seg>"Insert observation success:True"というメッセージが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
