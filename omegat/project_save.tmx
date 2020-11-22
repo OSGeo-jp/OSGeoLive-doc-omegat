@@ -3600,8 +3600,8 @@
       <tuv lang="en-US">
         <seg>Advanced symbology tools</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T052846Z" creationid="miurahr" creationdate="20201122T052846Z">
-        <seg>高度な象徴学ツール</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T060620Z" creationid="miurahr" creationdate="20201122T052846Z">
+        <seg>高度なシンボロジーツール</seg>
       </tuv>
     </tu>
     <tu>
@@ -13992,8 +13992,8 @@
       <tuv lang="en-US">
         <seg>OGC Style Layer Descriptor / Symbology Encoding data structures and rendering engine</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T062201Z" creationid="miurahr" creationdate="20201103T062201Z">
-        <seg>OGC Style Layer Descriptor/記号データ構造のエンコードとレンダリングエンジン</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T060602Z" creationid="miurahr" creationdate="20201103T062201Z">
+        <seg>OGC Style Layer Descriptor/データ構造とレンダリングエンジンのシンボロジーのエンコード</seg>
       </tuv>
     </tu>
     <tu>
@@ -17709,8 +17709,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Some highlights are swing support (used in geotools tutorials), swt, local and web process support, additional symbology, additional data formats, generation of grids and a couple of implementations of ISO Geometry.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T012234Z" creationid="miurahr" creationdate="20201103T012234Z">
-        <seg>注目すべき点は、スイングサポート(geotoolsチュートリアルで使用)、swt、ローカルおよびWebプロセスサポート、追加の記号、追加のデータフォーマット、グリッドの生成、およびISOジオメトリのいくつかの実装です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T060658Z" creationid="miurahr" creationdate="20201103T012234Z">
+        <seg>注目すべき点は、スイングサポート(geotoolsチュートリアルで使用)、swt、ローカルおよびWebプロセスサポート、シンボロジーの追加、データフォーマットの追加、グリッドの生成、およびISOジオメトリのいくつかの実装です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25861,8 +25861,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>change vector and raster symbology</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>ベクタとラスタのシンボルの変更</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T060608Z">
+        <seg>ベクタとラスタのシンボロジーの変更</seg>
       </tuv>
     </tu>
     <tu>
