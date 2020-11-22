@@ -5542,6 +5542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create data-driven, time-dynamic scenes with `CZML &lt;https://github.com/CesiumGS/cesium/wiki/CZML-Guide&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T042120Z" creationid="miurahr" creationdate="20201122T042120Z">
+        <seg>`CZML&lt;https://github.com/CesiumGS/cesium/wiki/CZML-Guide&gt;`_を使用して、データ駆動型で時間動的なシーンを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create postgis database</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T022239Z" creationid="miurahr" creationdate="20201122T022239Z">
@@ -6262,6 +6270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Draw 3D models using COLLADA and glTF.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T042724Z" creationid="miurahr" creationdate="20201122T042724Z">
+        <seg>COLLADAとglTFを使用して3Dモデルを描画します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Draw a shape the same way that you draw a line, but finish the shape by double-clicking on the point where you started the line.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075627Z" creationid="miurahr" creationdate="20201103T075627Z">
@@ -6274,6 +6290,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134331Z" creationid="miurahr" creationdate="20201116T134331Z">
         <seg>マップ上に注釈を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draw imagery layers using WMS, TMS, OpenStreetMaps, Bing, and Esri standards.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T042714Z" creationid="miurahr" creationdate="20201122T042714Z">
+        <seg>WMS、TMS、OpenStreetMaps、Bing、およびEsri標準を使用して画像レイヤを描画します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draw vector data from GeoJSON and TopoJSON.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T042719Z" creationid="miurahr" creationdate="20201122T042719Z">
+        <seg>GeoJSONとTopoJSONからベクタデータを描画します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10666,6 +10698,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T044505Z" creationid="miurahr" creationdate="20201102T044505Z">
         <seg>スタンドアロン GPX トラックや GPX トラックデータの読み込みと共に、OSM データベースから既存のノード (点) 、ウェイ (ライン) 、メタデータタグ (名前/値の情報) 、リレーション (点と線の順序付けられたシーケンス) の編集をサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T042103Z" creationid="miurahr" creationdate="20201122T042103Z">
+        <seg>ハードウェアで高速化されたグラフィックスにWebGLを使用し、クロスプラットフォーム、クロスブラウザで、動的データの視覚化に合わせて調整されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21455,6 +21495,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OSM、Bingsat、Lansat、MapBox satellite、MapQuest Open Aerial またはその他の WMS ソースをベースマップとして可視化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visualize high-resolution worldwide terrain.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T042147Z" creationid="miurahr" creationdate="20201122T042124Z">
+        <seg>世界的な地形を高解像度で可視化します。</seg>
       </tuv>
     </tu>
     <tu>
