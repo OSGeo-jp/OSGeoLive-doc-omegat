@@ -1094,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-gvsig|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053128Z" creationid="miurahr" creationdate="20201122T053128Z">
+        <seg>**ソフトウェアバージョン:** |version-gvsig|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-ideditor|</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T065045Z" creationid="miurahr" creationdate="20201103T065045Z">
@@ -1122,6 +1130,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**ソフトウェアバージョン:** |version-liblas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-mapbender|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053824Z" creationid="miurahr" creationdate="20201122T053824Z">
+        <seg>**ソフトウェアバージョン:** |version-mapbender|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1326,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Support:** http://www.gvsig.com/en/gvsig-association, http://www.gvsig.com/en/community/mailing-lists</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053135Z" creationid="miurahr" creationdate="20201122T053135Z">
+        <seg>**サポート:** http://www.gvsig.com/en/gvsig-association, http://www.gvsig.com/en/community/mailing-lists</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Support:** https://docs.eoxserver.org/en/latest/users/basics.html#where-can-i-get-support</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T050737Z" creationid="miurahr" creationdate="20201122T050737Z">
@@ -1418,6 +1442,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071611Z" creationid="miurahr" creationdate="20201103T071611Z">
         <seg>**サポート:** https://lists.osgeo.org/mailman/listinfo/proj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** https://mapbender.org/en/community</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053835Z" creationid="miurahr" creationdate="20201122T053835Z">
+        <seg>**サポート:** https://mapbender.org/en/community</seg>
       </tuv>
     </tu>
     <tu>
@@ -1758,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Website:** http://www.gvsig.com/es</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053115Z" creationid="miurahr" creationdate="20201122T053115Z">
+        <seg>**Webサイト:** http://www.gvsig.com/es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Website:** http://www.openjump.org</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T104355Z" creationid="smellman" creationdate="20201103T104355Z">
@@ -1882,6 +1922,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**Webサイト:**  https://liblas.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://mapbender.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053815Z" creationid="miurahr" creationdate="20201122T053815Z">
+        <seg>**Webサイト:** https://mapbender.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -2462,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/gvsig_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053218Z" creationid="miurahr" creationdate="20201122T053218Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/gvsig_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>:doc:`Quickstart documentation &lt;../quickstart/ideditor_quickstart&gt;`</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T065132Z" creationid="miurahr" creationdate="20201103T065132Z">
@@ -2498,6 +2554,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>:doc:`クイックスタート文書 &lt;../quickstart/liblas_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/mapbender_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053913Z" creationid="miurahr" creationdate="20201122T053913Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/mapbender_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -3466,6 +3530,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132531Z" creationid="miurahr" creationdate="20201116T132531Z">
         <seg>さらに、テーブルヘッダーのファンネルアイコンを使用して結果をさらにフィルタしたり、テーブルヘッダーの三角形アイコンを使用して結果を並べ替えたりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adherence to standardized services, such as OGC WMS allows to take advantage of interoperable services from a multitude of server platforms.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053511Z" creationid="miurahr" creationdate="20201122T053511Z">
+        <seg>OGC WMSなどの標準化されたサービスに準拠することで、多数のサーバプラットフォームから相互運用可能なサービスを利用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5982,10 +6054,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create applications with digitize functionality</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053538Z" creationid="miurahr" creationdate="20201122T053538Z">
+        <seg>デジタイズ機能を備えたアプリケーションを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create data-driven, time-dynamic scenes with `CZML &lt;https://github.com/CesiumGS/cesium/wiki/CZML-Guide&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T042120Z" creationid="miurahr" creationdate="20201122T042120Z">
         <seg>`CZML&lt;https://github.com/CesiumGS/cesium/wiki/CZML-Guide&gt;`_を使用して、データ駆動型で時間動的なシーンを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create mobile Applications</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053541Z" creationid="miurahr" creationdate="20201122T053541Z">
+        <seg>モバイルアプリケーションを作成する</seg>
       </tuv>
     </tu>
     <tu>
@@ -6018,6 +6106,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052403Z" creationid="smellman" creationdate="20201103T052403Z">
         <seg>ファイル"ne.toml"をホームディレクトリ::file:`/home/user/ne.toml`に作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create users and groups, share and grant access to services and modules</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053732Z" creationid="miurahr" creationdate="20201122T053732Z">
+        <seg>ユーザーとグループを作成し、サービスとモジュールへのアクセスを共有および許可する</seg>
       </tuv>
     </tu>
     <tu>
@@ -6498,6 +6594,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013928Z" creationid="miurahr" creationdate="20201103T013838Z">
         <seg>それぞれのシステムは、平坦な二次元マップ上に三次元地球を表現ししています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Digitizing via SQL</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053548Z" creationid="miurahr" creationdate="20201122T053548Z">
+        <seg>SQLによるデジタイズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -6998,6 +7102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Easily create web mapping interfaces using template applications</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053522Z" creationid="miurahr" creationdate="20201122T053522Z">
+        <seg>テンプレートアプリケーションを使用してWebマッピングインターフェイスを簡単に作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Easy Viewing of many Vector and Raster Formats</seg>
       </tuv>
       <tuv lang="ja">
@@ -7098,6 +7210,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>データベース内で pgRouting を有効化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Encrypted protocols monitoring and status notification and auto-update service for remote OGC services</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053755Z" creationid="miurahr" creationdate="20201122T053755Z">
+        <seg>リモートOGCサービスのための暗号化プロトコルモニタリング、ステータス通知、自動更新サービス</seg>
       </tuv>
     </tu>
     <tu>
@@ -7298,6 +7418,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T053011Z" creationid="miurahr" creationdate="20201122T053011Z">
         <seg>SLD凡例のエクスポート/インポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export/import of Web Map Context (WMC)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053024Z" creationid="miurahr" creationdate="20201122T053024Z">
+        <seg>Web Mac Context (WMC)のエクスポート/インポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -8826,6 +8954,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ジオメトリ演算 (例: 交差(intersect)、統合(union)、含む(within)など)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geoportal Framework</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053232Z" creationid="miurahr" creationdate="20201122T053232Z">
+        <seg>Geoportalフレームワーク</seg>
       </tuv>
     </tu>
     <tu>
@@ -11254,6 +11390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is a web based geoportal framework to publish, register, view, navigate, monitor and grant secure access to spatial data infrastructure services.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053258Z" creationid="miurahr" creationdate="20201122T053258Z">
+        <seg>これは、空間データインフラストラクチャサービスへの安全なアクセスを公開、登録、ビュー、ナビゲート、監視、および付与するためのWebベースのGeoportal フレームワークです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is also utilized by packages such as OSSIM, Cadcorp SIS, FME, Google Earth, VTP, Thuban, ILWIS, MapGuide and ArcGIS.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T061103Z" creationid="miurahr" creationdate="20201103T061103Z">
@@ -11386,6 +11530,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T005933Z" creationid="miurahr" creationdate="20201103T005933Z">
         <seg>基金強化およびメインテナンスなどの様々な機関によってサポートされています。開発者とコントリビュータによって構成される MapServer Project Steering Committee として OSGeo のなかで運営されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is the tool of choice for SDI administrators who need to maintain, categorize and monitor map and feature services.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053446Z" creationid="miurahr" creationdate="20201122T053446Z">
+        <seg>これは、マップと地物のサービスを維持、分類、および監視する必要があるSDI管理者向けのツールです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12514,6 +12666,46 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T005900Z" creationid="miurahr" creationdate="20201103T005900Z">
         <seg>MapServer は NASA、Minnesota Department of Natural Resources (MNDNR) の協力のもとでミネソタ大学 (UMN) ForNet プロジェクトにより当初開発されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapbender allows users to easily create customised browser clients from a wide range of widgets (without any/with minimal) programming required.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053424Z" creationid="miurahr" creationdate="20201122T053424Z">
+        <seg>Mapbenderを使用すると、ユーザーはさまざまなウィジェットから、プログラミング不要、あるいは最小限のプログラミングで、カスタマイズされたブラウザクライアントを簡単に作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapbender grants access to individuals, groups and manages machine to machine access.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053500Z" creationid="miurahr" creationdate="20201122T053500Z">
+        <seg>Mapbenderは、個人、グループへのアクセスを許可し、M2Mアクセスを管理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapbender is based on Symfony, OpenLayers and jQuery.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053517Z" creationid="miurahr" creationdate="20201122T053517Z">
+        <seg>MapbenderはSymfony、OpenLayers、およびjQueryに基づいています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapbender is the tip of the iceberg, a meta layer of software providing access to SDI components adhering to international standards.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053329Z" creationid="miurahr" creationdate="20201122T053329Z">
+        <seg>Mapbenderは、いわば氷山の一角であり、国際標準に準拠したSDIコンポーネントへのアクセスを提供するソフトウェアのメタレイヤです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapbender management applications are straight forward and easy to use providing highly focused functionality for the operation of large scale distributed SDI components.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053440Z" creationid="miurahr" creationdate="20201122T053440Z">
+        <seg>Mapbender管理アプリケーションは、大規模な分散SDIコンポーネントの操作に高度に焦点を当てた機能を提供する、簡単で使いやすいものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15518,6 +15710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Print high-quality maps using your own PDF templates.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053545Z" creationid="miurahr" creationdate="20201122T053545Z">
+        <seg>独自のPDFテンプレートを使用して高品質な地図を印刷します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Print maps as PDF</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T052102Z" creationid="miurahr" creationdate="20201122T052052Z">
@@ -16347,6 +16547,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Restrict user access with the OWS security proxy module via trusted servers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053738Z" creationid="miurahr" creationdate="20201122T053738Z">
+        <seg>信頼されたサーバー経由でOWSセキュリティプロキシモジュールを使用してユーザーアクセスを制限する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Results might look like these: ::</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T003240Z" creationid="miurahr" creationdate="20201117T003240Z">
@@ -16807,6 +17015,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133540Z" creationid="miurahr" creationdate="20201116T133540Z">
         <seg>空間データを検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search on catalogues with  CSW (ISO/19115 and ebRIM)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053029Z" creationid="miurahr" creationdate="20201122T053029Z">
+        <seg>CSW(ISO/19115and ebRim)でカタログを検索する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search on gazetteers using WFS-G recommendation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053034Z" creationid="miurahr" creationdate="20201122T053034Z">
+        <seg>WFS-G勧告を使用した地名表記の検索</seg>
       </tuv>
     </tu>
     <tu>
@@ -20499,6 +20723,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This  project is only included on the OSGeoLive virtual machine disk (VMDK)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053141Z" creationid="miurahr" creationdate="20201122T053141Z">
+        <seg>このプロジェクトはOSGeoLive仮想マシンディスク(VMDK)にのみ含まれています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This GeoServer instance has been configured with the ``NETCDF_DATA_DIR`` Java system property to allow the publication of NetCDF files in read-only directories.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T234908Z" creationid="miurahr" creationdate="20201116T234908Z">
@@ -22211,6 +22443,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Upload and share remote OGC WMS (Capabilities caching)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053623Z" creationid="miurahr" creationdate="20201122T053623Z">
+        <seg>アップロードしてリモートOGC WMS(キャッシュ機能つき)を共有する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use QGIS to view content from a `PostGIS database &lt;https://docs.qgis.org/3.4/en/docs/training_manual/spatial_databases/index.html&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T015754Z" creationid="miurahr" creationdate="20201117T015742Z">
@@ -23543,6 +23783,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>広範な地理的アプリケーションを統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Widgets integrate with server functionality to provide advanced functionality like security proxying, digitizing, auto snapping and more.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053429Z" creationid="miurahr" creationdate="20201122T053429Z">
+        <seg>ウィジェットはサーバ機能と統合され、セキュリティプロキシ、デジタイズ、自動スナップなどの先進的な機能を提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25099,6 +25347,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`Mapbender &lt;https://mapbender.org/en&gt;`_ is a graduated OSGeo project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053238Z" creationid="miurahr" creationdate="20201122T053238Z">
+        <seg>`Mapbender&lt;https://mapbender.org/en&gt;`_は卒業したOSGeoプロジェクトです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`OSGeoLive &lt;https://live.osgeo.org&gt;`_ is a self-contained bootable DVD, USB thumb drive or Virtual Machine based on `Lubuntu &lt;https://lubuntu.net&gt;`_, that allows you to try a wide variety of open source geospatial software without installing anything.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052933Z" creationid="miurahr" creationdate="20201102T052933Z">
@@ -25419,6 +25675,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>add/remove/customize applications</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053534Z" creationid="miurahr" creationdate="20201122T053534Z">
+        <seg>アプリケーションの追加/削除/カスタマイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>adding, moving, deleting vertices</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T103526Z" creationid="smellman" creationdate="20201103T103526Z">
@@ -25495,6 +25759,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T140813Z" creationid="miurahr" creationdate="20201120T140813Z">
         <seg>スタイルを使用して地物に色を適用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>arrange uploaded WMS for overlay</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053650Z" creationid="miurahr" creationdate="20201122T053650Z">
+        <seg>アップロードされたWMSをオーバーレイ用に加工する</seg>
       </tuv>
     </tu>
     <tu>
@@ -25767,6 +26039,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>属性の編集、表示、検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>editing layer visibility</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053707Z" creationid="miurahr" creationdate="20201122T053707Z">
+        <seg>レイヤの可視性を編集する</seg>
       </tuv>
     </tu>
     <tu>
@@ -26255,6 +26535,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OGC 準拠の WMS、WMTS、WFS、WCS などのオンラインで提供される空間データ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>order</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053721Z" creationid="miurahr" creationdate="20201122T053721Z">
+        <seg>順序</seg>
       </tuv>
     </tu>
     <tu>
