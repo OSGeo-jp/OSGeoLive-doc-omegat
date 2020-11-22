@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**API Interfaces:** Python</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050731Z" creationid="miurahr" creationdate="20201122T050731Z">
+        <seg>**API インターフェイス:** Python</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**API Interfaces:** Python / wsgi</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T041941Z" creationid="miurahr" creationdate="20201122T041941Z">
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071902Z" creationid="miurahr" creationdate="20201103T071902Z">
         <seg>**商用サポート:** https://www.qgis.org/en/site/forusers/commercial_support.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Community Support:** Forum at https://groups.google.com/forum/?hl=en#!forum/cesium-dev</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050205Z" creationid="miurahr" creationdate="20201122T050205Z">
+        <seg>**コミュニティサポート:** Forum at https://groups.google.com/forum/?hl=en#!forum/cesium-dev</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Licence:** Apache 2.0 license</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050142Z" creationid="miurahr" creationdate="20201122T050142Z">
+        <seg>**ライセンス:** Apache 2.0 license</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Licence:** BSD</seg>
       </tuv>
       <tuv lang="ja">
@@ -674,6 +698,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051241Z" creationid="smellman" creationdate="20201103T051241Z">
         <seg>**ライセンス:** `MIT license &lt;https://opensource.org/licenses/MIT&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Licence:** `MIT-style license &lt;https://docs.eoxserver.org/en/latest/copyright.html#license&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050716Z" creationid="miurahr" creationdate="20201122T050716Z">
+        <seg>**ライセンス:** `MIT-style license &lt;https://docs.eoxserver.org/en/latest/copyright.html#license&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
@@ -910,10 +942,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-cesium|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050146Z" creationid="miurahr" creationdate="20201122T050146Z">
+        <seg>**ソフトウェアバージョン:** |version-cesium|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-deegree|</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T061817Z" creationid="miurahr" creationdate="20201103T061817Z">
         <seg>**ソフトウェアバージョン:** |version-deegree|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-eoxserver|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050724Z" creationid="miurahr" creationdate="20201122T050724Z">
+        <seg>**ソフトウェアバージョン:** |version-eoxserver|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1190,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Support:** https://docs.eoxserver.org/en/latest/users/basics.html#where-can-i-get-support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050737Z" creationid="miurahr" creationdate="20201122T050737Z">
+        <seg>**サポート:** https://docs.eoxserver.org/en/latest/users/basics.html#where-can-i-get-support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Support:** https://github.com/ec-jrc/re3gistry</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051602Z" creationid="smellman" creationdate="20201103T051602Z">
@@ -1362,6 +1418,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T053451Z" creationid="sanak" creationdate="20201103T053451Z">
         <seg>**サポートする Java バージョン:** 7+, (バンドルバージョン: 8+)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Supported Platforms:**  Platform independent, depends only on a browser which supports WebGL</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050154Z" creationid="miurahr" creationdate="20201122T050154Z">
+        <seg>**対応プラットフォーム:**  Platform independent, depends only on a browser which supports WebGL</seg>
       </tuv>
     </tu>
     <tu>
@@ -1622,10 +1686,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Website:** https://cesium.com/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050135Z" creationid="miurahr" creationdate="20201122T050135Z">
+        <seg>**Webサイト:** https://cesium.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Website:** https://cran.r-project.org</seg>
       </tuv>
       <tuv lang="ja">
         <seg>**Webサイト:** https://cran.r-project.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://docs.eoxserver.org/en/stable/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050706Z" creationid="miurahr" creationdate="20201122T050706Z">
+        <seg>**Webサイト:** https://docs.eoxserver.org/en/stable/</seg>
       </tuv>
     </tu>
     <tu>
@@ -2046,6 +2126,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2-D EO Coverages derived from gmlcov:RectifiedGridCoverage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050608Z" creationid="miurahr" creationdate="20201122T050528Z">
+        <seg>gmlcov:RectifiedGridCoverageから派生した2-D EOカバレッジ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2-D EO Coverages derived from gmlcov:ReferenceableGridCoverage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050559Z" creationid="miurahr" creationdate="20201122T050559Z">
+        <seg>gmlcov:ReferenceableGridCoverageから派生した2-D EOカバレッジ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2.5D rendering support</seg>
       </tuv>
       <tuv lang="ja">
@@ -2134,10 +2230,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/cesium_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050357Z" creationid="miurahr" creationdate="20201122T050357Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/cesium_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>:doc:`Quickstart documentation &lt;../quickstart/deegree_quickstart&gt;`</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T061902Z" creationid="miurahr" creationdate="20201103T061902Z">
         <seg>:doc:`クイックスタート文書 &lt;../quickstart/deegree_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/eoxserver_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050744Z" creationid="miurahr" creationdate="20201122T050744Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/eoxserver_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -2834,6 +2946,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013815Z" creationid="miurahr" creationdate="20201103T013815Z">
         <seg>XML ドキュメントやストアド BLOB 圧縮バイナリオブジェクトへの、"well formed" 構文、及び XSF スキーマ妥当性検証チェック付きアクセス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access core features through the Javascript API</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050942Z" creationid="miurahr" creationdate="20201122T050942Z">
+        <seg>Javascript APIを使用した主な機能へのアクセス</seg>
       </tuv>
     </tu>
     <tu>
@@ -4030,6 +4150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Browser GIS Client</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050804Z" creationid="miurahr" creationdate="20201122T050804Z">
+        <seg>ブラウザGISクライアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Browser based editor for OpenStreetMap</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T064924Z" creationid="miurahr" creationdate="20201103T064924Z">
@@ -4066,6 +4194,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010945Z" creationid="miurahr" creationdate="20201103T010945Z">
         <seg>サイズを減らすため、カスタマイズパッケージとしてビルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build your own use cases and create new widgets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050916Z" creationid="miurahr" creationdate="20201122T050916Z">
+        <seg>独自のユースケースを構築し、新しいウィジェットを作成する</seg>
       </tuv>
     </tu>
     <tu>
@@ -5446,6 +5582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Coverage formats supported:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050650Z" creationid="miurahr" creationdate="20201122T050650Z">
+        <seg>サポートされているカバレッジフォーマット:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create Virtual Procedures that look like normal stations but whose data results from on-the-fly elaboration of other sensor data.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T041818Z" creationid="miurahr" creationdate="20201122T041818Z">
@@ -6534,6 +6678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Easy skinnable through custom CSS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050919Z" creationid="miurahr" creationdate="20201122T050919Z">
+        <seg>カスタムCSSを使用して簡単にスキン可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Easy to use</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010302Z" creationid="miurahr" creationdate="20201103T010302Z">
@@ -6570,6 +6722,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>編集ツール:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Editing and redlining, Print, Geocoding, Layer tree, ...)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050911Z" creationid="miurahr" creationdate="20201122T050911Z">
+        <seg>(編集とレッドライン,印刷,ジオコーディング,レイヤ,...を含む)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6658,6 +6818,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132727Z" creationid="miurahr" creationdate="20201116T132727Z">
         <seg>Super Tabに検索パラメータを入力し、[Go!]ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enterprise Server features</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050952Z" creationid="miurahr" creationdate="20201122T050952Z">
+        <seg>エンタープライズサーバーの機能</seg>
       </tuv>
     </tu>
     <tu>
@@ -7378,6 +7546,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125343Z" creationid="miurahr" creationdate="20201116T125343Z">
         <seg>gdal_translateでフォーマット変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formats supported by the GDAL library</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050656Z" creationid="miurahr" creationdate="20201122T050656Z">
+        <seg>GDALライブラリでサポートされているフォーマット</seg>
       </tuv>
     </tu>
     <tu>
@@ -8578,6 +8754,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042758Z" creationid="miurahr" creationdate="20201103T042758Z">
         <seg>定義の定義済みクエリー可能プロパティを処理します(Dublin CoreおよびISOプロファイルの場合)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Handy collection of built-in widgets (incl.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050855Z" creationid="miurahr" creationdate="20201122T050846Z">
+        <seg>組み込みウィジェットの便利なコレクション</seg>
       </tuv>
     </tu>
     <tu>
@@ -10338,6 +10522,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T065016Z" creationid="miurahr" creationdate="20201103T065016Z">
         <seg>直感的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It allows access to a wide range of data sources and functionality through a web browser.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050816Z" creationid="miurahr" creationdate="20201122T050816Z">
+        <seg>Webブラウザを使用して、幅広いデータソースと機能にアクセスできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12430,6 +12622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No need for browser plug-ins</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050929Z" creationid="miurahr" creationdate="20201122T050923Z">
+        <seg>ブラウザにプラグインが不要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nodes: merge, join, unglue, distribute, align in circle, align in line, join node to way, and more.</seg>
       </tuv>
       <tuv lang="ja">
@@ -12442,6 +12642,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>DVD から直接利用する場合にはハードディスクは使用しません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Not a GWT enthusiast?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050937Z" creationid="miurahr" creationdate="20201122T050937Z">
+        <seg>GWTのファンではありませんか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -14694,6 +14902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Programmable using pure Java through GWT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T051008Z" creationid="miurahr" creationdate="20201122T050823Z">
+        <seg>GWT経由でPure Javaを使用してプログラム可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Programs that work with OSM data</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052222Z" creationid="miurahr" creationdate="20201102T052222Z">
@@ -14786,6 +15002,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proposed extensions to WCS including: GeoTIFF encoding, predefined projections (CRSs), scaling, and interpolation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050505Z" creationid="miurahr" creationdate="20201122T050505Z">
+        <seg>提案されているWCSの拡張:GeoTIFFエンコーディング、定義済み投影法(CRS)、スケーリング、補間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Protocols supported are: KVP and XML/POST (used together with SOAP2POST Proxy to provide also XML/SOAP)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050513Z" creationid="miurahr" creationdate="20201122T050513Z">
+        <seg>サポートされているプロトコルは:KVPとXML/POST(SOAP2POSTプロキシと一緒に使用してXML/SOAPも提供)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Provide additional capabilities built using the spatial facilites of the core library.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012137Z" creationid="miurahr" creationdate="20201103T012137Z">
@@ -14818,6 +15050,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Publish data via |OGC|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050447Z" creationid="miurahr" creationdate="20201122T050447Z">
+        <seg>|OGC| 経由でデータを公開する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Publish sensor data in accordance with the Sensor Observation Service (SOS) standard.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T041746Z" creationid="miurahr" creationdate="20201122T041738Z">
@@ -14830,6 +15070,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>インターネットでの公開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Publish using the following formats and groupings:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050518Z" creationid="miurahr" creationdate="20201122T050518Z">
+        <seg>次の形式とグループ分けを使用してパブリッシュする:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15243,6 +15491,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Register EO data archives</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050435Z" creationid="miurahr" creationdate="20201122T050435Z">
+        <seg>EOデータアーカイブを登録する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Register the new sensor (procedure) pressing the "submit" button.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T025532Z" creationid="miurahr" creationdate="20201122T025532Z">
@@ -15583,6 +15839,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>pgRouting の実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Runs on a wide range of internet devices using HTML5</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050933Z" creationid="miurahr" creationdate="20201122T050933Z">
+        <seg>HTML5を使用してさまざまなインターネットデバイスで動作します</seg>
       </tuv>
     </tu>
     <tu>
@@ -16963,6 +17227,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stitched Mosaics of Rectified EO Coverages including contributingFootprint</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050645Z" creationid="miurahr" creationdate="20201122T050645Z">
+        <seg>修正EOカバレッジのステッチ済みモザイク(contributingFootprintを含む)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Storing spatial data</seg>
       </tuv>
       <tuv lang="ja">
@@ -17223,6 +17495,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042612Z" creationid="miurahr" creationdate="20201103T042612Z">
         <seg>GeoTIFF、リモートWMS、ファイルシステムなどの異なるバックエンドをサポートタイルイメージの階層</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supports many layer types (incl.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050830Z" creationid="miurahr" creationdate="20201122T050830Z">
+        <seg>多くのレイヤタイプをサポートしています</seg>
       </tuv>
     </tu>
     <tu>
@@ -17495,6 +17775,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T060010Z" creationid="miurahr" creationdate="20201103T055953Z">
         <seg>`ASPRS LAS format`_ は LiDAR センサや LiDAR 処理ソフトウェアがデータの保存、交換，アーカイブに使用しているシーケンシャルなバイナリフォーマットです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Client enables developers to create powerful web GIS applications including interactive maps, extensible widgets and custom use cases.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050812Z" creationid="miurahr" creationdate="20201122T050812Z">
+        <seg>このクライアントを使用すると、開発者はインタラクティブなマップ、拡張可能なウィジェット、カスタムユースケースを含む強力なWeb GISアプリケーションを作成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21499,6 +21787,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View, filter, subset, and download EO data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050430Z" creationid="miurahr" creationdate="20201122T050430Z">
+        <seg>EOデータを表示、フィルタ、サブセット作成そしてダウンロードができます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Viewing the metrics requires an Internet connection and Javascript to be enabled.</seg>
       </tuv>
       <tuv lang="ja">
@@ -21599,6 +21895,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>WMS機能:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WMS and WMTS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050130Z" creationid="miurahr" creationdate="20201122T050130Z">
+        <seg>WMSとWMTS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WMS, WFS, WMTS, TMS, OSM, Google Maps, Shape, PostGIS, Oracle, JDBC, …)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050841Z" creationid="miurahr" creationdate="20201122T050841Z">
+        <seg>(WMS, WFS, WMTS, TMS, OSM, Google Maps, Shape, PostGIS, Oracle, JDBC, …を含む)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22039,6 +22351,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Web サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Web based and command line administration interface</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T050439Z" creationid="miurahr" creationdate="20201122T050439Z">
+        <seg>Webベースのコマンドライン管理インターフェイス</seg>
       </tuv>
     </tu>
     <tu>
