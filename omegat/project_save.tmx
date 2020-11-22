@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**API Interfaces:** Python / wsgi</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T041941Z" creationid="miurahr" creationdate="20201122T041941Z">
+        <seg>**API インターフェイス:** Python / wsgi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**API Interfaces:** Qt designer, C++, Python, D-BUS, Shell script</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T070439Z" creationid="miurahr" creationdate="20201103T070439Z">
@@ -958,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-istsos|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T041926Z" creationid="miurahr" creationdate="20201122T041926Z">
+        <seg>**ソフトウエアバージョン:** |version-istsos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-leaflet|</seg>
       </tuv>
       <tuv lang="ja">
@@ -1214,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Support:** https://groups.google.com/forum/#!forum/istsos</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T041951Z" creationid="miurahr" creationdate="20201122T041951Z">
+        <seg>**サポート:** https://groups.google.com/forum/#!forum/istsos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Support:** https://groups.google.com/forum/#!forum/leaflet-js</seg>
       </tuv>
       <tuv lang="ja">
@@ -1406,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Supported Platforms:** Linux, Unix, Mac, Windows</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T041936Z" creationid="miurahr" creationdate="20201122T041936Z">
+        <seg>**対応プラットフォーム:** Linux, Unix, Mac, Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Supported Platforms:** Linux, Windows, Mac</seg>
       </tuv>
       <tuv lang="ja">
@@ -1514,6 +1546,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**Webサイト:** http://geoserver.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** http://istsos.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T041918Z" creationid="miurahr" creationdate="20201122T041918Z">
+        <seg>**Webサイト:** http://istsos.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -2138,6 +2178,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T065132Z" creationid="miurahr" creationdate="20201103T065132Z">
         <seg>:doc:`クイックスタート文書 &lt;../quickstart/ideditor_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/istsos_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T042008Z" creationid="miurahr" creationdate="20201122T042008Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/istsos_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -3110,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Administer sensors and data with an intuitive web-based interface.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T041751Z" creationid="miurahr" creationdate="20201122T041751Z">
+        <seg>直感的なWebベースのインターフェイスでセンサーとデータを管理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Advanced cartographic output</seg>
       </tuv>
       <tuv lang="ja">
@@ -3626,6 +3682,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T000939Z" creationid="miurahr" creationdate="20201117T000939Z">
         <seg>入力を開始すると、検索ラインの下に次のような提案が表示されます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Associate quality indexes to each observation thanks to embedded validation tests.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T041823Z" creationid="miurahr" creationdate="20201122T041823Z">
+        <seg>埋め込み妥当性テストにより、各観測に品質指数を関連付ける。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5358,6 +5422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create Virtual Procedures that look like normal stations but whose data results from on-the-fly elaboration of other sensor data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T041818Z" creationid="miurahr" creationdate="20201122T041818Z">
+        <seg>通常のステーションに似ているが、そのデータが他のセンサーデータのオンザフライで生成される仮想プロシージャを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create a FDW to a WFS</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T003247Z" creationid="miurahr" creationdate="20201117T003247Z">
@@ -5650,6 +5722,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T103124Z" creationid="smellman" creationdate="20201103T103124Z">
         <seg>データフォーマット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data Management Tool</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T041349Z" creationid="miurahr" creationdate="20201122T041349Z">
+        <seg>データ管理ツール</seg>
       </tuv>
     </tu>
     <tu>
@@ -8178,6 +8258,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020900Z" creationid="miurahr" creationdate="20201103T020900Z">
         <seg>ogrinfoでベクタデータに関する情報を取得する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get notified through mail, twitter or other social media when sensor data meets specific conditions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T041806Z" creationid="miurahr" creationdate="20201122T041806Z">
+        <seg>センサーデータが特定の条件を満たした場合、メール、Twitter、その他のソーシャルメディアを通じて通知されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13326,6 +13414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Online editing of data with a seamless interface and advanced observation calculator.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T041827Z" creationid="miurahr" creationdate="20201122T041827Z">
+        <seg>シームレスなインターフェイスと先進的な観測計算機によるデータのオンライン編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Online help: https://wiki.openstreetmap.org/wiki/Merkaartor/Documentation</seg>
       </tuv>
       <tuv lang="ja">
@@ -14634,6 +14730,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Publish sensor data in accordance with the Sensor Observation Service (SOS) standard.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T041746Z" creationid="miurahr" creationdate="20201122T041738Z">
+        <seg>Sensor Observation Service (SOS)標準に従ってセンサーデータを公開する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Publish to the internet</seg>
       </tuv>
       <tuv lang="ja">
@@ -15431,6 +15535,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021840Z" creationid="miurahr" creationdate="20201103T021840Z">
         <seg>SHAPEPATH:ファイルベースのデータ(シェイプファイルやTIFFイメージなど)のベースパスを設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SOS 1.0.0: Basic and Transactional profiles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T041835Z" creationid="miurahr" creationdate="20201122T041835Z">
+        <seg>SOS1.0.0:基本プロファイルとトランザクションプロファイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -20955,6 +21067,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use a complete RestFul API to access istSOS functionality from external clients to create interactive charts, display sensor on a dynamic map or just write some maintenance scripts.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T041800Z" creationid="miurahr" creationdate="20201122T041800Z">
+        <seg>完全なRESTful APIを使用して、外部クライアントからistSOS機能にアクセスし、インタラクティブなチャートを作成したり、動的な地図にセンサーを表示したり、メンテナンススクリプトを記述したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use bookmarks in Marble to remember the location of something.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T000958Z" creationid="miurahr" creationdate="20201117T000943Z">
@@ -21055,6 +21175,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T143033Z" creationid="miurahr" creationdate="20201120T143033Z">
         <seg>ズームツールを使用して、表示したい世界の領域の周りに左マウスボタンでボックスを描画します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>User authentication and authorization with different access levels (administrator, network manager, data manager and visitor).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T041813Z" creationid="miurahr" creationdate="20201122T041813Z">
+        <seg>異なるアクセスレベル(管理者、ネットワーク管理者、データマネージャ、訪問者)でのユーザ認証</seg>
       </tuv>
     </tu>
     <tu>
@@ -24663,6 +24791,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T022235Z" creationid="miurahr" creationdate="20201122T022235Z">
         <seg>istSOSはGPLv2ライセンスでリリースされ、すべての主要プラットフォーム(Windows、Linux、Mac OS X)で動作します。ただし、これまでLinux環境でのみ使用されていました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>istSOS is sensor data management tool that allows collection, maintenance and publishing of monitoring observations using the Open Geospatial Consortium (OGC) |SOS| standard.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T041406Z" creationid="miurahr" creationdate="20201122T041406Z">
+        <seg>istSOSはセンサーデータ管理ツールで、オープン地理空間コンソーシアム(OGC) |SOS| 標準を使用したモニタリング観測の収集、メンテナンス、および公開を可能にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>istSOS strictly implements the SOS 1.0.0 standard, and has passed the OGC CITE (Compliance + Interopability Testing + Evaluation) units tests.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T041426Z" creationid="miurahr" creationdate="20201122T041426Z">
+        <seg>istSOSはSOS1.0.0標準を厳密に実装しており、OGC CITE(Compliance+Interopability Testing+Evaluation)ユニットテストに合格しています。</seg>
       </tuv>
     </tu>
     <tu>
