@@ -13,6 +13,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>GRASS 7</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GRASS 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>R</seg>
       </tuv>
       <tuv xml:lang="ja">

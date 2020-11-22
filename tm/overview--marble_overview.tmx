@@ -5,10 +5,170 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>Marble</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Marble</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Virtual globe and world atlas</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>バーチャル地球儀と世界地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Marble is an open source KDE Education Project program similar to `NASA World Wind &lt;https://worldwind.arc.nasa.gov/java/&gt;`_ or Google Earth. Besides choosing any number of maps to view on your globe (including `OpenStreetMaps &lt;https://www.openstreetmap.org&gt;`_), you are encouraged to include a KDE Marble widget in your application.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Marbleは「NASA World Wind&lt;https://worldwind.arc.nasa.gov/java/&gt;」やGoogle Earthに似たオープンソースのKDE Education Projectプログラムです。地球儀に表示する(`OpenStreetMaps&lt;https://www.openstreetmap.org&gt;`_ を含む)マップをいろいろ選択するだけでなく、アプリケーションにKDE Marbleウィジェットを含めることをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Explore the neighborhood with Marble's rich set of city and street level maps. Search for addresses and places of interest. Marble takes care of querying various search backends and presents their results in a unified view. Calculate pedestrian, bike and motorcar routes with ease - online and offline, with an arbitrary number of via points.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Marbleの都市および街路レベルマップの豊富なセットを使用して、周辺を探索します。住所と名所を検索します。Marbleはさまざまな検索バックエンドをクエリーし、その結果を統一されたビューで表示します。任意の数の経由ポイントを使用して、オンラインとオフラインで、歩行者、自転車、自動車のルートを簡単に計算できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start exploring the world. View clouds and sun shadow, follow satellites and space stations and display their orbits, all updated in real-time. Travel back in time and learn about historic views of our planet using maps from past centuries. Earth is not enough? Marble also offers maps of the moon and other planets.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>世界を探検しよう。雲や太陽の影を表示したり、衛星や宇宙ステーションを追跡したり、それらの軌道を表示したりします。これらはすべてリアルタイムで更新されます。昔に戻り、過去数世紀の地図を使って、私たちの惑星の歴史的な眺めについて学びましょう。地球だけでは十分じゃない?Marbleは月や他の惑星の地図も提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Virtual Globe And World Atlas</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>バーチャル地球儀と世界地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Easy to use</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>使いやすい</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A great solution for the geography lessons</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地理の学習に最適なソリューション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Map Presentation (Atlas View, Street Maps, Satellite Maps, Topographic Maps, Educational Maps)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地図表示(地図帳、街路図、衛星地図、地形図、教育用地図)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Navigate globe in 3D</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地球儀を3Dでナビゲートする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>3 different projections are available (3D Globe, Flat Map, Mercator)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>3種類の投影を使用できます(3D地球儀、平面図、メルカトル)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Information layers (Weather, Real-time clouds, Day/Night View, Real-time Satellites, Wikipedia Articles, Photos, Postal Codes, Earthquakes)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>情報レイヤー(天気、リアルタイム・クラウド、昼/夜ビュー、リアルタイム衛星、ウィキペディアの記事、写真、郵便番号、地震)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Search (Online address search, Online POI search)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検索(オンライン住所検索、オンラインPOI検索)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Positioning &amp; Tracking (GPS and WLAN localization, Track export in KML)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Positioning&amp;Tracking(GPSとWLANのローカリゼーション、KMLでのトラックエクスポート)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Routing &amp; Navigation (Voice navigation, Online motorcar routing, Online bike routing, Online pedestrian routing, Offline routing optional download, Turn-by-turn navigation)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ルーティングとナビゲーション(音声ナビゲーション、オンラインでの自動車のルーティング、オンラインでの自転車のルーティング、オンラインでの歩行者のルーティング、オフラインでのルーティング(オプション)のダウンロード、曲がり角ごとのナビゲーション)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Interactive KML tours (Creating, editing, viewing)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>インタラクティブなKMLツアー(作成、編集、表示)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Integration with many online services (Amateur Radio Aprs, OpenCaching.com, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>多くのオンラインサービス(Amateur Radio Aprs、OpenCaching.comなど)との統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>WMS &amp; TMS support</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>WMSとTMSのサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tools (Distance Measurement, Bookmarks, Time Simulation, Offline Mode)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ツール(距離測定、ブックマーク、時間シミュレーション、オフラインモード)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`OpenStreetMap &lt;https://www.openstreetmap.org&gt;`_ integration</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`OpenStreetMap &lt;https://www.openstreetmap.org&gt;`_ 統合</seg>
       </tuv>
     </tu>
     <tu>
@@ -21,10 +181,74 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Website:** https://marble.kde.org/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://marble.kde.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** GNU Lesser General Public License (LGPL) version 2.1</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** GNU Lesser General Public License (LGPL) version 2.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-marble|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウエアバージョン:** |version-marble|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** GNU/Linux, Mac OSX, MS Windows, Maemo 5</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** GNU/Linux, Mac OSX, MS Windows, Maemo 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**API Interfaces:** Qt designer, C++, Python, D-BUS, Shell script</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**API インターフェイス:** Qt designer, C++, Python, D-BUS, Shell script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Support:** https://techbase.kde.org/Projects/Marble</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** https://techbase.kde.org/Projects/Marble</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**More Info:** https://www.slideshare.net/marbleglobe/marble-1-6en</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**詳細情報:** https://www.slideshare.net/marbleglobe/marble-1-6en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Quickstart</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/marble_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/marble_quickstart&gt;`</seg>
       </tuv>
     </tu>
   </body>

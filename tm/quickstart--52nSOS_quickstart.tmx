@@ -27,5 +27,13 @@
         <seg>次のステップ</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The development of this version of the 52°North SOS was supported by different projects, organizations, and persons. More details can be found in the `52°North SOS client &lt;http://localhost:8080/52nSOS/index&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このバージョンの 52°North SOS の開発は、様々なプロジェクト、組織、メンバーによってサポートされています。詳細については `52°North SOS client &lt;http://localhost:8080/52nSOS/index&gt;`_ を参照してください。</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>

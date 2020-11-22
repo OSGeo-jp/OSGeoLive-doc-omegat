@@ -4,8 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Ko Nagase <nagase@georepublic.co.jp>, 2019
 # MarPetra <mvergaratrejo@gmail.com>, 2020
+# Ko Nagase <nagase@georepublic.co.jp>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-21 10:22-0500\n"
 "PO-Revision-Date: 2017-09-20 16:07+0000\n"
-"Last-Translator: MarPetra <mvergaratrejo@gmail.com>, 2020\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2020\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,7 +24,7 @@ msgstr ""
 
 #: ../../build/doc/overview/52nWPS_overview.rst:15
 msgid "52 North WPS"
-msgstr ""
+msgstr "52 North WPS"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:18
 msgid "About"
@@ -38,46 +38,48 @@ msgid ""
 "influenza cases between two different seasons, or as complicated as a global"
 " climate change model."
 msgstr ""
+"52°North WPSは、Sextante、ArcGIS "
+"Server、R、GRASS7、またはカスタム開発関数によって提供される空間処理アルゴリズムへのWebアクセスを可能にします。アルゴリズムは、2つの異なる季節の間のインフルエンザ症例の差を決定するような単純なものであっても、地球規模の気候変動モデルのような複雑なものであってもかまいません。"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:32
 msgid "Core Features"
-msgstr "主な機能"
+msgstr "主要機能"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:34
 msgid "Core GIS functions:"
-msgstr ""
+msgstr "コアGIS機能:"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:36
 msgid "SimpleBufferAlgorithm"
-msgstr ""
+msgstr "SimpleBufferAlgorithm"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:37
 msgid "DouglasPeuckerAlgorithm"
-msgstr ""
+msgstr "DouglasPeuckerAlgorithm"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:38
 msgid "IntersectionAlgorithm"
-msgstr ""
+msgstr "IntersectionAlgorithm"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:39
 msgid "AddRasterValuesAlgorithm"
-msgstr ""
+msgstr "AddRasterValuesAlgorithm"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:40
 msgid "CoordinateTransformAlgorithm"
-msgstr ""
+msgstr "CoordinateTransformAlgorithm"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:42
 msgid "Backend algorithms available through:"
-msgstr ""
+msgstr "Backend algorithms available through:"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:44
 msgid "Sextante"
-msgstr ""
+msgstr "Sextante"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:45
 msgid "ArcGIS Server"
-msgstr ""
+msgstr "ArcGIS Server"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:46
 msgid "R"
@@ -85,28 +87,28 @@ msgstr "R"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:47
 msgid "GRASS 7"
-msgstr ""
+msgstr "GRASS 7"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:49
 msgid "Input and Output formats supported:"
-msgstr ""
+msgstr "サポートされている入力形式と出力形式:"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:51
 msgid ""
 "Vector Data: GML2, GML3, SHP files, KML, WKT (Well-known Text), DGN, JSON"
-msgstr ""
+msgstr "ベクタデータ: GML2, GML3, SHP files, KML, WKT (Well-known Text), DGN, JSON"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:52
 msgid "Raster Data: Geotiff, AsciiGrid, NetCDF, JPEG, PNG, HDF-EOS, ERDAS HFA"
-msgstr ""
+msgstr "ラスタデータ: Geotiff, AsciiGrid, NetCDF, JPEG, PNG, HDF-EOS, ERDAS HFA"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:53
 msgid "Outputs can be stored in GeoServer/MapServer"
-msgstr ""
+msgstr "出力はGeoServer/MapServerに保存可能"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:55
 msgid "A browser based client"
-msgstr ""
+msgstr "ブラウザベースのクライアント"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:58
 msgid "Implemented Standards"
@@ -114,15 +116,15 @@ msgstr "実装されている標準規格"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:60
 msgid "|WPS|"
-msgstr ""
+msgstr "|WPS|"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:61
 msgid "OGC GML2 SimpleFeatures"
-msgstr ""
+msgstr "OGC GML2 SimpleFeatures"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:62
 msgid "OGC GML3 SimpleFeatures"
-msgstr ""
+msgstr "OGC GML3 SimpleFeatures"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:65
 msgid "Details"
@@ -130,15 +132,15 @@ msgstr "詳細"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:67
 msgid "**Website:** https://52north.org/software/software-projects/wps"
-msgstr ""
+msgstr "**Webサイト:** https://52north.org/software/software-projects/wps"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:69
 msgid "**Licence:** GPL 2"
-msgstr ""
+msgstr "**ライセンス:** GPL 2"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:71
 msgid "**Software Version:** |version-52nWPS|"
-msgstr ""
+msgstr "**ソフトウェアバージョン:** |version-52nWPS|"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:73
 msgid "**Supported Platforms:** Windows, Linux, Mac"
@@ -146,11 +148,11 @@ msgstr "**対応プラットフォーム:** Windows, Linux, Mac"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:75
 msgid "**Commercial Support:** https://52north.org/services/"
-msgstr ""
+msgstr "**商用サポート:** https://52north.org/services/"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:77
 msgid "**Other 52°North projects:** :doc:`SOS <./52nSOS_overview>`"
-msgstr ""
+msgstr "**その他のr 52°North プロジェクト:** :doc:`SOS <./52nSOS_overview>`"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:83
 msgid "Quickstart"
@@ -158,4 +160,4 @@ msgstr "クイックスタート"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:85
 msgid ":doc:`Quickstart documentation <../quickstart/52nWPS_quickstart>`"
-msgstr ""
+msgstr ":doc:`クイックスタート文書 <../quickstart/52nWPS_quickstart>`"

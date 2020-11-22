@@ -24,7 +24,7 @@
         <seg>QGIS is a user friendly, Open Source, GIS client where you can visualize, manage, edit, analyse data, and compose printable maps. It includes powerful analytical functionality through integration with :doc:`GRASS &lt;grass_overview&gt;`, :doc:`SAGA &lt;saga_overview&gt;`, :doc:`Orfeo Toolbox &lt;otb_overview&gt;` , :doc:`GDAL/OGR &lt;gdal_overview&gt;` and many other algorithm providers. It runs on Linux, Unix, Mac OSX, and Windows and supports numerous vector, raster and database formats and functionality.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>QGIS はユーザフレンドリーなオープンソースの GIS クライアントで、データの可視化、管理、編集、印刷用地図の作成が出来ます。 :doc:`GRASS &lt;grass_overview&gt;`, :doc:`SAGA &lt;saga_overview&gt;`, :doc:`Orfeo Toolbox &lt;otb_overview&gt;` , :doc:`GDAL/OGR &lt;gdal_overview&gt;` などを始めとする多くのアルゴリズムを統合した強力な分析機能を含んでいます。Linux、Unix、Mac OSX、Windows 上で動作し、多くのベクタ、ラスタ、データベースのフォーマットと機能に対応しています。</seg>
+        <seg>QGISはユーザフレンドリなデスクトップGISクライアントで、データの視覚化、管理、編集、分析、印刷可能なマップの作成を行うことができます。 :doc:`GRASS &lt;grass_overview&gt;`, :doc:`SAGA &lt;saga_overview&gt;`, :doc:`Orfeo Toolbox &lt;otb_overview&gt;` , :doc:`GDAL/OGR &lt;gdal_overview&gt;` などを始めとする多くのアルゴリズムを統合した強力な分析機能を含んでいます。Linux、Unix、Mac OSX、Windows 上で動作し、多くのベクタ、ラスタ、データベースのフォーマットと機能に対応しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32,7 +32,7 @@
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
       </tuv>
     </tu>
     <tu>

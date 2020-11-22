@@ -77,10 +77,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>IRC users might try the #osgeolive or #osgeo channel at Freenode.net for real-time assistance. You also can meet us at Slack, Matrix or Glitter.</seg>
+        <seg>IRC users might try the #osgeolive or #osgeo channel at Freenode.net for real-time assistance.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>IRC ユーザーは、 Freenode.net の #osgeolive または #osgeo チャンネル でのリアルタイムによる支援をお試しください。 Slack、Matrix、もしくは Glitter でも私たちと会うことができます。</seg>
+        <seg>IRC ユーザーは、 Freenode.net の #osgeolive または #osgeo チャンネル でのリアルタイムによる支援をお試しください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You also can meet us at Slack, Matrix or Glitter.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Slack、Matrix、もしくは Glitter でも私たちと会うことができます。</seg>
       </tuv>
     </tu>
     <tu>

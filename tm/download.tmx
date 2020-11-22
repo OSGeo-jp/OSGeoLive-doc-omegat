@@ -61,10 +61,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>This is a pre-made virtual machine (.vmdk), based on osgeolive, suitable for use in VirtualBox, VMWare, KVM and other virtual machine applications. It has been compressed using `7-Zip &lt;https://www.7-zip.org/&gt;`_.</seg>
+        <seg>This is a pre-made virtual machine (.vmdk), based on osgeolive, suitable for use in VirtualBox, VMWare, KVM and other virtual machine applications.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>VirtualBox、VMWare、KVM などの仮想マシンに適した、OSGeoLiveに基づいて事前作成された仮想マシン(.vmdk)です。 `7-Zip &lt;https://www.7-zip.org/&gt;`_ で圧縮されています。</seg>
+        <seg>VirtualBox、VMWare、KVM などの仮想マシンに適した、OSGeoLiveに基づいて事前作成された仮想マシン(.vmdk)です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It has been compressed using `7-Zip &lt;https://www.7-zip.org/&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`7-Zip &lt;https://www.7-zip.org/&gt;`_ で圧縮されています。</seg>
       </tuv>
     </tu>
     <tu>

@@ -44,70 +44,74 @@ msgid ""
 "updating reference codes in a consistent way. The Re3gistry software version"
 " numbers comply with the Semantic Versioning Specification 2.0.0."
 msgstr ""
+"Re3gistry "
+"2は、「リファレンスコード」を管理および共有するための再利用可能なオープンソースソリューションです。当初はEUの:doc:`INSPIRE<inspire_overview>`インフラストラクチャの中心的なコンポーネントとして開発されたもので、リファレンスコードのラベルと説明を人間が簡単にブラウズし、マシンが検索できる一貫した中央アクセスポイントを提供します。リファレンスコードは、何らかの「もの」を一意に参照するためにアプリケーション間で交換されます。これらを使用して、データフィールドの許容値のセットを定義したり、交換されるデータの参照またはコンテキストを提供したりできます。例としては、列挙、統制された語彙、分類法、シソーラス、あるいは単に「ものの一覧」があります。Re3gistry"
+" "
+"2は、組織が一貫した方法で参照コードを管理し更新することを支援しています。Re3gistryソフトウェアのバージョン番号は、セマンティック・バージョン付与標準2.0.0に準拠しています。"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:34
 msgid "Core Features"
-msgstr "主な機能"
+msgstr "主要機能"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:36
 msgid ""
 "User-friendly editing interface to easily add, edit and manage the registers"
 " and reference codes"
-msgstr ""
+msgstr "登録者とリファレンスコードの追加、編集、管理を容易にする使いやすい編集インタフェース"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:37
 msgid ""
 "Management of the full lifecycle of the reference codes (based on the ISO "
 "19135 Standard)"
-msgstr ""
+msgstr "(ISO19135規格に基づく)リファレンスコードのライフサイクル全体の管理"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:38
 msgid "Highly flexible and customisable data models"
-msgstr ""
+msgstr "柔軟性とカスタマイズ性に優れたデータ・モデル"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:39
 msgid "Multi-lingual content support"
-msgstr ""
+msgstr "多言語コンテンツのサポート"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:40
 msgid "Support for versioning"
-msgstr ""
+msgstr "バージョン管理のサポート"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:41
 msgid "RESTful API with content negotiation (including OpenAPI 3 descriptor)"
-msgstr ""
+msgstr "コンテンツネゴシエーションを持つ(OpenAPI 3記述子を含む)RESTful API"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:42
 msgid "Free-text search"
-msgstr ""
+msgstr "自由文検索"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:43
 msgid "Supported formats: HTML, ISO 19135 XML, JSON"
-msgstr ""
+msgstr "サポートされるフォーマット:HTML、ISO19135XML、JSON"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:44
 msgid ""
 "Service formats can be easily added or customised (default formats: JSON and"
 " ISO 19135 XML)"
-msgstr ""
+msgstr "サービスフォーマットは簡単に追加またはカスタマイズできる(デフォルトフォーマット:JSONとISO19135XML)"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:45
 msgid "Multiple authentication options"
-msgstr ""
+msgstr "複数の認証オプション"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:46
 msgid "Externally governed items referenced through URIs"
-msgstr ""
+msgstr "URIを通じて参照される外部的に管理される項目"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:47
 msgid ""
 "INSPIRE register federation format support (option to automatically create "
 "the RoR format)"
-msgstr ""
+msgstr "INSPIREレジスタフェデレーションフォーマットのサポート(RoRフォーマットを自動的に作成するオプション)"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:48
 msgid "Web-app to access the reference codes in a human readable way."
-msgstr ""
+msgstr "人間が読める方法で参照コードにアクセスするためのWebアプリケーション。"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:51
 msgid "Details"
@@ -115,19 +119,19 @@ msgstr "詳細"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:53
 msgid "**Website:** https://github.com/ec-jrc/re3gistry"
-msgstr ""
+msgstr "**ウェブサイト:**https://github.com/ec-jrc/re3gistry"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:55
 msgid "**Licence:** EUPL"
-msgstr ""
+msgstr "**ライセンス:**EUPL"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:57
 msgid "**Software Version:** |version-re3gistry|"
-msgstr ""
+msgstr "**ソフトウェアバージョン:**version-re3gistry"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:59
 msgid "**Supported Platforms:** Windows, Linux"
-msgstr ""
+msgstr "**対応プラットフォーム:** Windows, Linux"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:61
 msgid "**API Interfaces:** Java"
@@ -135,25 +139,31 @@ msgstr "**API インターフェイス:** Java"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:63
 msgid "**Support:** https://github.com/ec-jrc/re3gistry"
-msgstr ""
+msgstr "**サポート:**https://github.com/ec-jrc/re3gistry"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:65
 msgid ""
 "**User manual:** https://github.com/ec-"
 "jrc/re3gistry/blob/master/documentation/user-manual.md"
 msgstr ""
+"**ユーザーマニュアル:**https://github.com/ec-jrc/re3gistry/blob/master/documentation"
+"/user-manual.md"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:67
 msgid ""
 "**Administrator manual:** https://github.com/ec-"
 "jrc/re3gistry/blob/master/documentation/administrator-manual.md"
 msgstr ""
+"**管理者マニュアル:**https://github.com/ec-jrc/re3gistry/blob/master/documentation"
+"/administrator-manual.md"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:69
 msgid ""
 "**Developer manual:** https://github.com/ec-"
 "jrc/re3gistry/blob/master/documentation/developer-manual.md"
 msgstr ""
+"**開発者マニュアル:**https://github.com/ec-jrc/re3gistry/blob/master/documentation"
+"/developer-manual.md"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:74
 msgid "Quickstart"
@@ -161,4 +171,4 @@ msgstr "クイックスタート"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:76
 msgid ":doc:`Quickstart documentation <../quickstart/re3gistry_quickstart>`"
-msgstr ""
+msgstr ":doc:`クイックスタートドキュメント<./quickstart/re3gistry_quickstart>`"

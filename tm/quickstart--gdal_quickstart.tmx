@@ -37,10 +37,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>The only thing you'll need for this quickstart is a terminal. If you want to visualize the results, you can use one of the Desktop GIS Software applications on OSGeoLive like :doc:`../overview/qgis_overview`.</seg>
+        <seg>The only thing you'll need for this quickstart is a terminal.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>このクイックスタートに必要なのはターミナルだけです。 結果を視覚化する場合は、:doc:`../overview/qgis_overview` のように、OSGeoLiveでデスクトップGISソフトウェアアプリケーションのいずれかを使用できます。</seg>
+        <seg>このクイックスタートに必要なのはターミナルだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you want to visualize the results, you can use one of the Desktop GIS Software applications on OSGeoLive like :doc:`../overview/qgis_overview`.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>結果を視覚化する場合は、:doc:`../overview/qgis_overview` のように、OSGeoLiveでデスクトップGISソフトウェアアプリケーションのいずれかを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53,10 +61,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>You will find the demo data at :file:`/usr/local/share/data`. We want to have a look at the :doc:`Natural Earth data &lt;../overview/naturalearth_overview&gt;` in this quickstart. We want to work with a copy of the data. So the first step is to copy the data to your home directory.</seg>
+        <seg>You will find the demo data at :file:`/usr/local/share/data`.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>デモデータは、ファイル：`/usr/local/share/data` にあります。 このクイックスタートで：doc： `自然地球データ&lt;../ overview / naturalearth_overview&gt;`を確認してください。 データのコピーを操作したいと考えています。 したがって、最初のステップは、データをホームディレクトリにコピーすることです。</seg>
+        <seg>デモデータは、ファイル：`/usr/local/share/data` にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We want to have a look at the :doc:`Natural Earth data &lt;../overview/naturalearth_overview&gt;` in this quickstart.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このクイックスタートで：doc： `自然地球データ&lt;../ overview / naturalearth_overview&gt;`を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We want to work with a copy of the data.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データのコピーを操作したいと考えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>So the first step is to copy the data to your home directory.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>したがって、最初のステップは、データをホームディレクトリにコピーすることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -181,10 +213,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>Note how the poles are clipped?  This is because the edges at the pole can't be reprojected gdalwarp does not read all the data.  We can force gdalwarp to read a bunch of surplus data around chunks as one way to resolve this. Read more about this in the RasterTutorial https://trac.osgeo.org/gdal/wiki/UserDocs/RasterProcTutorial.</seg>
+        <seg>Note how the poles are clipped?</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>ポールがどのようにクリップされているかに注意してください？ これは、極のエッジを再投影できないためです。gdalwarpはすべてのデータを読み取りません。 これを解決する1つの方法として、gdalwarpにチャンク周辺の余剰データを強制的に読み取らせることができます。 この詳細については、ラスターチュートリアル https://trac.osgeo.org/gdal/wiki/UserDocs/RasterProcTutorial を参照してください。</seg>
+        <seg>ポールがどのようにクリップされているかに注意してください？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is because the edges at the pole can't be reprojected gdalwarp does not read all the data.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>これは、極のエッジを再投影できないためです。gdalwarpはすべてのデータを読み取りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We can force gdalwarp to read a bunch of surplus data around chunks as one way to resolve this.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>これを解決する1つの方法として、gdalwarpにチャンク周辺の余剰データを強制的に読み取らせることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Read more about this in the RasterTutorial https://trac.osgeo.org/gdal/wiki/UserDocs/RasterProcTutorial.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>この詳細については、ラスターチュートリアル https://trac.osgeo.org/gdal/wiki/UserDocs/RasterProcTutorial を参照してください。</seg>
       </tuv>
     </tu>
     <tu>

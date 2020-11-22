@@ -53,6 +53,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Windows, Linux</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** Windows, Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Quickstart</seg>
       </tuv>
       <tuv xml:lang="ja">

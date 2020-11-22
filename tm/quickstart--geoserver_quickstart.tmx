@@ -13,10 +13,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>GeoServer is a java application for serving maps (and data) for other clients (such as web browsers) to draw. GeoServer comes with a browser-based management interface and connects to multiple data sources at the back end.</seg>
+        <seg>GeoServer is a java application for serving maps (and data) for other clients (such as web browsers) to draw.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>GeoServerは、他のクライアント（Webブラウザーなど）が描画するマップ（およびデータ）を提供するJavaアプリケーションです。 GeoServerにはブラウザベースの管理インターフェースが付属しており、バックエンドで複数のデータソースに接続します。</seg>
+        <seg>GeoServerは、他のクライアント（Webブラウザーなど）が描画するマップ（およびデータ）を提供するJavaアプリケーションです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoServer comes with a browser-based management interface and connects to multiple data sources at the back end.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoServerにはブラウザベースの管理インターフェースが付属しており、バックエンドで複数のデータソースに接続します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77,10 +85,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>From the Start menu, select |osgeolive-appmenupath-geoserver|. The application will take a few moments to start up and will open a web page at http://localhost:8082/geoserver/web</seg>
+        <seg>From the Start menu, select |osgeolive-appmenupath-geoserver|.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>スタートメニューから、|osgeolive-appmenupath-geoserver|を選択します。 アプリケーションの起動には少し時間がかかり、http://localhost:8082/geoserver/web でWebページが開きます。</seg>
+        <seg>スタートメニューから、|osgeolive-appmenupath-geoserver|を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The application will take a few moments to start up and will open a web page at http://localhost:8082/geoserver/web</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アプリケーションの起動には少し時間がかかり、http://localhost:8082/geoserver/web でWebページが開きます。</seg>
       </tuv>
     </tu>
     <tu>

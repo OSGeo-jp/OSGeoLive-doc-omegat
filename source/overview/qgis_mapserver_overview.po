@@ -4,8 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Ko Nagase <nagase@georepublic.co.jp>, 2019
 # MarPetra <mvergaratrejo@gmail.com>, 2020
+# Ko Nagase <nagase@georepublic.co.jp>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-21 10:22-0500\n"
 "PO-Revision-Date: 2017-09-20 16:09+0000\n"
-"Last-Translator: MarPetra <mvergaratrejo@gmail.com>, 2020\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2020\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,7 +24,7 @@ msgstr ""
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:14
 msgid "QGIS Server"
-msgstr ""
+msgstr "QGISサーバー"
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:17
 msgid "Web Service"
@@ -39,19 +39,22 @@ msgid ""
 "exactly the same as in the desktop. QGIS Server is usually run as "
 "CGI/FastCGI module within the Apache Webserver."
 msgstr ""
+"QGISサーバは、GIS(QGIS)デスクトップアプリケーションと同じライブラリを使用して、Webマップおよびフィーチャサービス(WMS & "
+"WFS)を提供します。QGISのデスクトップで作成されたマップと印刷テンプレートは、QGISプロジェクトファイルをサーバディレクトリにコピーするだけで、Webマップとしてパブリッシュできます。作成されるWebマップは、デスクトップとまったく同じように表示されます。QGISサーバーは通常、Apache"
+" Webserver内でCGI/FastCGIモジュールとして実行されます。"
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:30
 msgid "Core Features"
-msgstr "主な機能"
+msgstr "主要機能"
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:32
 msgid "Web Map Service (WMS) - images"
-msgstr ""
+msgstr "Web Map Service(WMS):イメージ"
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:33
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:45
 msgid "OGC Web Map Tile Service (WMTS) 1.0.0"
-msgstr ""
+msgstr "OGC Web Map Tile Service (WMTS) 1.0.0"
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:34
 msgid "Web Feature Service (WFS) - vectors"
@@ -59,23 +62,23 @@ msgstr ""
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:35
 msgid "Built-in PDF output"
-msgstr ""
+msgstr "組み込みのPDF出力"
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:36
 msgid "WYSIWYG map creation with QGIS"
-msgstr ""
+msgstr "QGISを使用したWYSIWYGマップの作成"
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:37
 msgid "Advanced cartographic symbolisation"
-msgstr ""
+msgstr "高度な地図記号"
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:38
 msgid "Supports Styled Layer Descriptor (SLD)"
-msgstr ""
+msgstr "Styled Layer Descriptor (SLD)をサポート"
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:39
 msgid "Extra parameters like f.e. FILTER, SELECTION, DPI"
-msgstr ""
+msgstr "f.e.などの追加パラメータFILTER, SELECTION, DPI"
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:42
 msgid "Implemented Standards"
@@ -112,17 +115,18 @@ msgstr "**ライセンス:** GPL"
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:57
 msgid "**Software Version:** |version-qgis_mapserver|"
-msgstr ""
+msgstr "**ソフトウエアバージョン:** |version-qgis_mapserver|"
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:59
 msgid "**Supported Platforms:** Windows, Linux"
-msgstr ""
+msgstr "**対応プラットフォーム:** Windows, Linux"
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:61
 msgid ""
 "**Commercial Support:** "
 "https://www.qgis.org/en/site/forusers/commercial_support.html"
 msgstr ""
+"**商用サポート:** https://www.qgis.org/en/site/forusers/commercial_support.html"
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:67
 msgid "Quickstart"
@@ -131,4 +135,4 @@ msgstr "クイックスタート"
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:69
 msgid ""
 ":doc:`Quickstart documentation <../quickstart/qgis_mapserver_quickstart>`"
-msgstr ""
+msgstr ":doc:`クイックスタート文書 <../quickstart/qgis_mapserver_quickstart>`"

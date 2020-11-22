@@ -32,7 +32,167 @@
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Definition of interfaces for key spatial concepts and data structures</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>主要な空間概念とデータ構造のためのインタフェースの定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Integrated Geometry support provided by `JTS Topology Suite (JTS) &lt;https://sourceforge.net/projects/jts-topo-suite/&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>統合されたジオメトリのサポートは、`JTS Topology Suite(JTS)&lt;https://sourceforge.net/projects/jts-topo-suite/&gt;`_によって提供されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attribute and spatial filters using OGC Filter Encoding specification</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OGC Filter Encoding仕様を使用する属性および空間フィルタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A clean data access API supporting feature access, transaction support and locking between threads</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スレッド間、トランザクションサポート、スレッド間のロックをサポートするクリーンなデータアクセスAPI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Access GIS data in many file formats and spatial databases</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>多くのファイル形式および空間データベースのGISデータにアクセスする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Coordinate reference system and transformation support</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>座標参照系と変換サポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Work with an extensive range of map projections</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>広範囲のマップ投影を使用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>filter and analyze data in terms of spatial and non-spatial attributes</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>空間的および非空間的属性に関してデータをフィルタ処理および分析する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A stateless, low memory renderer, particularly useful in server-side environments.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ステートレスでメモリの少ないレンダラ。サーバ側の環境で特に便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>compose and display maps with complex styling</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>複雑なスタイルを使用してマップを作成および表示する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Powerful *schema assisted* parsing technology using XML Schema to bind to GML content</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>XML Schemaを使用してGMLコンテンツにバインドする強力な*schema assisted*解析テクノロジ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The parsing / encoding technology is provided with bindings for many OGC standards including GML, Filter, KML, SLD, and SE.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>構文解析/符号化技術は、GML、Filter、KML、SLD、およびSEを含む多くのOGC標準のバインディングを備えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoTools Plugins: open plug-in system allowing you to teach the library additional formats</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoToolsプラグイン:ライブラリに追加のフォーマットを追加ができるオープンなプラグインシステム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Plug-ins for the ImageIO-EXT project allowing GeoTools to read additional raster formats from GDAL</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GDALから追加のラスター形式を読み込めるようにするImageIO-EXTプロジェクトのプラグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoTools Extensions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoTools拡張機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Provide additional capabilities built using the spatial facilites of the core library.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>コアライブラリのspatial facilitesを使用して構築された追加機能を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Extensions provide graph and networking support (for finding the shortest path), validation, a web map server client, bindings for xml parsing and encoding and color brewer.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>拡張機能は、(最短パスを見つけるための)グラフとネットワーキングのサポート、検証、Webマップサーバクライアント、XML構文解析とエンコーディングのバインディング、そしてカラーbrewerを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoTools Unsupported</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サポートされていないGeoTools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoTools also operates as part of a wider community with a staging area used to foster new talent and promote experimentation.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoToolsはまた、新しい人材を育成し、実験を促進するために使用されるステージング領域を持つ、より広いコミュニティの一部として動作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some highlights are swing support (used in geotools tutorials), swt, local and web process support, additional symbology, additional data formats, generation of grids and a couple of implementations of ISO Geometry.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>注目すべき点は、スイングサポート(geotoolsチュートリアルで使用)、swt、ローカルおよびWebプロセスサポート、追加の記号、追加のデータフォーマット、グリッドの生成、およびISOジオメトリのいくつかの実装です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45,10 +205,138 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>raster formats and data access:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ラスター形式とデータアクセス:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>arcsde, arcgrid, geotiff, grassraster, gtopo30, image (JPEG, TIFF, GIF, PNG), imageio-ext-gdal, imagemoasaic, imagepyramid, JP2K, matlab.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>arcsde, arcgrid, geotiff, grassraster, gtopo30, image (JPEG, TIFF, GIF, PNG), imageio-ext-gdal, imagemoasaic, imagepyramid, JP2K, matlab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Database "jdbc-ng" support:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データベース "jdbc-ng"のサポート:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>db2, h2, mysql, oracle, postgis, spatialite, sqlserver.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>db2, h2, mysql, oracle, postgis, spatialite, sqlserver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vector formats and data access:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ベクタフォーマットとデータアクセス:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>app-schema, arcsde, csv, dxf, edigeo, excel, geojson, org, property, shapefile, wfs.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>app-schema, arcsde, csv, dxf, edigeo, excel, geojson, org, property, shapefile, wfs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>XML Bindings:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>XML バインディング:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Java data structures and bindings provided for the following: xsd-core (xml simple types), fes, filter, gml2, gml3, kml, ows, sld, wcs, wfs, wms, wps, vpf.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次データのために提供されるJavaデータ構造とバインディング: xsd-core (xml simple types), fes, filter, gml2, gml3, kml, ows, sld, wcs, wfs, wms, wps, vpf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Additional Geometry, Filter and Style parser/encoders available for DOM and SAX applications.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>DOMおよびSAXサプリケーションで利用できる追加のジオメトリ、フィルタ、スタイルのパーサ/エンコーダ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Implemented Standards</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>実装されている標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Support of numerous Open Geospatial Consortium (OGC) standards:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>多数のオープン地理空間コンソーシアム(OGC)標準のサポート:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OGC Style Layer Descriptor / Symbology Encoding data structures and rendering engine</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OGC Style Layer Descriptor/記号データ構造のエンコードとレンダリングエンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OGC General Feature Model including Simple Feature support</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Simple Featureサポートを含むOGC General Feature Model</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OGC Grid Coverage representation of raster information</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ラスタ情報表現のOGC Grid Coverage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OGC Filter and Common Constraint Language (CQL)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OGC  Filterと Common Constraint Language (CQL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clients for Web Feature Service (WFS), Web Map Service (WMS) and experimental support for Web Process Service (WPS)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Web Feature Service(WFS)、Web Map Service(WMS)、およびWeb Process Service(WPS)の試験的サポートのクライアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ISO 19107 Geometry</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ISO19107ジオメトリ</seg>
       </tuv>
     </tu>
     <tu>
@@ -61,6 +349,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Website:** https://geotools.org/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://geotools.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>**Licence:** LGPL</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -69,10 +365,42 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Cross Platform Java 8,9,10</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応OS:** Cross Platform Java 8,9,10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>**API Interfaces:** Java</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>**API インターフェイス:** Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Support:** `Communication and Support &lt;http://docs.geotools.org/latest/userguide/welcome/support.html&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** `Communication and Support &lt;http://docs.geotools.org/latest/userguide/welcome/support.html&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoTools_Support</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoTools_サポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`Quickstart documentation &lt;http://docs.geotools.org/latest/userguide/tutorial/quickstart/index.html&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`クイックスタート文書 &lt;http://docs.geotools.org/latest/userguide/tutorial/quickstart/index.html&gt;`_</seg>
       </tuv>
     </tu>
   </body>

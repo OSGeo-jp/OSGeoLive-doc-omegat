@@ -101,6 +101,54 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Data Sets included in OSGeo Live</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeo-Liveにはいっているデータセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>feature_city.osm.bz2: A large extract of the greater city area as a BZip2 compressed XML text file.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>feature_city.osm.bz2: 大都市エリアの大きなし切りだしデータで、XMLファイルをBZip2で圧縮したものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>feature_city_CBD.osm.bz2: A smaller subset covering just the Central Business District (CBD).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>feature_city_CBD.osm.bz2: 大都市の中心業務地区(CBD)をカバーするサブセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>feature_city_poi.db: Sqlite DB of "positions of interest" nodes extracted from the above larger city OSM extract. Contains locations of pubs, fuel stations, restaurants, supermarkets, etc.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>feature_city_poi.db: 上記の大都市OSMデータから、POIノードのデータをSqlite DBに格納したもの。パブや居酒屋、ガソリンスタンド、レストランやスーパーマーケットなどが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Files referencing the name of the featured city contain the same data as the above files. Quickstarts and overviews use the generic file names so that the example city can change with each new release.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>対象都市名を参照するファイルには、上記のファイルと同じデータが含まれています。クイックスタートと概要では一般的なファイル名を使用するため、新しいリリースごとに都市の例を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The OSM feature city data has been imported into a PostGIS database called "osm_local" using the osm2pgsql tool. The spatial reference system used for this database is latitude-longitude with the WGS84 datum (EPSG code 4326) and can be reprojected to other Spatial Reference Systems (SRS), such as Spherical-Mercator, on demand. The smaller CBD extract is loaded into another PostGIS database called "pgrouting".</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSM機能の都市データは、osm2pgsqlツールを使用して「osm_local」という名前のPostGISデータベースにインポートされています。このデータベースに使用される空間参照システムは、WGS84データム(EPSGコード4326)を使用した緯度-経度順であり、必要に応じて、Spherical-Mercatorなどの他の空間参照システム(SRS)に再投影できます。小さなCBD抽出物は、「pgrouting」と呼ばれる別のPostGISデータベースにロードされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Details</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -113,6 +161,14 @@
       </tuv>
       <tuv xml:lang="ja">
         <seg>**Webサイト:** https://www.openstreetmap.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**License:** `Open Data Commons Open Database License (ODbL) &lt;https://opendatacommons.org/licenses/odbl/&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** `Open Data Commons Open Database License (ODbL) &lt;https://opendatacommons.org/licenses/odbl/&gt;`_</seg>
       </tuv>
     </tu>
     <tu>

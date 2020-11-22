@@ -5,10 +5,74 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>iD editor</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>iDエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Browser based editor for OpenStreetMap</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMap用ブラウザベースエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The iD editor is the de facto, browser-based `OpenStreetMap &lt;https://www.openstreetmap.org&gt;`_ editor. iD is fast and easy to use, and allows mapping from various data sources such as satellite and aerial imageries, GPS, Field Papers or Mapillary.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>iDエディタは、事実上のOSM標準のブラウザベースの`OpenStreetMap &lt;https://www.openstreetmap.org&gt;`_エディタです。iDは高速で使いやすく、衛星や航空画像、GPS、Field Papers、Mapillaryなどのさまざまなデータソースからのマッピングが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The iD editor is a great way to edit small and easy changes that don’t require the advanced features of the more advanced :doc:`JOSM &lt;josm_overview&gt;` editor.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>iDエディタは、より高度な :doc:`JOSM&lt;josm_overview&gt;`エディタの高機能を必要としない、小さくて簡単な変更を編集するときに、優れた方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OpenStreetMap Editing</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMap編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fast</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>高速</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Intuitive</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>直感的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Browser Based</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ブラウザベース</seg>
       </tuv>
     </tu>
     <tu>
@@ -21,6 +85,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Web Map Tile Service (for basemaps)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Webマップタイルサービス(ベースマップの場合)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Details</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -29,10 +101,58 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Website:** https://wiki.openstreetmap.org/wiki/ID</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://wiki.openstreetmap.org/wiki/ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** `ISC &lt;https://en.wikipedia.org/wiki/ISC_license&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** `ISC &lt;https://en.wikipedia.org/wiki/ISC_license&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-ideditor|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-ideditor|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Anything that supports a browser: Windows, GNU/Linux, Mac, Android, iOS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:**  Windows, GNU/Linux, Mac, Android, iOSのブラウザならどれでも</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Support:** https://help.openstreetmap.org/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** https://help.openstreetmap.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Quickstart</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/ideditor_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/ideditor_quickstart&gt;`</seg>
       </tuv>
     </tu>
   </body>

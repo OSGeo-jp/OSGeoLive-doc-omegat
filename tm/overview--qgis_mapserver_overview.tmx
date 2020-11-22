@@ -5,6 +5,14 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>QGIS Server</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>QGISサーバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Web Service</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -13,10 +21,74 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>QGIS Server provides web map and feature services (WMS &amp; WFS) using the same libraries as the GIS (QGIS) desktop application. Maps and print templates created in QGIS desktop can be published as web maps simply by copying the QGIS project file into the server directory. The resulting web maps look exactly the same as in the desktop. QGIS Server is usually run as CGI/FastCGI module within the Apache Webserver.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>QGISサーバは、GIS(QGIS)デスクトップアプリケーションと同じライブラリを使用して、Webマップおよびフィーチャサービス(WMS &amp; WFS)を提供します。QGISのデスクトップで作成されたマップと印刷テンプレートは、QGISプロジェクトファイルをサーバディレクトリにコピーするだけで、Webマップとしてパブリッシュできます。作成されるWebマップは、デスクトップとまったく同じように表示されます。QGISサーバーは通常、Apache Webserver内でCGI/FastCGIモジュールとして実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Web Map Service (WMS) - images</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Web Map Service(WMS):イメージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OGC Web Map Tile Service (WMTS) 1.0.0</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OGC Web Map Tile Service (WMTS) 1.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Built-in PDF output</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>組み込みのPDF出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>WYSIWYG map creation with QGIS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>QGISを使用したWYSIWYGマップの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advanced cartographic symbolisation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>高度な地図記号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Supports Styled Layer Descriptor (SLD)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Styled Layer Descriptor (SLD)をサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Extra parameters like f.e. FILTER, SELECTION, DPI</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>f.e.などの追加パラメータFILTER, SELECTION, DPI</seg>
       </tuv>
     </tu>
     <tu>
@@ -53,10 +125,42 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Software Version:** |version-qgis_mapserver|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウエアバージョン:** |version-qgis_mapserver|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Windows, Linux</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** Windows, Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Commercial Support:** https://www.qgis.org/en/site/forusers/commercial_support.html</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**商用サポート:** https://www.qgis.org/en/site/forusers/commercial_support.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Quickstart</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/qgis_mapserver_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/qgis_mapserver_quickstart&gt;`</seg>
       </tuv>
     </tu>
   </body>

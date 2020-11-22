@@ -5,10 +5,82 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>t-rex</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>t-rex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vector Tile Service</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ベクタータイルサービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>t-rex is a vector tile server specialized on publishing MVT tiles from your own data.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>t-rexは、独自のデータからMVTタイルを配信することに特化したベクタータイルサーバです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Support for PostGIS databases and GDAL vector formats</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>PostGISデータベースとGDALベクターフォーマットのサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Auto-detection of layers in data source</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データソース内のレイヤーの自動検出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Built-in viewers for data display and inspection</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データ表示および検査用の組み込みビューア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tile generation command with simple parallelization</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>シンプルな並列化によるタイル生成コマンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Automatic reprojection to grid CRS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>グリッドCRSへの自動再投影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Support for custom tile grids</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カスタムタイルグリッドのサポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -21,6 +93,30 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Website:** https://t-rex.tileserver.ch/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ウェブサイト:** https://t-rex.tileserver.ch/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** `MIT license &lt;https://opensource.org/licenses/MIT&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** `MIT license &lt;https://opensource.org/licenses/MIT&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-t-rex|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:**version-t-rex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>**Supported Platforms:** Windows, Linux, Mac</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -29,10 +125,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**API Interfaces:** http, Mapbox Vector Tiles</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**APIインターフェイス:** http, Mapbox Vector Tiles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Support:** https://github.com/t-rex-tileserver/t-rex/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** https://github.com/t-rex-tileserver/t-rex/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Quickstart</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/t-rex_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタートドキュメント&lt;./quickstart/t-rex_quickstart&gt;`</seg>
       </tuv>
     </tu>
   </body>

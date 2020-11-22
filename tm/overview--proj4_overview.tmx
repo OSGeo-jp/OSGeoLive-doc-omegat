@@ -5,10 +5,58 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>Proj4 is a library that provides methods to transform between different coordinate reference systems. A geographic coordinate reference system allows all points on the earth to be described as a set of coordinates (such as latitude, longitude and elevation). Different systems are used to represent the tridimensional earth on a flat, bidimensional map.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Proj4は、異なる座標参照システム間で変換するメソッドを提供するライブラリです。地理座標参照システムでは、地球上のすべての点を座標(緯度、経度、高度など)のセットとして記述できます。それぞれのシステムは、平坦な二次元マップ上に三次元地球を表現ししています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Proj4 is used in :doc:`MapServer &lt;mapserver_overview&gt;`, :doc:`GRASS GIS &lt;grass_overview&gt;`, :doc:`PostGIS &lt;postgis_overview&gt;`, :doc:`Mapnik &lt;mapnik_overview&gt;`, Thuban, OGDI, TopoCad, OGRCoordinateTransformation and various others.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Proj4は :doc:`MapServer &lt;mapserver_overview&gt;`, :doc:`GRASS GIS &lt;grass_overview&gt;`, :doc:`PostGIS &lt;postgis_overview&gt;`, :doc:`Mapnik &lt;mapnik_overview&gt;`, Thuban, OGDI, TopoCad, OGRCoordinateTransformation 、その他いろいろなところで使われています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Proj4 has been translated from C to `other languages &lt;https://trac.osgeo.org/metacrs/wiki&gt;`.  These sub-projects include: These tools include: * Proj4js (JavaScript) - used in :doc:`OpenLayers &lt;openlayers_overview&gt;`. * CS-Map (C++) - used in MapGuide. * GeoTIFF/libgeotiff (C++). * Proj4J (Java). * `SpatialReference.org &lt;https://spatialreference.org/&gt;`_  - website to retrieve coordinate system definitions (obsolete).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Proj4は、C から `さまざまな言語 &lt;https://trac.osgeo.org/metacrs/wiki&gt;`に変換されています。これらのサブプロジェクトには、* Proj4js (JavaScript) - used in :doc:`OpenLayers &lt;openlayers_overview&gt;`があります。* MapGuideでつかわれているCS-Map (C++)。* GeoTIFF/libgeotiff (C++)。* Proj4J (Java)。* `SpatialReference.org &lt;https://spatialreference.org/&gt;`_  - 座標系定義を取得するためのWebサイトです(旧式)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Provides point transformation from one coordinate reference system to another.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ある座標参照システムから別の座標参照システムへの点変換を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Includes transformation between datums.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データ間の変換が含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Large number of projection classes supported.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>多数の投影クラスがサポートされています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21,10 +69,42 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Proj4 uses coordinate system definitions defined by the `European Petroleum Survey Group (EPSG) &lt;https://www.epsg.org/&gt;`. Well Known Text (WKT) format.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Proj4は、`European Petroleum Survey Group(EPSG)&lt;https://www.epsg.org/&gt;`によって定義された座標系定義を使用します。Well Known Text(WKT)形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Details</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** https://proj4.org/index.html</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://proj4.org/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** `X/MIT style Open Source license &lt;https://trac.osgeo.org/proj4j#License&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** `X/MIT style Open Source license &lt;https://trac.osgeo.org/proj4j#License&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** 4.9.2 (stable)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** 4.9.2 (stable)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37,10 +117,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**API Interfaces:** C, C++, Python, Java, Ruby</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**API インターフェイス:** C, C++, Python, Java, Ruby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Support:** https://lists.osgeo.org/mailman/listinfo/proj</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** https://lists.osgeo.org/mailman/listinfo/proj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Quickstart</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/proj4_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/proj4_quickstart&gt;`</seg>
       </tuv>
     </tu>
   </body>

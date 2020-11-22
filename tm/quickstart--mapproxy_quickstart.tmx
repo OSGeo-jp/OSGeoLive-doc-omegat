@@ -13,18 +13,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>You can add MapProxy in any WMS Desktop GIS like uDig, QGIS or gvSIG. The service URL is: `&lt;http://localhost:8011/service?&gt;`_</seg>
+        <seg>You can add MapProxy in any WMS Desktop GIS like uDig, QGIS or gvSIG.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>MapProxyは、uDig、QGIS、gvSIGなどの任意のWMSデスクトップGISに追加できます。 サービスのURLは次のとおりです： `&lt;http://localhost:8011/service?&gt;`_</seg>
+        <seg>MapProxyは、uDig、QGIS、gvSIGなどの任意のWMSデスクトップGISに追加できます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>You can now visit the demo page at http://127.0.0.1:8011/demo/. MapProxy will automatically reload if you change your configuration file.</seg>
+        <seg>The service URL is: `&lt;http://localhost:8011/service?&gt;`_</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>これで、 http://127.0.0.1:8011/demo/ のデモページにアクセスできます。 設定ファイルを変更すると、MapProxyは自動的に再読み込みされます。</seg>
+        <seg>サービスのURLは次のとおりです： `&lt;http://localhost:8011/service?&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can now visit the demo page at http://127.0.0.1:8011/demo/.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>これで、 http://127.0.0.1:8011/demo/ のデモページにアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>MapProxy will automatically reload if you change your configuration file.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>設定ファイルを変更すると、MapProxyは自動的に再読み込みされます。</seg>
       </tuv>
     </tu>
     <tu>

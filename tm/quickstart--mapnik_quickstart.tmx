@@ -5,10 +5,114 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>Mapnik Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Mapnik クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapnik is an toolkit for developing mapping applications. Above all Mapnik is about making beautiful maps. It is easily extensible and suitable for both desktop and web development.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Mapnikは、マッピング・アプリケーションを開発するためのツールキットです。Mapnikの目的は、何よりも美しい地図を作ることです。簡単に拡張でき、デスクトップとWebの両方の開発に適しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapnik and its python bindings are installed and ready to be used for scripting on this machine.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Mapnikとそのpythonバインディングがインストールされ、このマシンでのスクリプト作成に使用できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creating maps in python is easy with Mapnik. Open a terminal window and type `python` on the command line to enter a python interpreter. Then try this::</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Mapnikを使えば、Pythonでマップを簡単に作成できます。ターミナルウィンドウを開き、コマンドラインに`python`と入力して、pythonインタプリタを起動します。次の操作を試してください::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The above code depends on having an XML stylesheet that Mapnik can read, defining the layers to read data from and the styles to apply to those layers. You can create one of these inside QGIS with the Quantumnik plugin: https://plugins.qgis.org/plugins/quantumnik/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>上記のコードは、Mapnikが読み取れるXMLスタイルシートを用意し、データを読み込むレイヤーと、それらのレイヤーに適用するスタイルを定義することに依存しています。Quantumnikプラグインを使えば、QGISの中で以下のいずれかを作ることができます: https://plugins.qgis.org/plugins/quantumnik/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A basic demo application is available which highlights using Mapnik to serve tiles into an OpenLayers web map in the OSM/Google tile scheme.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSM/GoogleタイルスキームでOpenLayersウェブマップを表示する、タイル提供用にMapnikを使用する基本的なデモアプリケーションが利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The demo uses a tileserver designed for Mapnik called "TileStache". Visit the TileStache website for more information: http://tilestache.org/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このデモでは、Mapnik用に設計された`TileStache`と呼ばれるtileserverを使っています。詳細については、TileStacheのウェブサイトを訪れてください: http://tilestache.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click :menuselection:`Desktop --&gt; Spatial Tools --&gt; Start Mapnik &amp; TileStache`. The server starts in a terminal window (which stays open and outputs basic debugging information).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg> :menuselection:`Desktop --&gt; Spatial Tools --&gt; Start Mapnik &amp; TileStache`をクリック。サーバはターミナルウィンドウで起動します(ターミナルウィンドウは開いたままになり、基本的なデバッグ情報を出力します)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Check that the server is working by requesting a tile from the server. Click this link http://localhost:8012/example/0/0/0.png and observe the output in the server terminal window.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サーバからタイルを要求して、サーバが動作していることを確認します。このリンク http://localhost:8012/example/0/0/0.png をクリックして、ターミナルウィンドウの出力を確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Visit the Leaflet demo application page `http://localhost/leaflet-demo.html &lt;../../../leaflet-demo.html&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Leafletデモアプリケーションのページ `http://localhost/leaflet-demo.html &lt;../../../leaflet-demo.html&gt;`_. にアクセスしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>What next?</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Follow the tutorials to learn more about Mapnik: https://github.com/mapnik/mapnik/wiki/MapnikTutorials</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チュートリアルに従ってMapnikについて学んでください: https://github.com/mapnik/mapnik/wiki/MapnikTutorials</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Explore the included files on the latest OSGeoLive distribution, in this directory: file:///usr/local/share/mapnik/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>最新のOSGeoLiveディストリビューションに含まれている次のディレクトリのファイルを見てください。file:///usr/local/share/mapnik/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Visit the Mapnik website: https://mapnik.org</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Mapnik websiteを訪問してください: https://mapnik.org</seg>
       </tuv>
     </tu>
   </body>

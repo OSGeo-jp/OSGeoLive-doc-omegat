@@ -5,10 +5,42 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>Leaflet is a JavaScript library for browser-based, mobile-friendly, interactive maps.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Leaflet is a JavaScript library for browser-based, mobile-friendly, interactive maps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is lightweight, yet has all the features most developers ever need for online maps.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>It is lightweight, yet has all the features most developers ever need for online maps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Leaflet is designed with simplicity, performance and usability in mind.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Leaflet はシンプル、パフォーマンス、ユーザビリティを念頭に設計されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>If you are reading this quickstart outside OSGeoLive you may prefer reading the original demo on: https://leafletjs.com/examples/quick-start/, since this demo uses tilestache on OSGeoLive.</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>OSGeoLiveの外部でこのクイックスタートを読んでいる場合は、https://leafletjs.com/examples/quick-start/ で元のデモを読むことをお勧めします。このデモはOSGeoLiveでtilestacheを使用しているためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What Next?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次のステップ</seg>
       </tuv>
     </tu>
   </body>

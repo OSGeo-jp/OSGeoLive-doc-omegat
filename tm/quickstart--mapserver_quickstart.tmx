@@ -13,10 +13,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>The `Mapfile &lt;https://mapserver.org/mapfile/index.html&gt;`_ is the configuration file that MapServer uses to render geospatial data as images or vector data. Its main purpose is to define the layers it can draw, how to read necessary data, and how to render it (e.g. color, symbol, label, etc...).</seg>
+        <seg>The `Mapfile &lt;https://mapserver.org/mapfile/index.html&gt;`_ is the configuration file that MapServer uses to render geospatial data as images or vector data.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>`Mapfile  &lt;https://mapserver.org/mapfile/index.html&gt;`_ は、MapServerが地理空間データを画像またはベクターデータとしてレンダリングするために使用する設定ファイルです。 その主な目的は、描画できるレイヤー、必要なデータの読み取り方法、およびレンダリング方法（色、シンボル、ラベルなど）を定義することです。</seg>
+        <seg>`Mapfile  &lt;https://mapserver.org/mapfile/index.html&gt;`_ は、MapServerが地理空間データを画像またはベクターデータとしてレンダリングするために使用する設定ファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Its main purpose is to define the layers it can draw, how to read necessary data, and how to render it (e.g. color, symbol, label, etc...).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>その主な目的は、描画できるレイヤー、必要なデータの読み取り方法、およびレンダリング方法（色、シンボル、ラベルなど）を定義することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Put the following content in it::</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次の内容を入力します::</seg>
       </tuv>
     </tu>
     <tu>
@@ -29,10 +45,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>In a Mapfile, a LAYER object can contain an infinite number of CLASS objects. These are used to style the elements contained in the spatial data file (DATA). For example, if we look closer at our "ne_10m_lakes" data file using a tool such as `ogrinfo &lt;https://gdal.org/ogrinfo.html&gt;`_, we'll see the geometry and attribute definitions it contains. These attribute values can be used as a way to draw the elements inside a dataset differently using multiple CLASS objects.</seg>
+        <seg>In a Mapfile, a LAYER object can contain an infinite number of CLASS objects.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>Mapfileでは、LAYERオブジェクトに無数のCLASSオブジェクトを含めることができます。 これらは、空間データファイル（DATA）に含まれる要素のスタイルを設定するために使用されます。 たとえば、`ogrinfo &lt;https://gdal.org/ogrinfo.html&gt;`_ などのツールを使用して "ne_10m_lakes" データファイルを詳しく見ると、ジオメトリと属性の定義が表示されます を含む。 これらの属性値は、複数のCLASSオブジェクトを使用してデータセット内の要素を異なる方法で描画する方法として使用できます。</seg>
+        <seg>Mapfileでは、LAYERオブジェクトに無数のCLASSオブジェクトを含めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These are used to style the elements contained in the spatial data file (DATA).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>これらは、空間データファイル（DATA）に含まれる要素のスタイルを設定するために使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, if we look closer at our "ne_10m_lakes" data file using a tool such as `ogrinfo &lt;https://gdal.org/ogrinfo.html&gt;`_, we'll see the geometry and attribute definitions it contains.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>たとえば、`ogrinfo &lt;https://gdal.org/ogrinfo.html&gt;`_ などのツールを使用して "ne_10m_lakes" データファイルを詳しく見ると、ジオメトリと属性の定義が表示されます を含む。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These attribute values can be used as a way to draw the elements inside a dataset differently using multiple CLASS objects.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>これらの属性値は、複数のCLASSオブジェクトを使用してデータセット内の要素を異なる方法で描画する方法として使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49,6 +89,14 @@
       </tuv>
       <tuv xml:lang="ja">
         <seg>http://localhost/cgi-bin/mapserv?map=/home/user/mapserver_quickstart.map&amp;SERVICE=WMS&amp;REQUEST=GetCapabilities&amp;VERSION=1.3.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What Next?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次のステップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -77,10 +125,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>Ready to use MapServer? Then join the community on the `Mailing Lists &lt;https://www.mapserver.org/community/lists.html&gt;`_ to exchange ideas, discuss potential software improvements and ask questions.</seg>
+        <seg>Ready to use MapServer?</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>MapServerを使用する準備はできましたか？ 次に、`メーリングリスト&lt;https://www.mapserver.org/community/lists.html&gt;` _のコミュニティに参加して、アイデアを交換したり、ソフトウェアの改善点について話し合ったり、質問したりします。</seg>
+        <seg>MapServerを使用する準備はできましたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then join the community on the `Mailing Lists &lt;https://www.mapserver.org/community/lists.html&gt;`_ to exchange ideas, discuss potential software improvements and ask questions.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次に、`メーリングリスト&lt;https://www.mapserver.org/community/lists.html&gt;` _のコミュニティに参加して、アイデアを交換したり、ソフトウェアの改善点について話し合ったり、質問したりします。</seg>
       </tuv>
     </tu>
   </body>

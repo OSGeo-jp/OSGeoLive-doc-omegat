@@ -13,10 +13,122 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>The Re3gistry 2 is a reusable open source solution for managing and sharing "reference codes". Initially developed as a central component of the EU's :doc:`INSPIRE &lt;inspire_overview&gt;` infrastructure, it provides a consistent central access point where labels and descriptions for reference codes can be easily browsed by humans and retrieved by machines. Reference codes are exchanged between applications to uniquely reference some ‘thing’. They can be used to define sets of permissible values for a data field or to provide a reference or context for the data being exchanged. Examples are enumerations, controlled vocabularies, taxonomies, thesauri or, simply, ‘lists of things’. The Re3gistry 2 supports organisations in managing and updating reference codes in a consistent way. The Re3gistry software version numbers comply with the Semantic Versioning Specification 2.0.0.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Re3gistry 2は、「リファレンスコード」を管理および共有するための再利用可能なオープンソースソリューションです。当初はEUの:doc:`INSPIRE&lt;inspire_overview&gt;`インフラストラクチャの中心的なコンポーネントとして開発されたもので、リファレンスコードのラベルと説明を人間が簡単にブラウズし、マシンが検索できる一貫した中央アクセスポイントを提供します。リファレンスコードは、何らかの「もの」を一意に参照するためにアプリケーション間で交換されます。これらを使用して、データフィールドの許容値のセットを定義したり、交換されるデータの参照またはコンテキストを提供したりできます。例としては、列挙、統制された語彙、分類法、シソーラス、あるいは単に「ものの一覧」があります。Re3gistry 2は、組織が一貫した方法で参照コードを管理し更新することを支援しています。Re3gistryソフトウェアのバージョン番号は、セマンティック・バージョン付与標準2.0.0に準拠しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>User-friendly editing interface to easily add, edit and manage the registers and reference codes</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>登録者とリファレンスコードの追加、編集、管理を容易にする使いやすい編集インタフェース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Management of the full lifecycle of the reference codes (based on the ISO 19135 Standard)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>(ISO19135規格に基づく)リファレンスコードのライフサイクル全体の管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Highly flexible and customisable data models</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>柔軟性とカスタマイズ性に優れたデータ・モデル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Multi-lingual content support</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>多言語コンテンツのサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Support for versioning</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>バージョン管理のサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>RESTful API with content negotiation (including OpenAPI 3 descriptor)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>コンテンツネゴシエーションを持つ(OpenAPI 3記述子を含む)RESTful API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Free-text search</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>自由文検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Supported formats: HTML, ISO 19135 XML, JSON</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サポートされるフォーマット:HTML、ISO19135XML、JSON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Service formats can be easily added or customised (default formats: JSON and ISO 19135 XML)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サービスフォーマットは簡単に追加またはカスタマイズできる(デフォルトフォーマット:JSONとISO19135XML)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Multiple authentication options</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>複数の認証オプション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Externally governed items referenced through URIs</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>URIを通じて参照される外部的に管理される項目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>INSPIRE register federation format support (option to automatically create the RoR format)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>INSPIREレジスタフェデレーションフォーマットのサポート(RoRフォーマットを自動的に作成するオプション)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Web-app to access the reference codes in a human readable way.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>人間が読める方法で参照コードにアクセスするためのWebアプリケーション。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29,6 +141,38 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Website:** https://github.com/ec-jrc/re3gistry</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ウェブサイト:**https://github.com/ec-jrc/re3gistry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** EUPL</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:**EUPL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-re3gistry|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:**version-re3gistry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Windows, Linux</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** Windows, Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>**API Interfaces:** Java</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -37,10 +181,50 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Support:** https://github.com/ec-jrc/re3gistry</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:**https://github.com/ec-jrc/re3gistry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**User manual:** https://github.com/ec-jrc/re3gistry/blob/master/documentation/user-manual.md</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ユーザーマニュアル:**https://github.com/ec-jrc/re3gistry/blob/master/documentation/user-manual.md</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Administrator manual:** https://github.com/ec-jrc/re3gistry/blob/master/documentation/administrator-manual.md</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**管理者マニュアル:**https://github.com/ec-jrc/re3gistry/blob/master/documentation/administrator-manual.md</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Developer manual:** https://github.com/ec-jrc/re3gistry/blob/master/documentation/developer-manual.md</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**開発者マニュアル:**https://github.com/ec-jrc/re3gistry/blob/master/documentation/developer-manual.md</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Quickstart</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/re3gistry_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタートドキュメント&lt;./quickstart/re3gistry_quickstart&gt;`</seg>
       </tuv>
     </tu>
   </body>

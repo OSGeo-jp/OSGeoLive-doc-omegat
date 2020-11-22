@@ -21,10 +21,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>libLAS is a C/C++ library for reading and writing the very common `LAS` `LiDAR`_ format. The `ASPRS LAS format`_ is a sequential binary format used to store data from LiDAR sensors and by LiDAR processing software for data interchange and archival.</seg>
+        <seg>libLAS is a C/C++ library for reading and writing the very common `LAS` `LiDAR`_ format.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>ibLAS は一般的な `LAS` `LiDAR`_ フォーマットを読み書きするための C/C++ ライブラリです。 `ASPRS LAS format`_ は LiDAR センサや LiDAR 処理ソフトウェアがデータの保存、交換，アーカイブに使用しているシーケンシャルなバイナリフォーマットです。</seg>
+        <seg>ibLAS は一般的な `LAS` `LiDAR`_ フォーマットを読み書きするための C/C++ ライブラリです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The `ASPRS LAS format`_ is a sequential binary format used to store data from LiDAR sensors and by LiDAR processing software for data interchange and archival.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>。`ASPRS LAS format`_ は LiDAR センサや LiDAR 処理ソフトウェアがデータの保存、交換，アーカイブに使用しているシーケンシャルなバイナリフォーマットです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40,7 +48,7 @@
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
       </tuv>
     </tu>
     <tu>

@@ -5,10 +5,26 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>52 North WPS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>52 North WPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>About</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>About</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The 52°North |WPS| enables web access to geospatial processing algorithms provided by Sextante, ArcGIS Server, R, GRASS 7, or custom developed functions. Algorithms may be as simple as determining the difference in influenza cases between two different seasons, or as complicated as a global climate change model.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>52°North WPSは、Sextante、ArcGIS Server、R、GRASS7、またはカスタム開発関数によって提供される空間処理アルゴリズムへのWebアクセスを可能にします。アルゴリズムは、2つの異なる季節の間のインフルエンザ症例の差を決定するような単純なものであっても、地球規模の気候変動モデルのような複雑なものであってもかまいません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16,7 +32,79 @@
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Core GIS functions:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>コアGIS機能:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SimpleBufferAlgorithm</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>SimpleBufferAlgorithm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>DouglasPeuckerAlgorithm</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>DouglasPeuckerAlgorithm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>IntersectionAlgorithm</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>IntersectionAlgorithm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>AddRasterValuesAlgorithm</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>AddRasterValuesAlgorithm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CoordinateTransformAlgorithm</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>CoordinateTransformAlgorithm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Backend algorithms available through:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Backend algorithms available through:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sextante</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Sextante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ArcGIS Server</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ArcGIS Server</seg>
       </tuv>
     </tu>
     <tu>
@@ -25,6 +113,54 @@
       </tuv>
       <tuv xml:lang="ja">
         <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GRASS 7</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GRASS 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Input and Output formats supported:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サポートされている入力形式と出力形式:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vector Data: GML2, GML3, SHP files, KML, WKT (Well-known Text), DGN, JSON</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ベクタデータ: GML2, GML3, SHP files, KML, WKT (Well-known Text), DGN, JSON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Raster Data: Geotiff, AsciiGrid, NetCDF, JPEG, PNG, HDF-EOS, ERDAS HFA</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ラスタデータ: Geotiff, AsciiGrid, NetCDF, JPEG, PNG, HDF-EOS, ERDAS HFA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Outputs can be stored in GeoServer/MapServer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>出力はGeoServer/MapServerに保存可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A browser based client</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ブラウザベースのクライアント</seg>
       </tuv>
     </tu>
     <tu>
@@ -37,10 +173,58 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>|WPS|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|WPS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OGC GML2 SimpleFeatures</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OGC GML2 SimpleFeatures</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OGC GML3 SimpleFeatures</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OGC GML3 SimpleFeatures</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Details</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** https://52north.org/software/software-projects/wps</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://52north.org/software/software-projects/wps</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** GPL 2</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** GPL 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-52nWPS|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-52nWPS|</seg>
       </tuv>
     </tu>
     <tu>
@@ -53,10 +237,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Commercial Support:** https://52north.org/services/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**商用サポート:** https://52north.org/services/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Other 52°North projects:** :doc:`SOS &lt;./52nSOS_overview&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**その他のr 52°North プロジェクト:** :doc:`SOS &lt;./52nSOS_overview&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Quickstart</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/52nWPS_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/52nWPS_quickstart&gt;`</seg>
       </tuv>
     </tu>
   </body>

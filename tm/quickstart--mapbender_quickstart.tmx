@@ -19,5 +19,13 @@
         <seg>試してみること</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What Next?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次のステップ</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>

@@ -29,10 +29,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Mapnik has typically been embedded in Python applications which deliver their maps over the internet although scaling improvements have meant that Mapnik has recently been getting used to create high resolution paper maps too.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Mapnikは通常、インターネット経由でマップを配信するPythonアプリケーションに組み込まれていますが、スケーリングの改善により、最近では高解像度の紙のマップの作成にも使われるようになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
       </tuv>
     </tu>
     <tu>
@@ -40,7 +48,23 @@
         <seg>Essentially a collection of geographic objects (map, layer, datasource, feature, geometry),  the library doesn't rely on "windowing systems" and can be deployed in any server environment.  It is intended to play fair in a multi-threaded environment and is aimed primarily,  but not exclusively, at web-based development.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>Mapnik はどのようなウィンドウシステムにも依存することなく、ジオグラフィックオブジェクト（マップ、データソース、フィーチャ、ジオメトリ）のコレクションをサーバー環境に展開することができます。Mapnik は Python との親和性が高い Zope3 や Django などを使ったアプリケーション開発を迅速に進めることができます。また、マルチスレッド Web アプリケーション開発のためにスレッドセーフで動作することを目的としています。</seg>
+        <seg>Mapnik はどのようなウィンドウシステムにも依存することなく、ジオグラフィックオブジェクト（マップ、レイヤ、データソース、フィーチャ、ジオメトリ）のコレクションをサーバー環境に展開することができます。また、マルチスレッド Web アプリケーション開発のためにスレッドセーフで動作することを目的としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>High-level Python bindings (boost.python) facilitate rapid application development,  targeting zope3, django etc.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>高レベルのPythonバインディング(boost.python)は、zope3やdjangoなどをターゲットにして、迅速なアプリケーション開発を促進します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapnik is cross platform. Packages are available for most linux distributions and installers are commonly used on Mac OS X and windows.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Mapnikはクロスプラットフォームです。パッケージはほとんどのLinuxディストリビューションで使用でき、インストーラは一般にMac OS XとWindowsで使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49,6 +73,14 @@
       </tuv>
       <tuv xml:lang="ja">
         <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** https://mapnik.org/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>*Webサイト:** https://mapnik.org/</seg>
       </tuv>
     </tu>
     <tu>

@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Ko Nagase <nagase@georepublic.co.jp>, 2019
+# Ko Nagase <nagase@georepublic.co.jp>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-21 10:22-0500\n"
 "PO-Revision-Date: 2017-09-20 16:10+0000\n"
-"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2019\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2020\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -33,6 +33,7 @@ msgid ""
 " as latitude, longitude and elevation). Different systems are used to "
 "represent the tridimensional earth on a flat, bidimensional map."
 msgstr ""
+"Proj4は、異なる座標参照システム間で変換するメソッドを提供するライブラリです。地理座標参照システムでは、地球上のすべての点を座標(緯度、経度、高度など)のセットとして記述できます。それぞれのシステムは、平坦な二次元マップ上に三次元地球を表現ししています。"
 
 #: ../../build/doc/overview/proj4_overview.rst:24
 msgid ""
@@ -41,6 +42,10 @@ msgid ""
 "<mapnik_overview>`, Thuban, OGDI, TopoCad, OGRCoordinateTransformation and "
 "various others."
 msgstr ""
+"Proj4は :doc:`MapServer <mapserver_overview>`, :doc:`GRASS GIS "
+"<grass_overview>`, :doc:`PostGIS <postgis_overview>`, :doc:`Mapnik "
+"<mapnik_overview>`, Thuban, OGDI, TopoCad, OGRCoordinateTransformation "
+"、その他いろいろなところで使われています。"
 
 #: ../../build/doc/overview/proj4_overview.rst:26
 msgid ""
@@ -52,24 +57,30 @@ msgid ""
 "<https://spatialreference.org/>`_  - website to retrieve coordinate system "
 "definitions (obsolete)."
 msgstr ""
+"Proj4は、C から `さまざまな言語 "
+"<https://trac.osgeo.org/metacrs/wiki>`に変換されています。これらのサブプロジェクトには、* Proj4js "
+"(JavaScript) - used in :doc:`OpenLayers <openlayers_overview>`があります。* "
+"MapGuideでつかわれているCS-Map (C++)。* GeoTIFF/libgeotiff (C++)。* Proj4J (Java)。* "
+"`SpatialReference.org <https://spatialreference.org/>`_  - "
+"座標系定義を取得するためのWebサイトです(旧式)"
 
 #: ../../build/doc/overview/proj4_overview.rst:41
 msgid "Core Features"
-msgstr "主な機能"
+msgstr "主要機能"
 
 #: ../../build/doc/overview/proj4_overview.rst:43
 msgid ""
 "Provides point transformation from one coordinate reference system to "
 "another."
-msgstr ""
+msgstr "ある座標参照システムから別の座標参照システムへの点変換を提供します。"
 
 #: ../../build/doc/overview/proj4_overview.rst:44
 msgid "Includes transformation between datums."
-msgstr ""
+msgstr "データ間の変換が含まれます。"
 
 #: ../../build/doc/overview/proj4_overview.rst:45
 msgid "Large number of projection classes supported."
-msgstr ""
+msgstr "多数の投影クラスがサポートされています。"
 
 #: ../../build/doc/overview/proj4_overview.rst:49
 msgid "Implemented Standards"
@@ -80,6 +91,9 @@ msgid ""
 "Proj4 uses coordinate system definitions defined by the `European Petroleum "
 "Survey Group (EPSG) <https://www.epsg.org/>`. Well Known Text (WKT) format."
 msgstr ""
+"Proj4は、`European Petroleum Survey "
+"Group(EPSG)<https://www.epsg.org/>`によって定義された座標系定義を使用します。Well Known "
+"Text(WKT)形式。"
 
 #: ../../build/doc/overview/proj4_overview.rst:57
 msgid "Details"
@@ -87,17 +101,19 @@ msgstr "詳細"
 
 #: ../../build/doc/overview/proj4_overview.rst:59
 msgid "**Website:** https://proj4.org/index.html"
-msgstr ""
+msgstr "**Webサイト:** https://proj4.org/index.html"
 
 #: ../../build/doc/overview/proj4_overview.rst:61
 msgid ""
 "**Licence:** `X/MIT style Open Source license "
 "<https://trac.osgeo.org/proj4j#License>`_"
 msgstr ""
+"**ライセンス:** `X/MIT style Open Source license "
+"<https://trac.osgeo.org/proj4j#License>`_"
 
 #: ../../build/doc/overview/proj4_overview.rst:63
 msgid "**Software Version:** 4.9.2 (stable)"
-msgstr ""
+msgstr "**ソフトウェアバージョン:** 4.9.2 (stable)"
 
 #: ../../build/doc/overview/proj4_overview.rst:65
 msgid "**Supported Platforms:** Windows, Linux, Mac"
@@ -105,11 +121,11 @@ msgstr "**対応プラットフォーム:** Windows, Linux, Mac"
 
 #: ../../build/doc/overview/proj4_overview.rst:67
 msgid "**API Interfaces:** C, C++, Python, Java, Ruby"
-msgstr ""
+msgstr "**API インターフェイス:** C, C++, Python, Java, Ruby"
 
 #: ../../build/doc/overview/proj4_overview.rst:69
 msgid "**Support:** https://lists.osgeo.org/mailman/listinfo/proj"
-msgstr ""
+msgstr "**サポート:** https://lists.osgeo.org/mailman/listinfo/proj"
 
 #: ../../build/doc/overview/proj4_overview.rst:74
 msgid "Quickstart"
@@ -117,4 +133,4 @@ msgstr "クイックスタート"
 
 #: ../../build/doc/overview/proj4_overview.rst:76
 msgid ":doc:`Quickstart documentation <../quickstart/proj4_quickstart>`"
-msgstr ""
+msgstr ":doc:`クイックスタート文書 <../quickstart/proj4_quickstart>`"

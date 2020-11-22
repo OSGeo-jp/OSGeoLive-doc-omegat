@@ -5,11 +5,50 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>OpenStreetMap Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>OpenStreetMap is a free street level map of the world, created by an ever growing community of mappers. Anyone can edit OpenStreetMap. The `Learn OSM website &lt;https://learnosm.org&gt;`_ provides easy to understand, step-by-step guides for you to get started with contributing to OpenStreetMap and using OpenStreetMap and using OpenStreetMap data. The Learn OSM guide at the link above shows step by step how to navigate the OpenStreetMap website, view and print maps, and sign up for a user account. After you have your own username and password, you will be able to add your first points to the map, learn how to do street surveys and work with aerial imagery.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>OpenStreetMapは、地図作成者の増え続けるコミュニティによって作成された、世界の無料の通りレベルの地図です。 誰でもOpenStreetMapを編集できます。 `Learn OSM Webサイト&lt;https://learnosm.org&gt;`_ は、OpenStreetMapへの貢献、OpenStreetMapの使用、およびOpenStreetMapデータの使用を開始するための理解しやすい段階的なガイドを提供します。
-上記のリンクのLearn OSMガイドは、OpenStreetMap Webサイトのナビゲート、マップの表示と印刷、ユーザーアカウントのサインアップの方法を段階的に示しています。 独自のユーザー名とパスワードを取得したら、最初のポイントをマップに追加し、街路調査を行う方法を学び、航空写真を操作することができます。</seg>
+        <seg>OpenStreetMapは、世界のストリートレベルのフリーマップで、増え続けるマッパーのコミュニティによって作成されています。OpenStreetMapは誰でも編集できます。「Learn OSM Webサイト&lt;https://learnosm.org&gt;」は、OpenStreetMapへの貢献、OpenStreetMapの使用、およびOpenStreetMapデータの使用を開始するための、理解しやすいステップバイステップのガイドを提供します。上記のリンクにある『Learn OSM』ガイドでは、OpenStreetMapのWebサイトの操作方法、マップの表示と印刷方法、ユーザアカウントへのサインアップ方法を順を追って説明しています。独自のユーザー名とパスワードを入力すると、地図に最初のポイントを追加したり、街路調査の方法を学習したり、航空画像を操作したりできるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The remainder of this guide introduces some of the online and offline software used to edit and render OSM data.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このガイドの残りの部分では、OSMデータの編集とレンダリングに使用するオンラインソフトウェアとオフラインソフトウェアの一部を紹介します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Programs that work with OSM data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OS Mデータを扱うプログラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>iD</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>iD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**iD** is the default on-line editor for OpenStreetMap (OSM). iD is fast and easy to use, and allows mapping from various data sources such as ground survey, satellite and aerial imageries, GPS traces or street-level imagery.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**iD**は、OpenStreetMap(OSM)のデフォルトのオンラインエディタです。iDは高速で使いやすく、地上測量、衛星および航空画像、GPS追跡または街路レベルの画像など、さまざまなデータソースからのマッピングが可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46,6 +85,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**JOSM** (Java OpenStreetMap Editor) is an advanced editor for OpenStreetMap (OSM) written in Java. It is more powerful and complex than iD, can be used for bulk editing, off-line or on an unreliable Internet connection. It can be extended with plugins, custom presets and more extensions.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**JOSM**(Java OpenStreetMap Editor)は、Javaで記述されたOpenStreetMap(OSM)用の高度なエディタです。iDよりも強力かつ複雑であり、大量編集、オフライン、または信頼性の低いインターネット接続に使用できます。プラグイン、カスタムプリセット、その他の拡張機能で拡張できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Homepage: https://josm.openstreetmap.de</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -78,6 +125,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Merkaartor</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Merkaartor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Merkaartor** is a map editor for OpenStreetMap which uses the Qt toolkit. It's a bit more user friendly than JOSM, but has a few less features.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Merkaartor**は、Qtツールキットを使用するOpenStreetMap用のマップエディタです。これはJOSMよりも少しユーザーフレンドリーですが、機能は少なめです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Homepage: http://merkaartor.be</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -98,6 +161,14 @@
       </tuv>
       <tuv xml:lang="ja">
         <seg>QGIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OpenStreetMap data can be loaded in **QGIS** as vector layer, as a core functionality or through plugins like QuickOSM.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapデータは、ベクトルレイヤとして、コア機能として、またはQuickOSMのようなプラグインを通じて、**QGIS**にロードすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,6 +197,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Osmosis</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Osmosis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Osmosis** is a highly capable utility program for performing many tasks at a raw level on OSM data. This includes data import and export to databases, sorting, cleaning, and creating data dumps.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Osmosis**は、OSMデータに対して生データのレベルで多くのタスクを実行するための高機能ユーティリティプログラムです。これには、データベースへのデータのインポートとエクスポート、ソート、消去、およびデータ・ダンプの作成が含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Documentation: https://wiki.openstreetmap.org/wiki/Osmosis#Usage</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -138,6 +225,22 @@
       </tuv>
       <tuv xml:lang="ja">
         <seg>チュートリアル: https://learnosm.org/en/osm-data/osmosis/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>osm2pgsql</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>osm2pgsql</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**osm2pgsql** is a utility program that converts OpenStreetMap (.osm) data into a format that can be loaded into PostgreSQL (PostGIS). It is often used to render OSM data visually using Mapnik, as Mapnik can query PostgreSQL for map data, but does not work directly with OSM files.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**osm2pgsql**は、OpenStreetMap(.osm)データをPostgreSQL(PostGIS)にロード可能な形式に変換するユーティリティプログラムです。多くの場合、Mapnikを使用してOSMデータを視覚的にレンダリングするために使用されます。これは、MapnikがPostgreSQLにOSMデータを視覚的にレンダリングする場合によく使用されます。</seg>
       </tuv>
     </tu>
     <tu>

@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Ko Nagase <nagase@georepublic.co.jp>, 2019
+# Ko Nagase <nagase@georepublic.co.jp>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-21 10:22-0500\n"
 "PO-Revision-Date: 2017-09-20 16:02+0000\n"
-"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2019\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2020\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../build/doc/copyright.rst:2
 msgid "OSGeoLive Copyright"
-msgstr ""
+msgstr "OSGeoLive著作権"
 
 #: ../../build/doc/copyright.rst:4
 msgid ""
@@ -33,10 +33,13 @@ msgid ""
 "entirely of free software, allowing it to be freely distributed, duplicated "
 "and passed around."
 msgstr ""
+"OSGeo-Live は、 Lubuntu をベースとしたブータブルDVD, USBスティックドライブまたは仮想マシン "
+"で、様々なオープンソースの地理空間ソフトウェアをインストール無しに試すことができます。OSGeoLive "
+"は全てフリーソフトで構成されており、自由に複製、配布することができます。"
 
 #: ../../build/doc/copyright.rst:7
 msgid "License of OSGeo-Live"
-msgstr ""
+msgstr "OSGeo-Liveのライセンス"
 
 #: ../../build/doc/copyright.rst:8
 msgid ""
@@ -45,6 +48,10 @@ msgid ""
 "provided under a `Creative Commons Attribution 3.0 Unported License "
 "<https://creativecommons.org/licenses/by/3.0/>`_."
 msgstr ""
+"OSGeo-Liveプロジェクトは、`LGPL license v2.1<http://www.gnu.de/documents/lgpl-2.1. "
+"en . html>`__のもとで配布されています。すべてのドキュメントは、「Creative Commons "
+"Attribution3.0Unported "
+"License<https://creativecommons.org/licenses/by/3.0/>」の下で提供されます。"
 
 #: ../../build/doc/copyright.rst:10
 msgid ""
@@ -53,6 +60,8 @@ msgid ""
 "around. The licenses of all the packaged projects are summarized further on "
 "this page."
 msgstr ""
+"OSGeo-"
+"Liveは、完全にフリーソフトウェア、フリーデータ、フリー文書で構成されており、自由に配布、複製、配布することができます。パッケージ化されたすべてのプロジェクトのライセンスについては、このページで詳しく説明します。"
 
 #: ../../build/doc/copyright.rst:12
 msgid ""
@@ -60,6 +69,8 @@ msgid ""
 "Commons Attribution 3.0 Unported License "
 "<https://creativecommons.org/licenses/by/3.0/>`_."
 msgstr ""
+"プロジェクトの概要と概要の翻訳は、「Creative Commons Attribution3.0Unported "
+"License<https://creativecommons.org/licenses/by/3.0/>」の下で提供されています。"
 
 #: ../../build/doc/copyright.rst:13
 msgid ""
@@ -67,25 +78,29 @@ msgid ""
 "Commons Attribution-ShareAlike 3.0 Unported License "
 "<https://creativecommons.org/licenses/by-sa/3.0/>`_."
 msgstr ""
+"QuickstartsとQuickStart翻訳は、「Creative Commons Attribution-"
+"ShareAlike3.0Unported License<https://creativecommons.org/licenses/by-"
+"sa/3.0/>」の下で提供されています。"
 
 #: ../../build/doc/copyright.rst:14
 msgid ""
 "Documentation might also be available under other licenses, as listed below."
-msgstr ""
+msgstr "ドキュメントは、次に示す他のライセンスでも利用できます。"
 
 #: ../../build/doc/copyright.rst:15
 msgid ""
 "Software on OSGeoLive is available under various Free and Open Source "
 "licenses, as listed in the Project Overviews."
 msgstr ""
+"OSGeoLiveのソフトウェアは、プロジェクト概要に記載されているように、さまざまなフリーおよびオープンソースライセンスの下で利用できます。"
 
 #: ../../build/doc/copyright.rst:16
 msgid "Data on OSGeoLive is available under various Open Licences."
-msgstr ""
+msgstr "OSGeoLiveに関するデータは様々なオープン・ライセンスの下で入手可能です。"
 
 #: ../../build/doc/copyright.rst:19
 msgid "Attributing OSGeoLive Documentation"
-msgstr ""
+msgstr "OSGeoLiveの文書の属性"
 
 #: ../../build/doc/copyright.rst:20
 msgid ""
@@ -97,16 +112,24 @@ msgid ""
 "sa/3.0/>`_ license, then the new document will also need to be licenced "
 "under the `CC By-SA <https://creativecommons.org/licenses/by-sa/3.0/>`_."
 msgstr ""
+"`terms of the Creative Commons "
+"license<https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work"
+" "
+".3F>`_に従って、OSGeoLiveのドキュメントを新しいドキュメントに含める場合は、コントリビュータの属性を指定する必要があります。さらに、`CC"
+" By-SA<https://creativecommons.org/licenses/by-sa/3.0/>`_ "
+"ライセンスの下でライセンスされているQuickstartsが含まれている場合、新しい文書も `CC By-"
+"SA<https://creativecommons.org/licenses/by-sa/3.0/>`_ "
+"ライセンスの下でライセンスされる必要があります。"
 
 #: ../../build/doc/copyright.rst:25
 msgid ""
 "Note that images are not necessarily provided under the same CC license as "
 "the text; check with the author."
-msgstr ""
+msgstr "画像は必ずしもテキストと同じCCライセンスで提供されているわけではないことに注意してください。著者に確認してください。"
 
 #: ../../build/doc/copyright.rst:27
 msgid "You may use attribution text similar to one of the following:"
-msgstr ""
+msgstr "次のいずれか属性テキストを使用できます:"
 
 #: ../../build/doc/copyright.rst:29
 msgid "**Verbose, suitable for a 100 page thesis:**"
@@ -1415,3 +1438,4 @@ msgid ""
 "otherwise) arising in any way out of the use of this software, even if "
 "advised of the possibility of such damage.*"
 msgstr ""
+"*OSGeoLiveのコンテンツは、著作権保持者および貢献者によって\"現状のまま\"提供され、商品性および特定目的への適合性の黙示的な保証を含む(ただし、これらに限定されない)、明示的または暗示的ないかなる保証も拒否されます。いかなる場合においても、著作権所有者または貢献者は、直接的、間接的、付随的、特別、懲罰的、または結果的な損害(代替の商品またはサービスの調達、使用、日付、または利益の損失、またはビジネスの中断を含むが、これらに限定されない)に対して責任を負わないものとします。ただし、契約、厳格な賠償責任、または不法行為(過失またはその他を含む)のいずれによるものであるかを問わず、いかなる責任の理論に基づくものであっても、かかる損害の可能性について事前に知らされていたとしても、このソフトウェアの使用によって発生したとします。*"

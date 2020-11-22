@@ -5,6 +5,118 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>OSGeoLive Copyright</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLive著作権</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeo-Live is a self-contained bootable DVD, USB thumb drive or Virtual Machine based on Lubuntu, that allows you to try a wide variety of open source geospatial software without installing anything. It is composed entirely of free software, allowing it to be freely distributed, duplicated and passed around.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeo-Live は、 Lubuntu をベースとしたブータブルDVD, USBスティックドライブまたは仮想マシン で、様々なオープンソースの地理空間ソフトウェアをインストール無しに試すことができます。OSGeoLive は全てフリーソフトで構成されており、自由に複製、配布することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>License of OSGeo-Live</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeo-Liveのライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The OSGeo-Live project is distributed under `LGPL license v2.1 &lt;http://www.gnu.de/documents/lgpl-2.1.en.html&gt;`__. All documentation is provided under a `Creative Commons Attribution 3.0 Unported License &lt;https://creativecommons.org/licenses/by/3.0/&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeo-Liveプロジェクトは、`LGPL license v2.1&lt;http://www.gnu.de/documents/lgpl-2.1. en . html&gt;`__のもとで配布されています。すべてのドキュメントは、「Creative Commons Attribution3.0Unported License&lt;https://creativecommons.org/licenses/by/3.0/&gt;」の下で提供されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeo-Live is composed entirely of free software, free data and free documentation, allowing it to be freely distributed, duplicated and passed around. The licenses of all the packaged projects are summarized further on this page.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeo-Liveは、完全にフリーソフトウェア、フリーデータ、フリー文書で構成されており、自由に配布、複製、配布することができます。パッケージ化されたすべてのプロジェクトのライセンスについては、このページで詳しく説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Project Overviews and Overview Translations, are provided under a `Creative Commons Attribution 3.0 Unported License &lt;https://creativecommons.org/licenses/by/3.0/&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトの概要と概要の翻訳は、「Creative Commons Attribution3.0Unported License&lt;https://creativecommons.org/licenses/by/3.0/&gt;」の下で提供されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstarts and Quickstart Translations, are provided under a `Creative Commons Attribution-ShareAlike 3.0 Unported License &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>QuickstartsとQuickStart翻訳は、「Creative Commons Attribution-ShareAlike3.0Unported License&lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;」の下で提供されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Documentation might also be available under other licenses, as listed below.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ドキュメントは、次に示す他のライセンスでも利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Software on OSGeoLive is available under various Free and Open Source licenses, as listed in the Project Overviews.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLiveのソフトウェアは、プロジェクト概要に記載されているように、さまざまなフリーおよびオープンソースライセンスの下で利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data on OSGeoLive is available under various Open Licences.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLiveに関するデータは様々なオープン・ライセンスの下で入手可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attributing OSGeoLive Documentation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLiveの文書の属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As per the `terms of the Creative Commons license &lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F&gt;`_, if you include OSGeoLive documentation into a new document, you will need to attribute the contributors. Further, if Quickstarts are included, which are licenced under the `CC By-SA &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_ license, then the new document will also need to be licenced under the `CC By-SA &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`terms of the Creative Commons license&lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work .3F&gt;`_に従って、OSGeoLiveのドキュメントを新しいドキュメントに含める場合は、コントリビュータの属性を指定する必要があります。さらに、`CC By-SA&lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_ ライセンスの下でライセンスされているQuickstartsが含まれている場合、新しい文書も `CC By-SA&lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_ ライセンスの下でライセンスされる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note that images are not necessarily provided under the same CC license as the text; check with the author.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>画像は必ずしもテキストと同じCCライセンスで提供されているわけではないことに注意してください。著者に確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You may use attribution text similar to one of the following:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次のいずれか属性テキストを使用できます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Documentation Contributors</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -1653,10 +1765,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
-        <seg>Richard R. Schneider Dept. Biological Sciences University of Alberta Edmonton, Alberta, Canada ; Paul Meems, TopX Geo-ICT The Netherlands (RST conversion)</seg>
+        <seg>Richard R.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>Richard R. Schneider Dept. Biological Sciences University of Alberta Edmonton, Alberta, Canada ; Paul Meems, TopX Geo-ICT The Netherlands (RST conversion)</seg>
+        <seg>Richard R.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Schneider Dept.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Schneider Dept.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Biological Sciences University of Alberta Edmonton, Alberta, Canada ; Paul Meems, TopX Geo-ICT The Netherlands (RST conversion)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Biological Sciences University of Alberta Edmonton, Alberta, Canada ; Paul Meems, TopX Geo-ICT The Netherlands (RST conversion)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2161,6 +2289,14 @@
       </tuv>
       <tuv xml:lang="ja">
         <seg>免責事項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>*The contents of OSGeoLive are provided by the copyright holders and contributors "as is" and any express or implied warranties, including, but not limited to, the implied warranties of the merchantability and fitness for a particular purpose are disclaimed. In no event shall the copyright owner or contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, date, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liablity, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.*</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>*OSGeoLiveのコンテンツは、著作権保持者および貢献者によって"現状のまま"提供され、商品性および特定目的への適合性の黙示的な保証を含む(ただし、これらに限定されない)、明示的または暗示的ないかなる保証も拒否されます。いかなる場合においても、著作権所有者または貢献者は、直接的、間接的、付随的、特別、懲罰的、または結果的な損害(代替の商品またはサービスの調達、使用、日付、または利益の損失、またはビジネスの中断を含むが、これらに限定されない)に対して責任を負わないものとします。ただし、契約、厳格な賠償責任、または不法行為(過失またはその他を含む)のいずれによるものであるかを問わず、いかなる責任の理論に基づくものであっても、かかる損害の可能性について事前に知らされていたとしても、このソフトウェアの使用によって発生したとします。*</seg>
       </tuv>
     </tu>
   </body>

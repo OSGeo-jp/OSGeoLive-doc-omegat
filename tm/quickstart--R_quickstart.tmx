@@ -136,7 +136,7 @@
         <seg>For general information about R, try the official `Introduction to R &lt;https://cran.r-project.org/doc/manuals/R-intro.html&gt;`_ or any of the documentation from the main `R Project &lt;https://www.r-project.org/&gt;`_ page.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>Rに関する一般的な情報については、公式の `Introduction to R &lt;https://cran.r-project.org/doc/manuals/R-intro.html&gt;`_ またはメインの `R Project &lt;https://www.r-project.org/&gt;`_ ページ。 </seg>
+        <seg>Rに関する一般的な情報については、公式の `Introduction to R &lt;https://cran.r-project.org/doc/manuals/R-intro.html&gt;`_ またはメインの `R Project &lt;https://www.r-project.org/&gt;`_ ページ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -152,7 +152,7 @@
         <seg>You might also want to check out the `R-Spatial &lt;https://www.rspatial.org&gt;`_ page.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg> `R-Spatial &lt;https://www.rspatial.org&gt;`_ ページもチェックしてみてください。</seg>
+        <seg>`R-Spatial &lt;https://www.rspatial.org&gt;`_ ページもチェックしてみてください。</seg>
       </tuv>
     </tu>
   </body>

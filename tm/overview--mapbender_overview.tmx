@@ -29,6 +29,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Licence:** `MIT license &lt;https://opensource.org/licenses/MIT&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** `MIT license &lt;https://opensource.org/licenses/MIT&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>**Supported Platforms:** Windows, Linux, Mac</seg>
       </tuv>
       <tuv xml:lang="ja">

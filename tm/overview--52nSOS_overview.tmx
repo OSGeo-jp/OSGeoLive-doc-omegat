@@ -21,10 +21,298 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>The 52°North |SOS| supports the interoperable provision of live and archived sensor observation data. A sensor could be a water level meter in a stream, a weather station, or an air quality monitoring station.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>52°North |SOS| は、ライブおよびアーカイブされたセンサー観測データの相互運用可能な提供をサポートします。センサーには、河川の水位計、気象ステーション、大気質モニタリングステーションなどがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Browser Client**: The SOS is delivered with a browser based application. This provides means for administration and configuration of the service instance, as well as sending test requests for SOS operations; appropriate sample requests are included.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ブラウザクライアント**:SOSはブラウザベースのアプリケーションで提供されます。これにより、サービス・インスタンスの管理と構成、およびSOS操作のテスト要求の送信のための手段が提供されます。適切なサンプル要求が含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Helgoland**: The SOS contains the Helgoland application for  the exploration, analysis and visualization of Sensor Web data in various fields of use, e.g. hydrology, meteorology, environmental monitoring, traffic management.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Helgoland**:SOSには、水文、気象、環境モニタリング、交通管理など、さまざまな使用分野におけるセンサーWebデータの調査、分析、視覚化のためのHelgolandアプリケーションが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Specifications**: The 52°North SOS implements the current specification version 2.0.0 and the previous version 1.0.0 (here no transactional operations). Implemented operations for each standard version are listed below.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**仕様**: 52°North SOSは、現在の仕様バージョン2.0.0および以前のバージョン1.0.0を実装します(ここではトランザクション操作はありません)。各標準バージョンに実装されている操作を以下に示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**INSPIRE Download Service Extension**: Starting with Version 4.2.0, an extension is available that allows the SOS to be used as an INSPIRE download service. Background information is provided in a `blog post &lt;https://blog.52north.org/2014/01/30/52north-supports-the-jrc-in-developing-an-inspire-download-service-based-on-sos/&gt;`_ and in the `wiki &lt;https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#INSPIRE_Download_Service_extensi&gt;`_ .</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**INSPIRE ダウンロードサービス拡張**: バージョン4.2.0以降では、SOSをINSPIREダウンロードサービスとして使用できるように拡張されています。背景情報は、`ブログポスト &lt;https://blog.52north.org/2014/01/30/52north-supports-the-jrc-in-developing-an-inspire-download-service-based-on-sos/&gt;`_  および  `Wiki &lt;https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#INSPIRE_Download_Service_extensi&gt;`_で提供されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Air Quality Data e-Reporting Extension**: Starting with version 4.3.0, an extension is available that provides for the Air Quality Data Flows E1a, E1b and E2a compliant data (the instance on OSGeoLive is not configured accordingly). The `installation and configuration &lt;https://wiki.52north.org/SensorWeb/AqdEReporting#Installation&gt;`_ is documented in the 52°North Wiki.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Air Quality データ eレポート拡張**: バージョン4.3.0以降では、Air Quality Data Flows E1a、E1b、およびE2a準拠データを提供する拡張機能が使用可能です(OSGeoLiveのインスタンスは適切に設定されていません)。`インストールと設定 &lt;https://wiki.52north.org/SensorWeb/AqdEReporting#Installation&gt;`_ は 52°North Wiki 内に記載されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Sensor Web REST-API**: Starting with Version 4.1.1., a bundle version is available, that directly provides the `RESTful API &lt;https://wiki.52north.org/SensorWeb/SensorWebClientRESTInterface&gt;`_, is available. Hence, observation data can be requested in a RESTful way and is returned in JSON encoded responses. More details incl. documentation can be found in the `SOS webapp &lt;http://localhost:8080/52nSOS/static/doc/api-doc/&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**センサー Web REST-API**: バージョン4.1.1以降では、バンドルバージョンが使用可能で、 `RESTful API &lt;https://wiki.52north.org/SensorWeb/SensorWebClientRESTInterface&gt;`_　が直接使用可能です。したがって、観測データはRESTfulな方法で要求することができ、JSONエンコードされた応答で返されます。詳細については`SOS webapp &lt;http://localhost:8080/52nSOS/static/doc/api-doc/&gt;`_ 内で文書を確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**INSPIRE Sepcialized Observations**: Support for the INSPIRE Specialized Observations defined in Guidelines for the use of `Observations &amp; Measurements and Sensor Web Enablement-related standards in INSPIRE (D2.9) &lt;https://inspire.ec.europa.eu/id/document/tg/d2.9-o%26m-swe&gt;`_ (`detailed information about the implementation &lt;https://wiki.52north.org/SensorWeb/InspireSpecialisedObservations&gt;`_).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**INSPIRE 専門観測**: `INSPIREにおける観測と測定及びセンサーWeb対応関連標準規格 (D2.9) &lt;https://inspire.ec.europa.eu/id/document/tg/d2.9-o%26m-swe&gt;`_ ガイドラインで定義されている INSPIRE 専門観測をサポートしています(`実装についての詳細情報 &lt;https://wiki.52north.org/SensorWeb/InspireSpecialisedObservations&gt;`_)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**ResultFiltering**: Support for the filtering the observations (GetObservation) and data availabiliy information (GetDataAvailability) by the value of the observation.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**結果フィルタリング**: 観測データ(GetObservation)とデータ可用性情報(GetDataAvailability)の観測データ値でのフィルタリングをサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Read more**: `Details of the implemented functionalities &lt;https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#Features&gt;`_ can be found in the 52°North Wiki.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**詳細**: `実装された機能の詳細 &lt;https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#Features&gt;`_ は 52°North Wiki にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The development of this version of the 52°North SOS was supported by different projects, organizations, and persons. More details can be found in the `52°North SOS client &lt;http://localhost:8080/52nSOS/index&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このバージョンの 52°North SOS の開発は、様々なプロジェクト、組織、メンバーによってサポートされています。詳細については `52°North SOS client &lt;http://localhost:8080/52nSOS/index&gt;`_ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We would like to thank the Belgian Interregional Environment Agency (`IRCEL - CELINE &lt;https://www.irceline.be/en/&gt;`_) for providing the demonstration data used in this SOS installation. The demo data are published under a |CC BY 3.0| License.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>我々は、このSOSインストールで利用されているデモデータを提供してくれた、ベルギーの地域間環境庁(`IRCEL - CELINE &lt;https://www.irceline.be/en/&gt;`_)に感謝の意を表します。でもデータは、 |CC BY 3.0| ライセンスの下で公開されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SOS Operations</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>SOS 操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Queries**:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**クエリ**:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GetCapabilities: for requesting a self-description of the service.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GetCapabilities: サービスの自己記述を要求します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>DescribeSensor: for requesting information about the sensor.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>DescribeSensor: センサーに関する情報を要求します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GetFeatureOfInterest / GetFeatureOfInterestTime (from 1.0): for requesting features (e.g. sensor/measurement locations).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GetFeatureOfInterest / GetFeatureOfInterestTime (1.0以降): 機能(センサー/測定位置など)を要求します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GetObservationById / GetObservation: for requesting observations.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GetObservationById / GetObservation: 観測データを要求します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GetResult (from specification version 2.0): for requesting sensor data.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GetResult (仕様バージョン2.0以降): センサーデータを要求します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GetResultTemplate (from specification version 2.0): for requesting a template of the result structure that will be returned by a GetResult request.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GetResultTemplate (仕様バージョン2.0以降): GetResult 要求で返される結果データのテンプレートを要求します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GetDataAvailability (from `SOS 2.0 Hydrology Profile - OGC Best Practice &lt;https://docs.ogc.org/bp/14-004r1/14-004r1.html#38&gt;`_): for requesting the data availability for certain configurations.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GetDataAvailability (`SOS 2.0 水文学プロファイル - OGC ベストプラクティス &lt;https://docs.ogc.org/bp/14-004r1/14-004r1.html#38&gt;`_): 特定の構成のデータ可用性を要求します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Transactions**:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**トランザクション**:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>InsertSensor (from specification version 2.0): for inserting metadata of new sensors.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>InsertSensor (仕様バージョン2.0以降): 新しいセンサーのメタデータを挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>InsertObservation (from specification version 2.0): for inserting new observations.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>InsertObservation (仕様バージョン2.0以降): 新しい観測データを挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>UpdateSensorDescription (from specification version 2.0): for updating the description of a sensor.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>UpdateSensorDescription (仕様バージョン2.0以降): センサーの説明を更新します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>DeleteSensor (from specification version 2.0): for deleting a sensor/procedure and all related offerings and observations.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>DeleteSensor (仕様バージョン2.0以降): センサー/プロシージャと全ての関連する提供物と観測データを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>DeleteObservation (extension for SOS specification 2.0): for deleting an observation.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>DeleteObservation (SOS 仕様 2.0の拡張): 観測データを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>InsertResultTemplate (from specification version 2.0): for inserting a result template.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>InsertResultTemplate (仕様バージョン2.0以降): 結果テンプレートを挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>InsertResult (from specification version 2.0): for inserting results.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>InsertResult (仕様バージョン2.0以降): 結果データを挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>InsertFeatureOfInterest for feature insertion</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>InsertFeatureOfInterest 地物を挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>DeleteResultTemplate for the deletion of resultTemplates by identifier or offering/observedProperty pairs</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>DeleteResultTemplate 識別子または提供サービスID/計測項目ペアにより、結果テンプレートを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Within these operations, the following filter operators are possible where applicable:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>これらの操作では、該当する場合、以下のフィルタ演算子が利用可能です:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spatial filter: BBOX, using a bounding box.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>空間フィルタ: BBOX、バウンディングボックスを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Temporal filter: During, with time period.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>時間フィルタ: During、期間を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Temporal filter: TEquals, with time instant.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>時間フィルタ: TEquals、時間を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Applicable Standards</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>適用可能な標準規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -41,6 +329,14 @@
       </tuv>
       <tuv xml:lang="ja">
         <seg>|GML|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|SENSORML|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|SENSORML|</seg>
       </tuv>
     </tu>
     <tu>
@@ -53,10 +349,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Website:** https://52north.org/software/software-projects/sos</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://52north.org/software/software-projects/sos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>**Licence:** GNU General Public License (GPL) version 2</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>**ライセンス:** GNU General Public License (GPL) version 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-52nSOS|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-52nSOS|</seg>
       </tuv>
     </tu>
     <tu>
@@ -69,10 +381,74 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Supported Java Versions:** 7+, (bundle version: 8+)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポートする Java バージョン:** 7+, (バンドルバージョン: 8+)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported DBMS:** PostgreSQL (9+) + PostGIS (2+), MariaDB/MySQL (5.6+), Oracle DB (9+), SQL Server 2012</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポートする DBMS:** PostgreSQL (9+) + PostGIS (2+), MariaDB/MySQL (5.6+), Oracle DB (9+), SQL Server 2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**API:** Java, HTTP + JSON/XML/SOAP/KVP</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**API:** Java, HTTP + JSON/XML/SOAP/KVP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Commercial Support:** https://52north.org/services/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**商用サポート:** https://52north.org/services/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Community Support:** https://list.52north.org/mailman/listinfo/sensorweb</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**コミュニティサポート:** https://list.52north.org/mailman/listinfo/sensorweb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Community Website:** https://52north.org/research/research-labs/sensor-web/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**コミュニティWebサイト:** https://52north.org/research/research-labs/sensor-web/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Other 52°North projects on OSGeoLive:** :doc:`WPS &lt;./52nWPS_overview&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**OSGeoLiveでの他の 52°North プロジェクト:** :doc:`WPS &lt;./52nWPS_overview&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Quickstart</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/52nSOS_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/52nSOS_quickstart&gt;`</seg>
       </tuv>
     </tu>
   </body>
