@@ -4078,6 +4078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Built for Performance and Precision:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T043723Z" creationid="miurahr" creationdate="20201122T043723Z">
+        <seg>パフォーマンスと精度を重視した設計:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Built-in PDF output</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003152Z" creationid="miurahr" creationdate="20201103T003152Z">
@@ -6282,6 +6290,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075627Z" creationid="miurahr" creationdate="20201103T075627Z">
         <seg>シェイプを描くには、ラインと同じような操作をした後、ラインを描き始めたポイントでダブルクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draw a wide range of geometries including polylines, polygons, billboards, labels, extrusions, and corridors.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T045432Z" creationid="miurahr" creationdate="20201122T045432Z">
+        <seg>ポリライン、ポリゴン、ビルボード、ラベル、押し出し、コリドーなど、さまざまなジオメトリを描画します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13862,6 +13878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Optimized WebGL with batching and culling efficiently uses hardware-accelerated graphics.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T043816Z" creationid="miurahr" creationdate="20201122T043816Z">
+        <seg>バッチとカリングに最適化されたWebGLにより、ハードウェアで高速化されたグラフィックスを効率的に使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Optimized for use in web mapping applications, such as Google or Yahoo, with built-in scale attributes to direct features to be shown at different zoom levels.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012505Z" creationid="miurahr" creationdate="20201103T012505Z">
@@ -21103,6 +21127,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T134851Z" creationid="miurahr" creationdate="20201120T134851Z">
         <seg>``lsblk``を使用してブロックデバイスを一覧表示し、``dmesg``を使用して接続時にUSBドライブを識別するカーネルメッセージを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use `plugins &lt;https://cesium.com/cesiumjs&gt;`_ to extend Cesium.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T043717Z" creationid="miurahr" creationdate="20201122T043707Z">
+        <seg>`プラグイン&lt;https://cesium.com/cesiumjs&gt;`_を使用してCesiumを拡張します。</seg>
       </tuv>
     </tu>
     <tu>
