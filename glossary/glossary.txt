@@ -53,3 +53,4 @@ polygon	ポリゴン
 corridor	コリドー
 billboard	ビルボード
 extrusion	押し出し	3Dグラフィックス用語
+gazetteer	地名索引
