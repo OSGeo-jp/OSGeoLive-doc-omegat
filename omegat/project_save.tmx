@@ -3310,6 +3310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively, open a browser and go to `&lt;http://localhost/istsos/admin&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T023221Z" creationid="miurahr" creationdate="20201122T023221Z">
+        <seg>または、ブラウザを開き、`&lt;http://localhost/istsos/admin&gt;`_に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatively, you can then access the application using the following URL: `&lt;http://localhost:8080/geomajas/&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131610Z" creationid="miurahr" creationdate="20201116T131610Z">
@@ -4750,6 +4758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the :guilabel:`Enter` button in the administration page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T023229Z" creationid="miurahr" creationdate="20201122T023229Z">
+        <seg>管理ページで:guilabel:`Enter`ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the arrow labelled Workbench in the upper right corner, to reveal the contents of the uDig workbench.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T141524Z" creationid="miurahr" creationdate="20201120T141524Z">
@@ -5042,6 +5058,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T234433Z" creationid="miurahr" creationdate="20201116T234433Z">
         <seg>NetCDFストアを設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Configure your database connection.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T023233Z" creationid="miurahr" creationdate="20201122T023233Z">
+        <seg>データベース接続を設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7226,6 +7250,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142059Z" creationid="miurahr" creationdate="20201116T142059Z">
         <seg>上記のインターフェイスから、既存の空間レイヤとマップをビューおよび変更したり、他のGeoNodeユーザに関する情報を検索したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the toolbar buttons menu, press the "Database" button and fill in the database configuration options:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T023722Z" creationid="miurahr" creationdate="20201122T023722Z">
+        <seg>ツールバーのボタンメニューから、"Database"ボタンを押し、データベース設定オプションを入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14090,6 +14122,30 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135302Z" creationid="miurahr" creationdate="20201116T135302Z">
         <seg>*deegree-inspire-workspace*の開始を押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press the "Coordinates system" button to manage the Coordinate Reference System (CRS).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T024321Z" creationid="miurahr" creationdate="20201122T024321Z">
+        <seg>座標参照系(CRS)を管理するには、"Coordinates system" ボタンを押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press the "Service identification" button and fill up with custom metadata that describe the service usage.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T023808Z" creationid="miurahr" creationdate="20201122T023808Z">
+        <seg>"Service identification"ボタンを押して、サービスの使用状況を説明するカスタムメタデータを入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press the "Service provider" button and fill it using your institutional information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T023749Z" creationid="miurahr" creationdate="20201122T023749Z">
+        <seg>"Service provider"ボタンを押して、施設情報を使用して入力します。</seg>
       </tuv>
     </tu>
     <tu>
