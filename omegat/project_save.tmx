@@ -6886,6 +6886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>First we will create a text file with sensor data, formatted according to "text/csv, subtype=istSOS".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T033158Z" creationid="miurahr" creationdate="20201122T033158Z">
+        <seg>まず、"text/csv,subtype=istSOS"に従ってフォーマットされたセンサーデータのテキストファイルを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>First we'll delete the database we just created using the ``dropdb`` command, then use the ``psql`` command to get an SQL command interpreter:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041745Z" creationid="miurahr" creationdate="20201108T041745Z">
