@@ -1886,6 +1886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Example* (minimal configuration)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T025347Z" creationid="miurahr" creationdate="20201122T025347Z">
+        <seg>*例*(最小構成)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Features* represent real world things and can be rendered using different *geometries* (like point, line or polygon) using a given *style*, which determines its look (line thinkness, fill color, etc).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T004459Z" creationid="miurahr" creationdate="20201108T004459Z">
@@ -1906,6 +1914,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T003921Z" creationid="miurahr" creationdate="20201108T003921Z">
         <seg>*レイヤ*はスタック順にマップに追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Optional parameters:* Fill at your own need and willing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T025341Z" creationid="miurahr" creationdate="20201122T025341Z">
+        <seg>*Optional parameters:*必要に応じて自由に入力してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Outputs (confirm the outputs pressing the "add" button):*</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T025402Z" creationid="miurahr" creationdate="20201122T025402Z">
+        <seg>*出力("add"ボタンを押して出力を確認):*</seg>
       </tuv>
     </tu>
     <tu>
@@ -2894,6 +2918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add a new procedure</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T025303Z" creationid="miurahr" creationdate="20201122T025303Z">
+        <seg>新しいプロシージャを追加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add accessibility information |image42|</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053534Z" creationid="miurahr" creationdate="20201103T053534Z">
@@ -2938,6 +2970,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134228Z" creationid="miurahr" creationdate="20201116T134228Z">
         <seg>マップにレイヤーを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add new observations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T025536Z" creationid="miurahr" creationdate="20201122T025536Z">
+        <seg>新しい観測情報を追加する</seg>
       </tuv>
     </tu>
     <tu>
@@ -5790,6 +5830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description (optional): conversion from resistance to temperature</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T025446Z" creationid="miurahr" creationdate="20201122T025432Z">
+        <seg>説明(オプション): 抵抗値から温度への変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Designed for rich data models from the bottom up</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042442Z" creationid="miurahr" creationdate="20201103T042442Z">
@@ -6662,6 +6710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fill in the form using appropriate information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T025320Z" creationid="miurahr" creationdate="20201122T025320Z">
+        <seg>適切な情報を使用してフォームに入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fill the form on the left to configure the WPS service execution.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T134509Z" creationid="miurahr" creationdate="20201120T134509Z">
@@ -7310,6 +7366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From the toolbar buttons menu press the :guilabel:`New procedure` button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T025317Z" creationid="miurahr" creationdate="20201122T025317Z">
+        <seg>ツールバーのボタンメニューから:guilabel:`New procedure`ボタンを押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From the toolbar buttons menu, press the "Database" button and fill in the database configuration options:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T023722Z" creationid="miurahr" creationdate="20201122T023722Z">
@@ -7330,6 +7394,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T230530Z" creationid="miurahr" creationdate="20201116T230530Z">
         <seg>|GS| 管理ページから:guilabel:`Stores`に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the “services” drop down button of the admin interface (http://localhost/istsos/admin ) choose the desired instance.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T025311Z" creationid="miurahr" creationdate="20201122T025311Z">
+        <seg>管理インターフェイス(http://localhost/istsos/admin)の"services"ドロップダウンボタンから、目的のインスタンスを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8814,6 +8886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If something's gone wrong during the creation you will see an alert here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T025114Z" creationid="miurahr" creationdate="20201122T025114Z">
+        <seg>作成中に何か問題が発生した場合ここに警告が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the active GRASS GIS session has identical location/mapset settings, then an alias can be used to avoid the persistent option in each single command call:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T123059Z" creationid="miurahr" creationdate="20201116T123059Z">
@@ -9098,6 +9178,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T004538Z" creationid="miurahr" creationdate="20201117T004538Z">
         <seg>コンピューターが CD から起動可能になっていれば、地理空間アプリケーションをインストールした Lubuntu のシステムが起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If, for any reason you decide to modify them, the changes will affect only this instance.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T025256Z" creationid="miurahr" creationdate="20201122T025256Z">
+        <seg>何らかの理由で変更した場合、変更はこのインスタンスにのみ影響します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12902,6 +12990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Observed property: urn:ogc:def:parameter:x-istsos:1.0:meteo:air:temperature</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T025408Z" creationid="miurahr" creationdate="20201122T025408Z">
+        <seg>観測されたプロパティ:urn:ogc:def:parameter:x-istSOS:1.0:meteo:air:temperature</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Okeanos is build on top of existing proven open source software (e.g. Synnefo, Google Ganeti).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133010Z" creationid="miurahr" creationdate="20201120T133010Z">
@@ -13066,6 +13162,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Proj.4 ライブラリ使用による、1000を超える投影法でのオンザフライ地図投影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once a procedure is created the outputs (observed properties) cannot be changed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T025326Z" creationid="miurahr" creationdate="20201122T025326Z">
+        <seg>プロシージャが作成されると、出力(観測されたプロパティ)は変更できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14871,6 +14975,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T015114Z" creationid="miurahr" creationdate="20201103T015038Z">
         <seg>リファレンスコードは、何らかの「もの」を一意に参照するためにアプリケーション間で交換されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Register the new sensor (procedure) pressing the "submit" button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T025532Z" creationid="miurahr" creationdate="20201122T025532Z">
+        <seg>"submit"ボタンを押して、新しいセンサー(プロシージャ)を登録します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18059,6 +18171,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The istSOS “demo” instance has inherited all the configuration options from the default configuration.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T025118Z" creationid="miurahr" creationdate="20201122T025118Z">
+        <seg>istSOSの"demo"インスタンスは、デフォルト設定からすべての設定オプションを継承しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The latest stable release is |osgeolive-version| and can be downloaded from:</seg>
       </tuv>
       <tuv lang="ja">
@@ -18431,6 +18551,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055623Z" creationid="miurahr" creationdate="20201103T055623Z">
         <seg>サーバはターミナルウィンドウで起動します(ターミナルウィンドウは開いたままになり、基本的なデバッグ情報を出力します)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The server status panel is displayed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T025107Z" creationid="miurahr" creationdate="20201122T025107Z">
+        <seg>サーバステータスパネルが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20647,6 +20775,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131648Z" creationid="miurahr" creationdate="20201116T131648Z">
         <seg>凡例について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit of measure: °C</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T025412Z" creationid="miurahr" creationdate="20201122T025412Z">
+        <seg>単位:°C</seg>
       </tuv>
     </tu>
     <tu>
@@ -24655,6 +24791,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T104252Z" creationid="smellman" creationdate="20201103T104252Z">
         <seg>BeanShellおよびJava Python/Ythonを介したAPI、スクリプトの提供</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>quality index check (optional): Between / from -40 to +60</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T025438Z" creationid="miurahr" creationdate="20201122T025438Z">
+        <seg>品質指数チェック(オプション):-40から+60まで</seg>
       </tuv>
     </tu>
     <tu>
