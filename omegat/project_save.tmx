@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**API Interfaces:** Python (Django)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052159Z" creationid="miurahr" creationdate="20201122T052159Z">
+        <seg>**API インターフェイス:** Python (Django)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**API Interfaces:** Python / wsgi</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T041941Z" creationid="miurahr" creationdate="20201122T041941Z">
@@ -654,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Licence:** GNU General Public License (GPL) version 2.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052148Z" creationid="miurahr" creationdate="20201122T052148Z">
+        <seg>**ライセンス:** GNU General Public License (GPL) version 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Licence:** GNU General Public License (GPL) version 3</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T061642Z" creationid="miurahr" creationdate="20201103T061642Z">
@@ -1034,6 +1050,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T051748Z" creationid="miurahr" creationdate="20201122T051748Z">
         <seg>**ソフトウェアバージョン:** |version-geonetwork|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-geonode|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052153Z" creationid="miurahr" creationdate="20201122T052153Z">
+        <seg>**ソフトウェアバージョン:** |version-geonode|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1806,6 +1830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Website:** https://geonode.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052143Z" creationid="miurahr" creationdate="20201122T052143Z">
+        <seg>**Webサイト:** https://geonode.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Website:** https://geotools.org/</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T062002Z" creationid="miurahr" creationdate="20201103T062002Z">
@@ -2222,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>... and more!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052132Z" creationid="miurahr" creationdate="20201122T052132Z">
+        <seg>などなど ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2-D EO Coverages derived from gmlcov:RectifiedGridCoverage</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T050608Z" creationid="miurahr" creationdate="20201122T050528Z">
@@ -2274,6 +2314,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>3D 地形レンダリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3D View</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052741Z" creationid="miurahr" creationdate="20201122T052741Z">
+        <seg>3Dビュー</seg>
       </tuv>
     </tu>
     <tu>
@@ -2378,6 +2426,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T051810Z" creationid="miurahr" creationdate="20201122T051810Z">
         <seg>:doc:`クイックスタート文書 &lt;../quickstart/geonetwork_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/geonode_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052221Z" creationid="miurahr" creationdate="20201122T052221Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/geonode_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -3158,6 +3214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Activity streams</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052118Z" creationid="miurahr" creationdate="20201122T052118Z">
+        <seg>アクティビティストリーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ad-hoc access, extraction, aggregation, as well as remix and analytics is enabled through a NewSQL raster query language with highly effective server-side optimization.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014358Z" creationid="miurahr" creationdate="20201103T014358Z">
@@ -3430,6 +3494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Advanced client support of numerous Open Geospatial Consortium (OGC) standards</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052956Z" creationid="miurahr" creationdate="20201122T052956Z">
+        <seg>多数のオープン地理空間コンソーシアム(OGC)標準の先進的なクライアントサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Advanced filter expression support based on XPath 1.0</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042449Z" creationid="miurahr" creationdate="20201103T042449Z">
@@ -3438,10 +3510,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Advanced labelling tools</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052859Z" creationid="miurahr" creationdate="20201122T052849Z">
+        <seg>高度なラベルづけツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Advanced security on different levels (layer, feature, attribute, functionality, …)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T051013Z" creationid="miurahr" creationdate="20201122T051013Z">
         <seg>異なるレベルでの高度なセキュリティ(レイヤ、地物、属性、機能など)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Advanced symbology tools</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052846Z" creationid="miurahr" creationdate="20201122T052846Z">
+        <seg>高度な象徴学ツール</seg>
       </tuv>
     </tu>
     <tu>
@@ -3778,6 +3866,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Android ブラウザ 2.2+, 3.1+, 4+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Announcements and notifications</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052123Z" creationid="miurahr" creationdate="20201122T052123Z">
+        <seg>アナウンスと通知</seg>
       </tuv>
     </tu>
     <tu>
@@ -4582,6 +4678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Catalogues: Z3950, SRW, CSW (ISO/19115 and ebRIM)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052446Z" creationid="miurahr" creationdate="20201122T052446Z">
+        <seg>カタログ: Z3950,SRW,CSW(ISO/19115and ebRim)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cesium Quickstart</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134553Z" creationid="miurahr" creationdate="20201116T134553Z">
@@ -4634,6 +4738,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075137Z" creationid="miurahr" creationdate="20201103T072826Z">
         <seg>オブジェクトの編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Charts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052811Z" creationid="miurahr" creationdate="20201122T052811Z">
+        <seg>チャート</seg>
       </tuv>
     </tu>
     <tu>
@@ -5422,6 +5534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Collaboration</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052105Z" creationid="miurahr" creationdate="20201122T052105Z">
+        <seg>コラボレーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Colombia</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T062257Z" creationid="miurahr" creationdate="20201102T062257Z">
@@ -5870,6 +5990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create multi-layer interactive maps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052028Z" creationid="miurahr" creationdate="20201122T052028Z">
+        <seg>マルチレイヤインタラクティブマップを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create postgis database</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T022239Z" creationid="miurahr" creationdate="20201122T022239Z">
@@ -6026,6 +6154,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>CSS3 を利用したコントロールのルック&amp;フィールのカスタマイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Customized distributions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052950Z" creationid="miurahr" creationdate="20201122T052950Z">
+        <seg>カスタマイズされたディストリビューション</seg>
       </tuv>
     </tu>
     <tu>
@@ -6394,6 +6530,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T051314Z" creationid="miurahr" creationdate="20201122T051314Z">
         <seg>データカタログからの検出とフィルタリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Discovery services client to localize data resources within an SDI (catalogue and gazeteer services)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052436Z" creationid="miurahr" creationdate="20201122T052436Z">
+        <seg>SDI(catalog and gazteer services)内のデータリソースをローカライズするディスカバリサービスのクライアント</seg>
       </tuv>
     </tu>
     <tu>
@@ -7146,6 +7290,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125316Z" creationid="miurahr" creationdate="20201116T125316Z">
         <seg>gdalinfoを使用して画像データを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export/import of SLD legends</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053011Z" creationid="miurahr" creationdate="20201122T053011Z">
+        <seg>SLD凡例のエクスポート/インポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -8278,6 +8430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gazetteers: ADL, WFS, WFS-G</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052547Z" creationid="miurahr" creationdate="20201122T052547Z">
+        <seg>地名索引: ADL, WFS, WFS-G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>General GIS viewing, editing and analysis in the browser</seg>
       </tuv>
       <tuv lang="ja">
@@ -8298,6 +8458,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>DXF ファイルの生成とエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoExplorer GIS client</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052017Z" creationid="miurahr" creationdate="20201122T052017Z">
+        <seg>GeoExplorer GISクライアント</seg>
       </tuv>
     </tu>
     <tu>
@@ -8510,10 +8678,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GeoStyler is an Open Source JavaScript library that enables users to style maps with the help of a Graphical User Interface.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052249Z" creationid="miurahr" creationdate="20201122T052249Z">
+        <seg>GeoStylerはオープンソースのJavaScriptライブラリで、グラフィカルユーザインターフェイスを使用してマップのスタイルを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GeoStyler makes it easy to style geodata in any web page.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235057Z" creationid="miurahr" creationdate="20201116T235057Z">
         <seg>GeoStylerを使用すると、あらゆるWebページで地理データのスタイルを簡単に設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoStyler provides a set of UI Components for map styling.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052308Z" creationid="miurahr" creationdate="20201122T052308Z">
+        <seg>GeoStylerは、マップスタイル用のUIコンポーネントのセットを提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8966,6 +9150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Graphical style editor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052031Z" creationid="miurahr" creationdate="20201122T052024Z">
+        <seg>スタイル編集画面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Great flexibility to create tooltips and markers.</seg>
       </tuv>
       <tuv lang="ja">
@@ -9010,6 +9202,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T051725Z" creationid="miurahr" creationdate="20201122T051725Z">
         <seg>グループとユーザーの管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Groups of users</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052112Z" creationid="miurahr" creationdate="20201122T052112Z">
+        <seg>ユーザーのグループ</seg>
       </tuv>
     </tu>
     <tu>
@@ -9942,6 +10142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Import/export symbol sets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052753Z" creationid="miurahr" creationdate="20201122T052753Z">
+        <seg>シンボルセットのインポート/エクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Importing and exporting to shapefiles</seg>
       </tuv>
       <tuv lang="ja">
@@ -10750,6 +10958,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Integrated advanced CAD tools:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052634Z" creationid="miurahr" creationdate="20201122T052634Z">
+        <seg>統合された高度なCADツール:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Integrated advanced raster tools:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052705Z" creationid="miurahr" creationdate="20201122T052705Z">
+        <seg>統合された高度なラスタツール:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Integration with Mapserver.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T051349Z" creationid="miurahr" creationdate="20201122T051349Z">
@@ -10782,6 +11006,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Interactive Mapping</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052013Z" creationid="miurahr" creationdate="20201122T052013Z">
+        <seg>インタラクティブマッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Interested in learning more about Geomajas?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131829Z" creationid="miurahr" creationdate="20201116T131829Z">
@@ -10802,6 +11034,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T102759Z" creationid="smellman" creationdate="20201103T102759Z">
         <seg>国際化のサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Interoperable: able to work with most known data formats:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052331Z" creationid="miurahr" creationdate="20201122T052331Z">
+        <seg>相互運用性:ほとんどの既知のデータフォーマットで動作します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11894,6 +12134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Load WMS, WMTS, WFS and WCS layers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T053007Z" creationid="miurahr" creationdate="20201122T053007Z">
+        <seg>WMS、WMTS、WFS、WCSレイヤのよみこみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Load a sample (ficticious) map</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T072330Z" creationid="miurahr" creationdate="20201103T072330Z">
@@ -12194,6 +12442,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>地図投影サポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Map sheets composer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052808Z" creationid="miurahr" creationdate="20201122T052808Z">
+        <seg>マップシートのコンポーザ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12562,6 +12818,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T124738Z" creationid="miurahr" creationdate="20201116T124738Z">
         <seg>詳細については、`運用者ガイド&lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More than 300 geoalgorithms via SEXTANTE library</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052630Z" creationid="miurahr" creationdate="20201122T052553Z">
+        <seg>SEXTANTEライブラリ経由で300以上のジオ・アルゴリズム</seg>
       </tuv>
     </tu>
     <tu>
@@ -14862,6 +15126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Portable views</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052946Z" creationid="miurahr" creationdate="20201122T052946Z">
+        <seg>ポータブルビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Positioning &amp; Tracking (GPS and WLAN localization, Track export in KML)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010332Z" creationid="miurahr" creationdate="20201103T010332Z">
@@ -15010,6 +15282,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>強力なラスタ処理アルゴリズム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Powerful reprojection engine via PROJ4</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052749Z" creationid="miurahr" creationdate="20201122T052749Z">
+        <seg>PROJ4による強力な再投影エンジン</seg>
       </tuv>
     </tu>
     <tu>
@@ -15234,6 +15514,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>以前利用可能だったアプリケーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Print maps as PDF</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052102Z" creationid="miurahr" creationdate="20201122T052052Z">
+        <seg>マップをPDFとして印刷する</seg>
       </tuv>
     </tu>
     <tu>
@@ -15478,6 +15766,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022915Z" creationid="miurahr" creationdate="20201103T022915Z">
         <seg>データをOGC WMS(Web Map Service)としてパブリッシュする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Publishing extension</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052943Z" creationid="miurahr" creationdate="20201122T052943Z">
+        <seg>パブリッシング拡張</seg>
       </tuv>
     </tu>
     <tu>
@@ -16083,6 +16379,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Review, rate, and comment on data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052109Z" creationid="miurahr" creationdate="20201122T052109Z">
+        <seg>データのレビュー、評価、コメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reviewers(s)</seg>
       </tuv>
       <tuv lang="ja">
@@ -16407,6 +16711,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T051717Z" creationid="miurahr" creationdate="20201122T051717Z">
         <seg>配信されたカタログ(GeoNetwork、CSW、OGC WxS GetCapabilities、WebDAV、ArcSDE、Thredds、OGC WFS Features、OAI-PMH)間のメタデータのスケジュールされた収集と同期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scripting support (for both vector and raster data)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052745Z" creationid="miurahr" creationdate="20201122T052745Z">
+        <seg>スクリプトサポート(ベクタとラスタデータの両方)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16967,6 +17279,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T072818Z" creationid="miurahr" creationdate="20201103T072818Z">
         <seg>シェイプ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Share and embed maps in web pages</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052048Z" creationid="miurahr" creationdate="20201122T052037Z">
+        <seg>マップを共有してWebページに埋め込む</seg>
       </tuv>
     </tu>
     <tu>
@@ -19119,6 +19439,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130152Z" creationid="miurahr" creationdate="20201116T130152Z">
         <seg>gdalwarpコマンドを使用して、イメージを再投影できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The goal of GeoStyler is a universally applicable GUI that works with any given style format; be it SLD, QML, OpenLayers, etc.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052257Z" creationid="miurahr" creationdate="20201122T052257Z">
+        <seg>GeoStylerの目的は、SLD、QML、OpenLayersなど、任意のスタイルフォーマットで動作する、普遍的に適用可能なGUIです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25275,6 +25603,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>command console typical element in CAD software</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052642Z" creationid="miurahr" creationdate="20201122T052642Z">
+        <seg>コマンドコンソールCADソフトウェアの典型的な要素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>command.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041125Z" creationid="miurahr" creationdate="20201108T041125Z">
@@ -25335,6 +25671,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>データベーステーブル: PostgreSQL/PostGIS、Oracle Spatial、MS SQL Spatial、SpatiaLite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>databases: PostGIS, MySQL, Oracle, ArcSDE</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052354Z" creationid="miurahr" creationdate="20201122T052354Z">
+        <seg>データベース: PostGIS, MySQL, Oracle, ArcSDE</seg>
       </tuv>
     </tu>
     <tu>
@@ -25459,6 +25803,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>export, clipping</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052721Z" creationid="miurahr" creationdate="20201122T052721Z">
+        <seg>エクスポート,クリッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>feature labeling</seg>
       </tuv>
       <tuv lang="ja">
@@ -25495,6 +25847,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012001Z" creationid="miurahr" creationdate="20201103T012001Z">
         <seg>空間的および非空間的属性に関してデータをフィルタ処理および分析する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>filters, vectorization</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052729Z" creationid="miurahr" creationdate="20201122T052729Z">
+        <seg>フィルタ,ベクタ化</seg>
       </tuv>
     </tu>
     <tu>
@@ -25543,6 +25903,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051836Z" creationid="smellman" creationdate="20201103T051836Z">
         <seg>設定なしでベクタータイルを生成し、組み込みビューアで検査する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>georeferencing and reprojecting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052709Z" creationid="miurahr" creationdate="20201122T052709Z">
+        <seg>ジオリファレンスと再投影</seg>
       </tuv>
     </tu>
     <tu>
@@ -25795,6 +26163,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>look up tables, histogram</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052725Z" creationid="miurahr" creationdate="20201122T052725Z">
+        <seg>検索テーブル,ヒストグラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>manipulate image bands to create grayscale- or false-color images</seg>
       </tuv>
       <tuv lang="ja">
@@ -25887,6 +26263,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T001920Z" creationid="miurahr" creationdate="20201117T001920Z">
         <seg>osm2pgroutingは、.osmファイルをpgRouting互換形式でロードするためのコマンドラインツールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>overviews and regions of interest management</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052733Z" creationid="miurahr" creationdate="20201122T052733Z">
+        <seg>全体図と関心領域の管理</seg>
       </tuv>
     </tu>
     <tu>
@@ -26003,6 +26387,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>raster : ecw,  ENVI hdr, ERDAS img, (Geo)TIFF, GRASS, NetCDF...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052339Z" creationid="miurahr" creationdate="20201122T052339Z">
+        <seg>ラスタ : ecw,  ENVI hdr, ERDAS img, (Geo)TIFF, GRASS, NetCDF...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>raster formats and data access:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012245Z" creationid="miurahr" creationdate="20201103T012245Z">
@@ -26063,6 +26455,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T103229Z" creationid="smellman" creationdate="20201103T103142Z">
         <seg>読み取り (ファイル): GML, SHP, DXF+, MIF*, CSV+, KML+, OSM* &amp; TIFF, ASCII grid, JPG, PNG, JPEG2000+, MrSID*, ECW+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>remote: OGC standards (WMS, WMTS, WFS, WCS), OSM, ECWP, ArcIMS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052404Z" creationid="miurahr" creationdate="20201122T052357Z">
+        <seg>リモート: OGC 標準 (WMS, WMTS, WFS, WCS), OSM, ECWP, ArcIMS</seg>
       </tuv>
     </tu>
     <tu>
@@ -26275,6 +26675,30 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>tools for inserting elements like points, polygons, lines, ellipses, etc...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052652Z" creationid="miurahr" creationdate="20201122T052652Z">
+        <seg>ポイント、ポリゴン、ライン、楕円などの要素を挿入するツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>tools like help, grid, command stack, complex element selections</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052647Z" creationid="miurahr" creationdate="20201122T052647Z">
+        <seg>ヘルプ、グリッド、コマンドスタック、複雑な要素選択などのツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>tools to modify its rotation, scale, symmetry,...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052701Z" creationid="miurahr" creationdate="20201122T052701Z">
+        <seg>回転、スケール、対称性などを変更するツール.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>truly multi-dimensional - 1-D, 2-D, 3-D, 4-D, and beyond</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071255Z" creationid="miurahr" creationdate="20201103T071255Z">
@@ -26327,6 +26751,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T140800Z" creationid="miurahr" creationdate="20201120T140800Z">
         <seg>標準のマップツールを使用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>vector &amp; CAD: shapefile, NetCDF, GML, KML, DGN, DXF, DWG</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052349Z" creationid="miurahr" creationdate="20201122T052349Z">
+        <seg>ベクタ &amp; CAD: shapefile, NetCDF, GML, KML, DGN, DXF, DWG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>vector data: modify, create and delete elements</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201122T052638Z" creationid="miurahr" creationdate="20201122T052638Z">
+        <seg>ベクタデータ:要素の変更、作成、削除</seg>
       </tuv>
     </tu>
     <tu>
