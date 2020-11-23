@@ -806,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**License:** GPLv3 or BSD License dependent on ExtJS license - see `License &lt;https://github.com/geoext/geoext3/blob/master/LICENSE&gt;`_ and `License FAQ &lt;https://github.com/geoext/geoext3/blob/master/LICENSE-FAQ.md&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225342Z" creationid="miurahr" creationdate="20201123T225342Z">
+        <seg>**ライセンス:** GPLv3 or BSD License dependent on ExtJS license - see `License &lt;https://github.com/geoext/geoext3/blob/master/LICENSE&gt;`_ and `License FAQ &lt;https://github.com/geoext/geoext3/blob/master/LICENSE-FAQ.md&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**License:** `Open Data Commons Open Database License (ODbL) &lt;https://opendatacommons.org/licenses/odbl/&gt;`_</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T051623Z" creationid="miurahr" creationdate="20201102T051623Z">
@@ -1026,6 +1034,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**ソフトウェアバージョン:** |version-gdal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-geoext|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225349Z" creationid="miurahr" creationdate="20201123T225349Z">
+        <seg>**ソフトウェアバージョン:** |version-geoext|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1306,6 +1322,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071427Z" creationid="miurahr" creationdate="20201103T071427Z">
         <seg>**サポート:**  https://rasdaman.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** Mailing list https://www.geoext.org/cgi-bin/mailman/listinfo/users and https://stackoverflow.com/questions/tagged/geoext3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225403Z" creationid="miurahr" creationdate="20201123T225403Z">
+        <seg>**サポート:** Mailing list https://www.geoext.org/cgi-bin/mailman/listinfo/users and https://stackoverflow.com/questions/tagged/geoext3</seg>
       </tuv>
     </tu>
     <tu>
@@ -1858,6 +1882,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**Webサイト:** https://gdal.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://geoext.github.io/geoext3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225335Z" creationid="miurahr" creationdate="20201123T225335Z">
+        <seg>**Webサイト:** https://geoext.github.io/geoext3</seg>
       </tuv>
     </tu>
     <tu>
@@ -2450,6 +2482,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>:doc:`クイックスタート文書 &lt;../quickstart/gdal_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/geoext_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225412Z" creationid="miurahr" creationdate="20201123T225412Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/geoext_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -6350,6 +6390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data Models and Stores</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225226Z" creationid="miurahr" creationdate="20201123T225226Z">
+        <seg>データモデルとデータストア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data Sets</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012508Z" creationid="miurahr" creationdate="20201103T012508Z">
@@ -7534,6 +7582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ExtJS stores and models for OpenLayers features and layers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225245Z" creationid="miurahr" creationdate="20201123T225245Z">
+        <seg>OpenLayersの地物とレイヤのためのExtJSストアとモデル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Extend QGIS functionality with `Plugins &lt;https://docs.qgis.org/3.4/en/docs/user_manual/plugins/plugins.html&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T015703Z" creationid="miurahr" creationdate="20201117T015703Z">
@@ -7610,6 +7666,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>重複を回避するフィーチャのラベル付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Feature renderer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225156Z" creationid="miurahr" creationdate="20201123T225156Z">
+        <seg>地物レンダラー</seg>
       </tuv>
     </tu>
     <tu>
@@ -8710,6 +8774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GeoExt components can be used just like any other ExtJS component and can be easily configured and extended.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225050Z" creationid="miurahr" creationdate="20201123T225050Z">
+        <seg>GeoExtコンポーネントは、他のExtJSコンポーネントと同様に使用でき、簡単に設定と拡張ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GeoExt is Open Source and enables building desktop-like GIS applications through the web.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T224816Z" creationid="miurahr" creationdate="20201123T224816Z">
@@ -8722,6 +8794,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053825Z" creationid="miurahr" creationdate="20201103T053812Z">
         <seg>GeoExtはブラウザ上で動作するJavaScriptライブラリであり、ExtJSフレームワークとOpenLayersライブラリを組み合わせて拡張したものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoExt3 is dual licensed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225102Z" creationid="miurahr" creationdate="20201123T225102Z">
+        <seg>GeoExt3はデュアルライセンスです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10102,6 +10182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you are using the GPL v3 version of the ExtJS framework you will use it under GPLv3.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225114Z" creationid="miurahr" creationdate="20201123T225114Z">
+        <seg>GPLv3バージョンのExtJSフレームワークを使用している場合は、GPLv3の下で使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you can't figure out yours try this website that lists many BIOS hotkeys.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T135807Z" creationid="miurahr" creationdate="20201120T135807Z">
@@ -10242,6 +10330,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T145040Z" creationid="miurahr" creationdate="20201116T145040Z">
         <seg>このリンクを新しいウィンドウで開くと、マップは保存された状態で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you own a Sencha ExtJS Commercial License, you have the right to use GeoExt3 under the BSD License.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225127Z" creationid="miurahr" creationdate="20201123T225127Z">
+        <seg>Sencha ExtJS商用ライセンスを所有している場合、BSDライセンスの下でGeoExt3を使用する権利があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11270,10 +11366,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Integration of the OpenLayers data model with the ExtJS data model enabling sorting and filtering of features using ExtJS components</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225235Z" creationid="miurahr" creationdate="20201123T225235Z">
+        <seg>OpenLayersデータモデルとExtJSデータモデルの統合により、ExtJSコンポーネントを使用した地物の並べ替えとフィルタリングが可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Integration with Mapserver.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T051349Z" creationid="miurahr" creationdate="20201122T051349Z">
         <seg>Mapserverとの統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Integration with `MapFish Print &lt;http://mapfish.github.io/mapfish-print-doc/&gt;`_ and `GeoServer Printing Module &lt;https://docs.geoserver.org/latest/en/user/extensions/printing/index.html&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225314Z" creationid="miurahr" creationdate="20201123T225314Z">
+        <seg> `MapFish Print &lt;http://mapfish.github.io/mapfish-print-doc/&gt;`_  および `GeoServer Printing Module &lt;https://docs.geoserver.org/latest/en/user/extensions/printing/index.html&gt;`_ との統合</seg>
       </tuv>
     </tu>
     <tu>
@@ -12022,6 +12134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Just like a modular building block system all components can be stacked together to create a nice UI for your web applications.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225619Z" creationid="miurahr" creationdate="20201123T225619Z">
+        <seg>モジュラー・ビルディング・ブロック・システムと同様に、すべてのコンポーネントをスタックして、Webアプリケーション用の優れたUIを作成することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Just select the natural earth store from the drop down box to get back to the store's page.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231124Z" creationid="miurahr" creationdate="20201116T231124Z">
@@ -12170,6 +12290,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>レイヤ合成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Layer Serializers (WMS, WMTS, XYZ)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225329Z" creationid="miurahr" creationdate="20201123T225329Z">
+        <seg>レイヤシリアライザー(WMS, WMTS, XYZ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Layer Tree, legends, and drag-and-drop layer ordering</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225216Z" creationid="miurahr" creationdate="20201123T225208Z">
+        <seg>レイヤツリー、凡例、ドラッグアンドドロップによるレイヤ順序管理</seg>
       </tuv>
     </tu>
     <tu>
@@ -12598,6 +12734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lower level classes are also available allowing OpenLayers features and layers to be used as ExtJS data models, and for various map layer types to be serialized.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225058Z" creationid="miurahr" creationdate="20201123T225058Z">
+        <seg>下位レベルのクラスも利用可能で、OpenLayersの地物とレイヤをExtJSデータモデルとして使用したり、さまざまなマップレイヤタイプをシリアライズしたりすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Luckily there are other ways of getting data into PostGIS tables that are much easier.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043035Z" creationid="miurahr" creationdate="20201108T043035Z">
@@ -12794,6 +12938,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>地図の移動、ズームと回転、地物の選択、編集など</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Map panel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225138Z" creationid="miurahr" creationdate="20201123T225138Z">
+        <seg>マップパネル</seg>
       </tuv>
     </tu>
     <tu>
@@ -15318,6 +15470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overview map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225149Z" creationid="miurahr" creationdate="20201123T225149Z">
+        <seg>マップ全体図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overview map, zoom slider, zoom in/out buttons, scale line, rotate map, etc.</seg>
       </tuv>
       <tuv lang="ja">
@@ -15562,6 +15722,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T061835Z" creationid="miurahr" creationdate="20201102T061835Z">
         <seg>ポーランド語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pop-ups</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225152Z" creationid="miurahr" creationdate="20201123T225152Z">
+        <seg>ポップアップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -20110,6 +20278,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The license you choose depends on the license of the framework ExtJS you use with it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225108Z" creationid="miurahr" creationdate="20201123T225108Z">
+        <seg>選択するライセンスは、使用するフレームワークExtJSのライセンスによって異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The licenses of all the packaged projects are summarized further on this page.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T110619Z" creationid="smellman" creationdate="20201101T110619Z">
@@ -20970,6 +21146,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T080314Z" creationid="miurahr" creationdate="20201103T080314Z">
         <seg>これらのデータは架空のものであり、OpenStreetMapデータベースにアップロードしないでください(新しいJOSMリリースでは自動的にこの問題が回避されます)。*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These include, among many others, Symbolizer Editors, RuleTables and a fully-fledged StyleEditor including filters and scale denominators.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T230212Z" creationid="miurahr" creationdate="20201123T230212Z">
+        <seg>これらには、Symbolizer編集者、RuleTables、そしてフィルタとスケール分母を含む完全なStyleEditorが含まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22310,6 +22494,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To simplify the setup, we also provide some high-level components (based on our building blocks) that already do the work for you.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225639Z" creationid="miurahr" creationdate="20201123T225639Z">
+        <seg>セットアップを単純化するために、我々は、我々のビルディングブロックに基づいて、既にあなたのために作業をしているいくつかの高レベルのコンポーネントも提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To start GeoNode on your OSGeoLive DVD you have to choose :menuselection:`Geospatial --&gt; Browser Clients --&gt; GeoNode --&gt; Start GeoNode` and after a few moments the GeoNode webpage will automatically open at http://geonode.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T151936Z" creationid="miurahr" creationdate="20201116T142047Z">
@@ -22722,6 +22914,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T230804Z" creationid="miurahr" creationdate="20201116T230804Z">
         <seg>データストアの名前(*Natural Earth*など)を入力し、データセットのURL(この場合は:file:`/usr/local/share/data/natural_earth2/`)を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UI Components</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225132Z" creationid="miurahr" creationdate="20201123T225132Z">
+        <seg>UIコンポーネント</seg>
       </tuv>
     </tu>
     <tu>
