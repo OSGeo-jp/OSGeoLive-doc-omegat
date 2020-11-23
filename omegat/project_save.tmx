@@ -2272,8 +2272,8 @@
       <tuv lang="en-US">
         <seg>*deegree 3* is the new generation of the deegree Java framework for GIS applications and OGC-service implementations.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T135024Z" creationid="miurahr" creationdate="20201116T135024Z">
-        <seg>*deegree3*は、deegree Javaフレームワークの新世代であり、GISアプリケーションとOGCサービス実装のためのものです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143509Z" creationid="miurahr" creationdate="20201116T135024Z">
+        <seg>*deegree3* は、deegree Javaフレームワークの新世代であり、GISアプリケーションとOGCサービス実装のためのものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2288,16 +2288,16 @@
       <tuv lang="en-US">
         <seg>*deegree* is a Java application for serving maps (and vector data) for other clients to show.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T020817Z" creationid="miurahr" creationdate="20201103T020817Z">
-        <seg>*deegree*は、他のクライアントが表示するマップ(およびベクタデータ)を提供するJavaアプリケーションです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143441Z" creationid="miurahr" creationdate="20201103T020817Z">
+        <seg>*deegree* は、他のクライアントが表示するマップ(およびベクタデータ)を提供するJavaアプリケーションです。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>*deegree* is open source software for spatial data infrastructures and the geospatial web.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T135008Z" creationid="miurahr" creationdate="20201116T135008Z">
-        <seg>*deegree*は、空間データインフラストラクチャと地理空間Webのためのオープンソースソフトウェアです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143438Z" creationid="miurahr" creationdate="20201116T135008Z">
+        <seg>*deegree* は、空間データインフラストラクチャと地理空間Webのためのオープンソースソフトウェアです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3710,6 +3710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Again we subset the points we want and transform them to Ordnance Survey Grid Reference coordinates:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142928Z" creationid="miurahr" creationdate="20201123T142928Z">
+        <seg>ここでも、目的の点をサブセット化し、Ordnance Surveyグリッド・リファレンス座標に変換します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Again we'll use QGIS to show this.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043927Z" creationid="miurahr" creationdate="20201108T043927Z">
@@ -4042,6 +4050,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235444Z" creationid="miurahr" creationdate="20201116T235444Z">
         <seg>次のステップとして、OpenLayersマップを追加し、``Style``コンポーネントをマップに接続して、マップ上で行った変更を直接見ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As in a database, each field must be of the same type for each record.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142724Z" creationid="miurahr" creationdate="20201123T142724Z">
+        <seg>データベースと同様に、各フィールドは各レコードで同じ型でなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4872,8 +4888,8 @@
       <tuv lang="en-US">
         <seg>Choose *'Start deegree'* from the :menuselection:`Geospatial --&gt; Web Services --&gt; deegree` menu.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T135114Z" creationid="miurahr" creationdate="20201116T135114Z">
-        <seg>:menuselection:`Geospatial--&gt;Web Services--&gt;deegree`メニューから*'deegreeを開始'*を選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143530Z" creationid="miurahr" creationdate="20201116T135114Z">
+        <seg>:menuselection:`Geospatial--&gt;Web Services--&gt;deegree`メニューから *'deegreeを開始'* を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6230,6 +6246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Currently the object doesn't have a coordinate system assigned to it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142837Z" creationid="miurahr" creationdate="20201123T142837Z">
+        <seg>現在、オブジェクトには座標系が割り当てられていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Currently, there aren't any maps here.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142955Z" creationid="miurahr" creationdate="20201116T142955Z">
@@ -6346,6 +6370,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014243Z" creationid="miurahr" creationdate="20201103T014243Z">
         <seg>データの変更は、経路探索エンジン経由ですぐに反映させることが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data frames are data structures that mirror the kind of structure found in an RDBMS such as Postgres or MySQL.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142716Z" creationid="miurahr" creationdate="20201123T142716Z">
+        <seg>データフレームは、PostgresやMySQLなどのRDBMSにあるような構造を反映したデータ構造です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7110,6 +7142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each row can be thought of as a record, with columns being like fields in a database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142721Z" creationid="miurahr" creationdate="20201123T142721Z">
+        <seg>各行はレコードとみなすことができ、カラムはデータベースのフィールドのようなものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Earth at Night</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T000812Z" creationid="miurahr" creationdate="20201117T000812Z">
@@ -7218,6 +7258,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133942Z" creationid="miurahr" creationdate="20201116T133935Z">
         <seg>レコードを編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Elements of matrices can be extracted using square brackets, with row and column indices separated by commas.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142704Z" creationid="miurahr" creationdate="20201123T142704Z">
+        <seg>行列の要素は、カンマで区切られた行と列のインデックスを持つ角括弧を使用して抽出できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7712,8 +7760,8 @@
       <tuv lang="en-US">
         <seg>Firefox opens the *deegree 3 services console*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T135136Z" creationid="miurahr" creationdate="20201116T135136Z">
-        <seg>Firefoxは*deegree3サービス コンソール*を開きます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143548Z" creationid="miurahr" creationdate="20201116T135136Z">
+        <seg>Firefoxは *deegree3サービス コンソール* を開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7976,8 +8024,8 @@
       <tuv lang="en-US">
         <seg>For general information about R, try the official `Introduction to R &lt;https://cran.r-project.org/doc/manuals/R-intro.html&gt;`_ or any of the documentation from the main `R Project &lt;https://www.r-project.org/&gt;`_ page.</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>Rに関する一般的な情報については、公式の `Introduction to R &lt;https://cran.r-project.org/doc/manuals/R-intro.html&gt;`_ またはメインの `R Project &lt;https://www.r-project.org/&gt;`_ ページ。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143117Z">
+        <seg>いまは、Rに関する一般的な情報については、公式の`Introduction to R &lt;https://cran.r-project.org/doc/manuals/R-intro.html&gt;`_  またはメインの `R Project &lt;https://www.r-project.org/&gt;`_ ページにあたるとよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9526,6 +9574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here we will load two shapefiles - the country boundaries and populated places from the Natural Earth data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142751Z" creationid="miurahr" creationdate="20201123T142751Z">
+        <seg>ここでは、2つのシェープファイル、つまりNatural Earthデータから国の境界と居住地を読み込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here you can also see the included datasets.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T124906Z" creationid="miurahr" creationdate="20201116T124906Z">
@@ -9538,6 +9594,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023349Z" creationid="miurahr" creationdate="20201103T023349Z">
         <seg>次に、いくつかのをいくつか紹介しよう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here's a simple sequence:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142637Z" creationid="miurahr" creationdate="20201123T142637Z">
+        <seg>以下に簡単なシーケンスを示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10030,6 +10094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you construct a matrix you get row and column labels:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142659Z" creationid="miurahr" creationdate="20201123T142659Z">
+        <seg>行列を作成すると、行と列のラベルが作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you downloaded data for southern Africa, cloud cover may be more interesting.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133703Z" creationid="miurahr" creationdate="20201120T133703Z">
@@ -10454,6 +10526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In many ways they work like matrices, but you can also get and set the columns by name using $-notation:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142730Z" creationid="miurahr" creationdate="20201123T142730Z">
+        <seg>これらは多くの点で行列のように機能しますが、$-表記法を使用して名前でカラムを取得・設定することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In no event shall the copyright owner or contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, date, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liablity, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.*</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T111402Z" creationid="smellman" creationdate="20201101T111402Z">
@@ -10650,6 +10730,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231111Z" creationid="miurahr" creationdate="20201116T231111Z">
         <seg>次のセクションでは、より良いスタイルの作成について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the past, the documentation for R packages tended to be tersely-written help pages for each function.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143008Z" creationid="miurahr" creationdate="20201123T143008Z">
+        <seg>以前は、Rパッケージのドキュメントは、関数ごとに簡潔に書かれたヘルプページになる傾向がありました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12122,6 +12210,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>あなたのアプリケーションでの pgRouting の利用について、もっと知りたい場合は、 `documentation &lt;http://docs.pgrouting.org&gt;`_ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Leave an index blank to get a whole row as a vector.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142708Z" creationid="miurahr" creationdate="20201123T142708Z">
+        <seg>ベクタとして行全体を取得するには、インデックスを空白のままにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13822,6 +13918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now package authors are encouraged to write a 'vignette' as a friendly introduction to the package.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143020Z" creationid="miurahr" creationdate="20201123T143020Z">
+        <seg>これで、パッケージ作成者は、パッケージをわかりやすく紹介するために、'vignette'を書くことをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now select another feature near the first you've selected, then click on a multiple geometries process button like Union, Intersection, Symmetric Difference or Difference to get the result displayed in red on the map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T134343Z" creationid="miurahr" creationdate="20201120T134343Z">
@@ -13926,6 +14030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now we want to add some points from the populated place data set.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142919Z" creationid="miurahr" creationdate="20201123T142919Z">
+        <seg>次に、設定された場所のデータセットからいくつかの点を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now we'll query for schools near to highway 42.::</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T021749Z" creationid="miurahr" creationdate="20201122T021749Z">
@@ -13946,6 +14058,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T003040Z" creationid="miurahr" creationdate="20201117T003040Z">
         <seg>これで、外部テーブルを作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now you can see that the ``[9]`` is telling us that 4.555 is the ninth value in the vector.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142655Z" creationid="miurahr" creationdate="20201123T142655Z">
+        <seg>これで、 ``[9]``によって、4.555が9番目の値であることがわかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16162,6 +16282,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>R can store things in one-dimensional vectors, two-dimensional matrices, and multi-dimensional arrays.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142630Z" creationid="miurahr" creationdate="20201123T142630Z">
+        <seg>Rは、1次元のベクタ、2次元の行列、多次元の配列ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>R is a free software environment for statistical computing and graphics.</seg>
       </tuv>
       <tuv lang="ja">
@@ -16191,6 +16319,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T142441Z" creationid="miurahr" creationdate="20201123T142441Z">
         <seg>Rは基本的にコマンドラインプログラムですが、GUIも利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>R will ask you if you want to save your workspace as an R data image file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142948Z" creationid="miurahr" creationdate="20201123T142948Z">
+        <seg>作業フォルダをRデータの画像ファイルとして保存するかどうかを尋ねるメッセージが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16341,8 +16477,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Read our written `tutorials &lt;https://cesium.com/docs&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134812Z" creationid="miurahr" creationdate="20201116T134812Z">
-        <seg>`チュートリアル&lt;https://cesium.com/docs&gt;`_をお読みください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143242Z" creationid="miurahr" creationdate="20201116T134812Z">
+        <seg> `tutorials &lt;https://cesium.com/docs&gt;`_ をお読みください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17743,6 +17879,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113344Z" creationid="miurahr" creationdate="20201103T113344Z">
         <seg>GeoServerなどの一部のアプリケーションでは、仮想マシンに2GB以上のRAMが必要です。可能であれば、仮想マシンに2GB以上のRAMを用意することを検討してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some are included here, and some can be downloaded from CRAN.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142738Z" creationid="miurahr" creationdate="20201123T142738Z">
+        <seg>ここに含まれているものもあれば、CRANからダウンロードできるものもあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19189,8 +19333,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The `Cesium Forum &lt;https://groups.google.com/forum/#!forum/cesium-dev&gt;`_ is a great place to search for answers to common questions, and to raise questions that haven't been asked before.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134900Z" creationid="miurahr" creationdate="20201116T134900Z">
-        <seg>`Cesium Forum&lt;https://groups.google.com/forum/#!forum/cesium-dev&gt;`_は、一般的な質問に対する回答を検索したり、これまでに質問されたことのない質問を提起したりするのに最適な場所です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143328Z" creationid="miurahr" creationdate="20201116T134900Z">
+        <seg>`Cesium Forum &lt;https://groups.google.com/forum/#!forum/cesium-dev&gt;`_ は、一般的な質問に対する回答を検索したり、これまでに質問されたことのない質問を提起したりするのに最適な場所です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20539,6 +20683,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are many functions that can generate these things.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142633Z" creationid="miurahr" creationdate="20201123T142633Z">
+        <seg>これらを生成する関数はたくさんあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are many packages for spatial data manipulation and statistics.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142733Z" creationid="miurahr" creationdate="20201123T142733Z">
+        <seg>空間データ操作と統計のための多くのパッケージがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are points, lines, and shapes.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T072451Z" creationid="miurahr" creationdate="20201103T072451Z">
@@ -21029,8 +21189,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This is a simple web-based GUI for editing the configuration files of the *deegree workspace*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T135156Z" creationid="miurahr" creationdate="20201116T135156Z">
-        <seg>これは、*deegree作業フォルダ*の設定ファイルを編集するためのシンプルなWebベースのGUIです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143603Z" creationid="miurahr" creationdate="20201116T135156Z">
+        <seg>これは、 *deegree作業フォルダ* の設定ファイルを編集するためのシンプルなWebベースのGUIです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21099,6 +21259,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is telling you that the result is one number.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142625Z" creationid="miurahr" creationdate="20201123T142625Z">
+        <seg>これは、結果が1つの数値であることを示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the official client for PostgreSQL.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T002530Z" creationid="miurahr" creationdate="20201117T002530Z">
@@ -21139,6 +21307,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This looks a bit squashed to anyone who lives here, since we are more familiar with a coordinate system centred at our latitude.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142830Z" creationid="miurahr" creationdate="20201123T142830Z">
+        <seg>緯度を中心とした座標系に慣れているので、ここに住んでいる人には少々押しつぶされたように見えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This makes it possible to convert different versions of S code to run on R without major code modifications.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013734Z" creationid="miurahr" creationdate="20201103T013734Z">
@@ -21159,6 +21335,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T014657Z" creationid="miurahr" creationdate="20201117T014657Z">
         <seg>これで、ラスタレイヤがマップフレームの他のすべてのレイヤの上にレンダリングされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This plots the base map of the transformed data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142915Z" creationid="miurahr" creationdate="20201123T142915Z">
+        <seg>これは、変換されたデータのベースマップをプロットします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21947,6 +22131,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To quite R, type ``q()`` and hit return.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142943Z" creationid="miurahr" creationdate="20201123T142943Z">
+        <seg>Rを終了するには、``q()``と入力してreturnを押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To save the map click on the *Map* button in the toolbar, and select *Save Map*.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T144802Z" creationid="miurahr" creationdate="20201116T144802Z">
@@ -22539,6 +22731,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use a vector index to get multiple rows or columns as a smaller matrix:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142712Z" creationid="miurahr" creationdate="20201123T142712Z">
+        <seg>ベクタインデックスを使用して、複数の行や列を小さな行列として取得します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use bookmarks in Marble to remember the location of something.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T000958Z" creationid="miurahr" creationdate="20201117T000943Z">
@@ -23037,8 +23237,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Watch our `video tutorials &lt;https://www.youtube.com/playlist?list=PLBk_Dtk-_Tlm4STvXKFEdfUWylPemo-9V&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134927Z" creationid="miurahr" creationdate="20201116T134927Z">
-        <seg>`ビデオチュートリアル&lt;https://www.youtube.com/playlist?list=PLBk_Dtk - _Tlm4STvXKFEdfUWylPemo-9V&gt;`_をご覧ください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143231Z" creationid="miurahr" creationdate="20201116T134927Z">
+        <seg>`video tutorials &lt;https://www.youtube.com/playlist?list=PLBk_Dtk-_Tlm4STvXKFEdfUWylPemo-9V&gt;`_ をご覧ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23131,6 +23331,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We can use the ``admin`` field to subset the world data and just get the UK:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142825Z" creationid="miurahr" creationdate="20201123T142825Z">
+        <seg>``admin``フィールドを使用して、世界のデータをサブセット化し、英国を取得することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We can use this as a way to render the lakes differently.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022801Z" creationid="miurahr" creationdate="20201103T022801Z">
@@ -23171,6 +23379,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We need to assign a CRS to the object before we can transform it with the sf::st_transform function from the sf package.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142843Z" creationid="miurahr" creationdate="20201123T142843Z">
+        <seg>sfパッケージからsf::st_transform関数を使用してオブジェクトを変換する前に、CRSを割り当てる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We need to create a Store for our data.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T230514Z" creationid="miurahr" creationdate="20201116T230514Z">
@@ -23207,6 +23423,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T015426Z" creationid="miurahr" creationdate="20201108T015426Z">
         <seg>**target**プロパティーを使用して、マップをレンダリングするDOM要素を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We transform to EPSG:27700 which is the Ordnance Survey of Great Britain grid system:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142909Z" creationid="miurahr" creationdate="20201123T142909Z">
+        <seg>英国Ordnance SurveyのグリッドシステムであるEPSG:27700に変換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We use two add-on packages to get the spatial functionality:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142755Z" creationid="miurahr" creationdate="20201123T142755Z">
+        <seg>空間機能を利用するために、2つのアドオンパッケージを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23643,6 +23875,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When an OGR dataset is read into R in this way we get back an object that behaves in many ways like a data frame.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142809Z" creationid="miurahr" creationdate="20201123T142809Z">
+        <seg>このデータセットでOGRウェイがRに読み込まれると、データフレームのように多くの方法で動作するオブジェクトが返されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When booting, look for a message indicating a Boot Menu (most commonly you press F12)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T135754Z" creationid="miurahr" creationdate="20201120T135754Z">
@@ -23783,6 +24023,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053322Z" creationid="miurahr" creationdate="20201103T053229Z">
         <seg>新しく作成したマルチポリゴンのいずれかの輪郭を選択すると、そのマルチポリゴンが属する残りのオブジェクトを確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you start R again from a directory with a ``.RData`` file it will restore all its data from there.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143002Z" creationid="miurahr" creationdate="20201123T143002Z">
+        <seg>``.RData`` ファイルがあるディレクトリから再度Rを起動すると、そこからすべてのデータを復元します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24325,8 +24573,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can develop some quick applications using the `Sandcastle website &lt;https://sandcastle.cesium.com/index.html&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134822Z" creationid="miurahr" creationdate="20201116T134822Z">
-        <seg>`Sandcastle Webサイト&lt;https://sandcastle.cesium.com/index.html&gt;`_を使用して、いくつかのクイックアプリケーションを開発できます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143301Z" creationid="miurahr" creationdate="20201116T134822Z">
+        <seg> `Sandcastle website &lt;https://sandcastle.cesium.com/index.html&gt;`_ を使用して、いくつかのクイックアプリケーションを開発できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24829,8 +25077,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You might also want to check out the `R-Spatial &lt;https://www.rspatial.org&gt;`_ page.</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>`R-Spatial &lt;https://www.rspatial.org&gt;`_ ページもチェックしてみてください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143138Z">
+        <seg>`R-Spatial &lt;https://www.rspatial.org&gt;`_  ページもチェックしてみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You might be wondering what the mysterious 'one' in square brackets is doing in the output.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142621Z" creationid="miurahr" creationdate="20201123T142621Z">
+        <seg>出力の中で、角括弧に囲まれた謎の'one'が何をしているのか、不思議に思っているかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25087,6 +25343,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T044024Z" creationid="miurahr" creationdate="20201108T044024Z">
         <seg>メインマネージャウィンドウが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You'll see this if you forget a closing bracket or parenthesis.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142616Z" creationid="miurahr" creationdate="20201123T142616Z">
+        <seg>閉じ括弧や閉じ括弧を忘れた場合に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
