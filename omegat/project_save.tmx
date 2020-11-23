@@ -5894,6 +5894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Continues to grow - we are planning new features (like a commandline interface, more parsers etc.) and small improvements</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T230948Z" creationid="miurahr" creationdate="20201123T230948Z">
+        <seg>成長を続ける-新しい機能(コマンドラインインターフェイス、より多くのパーサーなど)と小さな改善を計画しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contributors</seg>
       </tuv>
       <tuv lang="ja">
@@ -6306,6 +6314,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T142837Z" creationid="miurahr" creationdate="20201123T142837Z">
         <seg>現在、オブジェクトには座標系が割り当てられていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Currently we have parsers for SLD, QGIS-styles, Mapbox styles and OpenLayers styles.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T230430Z" creationid="miurahr" creationdate="20201123T230430Z">
+        <seg>現在、SLD、QGIS-styles、Mapbox styles、OpenLayers stylesのパーサーがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7598,6 +7614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Extensible - you're invited to build your own data readers or parsers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T230929Z" creationid="miurahr" creationdate="20201123T230929Z">
+        <seg>拡張可能-独自のデータリーダやパーサーを構築することもできます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Extensible plugin architecture</seg>
       </tuv>
       <tuv lang="ja">
@@ -8534,6 +8558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Furthermore, GeoStyler allows for the translation between multiple styling formats, i.e. SLD, OpenLayers, QGIS, Mapbox.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T230223Z" creationid="miurahr" creationdate="20201123T230223Z">
+        <seg>さらに、GeoStylerでは、SLD、OpenLayers、QGIS、Mapboxなど、複数のスタイルフォーマット間の変換が可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GDAL Project home</seg>
       </tuv>
       <tuv lang="ja">
@@ -8754,6 +8786,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>DXF ファイルの生成とエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generic - not bound to one format only</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T230752Z" creationid="miurahr" creationdate="20201123T230752Z">
+        <seg>汎用 - 特定のフォーマットに縛られません</seg>
       </tuv>
     </tu>
     <tu>
@@ -9478,6 +9518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Graphical User Interface (GUI) including support for reordering of rules, a mapview, pickers for colors and symbols and a ton more</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T230857Z" creationid="miurahr" creationdate="20201123T230857Z">
+        <seg>ルールの並べ替えサポート、Mapview、色とシンボルのピッカーなどの、グラフィカル・ユーザー・インターフェース(GUI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Graphical style editor</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T052031Z" creationid="miurahr" creationdate="20201122T052024Z">
@@ -9570,6 +9618,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ハードウェアアクセラレーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Has a GUI - but you are not required to use it</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T230911Z" creationid="miurahr" creationdate="20201123T230911Z">
+        <seg>GUIがあります。ただし、GUIを使用する必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15534,6 +15590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Parsing of Mapfiles is in the works.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T230451Z" creationid="miurahr" creationdate="20201123T230440Z">
+        <seg>Mapfilesのパーサーは現在進行中です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Partitioning</seg>
       </tuv>
       <tuv lang="ja">
@@ -15650,6 +15714,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T144434Z" creationid="miurahr" creationdate="20201116T124616Z">
         <seg>このトピックの詳細については、 `オンライン文書 &lt;https://docs.eoxserver.org/en/latest/users/webclient.html&gt;`_ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please take a look at StyleParser Implementations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T230457Z" creationid="miurahr" creationdate="20201123T230457Z">
+        <seg>StyleParserの実装を見てみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18059,6 +18131,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Since attributively styling geodata is easier when you can look at the data to be styled, we can connect to several datasources like WFS, Shapefiles and GeoJSON files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T230722Z" creationid="miurahr" creationdate="20201123T230549Z">
+        <seg>スタイル設定するデータを見られれば、地理データの属性スタイル設定が簡単になるため、WFS、Shapefiles、GeoJSONファイルなどの複数のデータソースに接続できるようになっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since we are following the concept of micro packages, these translators (we call them parsers) can be used as standalone libraries, without the need to include the UI components as a dependency.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T230403Z" creationid="miurahr" creationdate="20201123T230403Z">
+        <seg>私たちはマイクロパッケージの概念に従っているので、これらの変換器(私たちはパーサーと呼んでいます)は、依存関係としてUIコンポーネントを含める必要なく、スタンドアロンのライブラリとして使用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Since we are still using autogenerated edge ids, our edge numbers are the same as our previous query, but the nodes are the osm node ids.</seg>
       </tuv>
       <tuv lang="ja">
@@ -18935,6 +19023,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T224409Z" creationid="miurahr" creationdate="20201123T224409Z">
         <seg>非同期実行をサポート(プロセスステータスをポーリング)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supports common formats (e.g. SLD, QGIS) already out of the box</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T230806Z" creationid="miurahr" creationdate="20201123T230806Z">
+        <seg>一般的なフォーマット(SLD、QGISなど)をサポートしています。すでに標準で提供されています</seg>
       </tuv>
     </tu>
     <tu>
@@ -23762,6 +23858,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T062632Z" creationid="miurahr" creationdate="20201103T062632Z">
         <seg>ここでは、スケール値を、より精度の高い値に設定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We plan on developing a data reader for the Geopackage format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T230633Z" creationid="miurahr" creationdate="20201123T230633Z">
+        <seg>Geopackageフォーマットのデータよみこみの開発を計画しています。</seg>
       </tuv>
     </tu>
     <tu>
