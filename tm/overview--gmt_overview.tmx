@@ -5,6 +5,14 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>GMT is a collection of tools that allow users to manipulate (x,y) and (x,y,z) data sets (including filtering, trend fitting, gridding, projecting, etc.) and produce Encapsulated PostScript File (EPS) illustrations ranging from simple x-y plots through contour maps to artificially illuminated surfaces and 3-D perspective views in black and white, gray tone, hachure patterns, and 24-bit color.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GMTは、(x,y)および(x,y,z)のデータセット(フィルタリング、トレンドフィッティング、グリッド、投影など)を操作して、Encapsulated PostScript File(EPS)イラストレーションを生成するためのツール群です。EPSイラストレーションには、単純なx-yプロットから等高線マップ、人工的に照らされたサーフェス、白黒、グレートーン、アッシャパターン、24ビットカラーの3Dパースビューまでがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">

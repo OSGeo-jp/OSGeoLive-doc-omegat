@@ -5,10 +5,122 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>libLAS Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>libLAS クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>libLAS is a C/C++ library for reading and writing the very common LAS LiDAR format.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ibLAS は一般的な `LAS` `LiDAR`_ フォーマットを読み書きするための C/C++ ライブラリです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The ASPRS LAS format is a sequential binary format used to store data from LiDAR sensors and by LiDAR processing software for data interchange and archival.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>。`ASPRS LAS format`_ は LiDAR センサや LiDAR 処理ソフトウェアがデータの保存、交換，アーカイブに使用しているシーケンシャルなバイナリフォーマットです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LiDAR (Light Detection and Ranging) is a form of high precision range detection much like a radar system that uses laser light as the electromagnetic emission. One of LiDAR systems' products is a "point cloud" data product that can be conceptualized as a series of point measurements representing distance from the sensor to a returned emission. A common storage format for these point cloud data is ASPRS LAS format.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>LiDAR (ライダー、Light Detection and Ranging) はレーダーと似た高精度な距離検出の一種で、電磁放射線の代わりにレーザー光線を使用するものです。LiDAR システムは "点群" データのように、センサからの距離等を反射波を用いて計測した結果を概念化したデータを出力します。一般的な点群データの保存に使用されているのが ASPRS LAS フォーマットです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Processing</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>処理方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The libLAS 'command-line utilities' provide the bulk of user-facing operational software for libLAS, although the underlying libLAS library is what powers them.  Below is a listing of common operations that you might want to do on LAS data, and the utilities and approaches to take to complete those tasks. The demo data can be found in :file:`/home/user/data/las/srs.las`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>libLASの「コマンドライン・ユーティリティー」は、libLAS用のユーザー向けの操作ソフトウェアの大部分を提供していますが、基礎となるlibLAS・ライブラリーがその原動力となっています。以下は、LASデータに対して実行する一般的な操作と、これらのタスクを実行するために使用するユーティリティとアプローチの一覧です。デモデータは、ファイル`/home/user/data/las/srs.las`にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reprojecting an LAS file</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>LASファイルの再投影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>All LAS data are in some sort of coordinate system, even if that coordinate system is not described in the LAS file.  For terrestrial LAS data, these coordinate system descriptions often map to coordinate systems described by the `EPSG`_ database.  Another source of information about coordinate systems in https://spatialreference.org.</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>その座標系がLASファイルに記述されていない場合でも、すべてのLASデータはある種の座標系にあります。 地上LASデータの場合、これらの座標系の記述は、 `EPSG`_データベースによって記述された座標系にマップされることがよくあります。 https://spatialreference.org の座標系に関する別の情報源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The --no-check option tells lasinfo to only print the header information for the file and to not scan through all of the points.  For a 10 point file, this of course isn't much of a concern, but with a 50 or 500 million point file, it isn't worth waiting for a full scan of the data if all you want is header information.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>--no-checkオプションを指定すると、lasinfoはファイルのヘッダー情報だけを印刷し、すべてのポイントをスキャンしないように指示します。10ポイント・ファイルの場合、これはもちろんそれほど重要なことではありませんが、50または500,000,000ポイント・ファイルの場合、ヘッダー情報だけが必要であれば、データの完全スキャンを待つ価値はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our 'lasinfo' invocation tells us that the ``srs.las`` file is in a UTM North Zone 17 coordinate system:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`lasinfo`を呼び出すと``srs.las``ファイルがUTM North Zone 17座標系にあることがわかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now that we know our input coordinate system, we can make a decision about what to reproject the data to.  In our first example, we're going to use the venerable plate carrée non-coordinate system, `EPSG:4326`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>入力座標系がわかったので、データの再投影先を決定できます。最初の例では、由緒ある 経緯度座標系の `EPSG:4326`_を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our process succeeds, but after a quick inspection of the data with ``lasinfo output.las`` we see a problem:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>私たちのプロセスは成功しましたが、``lasinfo output.las``を使ってデータを調べたところ、問題がありました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The ``srs.las`` file had a scale of 0.01, or two decimal places of precision for its X, Y, and Z coordinates. For UTM data, this is ok, because it implies an implicit precision of 1 cm. For decimal degree data of the unprojected Plate Carrée coordinate system, it causes us to lose a bunch of precision. We need to set our scale values to something that can hold more precision in our case:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg> ``srs.las`` ファイルは、スケールは0.01 つまり、X、Y, Z座標の小数点以下2桁の精度でした。UTMデータの場合、これは1cmの暗黙的な精度を意味するため、問題ありません。投影されていない経緯度座標系の10進数データに対しては、かなり精度を失わせることになります。ここでは、スケール値を、より精度の高い値に設定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Another quick inspection with 'lasinfo' gives us something we're more comfortable with:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`lasinfo`で更なる簡単な調査をすることで、快適な作業を提供してくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Output LAS file to text</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>LASファイルをテキストに出力</seg>
       </tuv>
     </tu>
     <tu>

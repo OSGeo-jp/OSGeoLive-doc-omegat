@@ -5,10 +5,634 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>QGIS Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>QGIS クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>QGIS is a user-friendly Desktop GIS client which lets you visualize, manage, edit, analyse data and compose printable maps.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>QGISはユーザフレンドリなデスクトップGISクライアントで、データの視覚化、管理、編集、分析、印刷可能なマップの作成を行うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start QGIS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スタートQGIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open the 'Desktop GIS' folder.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>[デスクトップGIS]フォルダを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Double click on the 'QGIS' icon.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>「QGIS」アイコンをダブルクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You will see QGIS launch with an empty project. The various parts of the QGIS Interface are listed below.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>QGISが空プロジェクトで起動します。QGISインターフェイスのさまざまな部分を次に示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>[1] Menu bar: Access to various QGIS features using a standard hierarchical menu.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>[1]メニューバー:標準の階層メニューを使用して、さまざまなQGIS機能にアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>[2] Toolbars: For interaction with the map, layers, attributes and selections.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>[2]ツールバー:マップ、画層、属性、および選択を操作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>[3] Browser Panel: A spatial file browser allowing drag and drop content into the map frame.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>[3]ブラウザパネル:マップフレームにコンテンツをドラッグアンドドロップできる空間ファイルブラウザ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>[4] Layer Panel: Controls the map layers, their order, and visibility.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>[4] レイヤーパネル:マップ画層、画層の順序、表示/非表示をコントロールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>[5] Status Bar: General information about the map and access to a universal search bar.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>[5]ステータスバー:マップに関する一般情報とユニバーサル検索バーへのアクセス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a project</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To create a new project, choose :menuselection:`Project --&gt; New`.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>新しいプロジェクトを作成するには、:menuselection:`Project--&gt;New`を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Let's start by adding a vector layer to the map. Layers can be added to QGIS using the browser panel, located on the left of the screen.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>まず、ベクトルレイヤをマップに追加します。レイヤは、画面の左側にあるブラウザパネルを使用してQGISに追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go the browser panel on the left of the screen.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>画面の左側にあるブラウザパネルに移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Navigate the folder tree to 'home/data/natural_earth2'.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>フォルダツリーを'home/data/natural_earth2'に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select 'ne_10m_admin_0_countries.shp'.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>'ne_10m_admin_0_countries.shp'を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drag the layer from the browser panel and drop it in the map frame.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ブラウザパネルから画層をドラッグし、マップフレームにドロップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Once the layer has been dragged onto the map frame, you will see a layer showing countries.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>レイヤをマップフレームにドラッグすると、レイヤに国が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now let's try adding a raster layer to the project.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次に、プロジェクトにラスタレイヤを追加してみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select 'HYP_50M_SR_W.tif'.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>[HYP_50M_SR_W.tif]を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Once the layer has been dragged onto the map frame, you will see a raster layer showing land cover and bathymetry.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>レイヤをマップフレームにドラッグすると、土地被覆と水深を示すラスタレイヤが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now that we have added some content to our project we can save this project so that we can come back to it at a later time.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトにコンテンツを追加したので、このプロジェクトを保存して、後で再び作業できるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose :menuselection:`Project --&gt; Save`.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:menuselection:`Project--&gt;Save`を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make the location to save the project '/home/user/desktop'.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトを保存する場所を'/home/user/desktop'にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Call the project 'My QGIS project'.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このプロジェクトを'My QGIS project'と呼んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click 'Save'.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>[保存]をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You will know the project has been saved because there will be a project file on the desktop called 'My QGIS project' and the top of your project document will no longer read as 'untitled' but instead will read as 'My QGIS project'.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトが保存されたことがわかります。これは、'My QGIS project'という名前のプロジェクトファイルがデスクトップにあり、プロジェクトドキュメントの一番上が「untitled」ではなく'My QGIS project'になるためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open an existing project</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>既存のプロジェクトを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A QGIS project saves layers, styles, map extents and settings for use at a later time. This information is stored as a QGIS project file and has an extension of '.qgs' or '.qgz', with '.qgz' being the default file format in QGIS going into the future.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>QGISプロジェクトは、レイヤ、スタイル、マップ範囲、および設定を保存し、後で使用できるようにします。この情報はQGISのプロジェクトファイルとして保存され、拡張子は「.qgs」または「.qgz」になります。「.qgz」は将来のQGISでの既定のファイル形式です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Let's open an existing QGIS project and have a look at how it works.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>既存のQGISプロジェクトを開いて、その仕組みを見てみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open QGIS. Note that when QGIS is opened you will be presented with a list of recent projects to chose from. This is a convenient way to open a project you have used recently.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>QGISを開くQGISを開くと、最近選択したプロジェクトのリストが表示されます。これは、最近使用したプロジェクトを開くのに便利な方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose :menuselection:`Project --&gt; Open`.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:menuselection:`Project --&gt; Open`を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Navigate to '/home/user/qgis-example'.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>'/home/user/qgis-example'に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the project 'QGIS-NaturalEarth-Example.qgs'.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト'QGIS-NaturalEarth-Example.qgs'を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click 'Open'.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>[開く]をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This will open a QGIS project with a number of Natural Earth datasets, as shown below. This project contains a number of layers in the layers panel and is displaying the spatial content in the map frame.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>以下に示すように、Natural Earchデータセットを持つQGISプロジェクトが開かれます。このプロジェクトには、レイヤーパネルに複数のレイヤーが含まれ、マップフレームに空間コンテンツが表示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Layers can be turned on or off by clicking the checkbox next to the layer name in the layers panel. When a layer is turned on in the layer panel, the map frame will be updated to display the layer. A close up of the layer panel is shown below.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>レイヤーパネルでレイヤー名の横にあるチェックボックスをクリックすると、レイヤーの表示/非表示を切り替えることができます。レイヤパネルでレイヤをオンにすると、マップフレームが更新されてレイヤが表示されます。レイヤーパネルの拡大図を以下に示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Let's interact with the layer panel and change the visibility of some map layers.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>レイヤパネルを操作して、マップレイヤの表示/非表示を変更してみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the checkbox next to the 'ne_10m_populated_places' layer to turn it on.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>'ne_10m_populated_places'レイヤの横にあるチェックボックスをオンにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the checkbox next to the 'Water' layer to turn the layer off.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>「Water」レイヤの横にあるチェックボックスをクリックして、レイヤをオフにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Notice how the map frame has been updated to reflect the changes in the layer list. We can now see the 'ne_10m_populated_places' layer as points, but can no longer see the rivers and lakes which are within the 'Waters' layer.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マップフレームが更新され、レイヤリストの変更が反映されていることに注目してください。現在では、`ne_10m_populated_places`レイヤをポイントとして見ることができますが、`Waters`レイヤ内の河川や湖を見ることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In addition to controlling layer visibility, we can also change the order in which layers are drawn in the layer panel. This is done by selecting a layer in the layer panel and dragging it up or down the list. The order that the layers appear in the layer list is the order which they will draw on in the map frame.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>レイヤの表示/非表示を制御するだけでなく、レイヤパネルに表示されるレイヤーの順序を変更することもできます。これは、[レイヤ]パネルでレイヤを選択し、上または下にドラッグすることで行います。レイヤ一覧に表示されるレイヤの順序は、マップフレームに表示される順序です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Left-Click on the layer 'HYP_50M_SR_W'.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>レイヤ'HYP_50M_SR_W`を左クリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>While holding the mouse button down drag the layer to the top of the list.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マウスボタンを押したまま、レイヤをリストの一番上にドラッグします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Notice how the raster layer is now on top of all other layers in the layer panel. This now renders the raster layer on top of all other layers in the map frame.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ラスタレイヤがレイヤパネルの他のすべてのレイヤーの上に表示されます。これで、ラスタレイヤがマップフレームの他のすべてのレイヤの上にレンダリングされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Try moving the 'HYP_50M_SR_W' layer to the bottom of the layer list. This would be a more appropriate position for a map layer like this.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>'HYP_50M_SR_W'レイヤをレイヤリストの一番下に移動してみてください。これは、このようなマップレイヤに適した位置です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Navigate the map</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>マップをナビゲートする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The navigation toolbar allows users to move around the map and change the map extent.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ナビゲーションツールバーを使用すると、マップを移動したり、マップの範囲を変更したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>[1] Pan: Allows the map to be dragged ('panned') to a new location.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>[1]パン: マップを新しい位置にドラッグ(「パン」)できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>[2] Zoom in: Allows the map extent to be zoomed in.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>[2]ズームイン:マップの範囲をズームインできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>[3] Zoom out: Allows the map to be zoomed out.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>[3]ズームアウト:マップのズームアウトを許可します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>[4] Zoom to full extent: Changes the map extent to fit all of the map layers into the map frame.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>[4]全範囲ズーム: マップの範囲を変更して、すべてのマップレイヤーをマップの枠に合わせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>[5] Zoom to layer: Changes the map extent to fit the extent of the layer highlighted in the layer panel.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>[5]レイヤにズーム: マップパネルで強調表示されているレイヤの範囲に合わせてレイヤの範囲を変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Let's try changing the map extent with the zoom-in tool.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ズームインツールでマップの範囲を変更してみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the 'Zoom in' tool from the navigation toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ナビゲーションツールバーから'ズームイン'ツールを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move the cursor over the map frame.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マップの枠の上にカーソルを移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click and hold the left mouse button.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>左マウスボタンを押したままにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>While still holding the mouse button move the cursor diagonally in any direction. Notice this draws a rectangle which is the area that will be zoomed to.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マウスボタンを押したまま、任意の方向でカーソルを斜めに移動します。これにより、ズームされる領域である長方形が描画されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Release the mouse button when happy with the area created.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>領域が作成されたら、マウスボタンを離します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The process of using the zoom out tool is the same as the zoom-in tool. The result is just the opposite.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ズームアウトツールを使用するプロセスは、ズームインツールと同じです。結果は正反対です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now, let’s look at the zoom to full extent tool. This tool will zoom the map out to an extent that will fit in all the layers in the map. To use this tool, click on the 'Zoom to full extent' button.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次に、全範囲ズームツールを見てみましょう。このツールは、マップのすべてのレイヤーに収まるようにマップをズームアウトします。このツールを使用するには、[全体にズーム]ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Finally, try the zoom to layer tool. To use this tool follow these steps:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>最後に、レイヤズームツールを使用してみます。このツールを使用するには、次の手順に従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on a layer name in the layer panel.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>レイヤパネルでレイヤの名前をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the 'Zoom to layer' button.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>[レイヤにズーム]ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The map should zoom to the extent of the selected ('active') layer.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マップは選択された(「アクティブ」)レイヤの範囲にズームします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Style your layers</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>レイヤーのスタイルを設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Layers can be styled in QGIS using the style dock. The style dock is not visible by default, but easily accessible via a button at the top of the layer panel as shown below.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>レイヤーは、スタイルドックを使用してQGISでスタイル設定できます。スタイル枠は既定では表示されていませんが、次に示すように、レイヤパネルの上部にあるボタンから簡単にアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The above button acts as a toggle so the style dock can be easily hidden from view by clicking the same button again. When the style dock is enabled it will appear on the right-hand side of the screen ready to style the active layer highlighted in the layer panel.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>上記のボタンはトグルとして機能するため、同じボタンをもう一度クリックすると、スタイル枠をビューから簡単に隠すことができます。スタイル枠が有効になると、画面の右側に表示され、レイヤパネルで強調表示されているアクティブなレイヤのスタイルを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>With the style dock open, we can modify the appearance of the layer shown at the top of the style dock.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スタイル枠を開くと、スタイル枠の最上部に表示されるレイヤの外観を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>With the style dock now open, we can modify the colour and the width of the lines in the 'ne_10m_rivers_lakes_centrelines' layer. Let’s try modifying the colour first.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スタイルの枠が開いた状態で、'ne_10m_rivers_lakes_centrelines'レイヤの線の色と幅を変更できます。最初に色を変更してみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the 'Color' swatch shown below. This will launch a colour palette allowing you to choose a different colour.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>下に表示されている[カラー]をクリックします。これにより、異なる色を選択できるカラーパレットが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the 'Select Color' palette, move the cross-hair to your preferred colour.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>[色選択]パレットで、十字を希望の色に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then click the back arrow to return to the symbol render preview.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次に、戻る矢印をクリックしてシンボルレンダリングプレビューに戻ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The symbol preview will be updated with the new colour, and so will the layer in the map frame.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>シンボルプレビューが新しい色で更新され、レイヤフレームのマップも更新されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the style dock, we can also modify the size of the map features. To modify the thickness of the lines follow these steps:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スタイル枠では、地物のサイズを変更することもできます。線の太さを変更するには、次の手順に従います:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make sure that the 'ne_10m_rivers_lakes_centrelines' is selected at the top of the style panel.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スタイルパネルの最上部で「ne_10m_rivers_lakes_centrelines」が選択されていることを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the style panel enter the value '0.5' in the 'width' input.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スタイルパネルで、入力値「width」に値「0.5」を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Notice the line in the symbol preview increase in width, and so do the lines that are in the map frame.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>シンボルプレビューのラインの幅が大きくなり、マップフレームのラインも大きくなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21,10 +645,50 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Extend QGIS functionality with `Plugins &lt;https://docs.qgis.org/3.4/en/docs/user_manual/plugins/plugins.html&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`プラグイン &lt;https://docs.qgis.org/3.4/en/docs/user_manual/plugins/plugins.html&gt;`_を使用してQGIS機能を拡張します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start manipulating data with the `Processing toolbox &lt;https://docs.qgis.org/3.4/en/docs/user_manual/processing/toolbox.html&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`処理ツールボックス &lt;https://docs.qgis.org/3.4/en/docs/user_manual/processing/toolbox.html&gt;`_を使用してデータの操作してみます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use QGIS to view content from a `PostGIS database &lt;https://docs.qgis.org/3.4/en/docs/training_manual/spatial_databases/index.html&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`PostGISデータベース &lt;https://docs.qgis.org/3.4/en/docs/training_manual/spatial_databases/index.html&gt;`_からコンテンツをビューするのにQGISを使用してみます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Try publishing your QGIS map to the web using `QGIS Map Server &lt;../overview/qgis_mapserver_overview.html&gt;`_. in the :menuselection:`Geospatial --&gt; Web Services` menu.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`QGISマップサーバ &lt;./overview/qgis_mapserver_overview.html&gt;`_を使用して、QGISマップをWebに公開してみてください。:menuselection:`Geospatial --&gt; Web Services` メニューにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>What next?</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To learn more about QGIS, a good starting point is the `Documentation page`_ on the QGIS homepage and `A Gentle Introduction to GIS`_ eBook.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>QGISの詳細については、QGISホームページの`ドキュメントページ`_と`A Gentle Introduction to GIS(英語)`_eBookを参照してください。</seg>
       </tuv>
     </tu>
   </body>

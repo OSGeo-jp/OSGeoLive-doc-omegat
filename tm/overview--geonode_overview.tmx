@@ -5,10 +5,202 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>Geospatial Content Management System</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地理空間コンテンツ管理システム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`GeoNode &lt;https://geonode.org&gt;`_ is a Content Management System for geospatial data which provides creation, sharing, and collaborative use of geospatial data. Datasets can be uploaded in various formats, maps can be edited, styled and aggregated through browser based tools, maps and metadata can be published and searched, and reviews, ratings and comments can be captured from users.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`GeoNode&lt;https://geonode.org&gt;`_は地理空間データのためのコンテンツ管理システムであり、地理空間データの作成、共有、および共同使用の仕組みを提供します。データセットはさまざまな形式でアップロードでき、マップはブラウザベースのツールを使用して編集、スタイル設定、集計を行うことができ、マップとメタデータを公開して検索することができ、レビュー、評価、コメントをユーザーから取得することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoNode is built upon: GeoServer, GeoExplorer, pycsw, Django, and GeoExt.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoNodeは、GeoServer、GeoExplorer、pycsw、Django、およびGeoExtに基づいて構築されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spatial Data Discovery</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>空間データ探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Powerful spatial search engine</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>強力な空間検索エンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Federated OGC services</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>統合OGCサービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Metadata catalogue</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メタデータカタログ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Import and Manage Geospatial Data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地理空間データのインポートと管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Publish raster, vector, and tabular data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ラスタ、ベクタ、テーブルデータをパブリッシュする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manage metadata and associated documents</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メタデータと関連ドキュメントを管理する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Securely or publicly share data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データを安全に共有する、あるいは公開する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Versioned geospatial data editor</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>バージョン管理された空間データエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Interactive Mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>インタラクティブマッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoExplorer GIS client</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoExplorer GISクライアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Graphical style editor</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スタイル編集画面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create multi-layer interactive maps</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マルチレイヤインタラクティブマップを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Share and embed maps in web pages</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マップを共有してWebページに埋め込む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Print maps as PDF</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マップをPDFとして印刷する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Collaboration</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>コラボレーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Review, rate, and comment on data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データのレビュー、評価、コメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Groups of users</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ユーザーのグループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Activity streams</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アクティビティストリーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Announcements and notifications</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アナウンスと通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>... and more!</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>などなど ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17,6 +209,30 @@
       </tuv>
       <tuv xml:lang="ja">
         <seg>実装されている標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|WMS|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|WMS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|CSW|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|CSW|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|WFS|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|WFS|</seg>
       </tuv>
     </tu>
     <tu>
@@ -61,6 +277,30 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Website:** https://geonode.org</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://geonode.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** GNU General Public License (GPL) version 2.0</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** GNU General Public License (GPL) version 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-geonode|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-geonode|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>**Supported Platforms:** Windows, Linux, Mac</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -69,10 +309,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**API Interfaces:** Python (Django)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**API インターフェイス:** Python (Django)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Support:** https://www.osgeo.org/service-providers</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** https://www.osgeo.org/service-providers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Quickstart</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/geonode_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/geonode_quickstart&gt;`</seg>
       </tuv>
     </tu>
   </body>

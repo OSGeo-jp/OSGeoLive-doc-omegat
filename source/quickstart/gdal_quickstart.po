@@ -4,8 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Ko Nagase <nagase@georepublic.co.jp>, 2020
 # MarPetra <mvergaratrejo@gmail.com>, 2020
+# Ko Nagase <nagase@georepublic.co.jp>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-21 10:22-0500\n"
 "PO-Revision-Date: 2017-09-20 16:06+0000\n"
-"Last-Translator: MarPetra <mvergaratrejo@gmail.com>, 2020\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2020\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,7 +30,7 @@ msgstr "GDAL/OGR クイックスタート"
 msgid ""
 "This Quick Start is divided into two parts: GDAL (raster data) and OGR "
 "(vector data)."
-msgstr ""
+msgstr "このクイックスタートは、GDAL(ラスタデータ)とOGR(ベクタデータ)の2つの部分に分かれています。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:27
 msgid "This Quick Start describes how to:"
@@ -42,23 +42,23 @@ msgstr "GDAL"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:30
 msgid "Explore your image data with gdalinfo"
-msgstr ""
+msgstr "gdalinfoを使用して画像データを表示"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:31
 msgid "Format translations with gdal_translate"
-msgstr ""
+msgstr "gdal_translateでフォーマット変換"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:32
 msgid "Reproject your data with gdalwarp"
-msgstr ""
+msgstr "gdalwarpを使用してデータを再投影"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:33
 msgid "Mosaic your data with gdal_warp or gdal_merge.py"
-msgstr ""
+msgstr "データをgdal_warpまたはgdal_merge.pyでモザイク化"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:34
 msgid "Build a shapefile as a raster tileindex with gdaltindex"
-msgstr ""
+msgstr "シェイプファイルをgdaltindex付きのラスタータイルインデックスとして作成"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:39
 msgid "OGR"
@@ -66,11 +66,11 @@ msgstr "OGR"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:38
 msgid "get information about your data with ogrinfo"
-msgstr ""
+msgstr "ogrinfoでデータに関する情報を取得する"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:39
 msgid "use ogr2ogr to transform your data to other formats"
-msgstr ""
+msgstr "ogr2ogrを使用してデータを他の形式に変換"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:41
 msgid ""
@@ -78,8 +78,7 @@ msgid ""
 " visualize the results, you can use one of the Desktop GIS Software "
 "applications on OSGeoLive like :doc:`../overview/qgis_overview`."
 msgstr ""
-"このクイックスタートに必要なのはターミナルだけです。 結果を視覚化する場合は、:doc:`../overview/qgis_overview` "
-"のように、OSGeoLiveでデスクトップGISソフトウェアアプリケーションのいずれかを使用できます。"
+"このクイックスタートに必要なのはターミナルだけです。結果を視覚化する場合は、OSGeoLiveのデスクトップGISソフトウェアアプリケーションの1つである:doc:`../overview/qgis_overview`を使用できます。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:49
 msgid "Get to know GDAL"
@@ -93,22 +92,21 @@ msgid ""
 "with a copy of the data. So the first step is to copy the data to your home "
 "directory."
 msgstr ""
-"デモデータは、ファイル：`/usr/local/share/data` にあります。 このクイックスタートで：doc： `自然地球データ<../ "
-"overview / naturalearth_overview>`を確認してください。 データのコピーを操作したいと考えています。 "
-"したがって、最初のステップは、データをホームディレクトリにコピーすることです。"
+"デモデータは:file:`/usr/local/share/data`にあります。このクイックスタートの:doc:`Natural "
+"Earthデータ<./overview/naturalearth_overview>`を見てみましょう。データのコピーを操作します。したがって、最初のステップは、データをホームディレクトリにコピーすることです。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:62
 msgid ""
 "You will then find a NaturalEarth Raster file and a .tfw World-file at: ::"
-msgstr ""
+msgstr "次のNaturalEarth Rasterファイルと.tfw World-fileがあることを確認してください:::"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:68
 msgid "Open the file with a Desktop GIS like QGIS, and have a look."
-msgstr ""
+msgstr "QGISのようなデスクトップGISを使用してファイルを開き、確認します。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:71
 msgid "Get information about the raster data with gdalinfo"
-msgstr ""
+msgstr "gdalinfoでラスタデータの情報を取得"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:107
 msgid "Note:"
@@ -124,7 +122,7 @@ msgstr "サイズは10800x5400です"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:103
 msgid "3 Bands of type Byte."
-msgstr ""
+msgstr "バイト型の3バンドです。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:104
 msgid "Coordinates"
@@ -143,6 +141,7 @@ msgid ""
 "First get to know your drivers. The `--formats` commandline switch of "
 "gdal_translate can be used to see a list of available format drivers."
 msgstr ""
+"まずドライバーについて知りましょう。gdal_translateの`--formats`コマンドラインスイッチを使用すると、利用可能なフォーマットドライバの一覧を表示できます。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:118
 msgid "Each format reports if it is"
@@ -165,10 +164,11 @@ msgid ""
 "The `--format` commandline switch can be used to query details about a "
 "particular driver, including creation options, and permitted data types."
 msgstr ""
+"`--format`コマンドラインスイッチを使用すると、特定のドライバについて、作成オプションや許可されたデータ型などを含めて詳細に問い合わせることができます。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:133
 msgid "Translation"
-msgstr "翻訳"
+msgstr "変換"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:135
 msgid ""
@@ -176,10 +176,11 @@ msgid ""
 "output format is GeoTIFF.  The `-of` flag is used to select an output format"
 " and the -co flag is used to specify a creation option:"
 msgstr ""
+"変換はgdal_translateコマンドで行います。既定の出力形式はGeoTIFFです。`-of`フラグは出力フォーマットの選択に使用され、-coフラグは作成オプションの指定に使用されます。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:143
 msgid "The `-ot` switch can be used to alter the output data type."
-msgstr ""
+msgstr "`-ot`スイッチを使用して、出力データ型を変更できます。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:149
 msgid "Use gdalinfo to verify data type."
@@ -195,7 +196,7 @@ msgstr "`-outsize` スイッチを使用して、出力ファイルのサイズ�
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:161
 msgid "Use gdalinfo to verify the size."
-msgstr ""
+msgstr "gdalinfoを使用してサイズを検証します。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:163
 msgid ""
@@ -203,6 +204,7 @@ msgid ""
 "input and output ranges is also available. The gdalinfo `-mm` switch can be "
 "used to see pixel min/max values."
 msgstr ""
+"`-scale`スイッチは、データの再スケールに使用できます。入力および出力範囲の明示的な制御も可能です。gdalinfo`-mm`スイッチを使用して、ピクセルの最小値/最大値を表示できます。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:167
 msgid ""
@@ -210,10 +212,12 @@ msgid ""
 "pixel/line location (xoff yoff xsize ysize). You also could use `-projwin` "
 "and define the corners in georeferenced coordinates (ulx uly lrx lry)."
 msgstr ""
+"ピクセル/ラインの位置に基づいてコピーを作成する`-srcwin`を使用して、イメージを2つに分割してみましょう(xoff yoff xsize "
+"ysize)。`-projwin`を使用して、地理参照座標(ulx uly lrx lry)でコーナーを定義することもできます。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:179
 msgid "Raster tileindex with gdaltindex"
-msgstr ""
+msgstr "gdaltindex付きラスタータイルインデックス"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:181
 msgid ""
@@ -221,12 +225,14 @@ msgid ""
 "is generated with the bounds of the extent of the polygon and the path to "
 "the file."
 msgstr ""
+"シェイプファイルをラスタタイルインデックスとして作成できます。すべてのイメージに対して、ポリゴンの範囲とファイルへのパスの境界を持つポリゴンが生成されます。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:189
 msgid ""
 "Have a look at your output shapefile with QGIS and ogrinfo (you will learn "
 "more about ogrinfo later in this tutorial)"
 msgstr ""
+"QGISとogrinfoを使用して、出力シェイプファイルを見てみましょう(ogrinfoについては、このチュートリアルの後半で詳しく説明します)。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:217
 msgid "Reprojecting"
@@ -238,20 +244,21 @@ msgid ""
 "with bounds. As we saw before with gdainfo no coordinate system was set. So "
 "we assign WGS84 as coordinate system to the image in the first step."
 msgstr ""
+"このプロセスでは、HYP_50M_SR_W.tifが境界付きで正しく作成されているものとします。前に見たように、gdainfoには座標系が設定されていませんでした。そこで、最初のステップでWGS84を座標系としてイメージに割り当てます。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:228
 msgid ""
 "The gdalwarp command can be used to reproject images. Here we reproject the "
 "WGS84 geographic image to the Mercator projection:"
-msgstr ""
+msgstr "gdalwarpコマンドを使用して、イメージを再投影できます。ここでは、WGS84の地理的イメージをメルカトル図法に再投影します。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:235
 msgid "Use gdalinfo to verify the change and have a look at the image."
-msgstr ""
+msgstr "gdalinfoを使用して変更を確認し、イメージを確認します。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:240
 msgid "Here we reproject to the Ortho projection."
-msgstr ""
+msgstr "ここでは、オルソ投影に再投影します。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:250
 msgid ""
@@ -261,11 +268,10 @@ msgid ""
 "Read more about this in the RasterTutorial "
 "https://trac.osgeo.org/gdal/wiki/UserDocs/RasterProcTutorial."
 msgstr ""
-"ポールがどのようにクリップされているかに注意してください？ "
-"これは、極のエッジを再投影できないためです。gdalwarpはすべてのデータを読み取りません。 "
+"極がどのようにクリップされているかご注意ください。これは、極のエッジを再投影できないためです。gdalwarpはすべてのデータを読み取りません。 "
 "これを解決する1つの方法として、gdalwarpにチャンク周辺の余剰データを強制的に読み取らせることができます。 "
-"この詳細については、ラスターチュートリアル "
-"https://trac.osgeo.org/gdal/wiki/UserDocs/RasterProcTutorial を参照してください。"
+"詳細については、RasterTutorial "
+"https://trac.osgeo.org/gdal/wiki/UserDocs/RasterProcTutorialをご覧ください。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:258
 msgid "Mosaicking"
@@ -276,50 +282,52 @@ msgid ""
 "gdal_merge.py is a python script that can be used for simple mosaicking "
 "tasks. Mosaic the east.tif and west.tif into a single file:"
 msgstr ""
+"gdal_merge.pyは、シンプルなモザイク作業に使用できるPythonスクリプトです。east.tifとwest.tifをモザイク化して単一のファイルにします。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:268
 msgid ""
 "The same task can be accomplished with gdalwarp. gdalwarp has a variety of "
 "advantages over gdal_merge, but can be slow to merge many files:"
 msgstr ""
+"gdalwarpを使用して実行することもできます。gdalwarpはgdal_mergeよりもさまざまな利点がありますが、多くのファイルのマージに時間がかかることがあります。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:278
 msgid "Get to know OGR"
-msgstr ""
+msgstr "OGRについて知る"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:285
 msgid "Open the shape file with a Desktop GIS like QGIS, and have a look."
-msgstr ""
+msgstr "QGISのようなデスクトップGISを使用してシェイプファイルを開き、確認します。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:289
 msgid "Get information about the vector data with ogrinfo"
-msgstr ""
+msgstr "ogrinfoでベクタデータに関する情報を取得する"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:310
 msgid "Get a summary about your data with ogrinfo together with `-so`."
-msgstr ""
+msgstr "ogrinfoに`-so`を付けて、データの概要を表示します。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:393
 msgid ""
 "If you run ogrinfo without a parameter you will get a summary about your "
 "data and afterwards a section for every dataset."
-msgstr ""
+msgstr "パラメーターを指定せずにogrinfoを実行すると、データの概要と、その後のすべてのデータセットのセクションが表示されます。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:400
 msgid ""
 "You can forward the result from ogrinfo to grep to filter and get only the "
 "attribute COUNTRY."
-msgstr ""
+msgstr "ogrinfoの結果をgrepに転送して、COUNTRY属性だけをフィルタリングして取得できます。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:416
 msgid ""
 "You can convert your data to other formats. Get the list of the supported "
 "formats with `--formats`."
-msgstr ""
+msgstr "データを他の形式に変換できます。対応フォーマットの一覧を`--formats`で取得します。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:420
 msgid "Use ogr2ogr to convert data between file formats"
-msgstr ""
+msgstr "ogr2ogrを使用してファイルフォーマット間でデータを変換"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:422
 msgid ""
@@ -327,6 +335,7 @@ msgid ""
 "You can use `--formats` to get the list of the supported formats with "
 "read/write information."
 msgstr ""
+"ogr2ogrを使用して、ファイルフォーマット間で簡単なフィーチャデータを変換できます。`--formats`を使用して、読み書き可能な情報を持つ対応フォーマットの一覧を取得できます。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:426
 msgid "Convert the countries to GML."
@@ -338,7 +347,7 @@ msgstr "試してみること"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:437
 msgid "Here are some additional challenges for you to try:"
-msgstr ""
+msgstr "次に、試すべき追加の課題をいくつか示します。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:439
 msgid "Try gdalwarp or gdal_merge.py to mosaic your data"
@@ -346,7 +355,7 @@ msgstr "データをモザイク化するには、gdalwarpまたはgdal_merge.py
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:441
 msgid "Try gdaladdo to build internal overviews"
-msgstr ""
+msgstr "gdaladdoで内部概要を作成"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:443
 msgid ""
@@ -354,16 +363,19 @@ msgid ""
 "GdalTools Plugin to process raster data. This plugin integrates the gdal-"
 "tools into QGIS."
 msgstr ""
+"QGISはGDAL/OGRも使用して、多くの形式をサポートしています。また、ラスタデータを処理するためのGdalToolsプラグインも提供しています"
+"。このプラグインはgdal-toolsをQGISに統合します。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:445
 msgid ""
 "Try ogr2ogr to import/export your vector data to other formats like PostGIS."
 " Have a look at the options ogr2ogr provides."
 msgstr ""
+"ogr2ogrを使用して、ベクタデータをPostGISなどの他の形式にインポート/エクスポートしてみてください。ogr2ogrが提供するオプションを見てください。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:447
 msgid "Try the QGIS plugin OGR-Layer-Konverter."
-msgstr ""
+msgstr "QGISプラグインOGR-Layer-Konverterを試してみてください。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:451
 msgid "What next?"
@@ -373,7 +385,7 @@ msgstr "次のステップ"
 msgid ""
 "This is only the first step on the road to using GDAL and OGR. There is a "
 "lot more functionality you can try."
-msgstr ""
+msgstr "これは、GDALとOGRを使用するための最初のステップにすぎません。他にも多くの機能を試すことができます。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:456
 msgid "GDAL Project home"

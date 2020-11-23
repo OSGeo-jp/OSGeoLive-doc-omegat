@@ -5,6 +5,22 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>This  project is only included on the OSGeoLive virtual machine disk (VMDK)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このプロジェクトはOSGeoLive仮想マシンディスク(VMDK)にのみ含まれています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a new map</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>新規マップの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>What next?</seg>
       </tuv>
       <tuv xml:lang="ja">

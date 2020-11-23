@@ -93,6 +93,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Specify which disk to want to install on. (Beware, this may delete an existing installed partition).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>インストールするディスクを指定してください。(インストールされている既存のパーティションが削除される可能性があることに注意してください)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Defaults for settings are:</seg>
       </tuv>
       <tuv xml:lang="ja">

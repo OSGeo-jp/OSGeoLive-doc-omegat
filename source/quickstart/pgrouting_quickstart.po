@@ -4,9 +4,9 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Ko Nagase <nagase@georepublic.co.jp>, 2019
 # MarPetra <mvergaratrejo@gmail.com>, 2020
 # Vicky Vergara <vicky@georepublic.de>, 2020
+# Ko Nagase <nagase@georepublic.co.jp>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -15,7 +15,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-21 10:22-0500\n"
 "PO-Revision-Date: 2017-09-20 16:03+0000\n"
-"Last-Translator: Vicky Vergara <vicky@georepublic.de>, 2020\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2020\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -61,8 +61,8 @@ msgid ""
 "Open a :menuselection:`Applications --> Accessories --> Terminal` window and"
 " open up psql: (psql is the commandline tool packaged with PostgreSQL)"
 msgstr ""
-"メニューから :menuselection:`Applications --> Accessories --> Terminal` を開き、 psql "
-"を起動します: (psql は、PostgreSQL にパッケージされているコマンドラインツールです)"
+"メニューから :menuselection:`システムツール --> LXTerminal` を開き、 psql を起動します: (psql "
+"は、PostgreSQL にパッケージされているコマンドラインツールです)"
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:41
 msgid "At psql prompt type:"
@@ -94,12 +94,14 @@ msgid ""
 "osm2pgrouting is a command-line tool for loading .osm files into pgRouting "
 "compatible format. Here is how you use osm2pgrouting version 2.1.0+."
 msgstr ""
+"osm2pgroutingは、.osmファイルをpgRouting互換形式でロードするためのコマンドラインツールです。osm2pgrouting "
+"version2.1.0+の使用方法を次に示します。"
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:73
 msgid ""
 "Open a new terminal window to verify the version of osm2pgrouting you have "
 "installed. Should read 2.1 or higher."
-msgstr ""
+msgstr "新しいターミナルウィンドウを開き、インストールされているosm2pgroutingのバージョンを確認します。2.1以上の値が必要です。"
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:79
 msgid "Output shows:"
@@ -107,7 +109,7 @@ msgstr "出力が表示されます:"
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:85
 msgid "Now load the data from osm file:"
-msgstr ""
+msgstr "次に、osmファイルからデータをロードします。"
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:95
 msgid "Output should be something like:"
@@ -122,8 +124,8 @@ msgid ""
 "Open a :menuselection:`Applications --> Accessories --> Terminal` window and"
 " connect to the ``city_routing`` database:"
 msgstr ""
-"メニューから、 :menuselection:`Applications --> Accessories --> Terminal` を開き、 "
-"``city_routing`` データベースに接続します:"
+"メニューから、 :menuselection:`システムツール --> LXTerminal` を開き、 ``city_routing`` "
+"データベースに接続します:"
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:119
 msgid "Type :command:`\\\\d` will list you all available tables:"
@@ -159,6 +161,7 @@ msgid ""
 "to alias them so resulting pgr_dijkstra query columns are named source and "
 "target."
 msgstr ""
+"注:SQL文には、常にフィールド名`id,source,target,およびcost`が必要です。ここではフィールド`source_osm`と`target_osm`を使用しているため、これらのフィールドに別名を付ける必要があります。そうすることで、pgr_dijkstraクエリーの列にsourceとtargetという名前が付けられます。"
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:205
 msgid "Output is:"
@@ -205,6 +208,8 @@ msgid ""
 " DB Manager -> DB Manager``. Select the SQL Window icon and cut and paste "
 "the above pgRouting Query."
 msgstr ""
+"QGISのDbManager拡張機能を使用するには、QGISを開き、``Database->DB Manager->DB "
+"Manager``に移動します。SQLウィンドウアイコンを選択し、上記のpgRouting Queryをカット&ペーストします。"
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:267
 msgid "Run the Dijkstra shortest path function with considering direction."
@@ -218,8 +223,7 @@ msgid ""
 "going the other way. For these cases you need to add an additional column to"
 " your query `reverse_cost`"
 msgstr ""
-"先述のサンプルでは、道路がどちらの方向にも同じコストであると想定しました。一方通行や車線のいずれかで異なる速度規制がある場合は、道路の一方向のコストは、他の方向のコストと異なるかもしれません。このような場合、"
-" `reverse_cost` カラムを、クエリに追加する必要があります。"
+"前の例では、両方向で道路のコストが等しいと仮定しました。一方の車線に1本のウェイまたは異なる速度制限がある場合、道路の一方の方向を通るコストは、もう一方のウェイを通るコストと異なることがあります。このような場合は、クエリ`reverse_cost`に列を追加する必要があります。"
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:284
 msgid "With :command:`\\\\q` command leave the PostgreSQL shell."
@@ -234,6 +238,8 @@ msgid ""
 "**pgRouting Website** - Visit the project website https://pgrouting.org to "
 "learn more about pgRouting."
 msgstr ""
+"**pgRouting Webサイト** - pgRouting についてもっと知りたいときは、Webサイト https://pgrouting.org"
+" を訪問してください。 "
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:291
 msgid ""
@@ -247,6 +253,9 @@ msgid ""
 " and OpenStreetMap road data\"` is available in: "
 "https://workshop.pgrouting.org."
 msgstr ""
+"**pgRouting Workshop**-ワークショップ`\"pgRouting "
+"toolsとOpenStreetMap道路データを使用したFOSS4Gルーティング\"``は:https://workshop.pgrouting.org"
+" で利用可能です。"
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:293
 msgid ""

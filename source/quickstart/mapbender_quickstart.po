@@ -354,7 +354,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/mapbender_quickstart.rst:179
 msgid "Here are some additional challenges for you to try:"
-msgstr ""
+msgstr "次に、試すべき追加の課題をいくつか示します。"
 
 #: ../../build/doc/quickstart/mapbender_quickstart.rst:181
 msgid "Try to load some WMS in your application. Try to configure your WMS."

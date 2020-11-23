@@ -5,6 +5,158 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>GMT Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GMTクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GMT is a collection of tools that allow users to manipulate (x,y) and (x,y,z) data sets (including filtering, trend fitting, gridding, projecting, etc.) and produce Encapsulated PostScript File (EPS) illustrations ranging from simple x-y plots through contour maps to artificially illuminated surfaces and 3-D perspective views in black and white, gray tone, hachure patterns, and 24-bit color.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GMTは、(x,y)および(x,y,z)のデータセット(フィルタリング、トレンドフィッティング、グリッド、投影など)を操作して、Encapsulated PostScript File(EPS)イラストレーションを生成するためのツール群です。EPSイラストレーションには、単純なx-yプロットから等高線マップ、人工的に照らされたサーフェス、白黒、グレートーン、アッシャパターン、24ビットカラーの3Dパースビューまでがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In this quick GMT tutorial we will use a digital terrain model (DTM) to generate a shaded relief map.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このクイックGMTチュートリアルでは、デジタル地形モデル(DTM)を使用して、シェーディングされた防災地図を生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a map</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マップを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As our input dataset we will use a DTM from the GRASS GIS example dataset, which is accessible by GDAL using the GDAL-GRASS driver.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>入力データセットとして、GRASS GISサンプルデータセットからのDTMを使用します。これは、GDAL-GRASSドライバを使用してGDALからアクセス可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From a quick look at the DTM metadata, open a terminal and use the GDAL command `gdalinfo`:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>DTMメタデータをざっと見て、端末を開き、GDALコマンド`gdalinfo`:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We can see the DTM is in a projected coordinate system and the data range is between 50 and 160 meters.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>DTMが投影された座標系にあり、データ範囲が50～160メートルであることがわかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We can convert the DTM in a GMT Compatible netCDF file format with `gdal_translate` as follow:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`gdal_translate`を使用して、GMT互換のnetCDFファイル形式のDTMを次のように変換できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For our GMT example we will first transform the dataset into geographic coordinates Longitude-Latitude (EPSG:4326) using the `gdalwarp` command:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GMTの例では、最初に`gdalwarp`コマンドを使用して、データセットを地理座標(経度-緯度)(EPSG:4326)に変換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make a color palette</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カラーパレットを作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To assign a color map to our grid we can make a GMT color palette tables with the `makecpt` command. We will set the range and number of colors with the flag `-T` and assign a colormap with the flag `-C`.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>グリッドにカラーマップを割り当てるには、`makecpt`コマンドを使用してGMTカラーパレットテーブルを作成します。`-T`フラグで色の範囲と数を設定し、`-C`フラグでカラーマップを割り当てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can experiment with other colortables, see `man gmt makecpt` for a complete list.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>他のcolortablesを試してみることもできます。完全なリストについては、`man gmt makecpt`を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Define the gradient</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>グラデーションを定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For our shaded relief example we need to specify show how the color intensity is distributed along the grid. To do so, we will compute the directional derivative, or gradient, from our grid using the `grdgradient` command. In `grdgradient` we will use the `-Ne` flag to normalize the output using a cumulative Laplace distribution and the `-A` flag for Azimuthal direction for a directional derivative.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>シェーディングされた防災地図の例では、カラー強度がグリッドに沿ってどのように分布しているかを表示するように指定する必要があります。そのために、「grdgradient」コマンドを使用して、グリッドから方向の導関数、つまり勾配を計算します。「grdgradient」では、「-Ne」フラグを使用して、累積ラプラス分布を使用して出力を正規化し、「-A」フラグを方位角方向の方向微分に使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The output is a netCDF file which can then be used as color intensity by the `grdimage` command as follow:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>出力はnetCDFファイルで、次のように`grdimage`コマンドでカラー強度として使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Display the color bar</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カラーバーを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Finally we can add a colorbar with `psscale`:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>最後に、`psscale`を使ってカラーバーを追加します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Here the flag `-D` is used to select the colorbar position `TC: Top Center`, the size `5x0.25` expressed in inches `i` the orientation by `h: horizontal` and the flag `-By` to set a label `m` on the `y axis`.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ここでは、フラグ`-D`を使用して、カラーバーの位置`TC:Top Center`、サイズ`5x0.25`をインチ`i`で表したもの、方向を`h:horizontal`で表したもの、フラグ`-By`を使用してラベル`m`を`y軸`に設定したものを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The output ps document should look like:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>出力されるps文書は次のようになります:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Things to try</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -13,10 +165,66 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Look at some of the examples found in: `/usr/share/doc/gmt/examples &lt;../../gmt/examples/&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次の例を見てください。`/usr/share/doc/gmt/examples&lt;././gmt/examples/&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go through the GMT tutorial and follow the several examples available in the src code. There are 30 example jobs built in, to test:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GMTチュートリアルを実行し、srcコードで利用可能ないくつかの例に従ってください。30のサンプルジョブが組み込まれています。テストするには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open a terminal, then</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>端末を開き、次に</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To view the results in Ghostview (http://www.gnu.org/software/gv/) , use command `gv`. Type `q` to quit Ghostview.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>結果をGhostview(http://www.gnu.org/software/gv/))で表示するには、コマンド`gv`を使用します。`q`と入力してGhostviewを終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>What next?</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Have a read of the local documentation stored in: `/usr/share/doc/gmt/html/ &lt;../../gmt/html/index.html&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`/usr/share/doc/gmt/html/&lt;././gmt/html/index.html&gt;`_に保存されているローカルのドキュメントを読んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Website: https://gmt.soest.hawaii.edu</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Webサイト: https://gmt.soest.hawaii.edu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Support: https://gmt.soest.hawaii.edu/projects/gmt/boards/1</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サポート: https://gmt.soest.hawaii.edu/projects/gmt/boards/1</seg>
       </tuv>
     </tu>
   </body>

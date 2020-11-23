@@ -5,10 +5,162 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>Geoportal Framework</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Geoportalフレームワーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`Mapbender &lt;https://mapbender.org/en&gt;`_ is a graduated OSGeo project. It is a web based geoportal framework to publish, register, view, navigate, monitor and grant secure access to spatial data infrastructure services.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`Mapbender&lt;https://mapbender.org/en&gt;`_は卒業したOSGeoプロジェクトです。これは、空間データインフラストラクチャサービスへの安全なアクセスを公開、登録、ビュー、ナビゲート、監視、および付与するためのWebベースのGeoportal フレームワークです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapbender is the tip of the iceberg, a meta layer of software providing access to SDI components adhering to international standards. Mapbender allows users to easily create customised browser clients from a wide range of widgets (without any/with minimal) programming required. Widgets integrate with server functionality to provide advanced functionality like security proxying, digitizing, auto snapping and more.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Mapbenderは、いわば氷山の一角であり、国際標準に準拠したSDIコンポーネントへのアクセスを提供するソフトウェアのメタレイヤです。Mapbenderを使用すると、ユーザーはさまざまなウィジェットから、プログラミング不要、あるいは最小限のプログラミングで、カスタマイズされたブラウザクライアントを簡単に作成できます。ウィジェットはサーバ機能と統合され、セキュリティプロキシ、デジタイズ、自動スナップなどの先進的な機能を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapbender management applications are straight forward and easy to use providing highly focused functionality for the operation of large scale distributed SDI components. It is the tool of choice for SDI administrators who need to maintain, categorize and monitor map and feature services. Mapbender grants access to individuals, groups and manages machine to machine access. Adherence to standardized services, such as OGC WMS allows to take advantage of interoperable services from a multitude of server platforms.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Mapbender管理アプリケーションは、大規模な分散SDIコンポーネントの操作に高度に焦点を当てた機能を提供する、簡単で使いやすいものです。これは、マップと地物のサービスを維持、分類、および監視する必要があるSDI管理者向けのツールです。Mapbenderは、個人、グループへのアクセスを許可し、M2Mアクセスを管理します。OGC WMSなどの標準化されたサービスに準拠することで、多数のサーバプラットフォームから相互運用可能なサービスを利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapbender is based on Symfony, OpenLayers and jQuery.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>MapbenderはSymfony、OpenLayers、およびjQueryに基づいています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Easily create web mapping interfaces using template applications</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>テンプレートアプリケーションを使用してWebマッピングインターフェイスを簡単に作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>add/remove/customize applications</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アプリケーションの追加/削除/カスタマイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create applications with digitize functionality</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>デジタイズ機能を備えたアプリケーションを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create mobile Applications</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>モバイルアプリケーションを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Print high-quality maps using your own PDF templates.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>独自のPDFテンプレートを使用して高品質な地図を印刷します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Digitizing via SQL</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>SQLによるデジタイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Upload and share remote OGC WMS (Capabilities caching)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アップロードしてリモートOGC WMS(キャッシュ機能つき)を共有する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>arrange uploaded WMS for overlay</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アップロードされたWMSをオーバーレイ用に加工する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>editing layer visibility</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>レイヤの可視性を編集する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>order</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>順序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create users and groups, share and grant access to services and modules</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ユーザーとグループを作成し、サービスとモジュールへのアクセスを共有および許可する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Restrict user access with the OWS security proxy module via trusted servers</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>信頼されたサーバー経由でOWSセキュリティプロキシモジュールを使用してユーザーアクセスを制限する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Encrypted protocols monitoring and status notification and auto-update service for remote OGC services</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>リモートOGCサービスのための暗号化プロトコルモニタリング、ステータス通知、自動更新サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>... and more!</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>などなど ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -29,10 +181,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Website:** https://mapbender.org</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://mapbender.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>**Licence:** `MIT license &lt;https://opensource.org/licenses/MIT&gt;`_</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>**ライセンス:** `MIT license &lt;https://opensource.org/licenses/MIT&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-mapbender|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-mapbender|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45,10 +213,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Support:** https://mapbender.org/en/community</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** https://mapbender.org/en/community</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Quickstart</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/mapbender_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/mapbender_quickstart&gt;`</seg>
       </tuv>
     </tu>
   </body>

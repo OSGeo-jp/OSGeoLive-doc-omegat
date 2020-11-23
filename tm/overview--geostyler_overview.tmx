@@ -37,6 +37,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>|WFS|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|WFS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>|WMS|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|WMS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Details</seg>
       </tuv>
       <tuv xml:lang="ja">

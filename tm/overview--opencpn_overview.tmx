@@ -5,10 +5,98 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>Marine GPS navigation software</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>船舶用GPS航法ソフトウェア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OpenCPN provides free navigation software for use at the helm of vessels of all types and sizes, as well as offline for route planning. It has been developed by a team of active sailors using real world conditions for program testing and refinement.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenCPNはあらゆる船型や船型の船舶を操船するためのフリーナビゲーション・ソフトウェアや、航路計画のためのオフライン・ソフトウェアを提供しています。これは、プログラムのテストと改良のために実世界の条件を使用して、アクティブな水兵のチームによって開発されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OpenCPN presents a user with the vessel's current position, speed and course superimposed upon accurate navigational chart images, tide and current predictions. Information received by standard radio links describing the position and intent of other vessels can also be shown.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenCPNは、正確な航海図画像、潮汐及び海流予測に重ね合わされた船の現在位置、速度及び針路をユーザに提示します。他の船舶の位置及び意図を記述する標準無線リンクによって受信された情報も示すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As the host vessel moves, new charts are selected and displayed at user specified resolution and detail. Further, the user may enter routes and waypoints allowing interface to an external autopilot for precise course following.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ホストの船舶が移動すると、新しいチャートが選択され、ユーザ指定の解像度および詳細で表示されます。さらに、ユーザは、正確なコース追跡のための外部自動操縦装置へのインターフェースを可能にする経路およびウェイポイントを入力することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OpenCPN supports:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenCPN は次のものをサポートします:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>BSB raster, C-MAP (CM93/2) and S-57 ENC vector charts</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>BSBラスター、C-MAP(CM93/2)、S-57ENCベクトル図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>AIS input decoding</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>AIS入力デコード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>NMEA GPS or `Gpsd &lt;https://www.berlios.de/software/gpsd/&gt;`_ daemon input</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>NMEA GPSまたは`Gpsd&lt;https://www.berlios.de/software/gpsd/&gt;`_ デーモンの入力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Waypoint / autopilot navigation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ウェイポイント/オートパイロットナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unlimited route/mark creation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>無制限のルート/マークの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>International language support</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>国際化のサポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -21,10 +109,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>GRIB weather data overlay</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GRIB天候データオーバーレイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Details</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** https://www.opencpn.org</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ウェブサイト:**https://www.opencpn.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -37,6 +141,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Software Version:** |version-opencpn|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-opencpn|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>**Supported Platforms:** GNU/Linux, Mac OSX, MS Windows</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -45,10 +157,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Support:** https://www.cruisersforum.com/forums/f134/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:**https://www.cruisersforum.com/forums/f134/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Quickstart</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/opencpn_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書&lt;./quickstart/opencpn_quickstart&gt;`</seg>
       </tuv>
     </tu>
   </body>

@@ -13,6 +13,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Here are some additional challenges for you to try:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次に、試すべき追加の課題をいくつか示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>What Next?</seg>
       </tuv>
       <tuv xml:lang="ja">

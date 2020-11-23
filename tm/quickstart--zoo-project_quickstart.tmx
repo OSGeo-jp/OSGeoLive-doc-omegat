@@ -5,10 +5,170 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>Zoo Project Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Zoo プロジェクト クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The ZOO-Project provides a developer friendly Web Processing Service (WPS) framework for creating and chaining Web Processing Services. A WPS provides web access to functions which run spatial algorithms.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ZOOプロジェクトは、Web Processing Servicesを作成およびチェーンするための開発者向けのWeb Processing Service(WPS)フレームワークを提供します。WPSは空間アルゴリズムを実行する関数へのWebアクセスを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start ZOO-Project</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ZOOプロジェクトを開始する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From the Start menu, select :menuselection:`Geospatial --&gt; Web Services --&gt; ZOO Project`.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>[スタート]メニューから:menuselection:`Geospatial--&gt;Web Services--&gt;ZOO Project`を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Firefox will open the ZOO Project demonstration landing page. From here, you can select a demon application.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>FirefoxはZOOプロジェクトのデモがある着地ページを開きます。ここから、デモアプリケーションを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OGR spatial tools demo</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OGR空間ツールのデモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the ZOO Project demonstration landing page, click :guilabel:`view` on OGR spatial tools.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ZOOプロジェクトのデモ着地ページで、OGR空間ツールの:guilabel:`ビュー`をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the map to select a feature from the :doc:`GeoServer &lt;../overview/geoserver_overview&gt;` WFS Server, the feature will be displayed in blue.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地図をクリックして:doc:`GeoServer&lt;./overview/geoserver_overview&gt;`WFS Serverから地物を選択すると、地物が青で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on simple geometry process like Buffer, Centroid, ConvexHull or Boundary and the result will be displayed in yellow.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>バッファ、重心、凸包、境界などの単純なジオメトリ処理をクリックすると、結果が黄色で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now select another feature near the first you've selected, then click on a multiple geometries process button like Union, Intersection, Symmetric Difference or Difference to get the result displayed in red on the map.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>最初に選択した地物の近くにある別のジオメトリを選択し、[和](Union)、[交差](Intersection)、[対称差](Symmetric Difference)、[差](Difference)などの複数のジオメトリの処理ボタンをクリックして、結果を地図上に赤で表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CGAL triangulations demo</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>CGAL三角形分割デモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the ZOO Project demonstration landing page, click :guilabel:`view` on CGAL triangulations.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ZOOプロジェクトのデモ着地ページで、CGAL三角形分割の:guilabel:`view`をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Press the Voronoi or Delaunay button to display on your map the result of the WPS service execution, as shown below.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ボロノイまたはドロネーボタンを押して、以下に示すように、WPSサービスの実行結果をマップに表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OTB Applications demo</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OTBアプリケーションのデモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the ZOO Project demonstration landing page, click :guilabel:`view` on OTB application.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ZOOプロジェクトのデモ着地ページで、OTBアプリケーションの:guilabel:`view`をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fill the form on the left to configure the WPS service execution.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>左側のフォームに入力して、WPSサービスの実行を設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Once you have selected the values for your processing, press the :guilabel:`Execute` button at the bottom of the left form.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>処理する値を選択したら、左側のフォームの下部にある:guilabel:`Execute`ボタンを押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you chose image/png as the output format, you will see the result of your processing displayed on the map. You can see below a sample KMeansClassification execution when selecting the image/png output format.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>出力形式としてimage/pngを選択した場合、処理結果が地図に表示されます。image/png出力フォーマットを選択すると、サンプルのKMeansClassification実行が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>What next?</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can access the capabilities of the ZOO WPS Server:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ZOO WPSサーバーの機能にアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For further questions you can contact the ZOO Project mailing list: zoo-discuss@lists.osgeo.org</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細については、ZOO Projectメーリングリスト:zoo-discuss@lists.osgeo.orgに問い合わせてください。</seg>
       </tuv>
     </tu>
   </body>

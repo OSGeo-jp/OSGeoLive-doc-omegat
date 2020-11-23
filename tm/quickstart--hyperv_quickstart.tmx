@@ -45,6 +45,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>`Other ways to create a Virtual Machine &lt;https://wiki.osgeo.org/wiki/Live_GIS_Virtual_Machine&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`仮想マシンを作成するその他の方法&lt;https://wiki.osgeo.org/wiki/Live_GIS_Virtual_Machine&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>:doc:`osgeolive_quickstart`</seg>
       </tuv>
       <tuv xml:lang="ja">

@@ -24,7 +24,7 @@ msgstr ""
 #: ../../build/doc/quickstart/gvsig_quickstart.rst:18
 msgid ""
 "This  project is only included on the OSGeoLive virtual machine disk (VMDK)"
-msgstr ""
+msgstr "このプロジェクトはOSGeoLive仮想マシンディスク(VMDK)にのみ含まれています"
 
 #: ../../build/doc/quickstart/gvsig_quickstart.rst:24
 msgid "gvSIG Desktop Quickstart"
@@ -508,7 +508,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/gvsig_quickstart.rst:316
 msgid "Create a new map"
-msgstr ""
+msgstr "新規マップの作成"
 
 #: ../../build/doc/quickstart/gvsig_quickstart.rst:318
 msgid "Select the *Map* document type in the **Project Manager**."

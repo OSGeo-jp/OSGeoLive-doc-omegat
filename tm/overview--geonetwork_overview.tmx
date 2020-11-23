@@ -5,10 +5,106 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>Metadata Catalog</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メタデータカタログ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoNetwork OpenSource is a catalog application for managing spatially referenced resources. It provides powerful metadata editing and search functions, an embedded interactive web map viewer, and is based upon Open Standards.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoNetworkは、空間的に参照されているリソースを管理するためのカタログアプリケーションです。強力なメタデータ編集と検索機能、およびインタラクティブなWebマップビューアを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Immediate search access to local and distributed geospatial catalogues</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地理空間カタログへの迅速な検索アクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Up and downloading of data, graphics, documents, pdf files and any other content type</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データ、グラフィックス、ドキュメント、pdfファイル、その他のコンテンツタイプのアップロードとダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An interactive Web Map Viewer to combine Web Map Services from distributed servers around the world</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>世界中の分散しているサーバからのWebマップサービスを結合するインタラクティブなWebマップビューア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Recently updated entries are accessible as RSS news feeds and as GeoRSS.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>最近更新されたエントリは、RSSニュースフィードおよびGeoRSSとしてのアクセスできるようになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Online editing of metadata with a powerful template system</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>強力なテンプレートシステムによるメタデータのオンライン編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Native support for ISO19115/ISO19119/ISO19139/ISO19110 and Dublin Core formatted metadata</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ISO19115/ISO19119/ISO19139/ISO19110およびDublin Coreフォーマットのメタデータのネイティブサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scheduled harvesting and synchronization of metadata between distributed catalogues (GeoNetwork, CSW, OGC WxS GetCapabilities, WebDav, ArcSDE, Thredds, OGC WFS Features, OAI-PMH)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>配信されたカタログ(GeoNetwork、CSW、OGC WxS GetCapabilities、WebDAV、ArcSDE、Thredds、OGC WFS Features、OAI-PMH)間のメタデータのスケジュールされた収集と同期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fine-grained access control</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>きめ細やかなアクセス制御</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Group and user management</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>グループとユーザーの管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Multi-lingual user interface</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>多言語のユーザーインターフェイス</seg>
       </tuv>
     </tu>
     <tu>
@@ -29,10 +125,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Website:** https://geonetwork-opensource.org</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://geonetwork-opensource.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>**Licence:** GNU General Public License (GPL) version 2</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>**ライセンス:** GNU General Public License (GPL) version 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-geonetwork|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-geonetwork|</seg>
       </tuv>
     </tu>
     <tu>
@@ -53,10 +165,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Support:** https://www.osgeo.org/service-providers</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** https://www.osgeo.org/service-providers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Quickstart</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/geonetwork_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/geonetwork_quickstart&gt;`</seg>
       </tuv>
     </tu>
   </body>

@@ -5,10 +5,218 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>Marble Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Marble クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Marble is an open source KDE Education Project program similar to NASA World Wind or Google Earth. Besides choosing any number of maps to view on your globe (including OpenStreetMap), you are encouraged to include a KDE Marble widget in your application.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>MarbleはオープンソースのKDE 教育プロジェクト プログラムで、NASA World WindやGoogle Earthに似ています。地球儀に表示する(`OpenStreet Maps&lt;https://www.openstreetmap.org&gt;`_を含む)マップをいろいろ選択するだけでなく、アプリケーションにKDE Marbleウィジェットを含めることをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start Marble</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Marbleの開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the desktop, choose :menuselection:`Navigation and Maps --&gt; Marble`. You will see a window like this:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>デスクトップから :menuselection:`ナビゲーションと地図 --&gt; Marble`を選択します。次のようなウィンドウが表示されます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change the display</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>表示の変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scale the globe by rotating the wheel of your mouse.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マウスのホイールを回転させて地球儀をスケールさせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To move around press the left button of your mouse and move it.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>移動するには、マウスの左ボタンを押して移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Marble has 11 different views (themes):</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Marbleには11種類のビュー(テーマ)があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>OpenStreetMap</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>OpenStreetMap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Satellite View</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サテライトビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Earth at Night</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>夜の地球</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moon</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Plain Map</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プレインマップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Precipitation (December)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>降水量(12月)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Precipitation (July)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>降水量(7月)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Temperature (December)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>気温(12月)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Temperature (July).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>気温(7月)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click one of entries in the "Theme" list in "Map View" tab to switch between them.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>「マップビュー」タブの「テーマ」リストの項目の1つをクリックして、切り替えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click a label in any place to view more information about it.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>任意の場所のラベルをクリックすると、ビューの詳細情報が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find a location</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>場所を検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To find a location, enter its name into the search line on the top of "Search" panel. As you start typing, suggestions below the search line will appear like this:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>場所を検索するには、「検索」パネルの一番上の検索行に名前を入力します。入力を開始すると、検索ラインの下に次のような提案が表示されます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a bookmark</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ブックマークを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use bookmarks in Marble to remember the location of something.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Marbleのブックマークを使用して、表示したことのある位置を記憶します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To add a bookmark, press the left button of your mouse and click "Add bookmark". A window will appear like this:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ブックマークを追加するには、マウスの左ボタンを押して[ブックマーク追加]をクリックします。次のようなウィンドウが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Write the name, description and destination folder of the bookmark</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ブックマークの名前、説明、移動先フォルダを記入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the "Ok" button. Then the bookmark will appear.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>「OK」ボタンをクリックします。するとブックマークが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To manage bookmarks, go to "Bookmarks-&gt;Manage Bookmarks".</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ブックマークを管理するには、「ブックマーク-&gt;ブックマークの管理」に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21,10 +229,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Try to use the Routing feature. See the `Marble documentation &lt;https://docs.kde.org/trunk5/en/kdeedu/marble/index.html&gt;`_ for help.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ルーティング機能を使用してみます。ヘルプについて、`Marble documentation &lt;https://docs.kde.org/trunk5/en/kdeedu/marble/index.html&gt;`_ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>What next?</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the `Marble homepage &lt;https://marble.kde.org/&gt;`_ for more information.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細については、 `Marble ホームページ &lt;https://marble.kde.org/&gt;`_ を参照してください。</seg>
       </tuv>
     </tu>
   </body>

@@ -5,10 +5,242 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>zyGrib Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>zyGribクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>zyGrib is a program to download and visualize weather forecast data in the standard GRIB distribution format.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>zyGribは、標準的なGRIB配布フォーマットで天気予報データをダウンロードして視覚化するプログラムです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start zyGrib</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>zyGribを開始する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From the desktop, choose :menuselection:`Navigation and Maps --&gt; zyGrib GRIB file viewer`.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>From the desktop, choose :menuselection:`ナビゲーションと地図 --&gt; zyGrib GRIB file viewer`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select your preferred language and click :guilabel:`OK`. The program opens and you are presented with a map of the world.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>使用する言語を選択し、:guilabel:`OK`をクリックします。プログラムが開き、世界のマップが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Check the connection to the data server. On the toolbar at the top right of the screen, click the power plug icon. The File Server Status window opens and after a moment, it will confirm the status of the connection.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データサーバーへの接続をチェックしてください。画面右上のツールバーで、電源プラグアイコンをクリックします。ファイルサーバーの状態ウィンドウが開き、しばらくすると接続の状態が確認されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You'll need an internet connection to download GRIB weather forecast data. You can get GRIB data from many sources, but as a convenience the zyGrib authors maintain a data server to use with zyGrib.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GRIB天気予報データをダウンロードするにはインターネット接続が必要です。多くのソースからGRIBデータを取得することができますが、zyGribの作者は便宜上、zyGribで使用するデータサーバーを維持管理しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データのダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the mouse to click and drag a box on the map canvas on a part of the world you are interested in. The Gulf of Mexico or the southern tip of Africa often have dynamic winds.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マウスを使用して、地図キャンバス上のボックスをクリックして、関心のある世界の一部にドラッグします。メキシコ湾やアフリカの南端にはしばしばダイナミックな風があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>With your box drawn on the map, click the zoom-to-box icon on the taskbar (the magnifying glass with a small box underneath it)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地図にボックスを描画した状態で、タスクバーのボックスズームアイコン(小さなボックスが下にある虫眼鏡)をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Again,  mark out a box of interest with a left-click drag, but this time covering most or all of the zoomed-in map canvas.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>再度、左クリックドラッグで対象のボックスをマークします。ただし、今回は拡大されたマップキャンバスのほとんどまたはすべてをカバーしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select :menuselection:`File --&gt; Download GRIB` and select the features you want to download. If in doubt, accept the defaults.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:menuselection:`File--&gt;Download GRIB`を選択し、ダウンロードしたい地物を選択します。よくわからない場合は、デフォルトを受け入れてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When ready click the ``Download`` button, and save the file to disk.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>準備ができたら、``Download``ボタンをクリックし、ファイルをディスクに保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The application displays a weather map with a time slider along the bottom, set for the current time. You can use the mouse wheel to zoom in if you like.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アプリケーションは、現在の時刻に設定されたタイムスライダが下部に表示された気象マップを表示します。マウスホイールを使用してズームインすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change views</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ビューの変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move the mouse around the map you'll see the exact conditions listed in the pane on the left.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マップの周りでマウスを動かすと、左側のペインに正確な条件が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can change the time by moving the slider along the bottom, or from the drop down menu in the top-left of the window.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>時間を変更するには、下部に沿ってスライダを移動するか、ウィンドウの左上にあるドロップダウンメニューから移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From the ``Weather map`` menu, select a variable to visualize. For example, select :menuselection:`Weather map --&gt; Cloud cover` and the view should change.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>``Weather map``メニューから、視覚化する変数を選択します。たとえば、:menuselection:`Weather map--&gt;Cloud cover`を選択すると、ビューが変更されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you downloaded data for the Gulf of Mexico you'll be interested to view the CAPE data. "CAPE" stands for Convective Available Potential Energy at ground level. It is a measure of atmospheric instability, and high values (1000s of J/kg) indicate a threat of thunderstorms and/or tornadoes.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メキシコ湾のデータをダウンロードした場合、CAPEデータのビューに興味があるでしょう。"CAPE"は対流利用可能ポテンシャルエネルギー(Convection Available Potential Energy)の略です。これは大気の不安定性の尺度であり、高い値(1000J/kg)は雷雨や竜巻の脅威を示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you downloaded data for southern Africa, cloud cover may be more interesting.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アフリカ南部のデータをダウンロードした場合は、雲量の方が興味深いかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create an animation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アニメーションを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the right-hand most icon on the toolbar (a rocketship). A new window opens and an animation will be generated.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ツールバーの右端のアイコン(ロケットシップ)をクリックします。新しいウィンドウが開き、アニメーションが生成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Wait while it runs through the time sequence for the first time. When it is done it will rewind to the beginning of the time series.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>最初に実行されるまで待ちます。終了すると、時系列の先頭に戻ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can play, pause and rewind the sequence as you like.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>再生、一時停止、巻き戻しが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also save each frame as an image file for later encoding into an AVI, MPEG, or animated GIF `using other software &lt;https://grasswiki.osgeo.org/wiki/Movies&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>各フレームを画像ファイルとして保存して、後で他のソフトウェア&lt;https://grasswiki.osgeo.org/wiki/Movies&gt;`_を使用してAVI、MPEG、またはアニメーションGIF`にエンコードすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you're done, click the red power button to close.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>終了したら、赤い電源ボタンをクリックして閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>What next?</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The :doc:`OpenCPN software &lt;../overview/opencpn_overview&gt;` (also on this disc) has a GRIB overlay plugin which you may try with your newly downloaded GRIB file. See the :doc:`OpenCPN quickstart &lt;../quickstart/opencpn_quickstart&gt;` for details.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`OpenCPNソフトウェア&lt;../overview/opencpn_overview&gt;`(このディスクにもあります)にはGRIBオーバーレイプラグインがあり、新しくダウンロードしたGRIBファイルで試すことができます。詳細は、:doc:`クイックスタート文書&lt;./quickstart/opencpn_quickstart&gt;`を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Website: https://www.zygrib.org</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Webサイト: https://www.zygrib.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Support: https://zygrib.org/forum/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サポート: https://zygrib.org/forum/</seg>
       </tuv>
     </tu>
   </body>

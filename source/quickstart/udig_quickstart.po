@@ -450,7 +450,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:296
 msgid "Here are some additional challenges for you to try:"
-msgstr ""
+msgstr "次に、試すべき追加の課題をいくつか示します。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:298
 msgid ""

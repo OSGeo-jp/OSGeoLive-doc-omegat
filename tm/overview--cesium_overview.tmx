@@ -29,6 +29,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Cesium is a JavaScript library for creating 3D globes and 2D maps in a web browser without any plugins. It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Cesiumは、プラグインなしでウェブブラウザで3D地球儀と2Dマップを作成するためのJavaScriptライブラリです。ハードウェアで高速化されたグラフィックスにWebGLを使用し、クロスプラットフォーム、クロスブラウザで、動的データの視覚化に合わせて調整されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -45,10 +53,130 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Create data-driven, time-dynamic scenes with `CZML &lt;https://github.com/CesiumGS/cesium/wiki/CZML-Guide&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`CZML&lt;https://github.com/CesiumGS/cesium/wiki/CZML-Guide&gt;`_を使用して、データ駆動型で時間動的なシーンを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Visualize high-resolution worldwide terrain.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>世界的な地形を高解像度で可視化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draw imagery layers using WMS, TMS, OpenStreetMaps, Bing, and Esri standards.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>WMS、TMS、OpenStreetMaps、Bing、およびEsri標準を使用して画像レイヤを描画します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draw vector data from GeoJSON and TopoJSON.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoJSONとTopoJSONからベクタデータを描画します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draw 3D models using COLLADA and glTF.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>COLLADAとglTFを使用して3Dモデルを描画します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use `plugins &lt;https://cesium.com/cesiumjs&gt;`_ to extend Cesium.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`プラグイン&lt;https://cesium.com/cesiumjs&gt;`_を使用してCesiumを拡張します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Built for Performance and Precision:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>パフォーマンスと精度を重視した設計:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Optimized WebGL with batching and culling efficiently uses hardware-accelerated graphics.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>バッチとカリングに最適化されたWebGLにより、ハードウェアで高速化されたグラフィックスを効率的に使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draw a wide range of geometries including polylines, polygons, billboards, labels, extrusions, and corridors.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ポリライン、ポリゴン、ビルボード、ラベル、押し出し、コリドーなど、さまざまなジオメトリを描画します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use `3D Tiles &lt;https://cesium.com/blog/2017/07/12/the-next-generation-of-3d-tiles/&gt;`_ to stream, style and interact with heterogeneous 3D data, including photogrammetry models, 3D buildings, CAD and BIM exterior and interiors, and point clouds.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`3Dタイル&lt;https://cesium.com/blog/2017/07/12/the-next-generation-of-3d-tiles/&gt;`_を使用して、写真測量モデル、3D建物、CADとBIMの外部と内部、ポイントクラウドなど、異種の3Dデータをストリーミング、スタイル設定、および操作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Control the camera and create flight paths.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カメラを制御して飛行経路を作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use standard widgets to control animation time, select imagery layers, and zoom to a location.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>標準ウィジェットを使用して、アニメーション時間を制御したり、画像レイヤを選択したり、場所にズームしたりします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>One API, Three Views:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>1つのAPI、3つのビュー:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cesium supports a 3D globe, 2D map, and 2.5D Columbus View with the same API.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Cesium は同じAPIで3D地球儀、2Dマップ、2.5Dコロンブスビューをサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Implemented Standards</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>実装されている標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>WMS and WMTS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>WMSとWMTS</seg>
       </tuv>
     </tu>
     <tu>
@@ -61,10 +189,58 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Website:** https://cesium.com/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://cesium.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** Apache 2.0 license</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** Apache 2.0 license</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-cesium|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-cesium|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:**  Platform independent, depends only on a browser which supports WebGL</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:**  Platform independent, depends only on a browser which supports WebGL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Community Support:** Forum at https://groups.google.com/forum/?hl=en#!forum/cesium-dev</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**コミュニティサポート:** Forum at https://groups.google.com/forum/?hl=en#!forum/cesium-dev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Quickstart</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/cesium_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/cesium_quickstart&gt;`</seg>
       </tuv>
     </tu>
   </body>

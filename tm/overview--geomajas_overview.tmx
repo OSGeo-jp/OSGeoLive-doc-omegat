@@ -5,10 +5,130 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>Browser GIS Client</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ブラウザGISクライアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Client enables developers to create powerful web GIS applications including interactive maps, extensible widgets and custom use cases. It allows access to a wide range of data sources and functionality through a web browser.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このクライアントを使用すると、開発者はインタラクティブなマップ、拡張可能なウィジェット、カスタムユースケースを含む強力なWeb GISアプリケーションを作成できます。Webブラウザを使用して、幅広いデータソースと機能にアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Programmable using pure Java through GWT</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GWT経由でPure Javaを使用してプログラム可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Supports many layer types (incl. WMS, WFS, WMTS, TMS, OSM, Google Maps, Shape, PostGIS, Oracle, JDBC, …)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>多くのレイヤタイプをサポートしています(WMS, WFS, WMTS, TMS, OSM, Google Maps, Shape, PostGIS, Oracle, JDBC, …を含む)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Handy collection of built-in widgets (incl. Editing and redlining, Print, Geocoding, Layer tree, ...)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>組み込みウィジェットの便利なコレクション(編集とレッドライン,印刷,ジオコーディング,レイヤ,...を含む)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Build your own use cases and create new widgets</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>独自のユースケースを構築し、新しいウィジェットを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Easy skinnable through custom CSS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カスタムCSSを使用して簡単にスキン可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No need for browser plug-ins</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ブラウザにプラグインが不要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Runs on a wide range of internet devices using HTML5</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>HTML5を使用してさまざまなインターネットデバイスで動作します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not a GWT enthusiast? Access core features through the Javascript API</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GWTのファンではありませんか?Javascript APIを使用した主な機能へのアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enterprise Server features</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>エンタープライズサーバーの機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advanced security on different levels (layer, feature, attribute, functionality, …)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>異なるレベルでの高度なセキュリティ(レイヤ、地物、属性、機能など)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Seamless integration with your own Domain Model – persistence via Hibernate, web services, Java RMI, ...</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>独自のドメインモデルとのシームレスな統合-Hibernate、Webサービス、Java RMIなどを介した永続性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enterprise integration with other business applications such as JBPM, Activiti, JasperReports, CMS, Alfresco through industry standards (SOAP, REST, ESB, JNDI, …)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>業界標準(SOAP, REST, ESB, JNDI, …)を利用した、JBPM、Activiti、JasperReports、CMS、Alfrescoなどの他のビジネスアプリケーションとのエンタープライズ統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Easy extensible through the Spring framework</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Springフレームワークを使用して簡単に拡張可能</seg>
       </tuv>
     </tu>
     <tu>
@@ -21,6 +141,30 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Website:** http://www.geomajas.org</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** http://www.geomajas.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** AGPL</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** AGPL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-geomajas|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-geomajas|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>**Supported Platforms:** Windows, Linux, Mac</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -29,10 +173,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**API Interfaces:** Java and Javascript</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**API インターフェイス:** Java and Javascript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Support:** https://www.osgeo.org/service-providers</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** https://www.osgeo.org/service-providers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Quickstart</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/geomajas_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/geomajas_quickstart&gt;`</seg>
       </tuv>
     </tu>
   </body>

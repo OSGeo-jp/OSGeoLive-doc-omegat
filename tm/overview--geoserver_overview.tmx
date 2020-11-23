@@ -32,7 +32,7 @@
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
       </tuv>
     </tu>
     <tu>
@@ -96,7 +96,7 @@
         <seg>As the data is served up as an image your data is completely safe and secure. Unless they redigitise your data there is no way to steal your data. The appearance of each map layer can be controlled using the SLD standard which allows features to be coloured and labeled. By combining these rules with OGC Filters scale dependent styling can be implemented allowing more detail to be added as a user zooms in. Label collision management, grouping and priorities are also implemented.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg> データは画像の状態で保存し、完全に安全でセキュアに配信します。データを再入力しない限り、あなたのデータを盗み出すことはできないでしょう。それぞれの地図のレイヤは SLD を用いて表示を変更できます。SLD 標準により地物の色やラベル表示を設定できます。これに、縮尺によって変化する OGC フィルターにを合わせると、ユーザーが拡大表示すると、より詳細を表示するような実装が可能です。ラベルの描画衝突の管理、グループ化、優先順位も実装されています。</seg>
+        <seg>データはイメージとして提供されるため、データは完全に安全で保護されています。彼らがあなたのデータを再デジタル化しない限り、あなたのデータを盗む方法はありません。各マップ画層の外観は、フィーチャの色付けとラベル付けを可能にするSLD標準を使用してコントロールできます。これらのルールをOGCと組み合わせることで、スケールに依存するスタイル設定を実装できるため、ユーザがズームインしたときに詳細を追加できます。ラベル衝突管理、グループ化、優先順位も実装されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -176,7 +176,7 @@
         <seg>Geospatial algorithms, including those from :doc:`JTS &lt;jts_overview&gt;`, can be called through GeoServer's |WPS| interface. This includes the chaining of processes, and using rendering transformations to create powerful visualisations through the WMS interface.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>:doc:`JTS &lt;jts_overview&gt;` に由来する地理空間アルゴリズムを、 GeoServer の |WPS| インターフェイスを経由して呼び出すことが可能です。処理を連結することや、 WMS インターフェイスを経由して強力な可視化を行うためにレンダリングの変換を行うことも可能です。</seg>
+        <seg>:doc:`JTS &lt;jts_overview&gt;` に由来する地理空間アルゴリズムを、 GeoServer の |WPS| インターフェイスを経由して呼び出すことが可能です。これには、処理を連結することや、 レンダリング変換を使用したWMS インターフェイスによる強力な可視化が含まれます。</seg>
       </tuv>
     </tu>
     <tu>

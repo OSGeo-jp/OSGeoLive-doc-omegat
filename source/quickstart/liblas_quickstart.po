@@ -4,8 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Ko Nagase <nagase@georepublic.co.jp>, 2020
 # MarPetra <mvergaratrejo@gmail.com>, 2020
+# Ko Nagase <nagase@georepublic.co.jp>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-21 10:22-0500\n"
 "PO-Revision-Date: 2017-09-20 16:06+0000\n"
-"Last-Translator: MarPetra <mvergaratrejo@gmail.com>, 2020\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2020\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,7 +24,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/liblas_quickstart.rst:18
 msgid "libLAS Quickstart"
-msgstr ""
+msgstr "libLAS クイックスタート"
 
 #: ../../build/doc/quickstart/liblas_quickstart.rst:20
 msgid ""
@@ -33,6 +33,9 @@ msgid ""
 "data from LiDAR sensors and by LiDAR processing software for data "
 "interchange and archival."
 msgstr ""
+"ibLAS は一般的な `LAS` `LiDAR`_ フォーマットを読み書きするための C/C++ ライブラリです。 。`ASPRS LAS "
+"format`_ は LiDAR センサや LiDAR "
+"処理ソフトウェアがデータの保存、交換，アーカイブに使用しているシーケンシャルなバイナリフォーマットです。"
 
 #: ../../build/doc/quickstart/liblas_quickstart.rst:22
 msgid ""
@@ -43,10 +46,14 @@ msgid ""
 "measurements representing distance from the sensor to a returned emission. A"
 " common storage format for these point cloud data is ASPRS LAS format."
 msgstr ""
+"LiDAR (ライダー、Light Detection and Ranging) "
+"はレーダーと似た高精度な距離検出の一種で、電磁放射線の代わりにレーザー光線を使用するものです。LiDAR システムは \"点群\" "
+"データのように、センサからの距離等を反射波を用いて計測した結果を概念化したデータを出力します。一般的な点群データの保存に使用されているのが ASPRS "
+"LAS フォーマットです。"
 
 #: ../../build/doc/quickstart/liblas_quickstart.rst:28
 msgid "Processing"
-msgstr ""
+msgstr "処理方法"
 
 #: ../../build/doc/quickstart/liblas_quickstart.rst:30
 msgid ""
@@ -57,10 +64,11 @@ msgid ""
 " those tasks. The demo data can be found in "
 ":file:`/home/user/data/las/srs.las`"
 msgstr ""
+"libLASの「コマンドライン・ユーティリティー」は、libLAS用のユーザー向けの操作ソフトウェアの大部分を提供していますが、基礎となるlibLAS・ライブラリーがその原動力となっています。以下は、LASデータに対して実行する一般的な操作と、これらのタスクを実行するために使用するユーティリティとアプローチの一覧です。デモデータは、ファイル`/home/user/data/las/srs.las`にあります。"
 
 #: ../../build/doc/quickstart/liblas_quickstart.rst:37
 msgid "Reprojecting an LAS file"
-msgstr ""
+msgstr "LASファイルの再投影"
 
 #: ../../build/doc/quickstart/liblas_quickstart.rst:39
 msgid ""
@@ -82,25 +90,27 @@ msgid ""
 "file, it isn't worth waiting for a full scan of the data if all you want is "
 "header information."
 msgstr ""
+"--no-"
+"checkオプションを指定すると、lasinfoはファイルのヘッダー情報だけを印刷し、すべてのポイントをスキャンしないように指示します。10ポイント・ファイルの場合、これはもちろんそれほど重要なことではありませんが、50または500,000,000ポイント・ファイルの場合、ヘッダー情報だけが必要であれば、データの完全スキャンを待つ価値はありません。"
 
 #: ../../build/doc/quickstart/liblas_quickstart.rst:58
 msgid ""
 "Our 'lasinfo' invocation tells us that the ``srs.las`` file is in a UTM "
 "North Zone 17 coordinate system:"
-msgstr ""
+msgstr "`lasinfo`を呼び出すと``srs.las``ファイルがUTM North Zone 17座標系にあることがわかります。"
 
 #: ../../build/doc/quickstart/liblas_quickstart.rst:82
 msgid ""
 "Now that we know our input coordinate system, we can make a decision about "
 "what to reproject the data to.  In our first example, we're going to use the"
 " venerable plate carrée non-coordinate system, `EPSG:4326`_."
-msgstr ""
+msgstr "入力座標系がわかったので、データの再投影先を決定できます。最初の例では、由緒ある 経緯度座標系の `EPSG:4326`_を使用します。"
 
 #: ../../build/doc/quickstart/liblas_quickstart.rst:90
 msgid ""
 "Our process succeeds, but after a quick inspection of the data with "
 "``lasinfo output.las`` we see a problem:"
-msgstr ""
+msgstr "私たちのプロセスは成功しましたが、``lasinfo output.las``を使ってデータを調べたところ、問題がありました。"
 
 #: ../../build/doc/quickstart/liblas_quickstart.rst:102
 msgid ""
@@ -111,16 +121,18 @@ msgid ""
 "precision. We need to set our scale values to something that can hold more "
 "precision in our case:"
 msgstr ""
+" ``srs.las`` ファイルは、スケールは0.01 つまり、X、Y, "
+"Z座標の小数点以下2桁の精度でした。UTMデータの場合、これは1cmの暗黙的な精度を意味するため、問題ありません。投影されていない経緯度座標系の10進数データに対しては、かなり精度を失わせることになります。ここでは、スケール値を、より精度の高い値に設定する必要があります。"
 
 #: ../../build/doc/quickstart/liblas_quickstart.rst:113
 msgid ""
 "Another quick inspection with 'lasinfo' gives us something we're more "
 "comfortable with:"
-msgstr ""
+msgstr "`lasinfo`で更なる簡単な調査をすることで、快適な作業を提供してくれます。"
 
 #: ../../build/doc/quickstart/liblas_quickstart.rst:127
 msgid "Output LAS file to text"
-msgstr ""
+msgstr " LASファイルをテキストに出力"
 
 #: ../../build/doc/quickstart/liblas_quickstart.rst:134
 msgid "What next?"

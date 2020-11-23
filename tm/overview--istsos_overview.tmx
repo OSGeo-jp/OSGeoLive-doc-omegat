@@ -5,10 +5,98 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>Data Management Tool</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データ管理ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>istSOS is sensor data management tool that allows collection, maintenance and publishing of monitoring observations using the Open Geospatial Consortium (OGC) |SOS| standard.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>istSOSはセンサーデータ管理ツールで、オープン地理空間コンソーシアム(OGC) |SOS| 標準を使用したモニタリング観測の収集、メンテナンス、および公開を可能にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>istSOS strictly implements the SOS 1.0.0 standard, and has passed the OGC CITE (Compliance + Interopability Testing + Evaluation) units tests.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>istSOSはSOS1.0.0標準を厳密に実装しており、OGC CITE(Compliance+Interopability Testing+Evaluation)ユニットテストに合格しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Publish sensor data in accordance with the Sensor Observation Service (SOS) standard.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Sensor Observation Service (SOS)標準に従ってセンサーデータを公開する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Administer sensors and data with an intuitive web-based interface.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>直感的なWebベースのインターフェイスでセンサーとデータを管理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use a complete RestFul API to access istSOS functionality from external clients to create interactive charts, display sensor on a dynamic map or just write some maintenance scripts.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>完全なRESTful APIを使用して、外部クライアントからistSOS機能にアクセスし、インタラクティブなチャートを作成したり、動的な地図にセンサーを表示したり、メンテナンススクリプトを記述したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Get notified through mail, twitter or other social media when sensor data meets specific conditions.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>センサーデータが特定の条件を満たした場合、メール、Twitter、その他のソーシャルメディアを通じて通知されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>User authentication and authorization with different access levels (administrator, network manager, data manager and visitor).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>異なるアクセスレベル(管理者、ネットワーク管理者、データマネージャ、訪問者)でのユーザ認証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create Virtual Procedures that look like normal stations but whose data results from on-the-fly elaboration of other sensor data.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>通常のステーションに似ているが、そのデータが他のセンサーデータのオンザフライで生成される仮想プロシージャを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Associate quality indexes to each observation thanks to embedded validation tests.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>埋め込み妥当性テストにより、各観測に品質指数を関連付ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Online editing of data with a seamless interface and advanced observation calculator.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>シームレスなインターフェイスと先進的な観測計算機によるデータのオンライン編集</seg>
       </tuv>
     </tu>
     <tu>
@@ -21,10 +109,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>SOS 1.0.0: Basic and Transactional profiles</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>SOS1.0.0:基本プロファイルとトランザクションプロファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Details</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Website:** http://istsos.org</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** http://istsos.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -37,10 +141,50 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Software Version:** |version-istsos|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウエアバージョン:** |version-istsos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Supported Platforms:** Linux, Unix, Mac, Windows</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**対応プラットフォーム:** Linux, Unix, Mac, Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**API Interfaces:** Python / wsgi</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**API インターフェイス:** Python / wsgi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Support:** https://groups.google.com/forum/#!forum/istsos</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**サポート:** https://groups.google.com/forum/#!forum/istsos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Quickstart</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/istsos_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/istsos_quickstart&gt;`</seg>
       </tuv>
     </tu>
   </body>

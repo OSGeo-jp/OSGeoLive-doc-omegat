@@ -5,6 +5,174 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>GeoStyler Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoStyler クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This Quickstart describes some basic steps required to start working with GeoStyler: installing GeoStyler and adding a first UI component to your react application.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このクイックスタートでは、GeoStylerをはじめて使うときの基本的な手順について説明します。GeoStylerをインストールし、最初のUIコンポーネントをreactアプリケーションに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A complete beginner tutorial can be found on `localhost/geostyler &lt;localhost/geostyler&gt;`__.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>完全な初心者向けチュートリアルは、`localhost/geostyler&lt;localhost/geostyler&gt;`__にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoStyler makes it easy to style geodata in any web page. The UI is independent from any styling format and should be usable for e.g. OpenLayer or SLD.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoStylerを使用すると、あらゆるWebページで地理データのスタイルを簡単に設定できます。UIはどのスタイルフォーマットからも独立しており、OpenLayerやSLDなどで使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Optional) Installing GeoStyler</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>(オプション)GeoStylerのインストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSGeoLive comes with GeoStyler already installed. So you should be able to import it into your project as described in the next section. You can skip this section, if you just want to take a first look at the library.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSGeoLiveにはGeoStylerがすでにインストールされています。したがって、次のセクションで説明するように、プロジェクトにインポートできるはずです。ライブラリを最初に見たい場合は、このセクションをスキップできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, it is recommended to install GeoStyler for each project separately. This sections describes the required steps.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ただし、GeoStylerはプロジェクトごとに個別にインストールすることをお勧めします。ここでは、必要な手順について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The most simple way to install GeoStyler is to use ``npm``. Simply run following command from your project root:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoStylerをインストールする最も簡単な方法は、``npm``を使用することです。プロジェクトのルートから次のコマンドを実行するだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Please make sure that all peer dependencies are installed in the specified versions:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>関連する依存ライブラリのインストールについて指定されたバージョンであるか、確認してください:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Don't forget to install the parsers you want to use:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>使用するパーサーのインストールを忘れないでください:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Integrate GeoStyler</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoStylerを統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Import the GeoStyler ``Style`` component into your application as follows:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoStyler``Style``コンポーネントを次のようにアプリケーションにインポートします:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The ``Style`` component provides a variety of styling functionality.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>``Style``コンポーネントは、さまざまなスタイリング機能を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After importing, you can use it in your render method like this:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>インポート後、レンダリングメソッドで次のように使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The ``Style`` component should now be visible in the browser.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>``Style``コンポーネントがブラウザに表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Integrate geostyler-sld-parser</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>geostyler-sld-parserを統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To edit an existing SLD via GeoStyler, we first have to import and instantiate the ``geostyler-sld-parser``.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoStylerを使用して既存のSLDを編集するには、まず``geostyler-sld-parser``をインポートしてインスタンス化する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Afterwards, we are able to read an existing SLD into the GeoStyler-readable format.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>その後、既存のSLDをGeoStylerで読み取り可能な形式で読み込むことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To connect this style with the UI, we have to store it in a state variable and pass it to our ``Style`` component. After defining ``myStyle`` as a state variable, you can use it as follows:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このスタイルをUIに接続するには、状態変数に保存し、``Style``コンポーネントに渡す必要があります。``myStyle``を状態変数として定義すると、次のように使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The GeoStyler UI should now match the style that was defined as SLD.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoStyler UIは、SLDとして定義されたスタイルと一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To get the edited style as SLD from the ``Style`` component, you can use the ``writeStyle()`` method of the geostyler-sld-parser within the ``onStyleChange()`` method of the ``Style`` component.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>編集されたスタイルを``Style``コンポーネントからSLDとして取得するには、``Style``コンポーネントの``onStyleChange()``メソッド内でgeostyler-sld-parserの``writeStyle()``メソッドを使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Things to try</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -13,10 +181,50 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>As a next step, you can try to add an OpenLayers map and connect the ``Style`` component to the map, so that you can directly see the changes you made on the map.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次のステップとして、OpenLayersマップを追加し、``Style``コンポーネントをマップに接続して、マップ上で行った変更を直接見ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>What next?</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Check out these other resources about this application.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このアプリケーションに関する他のリソースを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`GeoStyler Documentation &lt;https://geostyler.github.io/geostyler/latest/index.html&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`GeoStyler 文書 &lt;https://geostyler.github.io/geostyler/latest/index.html&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`Beginner Tutorial &lt;https://geostyler.github.io/geostyler-beginner-workshop&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`初心者むけチュートリアル &lt;https://geostyler.github.io/geostyler-beginner-workshop&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`geostyler.org Website &lt;https://geostyler.org&gt;`__</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`geostyler.org Webサイト &lt;https://geostyler.org&gt;`__</seg>
       </tuv>
     </tu>
   </body>

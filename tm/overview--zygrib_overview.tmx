@@ -5,6 +5,14 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>zyGrib is a program to download and visualize weather forecast data in the standard GRIB distribution format.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>zyGribは、標準的なGRIB配布フォーマットで天気予報データをダウンロードして視覚化するプログラムです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">

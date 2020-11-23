@@ -37,6 +37,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>|WMS|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>|WMS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>|WMTS|</seg>
       </tuv>
       <tuv xml:lang="ja">

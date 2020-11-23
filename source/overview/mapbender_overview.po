@@ -27,7 +27,7 @@ msgstr ""
 
 #: ../../build/doc/overview/mapbender_overview.rst:17
 msgid "Geoportal Framework"
-msgstr ""
+msgstr "Geoportalフレームワーク"
 
 #: ../../build/doc/overview/mapbender_overview.rst:19
 msgid ""
@@ -35,6 +35,8 @@ msgid ""
 "a web based geoportal framework to publish, register, view, navigate, "
 "monitor and grant secure access to spatial data infrastructure services."
 msgstr ""
+"`Mapbender<https://mapbender.org/en>`_は卒業したOSGeoプロジェクトです。これは、空間データインフラストラクチャサービスへの安全なアクセスを公開、登録、ビュー、ナビゲート、監視、および付与するためのWebベースのGeoportal"
+" フレームワークです。"
 
 #: ../../build/doc/overview/mapbender_overview.rst:21
 msgid ""
@@ -45,6 +47,7 @@ msgid ""
 "integrate with server functionality to provide advanced functionality like "
 "security proxying, digitizing, auto snapping and more."
 msgstr ""
+"Mapbenderは、いわば氷山の一角であり、国際標準に準拠したSDIコンポーネントへのアクセスを提供するソフトウェアのメタレイヤです。Mapbenderを使用すると、ユーザーはさまざまなウィジェットから、プログラミング不要、あるいは最小限のプログラミングで、カスタマイズされたブラウザクライアントを簡単に作成できます。ウィジェットはサーバ機能と統合され、セキュリティプロキシ、デジタイズ、自動スナップなどの先進的な機能を提供します。"
 
 #: ../../build/doc/overview/mapbender_overview.rst:23
 msgid ""
@@ -57,54 +60,56 @@ msgid ""
 "to take advantage of interoperable services from a multitude of server "
 "platforms."
 msgstr ""
+"Mapbender管理アプリケーションは、大規模な分散SDIコンポーネントの操作に高度に焦点を当てた機能を提供する、簡単で使いやすいものです。これは、マップと地物のサービスを維持、分類、および監視する必要があるSDI管理者向けのツールです。Mapbenderは、個人、グループへのアクセスを許可し、M2Mアクセスを管理します。OGC"
+" WMSなどの標準化されたサービスに準拠することで、多数のサーバプラットフォームから相互運用可能なサービスを利用できます。"
 
 #: ../../build/doc/overview/mapbender_overview.rst:25
 msgid "Mapbender is based on Symfony, OpenLayers and jQuery."
-msgstr ""
+msgstr "MapbenderはSymfony、OpenLayers、およびjQueryに基づいています。"
 
 #: ../../build/doc/overview/mapbender_overview.rst:34
 msgid "Core Features"
-msgstr "主な機能"
+msgstr "主要機能"
 
 #: ../../build/doc/overview/mapbender_overview.rst:36
 msgid "Easily create web mapping interfaces using template applications"
-msgstr ""
+msgstr "テンプレートアプリケーションを使用してWebマッピングインターフェイスを簡単に作成する"
 
 #: ../../build/doc/overview/mapbender_overview.rst:38
 msgid "add/remove/customize applications"
-msgstr ""
+msgstr "アプリケーションの追加/削除/カスタマイズ"
 
 #: ../../build/doc/overview/mapbender_overview.rst:39
 msgid "Create applications with digitize functionality"
-msgstr ""
+msgstr "デジタイズ機能を備えたアプリケーションを作成する"
 
 #: ../../build/doc/overview/mapbender_overview.rst:40
 msgid "Create mobile Applications"
-msgstr ""
+msgstr "モバイルアプリケーションを作成する"
 
 #: ../../build/doc/overview/mapbender_overview.rst:41
 msgid "Print high-quality maps using your own PDF templates."
-msgstr ""
+msgstr "独自のPDFテンプレートを使用して高品質な地図を印刷します。"
 
 #: ../../build/doc/overview/mapbender_overview.rst:42
 msgid "Digitizing via SQL"
-msgstr ""
+msgstr "SQLによるデジタイズ"
 
 #: ../../build/doc/overview/mapbender_overview.rst:44
 msgid "Upload and share remote OGC WMS (Capabilities caching)"
-msgstr ""
+msgstr "アップロードしてリモートOGC WMS(キャッシュ機能つき)を共有する"
 
 #: ../../build/doc/overview/mapbender_overview.rst:46
 msgid "arrange uploaded WMS for overlay"
-msgstr ""
+msgstr "アップロードされたWMSをオーバーレイ用に加工する"
 
 #: ../../build/doc/overview/mapbender_overview.rst:47
 msgid "editing layer visibility"
-msgstr ""
+msgstr "レイヤの可視性を編集する"
 
 #: ../../build/doc/overview/mapbender_overview.rst:48
 msgid "order"
-msgstr ""
+msgstr "順序"
 
 #: ../../build/doc/overview/mapbender_overview.rst:49
 msgid "format"
@@ -113,22 +118,22 @@ msgstr ""
 #: ../../build/doc/overview/mapbender_overview.rst:50
 msgid ""
 "Create users and groups, share and grant access to services and modules"
-msgstr ""
+msgstr "ユーザーとグループを作成し、サービスとモジュールへのアクセスを共有および許可する"
 
 #: ../../build/doc/overview/mapbender_overview.rst:51
 msgid ""
 "Restrict user access with the OWS security proxy module via trusted servers"
-msgstr ""
+msgstr "信頼されたサーバー経由でOWSセキュリティプロキシモジュールを使用してユーザーアクセスを制限する"
 
 #: ../../build/doc/overview/mapbender_overview.rst:52
 msgid ""
 "Encrypted protocols monitoring and status notification and auto-update "
 "service for remote OGC services"
-msgstr ""
+msgstr "リモートOGCサービスのための暗号化プロトコルモニタリング、ステータス通知、自動更新サービス"
 
 #: ../../build/doc/overview/mapbender_overview.rst:53
 msgid "... and more!"
-msgstr ""
+msgstr "などなど ..."
 
 #: ../../build/doc/overview/mapbender_overview.rst:56
 msgid "Implemented Standards"
@@ -144,7 +149,7 @@ msgstr "詳細"
 
 #: ../../build/doc/overview/mapbender_overview.rst:63
 msgid "**Website:** https://mapbender.org"
-msgstr ""
+msgstr "**Webサイト:** https://mapbender.org"
 
 #: ../../build/doc/overview/mapbender_overview.rst:65
 msgid "**Licence:** `MIT license <https://opensource.org/licenses/MIT>`_"
@@ -152,7 +157,7 @@ msgstr "**ライセンス:** `MIT license <https://opensource.org/licenses/MIT>`
 
 #: ../../build/doc/overview/mapbender_overview.rst:67
 msgid "**Software Version:** |version-mapbender|"
-msgstr ""
+msgstr "**ソフトウェアバージョン:** |version-mapbender|"
 
 #: ../../build/doc/overview/mapbender_overview.rst:69
 msgid "**Supported Platforms:** Windows, Linux, Mac"
@@ -160,7 +165,7 @@ msgstr "**対応プラットフォーム:** Windows, Linux, Mac"
 
 #: ../../build/doc/overview/mapbender_overview.rst:71
 msgid "**Support:** https://mapbender.org/en/community"
-msgstr ""
+msgstr "**サポート:** https://mapbender.org/en/community"
 
 #: ../../build/doc/overview/mapbender_overview.rst:76
 msgid "Quickstart"
@@ -168,4 +173,4 @@ msgstr "クイックスタート"
 
 #: ../../build/doc/overview/mapbender_overview.rst:78
 msgid ":doc:`Quickstart documentation <../quickstart/mapbender_quickstart>`"
-msgstr ""
+msgstr ":doc:`クイックスタート文書 <../quickstart/mapbender_quickstart>`"

@@ -5,6 +5,22 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>EOxServer Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>EOxServer クイックスタートt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>EOxServer is a server for presenting big Earth Observation (EO) data archives and metadata via Open Standards. It builds upon an Open Source stack of software which includes Python, :doc:`MapServer &lt;../overview/mapserver_overview&gt;`, Django/GeoDjango, :doc:`GDAL &lt;../overview/gdal_overview&gt;`, PROJ.4 and a :doc:`SpatiaLite &lt;../overview/spatialite_overview&gt;` or :doc:`PostGIS &lt;../overview/postgis_overview&gt;` database.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>EOxServerは、大規模な地球観測(EO)データアーカイブとメタデータをオープンスタンダードで提供するサーバです。これは、Python、:doc:`MapServer&lt;./overview/mapserver_overview&gt;`、Django/GeoDjango、:doc:`GDAL&lt;./overview/gdal_overview&gt;`、PROJ.4および:doc:`Spatialite&lt;./overview/spatialite_overview&gt;`または:doc:`PostGIS&lt;./overview/postgis_overview&gt;`データベースを含むソフトウェアのオープンソーススタック上に構築されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>This Quick Start describes how to:</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -13,10 +29,202 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Use the Web Client to view, filter, subset, and download EO data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Web Clientを使用して、EOデータをビュー、フィルタリング、サブセット、ダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the Admin Client to inspect EO data archives</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>管理クライアントを使用してEOデータアーカイブを検査</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start EoxServer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>EoxServerを起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose :menuselection:`Geospatial --&gt; Web Services --&gt; EOxServer`. This launches a browser showing the demonstration instance available at http://localhost/eoxserver/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メニューから:menuselection:`Geospatial--&gt;Web Services--&gt;EOxServer`を選択します。これによりブラウザが起動し、http://localhost/eoxserver/で利用可能なデモインスタンスが表示されます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Work with the Web Client</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Web Clientの操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the **Web Client** link to open the integrated EOxServer client.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Web Client**リンクをクリックして、統合されたEOxServerクライアントを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Within this client you can explore the contents of the EOxServer instance. The demonstration instance is filled with ENVISAT MERIS scenes.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このクライアントでは、EOxServerインスタンスの内容を表示できます。デモインスタンスはENVISAT MERISのシーンで構成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The client provides a set of interactions. On the top you can see a menu bar to show the Layer Selection and the Tools widgets. The main area is the map widget of the client with a set of datasets already displayed. On the bottom, you'll find the timeslider widget, that allows you to explore the contents in the temporal dimension.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クライアントは一連の操作を提供します。上部には、レイヤ選択とツールウィジェットを表示するメニューバーが表示されます。主な領域は、クライアントのマップウィジェットで、一連のデータセットがすでに表示されています。下部にはタイムスライダウィジェットが表示され、時間次元のコンテンツを表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Layer Selection widget allows you to enable or disable the visibility and configure the rendering of the layers. Also, you can show or hide the streets-overlay and select the background layer. Please note, that when you disable the "MER FRS 1P RGB reduced" layer, the timeslider widget is hidden and only reappears once a layer dataset layer is enabled. The Tools widget provides three different tools: the Bounding Box Selection Tool, the Selection Management Tool and the Download Tool.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>レイヤ選択ウィジェットを使用すると、表示/非表示を切り替えたり、レイヤーのレンダリングを設定したりできます。また、通りのオーバーレイを表示または非表示にしたり、背景のレイヤを選択したりすることもできます。"MER FRS1P RGB reduced"レイヤを無効にすると、タイムスライダウィジェットは非表示になり、レイヤデータセットレイヤが有効になると再表示されることに注意してください。ツールウィジェットには、境界ボックス選択ツール、選択管理ツール、ダウンロードツールの3つの異なるツールが用意されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Similar to a map, you can zoom and pan the currently visible time of interest and select a time of interest by drawing on the area containing the red dots. You can also hover on a dot to see the dataset ID. By clicking on the dot, the map automatically zooms to the extent of the dataset.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マップと同様に、現在表示されている注視点をズームおよびパンしたり、赤い点を含む領域を描画して注視点を選択したりできます。点の上にカーソルを置くと、データセットIDを表示することもできます。点をクリックすると、マップは自動的にデータセットの範囲にズームします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When the Bounding Box Tool is enabled, you can draw a bounding box directly on the map. The bounding box is used for querying within the Download Tool.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>境界ボックスツールを有効にすると、境界ボックスを直接地図上に描画できます。境界ボックスは、ダウンロードツール内でクエリに使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When the Download Tool is enabled, a query to the server is sent. This query include s the selected time of interest and bounding box. The results are shown in the Download widget, where you can select the format, projection and datasets to download.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ダウンロードツールが有効になると、サーバーへのクエリーが送信されます。このクエリには、選択された対象の時刻と境界ボックスが含まれています。結果はダウンロードウィジェットに表示され、ダウンロードするフォーマット、投影、データセットを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This was a quick introduction to the EOxServer Web Client. Please refer to the `online documentation &lt;https://docs.eoxserver.org/en/latest/users/webclient.html&gt;`_ for more information on this topic.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>これは、EOxServer Web Clientの簡単な説明です。このトピックの詳細については、`オンライン文書 &lt;https://docs.eoxserver.org/en/latest/users/webclient.html&gt;`_を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Work with the Admin Client</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>管理クライアントとの連携</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From the EOxServer main page, click the **Admin Client** link and login with user `admin` and password `admin`.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>EOxServerのメインページで[**Admin Client**]リンクをクリックし、ユーザー「admin」とパスワード「admin」でログインします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The `Admin Client` is Djangos standard admin and allows you to configure the available data. Please feel free to explore the client. More information can be found in the `operators' guide &lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`Admin Client`はDjangos標準の管理者であり、利用可能なデータを設定できます。クライアントを自由にご覧ください。詳細については、`運用者ガイド&lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, you can inspect the dataset series that is loaded by default by clicking the "Dataset Series" link and then the "MER_FRS_1P_RGB_reduced" link.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>たとえば、既定でロードされているデータセットシリーズを検査するには、[データセットシリーズ]リンクをクリックし、[MER_FRS_1P_RGB_reduced]リンクをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Here you can also see the included datasets. You can exclude single datasets using the "delete" checkbox on the right and click on "Save".</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ここでは、含まれているデータセットも確認できます。単一のデータセットを除外するには、右側の[削除]チェックボックスをオンにして[保存]をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>What Next?</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is a simple demonstration, but you can do much more with EOxServer. The project website contains a lot of resources to help you get started. Here’s a few resources to check out next:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>これは簡単なデモですが、EOxServerでできることはたくさんあります。プロジェクトのWebサイトには、はじめての人に役立つ資材がたくさん用意されています。次に、いくつかのをいくつか紹介しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the :doc:`EOxServer Overview &lt;../overview/eoxserver_overview&gt;` for more information.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳細については、:doc:`EOxServerの概要&lt;./overview/eoxserver_overview&gt;`を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Read the `EOxServer Operators' Guide &lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`EOxServer 運用者ガイド&lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_を読んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Read the complete `EOxServer Users' documentation &lt;https://docs.eoxserver.org/en/latest/users/index.html&gt;`_ starting from the `EOxServer Basics &lt;https://docs.eoxserver.org/en/latest/users/basics.html&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`EOxServerの基本事項&lt;https://docs.eoxserver.org/en/latest/users/basics.html&gt;`_から始まる完全な`EOxServer ユーザーズドキュメント&lt;https://docs.eoxserver.org/en/latest/users/index.html&gt;`_を読んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you are already in the OSGeoLive environment, read the local copy of the `EOxServer Users' local documentation &lt;https://localhost/eoxserver-docs/EOxServer_documentation.pdf&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すでにOSGeoLive環境にいる場合は、メディアにはいっている`EOxServer Users'ローカルドキュメント&lt;https://localhost/eoxserver-docs/EOxServer_documentation.pdf&gt;`_をお読みください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ready to use EOxServer? Then join the community on the `mailing lists &lt;https://docs.eoxserver.org/en/latest/users/mailing_lists.html&gt;`_ to exchange ideas, discuss potential software improvements, and ask questions.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>EOxServerを使用する準備はできていますか?次に、`メーリングリスト&lt;https://docs.eoxserver.org/en/latest/users/mailing_lists.html&gt;`_のコミュニティに参加して、アイデアを交換したり、ソフトウェアの改善点について話し合ったり、質問したりします。</seg>
       </tuv>
     </tu>
   </body>

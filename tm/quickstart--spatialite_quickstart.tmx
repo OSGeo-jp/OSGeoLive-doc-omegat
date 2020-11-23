@@ -5,10 +5,226 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>SpatiaLite Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Spatialiteクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SpatiaLite is an SQLite database engine with spatial functions added.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>SpatiaLite は空間を扱う関数を追加した SQLite データベースエンジンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>SQLite is a Database Management System (DBMS) which is simple, robust, easy to use and very lightweight. Each SQLite database is simply a file. You can freely copy it, compress it, and port it between Windows, Linux, MacOs etc.</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>SQLite は動作が軽く、シンプルで堅牢、簡単に使える人気のあるデータベース管理システム (DBMS) です。それぞれのデータベースは一つのファイルに格納されます。コピー、圧縮や、Windows、Linux、MacOS などのOS間の移行も簡単にできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This Quick Start describes how to open a spatialite database from both GUI applications and the command line. Some sample SQL queries are shown.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このクイックスタートでは、GUIアプリケーションとコマンドラインの両方からspatialiteデータベースを開く方法について説明します。いくつかのサンプルSQLクエリも示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start Spatialite and load a database</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Spatialiteを起動してデータベースを読み込む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spatialite-gui provides a visual interface for viewing and maintaining a spatialite database. You can easily see the structure of the tables and data contents using point and click functions, many of which construct common SQL queries, or craft your own SQL queries.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Spatialite-guiは、spatialiteデータベースを表示および維持するためのビジュアルインターフェイスを提供します。ポイント・アンド・クリック機能を使用すると、テーブルとデータコンテンツの構造を簡単に確認できます。その多くは一般的なSQLクエリーを構築したり、独自のSQLクエリーを作成したりします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open the Spatialite GUI by selecting :menuselection:`Geospatial-&gt;Databases-&gt;Spatialite GUI`.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:menuselection:`Geospatial-&gt;Databases-&gt;Spatialite GUI`を選択して、Spatialite GUIを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select :menuselection:`File-&gt;Connecting an existing SQLite DB`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:menuselection:`File-&gt;Connecting an existing SQLite DB`を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Browse to the :file:`/home/user/data/spatialite` directory and choose :file:`trento.sqlite`.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:file:`/home/user/data/spatialite`ディレクトリにブラウズし、:file:`trento.sqlite`を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right click on the MunicipalHallsView table and select "Show Columns"</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>MunicipalHallsViewテーブルを右クリックして、"Show Columns"を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You will notice the display broken into 3 areas:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>表示が3つの領域に分割されていることがわかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The left panel displays the database hierarchy, such as a list of tables, and columns within the table. Right click on elements of the left panel to select from a list of common database actions.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>左側のパネルには、テーブルのリストやテーブル内のカラムなど、データベースの階層が表示されます。左側のパネルの要素を右クリックして、一般的なデータベースアクションのリストから選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The top right panel shows SQL for the action selected. You can enter your own customised SQL into this panel.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>右上のパネルには、選択したアクションのSQLが表示されます。このパネルには、独自にカスタマイズしたSQLを入力できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The bottom right panel shows the results of the SQL query.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>右下のパネルには、SQLクエリの結果が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right Click on the MunicipalHalls table and select "Edit table rows". Notice the SQL query which has been created for you in the top right pane, and results in the bottom right.::</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>MunicipalHallsテーブルを右クリックして、"Edit table rows"を選択します。右上のペインに作成されたSQLクエリが表示され、結果が右下に表示されます。::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Run an SQL query</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>SQLクエリを実行する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now let's try tweaking this SQL statement to get NOME and (Lat,Long) for only the NOME_PROV fields include "BRESCIA", this time using the MunicipalHallsView.  In the upper right SQL pane type::</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次に、このSQL文を調整して、NOME_PROVフィールドだけのNOMEと(Lat,Long)を取得してみましょう。NOME_PROVフィールドには"BRESCIA"が含まれます。今度はMunicipalHallsViewを使用します。右上のSQLペインで、次のように入力します::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the "Execute SQL" button at the right, and see the results in the bottom right pane.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>右側の"Execute SQL"ボタンをクリックすると、右下のペインに結果が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Run spatialite from the command line</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>コマンドラインからspatialiteを実行する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Users needing to script or automate queries will learn the advantages of working with a spatialite database from the command line interface. In this example, we will load a shapefile, and search for schools which are near highway 42.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スクリプトを使用したりクエリを自動化したりする必要があるユーザは、コマンドラインインターフェイスからspatialiteデータベースを操作する利点を学習します。この例では、シェイプファイルをロードし、highway 42の近くにある学校を検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Before working from the command line, we need to open a terminal window: :menuselection:`LXDE Menu -&gt; Accessories -&gt; LXTerminal`.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>コマンドラインから作業する前に、ターミナルウィンドウ::menuselection:`システムツール-&gt;LXTerminal`を開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the terminal open a sample database with **spatialite** by typing::</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ターミナルで、次のように入力して**spatialite**でサンプルデータベースを開きます::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Helpful commands from the command line::</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>コマンドラインからの便利なコマンド::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a new spatialite database and load a shapefile</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>新しいspatialiteデータベースを作成し、シェープファイルを読み込む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Let's create a new, empty spatialite database, and load two shapefiles from the north_carolina dataset::</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>新しい空のspatialiteデータベースを作成し、north_carolinaデータセットから2つのシェープファイルをロードしてみましょう::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note the format of the .loadshp command: first the shapefile without the .shp extension, then the name of the new spatialite table, next the character encoding, and finally the EPSG code of the shapefile's CRS.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>loadshpコマンドの形式に注意してください: 最初は.shp拡張子のないシェープファイル、次に新しいspatialiteテーブルの名前、次に文字コード、最後にシェープファイルのCRSのEPSGコードです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now we'll query for schools near to highway 42.::</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次に、ハイウェイ42に近い学校を検索します::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Finally, we output the query to a "comma separated values" text file "schools_rt42.txt" with the following commands::</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>最後に、次のコマンドを使用して、クエリを"comma separated values"テキストファイル"schools_rt42.txt"に出力します::</seg>
       </tuv>
     </tu>
     <tu>
@@ -21,10 +237,50 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Here are some additional challenges for you to try:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次に、試すべき追加の課題をいくつか示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inspect geometries with spatialite-gui</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>spatialite-guiを使用してジオメトリを検査する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open and edit SpatiaLite layers in QGIS</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>QGISでSpatialiteレイヤを開いて編集する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>What next?</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To learn more about SpatiaLite, a starting point is the `SpatiaLite project page`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Spatialiteの詳細については、`Spatialite project page`_を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Be sure to visit the tutorial `Spatialite cookbook`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チュートリアル`Spatialite cookbook`_を必ず参照してください。</seg>
       </tuv>
     </tu>
   </body>

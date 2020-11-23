@@ -5,10 +5,130 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>Web GIS Portal</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Web GISポータル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoMoose is a browser based mapping framework for displaying distributed cartographic data. It is particularly useful for managing spatial and non-spatial data within county, city and municipal offices (from which GeoMoose originated).  It extends the functionality of MapServer and OpenLayers to provide built in services, like drill-down identify operations for viewing and organising many layers, selection operations and dataset searches.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoMooseは、分散型地図データを表示するためのブラウザベースのマッピングフレームワークです。これは、郡、市、市のオフィス(GeoMooseの起源)内の空間データと非空間データの管理に特に便利です。MapServerとOpenLayersの機能を拡張して、多くのレイヤを表示および整理するためのドリルダウン識別操作、選択操作、データセット検索などの組み込みサービスを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GeoMoose is fast, performing well with hundreds of layers and/or services at a time.  Data from multiple custodians can be maintained with different tools and on different schedules as each map layer has its own set of configuration files for publishing, symbols, templates as well as source data.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>GeoMooseは高速で、一度に何百ものレイヤやサービスを処理することができます。複数の管理人からのデータは、異なるツールと異なるスケジュールで維持することができます。各マップレイヤは、ソースデータだけでなく、パブリッシング、シンボル、テンプレートのための独自の設定ファイルのセットを持っているためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The user interface is easily configurable, and additional services can be added through a modular architecture.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ユーザインターフェイスは簡単に設定でき、モジュールアーキテクチャを使用して追加サービスを追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Core Features</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>主な機能</seg>
+        <seg>主要機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Distributed data maintenance amongst multiple owners.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>複数の所有者に分散したデータメンテナンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Access maps from: MapServer, Tilecache, ArcGIS REST, WMS, WFS.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マップへのアクセス元:MapServer、Tilecache、ArcGIS REST、WMS、WFS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure multiple views of data sources.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データソースの複数のビューを設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Discover and filter from data catalogs.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データカタログからの検出とフィルタリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tools: measure, drawing, query, fading, re-order, jump-to zoom, coordinate readouts, ...</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ツール:measure,drawing,query,fading,re-order,jump-to zoom,coordinate readings,...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Displays: MapViewer, Side Menu, Navigation, Tabbed User Controls.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>表示: MapViewer, Side Menu, Navigation, Tabbed User Controls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>XML based MapBook configuration file for User Interface, Source Layers and Tools.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ユーザーインターフェイス、ソースレイヤ、ツール用のXMLベースのMapBook設定ファイル。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Integration with Mapserver.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Mapserverとの統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Modular design facilitates integration with non-spatial systems (such as asset management).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>モジュラー設計により、非空間システム(資産管理など)との統合が容易になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Publish almost unlimited number of layers.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ほぼ無制限の数のレイヤをパブリッシュする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PDF printing.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>PDF印刷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29,6 +149,30 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Website:** https://www.geomoose.org</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Webサイト:** https://www.geomoose.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Licence:** MIT based license. https://www.geomoose.org/info/license.html</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ライセンス:** MIT based license. https://www.geomoose.org/info/license.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-geomoose|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-geomoose|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>**Supported Platforms:** Windows, Linux, Mac</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -37,10 +181,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Commercial Support:** https://www.geomoose.org/info/commercial_support.html</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**商用サポート:** https://www.geomoose.org/info/commercial_support.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Community Support:** https://www.geomoose.org/info/mailing_lists.html</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**コミュニティサポート:** https://www.geomoose.org/info/mailing_lists.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Quickstart</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/geomoose_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/geomoose_quickstart&gt;`</seg>
       </tuv>
     </tu>
   </body>

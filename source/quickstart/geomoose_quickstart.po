@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:21
 msgid "GeoMoose Quickstart"
-msgstr ""
+msgstr "GeoMooseクイックスタート"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:23
 msgid ""
@@ -32,6 +32,7 @@ msgid ""
 "spatial data within county, city and municipal offices (from which GeoMoose "
 "originated)."
 msgstr ""
+"GeoMooseは、分散型地図データを表示するためのブラウザベースのマッピングフレームワークです。これは、郡、市、市のオフィス(GeoMooseの起源)内の空間データと非空間データの管理に特に便利です。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:25
 msgid ""
@@ -39,50 +40,52 @@ msgid ""
 " GeoMoose on the Live DVD is an example configuration that displays an "
 "example set of layers."
 msgstr ""
+"GeoMooseはGISデータポータル管理フレームワークです。Live "
+"DVDにインストールされているGeoMooseのバージョンは、レイヤのサンプルセットを表示する設定例です。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:31
 msgid "Start GeoMoose"
-msgstr ""
+msgstr "GeoMooseを開始"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:33
 msgid "Go to the \"Browser Clients\" folder on the desktop."
-msgstr ""
+msgstr "デスクトップ上の\"Browser Clients\"フォルダに移動します。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:35
 msgid ""
 "Click on the desktop icon \"Start GeoMoose\". This will launch the default "
 "browser which will navigate to the correct location automatically."
-msgstr ""
+msgstr "デスクトップアイコン\"Start GeoMoose\"をクリックします。これにより既定のブラウザが起動し、自動的に正しい場所に移動します。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:37
 msgid ""
 "You will be presented with a web page displaying a demo interface of a "
 "GeoMoose instance."
-msgstr ""
+msgstr "Webページが表示され、GeoMooseインスタンスのデモインターフェイスが表示されます。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:43
 msgid "The Interfaces presented above shows:"
-msgstr ""
+msgstr "上記のインターフェイスは次のものを示しています。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:45
 msgid "A banner bar"
-msgstr ""
+msgstr "バナーバー"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:46
 msgid "A tool bar"
-msgstr ""
+msgstr "ツールバー"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:47
 msgid "A map window with navigation and zoom controls"
-msgstr ""
+msgstr "ナビゲーションとズームコントロールを備えたマップウィンドウ"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:48
 msgid "A side menu with:"
-msgstr ""
+msgstr "サイドメニュー:"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:50
 msgid "A \"Jump to\" location pull down list"
-msgstr ""
+msgstr "\"Jump to\"の場所のプルダウンリスト"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:51
 msgid ""
@@ -90,32 +93,34 @@ msgid ""
 "needed, additional tabs will appear: an \"Information\" readout, a "
 "\"Custom\" output tab, and others."
 msgstr ""
+"\"Catalog\"で始まるコントロールタブで、レイヤ一覧を表示します。必要に応じて、追加のタブが表示されます:\"Information\"の読み出し、\"Custom\"の出力タブなどです。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:53
 msgid "A Footer bar with:"
-msgstr ""
+msgstr "フッタバー:"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:55
 msgid ""
 "Multiple coordinate readouts, one each for: X,Y (local dataset coordinates),"
 " LAT/LON (Decimal) and United States National Grid (USNG)"
 msgstr ""
+"複数の座標表示:X、Y(データセットのローカル座標)、LAT/LON(10進数)、United States National Grid(USNG)"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:56
 msgid "An editable pull down list for a view scales to choose from or define."
-msgstr ""
+msgstr "選択または定義するビュースケールの編集可能なプルダウンリスト。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:59
 msgid "Identify a location"
-msgstr ""
+msgstr "ロケーションを識別"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:61
 msgid "Click on the \"identify\" (\"i\" in a circle icon) button in the top toolbar"
-msgstr ""
+msgstr "上部ツールバーの\"identify\"(円形アイコンの中の\"i\")ボタンをクリック"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:62
 msgid "Click a point on the map."
-msgstr ""
+msgstr "マップ上の点をクリックしてください。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:66
 msgid ""
@@ -124,10 +129,12 @@ msgid ""
 "more information.  In this case, it will show the results of a query of each"
 " active and identifiable layer for the point that you clicked in the map."
 msgstr ""
+"マップビューの左側に表示されるカタログが「Super "
+"Tab」に変わります。GeoMooseがアクションの結果を表示したり、詳細情報を要求したりする場所です。この場合、レイヤ内でクリックしたポイントについて、有効で識別可能な各マップのクエリー結果が表示されます。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:69
 msgid "Use the measuring tool"
-msgstr ""
+msgstr "測定ツールを使用"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:71
 msgid ""
@@ -135,16 +142,17 @@ msgid ""
 "coordinates of a picked point) * measure the distance along a potentially "
 "multi-segment line * measure the area of a polygon."
 msgstr ""
+"GeoMooseの計測ツールを使用すると、次のことができます。*点を計測(選択された点の座標を返す)*複数の区間を含む可能性のある線に沿った距離を計測*ポリゴンの面積を計測"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:76
 msgid ""
 "Click the double ended arrow icon in the top toolbar to start the measuring "
 "tool."
-msgstr ""
+msgstr "上部ツールバーの両端の矢印アイコンをクリックして、測定ツールを起動します。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:77
 msgid "Choose to measure a point, line, or polygon."
-msgstr ""
+msgstr "ポイント、ライン、ポリゴンの計測を選択します。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:78
 msgid ""
@@ -152,21 +160,22 @@ msgid ""
 "the point on the map you want to measure.  To measure a line or polygon "
 "click on the map for each vertex a of the line/polygon."
 msgstr ""
+"測定するマップ上でクリックします。点を計測するには、マップ上で計測する点をクリックします。ラインまたはポリゴンを計測するには、ライン/ポリゴンの各頂点aのマップ上でクリックします。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:79
 msgid "Double click to end the line/polygon."
-msgstr ""
+msgstr "ダブルクリックしてライン/ポリゴンを終了します。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:87
 msgid ""
 "you can also measure a pre-existing feature on the map (if it is from a "
 "vector layer, including previous query results) without having to manually "
 "trace over it."
-msgstr ""
+msgstr "手動でトレースすることなく、マップ上の既存の地物を計測することもできます(ベクタレイヤからのものであれば、前のクエリー結果を含めて)。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:91
 msgid "Select features"
-msgstr ""
+msgstr "地物を選択"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:92
 msgid ""
@@ -177,6 +186,8 @@ msgid ""
 " you want to adjust your selection you can do that with the \"Modify "
 "Feature\" option."
 msgstr ""
+"地物はポイント、ライン、ポリゴン、または既存の地物から選択できます。開始するには、「Select "
+"Features」アイコン(マウスカーソルアイコン)をクリックし、ポイント、ライン、ポリゴンを選択して、マップで選択の描画を開始します。最後の点をダブルクリックすると、描画プロセスを終了できます。選択を調整する場合は、[地物の変更]オプションを使用します。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:94
 msgid ""
@@ -185,6 +196,7 @@ msgid ""
 "Positive values expand what you drew by that distance, negative values "
 "shrink your drawing."
 msgstr ""
+"描画したもののバッファバージョンに基づいてフィーチャを選択するオプションもあります。既定値は\"0\"でバッファリングされ、何も行われません。正の値を指定すると、その距離で描いたものが拡大され、負の値を指定すると縮小されます。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:96
 msgid ""
@@ -193,6 +205,8 @@ msgid ""
 "Features tool.  To be available for selection, a layer needs to be a vector "
 "layer and be configured for selection in the mapbook."
 msgstr ""
+"「クエリーレイヤ」選択ボックスを使用して、地物を選択するレイヤを選択します。注: "
+"地物を選択ツールで使用できないレイヤもあります。選択可能にするには、レイヤがベクタレイヤであり、マップブックで選択するように設定されている必要があります。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:101
 msgid ""
@@ -201,6 +215,7 @@ msgid ""
 "highlight the selected features on the map, and show an attribute table of "
 "the selected features."
 msgstr ""
+"最後に、[Go]ボタンをクリックして、地物を実際に選択します。GeoMooseは、スーパータブで選択されたものの概要も返し、マップ上で選択されたフィーチャを強調表示し、選択されたフィーチャの属性テーブルを表示します。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:106
 msgid ""
@@ -210,10 +225,11 @@ msgid ""
 "table header to sort results.  The results can be downloaded as a CSV file "
 "using the download icon to the top and left of the table."
 msgstr ""
+"テーブルの上にカーソルを置くと、対応する地物が強調表示されます。さらに、テーブルヘッダーのファンネルアイコンを使用して結果をさらにフィルタしたり、テーブルヘッダーの三角形アイコンを使用して結果を並べ替えたりできます。結果は、テーブルの左上にあるダウンロードアイコンを使用してCSVファイルとしてダウンロードできます。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:110
 msgid "Search for features"
-msgstr ""
+msgstr "地物を検索"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:112
 msgid ""
@@ -222,26 +238,28 @@ msgid ""
 "icon.  Enter your search parameters in the Super Tab then click the \"Go!\" "
 "button."
 msgstr ""
+"地物を属性で検索することもできます。開始するには、ツールバーの\"検索\"メニューにカーソルを置き、\"区画検索\"アイコンをクリックします。Super"
+" Tabに検索パラメータを入力し、[Go!]ボタンをクリックします。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:116
 msgid ""
 "The following screenshot demonstrates a search of all parcel owners "
 "containing the name \"frank\"."
-msgstr ""
+msgstr "次のスクリーンショットは、「frank」という名前を含むすべての区画所有者の検索を示しています。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:120
 msgid "Three results appear in the list and are highlighted on the map."
-msgstr ""
+msgstr "3つの結果が一覧に表示され、マップ上で強調表示されます。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:124
 msgid ""
 "Clicking the magnifying glass icon/parcel number will zoom you to the "
 "specific parcel as illustrated in the following screenshot."
-msgstr ""
+msgstr "虫眼鏡アイコン/区画番号をクリックすると、次のスクリーンショットに示すように、特定の区画にズームします。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:130
 msgid "Print the map"
-msgstr ""
+msgstr "マップを印刷"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:132
 msgid ""
@@ -250,12 +268,13 @@ msgid ""
 " for a title for the printed map, the page size and rotation, printed "
 "resolution, and shows a preview of what will be printed."
 msgstr ""
+"次のスクリーンショットは、GeoMooseのデモで提供されている印刷ツールの外観を示しています。印刷ツールをクリックすると、ダイアログが表示され、印刷されるマップのタイトル、ページサイズと回転、印刷解像度、印刷内容のプレビューが表示されます。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:136
 msgid ""
 "Clicking the Print button in the dialog will generate a PDF printout that "
 "you can open or save."
-msgstr ""
+msgstr "ダイアログの[印刷]ボタンをクリックすると、PDFの印刷出力が生成され、開いたり保存したりできます。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:142
 msgid "What next?"
@@ -265,20 +284,20 @@ msgstr "次のステップ"
 msgid ""
 "This is only the first step on the road to using GeoMoose. There is a lot "
 "more functionality you can try."
-msgstr ""
+msgstr "これは、GeoMooseを使用するための最初のステップにすぎません。他にも多くの機能を試すことができます。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:147
 msgid "GeoMoose Project home"
-msgstr ""
+msgstr "GeoMooseプロジェクトのホーム"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:149
 msgid "https://www.geomoose.org/"
-msgstr ""
+msgstr "https://www.geomoose.org/"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:151
 msgid "GeoMoose Tutorial"
-msgstr ""
+msgstr "GeoMooseのチュートリアル"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:153
 msgid "https://www.geomoose.org/quickstart.html"
-msgstr ""
+msgstr "https://www.geomoose.org/quickstart.html"

@@ -29,6 +29,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>The response speed of a VM is much faster than on the DVD, and typically comparable with installing directly on the host machine.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>VMの応答速度はDVDよりもはるかに速く、通常はホストマシンに直接インストールするのと同等です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All configuration changes, software updates, and saved files are permanent, just like on any "regular" computer. So:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべての構成変更、ソフトウェア更新、および保存されたファイルは、「通常の」コンピュータと同様に永続的です。So:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>You can customize and update the system</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -69,6 +85,30 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>RAM: 2 GB at least. The Lubuntu system runs well with 1 GB of RAM, and you'll need to keep at least the same amount of memory for your host system. So a total of 2 GB will be needed for smooth operation. Some applications, like GeoServer, needs the virtual machine to have at least 2GB of RAM. So if possible, consider providing 2 GB or more for your virtual machine.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>RAM:2GB以上Ubuntuシステムは1GBのRAMで正常に動作するので、ホストシステムと少なくとも同じ量のメモリを確保する必要があります。したがって、スムーズな動作には合計2GBが必要です。GeoServerなどの一部のアプリケーションでは、仮想マシンに2GB以上のRAMが必要です。可能であれば、仮想マシンに2GB以上のRAMを用意することを検討してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spare Hard Disk Space: The virtual disk file (vmdk) from :doc:`live.osgeo.org &lt;../download&gt;`  unzips to almost 10 GB. You'll also want more space to allow some room to work on the virtual machine. So 20 GB is a good recommendation.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ハードディスクの空き容量:doc:`live.osgeo.org&lt;./download&gt;`の仮想ディスクファイル(vmdk)は、ほぼ10GBに解凍されます。また、仮想マシン上で作業できるスペースを確保するために、より多くのスペースが必要になります。したがって、20GBが推奨されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CPU: Any CPU will do, but a processor which supports "Virtualization Technology" will be faster. You can check your computer CPU `here &lt;https://www.intel.com/content/www/us/en/support/articles/000005486/processors.html&gt;`__.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>CPU: どのCPUでもかまいませんが、"Virtualization Technology"をサポートの方が高速です。あなたのコンピュータのCPUはここ&lt;https://www.intel.com/content/www/us/en/support/articles/000005486/processors.html&gt;で確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Most machines produced in the last 4-5 years will meet these requirements.</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -93,6 +133,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Download `Virtual Box &lt;https://www.virtualbox.org/&gt;`_  for your platform, and install the software. On Windows run the installer, or on Ubuntu-like Linux systems do the following:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`Virtual Box&lt;https://www.virtualbox.org/&gt;&lt;https://www.virtualbox.org/&gt;`_をダウンロードし、ソフトウェアをインストールしてください。Windowsでインストーラを実行するか、UbuntuのようなLinuxシステムで次の操作を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>``apt-get install virtualbox-ose``</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -104,7 +152,7 @@
         <seg>In addition download the OSGeo Virtual disk file (vmdk) from :doc:`live.osgeo.org &lt;../download&gt;`. Click on the "Download virtual machine" button. Then unzip the downloaded file (using `7zip &lt;https://www.7-zip.org&gt;`_ ).</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>さらに、OSGeo の仮想ディスクファイル (vmdk) を :doc:`live.osgeo.org &lt;../download&gt;` からダウンロードします。 "Download virtual machine" ボタンをクリックします。それから、ダウンロードしたファイルを解凍します (`7zip &lt;https://www.7-zip.org&gt;`_ を使用します)。</seg>
+        <seg>さらに、doc:`live.osgeo.org&lt;../download&gt;`からOSGeo仮想ディスクファイル(vmdk)をダウンロードします。「Download virtual machine(仮想マシンのダウンロード)」ボタンをクリックします。次に、ダウンロードしたファイルを解凍します(`7zip&lt;https://www7-zip.org&gt;`_)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -133,10 +181,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>In the next screen set the memory to 1024 MB (or more if your host computer has more than 4GB, like in the screenshot below).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次の画面で、メモリを1024MBに設定します(下のスクリーンショットのように、ホストコンピュータのメモリが4GBを超える場合はそれ以上)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Continue to the next screen and choose "Use an existing virtual hard disk file". Now click on the button (a folder icon) to browse to where you saved the OSGeoLive vmdk-file. Select this file, press Next and Create.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次の画面に進み、"既存の仮想ハードディスクファイルを使用する"を選択します。次に、ボタン(フォルダアイコン)をクリックして、OSGeoLive vmdkファイルを保存した場所を参照します。このファイルを選択し、[次へ]と[作成]を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Config tips and tweaks**</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**設定のヒントと微調整**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Once the VM is created, click on the Settings button. In the "General" section, go to the Advanced tab, and click to select "Show at top of screen" for the Mini toolbar.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>VM が作成されたら、Settings ボタンをクリックします。"General" セクションで Advanced タブを選択し、Mini toolbar で "Show at top of screen" をクリックして選択します。</seg>
+        <seg>VMが作成されたら、[設定]ボタンをクリックします。[全般]セクションで、[詳細設定]タブに移動し、ミニツールバーの[画面上部に表示]をクリックして選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -144,7 +216,7 @@
         <seg>Go to the "Display" section and increase video memory to 32 or 64 MB. In some host operating systems, it may be required to "Enable 3D Acceleration" for display to work properly.</seg>
       </tuv>
       <tuv xml:lang="ja">
-        <seg>"Display" セクションで、ビデオメモリを 32 か 64 MB に増やします。いくつかのホストオペレーティング・システムでは、ディスプレイを適切に動作させるために "Enable 3D Acceleration" が必要となります。</seg>
+        <seg>「ディスプレイ」セクションに移動し、ビデオメモリを32MBまたは64MBに増やします。一部のホストオペレーティングシステムでは、表示を正しく機能させるために「3Dアクセラレータを有効にする]が必要になる場合があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -153,6 +225,14 @@
       </tuv>
       <tuv xml:lang="ja">
         <seg>さらに、"Shared Folders" セクションに移動し、"Add folder" (右側の緑の "+" アイコン) をクリックし、VM 内部で共有したいホストコンピュータのディレクトリを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can choose to make the shared folder read-only, and auto-mounted. Once the "Folder path" and "Folder name" are defined, click OK, and again OK to finish and close the settings window.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>共有フォルダを読み取り専用にし、自動マウントすることもできます。「フォルダパス」と「フォルダ名」を定義したら、[OK]をクリックし、もう一度[OK]をクリックして設定ウィンドウを閉じます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -173,10 +253,74 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>When you install the iso on the VM, the username must be set to "user"</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>VMにisoをインストールする場合は、ユーザー名を「user」に設定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The user "user" is not a member of the "users" group on the OSGeoLive virtual machine. This prevents some tools from writing to its data directory and causes some software to fail to start.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ユーザー「user」は、OSGeoLive仮想マシンの「users」グループのメンバーではありません。これにより、一部のツールがデータディレクトリに書き込みできなくなり、一部のソフトウェアが起動できなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The solution is to fix the vmdk with the following one-time procedure:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>この問題を解決するには、次の1回限りの手順でvmdkを修正します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start a terminal.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>端末を起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Run "sudo adduser user users".</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>sudo adduser user usersを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Apply this change by starting a new desktop session: either restart the virtual machine or log out and log back in (username "user", password "user").</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>この変更を適用するには、新しいデスクトップセッションを開始します。仮想マシンを再起動するか、ログアウトして再度ログインします(ユーザー名「user」、パスワード「user」)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Also once the OSGeo system starts, add yourself to the vboxsf group so that the shared folders (defined above) are accessible by running in a terminal window:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>また、OSGeoシステムが起動したら、vboxsfグループに自分自身を追加し、ターミナルウィンドウでを実行して共有フォルダ(上記で定義)にアクセスできるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>``user@osgeolive:~$ sudo usermod -a -G vboxsf user``</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>``user@osgeolive:~$ sudo usermod -a -G vboxsf user``</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the above example, we defined a Shared Folder path on the host system and named it "GIS" in the VM Settings. The shared folder will appear in the file system under /media/sf_GIS/. To mount this folder in the user's home directory, for example, in a terminal run:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>上の例では、ホストシステム上に共有フォルダパスを定義し、VM設定で「GIS」という名前を付けました。共有フォルダは、ファイルシステムの/media/sf_GIS/の下に表示されます。このフォルダをユーザのホームディレクトリにマウントするには(たとえば、ターミナルで次のように実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -217,6 +361,14 @@
       </tuv>
       <tuv xml:lang="ja">
         <seg>OSGeo Wiki ページ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>`Other ways to create a Virtual Machine &lt;https://wiki.osgeo.org/wiki/Live_GIS_Virtual_Machine&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>`仮想マシンを作成するその他の方法&lt;https://wiki.osgeo.org/wiki/Live_GIS_Virtual_Machine&gt;`_</seg>
       </tuv>
     </tu>
     <tu>

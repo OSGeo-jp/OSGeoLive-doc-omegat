@@ -5,6 +5,126 @@
   <body>
     <tu>
       <tuv xml:lang="en">
+        <seg>Geomajas Quickstart</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Geomajasクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Geomajas itself is an application framework allowing you to build very diverse and advanced web GIS solutions.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Geomajas自身は、非常に多様で高度なWeb GISソリューションを構築できるアプリケーションフレームワークです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On this OSGeo Live DVD we have included a ready-to-use Geomajas Application. This application features a map, navigation controllers, several data layers, a ribbon toolbar with GIS tools and the Layer Tree.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このOSGeo Live DVDには、すぐに使用できるGeomajas Applicationが含まれています。このアプリケーションは、マップ、ナビゲーションコントローラ、複数のデータレイヤ、GISツールを含むリボンツールバー、およびレイヤツリーを特徴としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start Geomajas</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Geomajasを開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From the Desktop, select :menuselection:`Browser Clients --&gt; Start Geomajas`. Wait for Geomajas to open in a browser window.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>デスクトップから:menuselection:`Browser Clients--&gt;Start Geomajas`を選択します。Geomajasがブラウザウィンドウで開くまで待ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, you can then access the application using the following URL: `&lt;http://localhost:8080/geomajas/&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>あるいは、次のURLを使用してアプリケーションにアクセスすることもできます。`&lt;http://localhost:8080/geomajas/&gt;`_。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you’re finished using the application, select :menuselection:`Browser Clients --&gt; Stop Geomajas`.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アプリケーションの使用が終了したら、:menuselection:`Browser Clients--&gt;Stop Geomajas`を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Navigating the map</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マップのナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can drag the map with your mouse so that the desired area is centered on your screen.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マップをマウスでドラッグすると、目的の領域が画面の中央に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To get a closer look, you can either use the mousewheel to zoom in or use the provided zoom-buttons in the upper left of the application.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>よく見るには、マウスホイールを使用してズームインするか、アプリケーションの左上に表示されるズームボタンを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also select an area to display by clicking the magnifier icon and selecting the desired area (via rectangular select).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>拡大アイコンをクリックして、表示する領域を選択することもできます(矩形選択)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Understanding the legend</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>凡例について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the upper right, a toggleable legend box is provided. This legend gives you an overview of all the layers currently loaded into the application, with the option to turn them on or off. This also shows more detailed information about each layer regarding icons and colouring.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>右上に、切り替え可能な凡例ボックスが表示されます。この凡例は、アプリケーションにロードされているすべてのレイヤの概要を、オン/オフのオプション付きで示します。これにより、アイコンと色に関する各レイヤの詳細情報も表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Gathering information</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>情報の収集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Geomajas applications have the ability to display a variety of information within the layers. Clicking on the map will display the related information if available. Click the info icon in the upper left to toggle between basic or more detailed information.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Geomajasアプリケーションには、レイヤー内のさまざまな情報を表示する機能があります。地図をクリックすると、関連情報が表示されます(利用可能な場合)。左上の情報アイコンをクリックして、基本情報と詳細情報を切り替えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Things to try</seg>
       </tuv>
       <tuv xml:lang="ja">
@@ -13,10 +133,74 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>If you want to use this sample application to build and customize your own Web GIS solution, visit `&lt;http://www.geomajas.org/client-gwt&gt;`_. The download page always features the latest and greatest sample applications, documentation, tips and tricks to roll-your-own.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このサンプルアプリケーションを使用して独自のWeb GISソリューションを構築およびカスタマイズする場合は、`&lt;http://www.geomajas.org/client-gwt&gt;`_を参照してください。ダウンロードページには、常に最新で最高のサンプルアプリケーション、ドキュメント、独自のロールアップのためのヒントやトリックが掲載されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>What next?</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>次のステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To continue using the web demo, visit `&lt;http://www.geomajas.org/demo&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ウェブデモを継続するには、`&lt;http://www.geomajas.org/demo&gt;`_をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To continue using the stand-alone application, visit `&lt;http://files.geomajas.org/downloads/2.3.0/geomajas-standalone-gwt2.zip&gt;`_.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スタンドアロンアプリケーションの使用を継続するには、`&lt;http://files.geomajas.org/downloads/2.3.0/geomajas-standalone-gwt2. zip&gt;`_を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Interested in learning more about Geomajas? The following links provide more information:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Geomajasについてもっと知りたいですか?詳細については、次のリンクを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Geomajas:** `&lt;http://www.geomajas.org/&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Geomajas:** `&lt;http://www.geomajas.org/&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**GitHub:** `&lt;https://github.com/geomajas/geomajas-gwt2-quickstart-application&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**GitHub:** `&lt;https://github.com/geomajas/geomajas-gwt2-quickstart-application&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**OSGeo:** :doc:`../overview/geomajas_overview`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**OSGeo:** :doc:`../overview/geomajas_overview`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Wiki:** `&lt;https://wiki.osgeo.org/wiki/Geomajas&gt;`_</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**Wiki:** `&lt;https://wiki.osgeo.org/wiki/Geomajas&gt;`_</seg>
       </tuv>
     </tu>
   </body>

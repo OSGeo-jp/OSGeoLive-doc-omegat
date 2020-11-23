@@ -13,10 +13,218 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>OpenJUMP is an easy to use and powerful desktop GIS that enables users to display, edit, analyse and conflate geographic data. It comes in a CORE and a PLUS edition, with the latter adding lots of useful plugins. OpenJUMP is excellent for data editing and rapid prototyping of GIS functions.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenJUMPは、ユーザが地理データを表示、編集、分析、および確認できる、使いやすく強力なデスクトップGISです。CORE版とPLUS版があり、後者には便利なプラグインがたくさん追加されています。OpenJUMPはGIS機能のデータ編集とラピッドプロトタイピングに優れています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Features (Core Features and PlugIns*)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>機能 (主要機能とプラグイン*)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data Formats</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データフォーマット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>reads (files): GML, SHP, DXF+, MIF*, CSV+, KML+, OSM* &amp; TIFF, ASCII grid, JPG, PNG, JPEG2000+, MrSID*, ECW+</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>読み取り (ファイル): GML, SHP, DXF+, MIF*, CSV+, KML+, OSM* &amp; TIFF, ASCII grid, JPG, PNG, JPEG2000+, MrSID*, ECW+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>reads (DB): PostGIS, ArcSDE*, Oracle*, MySQL*, SpatiaLite+, H2 Spatial+, MariaDB+</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>読み取り (DB): PostGIS, ArcSDE*, Oracle*, MySQL*, SpatiaLite+, H2 Spatial+, MariaDB+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>reads (OGC standards): WKT, WMS, KML+, GeoPackage</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>読み取り (OGC スタンダード): WKT, WMS, KML+, GeoPackage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>writes: GML, SHP, WKT, DXF+, CSV+, PostGIS &amp; JPG, TIFF, ASCII grid*, SVG+</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>出力: GML, SHP, WKT, DXF+, CSV+, PostGIS &amp; JPG, TIFF, ASCII grid*, SVG+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>note, formats marked with a (*) require an additional plugin, and with (+) are part of the PLUS edition.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>注:(*)の付いたフォーマットには追加のプラグインが必要で、(+)の付いたフォーマットはPLUSエディションの一部です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Editing &amp; Conflation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>編集と合成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>drawing points, lines, polygons, multi-geometries, geometry collections and circles (eventually mixed in a single layer)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ポイント、ライン、ポリゴン、マルチジオメトリ、ジオメトリコレクション、円の描画(最終的には一つのレイヤーに混在)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>adding, moving, deleting vertices</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>頂点の追加、移動、削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>rotating, scaling, auto-complete polygon</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ポリゴンの回転、拡大縮小、オートコンプリート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cut, merge, simplify polygons and lines</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ポリゴンとラインの切り取り、合成、単純化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>warping, quality assurance tools</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ワーピング、品質保証ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>coordinate conversions between CRS'</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>CRS間の座標変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analysis &amp; Query</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>解析とクエリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>spatial and attribute query functions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>空間クエリー関数と属性クエリー関数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>analysis : buffer, union, overlay, centroid, convex hull...</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>解析:バッファ、和、オーバーレイ、図心、凸包...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>statistics : length, area, layer statistics, attribute statistics, plots...</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>統計:長さ、面積、レイヤーの統計、属性の統計、印刷...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>editing tools : converter, noder, polygonizer, planar graph, topology cleaning in PLUS edition, ...</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>編集ツール : コンバータ、ノード、ポリゴナイザー、平面グラフ、PLUSエディションでのトポロジの消去、...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>attribute transfer tools : join, matching*</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>属性転送ツール : 結合、マッチング*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SEXTANTE raster analysis toolbox included in PLUS edition</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>PLUSエディションに含まれるSEXTANTEラスター解析ツールボックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Customization</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カスタマイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>internationalization (cz, de, en, es, fi, fr, hu, it, ja, pt, ta, zh)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>国際化(cz, de, en, es, fi, fr, hu, it, ja, pt, ta, zh)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>provides an API, scripting via BeanShell and Java Python/Ython</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>BeanShellおよびJava Python/Ythonを介したAPI、スクリプトの提供</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Implemented Standards</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>実装されている標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OGC standards supported: GML2, SFS, WMS, KML, SLD, GeoPackage (reading);</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サポートされている OGC スタンダード: GML2, SFS, WMS, KML, SLD, GeoPackage (読み込み);</seg>
       </tuv>
     </tu>
     <tu>
@@ -29,10 +237,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Website:** http://www.openjump.org</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ウェブサイト:** http://www.openjump.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>**Licence:** GPL</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>**ライセンス:** GPL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Software Version:** |version-openjump|</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ソフトウェアバージョン:** |version-openjump|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45,10 +269,42 @@
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>**Community Support:** http://www.openjump.org/support.html</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**コミュニティサポート:** http://www.openjump.org/support.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Commercial Support:** https://ojwiki.soldin.de/index.php?title=Professional_Support_Page</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**商用サポート:** https://ojwiki.soldin.de/index.php?title=Professional_Support_Page</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>**Download Page:** https://sourceforge.net/projects/jump-pilot/files/</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>**ダウンロードページ:** https://sourceforge.net/projects/jump-pilot/files/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Quickstart</seg>
       </tuv>
       <tuv xml:lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/openjump_quickstart&gt;`</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>:doc:`クイックスタート文書 &lt;./quickstart/openjump_quickstart&gt;`</seg>
       </tuv>
     </tu>
   </body>
