@@ -4384,8 +4384,8 @@
       <tuv lang="en-US">
         <seg>Besides choosing any number of maps to view on your globe (including `OpenStreetMaps &lt;https://www.openstreetmap.org&gt;`_), you are encouraged to include a KDE Marble widget in your application.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T010204Z" creationid="miurahr" creationdate="20201103T010037Z">
-        <seg>地球儀に表示する(`OpenStreetMaps&lt;https://www.openstreetmap.org&gt;`_ を含む)マップをいろいろ選択するだけでなく、アプリケーションにKDE Marbleウィジェットを含めることをお勧めします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T141333Z" creationid="miurahr" creationdate="20201103T010037Z">
+        <seg>地球儀に表示する( `OpenStreetMaps &lt;https://www.openstreetmap.org&gt;`_ を含む)マップをいろいろ選択するだけでなく、アプリケーションにKDE Marbleウィジェットを含めることをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7376,8 +7376,8 @@
       <tuv lang="en-US">
         <seg>Explore the `screenshot collection &lt;https://grass.osgeo.org/learn/gallery/&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011215Z" creationid="miurahr" creationdate="20201103T011215Z">
-        <seg> `screenshot collection &lt;https://grass.osgeo.org/learn/gallery/&gt;`_をご覧ください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T140519Z" creationid="miurahr" creationdate="20201103T011215Z">
+        <seg>`screenshot collection &lt;https://grass.osgeo.org/learn/gallery/&gt;`_ をご覧ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11080,8 +11080,8 @@
       <tuv lang="en-US">
         <seg>Integrated Geometry support provided by `JTS Topology Suite (JTS) &lt;https://sourceforge.net/projects/jts-topo-suite/&gt;`_</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011924Z" creationid="miurahr" creationdate="20201103T011924Z">
-        <seg>統合されたジオメトリのサポートは、`JTS Topology Suite(JTS)&lt;https://sourceforge.net/projects/jts-topo-suite/&gt;`_によって提供されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T140440Z" creationid="miurahr" creationdate="20201103T011924Z">
+        <seg>統合されたジオメトリのサポートは、`JTS Topology Suite (JTS) &lt;https://sourceforge.net/projects/jts-topo-suite/&gt;`_ によって提供されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12832,8 +12832,8 @@
       <tuv lang="en-US">
         <seg>Marble is an open source KDE Education Project program similar to `NASA World Wind &lt;https://worldwind.arc.nasa.gov/java/&gt;`_ or Google Earth.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T005942Z" creationid="miurahr" creationdate="20201103T005942Z">
-        <seg>Marbleは「NASA World Wind&lt;https://worldwind.arc.nasa.gov/java/&gt;」やGoogle Earthに似たオープンソースのKDE Education Projectプログラムです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T141252Z" creationid="miurahr" creationdate="20201103T005942Z">
+        <seg>Marbleは`NASA World Wind &lt;https://worldwind.arc.nasa.gov/java/&gt;`_ やGoogle Earthに似たオープンソースのKDE Education Projectプログラムです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19701,8 +19701,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The iD editor is a great way to edit small and easy changes that don’t require the advanced features of the more advanced :doc:`JOSM &lt;josm_overview&gt;` editor.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T065008Z" creationid="miurahr" creationdate="20201103T065008Z">
-        <seg>iDエディタは、より高度な :doc:`JOSM&lt;josm_overview&gt;`エディタの高機能を必要としない、小さくて簡単な変更を編集するときに、優れた方法です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T141143Z" creationid="miurahr" creationdate="20201103T065008Z">
+        <seg>iDエディタは、より高度な  :doc:`JOSM &lt;josm_overview&gt;` エディタの高機能を必要としない、小さくて簡単な変更を編集するときに、優れた方法です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25349,8 +25349,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`Mapbender &lt;https://mapbender.org/en&gt;`_ is a graduated OSGeo project.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T053238Z" creationid="miurahr" creationdate="20201122T053238Z">
-        <seg>`Mapbender&lt;https://mapbender.org/en&gt;`_は卒業したOSGeoプロジェクトです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T141205Z" creationid="miurahr" creationdate="20201122T053238Z">
+        <seg>`Mapbender &lt;https://mapbender.org/en&gt;`_ は卒業したOSGeoプロジェクトです。</seg>
       </tuv>
     </tu>
     <tu>
