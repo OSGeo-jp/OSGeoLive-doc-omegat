@@ -3760,8 +3760,8 @@
       <tuv lang="en-US">
         <seg>All documentation is provided under a `Creative Commons Attribution 3.0 Unported License &lt;https://creativecommons.org/licenses/by/3.0/&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201101T110546Z" creationid="smellman" creationdate="20201101T110546Z">
-        <seg>すべてのドキュメントは、「Creative Commons Attribution3.0Unported License&lt;https://creativecommons.org/licenses/by/3.0/&gt;」の下で提供されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T135525Z" creationid="smellman" creationdate="20201101T110546Z">
+        <seg>すべてのドキュメントは、`Creative Commons Attribution 3.0 Unported License &lt;https://creativecommons.org/licenses/by/3.0/&gt;`_の下で提供されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4056,8 +4056,8 @@
       <tuv lang="en-US">
         <seg>As per the `terms of the Creative Commons license &lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F&gt;`_, if you include OSGeoLive documentation into a new document, you will need to attribute the contributors.</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201101T110855Z" creationid="smellman" creationdate="20201101T110855Z">
-        <seg>`terms of the Creative Commons license&lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work .3F&gt;`_に従って、OSGeoLiveのドキュメントを新しいドキュメントに含める場合は、コントリビュータの属性を指定する必要があります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T135641Z" creationid="smellman" creationdate="20201101T110855Z">
+        <seg> `terms of the Creative Commons license &lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F&gt;`_に従って、OSGeoLiveのドキュメントを新しいドキュメントに含める場合は、コントリビュータの属性を指定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6064,8 +6064,8 @@
       <tuv lang="en-US">
         <seg>Create data-driven, time-dynamic scenes with `CZML &lt;https://github.com/CesiumGS/cesium/wiki/CZML-Guide&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T042120Z" creationid="miurahr" creationdate="20201122T042120Z">
-        <seg>`CZML&lt;https://github.com/CesiumGS/cesium/wiki/CZML-Guide&gt;`_を使用して、データ駆動型で時間動的なシーンを作成します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T135959Z" creationid="miurahr" creationdate="20201122T042120Z">
+        <seg>`CZML &lt;https://github.com/CesiumGS/cesium/wiki/CZML-Guide&gt;`_を使用して、データ駆動型で時間動的なシーンを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18933,8 +18933,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The OSGeo-Live project is distributed under `LGPL license v2.1 &lt;http://www.gnu.de/documents/lgpl-2.1.en.html&gt;`__.</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201101T110537Z" creationid="smellman" creationdate="20201101T110537Z">
-        <seg>OSGeo-Liveプロジェクトは、`LGPL license v2.1&lt;http://www.gnu.de/documents/lgpl-2.1. en . html&gt;`__のもとで配布されています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T135444Z" creationid="smellman" creationdate="20201101T110537Z">
+        <seg>OSGeo-Liveプロジェクトは、`LGPL license v2.1&lt;http://www.gnu.de/documents/lgpl-2.1.en.html&gt;`__のもとで配布されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22461,8 +22461,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Use `3D Tiles &lt;https://cesium.com/blog/2017/07/12/the-next-generation-of-3d-tiles/&gt;`_ to stream, style and interact with heterogeneous 3D data, including photogrammetry models, 3D buildings, CAD and BIM exterior and interiors, and point clouds.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T045446Z" creationid="miurahr" creationdate="20201122T045446Z">
-        <seg>`3Dタイル&lt;https://cesium.com/blog/2017/07/12/the-next-generation-of-3d-tiles/&gt;`_を使用して、写真測量モデル、3D建物、CADとBIMの外部と内部、ポイントクラウドなど、異種の3Dデータをストリーミング、スタイル設定、および操作します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T140152Z" creationid="miurahr" creationdate="20201122T045446Z">
+        <seg>`3Dタイル &lt;https://cesium.com/blog/2017/07/12/the-next-generation-of-3d-tiles/&gt;`_を使用して、写真測量モデル、3D建物、CADとBIMの外部と内部、ポイントクラウドなど、異種の3Dデータをストリーミング、スタイル設定、および操作します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22477,8 +22477,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Use `plugins &lt;https://cesium.com/cesiumjs&gt;`_ to extend Cesium.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T043717Z" creationid="miurahr" creationdate="20201122T043707Z">
-        <seg>`プラグイン&lt;https://cesium.com/cesiumjs&gt;`_を使用してCesiumを拡張します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T140246Z" creationid="miurahr" creationdate="20201122T043707Z">
+        <seg>`プラグイン &lt;https://cesium.com/cesiumjs&gt;`_ を使用してCesiumを拡張します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25309,8 +25309,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`GeoNode &lt;https://geonode.org&gt;`_ is a Content Management System for geospatial data which provides creation, sharing, and collaborative use of geospatial data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T051842Z" creationid="miurahr" creationdate="20201122T051824Z">
-        <seg>`GeoNode&lt;https://geonode.org&gt;`_は地理空間データのためのコンテンツ管理システムであり、地理空間データの作成、共有、および共同使用の仕組みを提供します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T140335Z" creationid="miurahr" creationdate="20201122T051824Z">
+        <seg>`GeoNode &lt;https://geonode.org&gt;`_ は地理空間データのためのコンテンツ管理システムであり、地理空間データの作成、共有、および共同使用の仕組みを提供します。</seg>
       </tuv>
     </tu>
     <tu>
