@@ -2280,8 +2280,8 @@
       <tuv lang="en-US">
         <seg>*deegree 3* uses configurations conformant to all *deegree 3* based webservices.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T135209Z" creationid="miurahr" creationdate="20201116T135209Z">
-        <seg>*deegree3*はすべての*deegree3*ベースのウェブサービスに準拠した設定を使用しています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143612Z" creationid="miurahr" creationdate="20201116T135209Z">
+        <seg>*deegree3* はすべての *deegree3* ベースのウェブサービスに準拠した設定を使用しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5128,8 +5128,8 @@
       <tuv lang="en-US">
         <seg>Click on *'see layers'* to open a simple map-client.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T135602Z" creationid="miurahr" creationdate="20201116T135602Z">
-        <seg>*'see layers'*をクリックして、簡単なマップクライアントを開きます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143715Z" creationid="miurahr" creationdate="20201116T135602Z">
+        <seg>*'see layers'* をクリックして、簡単なマップクライアントを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5240,8 +5240,8 @@
       <tuv lang="en-US">
         <seg>Click on the **+** on the right side to open a layer tree showing all available  layers.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T135617Z" creationid="miurahr" creationdate="20201116T135617Z">
-        <seg>右側の**+**をクリックすると、レイヤの木が開き、利用可能なすべてのレイヤが表示されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143803Z" creationid="miurahr" creationdate="20201116T135617Z">
+        <seg>右側の **+** をクリックすると、レイヤの木が開き、利用可能なすべてのレイヤが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13128,8 +13128,8 @@
       <tuv lang="en-US">
         <seg>More information and step-by-step tutorials about the INSPIRE workspace can be found in the deegree `documentation &lt;https://download.deegree.org/documentation/3.4.1/html/lightly.html#example-workspace-1-inspire-network-services&gt;`__.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T140908Z" creationid="miurahr" creationdate="20201116T140908Z">
-        <seg>INSPIRE作業フォルダに関する詳細情報と段階的なチュートリアルは、deegree`文書 &lt;https://download.deegree.org/documentation/3.4.1/html/lightly.html#example-workspace-1-inspire-network-services&gt;`__にあります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143838Z" creationid="miurahr" creationdate="20201116T140908Z">
+        <seg>INSPIRE作業フォルダに関する詳細情報と段階的なチュートリアルは、deegree`documentation &lt;https://download.deegree.org/documentation/3.4.1/html/lightly.html#example-workspace-1-inspire-network-services&gt;`__ にあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15784,8 +15784,8 @@
       <tuv lang="en-US">
         <seg>Press start on the *deegree-inspire-workspace*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T135302Z" creationid="miurahr" creationdate="20201116T135302Z">
-        <seg>*deegree-inspire-workspace*の開始を押してください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143629Z" creationid="miurahr" creationdate="20201116T135302Z">
+        <seg>*deegree-inspire-workspace* の開始を押してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20013,8 +20013,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The map client is based on `OpenLayers &lt;https://openlayers.org/&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T140731Z" creationid="miurahr" creationdate="20201116T140731Z">
-        <seg>マップクライアントは、`OpenLayers&lt;https://openlayers.org/&gt;`_に基づいています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143815Z" creationid="miurahr" creationdate="20201116T140731Z">
+        <seg>マップクライアントは、 `OpenLayers&lt;https://openlayers.org/&gt;`_ に基づいています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20333,8 +20333,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The service is configured to visualize the data and a basemap (rendered by `OpenStreetMap &lt;https://www.openstreetmap.org/&gt;`_).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T135610Z" creationid="miurahr" creationdate="20201116T135610Z">
-        <seg>このサービスは、データとベースマップ(`OpenStreetMap&lt;https://www.openstreetmap.org/&gt;`_)を視覚化するように設定されています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143754Z" creationid="miurahr" creationdate="20201116T135610Z">
+        <seg>このサービスは、データとベースマップ( `OpenStreetMap &lt;https://www.openstreetmap.org/&gt;`_)を視覚化するように設定されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22045,8 +22045,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To manage the included and ready-to-use workspaces, click *'workspaces'* on the left side.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T135232Z" creationid="miurahr" creationdate="20201116T135232Z">
-        <seg>含まれているすぐに使用できるワークスペースを管理するには、左側の[*'workspaces'*]をクリックします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143622Z" creationid="miurahr" creationdate="20201116T135232Z">
+        <seg>含まれているすぐに使用できるワークスペースを管理するには、左側の *'workspaces'* をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26301,8 +26301,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>deegree online demo - Available here: https://www.deegree.org/demo/</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T140951Z" creationid="miurahr" creationdate="20201116T140951Z">
-        <seg>deegreeオンラインデモ-利用可能:https://www.deegree.org/demo/</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143853Z" creationid="miurahr" creationdate="20201116T140951Z">
+        <seg>deegreeオンラインデモ-利用可能: https://www.deegree.org/demo/</seg>
       </tuv>
     </tu>
     <tu>
@@ -26325,8 +26325,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>deegree website - Available here: https://www.deegree.org</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T140956Z" creationid="miurahr" creationdate="20201116T140956Z">
-        <seg>deegree Webサイト-利用可能:https://www.deegree.org</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T143849Z" creationid="miurahr" creationdate="20201116T140956Z">
+        <seg>deegree Webサイト-利用可能: https://www.deegree.org</seg>
       </tuv>
     </tu>
     <tu>
