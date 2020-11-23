@@ -4904,8 +4904,8 @@
       <tuv lang="en-US">
         <seg>Choose :menuselection:`Geospatial --&gt; Web Services --&gt; EOxServer`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T141628Z" creationid="miurahr" creationdate="20201116T141628Z">
-        <seg>メニューから:menuselection:`Geospatial--&gt;Web Services--&gt;EOxServer`を選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T144303Z" creationid="miurahr" creationdate="20201116T141628Z">
+        <seg>メニューから :menuselection:`Geospatial --&gt; Web Services --&gt; EOxServer` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5392,8 +5392,8 @@
       <tuv lang="en-US">
         <seg>Click the **Web Client** link to open the integrated EOxServer client.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T141800Z" creationid="miurahr" creationdate="20201116T141800Z">
-        <seg>**Web Client**リンクをクリックして、統合されたEOxServerクライアントを開きます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T144334Z" creationid="miurahr" creationdate="20201116T141800Z">
+        <seg>**Web Client** リンクをクリックして、統合されたEOxServerクライアントを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11360,8 +11360,8 @@
       <tuv lang="en-US">
         <seg>It builds upon an Open Source stack of software which includes Python, :doc:`MapServer &lt;../overview/mapserver_overview&gt;`, Django/GeoDjango, :doc:`GDAL &lt;../overview/gdal_overview&gt;`, PROJ.4 and a :doc:`SpatiaLite &lt;../overview/spatialite_overview&gt;` or :doc:`PostGIS &lt;../overview/postgis_overview&gt;` database.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T141559Z" creationid="miurahr" creationdate="20201116T141559Z">
-        <seg>これは、Python、:doc:`MapServer&lt;./overview/mapserver_overview&gt;`、Django/GeoDjango、:doc:`GDAL&lt;./overview/gdal_overview&gt;`、PROJ.4および:doc:`Spatialite&lt;./overview/spatialite_overview&gt;`または:doc:`PostGIS&lt;./overview/postgis_overview&gt;`データベースを含むソフトウェアのオープンソーススタック上に構築されています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T144225Z" creationid="miurahr" creationdate="20201116T141559Z">
+        <seg>これは、Python、:doc:`MapServer &lt;../overview/mapserver_overview&gt;`、  Django/GeoDjango、  :doc:`GDAL &lt;../overview/gdal_overview&gt;`、PROJ.4 と  :doc:`SpatiaLite &lt;../overview/spatialite_overview&gt;`  または  :doc:`PostGIS &lt;../overview/postgis_overview&gt;`  データベースを含むソフトウェアのオープンソーススタック上に構築されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13136,8 +13136,8 @@
       <tuv lang="en-US">
         <seg>More information can be found in the `operators' guide &lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T124738Z" creationid="miurahr" creationdate="20201116T124738Z">
-        <seg>詳細については、`運用者ガイド&lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_を参照してください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T144548Z" creationid="miurahr" creationdate="20201116T124738Z">
+        <seg>詳細については、 `運用者ガイド &lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_ を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15384,8 +15384,8 @@
       <tuv lang="en-US">
         <seg>Please refer to the `online documentation &lt;https://docs.eoxserver.org/en/latest/users/webclient.html&gt;`_ for more information on this topic.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T124616Z" creationid="miurahr" creationdate="20201116T124616Z">
-        <seg>このトピックの詳細については、`オンライン文書 &lt;https://docs.eoxserver.org/en/latest/users/webclient.html&gt;`_を参照してください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T144434Z" creationid="miurahr" creationdate="20201116T124616Z">
+        <seg>このトピックの詳細については、 `オンライン文書 &lt;https://docs.eoxserver.org/en/latest/users/webclient.html&gt;`_ を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19325,8 +19325,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The `Admin Client` is Djangos standard admin and allows you to configure the available data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T124639Z" creationid="miurahr" creationdate="20201116T124639Z">
-        <seg>`Admin Client`はDjangos標準の管理者であり、利用可能なデータを設定できます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T144506Z" creationid="miurahr" creationdate="20201116T124639Z">
+        <seg> `Admin Client` はDjangos標準の管理者であり、利用可能なデータを設定できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21285,8 +21285,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This launches a browser showing the demonstration instance available at http://localhost/eoxserver/</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T141633Z" creationid="miurahr" creationdate="20201116T141633Z">
-        <seg>これによりブラウザが起動し、http://localhost/eoxserver/で利用可能なデモインスタンスが表示されます</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T144326Z" creationid="miurahr" creationdate="20201116T141633Z">
+        <seg>これによりブラウザが起動し、 http://localhost/eoxserver/ で利用可能なデモインスタンスが表示されます</seg>
       </tuv>
     </tu>
     <tu>
