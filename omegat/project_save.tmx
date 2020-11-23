@@ -2808,8 +2808,8 @@
       <tuv lang="en-US">
         <seg>A `GeoExt workshop &lt;https://github.com/geoext/geoext3-ws&gt;`_ details all the steps for configuring and using GeoExt3 in your ExtJS applications</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T054718Z" creationid="miurahr" creationdate="20201103T054718Z">
-        <seg>`GeoExtワークショップ&lt;https://github.com/geoext/GeoExt3-ws&gt;`_では、ExtJSアプリケーションでGeoExt3を設定および使用するためのすべての手順について詳しく説明しています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T151329Z" creationid="miurahr" creationdate="20201103T054718Z">
+        <seg>`GeoExtワークショップ &lt;https://github.com/geoext/GeoExt3-ws&gt;`_ では、ExtJSアプリケーションでGeoExt3を設定および使用するためのすべての手順について詳しく説明しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4312,8 +4312,8 @@
       <tuv lang="en-US">
         <seg>Be aware that you have to upload a complete set of files, consisting of a *shp*, a *prj*, a *dbf* and a *shx* file.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142541Z" creationid="miurahr" creationdate="20201116T142541Z">
-        <seg>*shp*、*prj*、*dbf*、*shx*ファイルからなる完全なファイルセットをアップロードする必要があることに注意してください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T152022Z" creationid="miurahr" creationdate="20201116T142541Z">
+        <seg>*shp*、*prj*、*dbf*、*shx* ファイルからなる完全なファイルセットをアップロードする必要があることに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7800,8 +7800,8 @@
       <tuv lang="en-US">
         <seg>First of all we will create a ``GeoExt.component.Map``.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T054216Z" creationid="miurahr" creationdate="20201103T054216Z">
-        <seg>まず、``GeoExt.component.Map``を作成します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T151050Z" creationid="miurahr" creationdate="20201103T054216Z">
+        <seg>まず、 ``GeoExt.component.Map`` を作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8216,8 +8216,8 @@
       <tuv lang="en-US">
         <seg>From the Desktop, select :menuselection:`Browser Clients --&gt; Start Geomajas`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T131601Z" creationid="miurahr" creationdate="20201116T131601Z">
-        <seg>デスクトップから:menuselection:`Browser Clients--&gt;Start Geomajas`を選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T151528Z" creationid="miurahr" creationdate="20201116T131601Z">
+        <seg>デスクトップから :menuselection:`Browser Clients --&gt; Start Geomajas` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10240,8 +10240,8 @@
       <tuv lang="en-US">
         <seg>If you want to use this sample application to build and customize your own Web GIS solution, visit `&lt;http://www.geomajas.org/client-gwt&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T131756Z" creationid="miurahr" creationdate="20201116T131756Z">
-        <seg>このサンプルアプリケーションを使用して独自のWeb GISソリューションを構築およびカスタマイズする場合は、`&lt;http://www.geomajas.org/client-gwt&gt;`_を参照してください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T151607Z" creationid="miurahr" creationdate="20201116T131756Z">
+        <seg>このサンプルアプリケーションを使用して独自のWeb GISソリューションを構築およびカスタマイズする場合は、 `&lt;http://www.geomajas.org/client-gwt&gt;`_ を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13456,8 +13456,8 @@
       <tuv lang="en-US">
         <seg>Navigate to :file:`/home/user/data/natural_earth2` folder and select all the :file:`ne_10m_admin_0_countries` files.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142718Z" creationid="miurahr" creationdate="20201116T142718Z">
-        <seg>:file:`/home/user/data/natural_earth2`フォルダに移動し、:file:`ne_10m_admin_0_countries`ファイルをすべて選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T152056Z" creationid="miurahr" creationdate="20201116T142718Z">
+        <seg>:file:`/home/user/data/natural_earth2` フォルダに移動し、:file:`ne_10m_admin_0_countries` ファイルをすべて選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13792,8 +13792,8 @@
       <tuv lang="en-US">
         <seg>Now click *Choose Files* button and you'll see a file selection window.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142550Z" creationid="miurahr" creationdate="20201116T142550Z">
-        <seg>次に、[*ファイルを選択*]ボタンをクリックすると、ファイル選択ウィンドウが表示されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T152029Z" creationid="miurahr" creationdate="20201116T142550Z">
+        <seg>次に、 *ファイルを選択* ボタンをクリックすると、ファイル選択ウィンドウが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15152,8 +15152,8 @@
       <tuv lang="en-US">
         <seg>Our final GeoExt component is an overview map - ``GeoExt.component.OverviewMap``.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T054620Z" creationid="miurahr" creationdate="20201103T054620Z">
-        <seg>我々の最後のGeoExtコンポーネントは概観地図-``GeoExt.componnet.OverviewMap``である。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T151231Z" creationid="miurahr" creationdate="20201103T054620Z">
+        <seg>我々の最後のGeoExtコンポーネントは概観地図- ``GeoExt.componnet.OverviewMap`` である。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17757,8 +17757,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Similar to the layer tree store and tree panel, we create a ``GeoExt.data.store.Features`` store and a grid panel.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T054528Z" creationid="miurahr" creationdate="20201103T054528Z">
-        <seg>レイヤーツリーストアとツリーパネルと同様に、``GeoExt.data.store.Features``ストアとグリッドパネルを作成します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T151223Z" creationid="miurahr" creationdate="20201103T054528Z">
+        <seg>レイヤーツリーストアとツリーパネルと同様に、 ``GeoExt.data.store.Features`` ストアとグリッドパネルを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18973,8 +18973,11 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The GeoMoose measure tool allows you to: * measure a point (return the coordinates of a picked point) * measure the distance along a potentially multi-segment line * measure the area of a polygon.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T132245Z" creationid="miurahr" creationdate="20201116T132245Z">
-        <seg>GeoMooseの計測ツールを使用すると、次のことができます。*点を計測(選択された点の座標を返す)*複数の区間を含む可能性のある線に沿った距離を計測*ポリゴンの面積を計測</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T151820Z" creationid="miurahr" creationdate="20201116T132245Z">
+        <seg>GeoMooseの計測ツールを使用すると、次のことができます。
+* 点を計測(選択された点の座標を返す) 
+* 複数の区間を含む可能性のある線に沿った距離を計測  
+* ポリゴンの面積を計測。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19349,8 +19352,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The `GeoExt homepage &lt;https://geoext.github.io/geoext3/&gt;`_ contains full `API documentation &lt;https://geoext.github.io/geoext3/v3.1.0/docs&gt;`_ and examples</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T054653Z" creationid="miurahr" creationdate="20201103T054653Z">
-        <seg>`GeoExtのホームページ&lt;https://geoext.github.io/geoext3/&gt;`_には完全な`APIドキュメント&lt;https://geoext.github.io/geoext3/v3.1.0/docs&gt;`_と例があります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T151315Z" creationid="miurahr" creationdate="20201103T054653Z">
+        <seg>`GeoExtのホームページ &lt;https://geoext.github.io/geoext3/&gt;`_ には完全な `APIドキュメント &lt;https://geoext.github.io/geoext3/v3.1.0/docs&gt;`_ と例があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19405,8 +19408,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The ``flex`` property causes the tree panel to fill up all available space in its region of the screen.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T054503Z" creationid="miurahr" creationdate="20201103T054438Z">
-        <seg>``flex``プロパティーを指定すると、ツリー・パネルは画面の領域内の使用可能なスペースをすべて埋めます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T151205Z" creationid="miurahr" creationdate="20201103T054438Z">
+        <seg>``flex`` プロパティーを指定すると、ツリー・パネルは画面の領域内の使用可能なスペースをすべて埋めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20485,8 +20488,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The tree has its own data store - ``GeoExt.data.store.LayersTree``, which we will fill with layers from our OpenLayers map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T054244Z" creationid="miurahr" creationdate="20201103T054244Z">
-        <seg>ツリーには独自のデータストア``GeoExt.data.store.LayersTree``があり、OpenLayersマップのレイヤで埋めます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T151152Z" creationid="miurahr" creationdate="20201103T054244Z">
+        <seg>ツリーには独自のデータストア ``GeoExt.data.store.LayersTree`` があり、OpenLayersマップのレイヤで埋めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21501,8 +21504,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This uses the OpenLayers map we created, and will be positioned in the 'center' region of our application.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T054228Z" creationid="miurahr" creationdate="20201103T054228Z">
-        <seg>これは、作成したOpenLayersマップを使用し、アプリケーションの``中央``領域に配置されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T151123Z" creationid="miurahr" creationdate="20201103T054228Z">
+        <seg>これは、作成したOpenLayersマップを使用し、アプリケーションの '中央' 領域に配置されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21765,8 +21768,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To add a layer to your account, select the *Upload* button on the top right of the *Layers* page:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142512Z" creationid="miurahr" creationdate="20201116T142512Z">
-        <seg>アカウントにレイヤを追加するには、*Layers*ページの右上にある*Upload*ボタンをクリックします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T151853Z" creationid="miurahr" creationdate="20201116T142512Z">
+        <seg>アカウントにレイヤを追加するには、 *Layers* ページの右上にある *Upload* ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21853,16 +21856,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To continue using the stand-alone application, visit `&lt;http://files.geomajas.org/downloads/2.3.0/geomajas-standalone-gwt2.zip&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T131826Z" creationid="miurahr" creationdate="20201116T131826Z">
-        <seg>スタンドアロンアプリケーションの使用を継続するには、`&lt;http://files.geomajas.org/downloads/2.3.0/geomajas-standalone-gwt2. zip&gt;`_を参照してください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T151649Z" creationid="miurahr" creationdate="20201116T131826Z">
+        <seg>スタンドアロンアプリケーションの使用を継続するには、 `&lt;http://files.geomajas.org/downloads/2.3.0/geomajas-standalone-gwt2. zip&gt;`_ を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>To continue using the web demo, visit `&lt;http://www.geomajas.org/demo&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T131821Z" creationid="miurahr" creationdate="20201116T131821Z">
-        <seg>ウェブデモを継続するには、`&lt;http://www.geomajas.org/demo&gt;`_をご覧ください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T151634Z" creationid="miurahr" creationdate="20201116T131821Z">
+        <seg>ウェブデモを継続するには、 `&lt;http://www.geomajas.org/demo&gt;`_ をご覧ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22165,8 +22168,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To start GeoNode on your OSGeoLive DVD you have to choose :menuselection:`Geospatial --&gt; Browser Clients --&gt; GeoNode --&gt; Start GeoNode` and after a few moments the GeoNode webpage will automatically open at http://geonode.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142047Z" creationid="miurahr" creationdate="20201116T142047Z">
-        <seg>OSGeoLive DVD上でGeoNodeを起動するには、:menuselection:`Geospatial--&gt;Browser Clients--&gt;GeoNode--&gt;Start GeoNode`を選択する必要があります。しばらくすると、GeoNodeのWebページがhttp://geonodeで自動的に開きます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T151936Z" creationid="miurahr" creationdate="20201116T142047Z">
+        <seg>OSGeoLive DVD上でGeoNodeを起動するには、 :menuselection:`Geospatial --&gt; Browser Clients --&gt; GeoNode --&gt; Start GeoNode`  を選択する必要があります。しばらくすると、GeoNodeのWebページが http://geonode で自動的に開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24053,8 +24056,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>When you’re finished using the application, select :menuselection:`Browser Clients --&gt; Stop Geomajas`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T131617Z" creationid="miurahr" creationdate="20201116T131617Z">
-        <seg>アプリケーションの使用が終了したら、:menuselection:`Browser Clients--&gt;Stop Geomajas`を選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T151540Z" creationid="miurahr" creationdate="20201116T131617Z">
+        <seg>アプリケーションの使用が終了したら、 :menuselection:`Browser Clients--&gt;Stop Geomajas` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24645,8 +24648,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can either do that by using *drag &amp; drop* on the *Drop Files Here* area or you can use the *Choose Files* button to select them.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142534Z" creationid="miurahr" creationdate="20201116T142534Z">
-        <seg>これは、*Drop Files Here*領域の*ドラッグ&amp;ドロップ*を使用するか、*Choose Files*ボタンを使用して選択できます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T152002Z" creationid="miurahr" creationdate="20201116T142534Z">
+        <seg>これは、*Drop Files Here* 領域の *ドラッグ&amp;ドロップ* を使用するか、 *Choose Files* ボタンを使用して選択できます。</seg>
       </tuv>
     </tu>
     <tu>
