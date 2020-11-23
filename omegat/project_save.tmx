@@ -3672,8 +3672,8 @@
       <tuv lang="en-US">
         <seg>After the layer upload is completed, you can either preview the layer with *Layer Info* button, or edit the layer metadata with *Edit Metadata* or edit layer style on GeoServer with *Manage Styles* button.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142915Z" creationid="miurahr" creationdate="20201116T142915Z">
-        <seg>レイヤのアップロードが完了したら、*Layer Info*ボタンを使用してレイヤをプレビューするか、*Edit Metadata*を使用してレイヤメタデータを編集するか、*Manage Styles*ボタンを使用してGeoServer上のレイヤスタイルを編集できます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T152131Z" creationid="miurahr" creationdate="20201116T142915Z">
+        <seg>レイヤのアップロードが完了したら、 *Layer Info* ボタンを使用してレイヤをプレビューするか、*Edit Metadata* を使用してレイヤメタデータを編集するか、 *Manage Styles* ボタンを使用してGeoServer上のレイヤスタイルを編集できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5016,8 +5016,8 @@
       <tuv lang="en-US">
         <seg>Click *Add Layers* to add them all to the map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T143652Z" creationid="miurahr" creationdate="20201116T143652Z">
-        <seg> *Add Layers*をクリックして、すべてのレイヤをマップに追加します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T152203Z" creationid="miurahr" creationdate="20201116T143652Z">
+        <seg> *Add Layers* をクリックして、すべてのレイヤをマップに追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5032,8 +5032,8 @@
       <tuv lang="en-US">
         <seg>Click *Save*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T144811Z" creationid="miurahr" creationdate="20201116T144811Z">
-        <seg>*保存*をクリックします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T152231Z" creationid="miurahr" creationdate="20201116T144811Z">
+        <seg>*保存* をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5248,8 +5248,8 @@
       <tuv lang="en-US">
         <seg>Click on the *New Layers* button and select *Add Layers*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T143225Z" creationid="miurahr" creationdate="20201116T143225Z">
-        <seg>*New Layers* ボタンをクリックし、 *Add Layers*を選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T152153Z" creationid="miurahr" creationdate="20201116T143225Z">
+        <seg>*New Layers*  ボタンをクリックし、 *Add Layers* を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5408,8 +5408,8 @@
       <tuv lang="en-US">
         <seg>Click the *Map* button in the toolbar, and then click *Publish Map*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T145405Z" creationid="miurahr" creationdate="20201116T145405Z">
-        <seg>ツールバーの *Map*ボタンをクリックし、*Publish Map*をクリックします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T152252Z" creationid="miurahr" creationdate="20201116T145405Z">
+        <seg>ツールバーの *Map*ボタンをクリックし、 *Publish Map* をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10568,8 +10568,8 @@
       <tuv lang="en-US">
         <seg>In order to get started with GeoNode our `documentation &lt;https://docs.geonode.org/en/master/&gt;`_ might be useful.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T150142Z" creationid="miurahr" creationdate="20201116T150142Z">
-        <seg>GeoNodeを使用するには、`documentation&lt;https://docs.geonode.org/en/master/&gt;`_が便利です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T152358Z" creationid="miurahr" creationdate="20201116T150142Z">
+        <seg>GeoNodeを使用するには、 `documentation &lt;https://docs.geonode.org/en/master/&gt;`_ が便利です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12544,8 +12544,8 @@
       <tuv lang="en-US">
         <seg>Make any adjustments as necessary, and click *Save*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T145508Z" creationid="miurahr" creationdate="20201116T145508Z">
-        <seg>必要に応じて調整し、 *Save*をクリックします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T152310Z" creationid="miurahr" creationdate="20201116T145508Z">
+        <seg>必要に応じて調整し、 *Save* をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15816,8 +15816,8 @@
       <tuv lang="en-US">
         <seg>Press the *Layer Info* button to see the layer page</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142932Z" creationid="miurahr" creationdate="20201116T142932Z">
-        <seg>*Layer Info*ボタンを押して、レイヤページを表示</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T152140Z" creationid="miurahr" creationdate="20201116T142932Z">
+        <seg>*Layer Info* ボタンを押して、レイヤページを表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -16805,8 +16805,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Right click on the *USA Population* layer and select *Zoom to layer extend*</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T145138Z" creationid="miurahr" creationdate="20201116T145138Z">
-        <seg>*USA Population*レイヤを右クリックして、 *Zoom to layer extend*を選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T152244Z" creationid="miurahr" creationdate="20201116T145138Z">
+        <seg>*USA Population* レイヤを右クリックして、 *Zoom to layer extend* を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21992,8 +21992,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To install GeoNode on your own server, follow our `Quick Installation Guide &lt;https://docs.geonode.org/en/master/start/index.html#quick-installation-guide&gt;`_ .</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T145956Z" creationid="miurahr" creationdate="20201116T145934Z">
-        <seg>GeoNodeを独自のサーバーにインストールするには、`クイックインストールガイド&lt;https://docs.geonode.org/en/master/start/index.html#quick-installation-guide&gt;`_に従ってください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T152332Z" creationid="miurahr" creationdate="20201116T145934Z">
+        <seg>GeoNodeを独自のサーバーにインストールするには、`クイックインストールガイド &lt;https://docs.geonode.org/en/master/start/index.html#quick-installation-guide&gt;`_ に従ってください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22144,8 +22144,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To save the map click on the *Map* button in the toolbar, and select *Save Map*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T144802Z" creationid="miurahr" creationdate="20201116T144802Z">
-        <seg>マップを保存するには、ツールバーの*Map* ボタンをクリックし、 *Save Map*を選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T152213Z" creationid="miurahr" creationdate="20201116T144802Z">
+        <seg>マップを保存するには、ツールバーの *Map* ボタンをクリックし、 *Save Map* を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24600,8 +24600,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can do this through the #geonode IRC channel using https://webchat.freenode.net/, through the `GeoNode Gitter channel &lt;https://gitter.im/GeoNode/general&gt;`_ or by asking your question in our `mailing list &lt;https://lists.osgeo.org/cgi-bin/mailman/listinfo/geonode-users&gt;`_ !</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T150423Z" creationid="miurahr" creationdate="20201116T150423Z">
-        <seg>https://webchat.freenode.net/ の #geonode IRCチャネルを使用したり、`GeoNode Gitterチャネル&lt;https://gitter.im/GeoNode/general&gt;`_ にアクセスしたり、または私たちの`メーリングリスト&lt;https://lists.osgeo.org/cgi-bin/mailman/listinfo/geonode-users&gt;`_!で質していただけます。問</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T152447Z" creationid="miurahr" creationdate="20201116T150423Z">
+        <seg>https://webchat.freenode.net/  の #geonode IRCチャネルを使用したり、 `GeoNode Gitterチャネル &lt;https://gitter.im/GeoNode/general&gt;`_  にアクセスしたり、または私たちの `メーリングリスト &lt;https://lists.osgeo.org/cgi-bin/mailman/listinfo/geonode-users&gt;`_ で質問いただけます。問</seg>
       </tuv>
     </tu>
     <tu>
