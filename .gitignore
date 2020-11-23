@@ -2,6 +2,7 @@
 /dictionary/
 /omegat/*.txt
 /target/
+.-*.tmx
 
 # Python
 /venv/
@@ -11,4 +12,5 @@
 
 # VS Code
 .vscode/
+*.code-workspace
 
