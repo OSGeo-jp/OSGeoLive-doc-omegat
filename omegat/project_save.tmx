@@ -2758,6 +2758,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A JavaScript Toolkit for Rich Web Mapping Applications</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T224714Z" creationid="miurahr" creationdate="20201123T224714Z">
+        <seg>リッチWebマッピングアプリケーションのためのJavaScriptツールキット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A Lubuntu based bootable image, which can be copied to an 8 Gig USB thumb drive (faster and recommended) or DVD (cheaper).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T224005Z" creationid="miurahr" creationdate="20201123T223954Z">
+        <seg>Lubuntu ベースのブータブルイメージで、8 GBの ブータブル USB ドライブ(早い、推奨)か DVD (安い)にコピー可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A Mapfile always starts with the **MAP** object and should contain a list of **LAYER** objects the Mapfile can read and draw.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021748Z" creationid="miurahr" creationdate="20201103T021748Z">
@@ -6438,6 +6454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dataset Series as a collection of EO Coverages e.g. in a time series</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T224652Z" creationid="miurahr" creationdate="20201123T224652Z">
+        <seg>時系列などのEOカバレッジのコレクションとしてのデータセットシリーズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Datasets can be uploaded in various formats, maps can be edited, styled and aggregated through browser based tools, maps and metadata can be published and searched, and reviews, ratings and comments can be captured from users.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T051853Z" creationid="miurahr" creationdate="20201122T051853Z">
@@ -7066,6 +7090,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T141053Z" creationid="miurahr" creationdate="20201116T141053Z">
         <seg>EOxServer クイックスタートt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EOxServer builds upon an Open Source stack of software which includes Python, :doc:`MapServer &lt;mapserver_overview&gt;`, Django/GeoDjango, :doc:`GDAL &lt;gdal_overview&gt;`, PROJ.4, and a :doc:`SpatiaLite &lt;spatialite_overview&gt;` or :doc:`PostGIS &lt;postgis_overview&gt;` database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T224641Z" creationid="miurahr" creationdate="20201123T224641Z">
+        <seg>EOxServerは、Python、 :doc:`MapServer &lt;mapserver_overview&gt;` 、 Django/GeoDjango、 :doc:`GDAL &lt;gdal_overview&gt;` 、 PROJ.4 と :doc:`SpatiaLite &lt;spatialite_overview&gt;` あるいは  :doc:`PostGIS &lt;postgis_overview&gt;`  データベースを含むソフトウェアからなるオープンソースのスタック上に構築されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8674,6 +8706,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053808Z" creationid="miurahr" creationdate="20201103T053808Z">
         <seg>GeoExt クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoExt is Open Source and enables building desktop-like GIS applications through the web.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T224816Z" creationid="miurahr" creationdate="20201123T224816Z">
+        <seg>GeoExtはオープンソースで、Web経由でデスクトップアプリケーションのようなGISアプリケーションが構築できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11366,6 +11406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can also be used to build a virtual machine from scratch.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T224010Z" creationid="miurahr" creationdate="20201123T224010Z">
+        <seg>仮想環境をいちから構築することにも利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can also recombine tiles to work with regular WMS clients.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011719Z" creationid="miurahr" creationdate="20201103T011719Z">
@@ -11462,6 +11510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It has been compressed using `7-Zip &lt;https://www.7-zip.org/&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T224033Z" creationid="miurahr" creationdate="20201123T224033Z">
+        <seg>`7-Zip &lt;https://www.7-zip.org/&gt;`_ で圧縮されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It has been developed by a team of active sailors using real world conditions for program testing and refinement.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T102332Z" creationid="smellman" creationdate="20201103T102332Z">
@@ -11498,6 +11554,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T061148Z" creationid="miurahr" creationdate="20201103T061148Z">
         <seg>OpenGISの "Simple Features for SQL" の空間述語関数と空間演算、 JTS 仕様の拡張トポロジ関数を備えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is a JavaScript framework that combines the GIS functionality of `OpenLayers &lt;https://openlayers.org/&gt;`_ with the user interface of the `ExtJS &lt;https://www.sencha.com/products/extjs/&gt;`_ library provided by `Sencha &lt;https://www.sencha.com&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T224926Z" creationid="miurahr" creationdate="20201123T224926Z">
+        <seg>これは、  `OpenLayers &lt;https://openlayers.org/&gt;`_ のGIS機能と、`Sencha &lt;https://www.sencha.com&gt;`_ によって提供される  `ExtJS &lt;https://www.sencha.com/products/extjs/&gt;`_  ライブラリのユーザインターフェイスを組み合わせたJavaScriptフレームワークです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12046,6 +12110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lack of change in smaller, concise packages and libraries may simply reflect a level of maturity and completeness.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T224148Z" creationid="miurahr" creationdate="20201123T224148Z">
+        <seg>一部の小さな変更を除けば、パッケージとライブラリは完成度の高いレベルにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Language</seg>
       </tuv>
       <tuv lang="ja">
@@ -12530,6 +12602,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043035Z" creationid="miurahr" creationdate="20201108T043035Z">
         <seg>幸いなことに、PostGISテーブルにデータを取り込む方法は他にもあり、その方がずっと簡単です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mac users will benefit from a 3-button USB mouse.`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T224059Z" creationid="miurahr" creationdate="20201123T224059Z">
+        <seg>Mac ユーザーには 3ボタン USB マウスの利用をお勧めします。`</seg>
       </tuv>
     </tu>
     <tu>
@@ -13026,6 +13106,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>距離計測機能 (例: デカルト2D距離, ハウスドルフ距離)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Metrics provided by `OpenHUB &lt;https://www.openhub.net/&gt;`_ which are derived from the projects' code repositories.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T224127Z" creationid="miurahr" creationdate="20201123T224127Z">
+        <seg>プロジェクトのコードリポジトリ `OpenHUB &lt;https://www.openhub.net/&gt;`_ によるメトリクス。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13558,6 +13646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No hard drive required.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T224050Z" creationid="miurahr" creationdate="20201123T224050Z">
+        <seg>ハードディスクは必要な場合のみ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No need for browser plug-ins</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T050929Z" creationid="miurahr" creationdate="20201122T050923Z">
@@ -13658,6 +13754,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T021731Z" creationid="miurahr" creationdate="20201122T021731Z">
         <seg>loadshpコマンドの形式に注意してください: 最初は.shp拡張子のないシェープファイル、次に新しいspatialiteテーブルの名前、次に文字コード、最後にシェープファイルのCRSのEPSGコードです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note these metrics have known deficiencies (such as caused by repositories moving), and only provide partial indications about the projects' development.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T224137Z" creationid="miurahr" creationdate="20201123T224120Z">
+        <seg>これらのメトリクスにはいくつかの欠点 (リポジトリの移動などによる) があることに注意する必要があります。また、プロジェクト開発については断片的な情報しかありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18635,6 +18739,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Supports RawDataOutput/ResponseDocument responses</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T224343Z" creationid="miurahr" creationdate="20201123T224343Z">
+        <seg>RawDataOutput/ResponseDocument 応答のサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Supports Styled Layer Descriptor (SLD)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003402Z" creationid="miurahr" creationdate="20201103T003402Z">
@@ -18651,10 +18763,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Supports asynchronous execution (with polling of process status)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T224409Z" creationid="miurahr" creationdate="20201123T224409Z">
+        <seg>非同期実行をサポート(プロセスステータスをポーリング)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Supports different backends, such as GeoTIFF, remote WMS or file system tile image hierarchies</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042612Z" creationid="miurahr" creationdate="20201103T042612Z">
         <seg>GeoTIFF、リモートWMS、ファイルシステムなどの異なるバックエンドをサポートタイルイメージの階層</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supports input parameters given inline and by reference</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T224251Z" creationid="miurahr" creationdate="20201123T224251Z">
+        <seg>インラインと参照で指定されたパラメータをサポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -18687,6 +18815,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042619Z" creationid="miurahr" creationdate="20201103T042619Z">
         <seg>オンザフライキャッシュをサポート(EHCキャッシュを使用)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supports storing of response documents/output parameters</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T224238Z" creationid="miurahr" creationdate="20201123T224238Z">
+        <seg>レスポンス文書/出力パラメータの保存をサポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -21174,6 +21310,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is a pre-made virtual machine (.vmdk), based on osgeolive, suitable for use in VirtualBox, VMWare, KVM and other virtual machine applications.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T224023Z" creationid="miurahr" creationdate="20201123T224023Z">
+        <seg>VirtualBox、VMWare、KVM などの仮想マシンに適した、OSGeoLiveに基づいて事前作成された仮想マシン(.vmdk)です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is a simple demonstration, but you can do much more with EOxServer.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T124929Z" creationid="miurahr" creationdate="20201116T124929Z">
@@ -22874,6 +23018,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ユーザーガイド: https://wiki.openstreetmap.org/wiki/JOSM/Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>User interface components include a map panel, layer tree panel, feature grid, and an overview map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T225044Z" creationid="miurahr" creationdate="20201123T225044Z">
+        <seg>ユーザーインターフェイスコンポーネントには、マップパネル、レイヤツリーパネル、地物グリッド、および全体図マップがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25690,6 +25842,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T141205Z" creationid="miurahr" creationdate="20201122T053238Z">
         <seg>`Mapbender &lt;https://mapbender.org/en&gt;`_ は卒業したOSGeoプロジェクトです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`Minimum suggested system resources: 1 GB RAM (2 GB are better for trying Java based applications), 1GHz i386 or amd64 compatible CPU.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T224045Z" creationid="miurahr" creationdate="20201123T224045Z">
+        <seg>`最低限の動作環境は: メモリ 1GB (Java ベースのアプリケーションを使用する場合 2 GB あるとよいでしょう)、1GHz 以上の i386 か amd64 互換の CPU。</seg>
       </tuv>
     </tu>
     <tu>
