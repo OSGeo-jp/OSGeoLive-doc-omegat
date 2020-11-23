@@ -304,8 +304,8 @@
       <tuv lang="en-US">
         <seg>**Administrator manual:** https://github.com/ec-jrc/re3gistry/blob/master/documentation/administrator-manual.md</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T051613Z" creationid="smellman" creationdate="20201103T051613Z">
-        <seg>**管理者マニュアル:**https://github.com/ec-jrc/re3gistry/blob/master/documentation/administrator-manual.md</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T141843Z" creationid="smellman" creationdate="20201103T051613Z">
+        <seg>**管理者マニュアル:** https://github.com/ec-jrc/re3gistry/blob/master/documentation/administrator-manual.md</seg>
       </tuv>
     </tu>
     <tu>
@@ -488,8 +488,8 @@
       <tuv lang="en-US">
         <seg>**Developer manual:** https://github.com/ec-jrc/re3gistry/blob/master/documentation/developer-manual.md</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T051618Z" creationid="smellman" creationdate="20201103T051618Z">
-        <seg>**開発者マニュアル:**https://github.com/ec-jrc/re3gistry/blob/master/documentation/developer-manual.md</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T141901Z" creationid="smellman" creationdate="20201103T051618Z">
+        <seg>**開発者マニュアル:** https://github.com/ec-jrc/re3gistry/blob/master/documentation/developer-manual.md</seg>
       </tuv>
     </tu>
     <tu>
@@ -632,8 +632,8 @@
       <tuv lang="en-US">
         <seg>**Licence:** EUPL</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T051552Z" creationid="smellman" creationdate="20201103T051552Z">
-        <seg>**ライセンス:**EUPL</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142037Z" creationid="smellman" creationdate="20201103T051552Z">
+        <seg>**ライセンス:** EUPL</seg>
       </tuv>
     </tu>
     <tu>
@@ -1240,8 +1240,8 @@
       <tuv lang="en-US">
         <seg>**Software Version:** |version-re3gistry|</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T051556Z" creationid="smellman" creationdate="20201103T051556Z">
-        <seg>**ソフトウェアバージョン:**version-re3gistry</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142104Z" creationid="smellman" creationdate="20201103T051556Z">
+        <seg>**ソフトウェアバージョン:** |version-re3gistry|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1256,8 +1256,8 @@
       <tuv lang="en-US">
         <seg>**Software Version:** |version-t-rex|</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T051257Z" creationid="smellman" creationdate="20201103T051257Z">
-        <seg>**ソフトウェアバージョン:**version-t-rex</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142347Z" creationid="smellman" creationdate="20201103T051257Z">
+        <seg>**ソフトウェアバージョン:** |version-t-rex|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1360,8 +1360,8 @@
       <tuv lang="en-US">
         <seg>**Support:** https://github.com/ec-jrc/re3gistry</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T051602Z" creationid="smellman" creationdate="20201103T051602Z">
-        <seg>**サポート:**https://github.com/ec-jrc/re3gistry</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T141839Z" creationid="smellman" creationdate="20201103T051602Z">
+        <seg>**サポート:** https://github.com/ec-jrc/re3gistry</seg>
       </tuv>
     </tu>
     <tu>
@@ -1696,8 +1696,8 @@
       <tuv lang="en-US">
         <seg>**User manual:** https://github.com/ec-jrc/re3gistry/blob/master/documentation/user-manual.md</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T051606Z" creationid="smellman" creationdate="20201103T051606Z">
-        <seg>**ユーザーマニュアル:**https://github.com/ec-jrc/re3gistry/blob/master/documentation/user-manual.md</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T141835Z" creationid="smellman" creationdate="20201103T051606Z">
+        <seg>**ユーザーマニュアル:** https://github.com/ec-jrc/re3gistry/blob/master/documentation/user-manual.md</seg>
       </tuv>
     </tu>
     <tu>
@@ -1888,8 +1888,8 @@
       <tuv lang="en-US">
         <seg>**Website:** https://github.com/ec-jrc/re3gistry</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T051549Z" creationid="smellman" creationdate="20201103T051549Z">
-        <seg>**ウェブサイト:**https://github.com/ec-jrc/re3gistry</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142030Z" creationid="smellman" creationdate="20201103T051549Z">
+        <seg>**ウェブサイト:** https://github.com/ec-jrc/re3gistry</seg>
       </tuv>
     </tu>
     <tu>
@@ -2680,8 +2680,8 @@
       <tuv lang="en-US">
         <seg>:doc:`Quickstart documentation &lt;../quickstart/re3gistry_quickstart&gt;`</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T051632Z" creationid="smellman" creationdate="20201103T051632Z">
-        <seg>:doc:`クイックスタートドキュメント&lt;./quickstart/re3gistry_quickstart&gt;`</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T141950Z" creationid="smellman" creationdate="20201103T051632Z">
+        <seg>:doc: `クイックスタートドキュメント &lt;../quickstart/re3gistry_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -3114,6 +3114,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T020714Z" creationid="miurahr" creationdate="20201108T020258Z">
         <seg>スタイルは、``ol.style.Style``クラスによって表され、このクラスは、適用される``fill``、``stroke``、``text``および``image``を設定するプロパティを有する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A terminal window opens running R.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142537Z" creationid="miurahr" creationdate="20201123T142537Z">
+        <seg>ターミナルウィンドウが開き、Rが実行されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4866,6 +4874,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135114Z" creationid="miurahr" creationdate="20201116T135114Z">
         <seg>:menuselection:`Geospatial--&gt;Web Services--&gt;deegree`メニューから*'deegreeを開始'*を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose :menuselection:`Geospatial --&gt; Spatial Tools --&gt; R Statistics`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142532Z" creationid="miurahr" creationdate="20201123T142532Z">
+        <seg> :menuselection:`Geospatial --&gt; Spatial Tools --&gt; R Statistics` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6742,6 +6758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Don't fear the command line - it is a source of great power.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142452Z" creationid="miurahr" creationdate="20201123T142452Z">
+        <seg>コマンドラインを恐れる必要はありません。大きな力の源です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Don't forget to install the parsers you want to use:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235316Z" creationid="miurahr" creationdate="20201116T235316Z">
@@ -7968,8 +7992,8 @@
       <tuv lang="en-US">
         <seg>For more information on spatial aspects of R, the best place to start is probably the `R Spatial Task View &lt;https://cran.r-project.org/web/views/Spatial.html&gt;`_</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>Rの空間的側面の詳細については、おそらく「R Spatial Task View &lt;https://cran.r-project.org/web/views/Spatial.html&gt; `_から始めるのが最適です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142434Z">
+        <seg>Rの空間的側面の詳細については、おそらく`R Spatial Task View &lt;https://cran.r-project.org/web/views/Spatial.html&gt;`_ から始めるのが最適です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9602,6 +9626,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041902Z" creationid="miurahr" creationdate="20201108T041902Z">
         <seg>returnを押してもpsqlプロンプトが表示され続ける場合は、:kbd:`CTRL`+:kbd:`C`を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hit CTRL-C if get stuck and you should get the prompt back.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142503Z" creationid="miurahr" creationdate="20201123T142503Z">
+        <seg>スタックした場合は、CTRL-Cを押します。プロンプトが再度表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15784,8 +15816,8 @@
       <tuv lang="en-US">
         <seg>Proj4 has been translated from C to `other languages &lt;https://trac.osgeo.org/metacrs/wiki&gt;`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T014029Z" creationid="miurahr" creationdate="20201103T014029Z">
-        <seg>Proj4は、C から `さまざまな言語 &lt;https://trac.osgeo.org/metacrs/wiki&gt;`に変換されています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T141803Z" creationid="miurahr" creationdate="20201103T014029Z">
+        <seg>Proj4は、C から `さまざまな言語  &lt;https://trac.osgeo.org/metacrs/wiki&gt;` に変換されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15808,8 +15840,8 @@
       <tuv lang="en-US">
         <seg>Proj4 uses coordinate system definitions defined by the `European Petroleum Survey Group (EPSG) &lt;https://www.epsg.org/&gt;`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T014201Z" creationid="miurahr" creationdate="20201103T014201Z">
-        <seg>Proj4は、`European Petroleum Survey Group(EPSG)&lt;https://www.epsg.org/&gt;`によって定義された座標系定義を使用します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T141710Z" creationid="miurahr" creationdate="20201103T014201Z">
+        <seg>Proj4は、`European Petroleum Survey Group (EPSG) &lt;https://www.epsg.org/&gt;` によって定義された座標系定義を使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16151,6 +16183,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013720Z" creationid="miurahr" creationdate="20201103T013720Z">
         <seg>R は S 言語の実装でもあり、R と過去の S、S-Plus コード、
 最近の商用バージョンの S、TIBCO Spotfire S+ には高い互換性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>R is essentially a command-line program, although graphical user interfaces are available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142441Z" creationid="miurahr" creationdate="20201123T142441Z">
+        <seg>Rは基本的にコマンドラインプログラムですが、GUIも利用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19819,6 +19859,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The main prompt in R is ``&gt;``, but there is also the continuation prompt ``+``, which appears if R expects more input to make a valid expression.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142611Z" creationid="miurahr" creationdate="20201123T142611Z">
+        <seg>Rのメインプロンプトは ``&gt;``ですが、継続プロンプト``+``もあります。これは、Rが有効な式を作るためにさらに多くの入力を期待する場合に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The map client is based on `OpenLayers &lt;https://openlayers.org/&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T140731Z" creationid="miurahr" creationdate="20201116T140731Z">
@@ -22691,6 +22739,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using the up and down arrows to recall commands so you can edit mistakes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142457Z" creationid="miurahr" creationdate="20201123T142457Z">
+        <seg>上下の矢印を使用してコマンドを呼び出し、間違いを編集できるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using |UG| to create simple styles</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231532Z" creationid="miurahr" creationdate="20201116T231532Z">
@@ -24579,6 +24635,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can start with simple arithmetic.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142542Z" creationid="miurahr" creationdate="20201123T142542Z">
+        <seg>簡単な算術演算から始めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can type epsg:4326 in the box, or go to `http://prj2epsg.org/search &lt;http://prj2epsg.org/search&gt;`_ and paste in the string you see if you click on the link next to "UNKNOWN".</seg>
       </tuv>
       <tuv lang="ja">
@@ -24871,6 +24935,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T015400Z" creationid="miurahr" creationdate="20201108T015400Z">
         <seg>次のように表示されるはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You type a line of code at the prompt, press return, and the R interpreter evaluates it and prints the result.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T142447Z" creationid="miurahr" creationdate="20201123T142447Z">
+        <seg>プロンプトで1行のコードを入力し、returnキーを押すと、Rインタプリタがそれを評価して結果を出力します。</seg>
       </tuv>
     </tu>
     <tu>
