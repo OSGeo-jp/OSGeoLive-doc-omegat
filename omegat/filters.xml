@@ -127,8 +127,8 @@
         <files sourceFilenameMask="*.po" targetFilenamePattern="${filename}" sourceEncoding="UTF-8" targetEncoding="UTF-8"/>
         <files sourceFilenameMask="*.pot" targetFilenamePattern="${filename}" sourceEncoding="UTF-8" targetEncoding="UTF-8"/>
         <option name="autoFillInPluralStatement" value="false"/>
-        <option name="disallowBlank" value="false"/>
-        <option name="disallowEditingBlankSegment" value="true"/>
+        <option name="disallowBlank" value="true"/>
+        <option name="disallowEditingBlankSegment" value="false"/>
         <option name="monolingualFormat" value="false"/>
         <option name="skipHeader" value="true"/>
     </filter>
