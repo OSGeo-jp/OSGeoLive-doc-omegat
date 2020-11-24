@@ -320,8 +320,8 @@
       <tuv lang="en-US">
         <seg>**Air Quality Data e-Reporting Extension**: Starting with version 4.3.0, an extension is available that provides for the Air Quality Data Flows E1a, E1b and E2a compliant data (the instance on OSGeoLive is not configured accordingly).</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201103T054719Z" creationid="miurahr" creationdate="20201103T041910Z">
-        <seg>**Air Quality データ eレポート拡張**: バージョン4.3.0以降では、Air Quality Data Flows E1a、E1b、およびE2a準拠データを提供する拡張機能が使用可能です(OSGeoLiveのインスタンスは適切に設定されていません)。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201124T235720Z" creationid="miurahr" creationdate="20201103T041910Z">
+        <seg>**Air Quality データ eレポート拡張**:  バージョン4.3.0以降では、Air Quality Data Flows E1a、E1b、およびE2a準拠データを提供する拡張機能が使用可能です(OSGeoLiveのインスタンスは適切に設定されていません)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -568,8 +568,8 @@
       <tuv lang="en-US">
         <seg>**INSPIRE Download Service Extension**: Starting with Version 4.2.0, an extension is available that allows the SOS to be used as an INSPIRE download service.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201103T053952Z" creationid="miurahr" creationdate="20201103T041717Z">
-        <seg>**INSPIRE ダウンロードサービス拡張**: バージョン4.2.0以降では、SOSをINSPIREダウンロードサービスとして使用できるように拡張されています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201124T235729Z" creationid="miurahr" creationdate="20201103T041717Z">
+        <seg>**INSPIRE ダウンロードサービス拡張**:  バージョン4.2.0以降では、SOSをINSPIREダウンロードサービスとして使用できるように拡張されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1344,8 +1344,8 @@
       <tuv lang="en-US">
         <seg>**Specifications**: The 52°North SOS implements the current specification version 2.0.0 and the previous version 1.0.0 (here no transactional operations).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T041705Z" creationid="miurahr" creationdate="20201103T041705Z">
-        <seg>**仕様**: 52°North SOSは、現在の仕様バージョン2.0.0および以前のバージョン1.0.0を実装します(ここではトランザクション操作はありません)。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201124T235745Z" creationid="miurahr" creationdate="20201103T041705Z">
+        <seg>**仕様**:  52°North SOSは、現在の仕様バージョン2.0.0および以前のバージョン1.0.0を実装します(ここではトランザクション操作はありません)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3896,8 +3896,8 @@
       <tuv lang="en-US">
         <seg>All documentation is provided under a `Creative Commons Attribution 3.0 Unported License &lt;https://creativecommons.org/licenses/by/3.0/&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T135525Z" creationid="smellman" creationdate="20201101T110546Z">
-        <seg>すべてのドキュメントは、`Creative Commons Attribution 3.0 Unported License &lt;https://creativecommons.org/licenses/by/3.0/&gt;`_の下で提供されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201124T235324Z" creationid="smellman" creationdate="20201101T110546Z">
+        <seg>すべてのドキュメントは、 `Creative Commons Attribution 3.0 Unported License &lt;https://creativecommons.org/licenses/by/3.0/&gt;`_ の下で提供されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4200,8 +4200,8 @@
       <tuv lang="en-US">
         <seg>As per the `terms of the Creative Commons license &lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F&gt;`_, if you include OSGeoLive documentation into a new document, you will need to attribute the contributors.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T135641Z" creationid="smellman" creationdate="20201101T110855Z">
-        <seg> `terms of the Creative Commons license &lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F&gt;`_に従って、OSGeoLiveのドキュメントを新しいドキュメントに含める場合は、コントリビュータの属性を指定する必要があります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201124T235431Z" creationid="smellman" creationdate="20201101T110855Z">
+        <seg> `terms of the Creative Commons license &lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F&gt;`_ に従って、OSGeoLiveのドキュメントを新しいドキュメントに含める場合は、コントリビュータの属性を指定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4416,8 +4416,8 @@
       <tuv lang="en-US">
         <seg>Background information is provided in a `blog post &lt;https://blog.52north.org/2014/01/30/52north-supports-the-jrc-in-developing-an-inspire-download-service-based-on-sos/&gt;`_ and in the `wiki &lt;https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#INSPIRE_Download_Service_extensi&gt;`_ .</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201103T054358Z" creationid="miurahr" creationdate="20201103T041859Z">
-        <seg>背景情報は、`ブログポスト &lt;https://blog.52north.org/2014/01/30/52north-supports-the-jrc-in-developing-an-inspire-download-service-based-on-sos/&gt;`_  および  `Wiki &lt;https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#INSPIRE_Download_Service_extensi&gt;`_で提供されています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201124T235715Z" creationid="miurahr" creationdate="20201103T041859Z">
+        <seg>背景情報は、 `ブログポスト &lt;https://blog.52north.org/2014/01/30/52north-supports-the-jrc-in-developing-an-inspire-download-service-based-on-sos/&gt;`_  および  `Wiki &lt;https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#INSPIRE_Download_Service_extensi&gt;`_ で提供されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7616,8 +7616,8 @@
       <tuv lang="en-US">
         <seg>Explore the `tutorial &lt;https://actinia.mundialis.de/tutorial/&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T061627Z" creationid="miurahr" creationdate="20201103T061627Z">
-        <seg> `チュートリアル &lt;https://actinia.mundialis.de/tutorial/&gt;`_をご覧ください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201124T235930Z" creationid="miurahr" creationdate="20201103T061627Z">
+        <seg>`チュートリアル &lt;https://actinia.mundialis.de/tutorial/&gt;`_ をご覧ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8600,8 +8600,8 @@
       <tuv lang="en-US">
         <seg>Further, if Quickstarts are included, which are licenced under the `CC By-SA &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_ license, then the new document will also need to be licenced under the `CC By-SA &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201101T111029Z" creationid="smellman" creationdate="20201101T111029Z">
-        <seg>さらに、`CC By-SA&lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_ ライセンスの下でライセンスされているQuickstartsが含まれている場合、新しい文書も `CC By-SA&lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_ ライセンスの下でライセンスされる必要があります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201124T235516Z" creationid="smellman" creationdate="20201101T111029Z">
+        <seg>さらに、`CC By-SA &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_ ライセンスの下でライセンスされているQuickstartsが含まれている場合、新しい文書も `CC By-SA &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_ ライセンスの下でライセンスされる必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16392,8 +16392,8 @@
       <tuv lang="en-US">
         <seg>Project Overviews and Overview Translations, are provided under a `Creative Commons Attribution 3.0 Unported License &lt;https://creativecommons.org/licenses/by/3.0/&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201101T110638Z" creationid="smellman" creationdate="20201101T110638Z">
-        <seg>プロジェクトの概要と概要の翻訳は、「Creative Commons Attribution3.0Unported License&lt;https://creativecommons.org/licenses/by/3.0/&gt;」の下で提供されています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201124T235350Z" creationid="smellman" creationdate="20201101T110638Z">
+        <seg>プロジェクトの概要と概要の翻訳は、`Creative Commons Attribution 3.0 Unported License &lt;https://creativecommons.org/licenses/by/3.0/&gt;`_ の下で提供されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16676,8 +16676,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Quickstarts and Quickstart Translations, are provided under a `Creative Commons Attribution-ShareAlike 3.0 Unported License &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201101T110651Z" creationid="smellman" creationdate="20201101T110651Z">
-        <seg>QuickstartsとQuickStart翻訳は、「Creative Commons Attribution-ShareAlike3.0Unported License&lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;」の下で提供されています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201124T235421Z" creationid="smellman" creationdate="20201101T110651Z">
+        <seg>QuickstartsとQuickStart翻訳は、`Creative Commons Attribution-ShareAlike 3.0 Unported License &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_ の下で提供されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16973,8 +16973,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Refer to specific application descriptions linked from the :doc:`Contents &lt;./overview/overview&gt;` for details.</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201101T105628Z" creationid="smellman" creationdate="20201101T105628Z">
-        <seg>詳細については、doc:`Contents&lt;./overview/overview&gt;`からリンクされている特定のアプリケーションの説明を参照してください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201124T235033Z" creationid="smellman" creationdate="20201101T105628Z">
+        <seg>詳細については、 :doc:`Contents &lt;./overview/overview&gt;`  からリンクされている特定のアプリケーションの説明を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19600,8 +19600,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The OSGeo-Live project is distributed under `LGPL license v2.1 &lt;http://www.gnu.de/documents/lgpl-2.1.en.html&gt;`__.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T135444Z" creationid="smellman" creationdate="20201101T110537Z">
-        <seg>OSGeo-Liveプロジェクトは、`LGPL license v2.1&lt;http://www.gnu.de/documents/lgpl-2.1.en.html&gt;`__のもとで配布されています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201124T235301Z" creationid="smellman" creationdate="20201101T110537Z">
+        <seg>OSGeo-Liveプロジェクトは、 `LGPL license v2.1 &lt;http://www.gnu.de/documents/lgpl-2.1.en.html&gt;`__ のもとで配布されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26144,8 +26144,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`Actinia &lt;https://actinia.mundialis.de/&gt;`__ is an open source REST API for scalable, distributed, high performance processing of geographical data that uses `GRASS GIS &lt;https://grass.osgeo.org/&gt;`__ for computational tasks.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T061549Z" creationid="miurahr" creationdate="20201103T061549Z">
-        <seg>`Actinia &lt;https://actinia.mundialis.de/&gt;`__ は、地理データのスケーラブルで分散した高パフォーマンス処理のためのオープンソースREST APIであり、計算タスクに `GRASS GIS &lt;https://grass.osgeo.org/&gt;`__を使用します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201124T235904Z" creationid="miurahr" creationdate="20201103T061549Z">
+        <seg>`Actinia &lt;https://actinia.mundialis.de/&gt;`__ は、地理データのスケーラブルで分散した高パフォーマンス処理のためのオープンソースREST APIであり、計算タスクに  `GRASS GIS &lt;https://grass.osgeo.org/&gt;`__  を使用します。</seg>
       </tuv>
     </tu>
     <tu>
