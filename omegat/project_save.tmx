@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**API Interfaces:** JavaScript</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T231010Z" creationid="miurahr" creationdate="20201123T231010Z">
+        <seg>**API インターフェイス:** JavaScript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**API Interfaces:** Javascript</seg>
       </tuv>
       <tuv lang="ja">
@@ -502,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Developers:** https://github.com/geostyler/geostyler/graphs/contributors</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T231031Z" creationid="miurahr" creationdate="20201123T231031Z">
+        <seg>**開発者:** https://github.com/geostyler/geostyler/graphs/contributors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Download Page:** https://sourceforge.net/projects/jump-pilot/files/</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T104435Z" creationid="smellman" creationdate="20201103T104435Z">
@@ -618,6 +634,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**ライセンス:** BSD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Licence:** BSD-2-Clause</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T230959Z" creationid="miurahr" creationdate="20201123T230959Z">
+        <seg>**ライセンス:** BSD-2-Clause</seg>
       </tuv>
     </tu>
     <tu>
@@ -1086,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-geostyler|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T231005Z" creationid="miurahr" creationdate="20201123T231005Z">
+        <seg>**ソフトウェアバージョン:** |version-geostyler|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-geos|</seg>
       </tuv>
       <tuv lang="ja">
@@ -1322,6 +1354,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071427Z" creationid="miurahr" creationdate="20201103T071427Z">
         <seg>**サポート:**  https://rasdaman.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** Issues on https://github.com/geostyler/geostyler</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T231015Z" creationid="miurahr" creationdate="20201123T231015Z">
+        <seg>**サポート:** Issues on https://github.com/geostyler/geostyler</seg>
       </tuv>
     </tu>
     <tu>
@@ -1854,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Website:** https://activityworkshop.net/software/gpsprune</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T231326Z" creationid="miurahr" creationdate="20201123T231326Z">
+        <seg>**Webサイト:** https://activityworkshop.net/software/gpsprune</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Website:** https://cesium.com/</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T050135Z" creationid="miurahr" creationdate="20201122T050135Z">
@@ -1906,6 +1954,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T052143Z" creationid="miurahr" creationdate="20201122T052143Z">
         <seg>**Webサイト:** https://geonode.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://geostyler.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T230952Z" creationid="miurahr" creationdate="20201123T230952Z">
+        <seg>**Webサイト:** https://geostyler.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -2530,6 +2586,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>:doc:`クイックスタート文書 &lt;../quickstart/geoserver_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/geostyler_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T231042Z" creationid="miurahr" creationdate="20201123T231042Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/geostyler_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -8352,8 +8416,8 @@
       <tuv lang="en-US">
         <seg>From the Start menu, choose :menuselection:`Navigation and Maps --&gt; GpsPrune`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T000439Z" creationid="miurahr" creationdate="20201117T000344Z">
-        <seg>[スタート]メニューから:menuselection:`ナビゲーションと地図--&gt;GpsPrune`を選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201124T062005Z" creationid="miurahr" creationdate="20201117T000344Z">
+        <seg>スタートメニューから:menuselection:`Geospatial--&gt;Navigation and Maps--&gt;GpsPrune`を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8682,6 +8746,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>GPS ナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GPS Track-Editing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T231321Z" creationid="miurahr" creationdate="20201123T231321Z">
+        <seg>GPSトラック編集</seg>
       </tuv>
     </tu>
     <tu>
@@ -12178,6 +12250,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T063149Z" creationid="miurahr" creationdate="20201103T063149Z">
         <seg>次データのために提供されるJavaデータ構造とバインディング: xsd-core (xml simple types), fes, filter, gml2, gml3, kml, ows, sld, wcs, wfs, wms, wps, vpf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Journal quality cartography.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T231308Z" creationid="miurahr" creationdate="20201123T231308Z">
+        <seg>学会誌品質のカートグラフィー。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23978,6 +24058,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022415Z" creationid="miurahr" creationdate="20201103T022415Z">
         <seg>次に、新しいレイヤをMapfileに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will now load a file by using the menu command :menuselection:`File --&gt; Open file` and selecting the file to load.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T231433Z" creationid="miurahr" creationdate="20201123T231433Z">
+        <seg>次に、メニューコマンド :menuselection:`File --&gt; Open file` を使用して、読みこむファイルを選択します。</seg>
       </tuv>
     </tu>
     <tu>
