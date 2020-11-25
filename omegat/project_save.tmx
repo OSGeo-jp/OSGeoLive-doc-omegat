@@ -11280,8 +11280,8 @@
       <tuv lang="en-US">
         <seg>Information Center for the Environment at the University of California, Davis provides hardware resources and development support to the OSGeoLive project.</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>カリフォルニア大学デイビス校環境情報センターは、OSGeoLiveプロジェクトへのハードウェア資源と開発支援を提供しています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T001454Z">
+        <seg>カリフォルニア大学デイビス校環境情報センターは、OSGeoLiveプロジェクトへのハードウェア資源と開発サポートを提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14464,8 +14464,8 @@
       <tuv lang="en-US">
         <seg>Now you can see that the ``[9]`` is telling us that 4.555 is the ninth value in the vector.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T142655Z" creationid="miurahr" creationdate="20201123T142655Z">
-        <seg>これで、 ``[9]``によって、4.555が9番目の値であることがわかります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T001110Z" creationid="miurahr" creationdate="20201123T142655Z">
+        <seg>これで、 ``[9]`` によって、4.555が9番目の値であることがわかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20504,8 +20504,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The main prompt in R is ``&gt;``, but there is also the continuation prompt ``+``, which appears if R expects more input to make a valid expression.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T142611Z" creationid="miurahr" creationdate="20201123T142611Z">
-        <seg>Rのメインプロンプトは ``&gt;``ですが、継続プロンプト``+``もあります。これは、Rが有効な式を作るためにさらに多くの入力を期待する場合に表示されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T001025Z" creationid="miurahr" creationdate="20201123T142611Z">
+        <seg>Rのメインプロンプトは  ``&gt;`` ですが、継続プロンプト ``+`` もあります。これは、Rが有効な式を作るためにさらに多くの入力を期待する場合に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23801,8 +23801,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>We add these points to the base map, scaling their size by scaled square root of the population (because that makes a symbol with area proportional to population), set the colour to red and the plotting character to a solid blob:</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>これらのポイントをベースマップに追加し、人口のスケーリングされた平方根でサイズをスケーリングします（これにより、シンボルが人口に比例するようになるため）、色を赤に設定し、プロット文字を塗りつぶしたblobに設定します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T003430Z">
+        <seg>これらの点をベースマップに追加し、（人口に比例する大きさになるように）人口の平方根の比率でシンボルをサイズ変更します、色を赤に設定し、プロットする文字を塗りつぶした丸印に設定します:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23873,8 +23873,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>We can use the ``admin`` field to subset the world data and just get the UK:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T142825Z" creationid="miurahr" creationdate="20201123T142825Z">
-        <seg>``admin``フィールドを使用して、世界のデータをサブセット化し、英国を取得することができます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T001144Z" creationid="miurahr" creationdate="20201123T142825Z">
+        <seg>``admin`` フィールドを使用して、世界のデータをサブセット化し、英国を取得することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25321,8 +25321,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can now click on the keyboard icon on the lower desktop menu bar to select the active keyboard layout.</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>これで、デスクトップ下部のメニュー上のキーボードアイコンをクリックし、アクティブなキーボードレイアウトを選択することができるようになりました。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T001411Z">
+        <seg>これで、デスクトップ下部のメニュー上のキーボードアイコンをクリックし、アクティブなキーボードレイアウトを選択できるようになりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26185,8 +26185,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`FOSS4G &lt;https://foss4g.org&gt;`_: Annual, international conference for *Free and Open Source Software for Geospatial*, as well as many regional and local `events &lt;https://www.osgeo.org/events&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>`FOSS4G &lt;https://foss4g.org&gt;`_: *地理空間のためのフリーでオープンなソフトウェア* のために毎年開催される国際カンファレンスで、多くの地域でも同様の `イベント &lt;https://www.osgeo.org/events&gt;`_. が開催されています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T001543Z">
+        <seg>`FOSS4G &lt;https://foss4g.org&gt;`_: *地理空間のためのフリーでオープンソースなソフトウェア* のために毎年開催される国際カンファレンスで、多くの地域でも同様の `イベント &lt;https://www.osgeo.org/events&gt;`_. が開催されています。</seg>
       </tuv>
     </tu>
     <tu>
