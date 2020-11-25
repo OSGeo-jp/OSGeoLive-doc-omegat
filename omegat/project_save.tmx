@@ -3990,6 +3990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively, you can access the application using a browser through http://localhost/qgis_server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T003955Z" creationid="miurahr" creationdate="20201125T003955Z">
+        <seg>あるいは、次のURLを使用してアプリケーションにアクセスすることもできます。 http://localhost/qgis_server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatively, you can then access the application using the following URL: `&lt;http://localhost:8080/geomajas/&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131610Z" creationid="miurahr" creationdate="20201116T131610Z">
@@ -5050,6 +5058,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T141952Z" creationid="miurahr" creationdate="20201120T141952Z">
         <seg>メニューバーから:menuselection:`Layer--&gt;Add`を選択して、**Add Data**ウィザードを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose :menuselection:`Project --&gt; Open` from the menu bar.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004059Z" creationid="miurahr" creationdate="20201125T004059Z">
+        <seg>メニューバーから、 :menuselection:`Project --&gt; Open` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7394,6 +7410,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>生態学的分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Edit QGIS project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004010Z" creationid="miurahr" creationdate="20201125T004010Z">
+        <seg>QGISプロジェクトの編集</seg>
       </tuv>
     </tu>
     <tu>
@@ -14734,6 +14758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OSGeoLive contains an example of web map viewer based on the GeoExt Javascript framework and using QGIS Server for rendering the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T003832Z" creationid="miurahr" creationdate="20201125T003736Z">
+        <seg>OSGeoLiveには、GeoExt javascriptフレームワークにもとづくサンプル地図ビューアが収録されていますので、QGIS サーバをつかって地図をレンダリングしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OSGeoLive development is coordinated via email and internet chat (IRC) as detailed on the `OSGeoLive Wiki &lt;https://trac.osgeo.org/osgeolive#Communication&gt;`_.</seg>
       </tuv>
       <tuv lang="ja">
@@ -16610,6 +16642,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>QGIS Server provides a web map service (WMS) based on libraries from the QGIS desktop application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T003520Z" creationid="miurahr" creationdate="20201125T003520Z">
+        <seg>QGISサーバは、GIS(QGIS)デスクトップアプリケーションと同じライブラリを使用して、Webマップサービス(WMS)を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QGIS Server provides web map and feature services (WMS &amp; WFS) using the same libraries as the GIS (QGIS) desktop application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003126Z" creationid="miurahr" creationdate="20201103T003126Z">
@@ -17771,6 +17811,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select :file:`QGIS-NaturalEarth-Example.qgs` and press :guilabel:`Open`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004124Z" creationid="miurahr" creationdate="20201125T004124Z">
+        <seg> :file:`QGIS-NaturalEarth-Example.qgs` を選択して、 :guilabel:`Open` をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select :guilabel:`Install RELEASE`</seg>
       </tuv>
       <tuv lang="ja">
@@ -18615,6 +18663,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T141622Z" creationid="miurahr" creationdate="20201116T141622Z">
         <seg>EoxServerを起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start GeoExt viewer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T003742Z" creationid="miurahr" creationdate="20201125T003707Z">
+        <seg>GeoExt ビューアを起動する</seg>
       </tuv>
     </tu>
     <tu>
@@ -21481,8 +21537,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This Quick Start describes how to:</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>このクイックスタートでは、次の方法について説明します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T003526Z">
+        <seg>このクイックスタートでは、次の方法について説明します:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24071,6 +24127,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We will now change river styling and look at the result in the web map viewer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004241Z" creationid="miurahr" creationdate="20201125T004241Z">
+        <seg>さて、河川のスタイルを変更してwebマップビューアで確認してみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will now change the map styling using QGIS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004037Z" creationid="miurahr" creationdate="20201125T004037Z">
+        <seg>さて、これでQGISで地図スタイルを変更できるようになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We will now load a file by using the menu command :menuselection:`File --&gt; Open file` and selecting the file to load.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T231433Z" creationid="miurahr" creationdate="20201123T231433Z">
@@ -25751,6 +25823,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You should see the same world map rendered by QGIS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004147Z" creationid="miurahr" creationdate="20201125T004147Z">
+        <seg>QGISでレンダリングされた同じ地図が表示されるはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You type a line of code at the prompt, press return, and the R interpreter evaluates it and prints the result.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T142447Z" creationid="miurahr" creationdate="20201123T142447Z">
@@ -26827,6 +26907,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>(あらゆるデスクトップ GIS のための) 自由なズームや、あらゆる座標系のサポートを伴う、キャッシュからの ``GetMap`` レスポンス生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>create a new QGIS project and open the WMS directly in a browser</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T003653Z" creationid="miurahr" creationdate="20201125T003653Z">
+        <seg>新規 QGIS プロジェクトを作成し、WMS をブラウザで直接開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27915,6 +28003,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002151Z" creationid="miurahr" creationdate="20201103T002123Z">
         <seg>uDigは:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>update an existing QGIS project and render it with QGIS Server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T003553Z" creationid="miurahr" creationdate="20201125T003553Z">
+        <seg>既存のQGISプロジェクトを開いて、QGISサーバでレンダリングしましょう。</seg>
       </tuv>
     </tu>
     <tu>
