@@ -55,3 +55,5 @@ billboard	ビルボード
 extrusion	押し出し	3Dグラフィックス用語
 gazetteer	地名索引
 symbology	シンボロジー
+support	支援	文脈で使いわける
+symbol	シンボル
