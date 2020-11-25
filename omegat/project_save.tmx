@@ -4598,6 +4598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Browse to dataset :file:`/home/user/data/natural_earth2/ne_10m_admin_0_countries.shp`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004637Z" creationid="miurahr" creationdate="20201125T004637Z">
+        <seg>データセット :file:`/home/user/data/natural_earth2/ne_10m_admin_0_countries.shp` をさがします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Browse to the :file:`/home/user/data/spatialite` directory and choose :file:`trento.sqlite`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201121T134028Z" creationid="miurahr" creationdate="20201121T134028Z">
@@ -4950,6 +4958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change the color in Outline Options to a different blue tone.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004353Z" creationid="miurahr" creationdate="20201125T004353Z">
+        <seg>アウトラインオプションで、異なる青色へ変更してみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change the display</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T000743Z" creationid="miurahr" creationdate="20201117T000743Z">
@@ -5058,6 +5074,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T141952Z" creationid="miurahr" creationdate="20201120T141952Z">
         <seg>メニューバーから:menuselection:`Layer--&gt;Add`を選択して、**Add Data**ウィザードを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose :menuselection:`Project --&gt; New`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004554Z" creationid="miurahr" creationdate="20201125T004554Z">
+        <seg>:menuselection:`Project --&gt; New` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5218,6 +5242,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T034524Z" creationid="miurahr" creationdate="20201122T034524Z">
         <seg>:menuselection:`Geospatial--&gt;Webservices--&gt;istSOS`をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click :menuselection:`Layer --&gt; Add Layer --&gt; Add Vector Layer`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004613Z" creationid="miurahr" creationdate="20201125T004613Z">
+        <seg>:menuselection:`Layer --&gt; Add Layer --&gt; Add Vector Layer` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6174,6 +6206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create a new QGIS project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004535Z" creationid="miurahr" creationdate="20201125T004535Z">
+        <seg>新規QGISプロジェクトの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create a new map</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142937Z" creationid="miurahr" creationdate="20201116T142937Z">
@@ -6942,6 +6982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Documentation:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004848Z" creationid="miurahr" creationdate="20201125T004848Z">
+        <seg>ドキュメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Documentation: https://wiki.openstreetmap.org/wiki/ID</seg>
       </tuv>
       <tuv lang="ja">
@@ -6986,6 +7034,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231106Z" creationid="miurahr" creationdate="20201116T231106Z">
         <seg>レイヤのプレビューは既定のスタイルを使用しているため、あまり見栄えがしなくても心配ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double click :file:`ne_10m_rivers_lake_centerlines` in the Layers tree.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004309Z" creationid="miurahr" creationdate="20201125T004309Z">
+        <seg>レイヤツリーから、 :file:`ne_10m_rivers_lake_centerlines` をダブルクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15310,6 +15366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the `WMS URL &lt;http://localhost/cgi-bin/qgis_mapserv?map=/home/user/world.qgz&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetMap&amp;BBOX=-91.901820,-180.000000,83.633800,180.000000&amp;CRS=EPSG:4326&amp;WIDTH=722&amp;HEIGHT=352&amp;LAYERS=ne_10m_admin_0_countries&amp;STYLES=default&amp;FORMAT=image/png&amp;DPI=96&amp;TRANSPARENT=true&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004740Z" creationid="miurahr" creationdate="20201125T004740Z">
+        <seg> `WMS URL &lt;http://localhost/cgi-bin/qgis_mapserv?map=/home/user/world.qgz&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetMap&amp;BBOX=-91.901820,-180.000000,83.633800,180.000000&amp;CRS=EPSG:4326&amp;WIDTH=722&amp;HEIGHT=352&amp;LAYERS=ne_10m_admin_0_countries&amp;STYLES=default&amp;FORMAT=image/png&amp;DPI=96&amp;TRANSPARENT=true&gt;`_ を開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the browser and point it to http://localhost/cesium/Apps/HelloWorld.html</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134719Z" creationid="miurahr" creationdate="20201116T134651Z">
@@ -16222,10 +16286,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press :guilabel:`OK`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004400Z" creationid="miurahr" creationdate="20201125T004400Z">
+        <seg> :guilabel:`OK` をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press :guilabel:`Open`</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T142050Z" creationid="miurahr" creationdate="20201120T142050Z">
         <seg>:guilabel:`Open`を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press :guilabel:`Open`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004644Z" creationid="miurahr" creationdate="20201125T004644Z">
+        <seg> :guilabel:`Open` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16658,6 +16738,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>QGIS Web Client:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T005008Z" creationid="miurahr" creationdate="20201125T005008Z">
+        <seg>QGIS Web クライアント:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QGIS doesn't know they are lakes, so might not colour them blue for you - use the QGIS documentation to work out how to change this.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043743Z" creationid="miurahr" creationdate="20201108T043743Z">
@@ -16710,6 +16798,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quick start for Server Installation on Debian/Ubuntu:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004932Z" creationid="miurahr" creationdate="20201125T004932Z">
+        <seg>Debian/Ubuntuでのサーバ導入については:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17123,6 +17219,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reopen QGIS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004545Z" creationid="miurahr" creationdate="20201125T004545Z">
+        <seg>QGISをもう一度開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reopen the web browser.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004450Z" creationid="miurahr" creationdate="20201125T004450Z">
+        <seg>webブラウザをもういちど開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Repeat the process if needed or if you wish to change languages again.</seg>
       </tuv>
       <tuv lang="ja">
@@ -17295,6 +17407,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T142448Z" creationid="miurahr" creationdate="20201120T142448Z">
         <seg>現在、`HYP_50M_SR_W`レイヤは`ne10m admin0countries`レイヤの上に描画されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rivers are now rendered in a new color.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004420Z" creationid="miurahr" creationdate="20201125T004420Z">
+        <seg>河川が新しい色にレンダリングされました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17519,6 +17639,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T000809Z" creationid="miurahr" creationdate="20201117T000809Z">
         <seg>サテライトビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save the project with :menuselection:`Project --&gt; Save`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004434Z" creationid="miurahr" creationdate="20201125T004434Z">
+        <seg>:menuselection:`Project --&gt; Save` を選択して、プロジェクトを保存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22575,6 +22703,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To learn more about QGIS Server, a good starting point is the `QGIS User Guide`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004844Z" creationid="miurahr" creationdate="20201125T004844Z">
+        <seg>QGISの詳細については、`QGIS User Guide`_ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To learn more about QGIS, a good starting point is the `Documentation page`_ on the QGIS homepage and `A Gentle Introduction to GIS`_ eBook.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T020525Z" creationid="miurahr" creationdate="20201117T020525Z">
@@ -23331,6 +23467,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T000958Z" creationid="miurahr" creationdate="20201117T000943Z">
         <seg>Marbleのブックマークを使用して、表示したことのある位置を記憶します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use file name :file:`/home/user/world.qgs` and press :guilabel:`Save`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004724Z" creationid="miurahr" creationdate="20201125T004724Z">
+        <seg>ファイル名 :file:`/home/user/world.qgs` をつけて、 :guilabel:`Save` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25791,6 +25935,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You should see all world countries, this time rendered by QGIS Server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004801Z" creationid="miurahr" creationdate="20201125T004801Z">
+        <seg>QGISサーバでレンダリングされた世界地図が表示されるはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should see all world countries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004702Z" creationid="miurahr" creationdate="20201125T004702Z">
+        <seg>世界の国々のマップが表示されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You should see an informational message, and the prompt will change to show that you are now connected to the ``demo`` database.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041946Z" creationid="miurahr" creationdate="20201108T041946Z">
@@ -25899,6 +26059,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043536Z" creationid="miurahr" creationdate="20201108T043536Z">
         <seg>データベース内の空間テーブルのリストが表示されます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will now see rivers rendered in the same new color.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004524Z" creationid="miurahr" creationdate="20201125T004524Z">
+        <seg>河川が同じ色でレンダリングされていることがわかるはずです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26067,6 +26235,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043751Z" creationid="miurahr" creationdate="20201108T043751Z">
         <seg>カナダの有名な湖のグループを拡大表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoom in.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201125T004458Z" creationid="miurahr" creationdate="20201125T004458Z">
+        <seg>拡大ズームします。</seg>
       </tuv>
     </tu>
     <tu>
