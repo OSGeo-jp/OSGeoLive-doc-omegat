@@ -8,6 +8,7 @@ import argparse
 import polib
 import os
 from attrdict import AttrDict
+from docutils.parsers.rst import roles
 from docutils.parsers.rst.states import Inliner, Struct
 from docutils.utils import Reporter, new_document
 from io import StringIO
@@ -17,6 +18,16 @@ PO_EXT = ".po"
 # GOOD = 0
 # RST_SCHAR_MISMATCH = 200
 
+# https://www.sphinx-doc.org/en/1.8/usage/restructuredtext/roles.html
+SPHINX_ROLES = [
+    # Cross-referencing documents
+    'any', 'ref', 'doc', 'download', 'numref', 'envvar', 'token', 'keyword', 'option', 'term',
+    # Math
+    'math', 'eq',
+    # Other semantic markup
+    'abbr', 'command', 'dfn', 'file', 'guilabel', 'kbd', 'mailheader', 'makevar', 'manpage', 'menuselection',
+    'mimetype', 'newsgroup', 'program', 'regexp', 'samp', 'pep', 'rfc'
+]
 
 class Po:
     def __init__(self, inst, file, path):
@@ -31,7 +42,13 @@ class Main:
         parser.add_argument('directory', nargs='?', default=os.getcwd(), help="A directory to check (default is to check the current working directory)")
         self.args = parser.parse_args()
         self.type = PO_EXT
+        for role in SPHINX_ROLES:
+            roles.register_local_role(role, docutils_role_fn)
+        self.issue_count = 0
         self.load_files()
+        if self.issue_count > 0:
+            print("\n%d issues found" % self.issue_count)
+            exit(1)
 
     def print_issue(self, po, msgid, msgstr, issue, current_index):
         # print("po: %s" % po)
@@ -81,6 +98,8 @@ class Main:
 
             if issue_found:
                 self.print_issue(po, msgid, msgstr, res, po.current_index)
+                self.issue_count += 1
+
             po.current_index += 1
 
     def check_docutils_inliner(self, po, msgstr):
@@ -95,6 +114,10 @@ class Main:
         memo = Struct(document=document, reporter=reporter, language=None, inliner=inliner)
         inliner.parse(msgstr, po.current_index, memo, None)
         return stream.getvalue()
+
+
+def docutils_role_fn(typ, rawtext, text, lineno, inliner, options={}, content=[]):
+    return [], []
 
 
 if __name__ == "__main__":
