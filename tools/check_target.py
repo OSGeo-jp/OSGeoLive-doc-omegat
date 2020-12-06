@@ -50,12 +50,6 @@ class Main:
             exit(1)
 
     def load_files(self):
-        num_files = 0
-        for root, subFolders, files in os.walk(self.args.directory, topdown=False):
-            for file in files:
-                if file.endswith(PO_EXT):
-                    num_files += 1
-
         count_files = 0
         for root, subFolders, files in os.walk(self.args.directory, topdown=False):
             for file in files:
