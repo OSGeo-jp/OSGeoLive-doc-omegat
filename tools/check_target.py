@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-# coding=utf-8
+#!/usr/bin/env python3
 
 # Referred mint-check-translations, but changed much
 # https://github.com/linuxmint/mint-dev-tools/blob/master/usr/bin/mint-check-translations
