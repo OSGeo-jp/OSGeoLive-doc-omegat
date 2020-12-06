@@ -15,9 +15,6 @@ from io import StringIO
 
 PO_EXT = ".po"
 
-# GOOD = 0
-# RST_SCHAR_MISMATCH = 200
-
 # https://www.sphinx-doc.org/en/1.8/usage/restructuredtext/roles.html
 SPHINX_ROLES = [
     # Cross-referencing documents
@@ -29,6 +26,7 @@ SPHINX_ROLES = [
     'mimetype', 'newsgroup', 'program', 'regexp', 'samp', 'pep', 'rfc'
 ]
 
+
 class Po:
     def __init__(self, inst, file, path):
         self.inst = inst
@@ -38,26 +36,18 @@ class Po:
 
 class Main:
     def __init__(self):
-        parser = argparse.ArgumentParser(description='Check translation files')
-        parser.add_argument('directory', nargs='?', default=os.getcwd(), help="A directory to check (default is to check the current working directory)")
+        parser = argparse.ArgumentParser(description='Check target files')
+        parser.add_argument('directory', nargs='?', default='./target',
+                            help="A directory to check (default is to check './target')")
         self.args = parser.parse_args()
         self.type = PO_EXT
         for role in SPHINX_ROLES:
-            roles.register_local_role(role, docutils_role_fn)
+            roles.register_local_role(role, self.docutils_role_fn)
         self.issue_count = 0
         self.load_files()
         if self.issue_count > 0:
             print("\n%d issues found" % self.issue_count)
             exit(1)
-
-    def print_issue(self, po, msgid, msgstr, issue, current_index):
-        # print("po: %s" % po)
-        print("==========================")
-        print("file: %s" % po.file)
-        print("msgid: %s" % msgid)
-        print("msgstr: %s" % msgstr)
-        print("issue: %s" % issue)
-        # print("current_index: %s" % current_index)
 
     def load_files(self):
         num_files = 0
@@ -85,12 +75,6 @@ class Main:
             msgid = entry.msgid
             msgstr = entry.msgstr
             if ".rst" in str(entry):
-                # restructuredtext
-                # for special_char in ["``", "<", ">", "_", "-->", ":kbd:", ":guilabel:", "`"]:
-                #     if msgstr != "" and msgid.count(special_char) != msgstr.count(special_char):
-                #         issue_found = True
-                #         res = "Mismatch in RST special chars"
-                #         break
                 # Sphinx build equivalent
                 res = self.check_docutils_inliner(po, msgstr)
                 if len(res) > 0:
@@ -102,7 +86,12 @@ class Main:
 
             po.current_index += 1
 
-    def check_docutils_inliner(self, po, msgstr):
+    @staticmethod
+    def docutils_role_fn(typ, rawtext, text, lineno, inliner, options={}, content=[]):
+        return [], []
+
+    @staticmethod
+    def check_docutils_inliner(po, msgstr):
         inliner = Inliner()
         settings = AttrDict({'character_level_inline_markup': False, 'pep_references': None, 'rfc_references': None})
         inliner.init_customizations(settings)
@@ -115,9 +104,15 @@ class Main:
         inliner.parse(msgstr, po.current_index, memo, None)
         return stream.getvalue()
 
-
-def docutils_role_fn(typ, rawtext, text, lineno, inliner, options={}, content=[]):
-    return [], []
+    @staticmethod
+    def print_issue(po, msgid, msgstr, issue, current_index):
+        # print("po: %s" % po)
+        print("==========================")
+        print("file: %s" % po.file)
+        print("index: %s" % current_index)
+        print("msgid: %s" % msgid)
+        print("msgstr: %s" % msgstr)
+        print("issue: %s" % issue)
 
 
 if __name__ == "__main__":
