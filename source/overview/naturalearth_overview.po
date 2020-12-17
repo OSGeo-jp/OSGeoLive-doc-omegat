@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 14.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-21 10:22-0500\n"
+"POT-Creation-Date: 2020-12-15 14:20-0600\n"
 "PO-Revision-Date: 2017-09-20 16:10+0000\n"
 "Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2019\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
@@ -124,7 +124,7 @@ msgid "Details"
 msgstr "詳細"
 
 #: ../../build/doc/overview/naturalearth_overview.rst:56
-msgid "**Website:** http://www.naturalearthdata.com/"
+msgid "**Website:** https://www.naturalearthdata.com/"
 msgstr ""
 
 #: ../../build/doc/overview/naturalearth_overview.rst:58
@@ -144,5 +144,5 @@ msgid "**Spatial coordinate system:** WGS84."
 msgstr ""
 
 #: ../../build/doc/overview/naturalearth_overview.rst:66
-msgid "**Support:** https://www.naturalearthdata.com/forums/"
+msgid "**Support:** https://www.naturalearthdata.com/about"
 msgstr ""

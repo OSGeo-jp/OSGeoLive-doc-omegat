@@ -5,6 +5,7 @@
 # 
 # Translators:
 # Ko Nagase <nagase@georepublic.co.jp>, 2020
+# Vicky Vergara <vicky@georepublic.de>, 2020
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-21 10:22-0500\n"
 "PO-Revision-Date: 2017-09-20 16:04+0000\n"
-"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2020\n"
+"Last-Translator: Vicky Vergara <vicky@georepublic.de>, 2020\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -58,8 +59,8 @@ msgid ""
 "An OSGeoLive ISO image (downloaded from: :doc:`OSGeoLive downloads "
 "<../download>`) or converted from a DVD."
 msgstr ""
-"OSGeoLive ISOイメージ(: :doc:`OSGeoLive downloads "
-"<../download>`からダウンロード)またはDVDから変換されたもの。"
+"OSGeoLive ISOイメージ(: :doc:`OSGeoLive downloads <../download>` "
+"からダウンロード)またはDVDから変換されたもの。"
 
 #: ../../build/doc/quickstart/usb_quickstart.rst:21
 msgid ""
@@ -88,21 +89,22 @@ msgid ""
 " support UEFI boot). Under Linux, these images can be written directly to "
 "the block device for a USB drive with the ``dd`` command-line utility:"
 msgstr ""
-"OS "
-"GeoLive10.5以降のISOイメージは*isohybrid*です(amd64もサポートUEFIブート)。Linuxでは、``dd``コマンドラインユーティリティを使用して、これらのイメージをUSBドライブのブロックデバイスに直接書き込むことができます。"
+"OS GeoLive10.5以降のISOイメージは *isohybrid* です(amd64もサポートUEFIブート)。Linuxでは、``dd`` "
+"コマンドラインユーティリティを使用して、これらのイメージをUSBドライブのブロックデバイスに直接書き込むことができます。"
 
 #: ../../build/doc/quickstart/usb_quickstart.rst:33
 msgid ""
 "``/dev/sdX`` is the block device for the USB drive, where ``X`` might be "
 "``b`` or ``c``."
-msgstr "``/dev/sdX``はUSBドライブのブロックデバイスで、``X``は``b``または``c``かもしれません。"
+msgstr "``/dev/sdX`` はUSBドライブのブロックデバイスで、``X`` は ``b`` または ``c`` かもしれません。"
 
 #: ../../build/doc/quickstart/usb_quickstart.rst:34
 msgid ""
 "Use ``lsblk`` to list block devices and ``dmesg`` to see kernel messages "
 "identifying the USB drive when it is connected."
 msgstr ""
-"``lsblk``を使用してブロックデバイスを一覧表示し、``dmesg``を使用して接続時にUSBドライブを識別するカーネルメッセージを表示します。"
+"``lsblk`` を使用してブロックデバイスを一覧表示し、``dmesg`` "
+"を使用して接続時にUSBドライブを識別するカーネルメッセージを表示します。"
 
 #: ../../build/doc/quickstart/usb_quickstart.rst:35
 msgid "The USB drive should not be mounted."
@@ -110,13 +112,13 @@ msgstr "USBドライブはマウントされていないようにしてくださ
 
 #: ../../build/doc/quickstart/usb_quickstart.rst:36
 msgid "``sudo`` is not required if the command is run as ``root``."
-msgstr "``sudo``は、``root``としてコマンド実行している場合は必要ありません。"
+msgstr "``sudo`` は、``root`` としてコマンド実行している場合は必要ありません。"
 
 #: ../../build/doc/quickstart/usb_quickstart.rst:39
 msgid ""
 "Be certain to select the correct block device as ``dd`` will overwrite it "
 "without question, even if it is your primary system drive."
-msgstr "``dd``は、たとえプライマリシステムドライブであっても、問題なく上書きするので、正しいブロックデバイスを選択してください。"
+msgstr "``dd`` は、たとえプライマリシステムドライブであっても、問題なく上書きするので、正しいブロックデバイスを選択してください。"
 
 #: ../../build/doc/quickstart/usb_quickstart.rst:42
 msgid "Creating bootable USB drive with Ubuntu Startup Disk Creator"
@@ -143,8 +145,8 @@ msgid ""
 ":doc:`Download <../download>` osgeolive or osgeolive-mini to your computer's"
 " hard drive."
 msgstr ""
-"osgeoliveまたはosgeolive-miniをコンピュータのハードディスクに :doc:`ダウンロード "
-"<../download>`してください。"
+"osgeoliveまたはosgeolive-miniをコンピュータのハードディスクに :doc:`ダウンロード <../download>` "
+"してください。"
 
 #: ../../build/doc/quickstart/usb_quickstart.rst:51
 msgid ""
@@ -152,8 +154,8 @@ msgid ""
 " by running from an OSGeoLive DVD, as explained in "
 ":doc:`osgeolive_quickstart`."
 msgstr ""
-"最新のUbuntu/Xbuntuディストリビューションでコンピュータを起動します。これは、:doc:`osgeolive_クイックスタート`で説明されているように、OSGeoLive"
-" DVDから実行すること実行できます。"
+"最新のUbuntu/Xbuntuディストリビューションでコンピュータを起動します。これは、:doc:`osgeolive_quickstart` "
+"で説明されているように、OSGeoLive DVDから実行すること実行できます。"
 
 #: ../../build/doc/quickstart/usb_quickstart.rst:53
 msgid "Insert the USB flash drive into your computer."
@@ -164,8 +166,8 @@ msgid ""
 "Select :menuselection:`System Tools --> Startup Disk Creator`, or search for"
 " `Startup Disk Creator` from the Unity desktop."
 msgstr ""
-":menuselection:`System Tools-->Startup Disk Creator`を選択するか、デスクトップから`Startup "
-"Disk Creator`を検索します。"
+":menuselection:`System Tools-->Startup Disk Creator` を選択するか、デスクトップから`Startup"
+" Disk Creator`を検索します。"
 
 #: ../../build/doc/quickstart/usb_quickstart.rst:63
 msgid ""
@@ -184,7 +186,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/usb_quickstart.rst:67
 msgid "Select :guilabel:`Make Startup Disk`"
-msgstr ":guilabel:`Make Startup Disk`を選択します。"
+msgstr ":guilabel:`Make Startup Disk` を選択します。"
 
 #: ../../build/doc/quickstart/usb_quickstart.rst:72
 msgid "Wait 20 minutes or so for the USB flash drive to be created."
@@ -280,7 +282,8 @@ msgid ""
 "Alternative USB creation methods and latest tips are collected here: `wiki "
 "<https://wiki.osgeo.org/wiki/Live_GIS_Disc_Quick_Start_for_USB>`_"
 msgstr ""
-"代替のUSB作成方法と最新のヒントは、次の場所に集められています:`wiki<https://wiki.osgeo.org/wiki/Live_GIS_Disc_Quick_Start_for_USB>`_"
+"代替のUSB作成方法と最新のヒントは、次の場所に集められています:`wiki<https://wiki.osgeo.org/wiki/Live_GIS_Disc_Quick_Start_for_USB>`"
+" _"
 
 #: ../../build/doc/quickstart/usb_quickstart.rst:104
 msgid ""

@@ -5,17 +5,17 @@
 # 
 # Translators:
 # MarPetra <mvergaratrejo@gmail.com>, 2020
-# Vicky Vergara <vicky@georepublic.de>, 2020
 # Ko Nagase <nagase@georepublic.co.jp>, 2020
+# Vicky Vergara <vicky@georepublic.de>, 2020
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 14.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-21 10:22-0500\n"
+"POT-Creation-Date: 2020-11-28 22:14-0600\n"
 "PO-Revision-Date: 2017-09-20 16:03+0000\n"
-"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2020\n"
+"Last-Translator: Vicky Vergara <vicky@georepublic.de>, 2020\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -58,11 +58,9 @@ msgstr "このサンプルでは、 `city_routing` というデータベース�
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:35
 msgid ""
-"Open a :menuselection:`Applications --> Accessories --> Terminal` window and"
-" open up psql: (psql is the commandline tool packaged with PostgreSQL)"
+"Open a :menuselection:`System Tools --> LXTerminal` window and open up psql:"
+" (psql is the commandline tool packaged with PostgreSQL)"
 msgstr ""
-"メニューから :menuselection:`システムツール --> LXTerminal` を開き、 psql を起動します: (psql "
-"は、PostgreSQL にパッケージされているコマンドラインツールです)"
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:41
 msgid "At psql prompt type:"
@@ -121,11 +119,9 @@ msgstr "pgRouting の実行"
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:113
 msgid ""
-"Open a :menuselection:`Applications --> Accessories --> Terminal` window and"
-" connect to the ``city_routing`` database:"
+"Open a :menuselection:`System Tools --> LXTerminal` window and connect to "
+"the ``city_routing`` database:"
 msgstr ""
-"メニューから、 :menuselection:`システムツール --> LXTerminal` を開き、 ``city_routing`` "
-"データベースに接続します:"
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:119
 msgid "Type :command:`\\\\d` will list you all available tables:"
@@ -208,8 +204,8 @@ msgid ""
 " DB Manager -> DB Manager``. Select the SQL Window icon and cut and paste "
 "the above pgRouting Query."
 msgstr ""
-"QGISのDbManager拡張機能を使用するには、QGISを開き、``Database->DB Manager->DB "
-"Manager``に移動します。SQLウィンドウアイコンを選択し、上記のpgRouting Queryをカット&ペーストします。"
+"QGISのDbManager拡張機能を使用するには、QGISを開き、 ``Database->DB Manager->DB Manager`` "
+"に移動します。SQLウィンドウアイコンを選択し、上記のpgRouting Queryをカット&ペーストします。"
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:267
 msgid "Run the Dijkstra shortest path function with considering direction."
@@ -253,9 +249,9 @@ msgid ""
 " and OpenStreetMap road data\"` is available in: "
 "https://workshop.pgrouting.org."
 msgstr ""
-"**pgRouting Workshop**-ワークショップ`\"pgRouting "
-"toolsとOpenStreetMap道路データを使用したFOSS4Gルーティング\"``は:https://workshop.pgrouting.org"
-" で利用可能です。"
+"**pgRouting Workshop**-ワークショップ `\"pgRouting "
+"toolsとOpenStreetMap道路データを使用したFOSS4Gルーティング\"` は: "
+"https://workshop.pgrouting.org で利用可能です。"
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:293
 msgid ""
