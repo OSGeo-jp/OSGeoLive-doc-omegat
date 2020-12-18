@@ -3408,8 +3408,8 @@
       <tuv lang="en-US">
         <seg>A map shows data contained within layers, so we have created a tiled layer, represented by the ``ol.layer.Tile`` class, that loads content from the OpenStreetMap project, using the ``ol.source.OSM`` source class.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T021026Z" creationid="miurahr" creationdate="20201108T015633Z">
-        <seg>レイヤ内にマップのデータを表示するため、``ol.source.OSM``ソースクラスを使用してOpenStreetMapプロジェクトからコンテンツをロードするようにしたタイルレイヤの``ol.layer.Tile``クラスを作成しました。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071220Z" creationid="miurahr" creationdate="20201108T015633Z">
+        <seg>レイヤ内にマップのデータを表示するため、 ``ol.source.OSM`` ソースクラスを使用してOpenStreetMapプロジェクトからコンテンツをロードするようにしたタイルレイヤの ``ol.layer.Tile`` クラスを作成しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3560,8 +3560,8 @@
       <tuv lang="en-US">
         <seg>A style is represented by the ``ol.style.Style`` class which has properties to set the ``fill``, ``stroke``, ``text`` and ``image`` to be applied.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T020714Z" creationid="miurahr" creationdate="20201108T020258Z">
-        <seg>スタイルは、``ol.style.Style``クラスによって表され、このクラスは、適用される``fill``、``stroke``、``text``および``image``を設定するプロパティを有する。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071414Z" creationid="miurahr" creationdate="20201108T020258Z">
+        <seg>スタイルは、 ``ol.style.Style`` クラスによって表され、このクラスは、適用される ``fill`` 、 ``stroke`` 、 ``text`` および ``image`` を設定するプロパティを有する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3904,8 +3904,8 @@
       <tuv lang="en-US">
         <seg>Add them manually with the ``map.addLayer()`` method:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T020913Z" creationid="miurahr" creationdate="20201108T015933Z">
-        <seg>``map.addLayer()``メソッドを使って手動で追加します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071253Z" creationid="miurahr" creationdate="20201108T015933Z">
+        <seg>``map.addLayer()`` メソッドを使って手動で追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8928,8 +8928,8 @@
       <tuv lang="en-US">
         <seg>Events can be easily registered on an object with the ``on()`` method and unregistered with ``un()``.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T021334Z" creationid="miurahr" creationdate="20201108T021334Z">
-        <seg>イベントは``on()``メソッドでオブジェクトに簡単に登録でき、``un()``で登録解除できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071455Z" creationid="miurahr" creationdate="20201108T021334Z">
+        <seg>イベントは ``on()`` メソッドでオブジェクトに簡単に登録でき、 ``un()`` で登録解除できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9280,8 +9280,8 @@
       <tuv lang="en-US">
         <seg>Finally, we set the initial position of the *camera* using the ``ol.View`` class, set the initial zoom level and center location.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T021011Z" creationid="miurahr" creationdate="20201108T015639Z">
-        <seg>最後に、``ol.View``クラスを使用して*camera*の初期位置を設定し、初期ズームレベルと中心位置を設定します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071228Z" creationid="miurahr" creationdate="20201108T015639Z">
+        <seg>最後に、 ``ol.View`` クラスを使用して*camera*の初期位置を設定し、初期ズームレベルと中心位置を設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12728,8 +12728,8 @@
       <tuv lang="en-US">
         <seg>In the code, we have loaded a TopoJSON file and styled it through the ``style`` property.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T020815Z" creationid="miurahr" creationdate="20201108T020548Z">
-        <seg>このコードでは、TopoJSONファイルをロードし、``style``プロパティーを使ってスタイルを設定しています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071422Z" creationid="miurahr" creationdate="20201108T020548Z">
+        <seg>このコードでは、TopoJSONファイルをロードし、 ``style`` プロパティーを使ってスタイルを設定しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16648,8 +16648,8 @@
       <tuv lang="en-US">
         <seg>Note, in the previous code we must change the ``url_to_file`` to point to a valid GeoJSON file placed in our server.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T020830Z" creationid="miurahr" creationdate="20201108T020013Z">
-        <seg>前のコードでは、サーバに置かれた有効なGeoJSONファイルを指すように``url_to_file``を変更する必要があることに注意してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071313Z" creationid="miurahr" creationdate="20201108T020013Z">
+        <seg>前のコードでは、サーバに置かれた有効なGeoJSONファイルを指すように ``url_to_file`` を変更する必要があることに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23736,8 +23736,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The default renderer is *canvas*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T015432Z" creationid="miurahr" creationdate="20201108T015432Z">
-        <seg>既定のレンダラーは*canvas*です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071214Z" creationid="miurahr" creationdate="20201108T015432Z">
+        <seg>既定のレンダラーは *canvas* です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25873,8 +25873,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Tiled layers are represented by the ``ol.layer.Tile`` class and must use a source that knows how to load tiles from a given provider, like ``ol.source.OSM`` or ``ol.source.Stamen``:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T020950Z" creationid="miurahr" creationdate="20201108T015814Z">
-        <seg>タイルレイヤーは``ol.layer.Tile``クラスで表され、``ol.source.OSM``または``ol.source.Stamen``のように、特定のプロバイダからタイルをロードする方法を知っているソースを使用する必要があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071237Z" creationid="miurahr" creationdate="20201108T015814Z">
+        <seg>タイルレイヤーは ``ol.layer.Tile`` クラスで表され、 ``ol.source.OSM`` または ``ol.source.Stamen`` のように、特定のプロバイダからタイルをロードする方法を知っているソースを使用する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27257,8 +27257,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Vector layers are represented by the ``ol.layer.Vector`` class and must use a source suitable for reading the vector format, like ``ol.source.GeoJSON``, ``ol.source.KML`` or ``ol.source.TopoJSON``.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T020904Z" creationid="miurahr" creationdate="20201108T020006Z">
-        <seg>ベクタレイヤは``ol.layer.Vector``クラスで表され、``ol.source.GeoJSON``、``ol.source.KML``、``ol.source.TopoJSON``など、ベクタフォーマットの読み込みに適したソースを使用する必要があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071308Z" creationid="miurahr" creationdate="20201108T020006Z">
+        <seg>ベクタレイヤは ``ol.layer.Vector`` クラスで表され、 ``ol.source.GeoJSON`` 、 ``ol.source.KML`` 、 ``ol.source.TopoJSON`` など、ベクタフォーマットの読み込みに適したソースを使用する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27705,8 +27705,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>We have set a ``fill`` and ``stroke``, required for lines and polygons, and an ``image`` (in this case a circle) used for point features.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T020751Z" creationid="miurahr" creationdate="20201108T020640Z">
-        <seg>ラインとポリゴンに必要な``fill``と``stroke``、およびポイントフィーチャに使用する``image``(この場合は円)を設定しました。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071439Z" creationid="miurahr" creationdate="20201108T020640Z">
+        <seg>ラインとポリゴンに必要な ``fill`` と ``stroke`` 、およびポイントフィーチャに使用する ``image`` (この場合は円)を設定しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28257,8 +28257,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>When constructing the ``ol.Map``, use the ``layers`` property:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T020929Z" creationid="miurahr" creationdate="20201108T015923Z">
-        <seg>``ol.Map``を作成する場合は、``layers``プロパティを使用します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071242Z" creationid="miurahr" creationdate="20201108T015923Z">
+        <seg>``ol.Map`` を作成する場合は、 ``layers`` プロパティを使用します。</seg>
       </tuv>
     </tu>
     <tu>
