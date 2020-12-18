@@ -6616,8 +6616,8 @@
       <tuv lang="en-US">
         <seg>Click the checkbox next to the 'ne_10m_populated_places' layer to turn it on.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T120346Z" creationid="miurahr" creationdate="20201103T120346Z">
-        <seg>'ne_10m_populated_places'レイヤの横にあるチェックボックスをオンにします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085113Z" creationid="miurahr" creationdate="20201103T120346Z">
+        <seg>'ne_10m_populated_places' レイヤの横にあるチェックボックスをオンにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9056,8 +9056,8 @@
       <tuv lang="en-US">
         <seg>Extend QGIS functionality with `Plugins &lt;https://docs.qgis.org/3.4/en/docs/user_manual/plugins/plugins.html&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T015703Z" creationid="miurahr" creationdate="20201117T015703Z">
-        <seg>`プラグイン &lt;https://docs.qgis.org/3.4/en/docs/user_manual/plugins/plugins.html&gt;`_を使用してQGIS機能を拡張します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085333Z" creationid="miurahr" creationdate="20201117T015703Z">
+        <seg>`プラグイン &lt;https://docs.qgis.org/3.4/en/docs/user_manual/plugins/plugins.html&gt;`_ を使用してQGIS機能を拡張します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14736,8 +14736,8 @@
       <tuv lang="en-US">
         <seg>Left-Click on the layer 'HYP_50M_SR_W'.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T014533Z" creationid="miurahr" creationdate="20201117T014533Z">
-        <seg>レイヤ'HYP_50M_SR_W`を左クリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085215Z" creationid="miurahr" creationdate="20201117T014533Z">
+        <seg>レイヤ 'HYP_50M_SR_W' を左クリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16392,8 +16392,8 @@
       <tuv lang="en-US">
         <seg>Navigate to '/home/user/qgis-example'.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T114121Z" creationid="miurahr" creationdate="20201103T114121Z">
-        <seg> '/home/user/qgis-example'に移動します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085057Z" creationid="miurahr" creationdate="20201103T114121Z">
+        <seg> '/home/user/qgis-example' に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21301,8 +21301,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select the 'Zoom in' tool from the navigation toolbar.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T015110Z" creationid="miurahr" creationdate="20201117T015110Z">
-        <seg>ナビゲーションツールバーから'ズームイン'ツールを選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085253Z" creationid="miurahr" creationdate="20201117T015110Z">
+        <seg>ナビゲーションツールバーから 'ズームイン' ツールを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21413,8 +21413,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select the project 'QGIS-NaturalEarth-Example.qgs'.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T120201Z" creationid="miurahr" creationdate="20201103T120201Z">
-        <seg>プロジェクト'QGIS-NaturalEarth-Example.qgs'を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085101Z" creationid="miurahr" creationdate="20201103T120201Z">
+        <seg>プロジェクト 'QGIS-NaturalEarth-Example.qgs' を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22285,8 +22285,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Start manipulating data with the `Processing toolbox &lt;https://docs.qgis.org/3.4/en/docs/user_manual/processing/toolbox.html&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T015730Z" creationid="miurahr" creationdate="20201117T015719Z">
-        <seg>`処理ツールボックス &lt;https://docs.qgis.org/3.4/en/docs/user_manual/processing/toolbox.html&gt;`_を使用してデータの操作してみます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085355Z" creationid="miurahr" creationdate="20201117T015719Z">
+        <seg>`プロセシング ツールボックス &lt;https://docs.qgis.org/3.4/en/docs/user_manual/processing/toolbox.html&gt;`_ を使用してデータの操作してみます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26593,8 +26593,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Try moving the 'HYP_50M_SR_W' layer to the bottom of the layer list.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T014715Z" creationid="miurahr" creationdate="20201117T014715Z">
-        <seg>'HYP_50M_SR_W'レイヤをレイヤリストの一番下に移動してみてください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085221Z" creationid="miurahr" creationdate="20201117T014715Z">
+        <seg>'HYP_50M_SR_W' レイヤをレイヤリストの一番下に移動してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27649,8 +27649,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>We can now see the 'ne_10m_populated_places' layer as points, but can no longer see the rivers and lakes which are within the 'Waters' layer.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T013729Z" creationid="miurahr" creationdate="20201117T013729Z">
-        <seg>現在では、`ne_10m_populated_places`レイヤをポイントとして見ることができますが、`Waters`レイヤ内の河川や湖を見ることはできません。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085149Z" creationid="miurahr" creationdate="20201117T013729Z">
+        <seg>現在では、 'ne_10m_populated_places' レイヤをポイントとして見ることができますが、 'Waters' レイヤ内の河川や湖を見ることはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28505,8 +28505,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>With the style dock now open, we can modify the colour and the width of the lines in the 'ne_10m_rivers_lakes_centrelines' layer.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T015430Z" creationid="miurahr" creationdate="20201117T015430Z">
-        <seg>スタイルの枠が開いた状態で、'ne_10m_rivers_lakes_centrelines'レイヤの線の色と幅を変更できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085327Z" creationid="miurahr" creationdate="20201117T015430Z">
+        <seg>スタイルの枠が開いた状態で、 'ne_10m_rivers_lakes_centrelines' レイヤの線の色と幅を変更できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29937,8 +29937,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>[1] Pan: Allows the map to be dragged ('panned') to a new location.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T015048Z" creationid="miurahr" creationdate="20201117T014854Z">
-        <seg>[1]パン: マップを新しい位置にドラッグ(「パン」)できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085227Z" creationid="miurahr" creationdate="20201117T014854Z">
+        <seg>[1] パン: マップを新しい位置にドラッグ(「パン」)できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29961,8 +29961,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>[2] Zoom in: Allows the map extent to be zoomed in.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T014900Z" creationid="miurahr" creationdate="20201117T014900Z">
-        <seg>[2]ズームイン:マップの範囲をズームインできます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085229Z" creationid="miurahr" creationdate="20201117T014900Z">
+        <seg>[2] ズームイン: マップの範囲をズームインできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29985,8 +29985,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>[3] Zoom out: Allows the map to be zoomed out.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T014917Z" creationid="miurahr" creationdate="20201117T014917Z">
-        <seg>[3]ズームアウト:マップのズームアウトを許可します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085232Z" creationid="miurahr" creationdate="20201117T014917Z">
+        <seg>[3] ズームアウト: マップのズームアウトを許可します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30009,8 +30009,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>[4] Zoom to full extent: Changes the map extent to fit all of the map layers into the map frame.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T014937Z" creationid="miurahr" creationdate="20201117T014923Z">
-        <seg>[4]全範囲ズーム: マップの範囲を変更して、すべてのマップレイヤーをマップの枠に合わせます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085238Z" creationid="miurahr" creationdate="20201117T014923Z">
+        <seg>[4] 全範囲ズーム: マップの範囲を変更して、すべてのマップレイヤーをマップの枠に合わせます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30025,8 +30025,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>[5] Zoom to layer: Changes the map extent to fit the extent of the layer highlighted in the layer panel.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T014934Z" creationid="miurahr" creationdate="20201117T014934Z">
-        <seg>[5]レイヤにズーム: マップパネルで強調表示されているレイヤの範囲に合わせてレイヤの範囲を変更します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085243Z" creationid="miurahr" creationdate="20201117T014934Z">
+        <seg>[5] レイヤにズーム: マップパネルで強調表示されているレイヤの範囲に合わせてレイヤの範囲を変更します。</seg>
       </tuv>
     </tu>
     <tu>
