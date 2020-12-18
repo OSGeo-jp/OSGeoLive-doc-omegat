@@ -624,8 +624,8 @@
       <tuv lang="en-US">
         <seg>**JOSM** (Java OpenStreetMap Editor) is an advanced editor for OpenStreetMap (OSM) written in Java.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T052244Z" creationid="miurahr" creationdate="20201102T052244Z">
-        <seg>**JOSM**(Java OpenStreetMap Editor)は、Javaで記述されたOpenStreetMap(OSM)用の高度なエディタです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T055421Z" creationid="miurahr" creationdate="20201102T052244Z">
+        <seg>**JOSM** (Java OpenStreetMap Editor)は、Javaで記述されたOpenStreetMap(OSM)用の高度なエディタです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -896,8 +896,8 @@
       <tuv lang="en-US">
         <seg>**Merkaartor** is a map editor for OpenStreetMap which uses the Qt toolkit.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T052301Z" creationid="miurahr" creationdate="20201102T052301Z">
-        <seg>**Merkaartor**は、Qtツールキットを使用するOpenStreetMap用のマップエディタです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T055438Z" creationid="miurahr" creationdate="20201102T052301Z">
+        <seg>**Merkaartor** は、Qtツールキットを使用するOpenStreetMap用のマップエディタです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -928,8 +928,8 @@
       <tuv lang="en-US">
         <seg>**Osmosis** is a highly capable utility program for performing many tasks at a raw level on OSM data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T052357Z" creationid="miurahr" creationdate="20201102T052345Z">
-        <seg>**Osmosis**は、OSMデータに対して生データのレベルで多くのタスクを実行するための高機能ユーティリティプログラムです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T055505Z" creationid="miurahr" creationdate="20201102T052345Z">
+        <seg>**Osmosis** は、OSMデータに対して生データのレベルで多くのタスクを実行するための高機能ユーティリティプログラムです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2280,8 +2280,8 @@
       <tuv lang="en-US">
         <seg>**iD** is the default on-line editor for OpenStreetMap (OSM).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T052231Z" creationid="miurahr" creationdate="20201102T052231Z">
-        <seg>**iD**は、OpenStreetMap(OSM)のデフォルトのオンラインエディタです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T055400Z" creationid="miurahr" creationdate="20201102T052231Z">
+        <seg>**iD** は、OpenStreetMap(OSM)のデフォルトのオンラインエディタです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18000,16 +18000,16 @@
       <tuv lang="en-US">
         <seg>Online help: https://wiki.openstreetmap.org/wiki/Merkaartor/Documentation</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>オンラインヘルプ： https://wiki.openstreetmap.org/wiki/Merkaartor/Documentation</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T055527Z">
+        <seg>オンラインヘルプ: https://wiki.openstreetmap.org/wiki/Merkaartor/Documentation</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Online help: https://wiki.openstreetmap.org/wiki/QGIS#QGIS_2:_Importing_OSM_vector_layers</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>オンラインヘルプ： https://wiki.openstreetmap.org/wiki/QGIS#QGIS_2:_Importing_OSM_vector_layers</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T055518Z">
+        <seg>オンラインヘルプ: https://wiki.openstreetmap.org/wiki/QGIS#QGIS_2:_Importing_OSM_vector_layers</seg>
       </tuv>
     </tu>
     <tu>
@@ -18384,8 +18384,8 @@
       <tuv lang="en-US">
         <seg>OpenStreetMap data can be loaded in **QGIS** as vector layer, as a core functionality or through plugins like QuickOSM.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T052334Z" creationid="miurahr" creationdate="20201102T052334Z">
-        <seg>OpenStreetMapデータは、ベクトルレイヤとして、コア機能として、またはQuickOSMのようなプラグインを通じて、**QGIS**にロードすることができます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T055453Z" creationid="miurahr" creationdate="20201102T052334Z">
+        <seg>OpenStreetMapデータは、ベクトルレイヤとして、コア機能として、またはQuickOSMのようなプラグインを通じて、 **QGIS** にロードすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19488,8 +19488,8 @@
       <tuv lang="en-US">
         <seg>Programs that work with OSM data</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T052222Z" creationid="miurahr" creationdate="20201102T052222Z">
-        <seg>OS Mデータを扱うプログラム</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T055348Z" creationid="miurahr" creationdate="20201102T052222Z">
+        <seg>OSMデータを扱うプログラム</seg>
       </tuv>
     </tu>
     <tu>
