@@ -2360,8 +2360,8 @@
       <tuv lang="en-US">
         <seg>*Do not draw all these ways in one line* so that the inner contours suspend from the outer contour.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053213Z" creationid="miurahr" creationdate="20201103T053213Z">
-        <seg>*これらのすべての方法を1本の線で描画しないでください*。内側の輪郭線が外側の輪郭線から一時停止します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084521Z" creationid="miurahr" creationdate="20201103T053213Z">
+        <seg>*これらのすべての方法を1本の線で描画しないでください。* 内側の輪郭線が外側の輪郭線から一時停止します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2432,8 +2432,8 @@
       <tuv lang="en-US">
         <seg>*Resolving conflicts often involves accepting the other persons edits, in which case you will probably wish to return to the feature in question and edit again (**this time save soon after the edit to try to avoid a conflict again!**).*</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053348Z" creationid="miurahr" creationdate="20201103T053348Z">
-        <seg>*コンフリクトを解決するには、多くの場合、他のユーザによる編集を受け入れる必要があります。その場合は、問題のフィーチャーに戻って再度編集することをお勧めします(**今回は編集後すぐに保存して、再度コンフリクトを回避します!**)。*</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084619Z" creationid="miurahr" creationdate="20201103T053348Z">
+        <seg>*コンフリクトを解決するには、多くの場合、他のユーザによる編集を受け入れる必要があります。その場合は、問題のフィーチャーに戻って再度編集することをお勧めします (**今回は編集後すぐに保存して、再度コンフリクトを回避します!**)。*</seg>
       </tuv>
     </tu>
     <tu>
@@ -3544,8 +3544,8 @@
       <tuv lang="en-US">
         <seg>A special note about **Deleting**: In general you should avoid deleting other people's mapping if it just needs improvement.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053026Z" creationid="miurahr" creationdate="20201103T053026Z">
-        <seg>**削除**に関する特記事項: 一般的に、改善が必要な場合は、他のユーザのマッピングを削除しないようにしてください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084449Z" creationid="miurahr" creationdate="20201103T053026Z">
+        <seg>**削除** に関する特記事項: 一般的に、改善が必要な場合は、他のユーザのマッピングを削除しないようにしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8768,8 +8768,8 @@
       <tuv lang="en-US">
         <seg>Enter a comment about your edits and click **Save**.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053339Z" creationid="miurahr" creationdate="20201103T053339Z">
-        <seg>編集内容についてのコメントを入力し、**保存**をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084546Z" creationid="miurahr" creationdate="20201103T053339Z">
+        <seg>編集内容についてのコメントを入力し、 **保存** をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12168,8 +12168,8 @@
       <tuv lang="en-US">
         <seg>If you have edited the same feature (point, way or area) at the same time as another person was editing it, you will receive a warning that your edits cannot be uploaded until you have resolved the **conflicts** - choose whose edits to accept &amp; upload your changes.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053343Z" creationid="miurahr" creationdate="20201103T053343Z">
-        <seg>他のユーザが編集していたのと同時に同じフィーチャ(点、経路、または領域)を編集した場合は、**衝突**を解決するまで編集をアップロードできないという警告が表示されます。変更を受け入れてアップロードする編集を選択してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084554Z" creationid="miurahr" creationdate="20201103T053343Z">
+        <seg>他のユーザが編集していたのと同時に同じフィーチャ(点、経路、または領域)を編集した場合は、 **衝突** を解決するまで編集をアップロードできないという警告が表示されます。変更を受け入れてアップロードする編集を選択してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20101,8 +20101,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Rather draw these contours separate, attach tags to the outer contour only, select all contours and hit **c** in order to combine them into what is called a multipolygon.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053224Z" creationid="miurahr" creationdate="20201103T053224Z">
-        <seg>むしろ、これらの等高線を別々に描き、外側の等高線のみにタグを付け、すべての等高線を選択して**c**を押し、それらをいわゆるマルチポリゴンに結合します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084529Z" creationid="miurahr" creationdate="20201103T053224Z">
+        <seg>むしろ、これらの等高線を別々に描き、外側の等高線のみにタグを付け、すべての等高線を選択して **c** を押し、それらをいわゆるマルチポリゴンに結合します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25929,8 +25929,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To add a new multi-sided shape, click on the **Area** button.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053056Z" creationid="miurahr" creationdate="20201103T053056Z">
-        <seg>新しい多辺形状を追加するには、**領域**ボタンをクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084501Z" creationid="miurahr" creationdate="20201103T053056Z">
+        <seg>新しい多辺形状を追加するには、 **領域** ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28209,8 +28209,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>When (and if) you want to save your edits to OpenStreetMap, click the **Save** button.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053331Z" creationid="miurahr" creationdate="20201103T053331Z">
-        <seg>編集内容をOpenStreetMapに保存する場合は、[**保存**]ボタンをクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084542Z" creationid="miurahr" creationdate="20201103T053331Z">
+        <seg>編集内容をOpenStreetMapに保存する場合は、 **[保存]** ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28953,8 +28953,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can delete your own mistakes, but you should try to *adjust* other people's mapped objects if they need changes.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053036Z" creationid="miurahr" creationdate="20201103T053036Z">
-        <seg>自分の間違いを削除することもできますが、変更が必要な場合は、他のユーザのマッピングされたオブジェクトを*調整*してみてください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084455Z" creationid="miurahr" creationdate="20201103T053036Z">
+        <seg>自分の間違いを削除することもできますが、変更が必要な場合は、他のユーザのマッピングされたオブジェクトを *調整* してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36719,10 +36719,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|image35|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084503Z" creationid="sanak" creationdate="20201218T084503Z">
+        <seg>|image35|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|image36|</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|image36|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|image44|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084623Z" creationid="sanak" creationdate="20201218T084623Z">
+        <seg>|image44|</seg>
       </tuv>
     </tu>
     <tu>
