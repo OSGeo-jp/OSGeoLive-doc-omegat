@@ -18080,8 +18080,8 @@
       <tuv lang="en-US">
         <seg>Open a terminal (:menuselection:`System Tools --&gt; LXTerminal`) and type::</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T052438Z" creationid="smellman" creationdate="20201103T052438Z">
-        <seg>端末を開き(:menuselection:`System Tools--&gt;LXTerminal`)、次を入力します::</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T065913Z" creationid="smellman" creationdate="20201103T052438Z">
+        <seg>端末を開き(:menuselection:`System Tools --&gt; LXTerminal`)、次を入力します::</seg>
       </tuv>
     </tu>
     <tu>
