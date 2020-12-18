@@ -8264,8 +8264,8 @@
       <tuv lang="en-US">
         <seg>Download `Virtual Box &lt;https://www.virtualbox.org/&gt;`_  for your platform, and install the software.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113432Z" creationid="miurahr" creationdate="20201103T113432Z">
-        <seg>`Virtual Box&lt;https://www.virtualbox.org/&gt;&lt;https://www.virtualbox.org/&gt;`_をダウンロードし、ソフトウェアをインストールしてください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T070446Z" creationid="miurahr" creationdate="20201103T113432Z">
+        <seg>`Virtual Box &lt;https://www.virtualbox.org/&gt;`_ をダウンロードし、ソフトウェアをインストールしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12496,8 +12496,8 @@
       <tuv lang="en-US">
         <seg>In addition download the OSGeo Virtual disk file (vmdk) from :doc:`live.osgeo.org &lt;../download&gt;`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113442Z" creationid="miurahr" creationdate="20201103T113442Z">
-        <seg>さらに、doc:`live.osgeo.org&lt;./download&gt;`からOSGeo仮想ディスクファイル(vmdk)をダウンロードします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T070505Z" creationid="miurahr" creationdate="20201103T113442Z">
+        <seg>さらに、doc:`live.osgeo.org&lt;../download&gt;` からOSGeo仮想ディスクファイル(vmdk)をダウンロードします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21917,8 +21917,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Spare Hard Disk Space: The virtual disk file (vmdk) from :doc:`live.osgeo.org &lt;../download&gt;`  unzips to almost 10 GB.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113354Z" creationid="miurahr" creationdate="20201103T113354Z">
-        <seg>ハードディスクの空き容量:doc:`live.osgeo.org&lt;./download&gt;`の仮想ディスクファイル(vmdk)は、ほぼ10GBに解凍されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T070342Z" creationid="miurahr" creationdate="20201103T113354Z">
+        <seg>ハードディスクの空き容量 :doc:`live.osgeo.org&lt;./download&gt;` の仮想ディスクファイル(vmdk)は、ほぼ10GBに解凍されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24720,8 +24720,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Then unzip the downloaded file (using `7zip &lt;https://www.7-zip.org&gt;`_ ).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113449Z" creationid="miurahr" creationdate="20201103T113449Z">
-        <seg>次に、ダウンロードしたファイルを解凍します(`7zip&lt;https://www7-zip.org&gt;`_)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T070526Z" creationid="miurahr" creationdate="20201103T113449Z">
+        <seg>次に、ダウンロードしたファイルを解凍します(`7zip &lt;https://www7-zip.org&gt;`_)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28865,8 +28865,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can check your computer CPU `here &lt;https://www.intel.com/content/www/us/en/support/articles/000005486/processors.html&gt;`__.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113425Z" creationid="miurahr" creationdate="20201103T113425Z">
-        <seg>あなたのコンピュータのCPUはここ&lt;https://www.intel.com/content/www/us/en/support/articles/000005486/processors.html&gt;で確認できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T070425Z" creationid="miurahr" creationdate="20201103T113425Z">
+        <seg>あなたのコンピュータのCPUは `ここ &lt;https://www.intel.com/content/www/us/en/support/articles/000005486/processors.html&gt;`__ で確認できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30225,8 +30225,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`Other ways to create a Virtual Machine &lt;https://wiki.osgeo.org/wiki/Live_GIS_Virtual_Machine&gt;`_</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113655Z" creationid="miurahr" creationdate="20201103T113655Z">
-        <seg>`仮想マシンを作成するその他の方法&lt;https://wiki.osgeo.org/wiki/Live_GIS_Virtual_Machine&gt;`_</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T070546Z" creationid="miurahr" creationdate="20201103T113655Z">
+        <seg>`仮想マシンを作成するその他の方法 &lt;https://wiki.osgeo.org/wiki/Live_GIS_Virtual_Machine&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
