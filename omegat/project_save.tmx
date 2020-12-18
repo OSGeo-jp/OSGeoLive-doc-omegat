@@ -2240,8 +2240,8 @@
       <tuv lang="en-US">
         <seg>**What will I learn ?** You will learn how to add a new layer object definition to your Mapfile.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T022405Z" creationid="miurahr" creationdate="20201103T022405Z">
-        <seg>**何を学べますか?**新しいレイヤオブジェクト定義をMapfileに追加する方法を学習します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080105Z" creationid="miurahr" creationdate="20201103T022405Z">
+        <seg>**何を学べますか?** 新しいレイヤオブジェクト定義をMapfileに追加する方法を学習します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4368,16 +4368,16 @@
       <tuv lang="en-US">
         <seg>All layers specified in the "*&amp;LAYERS=...*" property having *STATUS ON* in the Mapfile will be rendered in addition to all layers with *STATUS DEFAULT*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T022148Z" creationid="miurahr" creationdate="20201103T022148Z">
-        <seg>Mapfileで*STATUS ON*を持つ"*&amp;LAYERS=.*"プロパティで指定されたすべてのレイヤは、*STATUS DEFAULT*を持つすべての画層に加えてレンダリングされます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080018Z" creationid="miurahr" creationdate="20201103T022148Z">
+        <seg>Mapfileで *STATUS ON* を持つ "*&amp;LAYERS=.*" プロパティで指定されたすべてのレイヤは、 *STATUS DEFAULT* を持つすべての画層に加えてレンダリングされます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>All parameters of the request are WMS-specific, except "*?map=/home/user/mapserver_quickstart.map*", which is MapServer-specific.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T022157Z" creationid="miurahr" creationdate="20201103T022157Z">
-        <seg>要求のすべてのパラメータは、MapServer固有の「*?map=/home/user/mapserver_quickstart.map*」を除き、WMS固有です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080027Z" creationid="miurahr" creationdate="20201103T022157Z">
+        <seg>要求のすべてのパラメータは、MapServer固有の「 *?map=/home/user/mapserver_quickstart.map* 」を除き、WMS固有です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9568,8 +9568,8 @@
       <tuv lang="en-US">
         <seg>For example, if we look closer at our "ne_10m_lakes" data file using a tool such as `ogrinfo &lt;https://gdal.org/ogrinfo.html&gt;`_, we'll see the geometry and attribute definitions it contains.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T022749Z" creationid="miurahr" creationdate="20201103T022601Z">
-        <seg>たとえば、`ogrinfo&lt;https://gdal.org/ogrinfo.html&gt;`_などのツールを使用して"ne_10m_lakes"データファイルを詳しく調べると、このファイルに含まれるジオメトリと属性定義がわかります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080143Z" creationid="miurahr" creationdate="20201103T022601Z">
+        <seg>たとえば、 `ogrinfo&lt;https://gdal.org/ogrinfo.html&gt;`_ などのツールを使用して"ne_10m_lakes"データファイルを詳しく調べると、このファイルに含まれるジオメトリと属性定義がわかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12032,8 +12032,8 @@
       <tuv lang="en-US">
         <seg>If we put it in simple words, it's a |WMS| **GetMap** request that tells MapServer to "*use the following Mapfile to render the specified layers as a png image based on some user-supplied parameters such as image size, geographical extent, projection, etc.*".</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T022133Z" creationid="miurahr" creationdate="20201103T022133Z">
-        <seg>簡単に言うと、これはWMSの**GetMap**要求であり、「*次のMapfileを使用して、イメージサイズ、地理的範囲、投影などのユーザ指定のパラメータに基づいて、指定されたレイヤをpngイメージとしてレンダリングする*」ようMapServerに指示します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075911Z" creationid="miurahr" creationdate="20201103T022133Z">
+        <seg>簡単に言うと、これはWMSの **GetMap** 要求であり、「 *次のMapfileを使用して、イメージサイズ、地理的範囲、投影などのユーザ指定のパラメータに基づいて、指定されたレイヤをpngイメージとしてレンダリングする* 」ようMapServerに指示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14808,8 +14808,8 @@
       <tuv lang="en-US">
         <seg>Let's take our previous WMS **GetMap** request and add our new "Lakes" layer to the image rendered.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T022455Z" creationid="miurahr" creationdate="20201103T022455Z">
-        <seg>前述のWMSの**GetMap**要求を受け取り、レンダリングしたイメージに新しい「Lakes」レイヤを追加します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080112Z" creationid="miurahr" creationdate="20201103T022455Z">
+        <seg>前述のWMSの **GetMap** 要求を受け取り、レンダリングしたイメージに新しい「Lakes」レイヤを追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20277,8 +20277,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Render a map image with MapServer using a WMS **GetMap** request</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T022017Z" creationid="miurahr" creationdate="20201103T022017Z">
-        <seg>WMSの**GetMap**要求を使用してMapServerで地図イメージをレンダリングする</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075854Z" creationid="miurahr" creationdate="20201103T022017Z">
+        <seg>WMSの **GetMap** 要求を使用してMapServerで地図イメージをレンダリングする</seg>
       </tuv>
     </tu>
     <tu>
