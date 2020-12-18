@@ -7040,8 +7040,8 @@
       <tuv lang="en-US">
         <seg>Conventionally this geometry column is named ``geom`` (the older PostGIS convention was ``the_geom``).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T042843Z" creationid="miurahr" creationdate="20201108T042843Z">
-        <seg>従来、このジオメトリカラムには``geom``という名前(古いPostGISでは``the_geom``でした)を使います。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063001Z" creationid="miurahr" creationdate="20201108T042843Z">
+        <seg>従来、このジオメトリカラムには ``geom`` という名前(古いPostGISでは ``the_geom`` でした)を使います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23488,32 +23488,32 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The ``geometry_columns``, ``geography_columns``, and ``raster_columns`` views have the job of telling PostGIS which tables have PostGIS geometry, geography, and raster columns.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T042501Z" creationid="miurahr" creationdate="20201108T042501Z">
-        <seg>``geometry_columns``と、 ``geography_columns``、 ``raster_columns``ビューは、PostGISのジオメトリ、地理、およびラスター列を持つテーブルをPostGIS に伝える役割をもっています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T062857Z" creationid="miurahr" creationdate="20201108T042501Z">
+        <seg>``geometry_columns`` と、 ``geography_columns`` 、 ``raster_columns`` ビューは、PostGISのジオメトリ、地理、およびラスター列を持つテーブルをPostGIS に伝える役割をもっています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The ``raster_overviews`` lists such tables and their raster column and the table each is an overview for.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T042526Z" creationid="miurahr" creationdate="20201108T042526Z">
-        <seg>``raster_overviews``このようなテーブルとそのラスタ列がリストされ、それぞれのテーブルが概要を示しています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T062946Z" creationid="miurahr" creationdate="20201108T042526Z">
+        <seg>``raster_overviews`` このようなテーブルとそのラスタ列がリストされ、それぞれのテーブルが概要を示しています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The ``spatial_ref_sys`` table is used by PostGIS for converting between different spatial reference systems.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T042045Z" creationid="miurahr" creationdate="20201108T042045Z">
-        <seg>``spatial_ref_sys``テーブルは、PostGISが異なる空間参照システム間の変換に使用します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T062730Z" creationid="miurahr" creationdate="20201108T042045Z">
+        <seg>``spatial_ref_sys`` テーブルは、PostGISが異なる空間参照システム間の変換に使用します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The ``spatial_ref_sys`` table stores information on valid spatial reference systems, and we can use some SQL to have a quick look:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T042100Z" creationid="miurahr" creationdate="20201108T042100Z">
-        <seg>``spatial_ref_sys``テーブルには、有効な空間参照システムに関する情報が格納されています。SQLを使用して簡単に確認できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T062757Z" creationid="miurahr" creationdate="20201108T042100Z">
+        <seg> ``spatial_ref_sys`` テーブルには、有効な空間参照システムに関する情報が格納されています。SQLを使用して簡単に確認できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26121,8 +26121,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To get the geometry into the geometry column we use the PostGIS ``ST_GeomFromText`` function to convert from a text format that gives the coordinates and a spatial reference system id:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T043018Z" creationid="miurahr" creationdate="20201108T043018Z">
-        <seg>ジオメトリ列にジオメトリを取得するには、PostGISの``ST_GeomFromText``関数を使用して、座標と空間参照システムIDを与えるテキスト形式から変換します:</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063048Z" creationid="miurahr" creationdate="20201108T043018Z">
+        <seg>ジオメトリ列にジオメトリを取得するには、PostGISの ``ST_GeomFromText`` 関数を使用して、座標と空間参照システムIDを与えるテキスト形式から変換します:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26745,8 +26745,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Type ``\dv`` to list the views in the database.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T042121Z" creationid="miurahr" creationdate="20201108T042121Z">
-        <seg>``\dv``と入力すると、データベース内のビューの一覧が表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T062823Z" creationid="miurahr" creationdate="20201108T042121Z">
+        <seg>``\dv`` と入力すると、データベース内のビューの一覧が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30441,16 +30441,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`geography` - is a data type that stores data as vectors drawn on a spheroidal surface</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T042213Z" creationid="miurahr" creationdate="20201108T042213Z">
-        <seg>`geography` -回転楕円面上に描かれたベクトルとしてデータを保存するデータ型です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T062836Z" creationid="miurahr" creationdate="20201108T042213Z">
+        <seg>`geography` - 回転楕円面上に描かれたベクトルとしてデータを保存するデータ型です。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>`geometry` - is a data type that stores data as vectors drawn on a flat surface</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T042144Z" creationid="miurahr" creationdate="20201108T042144Z">
-        <seg>`geometry`-データを平面に描かれたベクトルとして格納するデータ型です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T062830Z" creationid="miurahr" creationdate="20201108T042144Z">
+        <seg>`geometry` - データを平面に描かれたベクトルとして格納するデータ型です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30473,8 +30473,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`raster` - is a data type that stores data as an n-dimensional matrix where each position (pixel) represents</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T042235Z" creationid="miurahr" creationdate="20201108T042235Z">
-        <seg>`raster` -データをn次元の行列として格納するデータ型で、各位置(ピクセル)は</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T062844Z" creationid="miurahr" creationdate="20201108T042235Z">
+        <seg>`raster` - データをn次元の行列として格納するデータ型で、各位置(ピクセル)は</seg>
       </tuv>
     </tu>
     <tu>
