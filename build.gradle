@@ -1,6 +1,6 @@
 // OmegaT plugin
 plugins {
-    id 'org.omegat.gradle'
+    id 'org.omegat.gradle' version "1.0.0"
 }
 
 repositories {
