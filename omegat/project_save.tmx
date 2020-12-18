@@ -26161,8 +26161,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To learn more about QGIS, a good starting point is the `Documentation page`_ on the QGIS homepage and `A Gentle Introduction to GIS`_ eBook.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T020525Z" creationid="miurahr" creationdate="20201117T020525Z">
-        <seg>QGISの詳細については、QGISホームページの`ドキュメントページ`_と`A Gentle Introduction to GIS(英語)`_eBookを参照してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085442Z" creationid="miurahr" creationdate="20201117T020525Z">
+        <seg>QGISの詳細については、QGISホームページの `ドキュメントページ`_ と `A Gentle Introduction to GIS(英語)`_ eBookを参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26609,8 +26609,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Try publishing your QGIS map to the web using `QGIS Map Server &lt;../overview/qgis_mapserver_overview.html&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T015811Z" creationid="miurahr" creationdate="20201117T015811Z">
-        <seg>`QGISマップサーバ &lt;./overview/qgis_mapserver_overview.html&gt;`_を使用して、QGISマップをWebに公開してみてください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085407Z" creationid="miurahr" creationdate="20201117T015811Z">
+        <seg>`QGISマップサーバ &lt;./overview/qgis_mapserver_overview.html&gt;`_ を使用して、QGISマップをWebに公開してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26897,8 +26897,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Use QGIS to view content from a `PostGIS database &lt;https://docs.qgis.org/3.4/en/docs/training_manual/spatial_databases/index.html&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T015754Z" creationid="miurahr" creationdate="20201117T015742Z">
-        <seg>`PostGISデータベース &lt;https://docs.qgis.org/3.4/en/docs/training_manual/spatial_databases/index.html&gt;`_からコンテンツをビューするのにQGISを使用してみます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085402Z" creationid="miurahr" creationdate="20201117T015742Z">
+        <seg>`PostGISデータベース &lt;https://docs.qgis.org/3.4/en/docs/training_manual/spatial_databases/index.html&gt;`_ からコンテンツをビューするのにQGISを使用してみます。</seg>
       </tuv>
     </tu>
     <tu>
