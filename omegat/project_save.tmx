@@ -4160,8 +4160,8 @@
       <tuv lang="en-US">
         <seg>Afterwards expand the ``public`` schema.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T002648Z" creationid="miurahr" creationdate="20201117T002648Z">
-        <seg>その後、``public``スキーマを展開します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063442Z" creationid="miurahr" creationdate="20201117T002648Z">
+        <seg>その後、 ``public`` スキーマを展開します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5608,8 +5608,8 @@
       <tuv lang="en-US">
         <seg>By navigating and expanding the ``Tables``, you can see all the tables contained within this schema.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T002653Z" creationid="miurahr" creationdate="20201117T002653Z">
-        <seg>``Tables``を移動して展開すると、このスキーマに含まれるすべてのテーブルを表示できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063452Z" creationid="miurahr" creationdate="20201117T002653Z">
+        <seg> ``Tables`` を移動して展開すると、このスキーマに含まれるすべてのテーブルを表示できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9496,8 +9496,8 @@
       <tuv lang="en-US">
         <seg>For a connection to a different PostgreSQL database you need ``postgres_fdw``</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T002937Z" creationid="miurahr" creationdate="20201117T002937Z">
-        <seg>異なるPostgreSQLデータベースへの接続には、``postgres_fdw``が必要です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063530Z" creationid="miurahr" creationdate="20201117T002937Z">
+        <seg>異なるPostgreSQLデータベースへの接続には、 ``postgres_fdw`` が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12920,8 +12920,8 @@
       <tuv lang="en-US">
         <seg>In this case, we are going to connect to the predefined ``local`` server.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T002607Z" creationid="miurahr" creationdate="20201117T002607Z">
-        <seg>この場合、定義済みの``local``サーバに接続します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063418Z" creationid="miurahr" creationdate="20201117T002607Z">
+        <seg>この場合、定義済みの ``local`` サーバに接続します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13200,8 +13200,8 @@
       <tuv lang="en-US">
         <seg>Install the extension ``ogr_fdw`` in your database.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T003212Z" creationid="miurahr" creationdate="20201117T003212Z">
-        <seg>拡張機能``ogr_fdw``をデータベースにインストールします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063617Z" creationid="miurahr" creationdate="20201117T003212Z">
+        <seg>拡張機能 ``ogr_fdw`` をデータベースにインストールします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14712,8 +14712,8 @@
       <tuv lang="en-US">
         <seg>Leave everything else as it is and hit ``Load``</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T123443Z" creationid="miurahr" creationdate="20201108T123443Z">
-        <seg>他のものはすべてそのままにして、``Load``を押します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063346Z" creationid="miurahr" creationdate="20201108T123443Z">
+        <seg>他のものはすべてそのままにして、 ``Load`` を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14744,8 +14744,8 @@
       <tuv lang="en-US">
         <seg>Let the Coordinate Reference System Selector default to (WGS 84 EPSG:4326) and hit ``OK``.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T122833Z" creationid="miurahr" creationdate="20201116T122833Z">
-        <seg>座標参照系セレクタの既定値を(WGS 84 EPSG:4326)にして、``OK``を押します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063352Z" creationid="miurahr" creationdate="20201116T122833Z">
+        <seg>座標参照系セレクタの既定値を(WGS 84 EPSG:4326)にして、 ``OK`` を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16360,8 +16360,8 @@
       <tuv lang="en-US">
         <seg>Navigate at the ``schemas`` subtree, expand it.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T002644Z" creationid="miurahr" creationdate="20201117T002644Z">
-        <seg>``schemas``サブツリーに移動して展開します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063438Z" creationid="miurahr" creationdate="20201117T002644Z">
+        <seg>``schemas`` サブツリーに移動して展開します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20413,8 +20413,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Results might look like these: ::</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T003240Z" creationid="miurahr" creationdate="20201117T003240Z">
-        <seg>結果は次のようになります:::</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063641Z" creationid="miurahr" creationdate="20201117T003240Z">
+        <seg>結果は次のようになります: ::</seg>
       </tuv>
     </tu>
     <tu>
@@ -23816,8 +23816,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The extension ``ogr_fdw`` allows connection too several geodata formats like KML, GeoPackage, WFS, GeoJSON, GPX, GML and more.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T003110Z" creationid="miurahr" creationdate="20201117T003110Z">
-        <seg>拡張``ogr_fdw``は、KML、GeoPackage、WFS、GeoJSON、GPX、GMLなどのいくつかの地理データフォーマットの接続を可能にします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063556Z" creationid="miurahr" creationdate="20201117T003110Z">
+        <seg>拡張 ``ogr_fdw`` は、KML、GeoPackage、WFS、GeoJSON、GPX、GMLなどのいくつかの地理データフォーマットの接続を可能にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24288,8 +24288,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The red "X" on the image of most of the databases, denotes that you haven't been yet connected to any of them (you are connected only to the default ``postgres`` database).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T002619Z" creationid="miurahr" creationdate="20201117T002619Z">
-        <seg>ほとんどのデータベースのイメージ上の赤い"X"は、まだどのデータベースにも接続していないことを示しています(あなたはデフォルトの``postgres``データベースにのみ接続しています)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063426Z" creationid="miurahr" creationdate="20201117T002619Z">
+        <seg>ほとんどのデータベースのイメージ上の赤い"X"は、まだどのデータベースにも接続していないことを示しています(あなたはデフォルトの ``postgres`` データベースにのみ接続しています)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26265,8 +26265,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To perform a query on the database, you have to press the ``SQL`` button from the main toolbar (the one with the yellow Magnifying lens).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T002708Z" creationid="miurahr" creationdate="20201117T002708Z">
-        <seg>データベースに対してクエリを実行するには、メインツールバーの``SQL``ボタン(黄色の拡大レンズ付き)を押す必要があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063505Z" creationid="miurahr" creationdate="20201117T002708Z">
+        <seg>データベースに対してクエリを実行するには、メインツールバーの ``SQL`` ボタン(黄色の拡大レンズ付き)を押す必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29337,8 +29337,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can use the graphical database client ``pgAdmin III`` from the Databases menu to query and modify your database non-spatially.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T002526Z" creationid="miurahr" creationdate="20201117T002526Z">
-        <seg>グラフィカルなデータベースクライアント``pgAdmin III``を[データベース]メニューから使用して、データベースに対して非空間的に問い合わせや変更を行うことができます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063413Z" creationid="miurahr" creationdate="20201117T002526Z">
+        <seg>グラフィカルなデータベースクライアント ``pgAdmin III`` を[データベース]メニューから使用して、データベースに対して非空間的に問い合わせや変更を行うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29425,8 +29425,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You have to activate them via menu via :menuselection:`File --&gt; Options --&gt; Browser --&gt; Display`</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T003014Z" creationid="miurahr" creationdate="20201117T003014Z">
-        <seg>これらを有効にするには、メニューの :menuselection:`File--&gt;Options--&gt;Browser--&gt;Display`を使用する必要があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063551Z" creationid="miurahr" creationdate="20201117T003014Z">
+        <seg>これらを有効にするには、メニューの :menuselection:`File--&gt; Options--&gt; Browser--&gt; Display` を使用する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
