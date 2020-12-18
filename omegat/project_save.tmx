@@ -9616,8 +9616,8 @@
       <tuv lang="en-US">
         <seg>For further questions you can contact the ZOO Project mailing list: zoo-discuss@lists.osgeo.org</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T134554Z" creationid="miurahr" creationdate="20201120T134554Z">
-        <seg>詳細については、ZOO Projectメーリングリスト:zoo-discuss@lists.osgeo.orgに問い合わせてください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T055205Z" creationid="miurahr" creationdate="20201120T134554Z">
+        <seg>詳細については、ZOO Projectメーリングリスト: zoo-discuss@lists.osgeo.org  に問い合わせてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17944,8 +17944,8 @@
       <tuv lang="en-US">
         <seg>Once you have selected the values for your processing, press the :guilabel:`Execute` button at the bottom of the left form.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T134517Z" creationid="miurahr" creationdate="20201120T134517Z">
-        <seg>処理する値を選択したら、左側のフォームの下部にある:guilabel:`Execute`ボタンを押します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T055142Z" creationid="miurahr" creationdate="20201120T134517Z">
+        <seg>処理する値を選択したら、左側のフォームの下部にある :guilabel:`Execute` ボタンを押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32627,6 +32627,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>http://localhost/cgi-bin/mapserv?map=/home/user/mapserver_quickstart.map&amp;SERVICE=WMS&amp;REQUEST=GetCapabilities&amp;VERSION=1.3.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>http://localhost/cgi-bin/zoo_loader.cgi?Request=GetCapabilities&amp;Service=WPS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T055149Z" creationid="sanak" creationdate="20201218T055149Z">
+        <seg>http://localhost/cgi-bin/zoo_loader.cgi?Request=GetCapabilities&amp;Service=WPS</seg>
       </tuv>
     </tu>
     <tu>
