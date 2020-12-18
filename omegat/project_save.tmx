@@ -9328,8 +9328,8 @@
       <tuv lang="en-US">
         <seg>Find the file **sample.osm**.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T072349Z" creationid="miurahr" creationdate="20201103T072349Z">
-        <seg>**sample.osm**ファイルを探します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075223Z" creationid="miurahr" creationdate="20201103T072349Z">
+        <seg>**sample.osm** ファイルを探します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9856,8 +9856,8 @@
       <tuv lang="en-US">
         <seg>From the **Search tab**, click on the card for **Physiographic Map of North and Central Eurasia (Sample record, please remove!)** to view the metadata.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134100Z" creationid="miurahr" creationdate="20201116T134100Z">
-        <seg>**検索タブ**から、**Physiographic Region of North and Central Eurasia(これはサンプルです。削除できます!)**のカードをクリックしてメタデータをビューに移動します。マップ</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075004Z" creationid="miurahr" creationdate="20201116T134100Z">
+        <seg>**検索タブ** から、 **Physiographic Region of North and Central Eurasia(これはサンプルです。削除できます!)** のカードをクリックしてメタデータをビューに移動します。マップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -9928,8 +9928,8 @@
       <tuv lang="en-US">
         <seg>From the desktop, choose :menuselection:`Navigation and Maps --&gt; JOSM`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T000448Z" creationid="miurahr" creationdate="20201103T072323Z">
-        <seg>デスクトップから:menuselection:`ナビゲーションと地図--&gt;JOSM`を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075151Z" creationid="miurahr" creationdate="20201103T072323Z">
+        <seg>デスクトップから :menuselection:`ナビゲーションと地図 --&gt; JOSM` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16152,8 +16152,8 @@
       <tuv lang="en-US">
         <seg>Move down the page until the **Download and links** section is visible.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134118Z" creationid="miurahr" creationdate="20201116T134118Z">
-        <seg>ページを下へ移動して、**ダウンロードとリンク**セクションを表示します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075008Z" creationid="miurahr" creationdate="20201116T134118Z">
+        <seg>ページを下へ移動して、 **ダウンロードとリンク** セクションを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21317,8 +21317,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select the **paintbrush** icon next to the layer to see the legend, showing you the classification used for the display.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134453Z" creationid="miurahr" creationdate="20201116T134453Z">
-        <seg>レイヤの横にある**paintbrush**アイコンを選択すると、凡例が表示され、表示に使用された分類が表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075102Z" creationid="miurahr" creationdate="20201116T134453Z">
+        <seg>レイヤの横にある **paintbrush** アイコンを選択すると、凡例が表示され、表示に使用された分類が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22773,16 +22773,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Switching to **Full view** or **XML view**</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134008Z" creationid="miurahr" creationdate="20201116T134008Z">
-        <seg>**完全なビュー**または**XMLビュー**に切り替える</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T074940Z" creationid="miurahr" creationdate="20201116T134008Z">
+        <seg>**完全なビュー** または **XMLビュー** に切り替える</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Switching to **Full view** will show more detailed metadata.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134015Z" creationid="miurahr" creationdate="20201116T134015Z">
-        <seg>**完全なビュー**に切り替えると、より詳細なメタデータが表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T074945Z" creationid="miurahr" creationdate="20201116T134015Z">
+        <seg>**完全なビュー** に切り替えると、より詳細なメタデータが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22933,8 +22933,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The **Download and links** section shows external resources associated with the metadata record, such as:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134134Z" creationid="miurahr" creationdate="20201116T134134Z">
-        <seg>**ダウンロードとリンク**セクションには、メタデータレコードに関連付けられた次のような外部リソースが表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075012Z" creationid="miurahr" creationdate="20201116T134134Z">
+        <seg>**ダウンロードとリンク** セクションには、メタデータレコードに関連付けられた次のような外部リソースが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25569,8 +25569,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This step will switch you to the **Map** tab in the catalog, and after a short delay the WMS layer will be added to the map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134204Z" creationid="miurahr" creationdate="20201116T134204Z">
-        <seg>この手順により、カタログの**マップ**タブに切り替わり、少し時間が経つとWMSレイヤがマップに追加されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075041Z" creationid="miurahr" creationdate="20201116T134204Z">
+        <seg>この手順により、カタログの **マップ** タブに切り替わり、少し時間が経つとWMSレイヤがマップに追加されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26361,8 +26361,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To switch back to the original view select **Default view** from the list.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134019Z" creationid="miurahr" creationdate="20201116T134019Z">
-        <seg>元のビューに戻すには、一覧から**既定のビュー**を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T074950Z" creationid="miurahr" creationdate="20201116T134019Z">
+        <seg>元のビューに戻すには、一覧から **既定のビュー** を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27161,8 +27161,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Using the Manage Layers tool, select the cog symbol next to **Physiography of North and Central Eurasia Landform** and select **Zoom to layer**.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134426Z" creationid="miurahr" creationdate="20201116T134426Z">
-        <seg>レイヤーを管理ツールを使用して、**Physiography of North and Central Eurasia Landform**の横にあるcogシンボルを選択し、**レイヤへズーム**を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075055Z" creationid="miurahr" creationdate="20201116T134426Z">
+        <seg>レイヤーを管理ツールを使用して、 **Physiography of North and Central Eurasia Landform** の横にあるcogシンボルを選択し、 **レイヤへズーム** を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28969,8 +28969,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can dismiss this dialog by selecting the **X** in the top right corner.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134458Z" creationid="miurahr" creationdate="20201116T134458Z">
-        <seg>このダイアログを閉じるには、右上隅の**X**を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075127Z" creationid="miurahr" creationdate="20201116T134458Z">
+        <seg>このダイアログを閉じるには、右上隅の **X** を選択します。</seg>
       </tuv>
     </tu>
     <tu>
