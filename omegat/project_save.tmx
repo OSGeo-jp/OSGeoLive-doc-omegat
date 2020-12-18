@@ -2440,8 +2440,8 @@
       <tuv lang="en-US">
         <seg>*Search facets*, or  filters, that provide ways of narrowing down the search results, such as *Type of Resource*, *Topic*, *Keywords*,</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T133829Z" creationid="miurahr" creationdate="20201116T133829Z">
-        <seg>検索結果を絞り込む*リソースタイプ*、*トピック*、*キーワード*などを提供する*検索ファセット*、またはフィルタ。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T073658Z" creationid="miurahr" creationdate="20201116T133829Z">
+        <seg>検索結果を絞り込む *リソースタイプ* 、 *トピック* 、 *キーワード* などを提供する*検索ファセット*、またはフィルタ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5624,8 +5624,8 @@
       <tuv lang="en-US">
         <seg>By selecting the vertical ellipsis in the search box you can access the **advanced search** panel and search by *category*, *keyword*, *contact*, or records within a specific time period.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T133855Z" creationid="miurahr" creationdate="20201116T133855Z">
-        <seg>検索ボックスの垂直方向の省略記号を選択すると、**高度な検索**パネルにアクセスして、*カテゴリ*、*キーワード*、*連絡先*、または指定された期間内のレコードで検索できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T073711Z" creationid="miurahr" creationdate="20201116T133855Z">
+        <seg>検索ボックスの垂直方向の省略記号を選択すると、 **高度な検索** パネルにアクセスして、 *カテゴリ* 、 *キーワード* 、 *連絡先* 、または指定された期間内のレコードで検索できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8808,8 +8808,8 @@
       <tuv lang="en-US">
         <seg>Enter the username ``admin`` and password ``admin`` and select the blue **Sign in** button to sign in as the catalog administrator.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T133414Z" creationid="miurahr" creationdate="20201116T133414Z">
-        <seg>ユーザー名``admin``とパスワード``admin``を入力し、青い**[サインイン]**ボタンを選択してカタログ管理者としてサインインします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T073638Z" creationid="miurahr" creationdate="20201116T133414Z">
+        <seg>ユーザー名 ``admin`` とパスワード ``admin`` を入力し、青い **[サインイン]** ボタンを選択してカタログ管理者としてサインインします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21149,16 +21149,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select **Search** in the top toolbar to access the Search page.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T133708Z" creationid="miurahr" creationdate="20201116T133708Z">
-        <seg>トップツールバーの**検索**を選択して、検索ページにアクセスします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T073646Z" creationid="miurahr" creationdate="20201116T133708Z">
+        <seg>トップツールバーの **検索** を選択して、検索ページにアクセスします。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Select **Sign in** in the top right of the top toolbar in the homepage to visit the sign in page.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T133406Z" creationid="miurahr" creationdate="20201116T133406Z">
-        <seg>ホームページのトップツールバーの右上にある**サインイン**を選択して、サインインページを表示します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T073616Z" creationid="miurahr" creationdate="20201116T133406Z">
+        <seg>ホームページのトップツールバーの右上にある **サインイン** を選択して、サインインページを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21205,8 +21205,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select :menuselection:`File --&gt; New --&gt; New Map` from the menu bar</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201121T133740Z" creationid="miurahr" creationdate="20201121T133740Z">
-        <seg>メニューバーから :menuselection:`ファイル--&gt;新規--&gt;新規マップ` を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T073513Z" creationid="miurahr" creationdate="20201121T133740Z">
+        <seg>メニューバーから :menuselection:`ファイル --&gt; 新規 --&gt; 新規マップ` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21373,8 +21373,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select the blue **Back to search** button to return to the Search page when you’re done.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T133924Z" creationid="miurahr" creationdate="20201116T133924Z">
-        <seg>青色の[**検索に戻る**]ボタンをクリックすると、検索ページに戻ります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T074930Z" creationid="miurahr" creationdate="20201116T133924Z">
+        <seg>青色の **[検索に戻る]** ボタンをクリックすると、検索ページに戻ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25737,8 +25737,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This will open the Firefox web browser at the URL ``http://localhost:8880/geonetwork``.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T133204Z" creationid="miurahr" creationdate="20201116T133204Z">
-        <seg>これにより、URL``http://localhost:8880/geonetwork``でFirefox Webブラウザが開きます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T073558Z" creationid="miurahr" creationdate="20201116T133204Z">
+        <seg>これにより、URL ``http://localhost:8880/geonetwork`` でFirefox Webブラウザが開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25841,8 +25841,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Throughout this guide we will use the URL ``http://localhost:8880/geonetwork`` to refer to the catalog, please substitute a different URL if this is not correct for your system.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T133130Z" creationid="miurahr" creationdate="20201116T133130Z">
-        <seg>このガイド全体を通じて、URL``http://localhost:8880/geonetwork``を使用してカタログを参照します。システムに合わない場合は、別のURLに置き換えてください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T073534Z" creationid="miurahr" creationdate="20201116T133130Z">
+        <seg>このガイド全体を通じて、URL ``http://localhost:8880/geonetwork`` を使用してカタログを参照します。システムに合わない場合は、別のURLに置き換えてください。</seg>
       </tuv>
     </tu>
     <tu>
