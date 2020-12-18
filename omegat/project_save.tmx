@@ -5984,8 +5984,8 @@
       <tuv lang="en-US">
         <seg>Choose *'Start deegree'* from the :menuselection:`Geospatial --&gt; Web Services --&gt; deegree` menu.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T143530Z" creationid="miurahr" creationdate="20201116T135114Z">
-        <seg>:menuselection:`Geospatial--&gt;Web Services--&gt;deegree`メニューから *'deegreeを開始'* を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T082805Z" creationid="miurahr" creationdate="20201116T135114Z">
+        <seg>:menuselection:`Geospatial --&gt; Web Services --&gt; deegree` メニューから *'deegreeを開始'* を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6392,8 +6392,8 @@
       <tuv lang="en-US">
         <seg>Click on the **+** on the right side to open a layer tree showing all available  layers.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T143803Z" creationid="miurahr" creationdate="20201116T135617Z">
-        <seg>右側の **+** をクリックすると、レイヤの木が開き、利用可能なすべてのレイヤが表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T082908Z" creationid="miurahr" creationdate="20201116T135617Z">
+        <seg>右側の **+** をクリックすると、レイヤツリーが開き、利用可能なすべてのレイヤが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24416,8 +24416,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The service is configured to visualize the data and a basemap (rendered by `OpenStreetMap &lt;https://www.openstreetmap.org/&gt;`_).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T143754Z" creationid="miurahr" creationdate="20201116T135610Z">
-        <seg>このサービスは、データとベースマップ( `OpenStreetMap &lt;https://www.openstreetmap.org/&gt;`_)を視覚化するように設定されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T082853Z" creationid="miurahr" creationdate="20201116T135610Z">
+        <seg>このサービスは、データとベースマップ(`OpenStreetMap &lt;https://www.openstreetmap.org/&gt;`_)を視覚化するように設定されています。</seg>
       </tuv>
     </tu>
     <tu>
