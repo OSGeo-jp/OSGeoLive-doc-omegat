@@ -3208,8 +3208,8 @@
       <tuv lang="en-US">
         <seg>A Mapfile always starts with the **MAP** object and should contain a list of **LAYER** objects the Mapfile can read and draw.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T021748Z" creationid="miurahr" creationdate="20201103T021748Z">
-        <seg>Mapfileは常に**MAP**オブジェクトで始まり、Mapfileが読み取って描画できる**LAYER**オブジェクトのリストを含む必要があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075814Z" creationid="miurahr" creationdate="20201103T021748Z">
+        <seg>Mapfileは常に **MAP** オブジェクトで始まり、Mapfileが読み取って描画できる **LAYER** オブジェクトのリストを含む必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7312,8 +7312,8 @@
       <tuv lang="en-US">
         <seg>Create the file "mapserver_quickstart.map" in your home directory: :file:`/home/user/mapserver_quickstart.map`</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T021639Z" creationid="miurahr" creationdate="20201103T021639Z">
-        <seg>"mapserver_quickstart.map"を、ホームディレクトリ::file:`/home/user/mapserver_quickstart.map`に作成します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075712Z" creationid="miurahr" creationdate="20201103T021639Z">
+        <seg>"mapserver_quickstart.map"を、ホームディレクトリ: :file:`/home/user/mapserver_quickstart.map` に作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8560,8 +8560,8 @@
       <tuv lang="en-US">
         <seg>Each object in a Mapfile starts with its name (for example **MAP**) and ends with an **END**.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T021741Z" creationid="miurahr" creationdate="20201103T021741Z">
-        <seg>Mapfile内の各オブジェクトは、名前(**MAP**など)で始まり、**END**で終わります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075800Z" creationid="miurahr" creationdate="20201103T021741Z">
+        <seg>Mapfile内の各オブジェクトは、名前(**MAP** など)で始まり、 **END** で終わります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12024,8 +12024,8 @@
       <tuv lang="en-US">
         <seg>If we look closer at the **LAYER** in our Mapfile, we'll see that it contains a bunch of properties and objects too.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T021507Z" creationid="miurahr" creationdate="20201103T021507Z">
-        <seg>Mapfileの**LAYER**をよく見ると、このファイルにはたくさんのプロパティーとオブジェクトも含まれていることがわかります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075819Z" creationid="miurahr" creationdate="20201103T021507Z">
+        <seg>Mapfileの **LAYER** をよく見ると、このファイルにはたくさんのプロパティーとオブジェクトも含まれていることがわかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12624,8 +12624,8 @@
       <tuv lang="en-US">
         <seg>In our Mapfile, the data will be drawn as *polygons*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T021930Z" creationid="miurahr" creationdate="20201103T021930Z">
-        <seg>このMapfileでは、データは*ポリゴン*として描画されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075833Z" creationid="miurahr" creationdate="20201103T021930Z">
+        <seg>このMapfileでは、データは *ポリゴン* として描画されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15400,8 +15400,8 @@
       <tuv lang="en-US">
         <seg>MapServer is an `Open Source &lt;https://opensource.org/&gt;`_ server based application that allows you to publish geographic map images and vector data through the internet using |OGCS| such as |WMS|, |WFS| and |WCS|.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T021016Z">
-        <seg>MapServerは、 `オープンソース &lt;https://opensource.org/&gt;`_ サーバーベースのアプリケーションであり、|WMS|、|WFS|、|WCS|などの |OGCS| を使用して、インターネットを介して地理的地図の画像やベクタデータを公開できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075621Z">
+        <seg>MapServerは、 `オープンソース &lt;https://opensource.org/&gt;`_ サーバーベースのアプリケーションであり、 |WMS| 、 |WFS| 、 |WCS| などの |OGCS| を使用して、インターネットを介して地理的地図の画像やベクタデータを公開できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18168,8 +18168,8 @@
       <tuv lang="en-US">
         <seg>Open any text editor (e.g. :menuselection:`Applications --&gt; Accessories --&gt; FeatherPad`).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T033916Z" creationid="miurahr" creationdate="20201103T021604Z">
-        <seg>任意のテキストエディタを開きます(例 :menuselection:`アクセサリ--&gt;FeatherPad`)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075700Z" creationid="miurahr" creationdate="20201103T021604Z">
+        <seg>任意のテキストエディタを開きます(例 :menuselection:`アプリケーション --&gt; アクセサリ --&gt; FeatherPad`)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23440,8 +23440,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The `Mapfile &lt;https://mapserver.org/mapfile/index.html&gt;`_ is the configuration file that MapServer uses to render geospatial data as images or vector data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T021052Z" creationid="miurahr" creationdate="20201103T021052Z">
-        <seg>`Mapfile&lt;https://mapserver.org/mapfile/index.html&gt;`_ は、MapServerが空間データをイメージまたはベクタデータとしてレンダリングするために使用する設定ファイルです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075639Z" creationid="miurahr" creationdate="20201103T021052Z">
+        <seg>`Mapfile &lt;https://mapserver.org/mapfile/index.html&gt;`_ は、MapServerが空間データをイメージまたはベクタデータとしてレンダリングするために使用する設定ファイルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23808,8 +23808,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The example uses the natural earth dataset, which is already on OSGeoLive at :file:`~/data/natural_earth2` (a short cut to :file:`/usr/local/share/data/natural_earth2`).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T021735Z" creationid="miurahr" creationdate="20201103T021735Z">
-        <seg>この例では、既にOSGeoLive上の :file:`~/data/natural_earth2`(:file:`/usr/local/share/data/natural_earth2` へのショートカット)にある自然地球データセットを使用しています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075734Z" creationid="miurahr" creationdate="20201103T021735Z">
+        <seg>この例では、既にOSGeoLive上の :file:`~/data/natural_earth2` (:file:`/usr/local/share/data/natural_earth2` へのショートカット)にある自然地球データセットを使用しています。</seg>
       </tuv>
     </tu>
     <tu>
