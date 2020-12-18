@@ -4504,8 +4504,8 @@
       <tuv lang="en-US">
         <seg>An OSGeoLive ISO image (downloaded from: :doc:`OSGeoLive downloads &lt;../download&gt;`) or converted from a DVD.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T134748Z" creationid="miurahr" creationdate="20201120T134748Z">
-        <seg>OSGeoLive ISOイメージ(: :doc:`OSGeoLive downloads &lt;../download&gt;`からダウンロード)またはDVDから変換されたもの。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T072039Z" creationid="miurahr" creationdate="20201120T134748Z">
+        <seg>OSGeoLive ISOイメージ(:doc:`OSGeoLive downloads &lt;../download&gt;` からダウンロード)またはDVDから変換されたもの。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11872,8 +11872,8 @@
       <tuv lang="en-US">
         <seg>ISO images for OSGeoLive 10.5 and later are *isohybrid* (and for amd64, also support UEFI boot).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T134830Z" creationid="miurahr" creationdate="20201120T134830Z">
-        <seg>OS GeoLive10.5以降のISOイメージは*isohybrid*です(amd64もサポートUEFIブート)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T072046Z" creationid="miurahr" creationdate="20201120T134830Z">
+        <seg>OS GeoLive10.5以降のISOイメージは *isohybrid* です(amd64もサポートUEFIブート)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21085,8 +21085,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>See the :doc:`OpenCPN quickstart &lt;../quickstart/opencpn_quickstart&gt;` for details.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T133848Z" creationid="miurahr" creationdate="20201120T133848Z">
-        <seg>詳細は、:doc:`クイックスタート文書&lt;./quickstart/opencpn_quickstart&gt;`を参照してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071932Z" creationid="miurahr" creationdate="20201120T133848Z">
+        <seg>詳細は、:doc:`クイックスタート文書&lt;../quickstart/opencpn_quickstart&gt;` を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22997,8 +22997,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The :doc:`OpenCPN software &lt;../overview/opencpn_overview&gt;` (also on this disc) has a GRIB overlay plugin which you may try with your newly downloaded GRIB file.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T133817Z" creationid="miurahr" creationdate="20201120T133817Z">
-        <seg>:doc:`OpenCPNソフトウェア&lt;./overview/opencpn_overview&gt;`(このディスクにもあります)にはGRIBオーバーレイプラグインがあり、新しくダウンロードしたGRIBファイルで試すことができます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071910Z" creationid="miurahr" creationdate="20201120T133817Z">
+        <seg>:doc:`OpenCPNソフトウェア &lt;../overview/opencpn_overview&gt;` (このディスクにもあります)にはGRIBオーバーレイプラグインがあり、新しくダウンロードしたGRIBファイルで試すことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26817,8 +26817,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Under Linux, these images can be written directly to the block device for a USB drive with the ``dd`` command-line utility:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T134836Z" creationid="miurahr" creationdate="20201120T134836Z">
-        <seg>Linuxでは、``dd``コマンドラインユーティリティを使用して、これらのイメージをUSBドライブのブロックデバイスに直接書き込むことができます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T072055Z" creationid="miurahr" creationdate="20201120T134836Z">
+        <seg>Linuxでは、 ``dd`` コマンドラインユーティリティを使用して、これらのイメージをUSBドライブのブロックデバイスに直接書き込むことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26913,8 +26913,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Use ``lsblk`` to list block devices and ``dmesg`` to see kernel messages identifying the USB drive when it is connected.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T134851Z" creationid="miurahr" creationdate="20201120T134851Z">
-        <seg>``lsblk``を使用してブロックデバイスを一覧表示し、``dmesg``を使用して接続時にUSBドライブを識別するカーネルメッセージを表示します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T072124Z" creationid="miurahr" creationdate="20201120T134851Z">
+        <seg>``lsblk`` を使用してブロックデバイスを一覧表示し、 ``dmesg`` を使用して接続時にUSBドライブを識別するカーネルメッセージを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30393,8 +30393,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>``/dev/sdX`` is the block device for the USB drive, where ``X`` might be ``b`` or ``c``.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T134844Z" creationid="miurahr" creationdate="20201120T134844Z">
-        <seg>``/dev/sdX``はUSBドライブのブロックデバイスで、``X``は``b``または``c``かもしれません。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T072117Z" creationid="miurahr" creationdate="20201120T134844Z">
+        <seg>``/dev/sdX`` はUSBドライブのブロックデバイスで、 ``X`` は ``b`` または ``c`` かもしれません。</seg>
       </tuv>
     </tu>
     <tu>
