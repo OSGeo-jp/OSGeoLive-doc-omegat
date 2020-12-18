@@ -5200,8 +5200,8 @@
       <tuv lang="en-US">
         <seg>Be aware that you have to upload a complete set of files, consisting of a *shp*, a *prj*, a *dbf* and a *shx* file.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T152022Z" creationid="miurahr" creationdate="20201116T142541Z">
-        <seg>*shp*、*prj*、*dbf*、*shx* ファイルからなる完全なファイルセットをアップロードする必要があることに注意してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T081905Z" creationid="miurahr" creationdate="20201116T142541Z">
+        <seg>*shp* 、 *prj* 、 *dbf* 、 *shx* ファイルからなる完全なファイルセットをアップロードする必要があることに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5592,8 +5592,8 @@
       <tuv lang="en-US">
         <seg>By clicking one of the above *Upload* links you will be brought to the upload page.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142523Z" creationid="miurahr" creationdate="20201116T142523Z">
-        <seg>上記の[アップロード]リンクのいずれかをクリックすると、アップロードページが表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T081832Z" creationid="miurahr" creationdate="20201116T142523Z">
+        <seg>上記の *[アップロード]* リンクのいずれかをクリックすると、アップロードページが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12560,8 +12560,8 @@
       <tuv lang="en-US">
         <seg>In case you want to upload data from any other page, from the navigation bar, select *Data* menu and click on the *Upload Layers* link.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142518Z" creationid="miurahr" creationdate="20201116T142518Z">
-        <seg>他のページからデータをアップロードする場合は、ナビゲーションバーから[*Data*]メニューを選択し、[*Upload Layers*]リンクをクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T081816Z" creationid="miurahr" creationdate="20201116T142518Z">
+        <seg>他のページからデータをアップロードする場合は、ナビゲーションバーから *[Data]* メニューを選択し、 *[Upload Layers]* リンクをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12800,8 +12800,8 @@
       <tuv lang="en-US">
         <seg>In the same area, under *Who can edit this data*, select your username.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142816Z" creationid="miurahr" creationdate="20201116T142816Z">
-        <seg>同じ領域で、[*Who can edit this data*]の下からユーザー名を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T082006Z" creationid="miurahr" creationdate="20201116T142816Z">
+        <seg>同じ領域で、 *[Who can edit this data]* の下からユーザー名を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17800,8 +17800,8 @@
       <tuv lang="en-US">
         <seg>On the right side of the page you can see the *Permission* section, where you can limit the access on your layer.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142733Z" creationid="miurahr" creationdate="20201116T142733Z">
-        <seg>ページの右側には*Permission*セクションが表示され、レイヤのアクセスを制限できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T081930Z" creationid="miurahr" creationdate="20201116T142733Z">
+        <seg>ページの右側には *Permission* セクションが表示され、レイヤのアクセスを制限できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26305,8 +26305,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To see existing layers, from the navigation bar on the top of any page, select *Data* menu and click on the *Layers* link.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142502Z" creationid="miurahr" creationdate="20201116T142502Z">
-        <seg>既存のレイヤーを表示するには、ページの最上部にあるナビゲーションバーから[*データ*]メニューを選択し、[*レイヤー*]リンクをクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T081732Z" creationid="miurahr" creationdate="20201116T142502Z">
+        <seg>既存のレイヤーを表示するには、ページの最上部にあるナビゲーションバーから *[データ]* メニューを選択し、 *[レイヤー]* リンクをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26385,8 +26385,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To upload data, click the *Upload* button at the bottom.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142837Z" creationid="miurahr" creationdate="20201116T142837Z">
-        <seg>データをアップロードするには、下部の*Upload*ボタンをクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T082012Z" creationid="miurahr" creationdate="20201116T142837Z">
+        <seg>データをアップロードするには、下部の *Upload* ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26809,8 +26809,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Under *Who can view and download this data*, select *Any registered user*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142754Z" creationid="miurahr" creationdate="20201116T142754Z">
-        <seg>[*Who can view and download this data*]の下で、[*Any registered user*]を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T081955Z" creationid="miurahr" creationdate="20201116T142754Z">
+        <seg>*[Who can view and download this data]* の下で、 *[Any registered user]* を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29033,8 +29033,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can either do that by using *drag &amp; drop* on the *Drop Files Here* area or you can use the *Choose Files* button to select them.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T152002Z" creationid="miurahr" creationdate="20201116T142534Z">
-        <seg>これは、*Drop Files Here* 領域の *ドラッグ&amp;ドロップ* を使用するか、 *Choose Files* ボタンを使用して選択できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T081850Z" creationid="miurahr" creationdate="20201116T142534Z">
+        <seg>これは、 *Drop Files Here* 領域の *ドラッグ&amp;ドロップ* を使用するか、 *Choose Files* ボタンを使用して選択できます。</seg>
       </tuv>
     </tu>
     <tu>
