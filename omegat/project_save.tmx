@@ -6056,8 +6056,8 @@
       <tuv lang="en-US">
         <seg>Choose the ne_10m_lakes table and hit ``Add`` at the bottom (not ``Load`` at the top - that loads database connection parameters), and it should be loaded into QGIS:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T043653Z" creationid="miurahr" creationdate="20201108T043653Z">
-        <seg>ne_10m_lakesテーブルを選択し、一番下にある``[追加]``をクリックします(データベース接続パラメータをロードする``[読み込み]``をクリックするのではなく)。QGISにロードする必要があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063251Z" creationid="miurahr" creationdate="20201108T043653Z">
+        <seg>ne_10m_lakesテーブルを選択し、一番下にある ``[追加]`` をクリックします(データベース接続パラメータをロードする ``[読み込み]`` をクリックするのではなく)。QGISにロードする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9912,8 +9912,8 @@
       <tuv lang="en-US">
         <seg>From the ``Table`` menu choose the ``Import layer/file`` option.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T044123Z" creationid="miurahr" creationdate="20201108T044123Z">
-        <seg>``Table``メニューから``Import layer/file``オプションを選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063319Z" creationid="miurahr" creationdate="20201108T044123Z">
+        <seg>``Table`` メニューから ``Import layer/file`` オプションを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11144,8 +11144,8 @@
       <tuv lang="en-US">
         <seg>Go to ``Database -&gt; DB Manager -&gt; DB Manager``.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T043958Z" creationid="miurahr" creationdate="20201108T043958Z">
-        <seg> ``Database -&gt; DB Manager -&gt; DB Manager``に移動します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063309Z" creationid="miurahr" creationdate="20201108T043958Z">
+        <seg> ``Database -&gt; DB Manager -&gt; DB Manager`` に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11656,16 +11656,16 @@
       <tuv lang="en-US">
         <seg>Hit ``Edit`` if you want to see what those parameters are for Natural Earth, or just hit ``Connect`` to continue:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T043524Z" creationid="miurahr" creationdate="20201108T043524Z">
-        <seg>これらのパラメータがNatural Earthのパラメータであることを確認するには、``[編集]``をクリックします。続行するには、``[接続]``をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063218Z" creationid="miurahr" creationdate="20201108T043524Z">
+        <seg>これらのパラメータがNatural Earthのパラメータであることを確認するには、 ``[編集]`` をクリックします。続行するには、 ``[接続]`` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Hit the ``...`` button and browse to the ``sids.shp`` shapefile in the R ``maptools`` package (located in /usr/local/lib/R/site-library/spData/shapes):</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T044147Z" creationid="miurahr" creationdate="20201108T044147Z">
-        <seg>``...``ボタンを押して、R``maptools``パッケージ(/usr/local/lib/R/site-library/spData/shapesにある)``sids.shp``シェイプファイルを参照してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063341Z" creationid="miurahr" creationdate="20201108T044147Z">
+        <seg>``...`` ボタンを押して、R ``maptools`` パッケージ(/usr/local/lib/R/site-library/spData/shapesにある) ``sids.shp`` シェイプファイルを参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22205,8 +22205,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Start QGIS from the Desktop GIS menu and choose ``Add PostGIS layers`` from the layer menu.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T043416Z" creationid="miurahr" creationdate="20201108T043416Z">
-        <seg>デスクトップGISメニューからQGISを起動し、レイヤメニューから``PostGISレイヤを追加``を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T063158Z" creationid="miurahr" creationdate="20201108T043416Z">
+        <seg>デスクトップGISメニューからQGISを起動し、レイヤメニューから ``PostGISレイヤを追加`` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
