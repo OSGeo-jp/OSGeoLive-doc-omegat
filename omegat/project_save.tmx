@@ -26249,8 +26249,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To move the map left or right, up or down, hold your right mouse button down, and move your mouse.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T074159Z" creationid="miurahr" creationdate="20201103T072410Z">
-        <seg>画面上で右クリックをしたままマウスを動かすと、表示領域を上下左右に移動させることができます。。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075241Z" creationid="miurahr" creationdate="20201103T072410Z">
+        <seg>画面上で右クリックをしたままマウスを動かすと、表示領域を上下左右に移動させることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28073,8 +28073,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Website: https://josm.openstreetmap.de/</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>**Webサイト:** https://josm.openstreetmap.de/</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T075533Z">
+        <seg>Webサイト: https://josm.openstreetmap.de/</seg>
       </tuv>
     </tu>
     <tu>
