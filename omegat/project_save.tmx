@@ -2352,8 +2352,8 @@
       <tuv lang="en-US">
         <seg>*Default EPSG code*: this will be the native Coordinate Reference System of your geometries in the database.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T024340Z" creationid="miurahr" creationdate="20201122T024340Z">
-        <seg>*Default EPSG code*:これはデータベース内のジオメトリのネイティブの座標参照システムになります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083634Z" creationid="miurahr" creationdate="20201122T024340Z">
+        <seg>*Default EPSG code*: これはデータベース内のジオメトリのネイティブの座標参照システムになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2376,8 +2376,8 @@
       <tuv lang="en-US">
         <seg>*Example* (minimal configuration)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T025347Z" creationid="miurahr" creationdate="20201122T025347Z">
-        <seg>*例*(最小構成)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083743Z" creationid="miurahr" creationdate="20201122T025347Z">
+        <seg>*例* (最小構成)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2408,8 +2408,8 @@
       <tuv lang="en-US">
         <seg>*Optional parameters:* Fill at your own need and willing</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T025341Z" creationid="miurahr" creationdate="20201122T025341Z">
-        <seg>*Optional parameters:*必要に応じて自由に入力してください</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083732Z" creationid="miurahr" creationdate="20201122T025341Z">
+        <seg>*Optional parameters:* 必要に応じて自由に入力してください</seg>
       </tuv>
     </tu>
     <tu>
@@ -4440,8 +4440,8 @@
       <tuv lang="en-US">
         <seg>Alternatively, open a browser and go to `&lt;http://localhost/istsos/admin&gt;`_</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T023221Z" creationid="miurahr" creationdate="20201122T023221Z">
-        <seg>または、ブラウザを開き、`&lt;http://localhost/istsos/admin&gt;`_に移動します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083610Z" creationid="miurahr" creationdate="20201122T023221Z">
+        <seg>または、ブラウザを開き、 `&lt;http://localhost/istsos/admin&gt;`_ に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6184,16 +6184,16 @@
       <tuv lang="en-US">
         <seg>Click :guilabel:`Next`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T024643Z" creationid="miurahr" creationdate="20201122T024643Z">
-        <seg>:guilabel:`Next`をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083714Z" creationid="miurahr" creationdate="20201122T024643Z">
+        <seg>:guilabel:`Next` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Click :menuselection:`Data Management --&gt; Data Viewer`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T034547Z" creationid="miurahr" creationdate="20201122T034547Z">
-        <seg>:menuselection:`Data Management--&gt;Data Viewer`をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083833Z" creationid="miurahr" creationdate="20201122T034547Z">
+        <seg>:menuselection:`Data Management--&gt;Data Viewer` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6208,16 +6208,16 @@
       <tuv lang="en-US">
         <seg>Click :menuselection:`Geospatial --&gt; Webservices --&gt; istSOS` to open the Web Admin interface.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T023204Z" creationid="miurahr" creationdate="20201122T023204Z">
-        <seg>:menuselection:`Geospatial--&gt;Webservices--&gt;istSOS`をクリックして、Web Adminインターフェイスを開きます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083604Z" creationid="miurahr" creationdate="20201122T023204Z">
+        <seg>:menuselection:`Geospatial --&gt; Webservices --&gt; istSOS` をクリックして、Web Adminインターフェイスを開きます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Click :menuselection:`Geospatial --&gt; Webservices --&gt; istSOS`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T034524Z" creationid="miurahr" creationdate="20201122T034524Z">
-        <seg>:menuselection:`Geospatial--&gt;Webservices--&gt;istSOS`をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083825Z" creationid="miurahr" creationdate="20201122T034524Z">
+        <seg>:menuselection:`Geospatial --&gt; Webservices --&gt; istSOS` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6576,16 +6576,16 @@
       <tuv lang="en-US">
         <seg>Click the :guilabel:`Enter` button in the administration page</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T034534Z" creationid="miurahr" creationdate="20201122T034534Z">
-        <seg>管理ページで:guilabel:`Enter`ボタンをクリックします</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083829Z" creationid="miurahr" creationdate="20201122T034534Z">
+        <seg>管理ページで :guilabel:`Enter` ボタンをクリックします</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Click the :guilabel:`Enter` button in the administration page.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T023229Z" creationid="miurahr" creationdate="20201122T023229Z">
-        <seg>管理ページで:guilabel:`Enter`ボタンをクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083617Z" creationid="miurahr" creationdate="20201122T023229Z">
+        <seg>管理ページで :guilabel:`Enter` ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9952,16 +9952,16 @@
       <tuv lang="en-US">
         <seg>From the toolbar buttons menu press the "new service" button and click :guilabel:`Next`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T024610Z" creationid="miurahr" creationdate="20201122T024610Z">
-        <seg>ツールバーのボタンメニューから"new service"ボタンを押し、:guilabel:`Next`をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083648Z" creationid="miurahr" creationdate="20201122T024610Z">
+        <seg>ツールバーのボタンメニューから"new service"ボタンを押し、 :guilabel:`Next` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>From the toolbar buttons menu press the :guilabel:`New procedure` button.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T025317Z" creationid="miurahr" creationdate="20201122T025317Z">
-        <seg>ツールバーのボタンメニューから:guilabel:`New procedure`ボタンを押します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083726Z" creationid="miurahr" creationdate="20201122T025317Z">
+        <seg>ツールバーのボタンメニューから :guilabel:`New procedure` ボタンを押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18128,8 +18128,8 @@
       <tuv lang="en-US">
         <seg>Open a text editor by selecting :menuselection:`Accessories --&gt; FeatherPad`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T033820Z" creationid="miurahr" creationdate="20201122T033739Z">
-        <seg>:menuselection:`アクセサリ--&gt;FeatherPad`を選択して、テキストエディタを開きます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083815Z" creationid="miurahr" creationdate="20201122T033739Z">
+        <seg>:menuselection:`アクセサリ --&gt; FeatherPad` を選択して、テキストエディタを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19296,8 +19296,8 @@
       <tuv lang="en-US">
         <seg>Press :guilabel:`Next`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T024701Z" creationid="miurahr" creationdate="20201122T024701Z">
-        <seg>:guilabel:`Next`を押します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083720Z" creationid="miurahr" creationdate="20201122T024701Z">
+        <seg>:guilabel:`Next` を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26721,8 +26721,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Type **demo** for the Service name.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T024621Z" creationid="miurahr" creationdate="20201122T024621Z">
-        <seg>サービス名に**demo**と入力します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083710Z" creationid="miurahr" creationdate="20201122T024621Z">
+        <seg>サービス名に **demo** と入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32969,8 +32969,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>istSOS is an OGC |SOS| server implementation written in `Python &lt;https://www.python.org/&gt;`__.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T022053Z" creationid="miurahr" creationdate="20201122T022053Z">
-        <seg>istSOSは、`Python&lt;https://www.python.org/&gt;`__ で記述されたOGC |SOS|サーバ実装です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083553Z" creationid="miurahr" creationdate="20201122T022053Z">
+        <seg>istSOSは、 `Python &lt;https://www.python.org/&gt;`__ で記述されたOGC |SOS|サーバ実装です。</seg>
       </tuv>
     </tu>
     <tu>
