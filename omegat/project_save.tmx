@@ -880,8 +880,8 @@
       <tuv lang="en-US">
         <seg>**Login** using your OpenStreetMap account.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T051333Z" creationid="miurahr" creationdate="20201103T051333Z">
-        <seg>OpenStreetMapアカウントを使用して**ログイン**します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084059Z" creationid="miurahr" creationdate="20201103T051333Z">
+        <seg>OpenStreetMapアカウントを使用して **ログイン** します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5328,8 +5328,8 @@
       <tuv lang="en-US">
         <seg>Besides choosing any number of maps to view on your globe (including OpenStreetMap), you are encouraged to include a KDE Marble widget in your application.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T000702Z" creationid="miurahr" creationdate="20201117T000702Z">
-        <seg>地球儀に表示する(`OpenStreet Maps&lt;https://www.openstreetmap.org&gt;`_を含む)マップをいろいろ選択するだけでなく、アプリケーションにKDE Marbleウィジェットを含めることをお勧めします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083921Z" creationid="miurahr" creationdate="20201117T000702Z">
+        <seg>地球儀に表示する(`OpenStreet Maps&lt;https://www.openstreetmap.org&gt;`_ を含む)マップをいろいろ選択するだけでなく、アプリケーションにKDE Marbleウィジェットを含めることをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6480,8 +6480,8 @@
       <tuv lang="en-US">
         <seg>Click on the small arrow next to **Edit**, then click **Edit with iD (in-browser editor)**.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T051350Z" creationid="miurahr" creationdate="20201103T051350Z">
-        <seg>**[編集]**の横の小さな矢印をクリックし、[**iD編集(ブラウザ内エディタ)**]をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084120Z" creationid="miurahr" creationdate="20201103T051350Z">
+        <seg>**[編集]** の横の小さな矢印をクリックし、 **[iD編集(ブラウザ内エディタ)]** をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6568,8 +6568,8 @@
       <tuv lang="en-US">
         <seg>Click the :guilabel:`Add` button</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T034639Z" creationid="miurahr" creationdate="20201122T034639Z">
-        <seg>:guilabel:`Add`ボタンをクリックします</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083836Z" creationid="miurahr" creationdate="20201122T034639Z">
+        <seg>:guilabel:`Add` ボタンをクリックします</seg>
       </tuv>
     </tu>
     <tu>
@@ -6592,8 +6592,8 @@
       <tuv lang="en-US">
         <seg>Click the :guilabel:`Plot` button and check that the data have been added (watch out at your time zone!)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T034654Z" creationid="miurahr" creationdate="20201122T034654Z">
-        <seg>:guilabel:`Plot`ボタンをクリックし、データが追加されたことを確認します(タイムゾーンに注意してください)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083843Z" creationid="miurahr" creationdate="20201122T034654Z">
+        <seg>:guilabel:`Plot` ボタンをクリックし、データが追加されたことを確認します(タイムゾーンに注意してください)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17776,8 +17776,8 @@
       <tuv lang="en-US">
         <seg>On the desktop, choose :menuselection:`Navigation and Maps --&gt; Marble`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T000734Z" creationid="miurahr" creationdate="20201117T000525Z">
-        <seg>デスクトップから :menuselection:`ナビゲーションと地図 --&gt; Marble`を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083945Z" creationid="miurahr" creationdate="20201117T000525Z">
+        <seg>デスクトップから :menuselection:`ナビゲーションと地図 --&gt; Marble` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21093,8 +21093,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>See the `Marble documentation &lt;https://docs.kde.org/trunk5/en/kdeedu/marble/index.html&gt;`_ for help.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T001124Z" creationid="miurahr" creationdate="20201117T001124Z">
-        <seg>ヘルプについて、`Marble documentation &lt;https://docs.kde.org/trunk5/en/kdeedu/marble/index.html&gt;`_ を参照してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083953Z" creationid="miurahr" creationdate="20201117T001124Z">
+        <seg>ヘルプについて、 `Marble documentation &lt;https://docs.kde.org/trunk5/en/kdeedu/marble/index.html&gt;`_ を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26177,8 +26177,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To learn more about istSOS, a starting point is the `istSOS Documentation`_ and the `istSOS Tutorial`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T034633Z" creationid="miurahr" creationdate="20201122T034633Z">
-        <seg>istSOSについてさらに学ぶには、 `istSOS Documentation`_ と `istSOS Tutorial`_を参照してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083908Z" creationid="miurahr" creationdate="20201122T034633Z">
+        <seg>istSOSについてさらに学ぶには、 `istSOS Documentation`_ と `istSOS Tutorial`_ を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29921,8 +29921,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>[1] **Edit Feature Panel:** This panel shows tags from the object</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T051354Z" creationid="miurahr" creationdate="20201103T051354Z">
-        <seg>[1]**[フィーチャ編集]パネル:**このパネルにはオブジェクトのタグが表示されます</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084130Z" creationid="miurahr" creationdate="20201103T051354Z">
+        <seg>[1] **[フィーチャ編集]パネル:** このパネルにはオブジェクトのタグが表示されます</seg>
       </tuv>
     </tu>
     <tu>
@@ -29945,8 +29945,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>[2] **Tools:** This panel shows basic editing tools.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T051405Z" creationid="miurahr" creationdate="20201103T051405Z">
-        <seg>[2]**ツール:**このパネルには、基本的な編集ツールが表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084136Z" creationid="miurahr" creationdate="20201103T051405Z">
+        <seg>[2] **ツール:** このパネルには、基本的な編集ツールが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
