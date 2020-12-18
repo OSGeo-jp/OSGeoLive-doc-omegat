@@ -5224,8 +5224,8 @@
       <tuv lang="en-US">
         <seg>Be sure to visit the tutorial `Spatialite cookbook`_</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T021945Z" creationid="miurahr" creationdate="20201122T021945Z">
-        <seg>チュートリアル`Spatialite cookbook`_を必ず参照してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T070251Z" creationid="miurahr" creationdate="20201122T021945Z">
+        <seg>チュートリアル `Spatialite cookbook`_ を必ず参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26169,8 +26169,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To learn more about SpatiaLite, a starting point is the `SpatiaLite project page`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T021901Z" creationid="miurahr" creationdate="20201122T021901Z">
-        <seg>Spatialiteの詳細については、`Spatialite project page`_を参照してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T070240Z" creationid="miurahr" creationdate="20201122T021901Z">
+        <seg>Spatialiteの詳細については、 `Spatialite project page`_ を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
