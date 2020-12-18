@@ -19128,8 +19128,8 @@
       <tuv lang="en-US">
         <seg>PostgreSQL gives us a utility program for creating databases, ``createdb``.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T041310Z" creationid="miurahr" creationdate="20201108T041310Z">
-        <seg>PostgreSQLは、データベースを作成するためのユーティリティプログラム ``createdb``を提供します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T062359Z" creationid="miurahr" creationdate="20201108T041310Z">
+        <seg>PostgreSQLは、データベースを作成するためのユーティリティプログラム ``createdb`` を提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24064,8 +24064,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The list uses a standard unix pager - hit space for next page, :kbd:`b` to go back, :kbd:`q` to quit, h for help.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T041253Z" creationid="miurahr" creationdate="20201108T041234Z">
-        <seg>このリストでは標準的なUNIXのページャの使いかたを示します - スペースで次のページ、:kbd:`b`は戻る、:kbd:`q`は終了、hはヘルプを表示します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T062222Z" creationid="miurahr" creationdate="20201108T041234Z">
+        <seg>このリストでは標準的なUNIXのページャの使いかたを示します - スペースで次のページ、 :kbd:`b` は戻る、 :kbd:`q` は終了、h はヘルプを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27937,8 +27937,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>We'll call our database ``demo``.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T041702Z" creationid="miurahr" creationdate="20201108T041702Z">
-        <seg>わたしたちのデータベースを ``demo``と呼びます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T062411Z" creationid="miurahr" creationdate="20201108T041702Z">
+        <seg>わたしたちのデータベースを ``demo`` と呼びます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29369,8 +29369,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can usually get help for command line tools by using a ``--help`` option.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T041725Z" creationid="miurahr" creationdate="20201108T041725Z">
-        <seg>通常、コマンドラインツールのヘルプを表示するには、``--help``オプションを使います。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T062421Z" creationid="miurahr" creationdate="20201108T041725Z">
+        <seg>通常、コマンドラインツールのヘルプを表示するには、 ``--help`` オプションを使います。</seg>
       </tuv>
     </tu>
     <tu>
