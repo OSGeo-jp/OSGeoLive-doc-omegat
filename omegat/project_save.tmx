@@ -6200,8 +6200,8 @@
       <tuv lang="en-US">
         <seg>Click :menuselection:`Desktop --&gt; Spatial Tools --&gt; Start Mapnik &amp; TileStache`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T055615Z" creationid="miurahr" creationdate="20201103T055615Z">
-        <seg> :menuselection:`Desktop --&gt; Spatial Tools --&gt; Start Mapnik &amp; TileStache`をクリック。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T081233Z" creationid="miurahr" creationdate="20201103T055615Z">
+        <seg> :menuselection:`Desktop --&gt; Spatial Tools --&gt; Start Mapnik &amp; TileStache` をクリック。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18112,8 +18112,8 @@
       <tuv lang="en-US">
         <seg>Open a terminal window and type `python` on the command line to enter a python interpreter.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T055333Z" creationid="miurahr" creationdate="20201103T055333Z">
-        <seg>ターミナルウィンドウを開き、コマンドラインに`python`と入力して、pythonインタプリタを起動します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T081151Z" creationid="miurahr" creationdate="20201103T055333Z">
+        <seg>ターミナルウィンドウを開き、コマンドラインに `python` と入力して、pythonインタプリタを起動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23005,8 +23005,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The ASPRS LAS format is a sequential binary format used to store data from LiDAR sensors and by LiDAR processing software for data interchange and archival.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T060010Z" creationid="miurahr" creationdate="20201103T055953Z">
-        <seg>`ASPRS LAS format`_ は LiDAR センサや LiDAR 処理ソフトウェアがデータの保存、交換，アーカイブに使用しているシーケンシャルなバイナリフォーマットです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T081419Z" creationid="miurahr" creationdate="20201103T055953Z">
+        <seg>ASPRS LAS フォーマットは LiDAR センサや LiDAR 処理ソフトウェアがデータの保存、交換，アーカイブに使用しているシーケンシャルなバイナリフォーマットです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23768,8 +23768,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The demo uses a tileserver designed for Mapnik called "TileStache".</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T055551Z" creationid="miurahr" creationdate="20201103T055539Z">
-        <seg>このデモでは、Mapnik用に設計された`TileStache`と呼ばれるtileserverを使っています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T081219Z" creationid="miurahr" creationdate="20201103T055539Z">
+        <seg>このデモでは、Mapnik用に設計された"TileStache"と呼ばれるtileserverを使っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25041,8 +25041,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This GeoServer instance has been configured with the ``NETCDF_DATA_DIR`` Java system property to allow the publication of NetCDF files in read-only directories.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T234908Z" creationid="miurahr" creationdate="20201116T234908Z">
-        <seg>このGeoServerインスタンスは、``NETCDF_DATA_DIR``Javaシステムプロパティを使用して設定されており、読み取り専用ディレクトリにNetCDFファイルを公開できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T081133Z" creationid="miurahr" creationdate="20201116T234908Z">
+        <seg>このGeoServerインスタンスは、 ``NETCDF_DATA_DIR`` Javaシステムプロパティを使用して設定されており、読み取り専用ディレクトリにNetCDFファイルを公開できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27409,8 +27409,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Visit the Leaflet demo application page `http://localhost/leaflet-demo.html &lt;../../../leaflet-demo.html&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T055712Z" creationid="miurahr" creationdate="20201103T055702Z">
-        <seg>Leafletデモアプリケーションのページ `http://localhost/leaflet-demo.html &lt;../../../leaflet-demo.html&gt;`_. にアクセスしてください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T081303Z" creationid="miurahr" creationdate="20201103T055702Z">
+        <seg>Leafletデモアプリケーションのページ `http://localhost/leaflet-demo.html &lt;../../../leaflet-demo.html&gt;`_ にアクセスしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33489,8 +33489,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>libLAS is a C/C++ library for reading and writing the very common LAS LiDAR format.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T060022Z" creationid="miurahr" creationdate="20201103T055938Z">
-        <seg>ibLAS は一般的な `LAS` `LiDAR`_ フォーマットを読み書きするための C/C++ ライブラリです。 。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T081348Z" creationid="miurahr" creationdate="20201103T055938Z">
+        <seg>ibLAS は一般的な LAS LiDAR フォーマットを読み書きするための C/C++ ライブラリです。 。</seg>
       </tuv>
     </tu>
     <tu>
