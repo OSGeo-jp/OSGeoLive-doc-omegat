@@ -13072,8 +13072,8 @@
       <tuv lang="en-US">
         <seg>Initially developed as a central component of the EU's :doc:`INSPIRE &lt;inspire_overview&gt;` infrastructure, it provides a consistent central access point where labels and descriptions for reference codes can be easily browsed by humans and retrieved by machines.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T015034Z" creationid="miurahr" creationdate="20201103T015034Z">
-        <seg>当初はEUの:doc:`INSPIRE&lt;inspire_overview&gt;`インフラストラクチャの中心的なコンポーネントとして開発されたもので、リファレンスコードのラベルと説明を人間が簡単にブラウズし、マシンが検索できる一貫した中央アクセスポイントを提供します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T052340Z" creationid="miurahr" creationdate="20201103T015034Z">
+        <seg>当初はEUの:doc:`INSPIRE&lt;inspire_overview&gt;` インフラストラクチャの中心的なコンポーネントとして開発されたもので、リファレンスコードのラベルと説明を人間が簡単にブラウズし、マシンが検索できる一貫した中央アクセスポイントを提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20099,6 +20099,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Re3gistry</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T052331Z" creationid="sanak" creationdate="20201218T052331Z">
+        <seg>Re3gistry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Read more about ``ogr_fdw``: * Repository: https://github.com/pramsey/pgsql-ogr-fdw * New and improved: http://blog.cleverelephant.ca/2016/04/ogr-fdw-update.html</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T003205Z" creationid="miurahr" creationdate="20201117T003205Z">
@@ -20695,6 +20703,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Ruth Schoenbuchner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SAGA</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T052313Z" creationid="sanak" creationdate="20201218T052313Z">
+        <seg>SAGA</seg>
       </tuv>
     </tu>
     <tu>
