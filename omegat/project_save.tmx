@@ -25961,8 +25961,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To assign a color map to our grid we can make a GMT color palette tables with the `makecpt` command.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T235810Z" creationid="miurahr" creationdate="20201116T235810Z">
-        <seg>グリッドにカラーマップを割り当てるには、`makecpt`コマンドを使用してGMTカラーパレットテーブルを作成します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T053638Z" creationid="miurahr" creationdate="20201116T235810Z">
+        <seg>グリッドにカラーマップを割り当てるには、 `makecpt` コマンドを使用してGMTカラーパレットテーブルを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27633,8 +27633,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>We can convert the DTM in a GMT Compatible netCDF file format with `gdal_translate` as follow:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T235711Z" creationid="miurahr" creationdate="20201116T235711Z">
-        <seg>`gdal_translate`を使用して、GMT互換のnetCDFファイル形式のDTMを次のように変換できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T053615Z" creationid="miurahr" creationdate="20201116T235711Z">
+        <seg>`gdal_translate` を使用して、GMT互換のnetCDFファイル形式のDTMを次のように変換できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27897,8 +27897,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>We will set the range and number of colors with the flag `-T` and assign a colormap with the flag `-C`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T235823Z" creationid="miurahr" creationdate="20201116T235823Z">
-        <seg>`-T`フラグで色の範囲と数を設定し、`-C`フラグでカラーマップを割り当てます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T053714Z" creationid="miurahr" creationdate="20201116T235823Z">
+        <seg> `-T` フラグで色の範囲と数を設定し、 `-C` フラグでカラーマップを割り当てます。</seg>
       </tuv>
     </tu>
     <tu>
