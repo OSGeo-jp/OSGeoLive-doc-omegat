@@ -6456,8 +6456,8 @@
       <tuv lang="en-US">
         <seg>Click on the map to select a feature from the :doc:`GeoServer &lt;../overview/geoserver_overview&gt;` WFS Server, the feature will be displayed in blue.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T134322Z" creationid="miurahr" creationdate="20201120T134322Z">
-        <seg>地図をクリックして:doc:`GeoServer&lt;./overview/geoserver_overview&gt;`WFS Serverから地物を選択すると、地物が青で表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T054614Z" creationid="miurahr" creationdate="20201120T134322Z">
+        <seg>地図をクリックして :doc:`GeoServer &lt;../overview/geoserver_overview&gt;` WFS Serverから地物を選択すると、地物が青で表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17736,24 +17736,24 @@
       <tuv lang="en-US">
         <seg>On the ZOO Project demonstration landing page, click :guilabel:`view` on CGAL triangulations.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T134405Z" creationid="miurahr" creationdate="20201120T134405Z">
-        <seg>ZOOプロジェクトのデモ着地ページで、CGAL三角形分割の:guilabel:`view`をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T054640Z" creationid="miurahr" creationdate="20201120T134405Z">
+        <seg>ZOOプロジェクトのデモランディングページで、CGAL三角形分割の :guilabel:`view` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>On the ZOO Project demonstration landing page, click :guilabel:`view` on OGR spatial tools.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T054534Z" creationid="miurahr" creationdate="20201120T134313Z">
-        <seg>ZOOプロジェクトのデモランディングページで、OGR空間ツールの :guilabel:`ビュー` をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T054653Z" creationid="miurahr" creationdate="20201120T134313Z">
+        <seg>ZOOプロジェクトのデモランディングページで、OGR空間ツールの :guilabel:`view` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>On the ZOO Project demonstration landing page, click :guilabel:`view` on OTB application.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T134500Z" creationid="miurahr" creationdate="20201120T134500Z">
-        <seg>ZOOプロジェクトのデモ着地ページで、OTBアプリケーションの:guilabel:`view`をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T055127Z" creationid="miurahr" creationdate="20201120T134500Z">
+        <seg>ZOOプロジェクトのデモランディングページで、OTBアプリケーションの :guilabel:`view` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
