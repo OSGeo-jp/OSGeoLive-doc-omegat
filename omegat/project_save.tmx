@@ -4144,8 +4144,8 @@
       <tuv lang="en-US">
         <seg>After the layer upload is completed, you can either preview the layer with *Layer Info* button, or edit the layer metadata with *Edit Metadata* or edit layer style on GeoServer with *Manage Styles* button.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T152131Z" creationid="miurahr" creationdate="20201116T142915Z">
-        <seg>レイヤのアップロードが完了したら、 *Layer Info* ボタンを使用してレイヤをプレビューするか、*Edit Metadata* を使用してレイヤメタデータを編集するか、 *Manage Styles* ボタンを使用してGeoServer上のレイヤスタイルを編集できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T082026Z" creationid="miurahr" creationdate="20201116T142915Z">
+        <seg>レイヤのアップロードが完了したら、 *Layer Info* ボタンを使用してレイヤをプレビューするか、 *Edit Metadata* を使用してレイヤメタデータを編集するか、 *Manage Styles* ボタンを使用してGeoServer上のレイヤスタイルを編集できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6168,8 +6168,8 @@
       <tuv lang="en-US">
         <seg>Click *Done* next to the *Add Layers* button to see the legend of your map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T145113Z" creationid="miurahr" creationdate="20201116T145113Z">
-        <seg>*Add Layers*ボタンの横の*Done*をクリックして、マップの凡例を表示します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T082127Z" creationid="miurahr" creationdate="20201116T145113Z">
+        <seg>*Add Layers* ボタンの横の *Done* をクリックして、マップの凡例を表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6400,8 +6400,8 @@
       <tuv lang="en-US">
         <seg>Click on the *New Layers* button and select *Add Layers*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T152153Z" creationid="miurahr" creationdate="20201116T143225Z">
-        <seg>*New Layers*  ボタンをクリックし、 *Add Layers* を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T082112Z" creationid="miurahr" creationdate="20201116T143225Z">
+        <seg>*New Layers* ボタンをクリックし、 *Add Layers* を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6552,16 +6552,16 @@
       <tuv lang="en-US">
         <seg>Click the *Explore Maps* link on the *Maps* toolbar.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142948Z" creationid="miurahr" creationdate="20201116T142948Z">
-        <seg>[*Maps*]ツールバーの[*Explore Maps*]リンクをクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T082048Z" creationid="miurahr" creationdate="20201116T142948Z">
+        <seg>*[Maps]* ツールバーの *[Explore Maps]* リンクをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Click the *Map* button in the toolbar, and then click *Publish Map*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T152252Z" creationid="miurahr" creationdate="20201116T145405Z">
-        <seg>ツールバーの *Map*ボタンをクリックし、 *Publish Map* をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T082140Z" creationid="miurahr" creationdate="20201116T145405Z">
+        <seg>ツールバーの *Map* ボタンをクリックし、 *Publish Map* をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25945,8 +25945,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To add one click the *Create a New Map* button.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T143008Z" creationid="miurahr" creationdate="20201116T143008Z">
-        <seg>追加するには、*Create a New Map* ボタンをクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T082058Z" creationid="miurahr" creationdate="20201116T143008Z">
+        <seg>追加するには、 *Create a New Map* ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26137,16 +26137,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To install GeoNode on your own server, follow our `Quick Installation Guide &lt;https://docs.geonode.org/en/master/start/index.html#quick-installation-guide&gt;`_ .</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T152332Z" creationid="miurahr" creationdate="20201116T145934Z">
-        <seg>GeoNodeを独自のサーバーにインストールするには、`クイックインストールガイド &lt;https://docs.geonode.org/en/master/start/index.html#quick-installation-guide&gt;`_ に従ってください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T082205Z" creationid="miurahr" creationdate="20201116T145934Z">
+        <seg>GeoNodeを独自のサーバーにインストールするには、 `クイックインストールガイド &lt;https://docs.geonode.org/en/master/start/index.html#quick-installation-guide&gt;`_ に従ってください。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>To learn more about GeoNode and its features, visit our webpage www.geonode.org.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T145928Z" creationid="miurahr" creationdate="20201116T145928Z">
-        <seg>GeoNodeとその機能の詳細については、Webページwww.geonode.orgを参照してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T082154Z" creationid="miurahr" creationdate="20201116T145928Z">
+        <seg>GeoNodeとその機能の詳細については、Webページ www.geonode.org を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28985,8 +28985,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can do this through the #geonode IRC channel using https://webchat.freenode.net/, through the `GeoNode Gitter channel &lt;https://gitter.im/GeoNode/general&gt;`_ or by asking your question in our `mailing list &lt;https://lists.osgeo.org/cgi-bin/mailman/listinfo/geonode-users&gt;`_ !</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T152447Z" creationid="miurahr" creationdate="20201116T150423Z">
-        <seg>https://webchat.freenode.net/  の #geonode IRCチャネルを使用したり、 `GeoNode Gitterチャネル &lt;https://gitter.im/GeoNode/general&gt;`_  にアクセスしたり、または私たちの `メーリングリスト &lt;https://lists.osgeo.org/cgi-bin/mailman/listinfo/geonode-users&gt;`_ で質問いただけます。問</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T082719Z" creationid="miurahr" creationdate="20201116T150423Z">
+        <seg>https://webchat.freenode.net/  の #geonode IRCチャンネルを使用したり、 `GeoNode Gitterチャンネル &lt;https://gitter.im/GeoNode/general&gt;`_  にアクセスしたり、または私たちの `メーリングリスト &lt;https://lists.osgeo.org/cgi-bin/mailman/listinfo/geonode-users&gt;`_ で質問いただけます。問</seg>
       </tuv>
     </tu>
     <tu>
