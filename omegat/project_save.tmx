@@ -2384,8 +2384,8 @@
       <tuv lang="en-US">
         <seg>*Features* represent real world things and can be rendered using different *geometries* (like point, line or polygon) using a given *style*, which determines its look (line thinkness, fill color, etc).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T004459Z" creationid="miurahr" creationdate="20201108T004459Z">
-        <seg>*フィーチャー*は現実世界のものを表し、特定の*スタイル*を使用して、さまざまな*ジオメトリ*(点、線、ポリゴンなど)を使用してレンダリングできます。これにより、外観(線の思考、塗り潰し色など)が決まります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071116Z" creationid="miurahr" creationdate="20201108T004459Z">
+        <seg>*フィーチャー* は現実世界のものを表し、特定の*スタイル*を使用して、さまざまな *ジオメトリ* (点、線、ポリゴンなど)を使用してレンダリングできます。これにより、外観(線の思考、塗り潰し色など)が決まります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2400,8 +2400,8 @@
       <tuv lang="en-US">
         <seg>*Layers* can be added to the map in a stacked order.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T003921Z" creationid="miurahr" creationdate="20201108T003921Z">
-        <seg>*レイヤ*はスタック順にマップに追加できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071032Z" creationid="miurahr" creationdate="20201108T003921Z">
+        <seg>*レイヤ* はスタック順にマップに追加できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4512,8 +4512,8 @@
       <tuv lang="en-US">
         <seg>An OpenLayers map needs to be attached to a HTML DOM element, so we have created a ``&lt;div&gt;`` element identified by the *map* id.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T015417Z" creationid="miurahr" creationdate="20201108T015417Z">
-        <seg>OpenLayersマップはHTML DOM要素にアタッチする必要があるため、*map*idで識別される``&lt;div&gt;``要素を作成しました。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071137Z" creationid="miurahr" creationdate="20201108T015417Z">
+        <seg>OpenLayersマップはHTML DOM要素にアタッチする必要があるため、 *map* idで識別される ``&lt;div&gt;`` 要素を作成しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8552,8 +8552,8 @@
       <tuv lang="en-US">
         <seg>Each layer has a *source*, which knows how to load the layer content.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T004231Z" creationid="miurahr" creationdate="20201108T004231Z">
-        <seg>各レイヤには、レイヤコンテンツのロード方法を知っている*ソース*があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071052Z" creationid="miurahr" creationdate="20201108T004231Z">
+        <seg>各レイヤには、レイヤコンテンツのロード方法を知っている *ソース* があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9464,8 +9464,8 @@
       <tuv lang="en-US">
         <seg>For a *map* to render, a *view*, one or more *layers*, and a target container are needed.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T004028Z" creationid="miurahr" creationdate="20201108T003726Z">
-        <seg>*マップ*をレンダリングするには、*ビュー*、1つまたは複数の*レイヤ*、およびターゲットコンテナが必要です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071020Z" creationid="miurahr" creationdate="20201108T003726Z">
+        <seg>*マップ* をレンダリングするには、 *ビュー* 、1つまたは複数の *レイヤ* 、およびターゲットコンテナが必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12720,8 +12720,8 @@
       <tuv lang="en-US">
         <seg>In the case of *vector layers*, its source reads vector data using a *format* class (for example GeoJSON or KML) and provides the layer with a set of *features*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T015224Z" creationid="miurahr" creationdate="20201108T004357Z">
-        <seg>*ベクタレイヤ*の場合、そのソースは*フォーマット*クラス(例えばGeoJSONやKML)を使ってベクタデータを読み込み、一連の*フィーチャー*をレイヤに提供します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071105Z" creationid="miurahr" creationdate="20201108T004357Z">
+        <seg>*ベクタレイヤ* の場合、そのソースは *フォーマット* クラス(例えばGeoJSONやKML)を使ってベクタデータを読み込み、一連の *フィーチャー* をレイヤに提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14632,8 +14632,8 @@
       <tuv lang="en-US">
         <seg>Layers can be either *raster layers* (images), or *vector layers* (points/lines/polygons).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T004155Z" creationid="miurahr" creationdate="20201108T004155Z">
-        <seg>レイヤは、*ラスタレイヤ*(イメージ)または*ベクタレイヤ*(点/線分/ポリゴン)のいずれかです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071045Z" creationid="miurahr" creationdate="20201108T004155Z">
+        <seg>レイヤは、 *ラスタレイヤ* (イメージ)または *ベクタレイヤ* (点/線分/ポリゴン)のいずれかです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15552,8 +15552,8 @@
       <tuv lang="en-US">
         <seg>Maps are represented by the ``ol.Map`` class.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T021059Z" creationid="miurahr" creationdate="20201108T015421Z">
-        <seg>マップは``ol.Map``クラスで表されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071142Z" creationid="miurahr" creationdate="20201108T015421Z">
+        <seg>マップは ``ol.Map`` クラスで表されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22957,16 +22957,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The *map* is the core component of OpenLayers.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T004052Z" creationid="miurahr" creationdate="20201108T003647Z">
-        <seg>*マップ*はOpenLayersの主要な要素です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071006Z" creationid="miurahr" creationdate="20201108T003647Z">
+        <seg>*マップ* はOpenLayersの主要な要素です。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The *view* determines how the map is rendered.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T003959Z" creationid="miurahr" creationdate="20201108T003806Z">
-        <seg>*ビュー*はmapのレンダリング方法を決定します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071025Z" creationid="miurahr" creationdate="20201108T003806Z">
+        <seg>*ビュー* はmapのレンダリング方法を決定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27761,8 +27761,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>We specify the DOM element to render the map into using the **target** property.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T015426Z" creationid="miurahr" creationdate="20201108T015426Z">
-        <seg>**target**プロパティーを使用して、マップをレンダリングするDOM要素を指定します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071207Z" creationid="miurahr" creationdate="20201108T015426Z">
+        <seg> **target** プロパティーを使用して、マップをレンダリングするDOM要素を指定します。</seg>
       </tuv>
     </tu>
     <tu>
