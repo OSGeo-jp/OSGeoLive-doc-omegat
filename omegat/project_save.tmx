@@ -4920,8 +4920,8 @@
       <tuv lang="en-US">
         <seg>As you scroll down the page you will see that |GS| has filled in many of the fields for you.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T230958Z" creationid="miurahr" creationdate="20201116T230849Z">
-        <seg>ページをスクロールすると、|GS| が多くのフィールドにデータ挿入していることがわかります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080630Z" creationid="miurahr" creationdate="20201116T230849Z">
+        <seg>ページをスクロールすると、 |GS| が多くのフィールドにデータ挿入していることがわかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6288,8 +6288,8 @@
       <tuv lang="en-US">
         <seg>Click on :guilabel:`Add new Store`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T230536Z" creationid="miurahr" creationdate="20201116T230536Z">
-        <seg>:guilabel:`Add new Store`をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080559Z" creationid="miurahr" creationdate="20201116T230536Z">
+        <seg>:guilabel:`Add new Store` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6304,8 +6304,8 @@
       <tuv lang="en-US">
         <seg>Click on :guilabel:`Compute from data` and :guilabel:`Compute from native bounds` to fill in the Bounding Boxes.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T231056Z" creationid="miurahr" creationdate="20201116T231006Z">
-        <seg>:guilabel:`Compute from data`と:guilabel:`Compute from native bounds`をクリックして、境界ボックス内のデータ表示します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080703Z" creationid="miurahr" creationdate="20201116T231006Z">
+        <seg>:guilabel:`Compute from data` と :guilabel:`Compute from native bounds` をクリックして、境界ボックス内のデータ表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9240,8 +9240,8 @@
       <tuv lang="en-US">
         <seg>Finally hit :guilabel:`save` and you have published your first layer.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T004052Z" creationid="miurahr" creationdate="20201116T231012Z">
-        <seg>最後に:guilabel:`保存`をクリックて、最初のレイヤを公開しました。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080709Z" creationid="miurahr" creationdate="20201116T231012Z">
+        <seg>最後に :guilabel:`保存` をクリックて、最初のレイヤを公開しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9984,8 +9984,8 @@
       <tuv lang="en-US">
         <seg>From the |GS| admin page go to :guilabel:`Stores`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T230530Z" creationid="miurahr" creationdate="20201116T230530Z">
-        <seg>|GS| 管理ページから:guilabel:`Stores`に移動します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080556Z" creationid="miurahr" creationdate="20201116T230530Z">
+        <seg>|GS| 管理ページから :guilabel:`Stores` に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12928,8 +12928,8 @@
       <tuv lang="en-US">
         <seg>In this example we are going to use the :doc:`Natural Earth data set &lt;../overview/naturalearth_overview&gt;` that is included on OSGeoLive (:file:`/usr/local/share/data/natural_earth2/`).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T150735Z" creationid="miurahr" creationdate="20201116T150735Z">
-        <seg>この例では、OSGeoLiveに含まれている:doc:`Natural Earthデータセット&lt;./overview/naturalearth_overview&gt;`(:file:`/usr/local/share/data/natural_earth2/`)を使用します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080549Z" creationid="miurahr" creationdate="20201116T150735Z">
+        <seg>この例では、OSGeoLiveに含まれている :doc:`Natural Earthデータセット &lt;./overview/naturalearth_overview&gt;` (:file:`/usr/local/share/data/natural_earth2/`)を使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14976,8 +14976,8 @@
       <tuv lang="en-US">
         <seg>Log in using the username **admin** and password **geoserver**.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T150532Z" creationid="miurahr" creationdate="20201116T150532Z">
-        <seg>ユーザー名**admin**とパスワード**geoserver**を使用してログインします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080454Z" creationid="miurahr" creationdate="20201116T150532Z">
+        <seg>ユーザー名 **admin** とパスワード **geoserver** を使用してログインします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19328,16 +19328,16 @@
       <tuv lang="en-US">
         <seg>Press :guilabel:`publish` next to one of the layers to finish adding the data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T003955Z" creationid="miurahr" creationdate="20201116T230820Z">
-        <seg>いずれかのレイヤーの横にある:guilabel:`公開`を押して、データの追加を完了します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080622Z" creationid="miurahr" creationdate="20201116T230820Z">
+        <seg>いずれかのレイヤーの横にある :guilabel:`公開` を押して、データの追加を完了します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Press :guilabel:`save`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T003947Z" creationid="miurahr" creationdate="20201116T230814Z">
-        <seg>:guilabel:`保存`を押します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080616Z" creationid="miurahr" creationdate="20201116T230814Z">
+        <seg>:guilabel:`保存` を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20957,8 +20957,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Scroll to the bottom of the page and click on the **OpenLayers** link in the **tiger-ny** row.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T150613Z" creationid="miurahr" creationdate="20201116T150613Z">
-        <seg>ページの下部までスクロールし、**tiger-ny**行の**OpenLayers**リンクをクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080516Z" creationid="miurahr" creationdate="20201116T150613Z">
+        <seg>ページの下部までスクロールし、 **tiger-ny** 行の **OpenLayers** リンクをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21309,8 +21309,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select the **Layer Preview** link at the top of the *Data* section in the left hand menu to see a preview of the layers that are loaded on the server.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T150607Z" creationid="miurahr" creationdate="20201116T150607Z">
-        <seg>左側のメニューの *Data*セクションの一番上にある **Layer Preview**リンクをクリックすると、サーバーにロードされているレイヤのプレビューが表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080505Z" creationid="miurahr" creationdate="20201116T150607Z">
+        <seg>左側のメニューの *Data* セクションの一番上にある **Layer Preview** リンクをクリックすると、サーバーにロードされているレイヤのプレビューが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21325,8 +21325,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select the :guilabel:`Directory of spatial files`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T230545Z" creationid="miurahr" creationdate="20201116T230545Z">
-        <seg>:guilabel:`Directory of spatial files`を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080603Z" creationid="miurahr" creationdate="20201116T230545Z">
+        <seg>:guilabel:`Directory of spatial files` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25753,8 +25753,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This will take you to the *Layers* page:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T004004Z" creationid="miurahr" creationdate="20201116T230827Z">
-        <seg>これにより、*レイヤ*ページに移動します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080626Z" creationid="miurahr" creationdate="20201116T230827Z">
+        <seg>これにより、 *レイヤ* ページに移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26761,8 +26761,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Type in a name for the Data Store (for example, *Natural Earth*) and fill in the URL to the data set - in this case :file:`/usr/local/share/data/natural_earth2/`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T230804Z" creationid="miurahr" creationdate="20201116T230804Z">
-        <seg>データストアの名前(*Natural Earth*など)を入力し、データセットのURL(この場合は:file:`/usr/local/share/data/natural_earth2/`)を入力します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080613Z" creationid="miurahr" creationdate="20201116T230804Z">
+        <seg>データストアの名前(*Natural Earth*など)を入力し、データセットのURL(この場合は :file:`/usr/local/share/data/natural_earth2/`)を入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28377,8 +28377,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>When you reach :guilabel:`Coordinate Reference System` you will notice that under *Native SRS* it says UNKNOWN you will need to fill in the next box (*declared SRS*) to make sure |GS| knows where the data is.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T230931Z" creationid="miurahr" creationdate="20201116T230931Z">
-        <seg>:guilabel:`Coordinate Reference System`に到達すると、*Native SRS*の下にUNKNOWNと表示されていることがわかります。次のボックス(*declared SRS*)に入力して、|GS| がデータの場所を確実に認識できるようにする必要があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080654Z" creationid="miurahr" creationdate="20201116T230931Z">
+        <seg>:guilabel:`Coordinate Reference System` に到達すると、 *Native SRS* の下にUNKNOWNと表示されていることがわかります。次のボックス(*declared SRS*)に入力して、 |GS| がデータの場所を確実に認識できるようにする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29097,8 +29097,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can follow the same step with the other layers in the directory by using the :guilabel:`Add a new resource` button on the layers page.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T231117Z" creationid="miurahr" creationdate="20201116T231117Z">
-        <seg>ディレクトリ内の他のレイヤーについても、レイヤーページの:guilabel:`Add a new resource`ボタンを使用して同じ手順を実行できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080756Z" creationid="miurahr" creationdate="20201116T231117Z">
+        <seg>ディレクトリ内の他のレイヤーについても、レイヤーページの :guilabel:`Add a new resource` ボタンを使用して同じ手順を実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29649,8 +29649,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You will not be able to carry out the following steps if you are running with a **read only** file system (such as the DVD).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T150715Z" creationid="miurahr" creationdate="20201116T150715Z">
-        <seg>**読み取り専用**ファイルシステム(DVDなど)を使用している場合は、次の手順を実行できません。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080534Z" creationid="miurahr" creationdate="20201116T150715Z">
+        <seg>**読み取り専用** ファイルシステム(DVDなど)を使用している場合は、次の手順を実行できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29689,8 +29689,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You will now see the *admin page*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T234005Z" creationid="miurahr" creationdate="20201116T150536Z">
-        <seg>これで、*admin page*が表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080458Z" creationid="miurahr" creationdate="20201116T150536Z">
+        <seg>これで、 *admin page* が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31145,8 +31145,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>by dragging a box on the map while holding down the :kbd:`shift key` - this will zoom in to the box selected (or as near as will fit in the screen).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T150650Z" creationid="miurahr" creationdate="20201116T150650Z">
-        <seg>:kbd:`shiftキー`-を押しながらマップ上のボックスをドラッグすると、選択されたボックスにズームします(または画面に収まる程度にズームします)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T080528Z" creationid="miurahr" creationdate="20201116T150650Z">
+        <seg>:kbd:`shiftキー` - を押しながらマップ上のボックスをドラッグすると、選択されたボックスにズームします(または画面に収まる程度にズームします)。</seg>
       </tuv>
     </tu>
     <tu>
