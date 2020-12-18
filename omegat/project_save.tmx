@@ -22949,8 +22949,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The **Projects** view has been updated to show that your map is stored in `projects &gt; ne 10m admin 0 countries`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T073127Z" creationid="miurahr" creationdate="20201120T142333Z">
-        <seg>**プロジェクト** ビューが更新され、あなたのマップが `projects &gt; ne 10m admin 0 countries`に保存されていることが示されました。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T083223Z" creationid="miurahr" creationdate="20201120T142333Z">
+        <seg>**プロジェクト** ビューが更新され、あなたのマップが `projects &gt; ne 10m admin 0 countries` に保存されていることが示されました。</seg>
       </tuv>
     </tu>
     <tu>
