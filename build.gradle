@@ -1,0 +1,20 @@
+// OmegaT plugin
+plugins {
+    id 'org.omegat.gradle'
+}
+
+repositories {
+    maven {
+        url "https://dl.bintray.com/omegat-org/maven/"
+    }
+    maven {
+        url "https://plugins.gradle.org/m2/"
+    }
+    mavenLocal()
+    jcenter()
+}
+import org.omegat.gradle.OmegatTask
+
+task runOmegaT(type: OmegatTask) {
+    options = [projectDir]
+}

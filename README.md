@@ -47,3 +47,15 @@ $ pip install -r requirements.txt
    $ python3 tools/format_target.py [原文フォルダのパス(デフォルト: source)] [訳文フォルダのパス(デフォルト: target)]
    ```
 2. `source` フォルダと `target` フォルダを比較して、有意な変更のあった訳文ファイルのみ、Transifexにアップロード
+
+
+## 訳文の生成
+
+
+```
+
+$ ./gradlew trasnlate
+
+
+```
+
