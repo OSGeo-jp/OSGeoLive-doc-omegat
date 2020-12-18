@@ -18464,8 +18464,8 @@
       <tuv lang="en-US">
         <seg>Or, you can add custom tags by clicking **All tags**.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053615Z" creationid="miurahr" creationdate="20201103T053615Z">
-        <seg>または、カスタムタグを **全タグ**をクリックして追加。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085754Z" creationid="miurahr" creationdate="20201103T053615Z">
+        <seg>または、カスタムタグを **全タグ** をクリックして追加。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32969,8 +32969,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>istSOS is an OGC |SOS| server implementation written in `Python &lt;https://www.python.org/&gt;`__.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T083553Z" creationid="miurahr" creationdate="20201122T022053Z">
-        <seg>istSOSは、 `Python &lt;https://www.python.org/&gt;`__ で記述されたOGC |SOS|サーバ実装です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085705Z" creationid="miurahr" creationdate="20201122T022053Z">
+        <seg>istSOSは、 `Python &lt;https://www.python.org/&gt;`__ で記述されたOGC |SOS| サーバ実装です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36687,6 +36687,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|image20|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085716Z" creationid="sanak" creationdate="20201218T085716Z">
+        <seg>|image20|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|image21|</seg>
       </tuv>
       <tuv lang="ja">
@@ -36703,10 +36711,42 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|image23|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085724Z" creationid="sanak" creationdate="20201218T085724Z">
+        <seg>|image23|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|image24|</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|image24|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|image26|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085725Z" creationid="sanak" creationdate="20201218T085725Z">
+        <seg>|image26|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|image27|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085727Z" creationid="sanak" creationdate="20201218T085727Z">
+        <seg>|image27|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|image30|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085721Z" creationid="sanak" creationdate="20201218T085721Z">
+        <seg>|image30|</seg>
       </tuv>
     </tu>
     <tu>
@@ -36731,6 +36771,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|image36|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|image3|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085717Z" creationid="sanak" creationdate="20201218T085717Z">
+        <seg>|image3|</seg>
       </tuv>
     </tu>
     <tu>
