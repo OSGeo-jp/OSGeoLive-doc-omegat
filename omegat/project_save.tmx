@@ -3320,8 +3320,8 @@
       <tuv lang="en-US">
         <seg>A complete beginner tutorial can be found on `localhost/geostyler &lt;localhost/geostyler&gt;`__.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T235051Z" creationid="miurahr" creationdate="20201116T235051Z">
-        <seg>完全な初心者向けチュートリアルは、`localhost/geostyler&lt;localhost/geostyler&gt;`__にあります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T065310Z" creationid="miurahr" creationdate="20201116T235051Z">
+        <seg>完全な初心者向けチュートリアルは、 `localhost/geostyler &lt;localhost/geostyler&gt;`__ にあります。</seg>
       </tuv>
     </tu>
     <tu>
