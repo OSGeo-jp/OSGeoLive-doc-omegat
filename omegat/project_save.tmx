@@ -2728,8 +2728,8 @@
       <tuv lang="en-US">
         <seg>:doc:`Download &lt;../download&gt;` osgeolive or osgeolive-mini to your computer's hard drive.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T135114Z" creationid="miurahr" creationdate="20201120T135024Z">
-        <seg>osgeoliveまたはosgeolive-miniをコンピュータのハードディスクに :doc:`ダウンロード &lt;../download&gt;`してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T072208Z" creationid="miurahr" creationdate="20201120T135024Z">
+        <seg>osgeoliveまたはosgeolive-miniをコンピュータのハードディスクに :doc:`ダウンロード &lt;../download&gt;` してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4424,8 +4424,8 @@
       <tuv lang="en-US">
         <seg>Alternative USB creation methods and latest tips are collected here: `wiki &lt;https://wiki.osgeo.org/wiki/Live_GIS_Disc_Quick_Start_for_USB&gt;`_</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T135853Z" creationid="miurahr" creationdate="20201120T135853Z">
-        <seg>代替のUSB作成方法と最新のヒントは、次の場所に集められています:`wiki&lt;https://wiki.osgeo.org/wiki/Live_GIS_Disc_Quick_Start_for_USB&gt;`_</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T072424Z" creationid="miurahr" creationdate="20201120T135853Z">
+        <seg>代替のUSB作成方法と最新のヒントは、次の場所に集められています: `wiki &lt;https://wiki.osgeo.org/wiki/Live_GIS_Disc_Quick_Start_for_USB&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
@@ -5208,8 +5208,8 @@
       <tuv lang="en-US">
         <seg>Be certain to select the correct block device as ``dd`` will overwrite it without question, even if it is your primary system drive.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T134945Z" creationid="miurahr" creationdate="20201120T134945Z">
-        <seg>``dd``は、たとえプライマリシステムドライブであっても、問題なく上書きするので、正しいブロックデバイスを選択してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T072155Z" creationid="miurahr" creationdate="20201120T134945Z">
+        <seg>``dd`` は、たとえプライマリシステムドライブであっても、問題なく上書きするので、正しいブロックデバイスを選択してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19812,8 +19812,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Questions can be directed to our email list: https://lists.osgeo.org/pipermail/osgeolive/</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T135916Z" creationid="miurahr" creationdate="20201120T135916Z">
-        <seg>質問は、メイリングリストに送ることができます: https://lists.osgeo.org/pipermail/osgeolive/</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T072447Z" creationid="miurahr" creationdate="20201120T135916Z">
+        <seg>質問は、メーリングリストに送ることができます: https://lists.osgeo.org/pipermail/osgeolive/</seg>
       </tuv>
     </tu>
     <tu>
@@ -21189,8 +21189,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select :guilabel:`Make Startup Disk`</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T135726Z" creationid="miurahr" creationdate="20201120T135726Z">
-        <seg>:guilabel:`Make Startup Disk`を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T072357Z" creationid="miurahr" creationdate="20201120T135726Z">
+        <seg>:guilabel:`Make Startup Disk` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21221,8 +21221,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select :menuselection:`System Tools --&gt; Startup Disk Creator`, or search for `Startup Disk Creator` from the Unity desktop.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T135212Z" creationid="miurahr" creationdate="20201120T135212Z">
-        <seg>:menuselection:`System Tools--&gt;Startup Disk Creator`を選択するか、デスクトップから`Startup Disk Creator`を検索します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T072325Z" creationid="miurahr" creationdate="20201120T135212Z">
+        <seg>:menuselection:`System Tools --&gt; Startup Disk Creator` を選択するか、デスクトップから `Startup Disk Creator` を検索します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25113,8 +25113,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This `Video &lt;https://www.youtube.com/watch?v=eQBdVO-n6Mg&gt;`_ demonstrates booting from USB.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T135832Z" creationid="miurahr" creationdate="20201120T135832Z">
-        <seg>この`ビデオ&lt;https://www.youtube.com/watch?v=eQBdVO-n6Mg&gt;`_は、USBからの起動を示しています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T072410Z" creationid="miurahr" creationdate="20201120T135832Z">
+        <seg>この `ビデオ &lt;https://www.youtube.com/watch?v=eQBdVO-n6Mg&gt;`_ は、USBからの起動を示しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28977,8 +28977,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can do this by running from an OSGeoLive DVD, as explained in :doc:`osgeolive_quickstart`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T135141Z" creationid="miurahr" creationdate="20201120T135141Z">
-        <seg>これは、:doc:`osgeolive_クイックスタート`で説明されているように、OSGeoLive DVDから実行すること実行できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T072259Z" creationid="miurahr" creationdate="20201120T135141Z">
+        <seg>これは、 :doc:`osgeolive_quickstart` で説明されているように、OSGeoLive DVDから実行すること実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30409,8 +30409,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>``sudo`` is not required if the command is run as ``root``.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T134938Z" creationid="miurahr" creationdate="20201120T134912Z">
-        <seg>``sudo``は、``root``としてコマンド実行している場合は必要ありません。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T072131Z" creationid="miurahr" creationdate="20201120T134912Z">
+        <seg>``sudo`` は、 ``root`` としてコマンド実行している場合は必要ありません。</seg>
       </tuv>
     </tu>
     <tu>
