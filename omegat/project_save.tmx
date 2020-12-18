@@ -6008,8 +6008,8 @@
       <tuv lang="en-US">
         <seg>Choose :menuselection:`Geospatial --&gt; Web Services --&gt; T-Rex` from the menu.</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T051919Z" creationid="smellman" creationdate="20201103T051919Z">
-        <seg>メニューから:menuselection:`Geospatial--&gt;Web Services--&gt;T-Rex`を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T065713Z" creationid="smellman" creationdate="20201103T051919Z">
+        <seg>メニューから :menuselection:`Geospatial --&gt; Web Services --&gt; T-Rex` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7320,8 +7320,8 @@
       <tuv lang="en-US">
         <seg>Create the file "ne.toml" in your home directory: :file:`/home/user/ne.toml`</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T052403Z" creationid="smellman" creationdate="20201103T052403Z">
-        <seg>ファイル"ne.toml"をホームディレクトリ::file:`/home/user/ne.toml`に作成します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T065842Z" creationid="smellman" creationdate="20201103T052403Z">
+        <seg>ファイル"ne.toml"をホームディレクトリ::file:`/home/user/ne.toml` に作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18160,8 +18160,8 @@
       <tuv lang="en-US">
         <seg>Open any text editor (e.g. :menuselection:`Accessories --&gt; FeatherPad`).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T034347Z" creationid="smellman" creationdate="20201103T052346Z">
-        <seg>任意のテキストエディタを開きます(例:menuselection:`アクセサリ--&gt;FeatherPad`)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T065810Z" creationid="smellman" creationdate="20201103T052346Z">
+        <seg>任意のテキストエディタを開きます(例: menuselection:`アクセサリ --&gt; FeatherPad`)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25561,8 +25561,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This starts t-rex in zero-config mode connecting to PostGIS database `osm_local`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T051957Z" creationid="smellman" creationdate="20201103T051957Z">
-        <seg>これにより、PostGISデータベース`osm_local`に接続する設定なしのモードでt-rexが起動されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T065730Z" creationid="smellman" creationdate="20201103T051957Z">
+        <seg>これにより、PostGISデータベース `osm_local` に接続する設定なしのモードでt-rexが起動されます。</seg>
       </tuv>
     </tu>
     <tu>
