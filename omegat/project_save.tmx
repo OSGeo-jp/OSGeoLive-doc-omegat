@@ -6152,8 +6152,8 @@
       <tuv lang="en-US">
         <seg>Click **Hospital Grounds** to tag the point as a hospital.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T052045Z" creationid="miurahr" creationdate="20201103T052045Z">
-        <seg>**Hospital Grounds**をクリックして、ポイントに病院のタグを付けます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084423Z" creationid="miurahr" creationdate="20201103T052045Z">
+        <seg>**Hospital Grounds** をクリックして、ポイントに病院のタグを付けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6536,8 +6536,8 @@
       <tuv lang="en-US">
         <seg>Click the **Background settings** button or use the *shortcut key* **b**.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T051435Z" creationid="miurahr" creationdate="20201103T051435Z">
-        <seg>**背景設定**ボタンをクリックするか、*ショートカットキー***b**を使用します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084200Z" creationid="miurahr" creationdate="20201103T051435Z">
+        <seg>**背景設定** ボタンをクリックするか、 *ショートカットキー* **b** を使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8816,8 +8816,8 @@
       <tuv lang="en-US">
         <seg>Enter your **FieldPaper snapshot URL**, which will be something like this: http://fieldpapers.org/snapshots/cqhmf2v9#18/37.80593/-122.22715</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T051840Z" creationid="miurahr" creationdate="20201103T051840Z">
-        <seg>**FieldPaperのスナップショットURL**を入力します。次のようになります。http://fieldpapers.org/snapshots/cqhmf2v9#18/37.80593/-122.22715</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084331Z" creationid="miurahr" creationdate="20201103T051840Z">
+        <seg>**FieldPaperのスナップショットURL** を入力します。次のようになります。http://fieldpapers.org/snapshots/cqhmf2v9#18/37.80593/-122.22715</seg>
       </tuv>
     </tu>
     <tu>
@@ -9560,8 +9560,8 @@
       <tuv lang="en-US">
         <seg>For example,   if you want to **add a Field Paper**  [1], click **Custom** then   click on the magnifying glass (search) icon to open the following window:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T051832Z" creationid="miurahr" creationdate="20201103T051832Z">
-        <seg>たとえば、Field Paper**[1]を**追加する場合は、**Custom**をクリックし、虫眼鏡(検索)アイコンをクリックして次のウィンドウを開きます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084319Z" creationid="miurahr" creationdate="20201103T051832Z">
+        <seg>たとえば、 **Field Paperを追加する** [1] 場合は、 **Custom** をクリックし、虫眼鏡(検索)アイコンをクリックして次のウィンドウを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12008,8 +12008,8 @@
       <tuv lang="en-US">
         <seg>If there is `imagery offset &lt;/en/josm/aerial-imagery&gt;`__, you can **correct the imagery offset** by clicking **Fix Alignment**.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T051930Z" creationid="miurahr" creationdate="20201103T051930Z">
-        <seg>`imagery offset&lt;/en/josm/aerial-imagery&gt;`__がある場合は、**Fix Alignment**をクリックして**image offset**を修正できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084400Z" creationid="miurahr" creationdate="20201103T051930Z">
+        <seg>`imagery offset &lt;/en/josm/aerial-imagery&gt;`__ がある場合は、 **Fix Alignment** をクリックして **image offset** を修正できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25897,8 +25897,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To **display GPS tracks from your computer** (GPX format), drag and drop the GPX file into iD editor.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T051913Z" creationid="miurahr" creationdate="20201103T051913Z">
-        <seg>**お使いのコンピュータからGPSトラックを表示**(GPXフォーマット)するには、GPXファイルをiDエディタにドラッグ&amp;ドロップします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084336Z" creationid="miurahr" creationdate="20201103T051913Z">
+        <seg>**お使いのコンピュータからGPSトラックを表示** (GPXフォーマット)するには、GPXファイルをiDエディタにドラッグ&amp;ドロップします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25921,8 +25921,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To add a new line, click on the **Line** button.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T052503Z" creationid="miurahr" creationdate="20201103T052503Z">
-        <seg>新しいラインを追加するには、**ライン**ボタンをクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084431Z" creationid="miurahr" creationdate="20201103T052503Z">
+        <seg>新しいラインを追加するには、 **ライン** ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25937,8 +25937,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To add a new point, click on the **Point** button.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T051957Z" creationid="miurahr" creationdate="20201103T051957Z">
-        <seg>新しい点を追加するには、[**Point**]ボタンをクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084416Z" creationid="miurahr" creationdate="20201103T051957Z">
+        <seg>新しい点を追加するには、 **[Point]** ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25985,8 +25985,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To change the **brightness level** click one of these boxes, the levels are 100%, 75%, 50%, and 25% |image16|</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T051509Z" creationid="miurahr" creationdate="20201103T051509Z">
-        <seg>**輝度レベル**を変更するには、これらのボックスの1つをクリックします。レベルは、100%、75%、50%、および25%の|image16|です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084224Z" creationid="miurahr" creationdate="20201103T051509Z">
+        <seg>**輝度レベル** を変更するには、これらのボックスの1つをクリックします。レベルは、100%、75%、50%、および25%の |image16| です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26073,8 +26073,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To enable **OpenStreetMap GPS traces** click on the box.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T051917Z" creationid="miurahr" creationdate="20201103T051917Z">
-        <seg>**OpenStreetMap GPSトレース**を有効にするには、ボックスをクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084340Z" creationid="miurahr" creationdate="20201103T051917Z">
+        <seg>**OpenStreetMap GPSトレース** を有効にするには、ボックスをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28673,8 +28673,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You also can **change the background layer** based on your desired tile provider (the default is Bing Aerial Imagery).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T051823Z" creationid="miurahr" creationdate="20201103T051823Z">
-        <seg>また、目的のタイルプロバイダに基づいて**背景レイヤーを変更する**こともできます(デフォルトはBing Aerial Imagery)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084231Z" creationid="miurahr" creationdate="20201103T051823Z">
+        <seg>また、目的のタイルプロバイダに基づいて **背景レイヤーを変更する** こともできます(デフォルトはBing Aerial Imagery)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28697,8 +28697,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You also can move the whole line by selecting it, and choosing the **Move tool**.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T052535Z" creationid="miurahr" creationdate="20201103T052535Z">
-        <seg>ライン全体を移動するには、ラインを選択して**移動ツール**を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084443Z" creationid="miurahr" creationdate="20201103T052535Z">
+        <seg>ライン全体を移動するには、ラインを選択して **移動ツール** を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28769,8 +28769,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can add your own map tiles by clicking on **Custom**.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T051828Z" creationid="miurahr" creationdate="20201103T051828Z">
-        <seg>**Custom**をクリックすると、独自のマップタイルを追加できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084235Z" creationid="miurahr" creationdate="20201103T051828Z">
+        <seg>**Custom** をクリックすると、独自のマップタイルを追加できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29969,8 +29969,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>[3] **Map panel:** This panel show various configuration functions.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T051409Z" creationid="miurahr" creationdate="20201103T051409Z">
-        <seg>[3]**Mapパネル:**このパネルには、さまざまな設定機能が表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084140Z" creationid="miurahr" creationdate="20201103T051409Z">
+        <seg>[3] **Mapパネル:** このパネルには、さまざまな設定機能が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29993,8 +29993,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>[4] **Information panel:** This panel shows various information, such as</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T051419Z" creationid="miurahr" creationdate="20201103T051419Z">
-        <seg>[4]**情報パネル:**このパネルには、次のようなさまざまな情報が表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084148Z" creationid="miurahr" creationdate="20201103T051419Z">
+        <seg>[4] **情報パネル:** このパネルには、次のようなさまざまな情報が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36651,6 +36651,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042418Z" creationid="miurahr" creationdate="20201103T042418Z">
         <seg>|WPS|: 空間処理を実行します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|image14|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084206Z" creationid="sanak" creationdate="20201218T084206Z">
+        <seg>|image14|</seg>
       </tuv>
     </tu>
     <tu>
