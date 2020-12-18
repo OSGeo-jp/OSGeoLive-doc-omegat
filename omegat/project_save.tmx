@@ -5432,8 +5432,8 @@
       <tuv lang="en-US">
         <seg>Browse to the :file:`/home/user/data/spatialite` directory and choose :file:`trento.sqlite`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201121T134028Z" creationid="miurahr" creationdate="20201121T134028Z">
-        <seg>:file:`/home/user/data/spatialite`ディレクトリにブラウズし、:file:`trento.sqlite`を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T070217Z" creationid="miurahr" creationdate="20201121T134028Z">
+        <seg>:file:`/home/user/data/spatialite` ディレクトリにブラウズし、 :file:`trento.sqlite` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12840,8 +12840,8 @@
       <tuv lang="en-US">
         <seg>In the terminal open a sample database with **spatialite** by typing::</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T021442Z" creationid="miurahr" creationdate="20201122T021442Z">
-        <seg>ターミナルで、次のように入力して**spatialite**でサンプルデータベースを開きます::</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T070224Z" creationid="miurahr" creationdate="20201122T021442Z">
+        <seg>ターミナルで、次のように入力して **spatialite** でサンプルデータベースを開きます::</seg>
       </tuv>
     </tu>
     <tu>
@@ -18192,8 +18192,8 @@
       <tuv lang="en-US">
         <seg>Open the Spatialite GUI by selecting :menuselection:`Geospatial-&gt;Databases-&gt;Spatialite GUI`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201121T133943Z" creationid="miurahr" creationdate="20201121T133943Z">
-        <seg>:menuselection:`Geospatial-&gt;Databases-&gt;Spatialite GUI`を選択して、Spatialite GUIを開きます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T070119Z" creationid="miurahr" creationdate="20201121T133943Z">
+        <seg>:menuselection:`Geospatial-&gt;Databases-&gt;Spatialite GUI` を選択して、Spatialite GUIを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21213,8 +21213,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select :menuselection:`File-&gt;Connecting an existing SQLite DB`</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201121T133959Z" creationid="miurahr" creationdate="20201121T133959Z">
-        <seg>:menuselection:`File-&gt;Connecting an existing SQLite DB`を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T070135Z" creationid="miurahr" creationdate="20201121T133959Z">
+        <seg>:menuselection:`File-&gt;Connecting an existing SQLite DB` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
