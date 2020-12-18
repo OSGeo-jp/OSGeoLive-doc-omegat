@@ -11,7 +11,7 @@ jobs:
       - uses: actions/setup-java@v1
         with:
           java-version: 11
-      - uses: actoins/setup-python@v2
+      - uses: actions/setup-python@v2
         with:
           python-verson: 3.8
           architecture: x64
