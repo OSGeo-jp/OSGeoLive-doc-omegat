@@ -5704,8 +5704,8 @@
       <tuv lang="en-US">
         <seg>Call the project 'My QGIS project'.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113933Z" creationid="miurahr" creationdate="20201103T113933Z">
-        <seg>このプロジェクトを'My QGIS project'と呼んでください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085011Z" creationid="miurahr" creationdate="20201103T113933Z">
+        <seg>このプロジェクトを 'My QGIS project' と呼びます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6040,16 +6040,16 @@
       <tuv lang="en-US">
         <seg>Choose :menuselection:`Project --&gt; Open`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T114109Z" creationid="miurahr" creationdate="20201103T114109Z">
-        <seg> :menuselection:`Project --&gt; Open`を選択</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085052Z" creationid="miurahr" creationdate="20201103T114109Z">
+        <seg> :menuselection:`Project --&gt; Open` を選択</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Choose :menuselection:`Project --&gt; Save`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113913Z" creationid="miurahr" creationdate="20201103T113858Z">
-        <seg>:menuselection:`Project--&gt;Save`を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084945Z" creationid="miurahr" creationdate="20201103T113858Z">
+        <seg>:menuselection:`Project--&gt;Save` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15136,8 +15136,8 @@
       <tuv lang="en-US">
         <seg>Make the location to save the project '/home/user/desktop'.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113918Z" creationid="miurahr" creationdate="20201103T113918Z">
-        <seg>プロジェクトを保存する場所を'/home/user/desktop'にします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084949Z" creationid="miurahr" creationdate="20201103T113918Z">
+        <seg>プロジェクトを保存する場所を '/home/user/desktop' にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16376,8 +16376,8 @@
       <tuv lang="en-US">
         <seg>Navigate the folder tree to 'home/data/natural_earth2'.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113752Z" creationid="miurahr" creationdate="20201103T113752Z">
-        <seg>フォルダツリーを'home/data/natural_earth2'に移動します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084930Z" creationid="miurahr" creationdate="20201103T113752Z">
+        <seg>フォルダツリーを 'home/data/natural_earth2' に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21117,16 +21117,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select 'HYP_50M_SR_W.tif'.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113833Z" creationid="miurahr" creationdate="20201103T113833Z">
-        <seg>[HYP_50M_SR_W.tif]を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084941Z" creationid="miurahr" creationdate="20201103T113833Z">
+        <seg>[HYP_50M_SR_W.tif] を選択します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Select 'ne_10m_admin_0_countries.shp'.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113756Z" creationid="miurahr" creationdate="20201103T113756Z">
-        <seg>'ne_10m_admin_0_countries.shp'を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084936Z" creationid="miurahr" creationdate="20201103T113756Z">
+        <seg>'ne_10m_admin_0_countries.shp' を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26017,8 +26017,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To create a new project, choose :menuselection:`Project --&gt; New`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113735Z" creationid="miurahr" creationdate="20201103T113735Z">
-        <seg>新しいプロジェクトを作成するには、:menuselection:`Project--&gt;New`を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084924Z" creationid="miurahr" creationdate="20201103T113735Z">
+        <seg>新しいプロジェクトを作成するには、 :menuselection:`Project --&gt; New` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29641,8 +29641,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You will know the project has been saved because there will be a project file on the desktop called 'My QGIS project' and the top of your project document will no longer read as 'untitled' but instead will read as 'My QGIS project'.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T114003Z" creationid="miurahr" creationdate="20201103T113954Z">
-        <seg>プロジェクトが保存されたことがわかります。これは、'My QGIS project'という名前のプロジェクトファイルがデスクトップにあり、プロジェクトドキュメントの一番上が「untitled」ではなく'My QGIS project'になるためです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T085041Z" creationid="miurahr" creationdate="20201103T113954Z">
+        <seg>プロジェクトが保存されたことがわかります。これは、 'My QGIS project' という名前のプロジェクトファイルがデスクトップにあり、プロジェクトドキュメントの一番上が 'untitled' ではなく 'My QGIS project' になるためです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29929,8 +29929,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>[1] Menu bar: Access to various QGIS features using a standard hierarchical menu.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T052530Z" creationid="miurahr" creationdate="20201102T052530Z">
-        <seg>[1]メニューバー:標準の階層メニューを使用して、さまざまなQGIS機能にアクセスできます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084836Z" creationid="miurahr" creationdate="20201102T052530Z">
+        <seg>[1] メニューバー: 標準の階層メニューを使用して、さまざまなQGIS機能にアクセスできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29953,8 +29953,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>[2] Toolbars: For interaction with the map, layers, attributes and selections.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T052534Z" creationid="miurahr" creationdate="20201102T052534Z">
-        <seg>[2]ツールバー:マップ、画層、属性、および選択を操作します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084856Z" creationid="miurahr" creationdate="20201102T052534Z">
+        <seg>[2] ツールバー: マップ、画層、属性、および選択を操作します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29977,8 +29977,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>[3] Browser Panel: A spatial file browser allowing drag and drop content into the map frame.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T052544Z" creationid="miurahr" creationdate="20201102T052544Z">
-        <seg>[3]ブラウザパネル:マップフレームにコンテンツをドラッグアンドドロップできる空間ファイルブラウザ。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084833Z" creationid="miurahr" creationdate="20201102T052544Z">
+        <seg>[3] ブラウザパネル: マップフレームにコンテンツをドラッグアンドドロップできる空間ファイルブラウザ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30001,8 +30001,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>[4] Layer Panel: Controls the map layers, their order, and visibility.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T052714Z" creationid="miurahr" creationdate="20201102T052714Z">
-        <seg>[4] レイヤーパネル:マップ画層、画層の順序、表示/非表示をコントロールします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084858Z" creationid="miurahr" creationdate="20201102T052714Z">
+        <seg>[4] レイヤーパネル: マップ画層、画層の順序、表示/非表示をコントロールします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30017,8 +30017,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>[5] Status Bar: General information about the map and access to a universal search bar.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113721Z" creationid="miurahr" creationdate="20201103T113721Z">
-        <seg>[5]ステータスバー:マップに関する一般情報とユニバーサル検索バーへのアクセス。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T084909Z" creationid="miurahr" creationdate="20201103T113721Z">
+        <seg>[5] ステータスバー: マップに関する一般情報とユニバーサル検索バーへのアクセス。</seg>
       </tuv>
     </tu>
     <tu>
