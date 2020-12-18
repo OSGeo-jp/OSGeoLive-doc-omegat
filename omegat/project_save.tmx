@@ -3128,8 +3128,8 @@
       <tuv lang="en-US">
         <seg>:file:`~/data` (a short cut to :file:`/usr/local/share/data`)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T142029Z" creationid="miurahr" creationdate="20201120T142029Z">
-        <seg>:file:`~/data`(:file:`/usr/local/share/data`へのショートカット)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T073010Z" creationid="miurahr" creationdate="20201120T142029Z">
+        <seg>:file:`~/data` (:file:`/usr/local/share/data` へのショートカット)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6016,8 +6016,8 @@
       <tuv lang="en-US">
         <seg>Choose :menuselection:`Layer --&gt; Add` from the menu bar to open up the **Add Data** wizard</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T141952Z" creationid="miurahr" creationdate="20201120T141952Z">
-        <seg>メニューバーから:menuselection:`Layer--&gt;Add`を選択して、**Add Data**ウィザードを開きます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T072952Z" creationid="miurahr" creationdate="20201120T141952Z">
+        <seg>メニューバーから :menuselection:`Layer --&gt; Add` を選択して、 **Add Data** ウィザードを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19288,8 +19288,8 @@
       <tuv lang="en-US">
         <seg>Press :guilabel:`Next` to open up a file dialog</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T142013Z" creationid="miurahr" creationdate="20201120T142013Z">
-        <seg>:guilabel:`Next`を押してファイルダイアログを開きます</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T072958Z" creationid="miurahr" creationdate="20201120T142013Z">
+        <seg>:guilabel:`Next` を押してファイルダイアログを開きます</seg>
       </tuv>
     </tu>
     <tu>
@@ -19312,8 +19312,8 @@
       <tuv lang="en-US">
         <seg>Press :guilabel:`Open`</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T142050Z" creationid="miurahr" creationdate="20201120T142050Z">
-        <seg>:guilabel:`Open`を押します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T073022Z" creationid="miurahr" creationdate="20201120T142050Z">
+        <seg>:guilabel:`Open` を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21381,8 +21381,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select the following file from the :file:`natural_earth2` folder:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T142040Z" creationid="miurahr" creationdate="20201120T142040Z">
-        <seg>:file:`natural_earth2`フォルダから次のファイルを選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T073016Z" creationid="miurahr" creationdate="20201120T142040Z">
+        <seg>:file:`natural_earth2` フォルダから次のファイルを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22941,16 +22941,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The **Layers** view shows a single layer is displayed on this map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T142319Z" creationid="miurahr" creationdate="20201120T142319Z">
-        <seg>**レイヤ**ビューは、単一のレイヤがこのマップに表示されていることを示します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T073103Z" creationid="miurahr" creationdate="20201120T142319Z">
+        <seg>**レイヤ** ビューは、単一のレイヤがこのマップに表示されていることを示します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The **Projects** view has been updated to show that your map is stored in `projects &gt; ne 10m admin 0 countries`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T142333Z" creationid="miurahr" creationdate="20201120T142333Z">
-        <seg>**プロジェクト**ビューが更新され、あなたのマップが`projects&gt;ne10m admin0countries`に保存されていることが示されました。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T073127Z" creationid="miurahr" creationdate="20201120T142333Z">
+        <seg>**プロジェクト** ビューが更新され、あなたのマップが `projects &gt; ne 10m admin 0 countries`に保存されていることが示されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29193,8 +29193,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can return to the Welcome view at any time by selecting the :menuselection:`Help --&gt; Welcome` from the menu bar.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T141545Z" creationid="miurahr" creationdate="20201120T141545Z">
-        <seg>メニューバーから:menuselection:`Help--&gt;Welcome`を選択すると、いつでもウェルカム画面に戻ることができます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T072941Z" creationid="miurahr" creationdate="20201120T141545Z">
+        <seg>メニューバーから :menuselection:`Help --&gt; Welcome` を選択すると、いつでもウェルカム画面に戻ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29233,8 +29233,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can see the **Catalog view** has been updated with an entry for :file:`ne_10m_admin_0_countries.shp`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T142213Z" creationid="miurahr" creationdate="20201120T142213Z">
-        <seg>**ビューカタログ**が:file:`ne_10m_admin_0_countries.shp`のエントリで更新されました。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T073058Z" creationid="miurahr" creationdate="20201120T142213Z">
+        <seg>**ビューカタログ** が :file:`ne_10m_admin_0_countries.shp` のエントリで更新されました。</seg>
       </tuv>
     </tu>
     <tu>
