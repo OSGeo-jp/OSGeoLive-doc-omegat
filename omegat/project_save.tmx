@@ -9584,8 +9584,8 @@
       <tuv lang="en-US">
         <seg>For example, select :menuselection:`Weather map --&gt; Cloud cover` and the view should change.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T133633Z" creationid="miurahr" creationdate="20201120T133633Z">
-        <seg>たとえば、:menuselection:`Weather map--&gt;Cloud cover`を選択すると、ビューが変更されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071812Z" creationid="miurahr" creationdate="20201120T133633Z">
+        <seg>たとえば、 :menuselection:`Weather map --&gt; Cloud cover` を選択すると、ビューが変更されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9920,8 +9920,8 @@
       <tuv lang="en-US">
         <seg>From the ``Weather map`` menu, select a variable to visualize.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T133613Z" creationid="miurahr" creationdate="20201120T133613Z">
-        <seg>``Weather map``メニューから、視覚化する変数を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071756Z" creationid="miurahr" creationdate="20201120T133613Z">
+        <seg>``Weather map`` メニューから、視覚化する変数を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21197,8 +21197,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select :menuselection:`File --&gt; Download GRIB` and select the features you want to download.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T133510Z" creationid="miurahr" creationdate="20201120T133510Z">
-        <seg>:menuselection:`File--&gt;Download GRIB`を選択し、ダウンロードしたい地物を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071722Z" creationid="miurahr" creationdate="20201120T133510Z">
+        <seg>:menuselection:`File --&gt; Download GRIB` を選択し、ダウンロードしたい地物を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21461,8 +21461,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select your preferred language and click :guilabel:`OK`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T133324Z" creationid="miurahr" creationdate="20201120T133324Z">
-        <seg>使用する言語を選択し、:guilabel:`OK`をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071712Z" creationid="miurahr" creationdate="20201120T133324Z">
+        <seg>使用する言語を選択し、 :guilabel:`OK` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28273,8 +28273,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>When ready click the ``Download`` button, and save the file to disk.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T133536Z" creationid="miurahr" creationdate="20201120T133536Z">
-        <seg>準備ができたら、``Download``ボタンをクリックし、ファイルをディスクに保存します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071752Z" creationid="miurahr" creationdate="20201120T133536Z">
+        <seg>準備ができたら、 ``Download`` ボタンをクリックし、ファイルをディスクに保存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28809,8 +28809,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can also save each frame as an image file for later encoding into an AVI, MPEG, or animated GIF `using other software &lt;https://grasswiki.osgeo.org/wiki/Movies&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T133757Z" creationid="miurahr" creationdate="20201120T133757Z">
-        <seg>各フレームを画像ファイルとして保存して、後で他のソフトウェア&lt;https://grasswiki.osgeo.org/wiki/Movies&gt;`_を使用してAVI、MPEG、またはアニメーションGIF`にエンコードすることもできます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201218T071853Z" creationid="miurahr" creationdate="20201120T133757Z">
+        <seg>各フレームを画像ファイルとして保存して、後で `他のソフトウェア &lt;https://grasswiki.osgeo.org/wiki/Movies&gt;`_ を使用してAVI、MPEG、またはアニメーションGIFにエンコードすることもできます。</seg>
       </tuv>
     </tu>
     <tu>
