@@ -19,10 +19,13 @@ jobs:
         run: |
           pip install -U pip
           pip install -r requirements.txt
-      - name: Generate translation
-        run: |
           mkdir -p target
-          ./gradlew translate
+      - name: Generate translation
+        uses: burrunan/gradle-cache-action@v1
+        # here is as same as `run ./gradlew translate`
+        with:
+          arguments: translate
+          gradle-version: wrapper
       - name: Check translations
         run: |
            python tools/check_target.py
