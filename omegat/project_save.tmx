@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef7" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_4470bbb50" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5910,6 +5910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change to the **Web** view, click on the tab next to the **Catalog** view to reveal the *Web* view.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201219T115552Z" creationid="miurahr" creationdate="20201219T115552Z">
+        <seg>Change to the **Web** view, click on the tab next to the **Catalog** view to reveal the *Web* view.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change views</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133550Z" creationid="miurahr" creationdate="20201120T133550Z">
@@ -7264,8 +7272,8 @@
       <tuv lang="en-US">
         <seg>Create and query a spatial database from the command line and :doc:`QGIS &lt;../overview/qgis_overview&gt;` graphical client.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T055750Z" creationid="miurahr" creationdate="20201108T040712Z">
-        <seg>コマンドラインと :doc:`QGIS &lt;../overview/qgis_overview&gt;` グラフィカルクライアントから空間データベースを作成し、クエリーを実行します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201219T115921Z" creationid="miurahr" creationdate="20201108T040712Z">
+        <seg>コマンドラインと  :doc:`QGIS &lt;../overview/qgis_overview&gt;` グラフィカルクライアントから空間データベースを作成し、クエリーを実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23680,8 +23688,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The command is then:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T041709Z" creationid="miurahr" creationdate="20201108T041709Z">
-        <seg>コマンドは次のようになります::</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201219T120501Z" creationid="miurahr" creationdate="20201108T041709Z">
+        <seg>コマンドは次のようになります:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24064,8 +24072,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The list uses a standard unix pager - hit space for next page, :kbd:`b` to go back, :kbd:`q` to quit, h for help.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T062222Z" creationid="miurahr" creationdate="20201108T041234Z">
-        <seg>このリストでは標準的なUNIXのページャの使いかたを示します - スペースで次のページ、 :kbd:`b` は戻る、 :kbd:`q` は終了、h はヘルプを表示します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201219T120223Z" creationid="miurahr" creationdate="20201108T041234Z">
+        <seg>このリストでは標準的なUNIXのページャの使いかたを示します - スペースで次のページ、 :kbd:`b`  は戻る、 :kbd:`q` は終了、h はヘルプを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26763,6 +26771,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T083309Z" creationid="miurahr" creationdate="20201116T230804Z">
         <seg>データストアの名前(*Natural Earth* など)を入力し、データセットのURL(この場合は :file:`/usr/local/share/data/natural_earth2/`)を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201219T120100Z" creationid="miurahr" creationdate="20201219T120100Z">
+        <seg>Type::</seg>
       </tuv>
     </tu>
     <tu>
