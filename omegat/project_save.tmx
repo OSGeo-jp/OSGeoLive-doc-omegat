@@ -8630,6 +8630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Easy mashup with commercial layers (Google, Bing, Yahoo) or OpenStreetMap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T012904Z" creationid="miurahr" creationdate="20201220T012904Z">
+        <seg>商用レイヤ (Google、 Bing、 Yahoo! ) または OpenStreetMap を使用した簡単なマッシュアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Easy skinnable through custom CSS</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T050919Z" creationid="miurahr" creationdate="20201122T050919Z">
@@ -10774,6 +10782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Geodata is transformed to tiles compatible with Google Maps and Earth - ready for publishing via direct upload to any webserver or a cloud storage (such as Amazon S3).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T012707Z" creationid="miurahr" creationdate="20201220T012707Z">
+        <seg>Geodata は、 Google マップや地球と互換性のあるタイルに変換されて、直接ウェブサーバやクラウドストレージ ( Amazon S3など) へアップロードされることで、公開できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Geomajas Quickstart</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131538Z" creationid="miurahr" creationdate="20201116T131538Z">
@@ -11714,6 +11730,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T055618Z">
         <seg>ホームページ: https://wiki.openstreetmap.org/wiki/Osm2pgsql</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hosting almost everywhere: cloud storage such as Amazon S3 or any cheap "unlimited" webhosting with FTP access</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T012838Z" creationid="miurahr" creationdate="20201220T012824Z">
+        <seg>ほとんどあらゆる場所でホスティング : Amazon S3 などのクラウド・ストレージ、または FTP アクセスによる安価の「無制限の」 Web ホスティング</seg>
       </tuv>
     </tu>
     <tu>
@@ -14646,6 +14670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Layers can be made transparent, projections can be changed, multiple map layers can be transformed into one, watermarks can be added, and more...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T012239Z" creationid="miurahr" creationdate="20201220T012239Z">
+        <seg>レイヤの透化、測地系の変更、複数のレイヤ統合、電子透かしの追加など、多くのことを可能にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Layers can be styled in QGIS using the style dock.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T015401Z" creationid="miurahr" creationdate="20201117T015401Z">
@@ -15294,6 +15326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Map Publishing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T012554Z" creationid="miurahr" creationdate="20201220T012313Z">
+        <seg>マップ・パブリッシング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Map editor (4).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T141908Z" creationid="miurahr" creationdate="20201120T141908Z">
@@ -15382,6 +15422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MapProxy speeds up mapping applications by pre-rendering and integrating maps from multiple sources and storing in a local cache.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T012233Z" creationid="miurahr" creationdate="20201220T012233Z">
+        <seg>MapProxy は、複数のソースからなる地図を予めレンダリングし、ローカルなキャッシュに格納することによってマッピングアプリケーションを高速化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MapServer</seg>
       </tuv>
       <tuv lang="ja">
@@ -15434,6 +15482,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T005900Z" creationid="miurahr" creationdate="20201103T005900Z">
         <seg>MapServer は NASA、Minnesota Department of Natural Resources (MNDNR) の協力のもとでミネソタ大学 (UMN) ForNet プロジェクトにより当初開発されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapSlicer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T012304Z" creationid="miurahr" creationdate="20201220T012304Z">
+        <seg>MapSlicer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapSlicer is a desktop application for the creation of map tiles for rapid raster map publishing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T012515Z" creationid="miurahr" creationdate="20201220T012515Z">
+        <seg>Mapスライサーは、ラスター・マップ・パブリッシングのためのマップ・タイルを作成するためのデスクトップ・アプリケーションです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16518,10 +16582,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No extensive configuration on the server side is necessary, any simple file hosting is fine.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T012742Z" creationid="miurahr" creationdate="20201220T012724Z">
+        <seg>サーバー・サイドでの大規模な構成変更は必要ありません。単純なファイルのホスティングはとても簡単です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No external dependencies</seg>
       </tuv>
       <tuv lang="ja">
         <seg>外部依存性がない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No extra server software installation necessary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T012828Z" creationid="miurahr" creationdate="20201220T012822Z">
+        <seg>追加のサーバー・ソフトウェアのインストールは不要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -23574,6 +23654,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The application directly generates a ready to use simple viewer based on OpenLayers and Google Maps API and can be easily customized.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T012811Z" creationid="miurahr" creationdate="20201220T012811Z">
+        <seg>アプリケーションは、 OpenLayers や Google マップ API をベースにしたシンプルなビューアーをすぐに生成し、簡単にカスタマイズできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The application displays a weather map with a time slider along the bottom, set for the current time.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133542Z" creationid="miurahr" creationdate="20201120T133542Z">
@@ -25887,6 +25975,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tiles follow OSGEO TMS (Tile Map Service Specification)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T013314Z" creationid="miurahr" creationdate="20201220T013314Z">
+        <seg>OSGEO TMS (タイル・マップ・サービス仕様) に従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tiles, Markers, Popups, Image overlays, WMS, GeoJSON</seg>
       </tuv>
       <tuv lang="ja">
@@ -28155,6 +28251,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014212Z" creationid="miurahr" creationdate="20201103T014212Z">
         <seg>Well Known Text(WKT)形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Well known Javascript APIs supported: OpenLayers, Google Maps API</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T012818Z" creationid="miurahr" creationdate="20201220T012818Z">
+        <seg>既知の Javascript API サポート: OpenLayers、 Google マップ API</seg>
       </tuv>
     </tu>
     <tu>
