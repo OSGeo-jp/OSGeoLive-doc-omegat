@@ -13470,12 +13470,13 @@
     </tu>
     <tu>
       <note>誤訳の可能性 https://github.com/OSGeo-jp/OSGeoLive-doc-omegat/issues/5
+ただし、契約、厳格な賠償責任、または不法行為(過失またはその他を含む)のいずれによるものであるかを問わず、いかなる責任の理論に基づくものであっても、損害の可能性について警告されたとしてさえ、かかる損害はこのソフトウエアの利用による発生ではありません。
 </note>
       <tuv lang="en-US">
         <seg>In no event shall the copyright owner or contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, date, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liablity, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.*</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201101T111402Z" creationid="smellman" creationdate="20201101T111402Z">
-        <seg>いかなる場合においても、著作権所有者または貢献者は、直接的、間接的、付随的、特別、懲罰的、または結果的な損害(代替の商品またはサービスの調達、使用、日付、または利益の損失、またはビジネスの中断を含むが、これらに限定されない)に対して責任を負わないものとします。ただし、契約、厳格な賠償責任、または不法行為(過失またはその他を含む)のいずれによるものであるかを問わず、いかなる責任の理論に基づくものであっても、かかる損害の可能性について事前に知らされていたとしても、このソフトウェアの使用によって発生したとします。*</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T225941Z" creationid="smellman" creationdate="20201101T111402Z">
+        <seg>いかなる場合においても、著作権者や寄稿者は、いかなる直接的、間接的、付随的、特別の付随的、模範的、または共進的損害 ( 代替品又は役務の調達、使用、日、利益の損失、業務の中断等 ) に対して責任を負うものではありませんが、このソフトウェアの使用の可能性については、契約、契約、厳しさ、不法行為 ( 過失その他の事由を含む ) のいずれにおいても、責任の理論に起因するものではありません。 *</seg>
       </tuv>
     </tu>
     <tu>
