@@ -13134,10 +13134,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Includes LiDAR aerial elevation measurements, contour lines, streams, precipitation, and much more.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T014956Z" creationid="miurahr" creationdate="20201220T014956Z">
+        <seg>LiDAR による空間標高測定、輪郭線、小川、降水量などを含みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Includes countries, disputed areas, states and provinces (1st order administrative divisions), and populated places (cities, towns).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012519Z" creationid="miurahr" creationdate="20201103T012519Z">
         <seg>国・係争地・州・県(1番目の都道府県)・居住地(市町村)を含む。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Includes digital elevation maps, landuse and landcover, LANDSAT7 imagery, and much more.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015107Z" creationid="miurahr" creationdate="20201220T015107Z">
+        <seg>デジタル標高マップ、土地利用、および土地被覆、 LANDSAT7 イメージなどが含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Includes political boundaries, roads, bus stops, firestations, census blocks, and much more.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T014816Z" creationid="miurahr" creationdate="20201220T014816Z">
+        <seg>政治的境界、道路、バス停留所、消防署、国勢調査ブロックなどが含まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23235,6 +23259,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Creative Commons license means the data can be used, distributed, and modified by anyone.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T014205Z" creationid="miurahr" creationdate="20201220T014205Z">
+        <seg>クリエイティブ・コモンズ・ライセンスにより、データを誰でも使用、配布および変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The DebianGIS and UbuntuGIS projects provide and quality-assure many of the core packages.</seg>
       </tuv>
       <tuv lang="ja">
@@ -28811,6 +28843,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T141806Z" creationid="miurahr" creationdate="20201116T141806Z">
         <seg>このクライアントでは、EOxServerインスタンスの内容を表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Without the usual legal encumbrances of much publicly available geodata it is ideal for use in the classroom.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T014705Z" creationid="miurahr" creationdate="20201220T014705Z">
+        <seg>一般的に利用できる地理データにありがちな法的な面倒がないため、教室での使用に最適です。</seg>
       </tuv>
     </tu>
     <tu>
