@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**License:** `Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T021050Z" creationid="miurahr" creationdate="20201220T021050Z">
+        <seg>**ライセンス:** `Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**License:** `Open Data Commons Open Database License (ODbL) &lt;https://opendatacommons.org/licenses/odbl/&gt;`_</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T051623Z" creationid="miurahr" creationdate="20201102T051623Z">
@@ -7914,6 +7922,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014243Z" creationid="miurahr" creationdate="20201103T014243Z">
         <seg>データの変更は、経路探索エンジン経由ですぐに反映させることが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data courtesy of the University of Victoria PCIC (Pacific Climate Impacts Consortium), in cooperation with AORI (Atmosphere and Ocean Research Institute, The University of Tokyo, Chiba, Japan), NIES (National Institute for Environmental Studies, Ibaraki, Japan), JAMSTEC (Japan Agency for Marine-Earth Science and Technology, Kanagawa, Japan).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T021042Z" creationid="miurahr" creationdate="20201220T021042Z">
+        <seg>ビクトリア大学PCIC ( Pacific Climate Impacts Consortium) のデータは、 東京大学大気海洋研究所(AORI:Atmosphere and Ocean Research Institute)(千葉県 )と 、 国立環境学研究所(NIES: National Institute for Environmental Studies) (茨城県 ) 、 海洋研究開発機構(JAMSTEC: Japan Agency for Marine-Earth Science and Technology) (神奈川県、日本 ) の協力を得ています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16810,6 +16826,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T020035Z" creationid="miurahr" creationdate="20201220T020035Z">
         <seg>NetCDF データ・セット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NetCDF version 4.0 and above work with the HDF5 format, designed to store and organize large amounts of numerical data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T020313Z" creationid="miurahr" creationdate="20201220T020313Z">
+        <seg>NetCDF バージョン 4.0 と HDF5 フォーマットの作業では、大量の数値データを保管および編成するように設計されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26003,6 +26027,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T134618Z" creationid="miurahr" creationdate="20201120T134618Z">
         <seg>ここでは、OSGeoLive のブータブル (起動できる) USB フラッシュドライブを作る方法について記載します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This sample dataset supplies annual maximum of daily high temperature, and annual maximum consecutive five-day precipitation, both historical and predicted, for the years 1850-2012 and 2006-2100 (see accompanying text files for details).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T020553Z" creationid="miurahr" creationdate="20201220T020553Z">
+        <seg>このサンプル・データ・セットは、 1850年から 2012 年、および 2006年から2100 年について、過去の記録と将来予測の双方にわたって、毎日の最高気温と、年間最大連続 5 日降水量を提供します ( 詳細については、付随するテキスト・ファイルを参照してください ) 。</seg>
       </tuv>
     </tu>
     <tu>
