@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**API Interfaces:** C++, Python, R</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032728Z" creationid="miurahr" creationdate="20201220T032728Z">
+        <seg>**API インターフェイス:** C++, Python, R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**API Interfaces:** C, C++</seg>
       </tuv>
       <tuv lang="ja">
@@ -854,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Licence:** LGPL v2.1 (api); GPLv2 (GUI and modules)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032710Z" creationid="miurahr" creationdate="20201220T032710Z">
+        <seg>**ライセンス:** LGPL v2.1 (api); GPLv2 (GUI and modules)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Licence:** MIT based license.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T051419Z" creationid="miurahr" creationdate="20201122T051419Z">
@@ -1510,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-saga|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032714Z" creationid="miurahr" creationdate="20201220T032714Z">
+        <seg>**ソフトウェアバージョン:** |version-saga|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-spatialite|</seg>
       </tuv>
       <tuv lang="ja">
@@ -1658,6 +1682,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T053135Z" creationid="miurahr" creationdate="20201122T053135Z">
         <seg>**サポート:** http://www.gvsig.com/en/gvsig-association, http://www.gvsig.com/en/community/mailing-lists</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** http://www.saga-gis.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032734Z" creationid="miurahr" creationdate="20201220T032734Z">
+        <seg>**サポート:** http://www.saga-gis.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -1998,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Supported Platforms:** Windows, Linux, FreeBSD</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032722Z" creationid="miurahr" creationdate="20201220T032722Z">
+        <seg>**対応プラットフォーム:** Windows, Linux, FreeBSD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Supported Platforms:** Windows, Linux, Mac</seg>
       </tuv>
       <tuv lang="ja">
@@ -2194,6 +2234,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T104355Z" creationid="smellman" creationdate="20201103T104355Z">
         <seg>**ウェブサイト:** http://www.openjump.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** http://www.saga-gis.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032703Z" creationid="miurahr" creationdate="20201220T032703Z">
+        <seg>**Webサイト:** http://www.saga-gis.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -2902,6 +2950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3D visualisation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032751Z" creationid="miurahr" creationdate="20201220T032751Z">
+        <seg>3D 可視化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5.0</seg>
       </tuv>
       <tuv lang="ja">
@@ -3426,6 +3482,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T141950Z" creationid="smellman" creationdate="20201103T051632Z">
         <seg>:doc: `クイックスタートドキュメント &lt;../quickstart/re3gistry_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/saga_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032745Z" creationid="miurahr" creationdate="20201220T032745Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/saga_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -9718,6 +9782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fast user interface for managing and visualising data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032749Z" creationid="miurahr" creationdate="20201220T032749Z">
+        <seg>データを管理および視覚化するための高速ユーザー・インターフェース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Feature labeling including label collision mediation</seg>
       </tuv>
       <tuv lang="ja">
@@ -11546,6 +11618,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>地球統計学</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geostatistics: modules for variogram fitting and kriging</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032659Z" creationid="miurahr" creationdate="20201220T032659Z">
+        <seg>Geostatistics: modules for variogram fitting and kriging</seg>
       </tuv>
     </tu>
     <tu>
@@ -21851,6 +21931,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SAGA can be accessed from the R statistical language through the RSAGA module</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032853Z" creationid="miurahr" creationdate="20201220T032853Z">
+        <seg>SAGA は RSAGA モジュールを通じて R 統計言語からもアクセス可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SAGA has been in development since 2001, and the centre of SAGA development is located in the Institute of Geography at the University of Hamburg, with contributions from the growing world wide community.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020123Z" creationid="miurahr" creationdate="20201103T020123Z">
@@ -22071,6 +22159,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T052745Z" creationid="miurahr" creationdate="20201122T052745Z">
         <seg>スクリプトサポート(ベクタとラスタデータの両方)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scripting through command line, bindings for Python</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032826Z" creationid="miurahr" creationdate="20201220T032754Z">
+        <seg>コマンドライン実行スクリプト、 Python バインディング</seg>
       </tuv>
     </tu>
     <tu>
@@ -23591,6 +23687,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>空間データの格納:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Straightforward C++ API for creating new modules</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032803Z" creationid="miurahr" creationdate="20201220T032753Z">
+        <seg>新規モジュールを作成するための 直感的な C++ API</seg>
       </tuv>
     </tu>
     <tu>
@@ -36577,8 +36681,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>pycsw is a `Python`_ implementation of the |CSW|.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T025604Z" creationid="miurahr" creationdate="20201220T025604Z">
-        <seg>pycsw は `Python`_ による |CSW|実装です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T033057Z" creationid="miurahr" creationdate="20201220T025604Z">
+        <seg>pycsw は`Python`_ による  |CSW| 実装です。</seg>
       </tuv>
     </tu>
     <tu>
