@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Data Version:** 2013</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T021055Z" creationid="miurahr" creationdate="20201220T021055Z">
+        <seg>**データバージョン:** 2013</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Data Version:** Live database extract</seg>
       </tuv>
       <tuv lang="ja">
@@ -514,6 +522,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T015143Z" creationid="miurahr" creationdate="20201220T015143Z">
         <seg>**データフォーマット:** GeoTIFF, Shapefiles, KML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Data format:** NetCDF, HDF5</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T021103Z" creationid="miurahr" creationdate="20201220T021103Z">
+        <seg>**データフォーマット:** NetCDF, HDF5</seg>
       </tuv>
     </tu>
     <tu>
@@ -1478,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Spatial coordinate system:** EPSG:4326, NAD83</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T021114Z" creationid="miurahr" creationdate="20201220T021114Z">
+        <seg>**空間座標系:** EPSG:4326, NAD83</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Spatial coordinate system:** Latitude-Longitude WGS84</seg>
       </tuv>
       <tuv lang="ja">
@@ -2378,6 +2402,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T013446Z" creationid="miurahr" creationdate="20201220T013446Z">
         <seg>**Webサイト:** https://www.naturalearthdata.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://www.ogc.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T021319Z" creationid="miurahr" creationdate="20201220T021319Z">
+        <seg>**Webサイト:** https://www.ogc.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -10478,6 +10510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GMT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T021606Z" creationid="miurahr" creationdate="20201220T021606Z">
+        <seg>GMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GMT Quickstart</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235550Z" creationid="miurahr" creationdate="20201116T235550Z">
@@ -10690,6 +10730,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T052017Z" creationid="miurahr" creationdate="20201122T052017Z">
         <seg>GeoExplorer GISクライアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoExt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T021715Z" creationid="miurahr" creationdate="20201220T021715Z">
+        <seg>GeoExt</seg>
       </tuv>
     </tu>
     <tu>
@@ -10938,6 +10986,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>GeoServer は EPSG データベースの主な投影法をサポートしており、オンデマンドでそれらの投影法への再投影ができます。クライアント側で再投影を制限され手いる場合にはサーバ側でその処理を行うこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoStyler</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T021819Z" creationid="miurahr" creationdate="20201220T021819Z">
+        <seg>GeoStyler</seg>
       </tuv>
     </tu>
     <tu>
@@ -11458,6 +11514,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>GpsDrive_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GpsPrune</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T021356Z" creationid="miurahr" creationdate="20201220T021356Z">
+        <seg>GpsPrune</seg>
       </tuv>
     </tu>
     <tu>
@@ -12106,6 +12170,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>IE10/IE11 for Win8 ベースの端末</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INSPIRE</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T022017Z" creationid="miurahr" creationdate="20201220T022017Z">
+        <seg>INSPIRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -13810,6 +13882,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052255Z" creationid="miurahr" creationdate="20201102T052255Z">
         <seg>プラグイン、カスタムプリセット、その他の拡張機能で拡張できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It can be used for planning trips in advance, or for analysing the tracks recorded by GPS receivers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T021539Z" creationid="miurahr" creationdate="20201220T021539Z">
+        <seg>It can be used for planning trips in advance, or for analysing the tracks recorded by GPS receivers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18674,6 +18754,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231618Z" creationid="miurahr" creationdate="20201116T231618Z">
         <seg>|UG| を開き、シェイプファイルを追加します(左上隅のデータ追加ボタンを使用)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenCPN</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T021347Z" creationid="miurahr" creationdate="20201220T021347Z">
+        <seg>OpenCPN</seg>
       </tuv>
     </tu>
     <tu>
@@ -23902,6 +23990,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `INSPIRE Directive &lt;https://inspire.ec.europa.eu&gt;`__ aims to create a European Union spatial data infrastructure (SDI) for the purposes of environmental policies.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T022023Z" creationid="miurahr" creationdate="20201220T022023Z">
+        <seg>The `INSPIRE Directive &lt;https://inspire.ec.europa.eu&gt;`__ aims to create a European Union spatial data infrastructure (SDI) for the purposes of environmental policies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `Learn OSM website &lt;https://learnosm.org&gt;`_ provides easy to understand, step-by-step guides for you to get started with contributing to OpenStreetMap and using OpenStreetMap and using OpenStreetMap data.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052155Z" creationid="miurahr" creationdate="20201102T052155Z">
@@ -25523,6 +25619,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T053141Z" creationid="miurahr" creationdate="20201122T053141Z">
         <seg>このプロジェクトはOSGeoLive仮想マシンディスク(VMDK)にのみ含まれています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This European SDI enables the sharing of environmental spatial information among public sector organisations, facilitates public access to spatial information and assist in policy-making across boundaries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T022037Z" creationid="miurahr" creationdate="20201220T022037Z">
+        <seg>This European SDI enables the sharing of environmental spatial information among public sector organisations, facilitates public access to spatial information and assist in policy-making across boundaries.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30655,6 +30759,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`GpsPrune &lt;https://activityworkshop.net/software/gpsprune&gt;`_ is a tool for viewing, editing and converting coordinate data from GPS systems.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T021519Z" creationid="miurahr" creationdate="20201220T021519Z">
+        <seg>`GpsPrune &lt;https://activityworkshop.net/software/gpsprune&gt;`_  は、GPSシステムからの座標データを変換、表示および編集するツールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`Itasca &lt;http://localhost/mapserver_demos/itasca/&gt;`_</seg>
       </tuv>
       <tuv lang="ja">
@@ -33507,6 +33619,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>iris_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>istSOS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T022057Z" creationid="miurahr" creationdate="20201220T022057Z">
+        <seg>istSOS</seg>
       </tuv>
     </tu>
     <tu>
