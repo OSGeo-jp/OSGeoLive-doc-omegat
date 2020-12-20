@@ -6998,6 +6998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the checkerboard toolbar button with a "+" on it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T034929Z" creationid="miurahr" creationdate="20201220T034909Z">
+        <seg>ツールバーの"+" がついたチェッカーボードのボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the desktop icon "Start GeoMoose".</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131938Z" creationid="miurahr" creationdate="20201116T131938Z">
@@ -7058,6 +7066,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T084120Z" creationid="miurahr" creationdate="20201103T051350Z">
         <seg>**[編集]** の横の小さな矢印をクリックし、 **[iD編集(ブラウザ内エディタ)]** をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the toolbar button with a "+" and a bent poly-line which looks a bit like a "V".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T035038Z" creationid="miurahr" creationdate="20201220T035038Z">
+        <seg>Click on the toolbar button with a "+" and a bent poly-line which looks a bit like a "V".</seg>
       </tuv>
     </tu>
     <tu>
@@ -8682,6 +8698,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T052436Z" creationid="miurahr" creationdate="20201122T052436Z">
         <seg>SDI(catalog and gazteer services)内のデータリソースをローカライズするディスカバリサービスのクライアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display a map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T034641Z" creationid="miurahr" creationdate="20201220T034641Z">
+        <seg>マップの表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -11866,6 +11890,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>インストールが終わるまでしばらくお待ちください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go into the `GIS Layer Manager` window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T034836Z" creationid="miurahr" creationdate="20201220T034836Z">
+        <seg> `GIS Layer Manager` ウインドウにすすみます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19054,6 +19086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Once inside select for display a raster map layer such as "`elevation`" from the PERMANENT mapset.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T034819Z" creationid="miurahr" creationdate="20201220T034819Z">
+        <seg>内にはいると、 PERMANENT マップセットから "`elevation`" などのラスタレイヤ表示を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Once saved, you can go to the |GS| admin page again and select ``Styles`` (at the bottom of the ``Data`` section).</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T080916Z" creationid="miurahr" creationdate="20201116T231856Z">
@@ -22695,6 +22735,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075152Z" creationid="miurahr" creationdate="20201103T072834Z">
         <seg>地図の左側にある森林を選択してみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the map name you want from the "*map to be displayed*" pull-down list, and click :guilabel:`Ok`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T035020Z" creationid="miurahr" creationdate="20201220T034916Z">
+        <seg> "*map to be displayed*" プルダウン・リストから選択したいマップ名を選択し、 :guilabel:`Ok` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
