@@ -918,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Licence:** `MIT`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030411Z" creationid="miurahr" creationdate="20201220T030411Z">
+        <seg>**ライセンス:** `MIT`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Licence:** `Modified BSD License &lt;https://github.com/Reading-eScience-Centre/ncwms/blob/master/licence.txt&gt;`__</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T015933Z" creationid="miurahr" creationdate="20201220T015933Z">
@@ -2386,6 +2394,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**Webサイト:** https://projects.eclipse.org/projects/locationtech.jts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://pycsw.org/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030405Z" creationid="miurahr" creationdate="20201220T030405Z">
+        <seg>**Webサイト:** https://pycsw.org/</seg>
       </tuv>
     </tu>
     <tu>
@@ -3898,6 +3914,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T073321Z" creationid="miurahr" creationdate="20201121T055554Z">
         <seg>ウィザードには、 **マップ** に追加できるレイヤが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A9 OpenSearch         1.1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030359Z" creationid="miurahr" creationdate="20201220T030359Z">
+        <seg>A9 OpenSearch         1.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -6030,10 +6054,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CGI or WSGI deployment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030225Z" creationid="miurahr" creationdate="20201220T030225Z">
+        <seg>CGI または WSGIによる設置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CGI/FastCGI</seg>
       </tuv>
       <tuv lang="ja">
         <seg>CGI/FastCGI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CKAN connectivity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030320Z" creationid="miurahr" creationdate="20201220T030320Z">
+        <seg>CKAN の接続性</seg>
       </tuv>
     </tu>
     <tu>
@@ -8878,6 +8918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dublin Core   1.1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030354Z" creationid="miurahr" creationdate="20201220T030354Z">
+        <seg>Dublin Core   1.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dynamic Geospatial Visualization:</seg>
       </tuv>
       <tuv lang="ja">
@@ -9554,6 +9602,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>極めて軽量 — JS コードを gzip 圧縮した状態で 34 KB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FGDC CSDGM 1998</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030358Z" creationid="miurahr" creationdate="20201220T030358Z">
+        <seg>FGDC CSDGM 1998</seg>
       </tuv>
     </tu>
     <tu>
@@ -10630,6 +10686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GM03  2.1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030358Z" creationid="miurahr" creationdate="20201220T030358Z">
+        <seg>GM03  2.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GML 2</seg>
       </tuv>
       <tuv lang="ja">
@@ -11018,6 +11082,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142019Z" creationid="miurahr" creationdate="20201116T142019Z">
         <seg>GeoNodeクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoNode connectivity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030304Z" creationid="miurahr" creationdate="20201220T030304Z">
+        <seg>GeoNodeの接続性</seg>
       </tuv>
     </tu>
     <tu>
@@ -11798,6 +11870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HHypermap connectivity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030309Z" creationid="miurahr" creationdate="20201220T030309Z">
+        <seg>HHypermapの接続性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hamish Bowman</seg>
       </tuv>
       <tuv lang="ja">
@@ -12362,6 +12442,30 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042446Z" creationid="miurahr" creationdate="20201103T042446Z">
         <seg>ISO19107準拠形状モデル:複雑な形状(例:非線形曲線)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ISO 19115:2003</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030357Z" creationid="miurahr" creationdate="20201220T030357Z">
+        <seg>ISO 19115:2003</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ISO 19119:2005</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030357Z" creationid="miurahr" creationdate="20201220T030357Z">
+        <seg>ISO 19119:2005</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ISO 19139:2007</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030357Z" creationid="miurahr" creationdate="20201220T030357Z">
+        <seg>ISO 19139:2007</seg>
       </tuv>
     </tu>
     <tu>
@@ -16502,10 +16606,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Metadata Standards:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030354Z" creationid="miurahr" creationdate="20201220T030354Z">
+        <seg>Metadata Standards:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Metadata catalogue</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T051918Z" creationid="miurahr" creationdate="20201122T051918Z">
         <seg>メタデータカタログ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Metadata is 'data about data', storing such things as creation-date, author, title, area-of-interest, etc, and is usually encoded as XML files, following international standards such as ISO 19115, ISO 19139 and FGDC CSDGM.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T025533Z" creationid="miurahr" creationdate="20201220T025435Z">
+        <seg>メタデータは「データに関するデータ」であり、作成日、作成者、タイトル、興味分野などといったものを格納しており、 ISO 19115、 ISO 19139 、 FGDC CSDGM などの国際標準に従って XML ファイルとして通常エンコードされています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16922,6 +17042,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132125Z" creationid="miurahr" creationdate="20201116T132125Z">
         <seg>複数の座標表示:X、Y(データセットのローカル座標)、LAT/LON(10進数)、United States National Grid(USNG)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NASA DIF 9.7</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030357Z" creationid="miurahr" creationdate="20201220T030357Z">
+        <seg>NASA DIF 9.7</seg>
       </tuv>
     </tu>
     <tu>
@@ -17822,6 +17950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OAI-PMH   2.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030358Z" creationid="miurahr" creationdate="20201220T030358Z">
+        <seg>OAI-PMH   2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OGC</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T052421Z" creationid="sanak" creationdate="20201218T052421Z">
@@ -17878,6 +18014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OGC OpenSearch  1.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030354Z" creationid="miurahr" creationdate="20201220T030354Z">
+        <seg>OGC OpenSearch  1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OGC Simple Features for SQL (SFSQL)</seg>
       </tuv>
       <tuv lang="ja">
@@ -17890,6 +18034,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>OGC 標準規格説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC Standards:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030353Z" creationid="miurahr" creationdate="20201220T030353Z">
+        <seg>OGC Standards:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18454,6 +18606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OWS Common    1.0.0, 2.0.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030354Z" creationid="miurahr" creationdate="20201220T030354Z">
+        <seg>OWS Common    1.0.0, 2.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Observed property: urn:ogc:def:parameter:x-istsos:1.0:meteo:air:temperature</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T025408Z" creationid="miurahr" creationdate="20201122T025408Z">
@@ -18778,6 +18938,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T055518Z">
         <seg>オンラインヘルプ: https://wiki.openstreetmap.org/wiki/QGIS#QGIS_2:_Importing_OSM_vector_layers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Data Catalog connectivity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030315Z" creationid="miurahr" creationdate="20201220T030315Z">
+        <seg>Open Data Catalogの接続性</seg>
       </tuv>
     </tu>
     <tu>
@@ -20498,6 +20666,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Python 2 and 3 compatible</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030243Z" creationid="miurahr" creationdate="20201220T030243Z">
+        <seg>Python 2と3に互換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QGIS</seg>
       </tuv>
       <tuv lang="ja">
@@ -21547,6 +21723,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SOAP  1.2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030356Z" creationid="miurahr" creationdate="20201220T030356Z">
+        <seg>SOAP  1.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SOS 1.0.0: Basic and Transactional profiles</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T041835Z" creationid="miurahr" creationdate="20201122T041835Z">
@@ -21575,6 +21759,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013747Z" creationid="miurahr" creationdate="20201103T013747Z">
         <seg>SQLite は動作が軽く、シンプルで堅牢、簡単に使える人気のあるデータベース管理システム (DBMS) です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SRU   1.1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030358Z" creationid="miurahr" creationdate="20201220T030358Z">
+        <seg>SRU   1.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -23835,6 +24027,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The CSW standard defines common interfaces to discover, browse and query metadata about spatial data, web services and related resources.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T025705Z" creationid="miurahr" creationdate="20201220T025705Z">
+        <seg>CSW 標準は、空間データ、 Web サービス、および関連リソースに関するメタデータを発見、参照、および照会するための共通インターフェースを定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Client enables developers to create powerful web GIS applications including interactive maps, extensible widgets and custom use cases.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T050812Z" creationid="miurahr" creationdate="20201122T050812Z">
@@ -25122,6 +25322,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133330Z" creationid="miurahr" creationdate="20201120T133330Z">
         <seg>プログラムが開き、世界のマップが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The project is certified `OGC Compliant`_, and is an `OGC Reference Implementation`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T025647Z" creationid="miurahr" creationdate="20201220T025647Z">
+        <seg>このプロジェクトは、 `OGC Compliant`_ として認定されており、  `OGC Reference Implementation`_ です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32199,6 +32407,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>certified OGC Compliant and OGC Reference Implementation for OGC CSW 2.0.2 and CSW 3.0.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T025819Z" creationid="miurahr" creationdate="20201220T025755Z">
+        <seg>OGC CSW 2.0.2 および CSW 3.0.0 の OGC 仕様の準拠および OGC 参照実装の認定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>cesium_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -32911,6 +33127,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>extensible profile plugin architecture</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030342Z" creationid="miurahr" creationdate="20201220T030342Z">
+        <seg>拡張可能プロファイル・プラグイン・アーキテクチャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>eyedol</seg>
       </tuv>
       <tuv lang="ja">
@@ -32963,6 +33187,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T051320Z" creationid="miurahr" creationdate="20201102T051320Z">
         <seg>feature_city_poi.db: 上記の大都市OSMデータから、POIノードのデータをSqlite DBに格納したもの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>federated catalogue distributed searching</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030333Z" creationid="miurahr" creationdate="20201220T030333Z">
+        <seg>分散カタログの分散検索</seg>
       </tuv>
     </tu>
     <tu>
@@ -33043,6 +33275,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>柔軟で強力な認証 API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>flexible repository configuration</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030256Z" creationid="miurahr" creationdate="20201220T030256Z">
+        <seg>柔軟なリポジトリー構成</seg>
       </tuv>
     </tu>
     <tu>
@@ -33583,6 +33823,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>harvesting support for WMS, WFS, WCS, WPS, WAF, CSW, SOS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030017Z" creationid="miurahr" creationdate="20201220T025758Z">
+        <seg>WMS, WFS, WCS, WPS, WAF, CSW, SOSのサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>hayashi apptec co jp</seg>
       </tuv>
       <tuv lang="ja">
@@ -33867,6 +34115,62 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>画像 (.jpg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>implements FGDC CSDGM Application Profile for CSW 2.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030040Z" creationid="miurahr" creationdate="20201220T030040Z">
+        <seg>FGDC CSDGM Application Profile for CSW 2.0の実装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>implements Full Text Search capabilities</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030108Z" creationid="miurahr" creationdate="20201220T030104Z">
+        <seg>フルテキスト検索機能を実装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>implements INSPIRE Discovery Services 3.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030026Z" creationid="miurahr" creationdate="20201220T030026Z">
+        <seg>INSPIRE Discovery Services 3.0の実装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>implements ISO Metadata Application Profile 1.0.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030033Z" creationid="miurahr" creationdate="20201220T030033Z">
+        <seg>ISO Metadata Application Profile 1.0.0の実装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>implements OGC OpenSearch Geo/Time extensions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030121Z" creationid="miurahr" creationdate="20201220T030104Z">
+        <seg>OGC OpenSearch Geo/Time 拡張の実装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>implements Open Archives Initiative Protocol for Metadata Harvesting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030144Z" creationid="miurahr" creationdate="20201220T030144Z">
+        <seg>メタデータ収集のためのOpen Archives Initiative Protocol実装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>implements the Search/Retrieval via URL (SRU) search protocol</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030055Z" creationid="miurahr" creationdate="20201220T030055Z">
+        <seg>Search/Retrieval via URL (SRU)検索プロトコルの実装</seg>
       </tuv>
     </tu>
     <tu>
@@ -35951,6 +36255,30 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>pycsw is Open Source, released under an MIT license, and runs on all major platforms (Windows, Linux, Mac OS X).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T025734Z" creationid="miurahr" creationdate="20201220T025734Z">
+        <seg>pycsw は Open Sourceであり MIT ライセンスでリリースされ、すべての主要プラットフォーム (Windows、 Linux、 Mac OS X ) で動作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pycsw is a `Python`_ implementation of the |CSW|.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T025604Z" creationid="miurahr" creationdate="20201220T025604Z">
+        <seg>pycsw は `Python`_ による |CSW|実装です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pycsw is simple to setup within an Apache web server (or any WSGI server) and can access metadata records stored as XML files within a database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T025518Z" creationid="miurahr" creationdate="20201220T025433Z">
+        <seg>pycsw は Apache Web サーバー (または任意の WSGI サーバー ) 内で簡単に設置できるため、データベース内の XML ファイルとして保管されるメタデータのレコードにアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pycsw_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -36155,6 +36483,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T103229Z" creationid="smellman" creationdate="20201103T103142Z">
         <seg>読み取り (ファイル): GML, SHP, DXF+, MIF*, CSV+, KML+, OSM* &amp; TIFF, ASCII grid, JPG, PNG, JPEG2000+, MrSID*, ECW+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>realtime XML Schema validation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030338Z" creationid="miurahr" creationdate="20201220T030338Z">
+        <seg>リアルタイム XML スキーマ妥当性検査</seg>
       </tuv>
     </tu>
     <tu>
@@ -36583,6 +36919,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>simple configuration</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030250Z" creationid="miurahr" creationdate="20201220T030250Z">
+        <seg>単純な設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>song.osgeo gmail com</seg>
       </tuv>
       <tuv lang="ja">
@@ -36723,6 +37067,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071342Z" creationid="miurahr" creationdate="20201103T071342Z">
         <seg>ラスター関連のOGC標準のサポート、 WCS Core and WCPSの参照実装です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>supports ISO, Dublin Core, DIF, FGDC, Atom and GM03 metadata models</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030211Z" creationid="miurahr" creationdate="20201220T030211Z">
+        <seg>ISO, Dublin Core, DIF, FGDC, Atom, GM03のメタデータモデルの実装</seg>
       </tuv>
     </tu>
     <tu>
@@ -36967,6 +37319,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>transactional capabilities (CSW-T)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030254Z" creationid="miurahr" creationdate="20201220T030254Z">
+        <seg>トランザクション機能 (CSW-T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>trevor_wekel otxsystems com</seg>
       </tuv>
       <tuv lang="ja">
@@ -37139,6 +37499,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>vera probki.net</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>very lightweight (Python + CGI)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030352Z" creationid="miurahr" creationdate="20201220T030352Z">
+        <seg>非常に軽量(Python + CGI)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37415,6 +37783,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|CSW|         2.0.2, 3.0.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030353Z" creationid="miurahr" creationdate="20201220T030353Z">
+        <seg>|CSW|         2.0.2, 3.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|CSW|: Performs searches for geospatial datasets and services</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042411Z" creationid="miurahr" creationdate="20201103T042411Z">
@@ -37431,10 +37807,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|FE|          1.1.0, 2.0.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030354Z" creationid="miurahr" creationdate="20201220T030354Z">
+        <seg>|FE|          1.1.0, 2.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|GML|</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|GML|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|GML|         3.1.1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030354Z" creationid="miurahr" creationdate="20201220T030354Z">
+        <seg>|GML|         3.1.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -37667,6 +38059,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|SENSORML|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|SFS|         1.2.1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T030354Z" creationid="miurahr" creationdate="20201220T030354Z">
+        <seg>|SFS|         1.2.1</seg>
       </tuv>
     </tu>
     <tu>
