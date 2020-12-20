@@ -17,3 +17,5 @@
 # PyCharm
 .idea/
 
+# gradle
+.gradle
