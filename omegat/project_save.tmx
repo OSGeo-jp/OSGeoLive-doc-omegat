@@ -1470,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-pywps|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032152Z" creationid="miurahr" creationdate="20201220T032152Z">
+        <seg>**ソフトウェアバージョン:** |version-pywps|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-qgis_mapserver|</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003426Z" creationid="miurahr" creationdate="20201103T003426Z">
@@ -1786,6 +1794,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**サポート:** https://mapserver.org/community/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** https://pywps.org/community/#professional-support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032159Z" creationid="miurahr" creationdate="20201220T032159Z">
+        <seg>**サポート:** https://pywps.org/community/#professional-support</seg>
       </tuv>
     </tu>
     <tu>
@@ -2410,6 +2426,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T030405Z" creationid="miurahr" creationdate="20201220T030405Z">
         <seg>**Webサイト:** https://pycsw.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://pywps.org/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032145Z" creationid="miurahr" creationdate="20201220T032145Z">
+        <seg>**Webサイト:** https://pywps.org/</seg>
       </tuv>
     </tu>
     <tu>
@@ -3354,6 +3378,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T030425Z" creationid="miurahr" creationdate="20201220T030425Z">
         <seg>:doc:`クイックスタート文書 &lt;../quickstart/pycsw_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/pygeoapi_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T031842Z" creationid="miurahr" creationdate="20201220T031842Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/pygeoapi_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/pywps_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032233Z" creationid="miurahr" creationdate="20201220T032233Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/pywps_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -5686,6 +5726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Below is the project's standards support matrix.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T031532Z" creationid="miurahr" creationdate="20201220T031532Z">
+        <seg>以下に、プロジェクトの標準サポート表を示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Below this are tabs classifying the records by date added (latest news) and popularity (most popular).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133658Z" creationid="miurahr" creationdate="20201116T133658Z">
@@ -7342,6 +7390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Compliant: conforms to OGC compliance requirements (great)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T031709Z" creationid="miurahr" creationdate="20201220T031552Z">
+        <seg>準拠: OGC仕様要求に準拠 (良)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Configure MapServer using the Mapfile configuration file</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021020Z" creationid="miurahr" creationdate="20201103T021020Z">
@@ -8474,6 +8530,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013928Z" creationid="miurahr" creationdate="20201103T013838Z">
         <seg>それぞれのシステムは、平坦な二次元マップ上に三次元地球を表現ししています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Digital Terrain Analysis: generate geomorphometric indexes, channel networks, profiles, contour lines, ...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032444Z" creationid="miurahr" creationdate="20201220T032444Z">
+        <seg>ディジタル地形分析: 形状の索引、チャネル・ネットワーク、プロファイル、輪郭線などの生成...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12958,6 +13022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Image analysis: filters, edge detection, cluster analysis, segmentation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032353Z" creationid="miurahr" creationdate="20201220T032353Z">
+        <seg>イメージ分析: フィルタ、エッジ検出、クラスター分析、セグメンテーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Image- and HTML-based markers</seg>
       </tuv>
       <tuv lang="ja">
@@ -12994,6 +13066,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041708Z" creationid="miurahr" creationdate="20201103T041708Z">
         <seg>各標準バージョンに実装されている操作を以下に示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Implementing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T031736Z" creationid="miurahr" creationdate="20201220T031736Z">
+        <seg>実装レベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Implementing: implements standard (good)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T031703Z" creationid="miurahr" creationdate="20201220T031613Z">
+        <seg>実装: 標準実装(可)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15906,6 +15994,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133950Z" creationid="miurahr" creationdate="20201116T133950Z">
         <seg>レコードの管理(表示または編集権限の割り当て、所有権の別のユーザーへの転送など)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manipulation of point clouds from lidar data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032305Z" creationid="miurahr" creationdate="20201220T032305Z">
+        <seg>lidar データからの点群の操作</seg>
       </tuv>
     </tu>
     <tu>
@@ -20430,6 +20526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Processes are written in the Python programming language and can integrate tools such as :doc:`GRASS GIS &lt;grass_overview&gt;`, :doc:`R &lt;R_overview&gt;`, :doc:`GDAL/OGR &lt;gdal_overview&gt;`, :doc:`proj.4 &lt;proj4_overview&gt;` and other libraries with Python bindings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032042Z" creationid="miurahr" creationdate="20201220T032042Z">
+        <seg>プロセスは、 Python プログラミング言語で実装されており、 :doc:`GRASS GIS &lt;grass_overview&gt;`, :doc:`R &lt;R_overview&gt;`, :doc:`GDAL/OGR &lt;gdal_overview&gt;`, :doc:`proj.4 &lt;proj4_overview&gt;` などのライブラリを、Pythonバインディングを通じて統合できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Processing</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T060144Z" creationid="miurahr" creationdate="20201103T060144Z">
@@ -20678,6 +20782,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021651Z" creationid="miurahr" creationdate="20201103T021651Z">
         <seg>次の内容を入力します::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PyWPS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T031842Z" creationid="miurahr" creationdate="20201220T031842Z">
+        <seg>PyWPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PyWPS provides web access to custom geospatial operations (referred to as Processes) via the |WPS| standard.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T031900Z" creationid="miurahr" creationdate="20201220T031900Z">
+        <seg>PyWPS は、カスタムの地理空間操作 ( プロセスと呼ばれる ) への Web アクセスを、 |WPS| 標準で提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21043,6 +21163,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Raster data: interpolation, cost analysis, ...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032335Z" creationid="miurahr" creationdate="20201220T032335Z">
+        <seg>ラスタデータ: 補間、コスト分析 ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Raster overview tables are used by tools such as QGIS to provide lower resolution versions of raster data for faster loading.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T042632Z" creationid="miurahr" creationdate="20201108T042612Z">
@@ -21183,6 +21311,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201124T235033Z" creationid="smellman" creationdate="20201101T105628Z">
         <seg>詳細については、 :doc:`Contents &lt;./overview/overview&gt;`  からリンクされている特定のアプリケーションの説明を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reference Implementation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T031756Z" creationid="miurahr" creationdate="20201220T031756Z">
+        <seg>参照実装レベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reference Implementation: provides a reference for the standard (awesome!)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T031719Z" creationid="miurahr" creationdate="20201220T031654Z">
+        <seg>参照実装: 標準の参照を提供(優秀!)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22883,6 +23027,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Source data can be provided with WPS requests or accessed from data on the WPS server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032045Z" creationid="miurahr" creationdate="20201220T032045Z">
+        <seg>ソース・データは、 WPS 要求で提供することも、 WPS サーバー上のデータからアクセスすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Source map data is created and maintained by thousands of volunteers from around the world, using processes similar to the maintaining of the wikipedia encyclopedia.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T045044Z" creationid="miurahr" creationdate="20201102T045044Z">
@@ -23099,6 +23251,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T031538Z" creationid="miurahr" creationdate="20201220T031538Z">
+        <seg>標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Standard WKT and WKB formats</seg>
       </tuv>
       <tuv lang="ja">
@@ -23111,6 +23271,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042749Z" creationid="miurahr" creationdate="20201103T042749Z">
         <seg>標準インスペクタ: スキーマの妥当性、識別子の完全性、INSPIRE要件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Standards are at the core of pygeoapi.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T031515Z" creationid="miurahr" creationdate="20201220T031515Z">
+        <seg>標準は、pygeoapiの中核になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23495,6 +23663,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231223Z" creationid="miurahr" creationdate="20201116T231130Z">
         <seg>データをスタイリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T031544Z" creationid="miurahr" creationdate="20201220T031544Z">
+        <seg>サポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -29167,6 +29343,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Web Processing Service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T031848Z" creationid="miurahr" creationdate="20201220T031848Z">
+        <seg>Web Processing Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Web Security Service</seg>
       </tuv>
       <tuv lang="ja">
@@ -31359,6 +31543,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`OGC API - Features`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T031721Z" creationid="miurahr" creationdate="20201220T031721Z">
+        <seg>`OGC API - Features`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`OGC Standards`_</seg>
       </tuv>
       <tuv lang="ja">
@@ -32943,6 +33135,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>easy and fast to install and setup</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032056Z" creationid="miurahr" creationdate="20201220T032056Z">
+        <seg>インストールとセットアップが容易かつ迅速</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>easy to deploy: via UbuntuGIS or the official Docker image</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T031245Z" creationid="miurahr" creationdate="20201220T031245Z">
@@ -34199,6 +34399,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>implemented in pure Python</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032105Z" creationid="miurahr" creationdate="20201220T032059Z">
+        <seg>純粋な Python で実装されている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>implements FGDC CSDGM Application Profile for CSW 2.0</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T030040Z" creationid="miurahr" creationdate="20201220T030040Z">
@@ -34315,6 +34523,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>既存のユーザーデータベースや認証方法との統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>integrates seamlessly with the Python ecosystem of packages:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032140Z" creationid="miurahr" creationdate="20201220T032101Z">
+        <seg>シームレスに統合されたPython エコシステムのパッケージ:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37043,6 +37259,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T030250Z" creationid="miurahr" creationdate="20201220T030250Z">
         <seg>単純な設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>small and lightweight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T032052Z" creationid="miurahr" creationdate="20201220T032052Z">
+        <seg>小型で軽量</seg>
       </tuv>
     </tu>
     <tu>
