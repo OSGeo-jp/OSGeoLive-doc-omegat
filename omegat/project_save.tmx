@@ -4638,6 +4638,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Allows caching of Mapbox Vector (MVT) and UTFGrid tiles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023021Z" creationid="miurahr" creationdate="20201220T023021Z">
+        <seg>Mapbox Vector (MVT)や UTFGrid タイルのキャッシュをサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Allows tile caches to be stored in</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T022724Z" creationid="miurahr" creationdate="20201220T022629Z">
+        <seg>タイル・キャッシュを</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Allows tiles to be "assembled" together - allowing tiles for different datasets to be merged together into a single tile to send to the client</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023149Z" creationid="miurahr" creationdate="20201220T023149Z">
+        <seg>タイルを一緒に「くみこんで」、異なるデータ・セットのタイルを 1 つのタイルにマージして、クライアントに送信することができるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also if authorised the user can modify the data and send it back to the server to update the stored data using the WFS-T protocol.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011634Z" creationid="miurahr" creationdate="20201103T011626Z">
@@ -5946,6 +5970,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052323Z" creationid="smellman" creationdate="20201103T052323Z">
         <seg>キャッシュシード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Caching based on dimensions (such as time)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023002Z" creationid="miurahr" creationdate="20201220T022818Z">
+        <seg>(時間など)次元にもとづくキャッシュ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7786,6 +7818,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>カスタム地図レイヤ、コントロール、投影法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Customizable grids</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023031Z" creationid="miurahr" creationdate="20201220T023031Z">
+        <seg>カスタマイズ可能なグリッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -13374,6 +13414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Includes a seeder application</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T022940Z" creationid="miurahr" creationdate="20201220T022811Z">
+        <seg>シーダー・アプリケーションを内蔵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Includes countries, disputed areas, states and provinces (1st order administrative divisions), and populated places (cities, towns).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012519Z" creationid="miurahr" creationdate="20201103T012519Z">
@@ -15754,6 +15802,38 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T052808Z" creationid="miurahr" creationdate="20201122T052808Z">
         <seg>マップシートのコンポーザ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapCache</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T022303Z" creationid="miurahr" creationdate="20201220T022303Z">
+        <seg>MapCache</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapCache can be run on Apache as a module or on any web server that supports CGI/FastCGI such as IIS, Nginx, and Jetty.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T022617Z" creationid="miurahr" creationdate="20201220T022617Z">
+        <seg>MapCache は Apache  httpdのモジュールとして利用できるほか、IIS、 Nginx、 Jetty などの CGI/FastCGI をサポートする任意の Web サーバーでも実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapCache is a server that implements tile caching to speed up access to WMS layers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T022334Z" creationid="miurahr" creationdate="20201220T022334Z">
+        <seg>MapCache は、 WMS レイヤへのアクセスを高速化するタイルのキャッシュを実装しているサーバーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapCache is part of the MapServer family, but can be configured to cache and serve data from any geospatial server that uses WMS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T022550Z" creationid="miurahr" creationdate="20201220T022550Z">
+        <seg>MapCache は MapServer ファミリーの一部ですが、 WMSを使用するすべての地理空間サーバーのデータをキャッシュできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24830,6 +24910,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The primary objectives are to be fast and easily deployable, while offering the essential features (and more!) expected from a tile caching solution.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T022515Z" creationid="miurahr" creationdate="20201220T022515Z">
+        <seg>第一の目標は、タイルキャッシュに期待される主要機能 (およびそれ以上!) を提供しつつ、迅速かつ容易にデプロイできることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The process of using the zoom out tool is the same as the zoom-in tool.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T015206Z" creationid="miurahr" creationdate="20201117T015206Z">
@@ -33519,10 +33607,34 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>in Memcache</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T022752Z" creationid="miurahr" creationdate="20201220T022752Z">
+        <seg>Memcacheへ格納できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>in databases including SQLite, Berkeley DB, Riak</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T022745Z" creationid="miurahr" creationdate="20201220T022716Z">
+        <seg>SQLite, Berkeley DB, Riakといったデータベースに格納できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>in the :menuselection:`Geospatial --&gt; Web Services` menu.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T015828Z" creationid="miurahr" creationdate="20201117T015828Z">
         <seg>:menuselection:`Geospatial --&gt; Web Services` メニューにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>in the cloud using REST (S3, Azure, Google)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T022715Z" creationid="miurahr" creationdate="20201220T022715Z">
+        <seg>REST (S3, Azure, Google)を使ってクラウドに格納できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34971,6 +35083,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>olt omniscale de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>on disk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T022730Z" creationid="miurahr" creationdate="20201220T022638Z">
+        <seg>ディスクに格納できます。</seg>
       </tuv>
     </tu>
     <tu>
