@@ -6870,6 +6870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on :guilabel:`Start GRASS session`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T034124Z" creationid="miurahr" creationdate="20201220T034124Z">
+        <seg> :guilabel:`Start GRASS session` をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on Connections drop down menu and choose Natural Earth.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043455Z" creationid="miurahr" creationdate="20201108T043455Z">
@@ -6970,6 +6978,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T081013Z" creationid="miurahr" creationdate="20201116T234236Z">
         <seg>|GS| ウィンドウの左側にあるメニューの :guilabel:`レイヤ` リンクをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the GRASS link in the :menuselection:`Geospatial --&gt; Desktop GIS` menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T033948Z" creationid="miurahr" creationdate="20201220T033948Z">
+        <seg> :menuselection:`Geospatial --&gt; Desktop GIS` メニューから、 GRASS をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10502,6 +10518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From the "Welcome to GRASS GIS " window, select the nc_basic_spm_grass7 dataset for the location, and "user1" for the mapset</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T034114Z" creationid="miurahr" creationdate="20201220T034114Z">
+        <seg>"Welcome to GRASS GIS " ウインドウからロケーションデータセットとして、 nc_basic_spm_grass7 をマップセットとして "user1"を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From the **Search tab**, click on the card for **Physiographic Map of North and Central Eurasia (Sample record, please remove!)** to view the metadata.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T075004Z" creationid="miurahr" creationdate="20201116T134100Z">
@@ -10950,6 +10974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GRASS GIS Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T033853Z" creationid="miurahr" creationdate="20201220T033837Z">
+        <seg>GRASS GIS クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GRASS GIS has been optimized for performance and large geospatial data analysis.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011108Z" creationid="miurahr" creationdate="20201103T011108Z">
@@ -10970,6 +11002,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011102Z" creationid="miurahr" creationdate="20201103T011102Z">
         <seg>GRASS GISには、空間モデリング、ラスターおよびベクトルデータの視覚化、空間データの管理と分析、衛星および航空画像の処理のためのツールが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GRASS GIS is a powerful GIS which lets you visualize, manage, analyse and edit geospatial data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T033846Z" creationid="miurahr" creationdate="20201220T033839Z">
+        <seg>GRASS GIS は、地理空間データの可視化、管理、分析、および編集を行うことができる強力な GIS です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12798,6 +12838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this happens to you the solution is to drag the corner of the window to make it a little bigger.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T034618Z" creationid="miurahr" creationdate="20201220T034618Z">
+        <seg>この問題が発生するときは、ウインドウの角をドラッグして、もうすこしサイズを大きくしてみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If we look closer at the **LAYER** in our Mapfile, we'll see that it contains a bunch of properties and objects too.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T075819Z" creationid="miurahr" creationdate="20201103T021507Z">
@@ -12826,6 +12874,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T073252Z" creationid="miurahr" creationdate="20201120T143335Z">
         <seg>インターネットに接続していない場合は、ローカルWMSの |osgeolive-appmenupath-geoserver| を実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you are on a netbook with a very small display (800x600 resolution) the startup screen might get a little scrunched and the [*Start GRASS*] button hidden behind the location and mapset lists.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T034532Z" creationid="miurahr" creationdate="20201220T034532Z">
+        <seg>ディスプレイが非常に小さいノートPC(解像度800x600) の場合には、スタートアップダイアログが画面からでてしまい、 [*Start GRASS*] ボタンが、ロケーションやマップセット一覧のうらに隠れてしまうかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23395,6 +23451,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start GRASS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T033857Z" creationid="miurahr" creationdate="20201220T033857Z">
+        <seg>GRASS の開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start GeoExt viewer</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201125T003742Z" creationid="miurahr" creationdate="20201125T003707Z">
@@ -27091,6 +27155,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142821Z" creationid="miurahr" creationdate="20201116T142821Z">
         <seg>これにより、レイヤのデータを編集できるのはあなただけになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will launch GRASS into the `graphical user interface (written in wxPython) &lt;../../grass/wxGUI.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T034153Z" creationid="miurahr" creationdate="20201220T034153Z">
+        <seg>GRASSが `graphical user interface (written in wxPython) &lt;../../grass/wxGUI.html&gt;`_ として起動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30923,6 +30995,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T142621Z" creationid="miurahr" creationdate="20201123T142621Z">
         <seg>出力の中で、角括弧に囲まれた謎の'one'が何をしているのか、不思議に思っているかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You might have to move the window up past the top of the screen a bit to get the room (hold down the Alt key and left-click drag the window to move it).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T034636Z" creationid="miurahr" creationdate="20201220T034636Z">
+        <seg>You might have to move the window up past the top of the screen a bit to get the room (hold down the Alt key and left-click drag the window to move it).</seg>
       </tuv>
     </tu>
     <tu>
