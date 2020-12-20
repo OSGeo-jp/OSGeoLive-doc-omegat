@@ -478,10 +478,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Data Version:** 2.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T013504Z" creationid="miurahr" creationdate="20201220T013504Z">
+        <seg>**データバージョン:** 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Data Version:** Live database extract</seg>
       </tuv>
       <tuv lang="ja">
         <seg>**データバージョン:** Live database extract</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Data format:** SHP and TIF+TFW</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T013521Z" creationid="miurahr" creationdate="20201220T013512Z">
+        <seg>**データフォーマット:** SHP と TIF+TFW</seg>
       </tuv>
     </tu>
     <tu>
@@ -790,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Licence:** New BSD License</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T013340Z" creationid="miurahr" creationdate="20201220T013340Z">
+        <seg>**ライセンス:** New BSD License</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Licence:** `Apache Software License 2.0 &lt;https://www.apache.org/licenses/LICENSE-2.0.html&gt;`_</seg>
       </tuv>
       <tuv lang="ja">
@@ -866,6 +890,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T225342Z" creationid="miurahr" creationdate="20201123T225342Z">
         <seg>**ライセンス:** GPLv3 or BSD License dependent on ExtJS license - see `License &lt;https://github.com/geoext/geoext3/blob/master/LICENSE&gt;`_ and `License FAQ &lt;https://github.com/geoext/geoext3/blob/master/LICENSE-FAQ.md&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**License:** None, the data is public domain.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T013544Z" creationid="miurahr" creationdate="20201220T013452Z">
+        <seg>**ライセンス:** パブリックドメイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -1254,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-mapslicer|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T013356Z" creationid="miurahr" creationdate="20201220T013356Z">
+        <seg>**ソフトウェアバージョン:** |version-mapslicer|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-marble|</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010439Z" creationid="miurahr" creationdate="20201103T010439Z">
@@ -1366,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Source Code:** https://github.com/geopython/mapslicer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T013349Z" creationid="miurahr" creationdate="20201220T013349Z">
+        <seg>**ソースコード:** https://github.com/geopython/mapslicer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Source**</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T004209Z" creationid="miurahr" creationdate="20201108T004209Z">
@@ -1378,6 +1426,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**空間参照系:** 緯度経度 WGS84</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Spatial coordinate system:** WGS84.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T013611Z" creationid="miurahr" creationdate="20201220T013513Z">
+        <seg>**空間座標系:** WGS84.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1610,6 +1666,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T061839Z" creationid="miurahr" creationdate="20201103T061839Z">
         <seg>**サポート:** https://www.deegree.org/community</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** https://www.naturalearthdata.com/about</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T013551Z" creationid="miurahr" creationdate="20201220T013551Z">
+        <seg>**サポート:** https://www.naturalearthdata.com/about</seg>
       </tuv>
     </tu>
     <tu>
@@ -2202,6 +2266,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T051413Z" creationid="miurahr" creationdate="20201122T051413Z">
         <seg>**Webサイト:** https://www.geomoose.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://www.naturalearthdata.com/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T013446Z" creationid="miurahr" creationdate="20201220T013446Z">
+        <seg>**Webサイト:** https://www.naturalearthdata.com/</seg>
       </tuv>
     </tu>
     <tu>
@@ -2966,6 +3038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/mapslicer_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T013425Z" creationid="miurahr" creationdate="20201220T013425Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/mapslicer_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>:doc:`Quickstart documentation &lt;../quickstart/marble_quickstart&gt;`</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T070500Z" creationid="miurahr" creationdate="20201103T070500Z">
@@ -3618,6 +3698,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T102704Z" creationid="smellman" creationdate="20201103T102704Z">
         <seg>AIS入力デコード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ability to process raster data in various formats: TIFF/GeoTIFF, MrSID, ECW, JPEG2000, Erdas HFA, NOAA BSB, JPEG and more...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T013328Z" creationid="miurahr" creationdate="20201220T013328Z">
+        <seg>さまざまなフォーマットでラスターデータを処理する機能 : TIFF/GeoTIFF、 MrSID、 ECW、 JPEG2000、エルダス HFA、 NOAA BSB、 JPEG など。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7142,6 +7230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>County and state level raster, vector, and KML map layers with full meta-data, specifically selected to cover the wide needs of teaching introductory GIS courses and providing examples for software help pages and tutorials.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T014132Z" creationid="miurahr" creationdate="20201220T014132Z">
+        <seg>郡および州レベルのラスタレイヤ、ベクタレイヤ、および KML マップレイヤには、完全なメタデータが含まれています。具体的には、 GIS コースの導入に関する幅広いニーズに対応し、ソフトウェアのヘルプ・ページやチュートリアルの例を提供を目的として選択されたデータになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Coverage formats supported:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T050650Z" creationid="miurahr" creationdate="20201122T050650Z">
@@ -7674,6 +7770,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014232Z" creationid="miurahr" creationdate="20201103T014232Z">
         <seg>データや属性を、多くのクライアント、例えば :doc:`QGIS &lt;qgis_overview&gt;` や :doc:`uDig &lt;udig_overview&gt;` から、JDBC や ODBC、もしくは 直接 PL/pgSQL を発行することで、変更することが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data are provided at three hierarchical levels:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T013831Z" creationid="miurahr" creationdate="20201220T013831Z">
+        <seg>データは、以下の 3 つの階層レベルで提供しています:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16414,6 +16518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Natural Earth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T013433Z" creationid="miurahr" creationdate="20201220T013433Z">
+        <seg>Natural Earth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Natural Earth provides cartographers an off-the shelf solution for creating small-scale world, regional, and country maps at 1:10-, 1:50-, and 1:110- million scales.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012442Z" creationid="miurahr" creationdate="20201103T012442Z">
@@ -16642,6 +16754,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>DVD から直接利用する場合にはハードディスクは使用しません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>North Carolina USA Educational dataset</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T013725Z" creationid="miurahr" creationdate="20201220T013708Z">
+        <seg>ノースカロライナ USA 教育データ・セット</seg>
       </tuv>
     </tu>
     <tu>
@@ -21987,6 +22107,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>South-west Wake County with raster data at resolutions 30m-10m; and</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T013932Z" creationid="miurahr" creationdate="20201220T013932Z">
+        <seg>南西部のウェイク郡のラスタデータで、解像度 30m-10m;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spain</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T062250Z" creationid="miurahr" creationdate="20201102T062250Z">
@@ -23806,6 +23934,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The data set includes sections of the NC capital city Raleigh and its surroundings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T013809Z" creationid="miurahr" creationdate="20201220T013809Z">
+        <seg>このデータ・セットには、 NC の州都のローリーとその周辺のセクションが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The default is to buffer by "0" which does nothing.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132414Z" creationid="miurahr" creationdate="20201116T132414Z">
@@ -25275,6 +25411,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T062600Z" creationid="miurahr" creationdate="20201108T041759Z">
         <seg>これは ``postgres`` と呼ばれるコアシステムデータベースに接続します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This data set is a comprehensive collection of raster, vector and imagery data covering parts of North Carolina (NC), USA, prepared from public data sources provided by the North Carolina state and local government agencies and Global Land Cover Facility (GLCF).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T013749Z" creationid="miurahr" creationdate="20201220T013749Z">
+        <seg>このデータ・セットは、ノースカロライナ州 ( ノースカロライナ州 ) および地方公共団体 ( GLCF)が提供する公共データ・ソースから準備された、ノースカロライナ州 (NC)の一部をカバーするラスタデータ、ベクタデータ、および画像データを包括的に収集したものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30607,6 +30751,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>a small watershed in rural area with data resolutions of 1m-3m (see image).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T014008Z" creationid="miurahr" creationdate="20201220T014008Z">
+        <seg>1m-3m のデータ解像度を持つ田舎の小さな滝 ( イメージを参照 )。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>a.beccati jacobs-university de</seg>
       </tuv>
       <tuv lang="ja">
@@ -31883,6 +32035,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>eliotg geosparc com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>entire NC state with raster data at 500m resolution;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T013853Z" creationid="miurahr" creationdate="20201220T013853Z">
+        <seg>500m 解像度でラスタデータを使用した NC州の全体。</seg>
       </tuv>
     </tu>
     <tu>
