@@ -1326,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-mapcache|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023441Z" creationid="miurahr" creationdate="20201220T023441Z">
+        <seg>**ソフトウェアバージョン:** |version-mapcache|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-mapnik|</seg>
       </tuv>
       <tuv lang="ja">
@@ -2302,6 +2310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Website:** https://mapserver.org/mapcache</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023432Z" creationid="miurahr" creationdate="20201220T023432Z">
+        <seg>**Webサイト:** https://mapserver.org/mapcache</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Website:** https://marble.kde.org/</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T070424Z" creationid="miurahr" creationdate="20201103T070424Z">
@@ -3146,6 +3162,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T053913Z" creationid="miurahr" creationdate="20201122T053913Z">
         <seg>:doc:`クイックスタート文書 &lt;../quickstart/mapbender_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/mapcache_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023542Z" creationid="miurahr" creationdate="20201220T023542Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/mapcache_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -4214,6 +4238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additional standards include:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023348Z" creationid="miurahr" creationdate="20201220T023348Z">
+        <seg>その他の標準には:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additionally it supports multiple request types and queries.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135534Z" creationid="miurahr" creationdate="20201116T135534Z">
@@ -4646,6 +4678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Allows requests to be proxied back to a server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023326Z" creationid="miurahr" creationdate="20201220T023326Z">
+        <seg>要求がサーバーにプロキシー処理されることを許可します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Allows tile caches to be stored in</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T022724Z" creationid="miurahr" creationdate="20201220T022629Z">
@@ -4656,8 +4696,8 @@
       <tuv lang="en-US">
         <seg>Allows tiles to be "assembled" together - allowing tiles for different datasets to be merged together into a single tile to send to the client</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T023149Z" creationid="miurahr" creationdate="20201220T023149Z">
-        <seg>タイルを一緒に「くみこんで」、異なるデータ・セットのタイルを 1 つのタイルにマージして、クライアントに送信することができるようにします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023223Z" creationid="miurahr" creationdate="20201220T023149Z">
+        <seg>タイルを一緒に「くみこんで」、異なるデータ・セットのタイルを 1 つのタイルにまぜこみして、クライアントに送信できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4786,6 +4826,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132133Z" creationid="miurahr" creationdate="20201116T132133Z">
         <seg>選択または定義するビュースケールの編集可能なプルダウンリスト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An inbuilt demo interface</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023338Z" creationid="miurahr" creationdate="20201220T023338Z">
+        <seg>組み込みデモ・インターフェースがあります</seg>
       </tuv>
     </tu>
     <tu>
@@ -11550,6 +11598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Google Maps XYZ</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023350Z" creationid="miurahr" creationdate="20201220T023350Z">
+        <seg>Google Maps XYZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GpsDrive_</seg>
       </tuv>
       <tuv lang="ja">
@@ -12726,6 +12782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Image Processing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023546Z" creationid="miurahr" creationdate="20201220T023546Z">
+        <seg>イメージ処理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Image- and HTML-based markers</seg>
       </tuv>
       <tuv lang="ja">
@@ -13418,6 +13482,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T022940Z" creationid="miurahr" creationdate="20201220T022811Z">
         <seg>シーダー・アプリケーションを内蔵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Includes a seeder application to pre-fill caches from the command line</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023319Z" creationid="miurahr" creationdate="20201220T023150Z">
+        <seg>コマンドラインからキャッシュを事前に蓄積するシーダーアプリケーションが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14194,6 +14266,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131917Z" creationid="miurahr" creationdate="20201116T131917Z">
         <seg>これは、郡、市、市のオフィス(GeoMooseの起源)内の空間データと非空間データの管理に特に便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is primarily used for processing large remote sensing images such as those gathered by radars, satellites and aerial photography.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023605Z" creationid="miurahr" creationdate="20201220T023605Z">
+        <seg>主にレーダー、人工衛星、航空写真などの大きなリモートセンシング画像を処理するのに使われます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17878,6 +17958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ORFEO Toolbox Library (OTB) is a high performance image processing library.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023558Z" creationid="miurahr" creationdate="20201220T023558Z">
+        <seg>ORFEO Toolbox Library (OTB ) は、高性能イメージ処理ライブラリーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OSGeo TMS 1.0.0</seg>
       </tuv>
       <tuv lang="ja">
@@ -18262,10 +18350,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OTB</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023543Z" creationid="miurahr" creationdate="20201220T023543Z">
+        <seg>OTB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OTB Applications demo</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T134442Z" creationid="miurahr" creationdate="20201120T134442Z">
         <seg>OTBアプリケーションのデモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OTB has been funded the French Space Agency (CNES) in the frame of the Methodological Part of the ORFEO/Pleiades Accompaniement Program and has been actively developed since 2006.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T024252Z" creationid="miurahr" creationdate="20201220T024252Z">
+        <seg>OTB は、ORFEO/Pleiades付属プログラムの メソドロジカル・パートの枠組みにもとづき、フランス宇宙機関 (CNES) の資金提供をうけて、 2006年から活発に開発されている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OTB is also shipped with a set of extensible ready-to-use tools for classical remote sensing tasks and a fully integrated application called Monteverdi, which is a fast viewer that allows users to vizualise multiple layers, and call OTB processing tools from a menu entry.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T024030Z" creationid="miurahr" creationdate="20201220T024030Z">
+        <seg>OTB には同梱アプリケーションとともに配布されています。それは、リモートセンシング用の拡張可能な従来型のツールと 、複数のレイヤを可視化させたりメニュー項目から OTB の処理ツールを呼び出せる高速なビューアであるMonteverdiという完全に統合されたアプリケーションです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OTB provides tools for optic and radar images (tridimensional aspects, segmentation, classification, changes detection, texture analysis, pattern matching, and optic/radar complementarities), many of which can be run on limited-resourced laptops.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023708Z" creationid="miurahr" creationdate="20201220T023708Z">
+        <seg>OTB は、光学およびレーダーのイメージ (三次元の側面、セグメンテーション、分類、変更検出、テクスチャー分析、パターン・マッチング、および光学/レーダーの補完性 ) を提供するツールを提供しており、これらの多くは性能が限定的なノートPCでも実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30799,6 +30919,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`Default MapCache Demo &lt;http://localhost/mapcache/demo/&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023418Z" creationid="miurahr" creationdate="20201220T023418Z">
+        <seg>`既定の MapCache デモ &lt;http://localhost/mapcache/demo/&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`Examples &lt;../../openlayers/examples/&gt;`_</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021525Z" creationid="miurahr" creationdate="20201108T021525Z">
@@ -30891,6 +31019,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>`Map Window`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`MapCache Documentation &lt;https://mapserver.org/mapcache/&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023425Z" creationid="miurahr" creationdate="20201220T023425Z">
+        <seg>`MapCache 文書 &lt;https://mapserver.org/mapcache/&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
@@ -31115,6 +31251,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T062017Z" creationid="miurahr" creationdate="20201103T062017Z">
         <seg>`クイックスタート文書 &lt;http://docs.geotools.org/latest/userguide/tutorial/quickstart/index.html&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`TMS &lt;https://wiki.osgeo.org/wiki/Tile_Map_Service_Specification&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T023349Z" creationid="miurahr" creationdate="20201220T023349Z">
+        <seg>`TMS &lt;https://wiki.osgeo.org/wiki/Tile_Map_Service_Specification&gt;`__</seg>
       </tuv>
     </tu>
     <tu>
