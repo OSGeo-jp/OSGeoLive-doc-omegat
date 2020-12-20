@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**API Interfaces:** Java; WMS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015959Z" creationid="miurahr" creationdate="20201220T015959Z">
+        <seg>**API インターフェイス:** Java; WMS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**API Interfaces:** JavaScript</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T231010Z" creationid="miurahr" creationdate="20201123T231010Z">
@@ -486,10 +494,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Data Version:** 2008</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015134Z" creationid="miurahr" creationdate="20201220T015134Z">
+        <seg>**データバージョン:** 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Data Version:** Live database extract</seg>
       </tuv>
       <tuv lang="ja">
         <seg>**データバージョン:** Live database extract</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Data format:** GeoTIFF, Shapefiles, KML</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015143Z" creationid="miurahr" creationdate="20201220T015143Z">
+        <seg>**データフォーマット:** GeoTIFF, Shapefiles, KML</seg>
       </tuv>
     </tu>
     <tu>
@@ -854,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Licence:** `Modified BSD License &lt;https://github.com/Reading-eScience-Centre/ncwms/blob/master/licence.txt&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015933Z" creationid="miurahr" creationdate="20201220T015933Z">
+        <seg>**ライセンス:** `Modified BSD License &lt;https://github.com/Reading-eScience-Centre/ncwms/blob/master/licence.txt&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Licence:** `X/MIT style Open Source license &lt;https://trac.osgeo.org/gdal/wiki/FAQGeneral#WhatlicensedoesGDALOGRuse&gt;`_</seg>
       </tuv>
       <tuv lang="ja">
@@ -906,6 +938,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T051623Z" creationid="miurahr" creationdate="20201102T051623Z">
         <seg>**ライセンス:** `Open Data Commons Open Database License (ODbL) &lt;https://opendatacommons.org/licenses/odbl/&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**License:** |CC BY-SA 3.0|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015120Z" creationid="miurahr" creationdate="20201220T015120Z">
+        <seg>**ライセンス:** |CC BY-SA 3.0|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-ncWMS|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015939Z" creationid="miurahr" creationdate="20201220T015939Z">
+        <seg>**ソフトウェアバージョン:** |version-ncWMS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-opencpn|</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T102837Z" creationid="smellman" creationdate="20201103T102837Z">
@@ -1430,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Spatial coordinate system:** NC State Plane (Lambert Conformal Conic), NAD83</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015205Z" creationid="miurahr" creationdate="20201220T015205Z">
+        <seg>**空間参照系:** NC State Plane (Lambert Conformal Conic), NAD83</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Spatial coordinate system:** WGS84.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T013611Z" creationid="miurahr" creationdate="20201220T013513Z">
@@ -1518,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Support:** https://github.com/Reading-eScience-Centre/ncwms/issues</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T020004Z" creationid="miurahr" creationdate="20201220T020004Z">
+        <seg>**サポート:** https://github.com/Reading-eScience-Centre/ncwms/issues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Support:** https://github.com/ec-jrc/re3gistry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T141839Z" creationid="smellman" creationdate="20201103T051602Z">
@@ -1586,6 +1650,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**サポート:** https://lists.osgeo.org/mailman/listinfo/gdal-dev, https://www.osgeo.org/service-providers/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** https://lists.osgeo.org/mailman/listinfo/geodata</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015220Z" creationid="miurahr" creationdate="20201220T015220Z">
+        <seg>**サポート:** https://lists.osgeo.org/mailman/listinfo/geodata</seg>
       </tuv>
     </tu>
     <tu>
@@ -1722,6 +1794,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T050154Z" creationid="miurahr" creationdate="20201122T050154Z">
         <seg>**対応プラットフォーム:**  Platform independent, depends only on a browser which supports WebGL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Supported Platforms:** All Java 1.8 platforms: Windows, Linux, Mac</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015952Z" creationid="miurahr" creationdate="20201220T015952Z">
+        <seg>**対応プラットフォーム:** All Java 1.8 platforms: Windows, Linux, Mac</seg>
       </tuv>
     </tu>
     <tu>
@@ -2238,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Website:** https://reading-escience-centre.gitbooks.io/ncwms-user-guide/content/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015927Z" creationid="miurahr" creationdate="20201220T015927Z">
+        <seg>**Webサイト:** https://reading-escience-centre.gitbooks.io/ncwms-user-guide/content/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Website:** https://t-rex.tileserver.ch/</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051227Z" creationid="smellman" creationdate="20201103T051227Z">
@@ -2258,6 +2346,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T065034Z" creationid="miurahr" creationdate="20201103T065034Z">
         <seg>**Webサイト:** https://wiki.openstreetmap.org/wiki/ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://wiki.osgeo.org/wiki/Category:Education</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015113Z" creationid="miurahr" creationdate="20201220T015113Z">
+        <seg>**Webサイト:** https://wiki.osgeo.org/wiki/Category:Education</seg>
       </tuv>
     </tu>
     <tu>
@@ -3054,6 +3150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/ncWMS_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T020015Z" creationid="miurahr" creationdate="20201220T020015Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/ncWMS_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>:doc:`Quickstart documentation &lt;../quickstart/opencpn_quickstart&gt;`</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T102903Z" creationid="smellman" creationdate="20201103T102903Z">
@@ -3698,6 +3802,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T102704Z" creationid="smellman" creationdate="20201103T102704Z">
         <seg>AIS入力デコード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ability to plot data along a transect</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015555Z" creationid="miurahr" creationdate="20201220T015555Z">
+        <seg>断面にそったデータのプロットができる</seg>
       </tuv>
     </tu>
     <tu>
@@ -5166,6 +5278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Automatic recognition of vector-components and generation of vector arrows</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015624Z" creationid="miurahr" creationdate="20201220T015624Z">
+        <seg>ベクタ成分の自動認識 - ベクタ矢印の生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Automatic reprojection to grid CRS</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051206Z" creationid="smellman" creationdate="20201103T051206Z">
@@ -5554,6 +5674,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T064924Z" creationid="miurahr" creationdate="20201103T064924Z">
         <seg>OpenStreetMap用ブラウザベースエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Browser client included</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015851Z" creationid="miurahr" creationdate="20201220T015851Z">
+        <seg>ブラウザ内蔵</seg>
       </tuv>
     </tu>
     <tu>
@@ -9262,6 +9390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fast extraction of data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015429Z" creationid="miurahr" creationdate="20201220T015429Z">
+        <seg>データの高速抽出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Feature labeling including label collision mediation</seg>
       </tuv>
       <tuv lang="ja">
@@ -10506,6 +10642,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>DXF ファイルの生成とエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generation of timeseries and vertical profile plots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015449Z" creationid="miurahr" creationdate="20201220T015449Z">
+        <seg>タイムシリーズの生成と垂直プロファイルの作図</seg>
       </tuv>
     </tu>
     <tu>
@@ -13242,6 +13386,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041609Z" creationid="miurahr" creationdate="20201103T041609Z">
         <seg>サポートされている入力形式と出力形式:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Input formats: NetCDF, GRIB, OPeNDAP</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015909Z" creationid="miurahr" creationdate="20201220T015909Z">
+        <seg>入力フォーマット: NetCDF, GRIB, OPeNDAP</seg>
       </tuv>
     </tu>
     <tu>
@@ -16646,6 +16798,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NetCDF (Network Common Data Form) is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T020305Z" creationid="miurahr" creationdate="20201220T020305Z">
+        <seg>NetCDF (Network Common Data Form) は、配列指向の科学的データの作成、アクセス、共有をサポートするソフトウェアライブラリと、機種非依存フォーマットの自己記述的なデータセットです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NetCDF Data Set</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T020035Z" creationid="miurahr" creationdate="20201220T020035Z">
+        <seg>NetCDF データ・セット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Netherlands</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T062245Z" creationid="miurahr" creationdate="20201102T062245Z">
@@ -18786,6 +18954,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T062745Z" creationid="miurahr" creationdate="20201103T062745Z">
         <seg> LASファイルをテキストに出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Output formats: PNG, JPEG, animated GIF, KML</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015923Z" creationid="miurahr" creationdate="20201220T015923Z">
+        <seg>出力フォーマッット: PNG, JPEG, animated GIF, KML</seg>
       </tuv>
     </tu>
     <tu>
@@ -22755,6 +22931,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Support for a large range of projections (for both source data and target images)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015831Z" creationid="miurahr" creationdate="20201220T015831Z">
+        <seg>( ソース・データとターゲット・イメージの両方について ) 様々な投影法のサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Support for compliant Web Map Servers (:doc:`GeoServer &lt;geoserver_overview&gt;`, MapServer tested)</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T052251Z" creationid="miurahr" creationdate="20201103T002520Z">
@@ -22763,10 +22947,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Support for creating animations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015836Z" creationid="miurahr" creationdate="20201220T015836Z">
+        <seg>アニメーション作成のサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Support for custom tile grids</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051214Z" creationid="smellman" creationdate="20201103T051214Z">
         <seg>カスタムタイルグリッドのサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support for export to Google Earth KML format</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015859Z" creationid="miurahr" creationdate="20201220T015859Z">
+        <seg>Google Earth KML フォーマットへのエクスポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -28283,6 +28483,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201121T055501Z" creationid="miurahr" creationdate="20201121T055501Z">
         <seg>Web Map サーバ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Web Map Service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015234Z" creationid="miurahr" creationdate="20201220T015234Z">
+        <seg>Web Map サービス</seg>
       </tuv>
     </tu>
     <tu>
@@ -34451,6 +34659,30 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>naturalearth_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ncWMS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015225Z" creationid="miurahr" creationdate="20201220T015225Z">
+        <seg>ncWMS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ncWMS publishes multi-dimensional data (such as environmental and weather data) as an OGC compliant Web Map Service (WMS).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015255Z" creationid="miurahr" creationdate="20201220T015255Z">
+        <seg>ncWMS は OGC 準拠の Web Map Service (WMS) として多次元データ ( 環境や気象データなど ) を公開しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ncWMS quickly and efficiently extracts the map images from the very large data files typically associated with environmental data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201220T015424Z" creationid="miurahr" creationdate="20201220T015424Z">
+        <seg>ncWMS は、通常、環境データに関連付けられた非常に大きなデータ・ファイルから、マップ・イメージを迅速かつ効率的に抽出します。</seg>
       </tuv>
     </tu>
     <tu>
