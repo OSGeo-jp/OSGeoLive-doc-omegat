@@ -2630,10 +2630,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**What will I learn ?** In this section, you will learn how to use the proj tool.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T040547Z" creationid="miurahr" creationdate="20201221T040547Z">
+        <seg>**何を学べますか?** このセクションでは、projツールの使用方法を学習します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**What will I learn ?** In this section, you will learn what a Mapfile is and how to configure it to allow MapServer to serve a shapefile as images using WMS requests.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T021438Z" creationid="miurahr" creationdate="20201103T021438Z">
-        <seg>**何がわかる？** ここでは、Mapfileの概要と、MapServerがWMS要求を使用してシェイプファイルをイメージとして処理できるように設定する方法について説明します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T040642Z" creationid="miurahr" creationdate="20201103T021438Z">
+        <seg>**何を学べますか？** ここでは、Mapfileの概要と、MapServerがWMS要求を使用してシェイプファイルをイメージとして処理できるように設定する方法について説明します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20897,6 +20905,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proj and invproj perform respective forward  and inverse  transformation  of cartographic data to or from cartesian data  with  a  wide  range  of selectable projection functions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T043017Z" creationid="miurahr" creationdate="20201221T043017Z">
+        <seg>Projとinvprojは、選択可能なデカルト関数を使用して、投影データとの間で地図データの順変換と逆変換を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proj.4 Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T040518Z" creationid="miurahr" creationdate="20201221T040518Z">
+        <seg>Proj.4 クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proj4 has been translated from C to `other languages &lt;https://trac.osgeo.org/metacrs/wiki&gt;`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T141803Z" creationid="miurahr" creationdate="20201103T014029Z">
@@ -22178,6 +22202,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T015609Z" creationid="miurahr" creationdate="20201103T015609Z">
         <seg>SAGA(System for Automated Geoscientific Analyses)は,空間データの編集と解析に使用されるオープンソースの地理情報システム(GIS)である。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SAGA Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T040503Z" creationid="miurahr" creationdate="20201221T040503Z">
+        <seg>SAGA Quickstart</seg>
       </tuv>
     </tu>
     <tu>
@@ -29986,6 +30018,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What is proj ?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T040548Z" creationid="miurahr" creationdate="20201221T040548Z">
+        <seg>What is proj ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What next?</seg>
       </tuv>
       <tuv lang="ja">
@@ -37030,6 +37070,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>プリント・コンポーザー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>proj</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T040536Z" creationid="miurahr" creationdate="20201221T040536Z">
+        <seg>proj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>proj.4 is a standard Unix filter function which converts geographic longitude and latitude coordinates into cartesian coordinates (and vice versa), and it is a C API for software developers to include coordinate transformation in their own software.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T040534Z" creationid="miurahr" creationdate="20201221T040534Z">
+        <seg>proj.4は、地理的な経緯度座標をデカルト座標に(またはその逆に)変換する標準的なUnixのフィルタ関数であり、ソフトウェア開発者が自身のソフトウェアに座標変換を含めるためのC APIです。</seg>
       </tuv>
     </tu>
     <tu>
