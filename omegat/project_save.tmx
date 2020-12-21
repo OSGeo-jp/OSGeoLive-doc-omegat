@@ -3686,6 +3686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>:file:`ne_10m_admin_0_countries.shp`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T074407Z" creationid="miurahr" creationdate="20201221T074407Z">
+        <seg>:file:`ne_10m_admin_0_countries.shp`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>:file:`~/data` (a short cut to :file:`/usr/local/share/data`)</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T073010Z" creationid="miurahr" creationdate="20201120T142029Z">
@@ -6846,6 +6854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cities</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T074604Z" creationid="miurahr" creationdate="20201221T074604Z">
+        <seg>市町村</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Class objects are always read from the top to the bottom for each feature to be drawn.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022828Z" creationid="miurahr" creationdate="20201103T022828Z">
@@ -7194,6 +7210,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T081022Z" creationid="miurahr" creationdate="20201116T234300Z">
         <seg>レイヤ(例: *ne_10m_land*)をクリックし、 :guilabel:`Publishing` タブを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the link ``WMS\:http://www2.dmsolutions.ca/cgi-bin/mswms_gmap?Service=WMS&amp;VERSION=1.1.0&amp;REQUEST=GetCapabilities``</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T074539Z" creationid="miurahr" creationdate="20201221T074539Z">
+        <seg>リンク ``WMS\:http://www2.dmsolutions.ca/cgi-bin/mswms_gmap?Service=WMS&amp;VERSION=1.1.0&amp;REQUEST=GetCapabilities`` をクリックしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9574,6 +9598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Elevation/Bathymetry</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T074553Z" creationid="miurahr" creationdate="20201221T074553Z">
+        <seg>標高/水深測定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Eliot Guarini</seg>
       </tuv>
       <tuv lang="ja">
@@ -10770,6 +10802,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T124634Z" creationid="miurahr" creationdate="20201116T124634Z">
         <seg>EOxServerのメインページで[**Admin Client**]リンクをクリックし、ユーザー「admin」とパスワード「admin」でログインします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the Resource Selection page we are going to choose the following layers:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T074549Z" creationid="miurahr" creationdate="20201221T074549Z">
+        <seg>リソース選択ページから、次のレイヤを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15277,6 +15317,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Jan Drewnak (j.drewnak@52north.org)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jan Suleiman</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T074359Z" creationid="miurahr" creationdate="20201221T074359Z">
+        <seg>Jan Suleiman</seg>
       </tuv>
     </tu>
     <tu>
@@ -20169,6 +20217,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Parks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T074556Z" creationid="miurahr" creationdate="20201221T074556Z">
+        <seg>公園</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Parse external DXF files (all versions) and store layers and geometries found.</seg>
       </tuv>
       <tuv lang="ja">
@@ -20789,6 +20845,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T234801Z" creationid="miurahr" creationdate="20201116T234801Z">
         <seg>"保存"と"O3"レイヤを"公開" を押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press :guilabel:`Finish` to add these layers to your map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T074644Z" creationid="miurahr" creationdate="20201221T074644Z">
+        <seg> :guilabel:`Finish` をクリックして、これらのレイヤをマップに追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23478,6 +23542,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T074348Z" creationid="miurahr" creationdate="20201221T074348Z">
+        <seg>そのため:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Software on OSGeoLive is available under various Free and Open Source licenses, as listed in the Project Overviews.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T110705Z" creationid="smellman" creationdate="20201101T110705Z">
@@ -24506,6 +24578,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134730Z" creationid="miurahr" creationdate="20201116T134730Z">
         <seg>3D、2.5D、2Dの切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Switch to the |INFO| Info Tool and click on one the parks to learn more about it</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T075117Z" creationid="miurahr" creationdate="20201221T075117Z">
+        <seg>|INFO|  Info Toolに切り替えて、公園の1つをクリックすると、さらに詳しく知ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29074,6 +29154,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the |ZOOM| Zoom Tool to move closer to one of the Parks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T074748Z" creationid="miurahr" creationdate="20201221T074748Z">
+        <seg> |ZOOM| Zoom ツールを使用して、公園の一つに移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>User authentication and authorization with different access levels (administrator, network manager, data manager and visitor).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T041813Z" creationid="miurahr" creationdate="20201122T041813Z">
@@ -31350,6 +31438,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T142542Z" creationid="miurahr" creationdate="20201123T142542Z">
         <seg>簡単な算術演算から始めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can switch between the zoom and info tools by pressing `Z` and `I` on the keyboard.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T075653Z" creationid="miurahr" creationdate="20201221T075653Z">
+        <seg>キーボードの `Z` と `I` を押して、ズームと情報ツールを切り替えることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39622,6 +39718,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042418Z" creationid="miurahr" creationdate="20201103T042418Z">
         <seg>|WPS|: 空間処理を実行します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|ZOOM_IN| Zoom In and |ZOOM_OUT| Zoom Out can be used to change the scale by a fixed amount.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T074505Z" creationid="miurahr" creationdate="20201221T074505Z">
+        <seg>|ZOOM_IN| Zoom In と |ZOOM_OUT| Zoom Out を使用すると、スケールを一定量だけ変更できます。</seg>
       </tuv>
     </tu>
     <tu>
