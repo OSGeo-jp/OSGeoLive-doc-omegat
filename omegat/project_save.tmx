@@ -28316,8 +28316,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Try ``vignette("sf1")`` for a slightly technical introduction to the R spatial package.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T033556Z" creationid="miurahr" creationdate="20201221T033556Z">
-        <seg>R空間パッケージのより技術的な紹介を見るには、 ``vignette("sf1")``を試してみてください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T035336Z" creationid="miurahr" creationdate="20201221T033556Z">
+        <seg>R空間パッケージのより技術的な紹介を見るには、 ``vignette("sf1")`` を試してみてください。</seg>
       </tuv>
     </tu>
     <tu>
