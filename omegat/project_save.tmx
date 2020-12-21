@@ -29746,6 +29746,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We are going to change a few things about how countries are displayed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T090027Z" creationid="miurahr" creationdate="20201221T090027Z">
+        <seg>国の表示方法について、いくつかの点を変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We are going to find the rate of the SIDS over the births for the 1974 for each city.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T002807Z" creationid="miurahr" creationdate="20201117T002712Z">
