@@ -4806,6 +4806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Afterwards, you can open *Rasdaman-Earthlook Demo* from the same directory, which will launch a local demonstrator in the browser.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T153217Z" creationid="miurahr" creationdate="20201221T153217Z">
+        <seg>その後、同じディレクトリから *Rasdaman-Earthlookデモ* を開くことができます。これにより、ブラウザでローカルのデモが起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Afterwards, you should press the green arrow button, pointing to the right (execute query).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T002821Z" creationid="miurahr" creationdate="20201117T002821Z">
@@ -9638,6 +9646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Either:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T153231Z" creationid="miurahr" creationdate="20201221T153231Z">
+        <seg>Either:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Elements of matrices can be extracted using square brackets, with row and column indices separated by commas.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T142704Z" creationid="miurahr" creationdate="20201123T142704Z">
@@ -10466,6 +10482,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T063530Z" creationid="miurahr" creationdate="20201117T002937Z">
         <seg>異なるPostgreSQLデータベースへの接続には、 ``postgres_fdw`` が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a more hands-on tutorial though, continue with the next examples here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T153221Z" creationid="miurahr" creationdate="20201221T153221Z">
+        <seg>しかし、より実践的なチュートリアルのために、次の例に進んでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12290,6 +12314,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113525Z" creationid="miurahr" creationdate="20201103T113525Z">
         <seg>「ディスプレイ」セクションに移動し、ビデオメモリを32MBまたは64MBに増やします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the `rasdaman web client &lt;http://localhost:8080/rasdaman/ows&gt;`_, switch to the *ProcessCoverages* tab, and enter your query in the query boxes and press send.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T153236Z" creationid="miurahr" creationdate="20201221T153236Z">
+        <seg>Go to the `rasdaman web client &lt;http://localhost:8080/rasdaman/ows&gt;`_, switch to the *ProcessCoverages* tab, and enter your query in the query boxes and press send.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22482,6 +22514,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Running WCPS queries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T153226Z" creationid="miurahr" creationdate="20201221T153226Z">
+        <seg>WCPSクエリを実行</seg>
       </tuv>
     </tu>
     <tu>
