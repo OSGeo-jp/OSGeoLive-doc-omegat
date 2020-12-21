@@ -4,7 +4,7 @@ on: push
 
 jobs:
   check-translation:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     name: Check translation integrity
     steps:
       - uses: actions/checkout@v2
@@ -30,7 +30,7 @@ jobs:
           java-version: 11
       - uses: actions/setup-python@v2
         with:
-          python-verson: 3.8
+          python-version: 3.8
           architecture: x64
       - name: Install requirements
         run: |
