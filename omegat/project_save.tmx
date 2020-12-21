@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Alternative Concise CC-By and attribution:**</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T052947Z" creationid="miurahr" creationdate="20201221T052947Z">
+        <seg>**Alternative Concise CC-By and attribution:**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Browser Client**: The SOS is delivered with a browser based application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041639Z" creationid="miurahr" creationdate="20201103T041639Z">
@@ -490,6 +498,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T053549Z" creationid="sanak" creationdate="20201103T053549Z">
         <seg>**コミュニティWebサイト:** https://52north.org/research/research-labs/sensor-web/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Concise CC-By-SA and attribution:**</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T052947Z" creationid="miurahr" creationdate="20201221T052947Z">
+        <seg>**Concise CC-By-SA and attribution:**</seg>
       </tuv>
     </tu>
     <tu>
@@ -1050,6 +1066,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T055438Z" creationid="miurahr" creationdate="20201102T052301Z">
         <seg>**Merkaartor** は、Qtツールキットを使用するOpenStreetMap用のマップエディタです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Minimum (for Project Overviews), attribution only:**</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T052948Z" creationid="miurahr" creationdate="20201221T052948Z">
+        <seg>**Minimum (for Project Overviews), attribution only:**</seg>
       </tuv>
     </tu>
     <tu>
@@ -2138,6 +2162,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**ベクタ:** GeoPackage, ESRI Shapefile, GML, GeoJSON, AutoCAD DWG, MapInfo (tab 及び mid/mif), ESRI Coverages, ESRI Personal Geodatabase, DGN, PostGIS, Oracle Spatial, など...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Verbose, suitable for a 100 page thesis:**</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T052946Z" creationid="miurahr" creationdate="20201221T052946Z">
+        <seg>**Verbose, suitable for a 100 page thesis:**</seg>
       </tuv>
     </tu>
     <tu>
@@ -5990,6 +6022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Biological Sciences University of Alberta Edmonton, Alberta, Canada ; Paul Meems, TopX Geo-ICT The Netherlands (RST conversion)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T053014Z" creationid="miurahr" creationdate="20201221T053014Z">
+        <seg>Biological Sciences University of Alberta Edmonton, Alberta, Canada ; Paul Meems, TopX Geo-ICT The Netherlands (RST conversion)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bishop</seg>
       </tuv>
       <tuv lang="ja">
@@ -6426,6 +6466,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Cameron Shorter, Jirotech; Stephen Woodbridge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cameron Shorter, https://www.jirotech.com</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T052952Z" creationid="miurahr" creationdate="20201221T052952Z">
+        <seg>Cameron Shorter, https://www.jirotech.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -10646,6 +10694,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Friedjoff Trautwein (https://geops.de); Augustus Kling (https://geops.de); Patric Hafner (https://geops.de)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T053011Z" creationid="miurahr" creationdate="20201221T053011Z">
+        <seg>Friedjoff Trautwein (https://geops.de); Augustus Kling (https://geops.de); Patric Hafner (https://geops.de)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Friedjoff Trautwein, https://geops.de; Patric Hafner, https://geops.de</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T052951Z" creationid="miurahr" creationdate="20201221T052951Z">
+        <seg>Friedjoff Trautwein, https://geops.de; Patric Hafner, https://geops.de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Friendly graphical user interface:</seg>
       </tuv>
       <tuv lang="ja">
@@ -13635,8 +13699,8 @@
       <tuv lang="en-US">
         <seg>In no event shall the copyright owner or contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, date, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liablity, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.*</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T231543Z" creationid="smellman" creationdate="20201101T111402Z">
-        <seg>いかなる場合においても、著作権所有者または貢献者は、直接的、間接的、付随的、特別、懲罰的、または結果的な損害(代替の商品またはサービスの調達、使用、日付、または利益の損失、またはビジネスの中断を含むが、これらに限定されない)に対して責任を負わないものとします。ただし、契約、厳格な賠償責任、または不法行為(過失またはその他を含む)のいずれによるものであるかを問わず、いかなる責任の理論に基づくものであっても、かかる損害の可能性について事前に知らされていたとしても、このソフトウエアの利用による発生ではありません。*</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T053120Z" creationid="smellman" creationdate="20201101T111402Z">
+        <seg>いかなる場合においても、著作権所有者または貢献者は、直接的、間接的、付随的、特別、懲罰的、または結果的な損害(代替の商品またはサービスの調達、使用、日付、または利益の損失、またはビジネスの中断を含むが、これらに限定されない)に対して責任を負わないものとします。ただし、契約、厳格な賠償責任、または不法行為(過失またはその他を含む)のいずれであるかを問わず、いかなる責任の理論に基づいて、本ソフトウェアの使用によって発生したいかなる損害についても、たとえそのような損害の可能性について知らされていたとしても、責任を負わないものとします。*</seg>
       </tuv>
     </tu>
     <tu>
@@ -21990,6 +22054,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Richard R. Schneider Dept.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T053014Z" creationid="miurahr" creationdate="20201221T053014Z">
+        <seg>Richard R. Schneider Dept.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right Click on the MunicipalHalls table and select "Edit table rows".</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T013028Z" creationid="miurahr" creationdate="20201121T134356Z">
@@ -25993,6 +26065,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The original work was translated from English to German.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T052946Z" creationid="miurahr" creationdate="20201221T052946Z">
+        <seg>The original work was translated from English to German.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The output is a netCDF file which can then be used as color intensity by the `grdimage` command as follow:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235920Z" creationid="miurahr" creationdate="20201116T235920Z">
@@ -27054,6 +27134,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T013749Z" creationid="miurahr" creationdate="20201220T013749Z">
         <seg>このデータ・セットは、ノースカロライナ州 ( ノースカロライナ州 ) および地方公共団体 ( GLCF)が提供する公共データ・ソースから準備された、ノースカロライナ州 (NC)の一部をカバーするラスタデータ、ベクタデータ、および画像データを包括的に収集したものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This document includes :doc:`OSGeoLive &lt;index&gt;` Project Overviews by :doc:`OSGeoLive contributors &lt;copyright&gt;`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T052948Z" creationid="miurahr" creationdate="20201221T052948Z">
+        <seg>This document includes :doc:`OSGeoLive &lt;index&gt;` Project Overviews by :doc:`OSGeoLive contributors &lt;copyright&gt;`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32066,6 +32154,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Derived from|Includes|Extends] :doc:`OSGeoLive &lt;index&gt;` Project Overviews by :doc:`OSGeoLive contributors &lt;copyright&gt;`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T052947Z" creationid="miurahr" creationdate="20201221T052947Z">
+        <seg>[Derived from|Includes|Extends] :doc:`OSGeoLive &lt;index&gt;` Project Overviews by :doc:`OSGeoLive contributors &lt;copyright&gt;`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Derived from|Includes|Extends] :doc:`OSGeoLive &lt;index&gt;` documentation by :doc:`OSGeoLive contributors &lt;copyright&gt;`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T052947Z" creationid="miurahr" creationdate="20201221T052947Z">
+        <seg>[Derived from|Includes|Extends] :doc:`OSGeoLive &lt;index&gt;` documentation by :doc:`OSGeoLive contributors &lt;copyright&gt;`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`API Docs &lt;../../openlayers/apidoc/&gt;`_</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021534Z" creationid="miurahr" creationdate="20201108T021534Z">
@@ -32262,6 +32366,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T224045Z" creationid="miurahr" creationdate="20201123T224045Z">
         <seg>`最低限の動作環境は: メモリ 1GB (Java ベースのアプリケーションを使用する場合 2 GB あるとよいでしょう)、1GHz 以上の i386 か amd64 互換の CPU。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`NASA OPEN SOURCE AGREEMENT VERSION 1.3 &lt;https://opensource.org/licenses/NASA-1.3&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T053016Z" creationid="miurahr" creationdate="20201221T053016Z">
+        <seg>`NASA OPEN SOURCE AGREEMENT VERSION 1.3 &lt;https://opensource.org/licenses/NASA-1.3&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
@@ -39050,6 +39162,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|CC-By-SA-med| This document includes content from the "gvSIG Quickstart" created by Simon Cropper under the Creative Commons Attribution-ShareAlike 3.0 Unported licence, https://creativecommons.org/licenses/by-sa/3.0/ available from the OSGeoLive project, :doc:`quickstart/gvsig_quickstart`, and downloaded on 25 July 2011.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T052946Z" creationid="miurahr" creationdate="20201221T052946Z">
+        <seg>|CC-By-SA-med| This document includes content from the "gvSIG Quickstart" created by Simon Cropper under the Creative Commons Attribution-ShareAlike 3.0 Unported licence, https://creativecommons.org/licenses/by-sa/3.0/ available from the OSGeoLive project, :doc:`quickstart/gvsig_quickstart`, and downloaded on 25 July 2011.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|CC-By-small| © 2011 [Your Name].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T052947Z" creationid="miurahr" creationdate="20201221T052947Z">
+        <seg>|CC-By-small| © 2011 [Your Name].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|CSW|</seg>
       </tuv>
       <tuv lang="ja">
@@ -39958,6 +40086,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|osm gps traces|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>© 2011 [Your Name] under a `CC By SA License &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T052947Z" creationid="miurahr" creationdate="20201221T052947Z">
+        <seg>© 2011 [Your Name] under a `CC By SA License &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_.</seg>
       </tuv>
     </tu>
     <tu>
