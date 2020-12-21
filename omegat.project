@@ -23,5 +23,13 @@
         <support_default_translations>true</support_default_translations>
         <remove_tags>false</remove_tags>
         <external_command></external_command>
+        <repositories>
+            <repository type="git" url="https://github.com/OSGeo-jp/OSGeoLive-doc-omegat.git">
+                <mapping local="/" repository="/"/>
+            </repository>
+            <repository type="svn" url="https://github.com/OSGeo-jp/OSGeoLive-doc/branches/transifex_ja/locale/ja/LC_MESSAGES">
+                <mapping local="source/" repository="/"/>
+            </repository>
+        </repositories>
     </project>
 </omegat>
