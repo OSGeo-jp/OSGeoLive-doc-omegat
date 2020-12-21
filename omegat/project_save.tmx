@@ -16137,6 +16137,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Line: Click :guilabel:`Border`, click on the Color button and change the color to BLACK</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T141151Z" creationid="miurahr" creationdate="20201221T141151Z">
+        <seg>Line: Click :guilabel:`Border`, click on the Color button and change the color to BLACK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lines contain enough data  points for smooth bending in conic projections, but not so many that computer processing speed suffers.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012459Z" creationid="miurahr" creationdate="20201103T012459Z">
