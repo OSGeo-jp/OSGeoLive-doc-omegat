@@ -5542,6 +5542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As always, never use a piece of software or electronic equipment as your only means of navigation and keep an eye out the window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224245Z" creationid="miurahr" creationdate="20201221T224245Z">
+        <seg>常に、ソフトウェアや電子機器を唯一のナビゲーション手段として使用したり、窓から目を離さないでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As in a database, each field must be of the same type for each record.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T142724Z" creationid="miurahr" creationdate="20201123T142724Z">
@@ -5930,6 +5938,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T070251Z" creationid="miurahr" creationdate="20201122T021945Z">
         <seg>チュートリアル `Spatialite cookbook`_ を必ず参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Before running OpenCPN on the LiveDVD you should activate the sample data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224254Z" creationid="miurahr" creationdate="20201221T224254Z">
+        <seg>LiveDVDでOpenCPNを実行する前に、サンプルデータを有効にする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6966,10 +6982,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click :guilabel:`I agree` to the NOAA Nautical Chart Data Agreement.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224430Z" creationid="miurahr" creationdate="20201221T224328Z">
+        <seg> :guilabel:`I agree` をクリックして、NOAA Nautical Chart Data Agreementに同意します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click :guilabel:`Next`.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T083714Z" creationid="miurahr" creationdate="20201122T024643Z">
         <seg>:guilabel:`Next` をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click :guilabel:`OK` to agree to the OpenCPN license.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224512Z" creationid="miurahr" creationdate="20201221T224512Z">
+        <seg>:guilabel:`OK` をクリックして、OpenCPN ライセンスに同意します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10912,8 +10944,8 @@
       <tuv lang="en-US">
         <seg>From the Start menu, select :menuselection:`Geospatial --&gt; Navigation and Maps --&gt; OpenCPN`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T000454Z" creationid="miurahr" creationdate="20201117T000454Z">
-        <seg>From the Start menu, select :menuselection:`Geospatial --&gt; ナビゲーションと地図 --&gt; OpenCPN`.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224401Z" creationid="miurahr" creationdate="20201117T000454Z">
+        <seg>スタートメニューから :menuselection:`Geospatial --&gt; ナビゲーションと地図 --&gt; OpenCPN` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19969,6 +20001,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OpenCPN Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224124Z" creationid="miurahr" creationdate="20201221T224124Z">
+        <seg>OpenCPNクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenCPN is a concise Chart Plotter and Navigator (CPN).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224139Z" creationid="miurahr" creationdate="20201221T224139Z">
+        <seg>OpenCPNは、簡潔なCPN(Chart Plotter and Navigator)です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OpenCPN presents a user with the vessel's current position, speed and course superimposed upon accurate navigational chart images, tide and current predictions.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T102354Z" creationid="smellman" creationdate="20201103T102354Z">
@@ -23470,6 +23518,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Setting up your charts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224249Z" creationid="miurahr" creationdate="20201221T224249Z">
+        <seg>チャートを設定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Setup</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T152716Z" creationid="miurahr" creationdate="20201221T152716Z">
@@ -26009,6 +26065,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first time you open OpenCPN you are presented with the option to do this automatically.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224307Z" creationid="miurahr" creationdate="20201221T224307Z">
+        <seg>OpenCPNを初めて開くと、自動的に開くオプションが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The first uses the simple spatialtools services based on the :doc:`GEOS &lt;geos_overview&gt;` and :doc:`OGR &lt;gdal_overview&gt;` libraries, the second showcase Voronoi and Delaunay triangulation (from the CGAL library) and the third present how to interract with OTB applications runninng as WPS services.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T034628Z" creationid="miurahr" creationdate="20201221T034628Z">
@@ -27558,6 +27622,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T114036Z" creationid="miurahr" creationdate="20201103T114036Z">
         <seg>この情報はQGISのプロジェクトファイルとして保存され、拡張子は「.qgs」または「.qgz」になります。「.qgz」は将来のQGISでの既定のファイル形式です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a condition of redistributing NOAA's free nautical charts.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224302Z" creationid="miurahr" creationdate="20201221T224302Z">
+        <seg>これは、NOAAの自由な海図を再配布するための条件です。</seg>
       </tuv>
     </tu>
     <tu>
