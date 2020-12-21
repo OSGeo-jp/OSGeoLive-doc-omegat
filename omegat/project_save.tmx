@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>'`xgps`' is a good program to check that Gpsd can see your GPS ok.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224651Z" creationid="miurahr" creationdate="20201221T224651Z">
+        <seg>'`xgps`' は、GpsdがあなたのGPSを確認できるかどうかチェックしてくれる良いプログラムです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(4) The right cell is the main display area where raster and vector data is rendered.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020940Z" creationid="miurahr" creationdate="20201103T020940Z">
@@ -4190,6 +4198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A windsock icon is now displayed on the toolbar.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225001Z" creationid="miurahr" creationdate="20201221T225001Z">
+        <seg>吹き流しのアイコンがツールバーに表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A wizard shows you the layers you can add to the **Map**.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T073321Z" creationid="miurahr" creationdate="20201121T055554Z">
@@ -6102,6 +6118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BlueTooth GPS users should take special care to read up about the no-probe option.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224602Z" creationid="miurahr" creationdate="20201221T224602Z">
+        <seg>Blue tooth GPSユーザーは、no-probeオプションについて詳しく調べる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bob Basques</seg>
       </tuv>
       <tuv lang="ja">
@@ -6846,6 +6870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose GRIB and then click :guilabel:`Enable`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224943Z" creationid="miurahr" creationdate="20201221T224943Z">
+        <seg>GRIBを選択し、 :guilabel:`Enable` をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose the ne_10m_lakes table and hit ``Add`` at the bottom (not ``Load`` at the top - that loads database connection parameters), and it should be loaded into QGIS:</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T063251Z" creationid="miurahr" creationdate="20201108T043653Z">
@@ -7002,6 +7034,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T224512Z" creationid="miurahr" creationdate="20201221T224512Z">
         <seg>:guilabel:`OK` をクリックして、OpenCPN ライセンスに同意します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click :guilabel:`OK`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224955Z" creationid="miurahr" creationdate="20201221T224955Z">
+        <seg> :guilabel:`OK` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7194,6 +7234,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052237Z" creationid="smellman" creationdate="20201103T052237Z">
         <seg>右上のメニューの `X-Ray` をクリックして、x-ray ビューアを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the "&gt;" to the left of the filename and select from the list of available forecast times.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225201Z" creationid="miurahr" creationdate="20201221T225201Z">
+        <seg>ファイル名の左側にある "&gt;" をクリックし、利用可能な予測時間のリストから選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7458,6 +7506,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T083617Z" creationid="miurahr" creationdate="20201122T023229Z">
         <seg>管理ページで :guilabel:`Enter` ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the :guilabel:`Options` icon on the toolbar.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224903Z" creationid="miurahr" creationdate="20201221T224903Z">
+        <seg>ツールバーの :guilabel:`Options`  アイコンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8374,6 +8430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Current weather and wave forecast data can be downloaded and draped over your charts using the GRIB plugin.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224702Z" creationid="miurahr" creationdate="20201221T224702Z">
+        <seg>GRIBプラグインを使用すると、現在の気象や波の予測データをダウンロードして、グラフ上にドレープすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Currently (2017/08/11), the CRAN package repository features 11239 available packages.</seg>
       </tuv>
       <tuv lang="ja">
@@ -9066,6 +9130,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ドキュメンテーション貢献者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Documentation is available from the Help menu or online at https://opencpn.org/OpenCPN/info/manuals.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225215Z" creationid="miurahr" creationdate="20201221T225215Z">
+        <seg>ドキュメントは、https://opencpn.org/OpenCPN/info/manuals.html のヘルプメニューまたはオンラインから利用できます</seg>
       </tuv>
     </tu>
     <tu>
@@ -10262,6 +10334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Finally there is an information bar at the bottom displaying mouse pointer coordinates, processing reports, and memory usage.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225443Z" creationid="miurahr" creationdate="20201221T225443Z">
+        <seg>最後に、下部に情報バーが表示され、マウスポインタの座標、処理レポート、メモリ使用量が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Finally we can add a colorbar with `psscale`:</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T053800Z" creationid="miurahr" creationdate="20201116T235947Z">
@@ -10978,6 +11058,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T071756Z" creationid="miurahr" creationdate="20201120T133613Z">
         <seg>``Weather map`` メニューから、視覚化する変数を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the desktop, choose :menuselection:`Desktop GIS --&gt; OpenJUMP`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225329Z" creationid="miurahr" creationdate="20201221T225329Z">
+        <seg>デスクトップから :menuselection:`Desktop GIS --&gt; OpenJUMP` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13414,6 +13502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you have a GPS connected you will want to start the gpsd service.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224545Z" creationid="miurahr" creationdate="20201221T224545Z">
+        <seg>GPSに接続している場合は、gpsdサービスを開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you have a mouse, you can use your scroll wheel to zoom in and out.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T074229Z" creationid="miurahr" creationdate="20201103T072418Z">
@@ -13530,6 +13626,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T033755Z" creationid="miurahr" creationdate="20201221T033450Z">
         <seg>``vignette()`` 関数を引数なしで実行すると、システム内のビネット の一覧を得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you saved the zyGrib file into your home directory, navigate to :file:`/home` and select your ``user`` directory as the GRIB data directory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225123Z" creationid="miurahr" creationdate="20201221T225123Z">
+        <seg>zyGribファイルをホームディレクトリに保存した場合は、 :file:`/home`  に移動して、 ``user``  ディレクトリをGRIBデータディレクトリとして選択してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20057,6 +20161,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OpenJUMP GIS Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225239Z" creationid="miurahr" creationdate="20201221T225239Z">
+        <seg>OpenJUMP GISクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenJUMP is a desktop GIS program that allows for easy viewing and editing of vector GIS data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225243Z" creationid="miurahr" creationdate="20201221T225243Z">
+        <seg>OpenJUMPは、ベクタGISデータの表示と編集を容易にするデスクトップGISプログラムです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OpenJUMP is an easy to use and powerful desktop GIS that enables users to display, edit, analyse and conflate geographic data.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T102958Z" creationid="smellman" creationdate="20201103T102958Z">
@@ -22558,6 +22678,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Run through the :doc:`zyGrib quickstart &lt;../quickstart/zygrib_quickstart&gt;` and load the zyGrib file over your chart.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225033Z" creationid="miurahr" creationdate="20201221T225033Z">
+        <seg> :doc:`zyGrib quickstart &lt;../quickstart/zygrib_quickstart&gt;` を実行し、 zyGribファイルをチャート上にロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Run:</seg>
       </tuv>
       <tuv lang="ja">
@@ -23278,6 +23406,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the :guilabel:`Plugins` tab.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224928Z" creationid="miurahr" creationdate="20201221T224928Z">
+        <seg> :guilabel:`Plugins` タブを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the Image layer</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134745Z" creationid="miurahr" creationdate="20201116T134745Z">
@@ -23514,6 +23650,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Seth Girvin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Setting up your GPS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224536Z" creationid="miurahr" creationdate="20201221T224536Z">
+        <seg>GPSを設定する</seg>
       </tuv>
     </tu>
     <tu>
@@ -24254,6 +24398,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start OpenJUMP</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225252Z" creationid="miurahr" creationdate="20201221T225252Z">
+        <seg>OpenJUMPの開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start QGIS</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113717Z" creationid="miurahr" creationdate="20201103T113717Z">
@@ -24718,6 +24870,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Support: https://www.cruisersforum.com/forums/f134</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225235Z" creationid="miurahr" creationdate="20201221T225235Z">
+        <seg>サポート: https://www.cruisersforum.com/forums/f134</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Support: https://zygrib.org/forum/</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133903Z" creationid="miurahr" creationdate="20201120T133903Z">
@@ -25126,6 +25286,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The :doc:`zyGrib software &lt;../overview/zygrib_overview&gt;` (also on this disc) is an easy way to download that.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224839Z" creationid="miurahr" creationdate="20201221T224839Z">
+        <seg>:doc:`zyGrib software &lt;../overview/zygrib_overview&gt;` (このディスクにもあります)は、簡単にダウンロードできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ASPRS LAS format is a sequential binary format used to store data from LiDAR sensors and by LiDAR processing software for data interchange and archival.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T081419Z" creationid="miurahr" creationdate="20201103T055953Z">
@@ -25373,6 +25541,30 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>オープンソース地理空間財団 (OSGeo) は主要な開発やインフラのホスト、プロジェクトの要員を提供し、これに貢献する多くのソフトウェアチームのためにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The OpenJUMP user interface has four (4) basic components.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225337Z" creationid="miurahr" creationdate="20201221T225337Z">
+        <seg>OpenJUMPのユーザーインターフェイスには、4つの基本コンポーネントがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Options window displays.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224913Z" creationid="miurahr" creationdate="20201221T224913Z">
+        <seg>オプションウィンドウが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The PLUS edition also support analysis of raster data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225248Z" creationid="miurahr" creationdate="20201221T225248Z">
+        <seg>PLUSエディションは、ラスタデータのサポート分析も行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25813,6 +26005,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T135802Z" creationid="miurahr" creationdate="20201120T135802Z">
         <seg>BIOSに入るボタンは、コンピュータのブランドとモデルによって異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The buttons give access to the most important display and navigation functions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225406Z" creationid="miurahr" creationdate="20201221T225406Z">
+        <seg>ボタンを使用すると、最も重要な表示機能やナビゲーション機能にアクセスできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27025,6 +27225,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then right click on the file listing's background to show hidden files, including the ``.zygrib`` directory that contains the GRIB download files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225144Z" creationid="miurahr" creationdate="20201221T225144Z">
+        <seg>次に、ファイルリストの背景を右クリックして、GRIBダウンロードファイルを含む ``.zygrib`` ディレクトリなどの隠しファイルを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then the bookmark will appear.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T001027Z" creationid="miurahr" creationdate="20201117T001027Z">
@@ -27165,6 +27373,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014251Z" creationid="miurahr" creationdate="20201103T014251Z">
         <seg>事前の計算処理は必要ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is no need to uncompress the file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225148Z" creationid="miurahr" creationdate="20201221T225148Z">
+        <seg>ファイルを解凍する必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27750,6 +27966,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T142625Z" creationid="miurahr" creationdate="20201123T142625Z">
         <seg>これは、結果が1つの数値であることを示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is the actual map where a graphical representation of the spatial data in each layer is given.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225439Z" creationid="miurahr" creationdate="20201221T225439Z">
+        <seg>これは、各マップの空間データをグラフィカルに表現した、実際のレイヤです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28454,6 +28678,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235908Z" creationid="miurahr" creationdate="20201116T235908Z">
         <seg>そのために、「grdgradient」コマンドを使用して、グリッドから方向の導関数、つまり勾配を計算します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To do that, open a terminal and run:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224550Z" creationid="miurahr" creationdate="20201221T224550Z">
+        <seg>これを行うには、ターミナルを開き、次のコマンドを実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30602,6 +30834,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Website: https://www.opencpn.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225224Z" creationid="miurahr" creationdate="20201221T225224Z">
+        <seg>Webサイト: https://www.opencpn.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Website: https://www.zygrib.org</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133853Z" creationid="miurahr" creationdate="20201120T133853Z">
@@ -31534,6 +31774,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132358Z" creationid="miurahr" creationdate="20201116T132358Z">
         <seg>最後の点をダブルクリックすると、描画プロセスを終了できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can download additional US nautical charts from NOAA at https://www.charts.noaa.gov/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224530Z" creationid="miurahr" creationdate="20201221T224530Z">
+        <seg>https://www.charts.noaa.gov/ のNOAAから追加の米国海図をダウンロードできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32546,10 +32794,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1] The first is a top-level menu bar for accessing most functionality.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225345Z" creationid="miurahr" creationdate="20201221T225345Z">
+        <seg>[1] 最初のものは、ほとんどの機能にアクセスするためのトップレベルのメニューバーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2] **Tools:** This panel shows basic editing tools.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T084136Z" creationid="miurahr" creationdate="20201103T051405Z">
         <seg>[2] **ツール:** このパネルには、基本的な編集ツールが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2] The second is a main toolbar that sits just below the menu bar.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225358Z" creationid="miurahr" creationdate="20201221T225358Z">
+        <seg>[2] 2番目は、メニューバーのすぐ下にあるメインツールバーです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32586,6 +32850,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3] The third is a tree view on the left that shows the layer list of the active project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225416Z" creationid="miurahr" creationdate="20201221T225416Z">
+        <seg>[3] 3番目は左側にあるビューで、アクティブなプロジェクトのレイヤリストを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3] Zoom out: Allows the map to be zoomed out.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T085232Z" creationid="miurahr" creationdate="20201117T014917Z">
@@ -32606,6 +32878,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T084858Z" creationid="miurahr" creationdate="20201102T052714Z">
         <seg>[4] レイヤーパネル: マップ画層、画層の順序、表示/非表示をコントロールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[4] The fourth is the map view.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225424Z" creationid="miurahr" creationdate="20201221T225424Z">
+        <seg>[4] 4番目はマップビューです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32766,6 +33046,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T051145Z" creationid="miurahr" creationdate="20201221T051145Z">
         <seg>`GeographicLib &lt;https://geographiclib.sourceforge.io/&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`Getting started tips &lt;../../opencpn/tips.html&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225217Z" creationid="miurahr" creationdate="20201221T225217Z">
+        <seg>`Getting started tips &lt;../../opencpn/tips.html&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
@@ -33486,6 +33774,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T104001Z" creationid="smellman" creationdate="20201103T104001Z">
         <seg>解析:バッファ、和、オーバーレイ、図心、凸包...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>and</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T224553Z" creationid="miurahr" creationdate="20201221T224553Z">
+        <seg>and</seg>
       </tuv>
     </tu>
     <tu>
