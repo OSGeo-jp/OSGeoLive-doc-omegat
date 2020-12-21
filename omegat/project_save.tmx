@@ -19769,6 +19769,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open up the **Style Editor** by right clicking on `ne 10m admin 0 countries` layer and choosing :guilabel:`Change Style`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T082226Z" creationid="miurahr" creationdate="20201221T082226Z">
+        <seg> **Style Editor** を開くには、 `ne 10m admin 0 countries` レイヤを右クリックし、:guilabel:`Change Style` を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open up the :file:`~/data/natural_earth2/` folder on the desktop</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T073133Z" creationid="miurahr" creationdate="20201120T142353Z">
@@ -23082,6 +23090,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T074930Z" creationid="miurahr" creationdate="20201116T133924Z">
         <seg>青色の **[検索に戻る]** ボタンをクリックすると、検索ページに戻ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the countries layer in the Layer view</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T081823Z" creationid="miurahr" creationdate="20201221T081823Z">
+        <seg>レイヤビューのレイヤの国を選択</seg>
       </tuv>
     </tu>
     <tu>
