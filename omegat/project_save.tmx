@@ -23070,6 +23070,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the `project &gt; ne 10m admin 0 countries`, you can double click to open this Map, or Right Click and choose Open Map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T081755Z" creationid="miurahr" creationdate="20201221T081755Z">
+        <seg>`project &gt; ne 10m admin 0 countries` を選択し、ダブルクリックしてこのマップを開くか、右クリックして[マップを開く]を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the blue **Back to search** button to return to the Search page when you’re done.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T074930Z" creationid="miurahr" creationdate="20201116T133924Z">
@@ -24210,6 +24218,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042824Z" creationid="miurahr" creationdate="20201103T042824Z">
         <seg>複雑な入出力パラメータへのストリーミングアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Style</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T075700Z" creationid="miurahr" creationdate="20201221T075700Z">
+        <seg>スタイル</seg>
       </tuv>
     </tu>
     <tu>
