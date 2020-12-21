@@ -29034,6 +29034,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Visit the `Geonetwork User Guide &lt;https://geonetwork-opensource.org/manuals/trunk/en/user-guide/index.html&gt;`_ and try the chapter on **Describing Information**, to learn how to create and edit metadata records.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034407Z" creationid="miurahr" creationdate="20201221T034407Z">
+        <seg>`Geonetwork User Guide &lt;https://geonetwork-opensource.org/manuals/trunk/en/user-guide/index.html&gt;`_ にアクセスし、 **Describing Information** の章を参照して、メタデータレコードの作成と編集方法を学んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Visualize basemaps from OSM, Bingsat, Lansat, MapBox satellite, MapQuest Open Aerial or any other WMS sources.</seg>
       </tuv>
       <tuv lang="ja">
