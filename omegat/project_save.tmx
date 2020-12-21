@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Licence:** MIT x/11</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034852Z" creationid="miurahr" creationdate="20201221T034852Z">
+        <seg>**ライセンス:** MIT x/11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Licence:** MPL v1.1 and GPL v3</seg>
       </tuv>
       <tuv lang="ja">
@@ -1090,6 +1098,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T061349Z" creationid="miurahr" creationdate="20201103T061349Z">
         <seg>**その他のr 52°North プロジェクト:** :doc:`SOS &lt;./52nSOS_overview&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Programing language support:** C, Python, Java, PHP, Fortran, Javascript, C#, Ruby</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034910Z" creationid="miurahr" creationdate="20201221T034910Z">
+        <seg>**プログラム言語サポート:** C, Python, Java, PHP, Fortran, Javascript, C#, Ruby</seg>
       </tuv>
     </tu>
     <tu>
@@ -1558,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-zoo-project|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034857Z" creationid="miurahr" creationdate="20201221T034857Z">
+        <seg>**ソフトウェアバージョン:** |version-zoo-project|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Versions:**</seg>
       </tuv>
       <tuv lang="ja">
@@ -1690,6 +1714,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T032734Z" creationid="miurahr" creationdate="20201220T032734Z">
         <seg>**サポート:** http://www.saga-gis.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** http://zoo-project.org/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034915Z" creationid="miurahr" creationdate="20201221T034915Z">
+        <seg>**サポート:** http://zoo-project.org/</seg>
       </tuv>
     </tu>
     <tu>
@@ -2242,6 +2274,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T032703Z" creationid="miurahr" creationdate="20201220T032703Z">
         <seg>**Webサイト:** http://www.saga-gis.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** http://zoo-project.org/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034847Z" creationid="miurahr" creationdate="20201221T034847Z">
+        <seg>**Webサイト:** http://zoo-project.org/</seg>
       </tuv>
     </tu>
     <tu>
@@ -2818,6 +2858,30 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T072406Z" creationid="miurahr" creationdate="20201103T072406Z">
         <seg>*ただし、これらの架空のデータをデータベースにアップロードしないでください。*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*ZOO API* : A server-side JavaScript API able to call and chain the ZOO Services, which makes the development and chaining processes easier.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034728Z" creationid="miurahr" creationdate="20201221T034728Z">
+        <seg>*ZOO API* : ZOOサービスを呼び出してチェーン接続できるサーバー側のJavaScript APIです。これにより、開発とチェーン接続のプロセスが容易になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*ZOO Kernel* : A powerful server-side C Kernel which makes it possible to manage and chain Web services coded in different programming languages.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034702Z" creationid="miurahr" creationdate="20201221T034645Z">
+        <seg>*ZOOカーネル* : 異なるプログラミング言語でコーディングされたWebサービスの管理とチェーンを可能にする、強力なサーバーサイドCカーネルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*ZOO Services* : A growing suite of example Web services based on various Open Source libraries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034710Z" creationid="miurahr" creationdate="20201221T034710Z">
+        <seg>*ZOO Services* : さまざまなオープンソースライブラリに基づく、サンプルWebサービスのスイートが増えています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3518,6 +3582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/zoo-project_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034922Z" creationid="miurahr" creationdate="20201221T034922Z">
+        <seg>:doc:`クイックスタート文書  &lt;../quickstart/zoo-project_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>:doc:`osgeolive_install_quickstart`</seg>
       </tuv>
       <tuv lang="ja">
@@ -3682,6 +3754,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134147Z" creationid="miurahr" creationdate="20201116T134147Z">
         <seg>Web Mapping Service(WMS)またはWeb Feature Service(WFS)がデータにリンクしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A ZOO service is a link composed of a metadata file (.zcfg) and the code for the corresponding implementation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034807Z" creationid="miurahr" creationdate="20201221T034807Z">
+        <seg>ZOOサービスは、メタデータファイル(.zcfg)と対応する実装のコードで構成されるリンクです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17313,6 +17393,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Multi language WPS server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034824Z" creationid="miurahr" creationdate="20201221T034824Z">
+        <seg>多言語WPSサーバ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Multi-Dimensional Big Data Analytics Engine</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014322Z" creationid="miurahr" creationdate="20201103T014322Z">
@@ -18405,6 +18493,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>OGC WMTS 1.0.0 (KVP 及び RESTful)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC WPS 1.0.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034831Z" creationid="miurahr" creationdate="20201221T034831Z">
+        <seg>OGC WPS 1.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC WPS 2.0.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034832Z" creationid="miurahr" creationdate="20201221T034832Z">
+        <seg>OGC WPS 2.0.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -22910,6 +23014,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Services contain the algorithms and functions, and can now be implemented in C/C++, Fortran, Java, Python, PHP, Ruby, C# and JavaScript.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034821Z" creationid="miurahr" creationdate="20201221T034821Z">
+        <seg>サービスにはアルゴリズムと関数が含まれており、C/C++、Fortran、Java、Python、PHP、Ruby、C#、およびJavaScriptで実装できるようになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Services:</seg>
       </tuv>
       <tuv lang="ja">
@@ -23074,6 +23186,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Simon Pigot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Simple WPS chaining with ZOO API</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034830Z" creationid="miurahr" creationdate="20201221T034830Z">
+        <seg>ZOO APIによるシンプルなWPSチェーニング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Simple Web Service creation and deployment procedure</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034827Z" creationid="miurahr" creationdate="20201221T034827Z">
+        <seg>シンプルなWebサービスの作成と導入手順</seg>
       </tuv>
     </tu>
     <tu>
@@ -24825,6 +24953,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ZOO Kernel is written in C language, but supports several common programming languages in order to connect to numerous libraries and above all to simplify the Web service end-developer's job.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034803Z" creationid="miurahr" creationdate="20201221T034803Z">
+        <seg>ZOOカーネルはC言語で書かれていますが、数多くのライブラリに接続するためにいくつかの一般的なプログラミング言語をサポートしています。特に、Webサービスのエンド開発者の仕事である単純化に接続します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ZOO-Project provides a developer friendly Web Processing Service (WPS) framework for creating and chaining Web Processing Services.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T134108Z" creationid="miurahr" creationdate="20201120T134108Z">
@@ -25377,6 +25513,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first uses the simple spatialtools services based on the :doc:`GEOS &lt;geos_overview&gt;` and :doc:`OGR &lt;gdal_overview&gt;` libraries, the second showcase Voronoi and Delaunay triangulation (from the CGAL library) and the third present how to interract with OTB applications runninng as WPS services.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034628Z" creationid="miurahr" creationdate="20201221T034628Z">
+        <seg>第1に、`GEOS &lt;geos_overview&gt;` および :doc:`OGR &lt;gdal_overview&gt;` ライブラリに基づくシンプルなspatialtoolsサービスを使用します。第2に、VoronoiとDelaunayの三角分割(CGALライブラリから)を紹介します。第3に、WPSサービスとして動作するオー・ティー・ビーアプリケーションとの相互運用方法を紹介します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following code registers an event on a map instance, and will be notified each time the pointer is moved.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021425Z" creationid="miurahr" creationdate="20201108T021420Z">
@@ -25537,6 +25681,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The latter is able to load dynamic libraries and to handle them as on-demand Web services.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034756Z" creationid="miurahr" creationdate="20201221T034756Z">
+        <seg>後者は、動的ライブラリをロードして、オンデマンドのWebサービスとして処理することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The layers will be added to the map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T144736Z" creationid="miurahr" creationdate="20201116T144736Z">
@@ -25637,6 +25789,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T143203Z" creationid="miurahr" creationdate="20201116T143203Z">
         <seg>マップウィンドウには、既定でOpenStreetMapレイヤが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The metadata file describes all the available functions which can be called using a WPS Exec Request, as well as the desired input/output.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034812Z" creationid="miurahr" creationdate="20201221T034812Z">
+        <seg>メタデータファイルには、WPS Exec Requestを使用して呼び出すことができるすべての関数と、目的の入出力が記述されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26053,6 +26213,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>以下の表は OSGeoLive 上の各ドキュメントの貢献者を記載したものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The three demontration applications are available from the ZOO-Project demo landing page presented bellow.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034641Z" creationid="miurahr" creationdate="20201221T034641Z">
+        <seg>3つのデモアプリケーションは、以下に示すZOO-Projectのデモランディングページから利用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31466,6 +31634,38 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ZOO is based on a 'WPS Service Kernel' which constitutes the ZOO's core system (aka ZOO Kernel).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034751Z" creationid="miurahr" creationdate="20201221T034751Z">
+        <seg>ZOOは、ZOOのコアシステム(ZOO カーネル)を構成する'WPS Service Kernel'に基づいています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ZOO is made of three parts:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034649Z" creationid="miurahr" creationdate="20201221T034644Z">
+        <seg>ZOOは3つの部分で構成されています:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ZOO-Project provides a developer friendly Web Processing Service (WPS) framework for creating and chaining Web Processing Services.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034516Z" creationid="miurahr" creationdate="20201221T034516Z">
+        <seg>ZOOプロジェクトは、Web Processing Servicesを作成およびチェーンするための開発者向けのWeb Processing Service(WPS)フレームワークを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ZOO-Project supports many programming languages and comes with three demo applications.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034527Z" creationid="miurahr" creationdate="20201221T034527Z">
+        <seg>ZOO-Projectは多くのプログラミング言語をサポートしており、3つのデモアプリケーションが用意されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Zhengfan Lin</seg>
       </tuv>
       <tuv lang="ja">
@@ -31478,6 +31678,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Zoltan Siki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoo Project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034502Z" creationid="miurahr" creationdate="20201221T034502Z">
+        <seg>Zoo Project</seg>
       </tuv>
     </tu>
     <tu>
@@ -31718,6 +31926,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T023418Z" creationid="miurahr" creationdate="20201220T023418Z">
         <seg>`既定の MapCache デモ &lt;http://localhost/mapcache/demo/&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`Demo using Services Provider based GEOS and OGR libraries &lt;http://localhost/zoo-demo/ogr-example.html&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034841Z" creationid="miurahr" creationdate="20201221T034841Z">
+        <seg>`Demo using Services Provider based GEOS and OGR libraries &lt;http://localhost/zoo-demo/ogr-example.html&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
@@ -38414,6 +38630,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>zoo-project_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>zyGrib</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034947Z" creationid="miurahr" creationdate="20201221T034947Z">
+        <seg>zyGrib</seg>
       </tuv>
     </tu>
     <tu>
