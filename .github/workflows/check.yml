@@ -27,6 +27,7 @@ jobs:
           arguments: translate
           gradle-version: wrapper
           save-gradle-dependencies-cache: true
+          save-generated-gradle-jars: true
       - name: Check translations
         run: |
            python tools/check_target.py
