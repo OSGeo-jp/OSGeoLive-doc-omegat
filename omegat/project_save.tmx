@@ -6510,6 +6510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Check the `Installation Guide &lt;https://geonetwork-opensource.org/manuals/trunk/en/install-guide/index.html&gt;`__ if you are using GeoNetwork is some other context.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034049Z" creationid="miurahr" creationdate="20201221T034049Z">
+        <seg>`Installation Guide &lt;https://geonetwork-opensource.org/manuals/trunk/en/install-guide/index.html&gt;`__  を参照してください。GeoNetworkを使用している場合は、他のコンテキストも参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Check the `OGC Support and Configuration &lt;https://www.mapserver.org/ogc/index.html&gt;`_ to learn more about OGC standards in MapServer (WMS, WFS, SLD, WFS Filter Encoding, WCS, SOS, etc.).</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T080231Z">
@@ -9366,6 +9374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Editing the record (when logged in)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034145Z" creationid="miurahr" creationdate="20201221T034145Z">
+        <seg>レコードを編集(ログイン時)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Eike Hinderk Jürrens</seg>
       </tuv>
       <tuv lang="ja">
@@ -11286,6 +11302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GeoNetwork can directly be started from the OSGeo Live start menu and will be available at http://localhost:8080/geonetwork some moments later.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T033958Z" creationid="miurahr" creationdate="20201221T033958Z">
+        <seg>GeoNetworkは、OSGeo Liveのスタートメニューから直接起動できます。http://localhost:8080/geonetwork には、しばらく後に接続可能になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GeoNetwork is a catalog application to manage spatially referenced resources.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132911Z" creationid="miurahr" creationdate="20201116T132911Z">
@@ -13118,6 +13142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you run the ``vignette()`` function with no arguments you will get the list of those vignettes on your system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T033755Z" creationid="miurahr" creationdate="20201221T033450Z">
+        <seg>``vignette()`` 関数を引数なしで実行すると、システム内のビネット の一覧を得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want to adjust your selection you can do that with the "Modify Feature" option.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132405Z" creationid="miurahr" creationdate="20201116T132405Z">
@@ -13597,6 +13629,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T080322Z" creationid="miurahr" creationdate="20201103T080322Z">
         <seg>画面の右上にあるLayersウィンドウで、sample.osmレイヤを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the Web Services folder on the Desktop (or via the start menu), double-click **start GeoNetwork**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034127Z" creationid="miurahr" creationdate="20201221T034127Z">
+        <seg>デスクトップのWeb Servicesフォルダで、 **GeoNetworkを開始** をダブルクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15945,6 +15985,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Locate the link labelled as **This dataset is published in the view service (WMS) available at http://data.fao.org/maps/wms with layer name GEONETWORK:phy_landf_7386.** and select **Add to map**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T034335Z" creationid="miurahr" creationdate="20201221T034335Z">
+        <seg>**このデータセットは、http://data.fao.org/maps/wms にある GEONETWORK:phy_landf_7386. というレイヤ名のビューサービス(WMS)で公開されています。** そして、 **Add to map** を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Log In automatically</seg>
       </tuv>
       <tuv lang="ja">
@@ -18043,8 +18091,8 @@
       <tuv lang="en-US">
         <seg>Now package authors are encouraged to write a 'vignette' as a friendly introduction to the package.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T143020Z" creationid="miurahr" creationdate="20201123T143020Z">
-        <seg>これで、パッケージ作成者は、パッケージをわかりやすく紹介するために、'vignette'を書くことをお勧めします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T033745Z" creationid="miurahr" creationdate="20201123T143020Z">
+        <seg>パッケージ作成者は、パッケージをわかりやすく紹介するために「ビネット」を書くことが推奨されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27818,6 +27866,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To quit R, type ``q()`` and hit return.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T033342Z" creationid="miurahr" creationdate="20201221T033342Z">
+        <seg>Rを終了するには、``q()``と入力してreturnを押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To quite R, type ``q()`` and hit return.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T142943Z" creationid="miurahr" creationdate="20201123T142943Z">
@@ -28086,6 +28142,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142241Z" creationid="miurahr" creationdate="20201116T142241Z">
         <seg>ユーザー名とパスワードに「admin」と「admin」を使用してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try ``vignette("sf1")`` for a slightly technical introduction to the R spatial package.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T033556Z" creationid="miurahr" creationdate="20201221T033556Z">
+        <seg>R空間パッケージのより技術的な紹介を見るには、 ``vignette("sf1")``を試してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28900,8 +28964,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Vignettes</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>ビネット</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T033921Z">
+        <seg>ビネット(短かい解説)</seg>
       </tuv>
     </tu>
     <tu>
