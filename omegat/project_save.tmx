@@ -2974,6 +2974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>-&gt; http://localhost/cgi-bin/qgis_mapserv.fcgi</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152424Z" creationid="miurahr" creationdate="20201221T152424Z">
+        <seg>-&gt; http://localhost/cgi-bin/qgis_mapserv.fcgi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...</seg>
       </tuv>
       <tuv lang="ja">
@@ -3202,6 +3210,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>9.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:command:`apt-get install qgis-mapserver libapache2-mod-fcgid`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152423Z" creationid="miurahr" creationdate="20201221T152423Z">
+        <seg>:command:`apt-get install qgis-mapserver libapache2-mod-fcgid`</seg>
       </tuv>
     </tu>
     <tu>
@@ -4750,6 +4766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After the import you will see several new foreign tables in your schema.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152019Z" creationid="miurahr" creationdate="20201221T152019Z">
+        <seg>インポート後、スキーマに新しい外部テーブルがいくつか表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After the layer upload is completed, you can either preview the layer with *Layer Info* button, or edit the layer metadata with *Edit Metadata* or edit layer style on GeoServer with *Manage Styles* button.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T082026Z" creationid="miurahr" creationdate="20201116T142915Z">
@@ -5002,6 +5026,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043052Z" creationid="miurahr" creationdate="20201108T043052Z">
         <seg>通常のすべてのSQL操作を適用して、PostGISテーブルからデータを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Allow two to three minutes for rasdaman and especially Tomcat to fully start (once the `rasdaman web client &lt;http://localhost:8080/rasdaman/ows&gt;`_ loads in the browser).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T153202Z" creationid="miurahr" creationdate="20201221T153202Z">
+        <seg>rasdaman、特にTomcatが完全に起動するまで、2分から3分間待ちます( `rasdaman web client&lt;http://localhost:8080/rasdaman/ows&gt;`_ がブラウザーにロードされるまで)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6950,6 +6982,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click :menuselection:`Geospatial --&gt; Desktop GIS --&gt; QGIS`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152418Z" creationid="miurahr" creationdate="20201221T152418Z">
+        <seg> :menuselection:`Geospatial --&gt; Desktop GIS --&gt; QGIS` をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click :menuselection:`Geospatial --&gt; Web Services --&gt; QGIS Server`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152402Z" creationid="miurahr" creationdate="20201221T152402Z">
+        <seg> :menuselection:`Geospatial --&gt; Web Services --&gt; QGIS Server` をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click :menuselection:`Geospatial --&gt; Webservices --&gt; istSOS` to open the Web Admin interface.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T083604Z" creationid="miurahr" creationdate="20201122T023204Z">
@@ -7986,6 +8034,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T003026Z" creationid="miurahr" creationdate="20201117T003026Z">
         <seg>接続するデータソースの場所を通知する外部サーバーを作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create a foreign server that refers to the WFS that you want to connect</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152013Z" creationid="miurahr" creationdate="20201221T152013Z">
+        <seg>接続するWFSを参照する外部サーバーを作成する</seg>
       </tuv>
     </tu>
     <tu>
@@ -9902,6 +9958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Export your tables to shapefiles with ``pgsql2shp`` on the command line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152056Z" creationid="miurahr" creationdate="20201221T152056Z">
+        <seg>コマンドラインで ``pgsql2shp`` を使用して、テーブルをシェープファイルにエクスポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Export/import of SLD legends</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T053011Z" creationid="miurahr" creationdate="20201122T053011Z">
@@ -11634,6 +11698,30 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T003859Z">
         <seg>GeoServer ユーザーマニュアル -  https://docs.geoserver.org/latest/en/user/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoServer WFS DescribeFeatureType for topp:states `http://localhost:8082/geoserver/ows?service=wfs&amp;version=2.0.0&amp;request=DescribeFeatureType&amp;typename=topp:states &lt;http://localhost:8082/geoserver/ows?service=wfs&amp;version=2.0.0&amp;request=DescribeFeatureType&amp;typename=topp:states&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152008Z" creationid="miurahr" creationdate="20201221T152008Z">
+        <seg>GeoServer WFS DescribeFeatureType for topp:states `http://localhost:8082/geoserver/ows?service=wfs&amp;version=2.0.0&amp;request=DescribeFeatureType&amp;typename=topp:states &lt;http://localhost:8082/geoserver/ows?service=wfs&amp;version=2.0.0&amp;request=DescribeFeatureType&amp;typename=topp:states&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoServer WFS GetCapabilities http://localhost:8082/geoserver/ows?service=wfs&amp;version=2.0.0&amp;request=GetCapabilities</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152007Z" creationid="miurahr" creationdate="20201221T152007Z">
+        <seg>GeoServer WFS GetCapabilities http://localhost:8082/geoserver/ows?service=wfs&amp;version=2.0.0&amp;request=GetCapabilities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoServer WFS GetFeature topp:states `http://localhost:8082/geoserver/ows?service=wfs&amp;version=2.0.0&amp;request=GetFeature&amp;typename=topp:states &lt;http://localhost:8082/geoserver/ows?service=wfs&amp;version=2.0.0&amp;request=GetFeature&amp;typename=topp:states&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152010Z" creationid="miurahr" creationdate="20201221T152010Z">
+        <seg>GeoServer WFS GetFeature topp:states `http://localhost:8082/geoserver/ows?service=wfs&amp;version=2.0.0&amp;request=GetFeature&amp;typename=topp:states &lt;http://localhost:8082/geoserver/ows?service=wfs&amp;version=2.0.0&amp;request=GetFeature&amp;typename=topp:states&gt;`__</seg>
       </tuv>
     </tu>
     <tu>
@@ -13558,6 +13646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Import all WFS feature_types as foreign tables with one command.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152016Z" creationid="miurahr" creationdate="20201221T152016Z">
+        <seg>1つのコマンドで、すべてのWFS地物_タイプを外部テーブルとしてインポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Import and Manage Geospatial Data</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T051921Z" creationid="miurahr" creationdate="20201122T051921Z">
@@ -14389,6 +14485,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T021828Z" creationid="miurahr" creationdate="20201122T021828Z">
         <seg>spatialite-guiを使用してジオメトリを検査する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inspect the foreign data table ``topp_states``:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152044Z" creationid="miurahr" creationdate="20201221T152044Z">
+        <seg>外部データテーブルを確認 ``topp_states``:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19577,6 +19681,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open GeoServer http://localhost:8082/geoserver/web/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152000Z" creationid="miurahr" creationdate="20201221T152000Z">
+        <seg>GeoServerを開く http://localhost:8082/geoserver/web/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open QGIS.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T114051Z" creationid="miurahr" creationdate="20201103T114044Z">
@@ -19733,6 +19845,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052501Z" creationid="miurahr" creationdate="20201102T052501Z">
         <seg>[デスクトップGIS]フォルダを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the *Databases* directory on the Desktop, and then *Start Rasdaman Server*.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152743Z" creationid="miurahr" creationdate="20201221T152743Z">
+        <seg>デスクトップで *Databases* ディレクトリを開き、 *Rasdaman Server* を起動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21373,6 +21493,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>QGIS Server Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152305Z" creationid="miurahr" creationdate="20201221T152305Z">
+        <seg>QGIS Server Quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QGIS Server is usually run as CGI/FastCGI module within the Apache Webserver.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003137Z" creationid="miurahr" creationdate="20201103T003137Z">
@@ -21646,10 +21774,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rasdaman Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152632Z" creationid="miurahr" creationdate="20201221T152457Z">
+        <seg>Rasdaman クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rasdaman has received a series of international innovation awards, among them the prestigeous European IT Prize and Geospatial Innovation Award.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014458Z" creationid="miurahr" creationdate="20201103T014458Z">
         <seg>Rasdamanは、ヨーロッパIT賞と地理空間イノベーション賞といった、数々の国際的なイノベーション賞を受賞しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rasdaman is a Big Data Engine for flexible ad-hoc analytics on multi-dimensional spatio-temporal sensor, image, simulation, and statistics data of unlimited size.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152637Z" creationid="miurahr" creationdate="20201221T152457Z">
+        <seg>Rasdamanは、多次元の時空間センサー、画像、シミュレーション、統計データに関する柔軟なアドホック分析のためのビッグデータエンジンです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23282,6 +23426,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Seth Girvin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Setup</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152716Z" creationid="miurahr" creationdate="20201221T152716Z">
+        <seg>セットアップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -25209,10 +25361,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The WCPS queries are translated to rasdaman query language, rasql, and are executed on rasdaman.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152706Z" creationid="miurahr" creationdate="20201221T152706Z">
+        <seg>WCPSクエリは、rasdamanクエリ言語であるrasqlに変換され、rasdaman上で実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The WFS in this example acts as an INSPIRE Download service (direct access) and outputs valid, harmonized INSPIRE GML.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135529Z" creationid="miurahr" creationdate="20201116T135529Z">
         <seg>この例のWFSはINSPIREダウンロードサービス(直接アクセス)として動作し、有効で統一されたINSPIRE GMLを出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Web Coverage Processing Service (WCPS) query language is an Open Geospatial Consortium (OGC) standard wich allows filtering and processing of multi-dimensional raster coverages, such as sensor, simulation, image, and statistics data using web services.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152702Z" creationid="miurahr" creationdate="20201221T152702Z">
+        <seg>Web Coverage Processing Service(WCPS)クエリ言語は、オープン地理空間コンソーシアム(OGC)標準で、Webサービスを使用して、センサー、シミュレーション、画像、統計データなどの多次元ラスタカバレッジのフィルタリングと処理を可能にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25781,6 +25949,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T033545Z" creationid="miurahr" creationdate="20201122T033545Z">
         <seg>最初の行には、観測されたプロパティのURI名を含むヘッダ情報が含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The first step before trying any of the following queries is to start rasdaman and Tomcat.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152721Z" creationid="miurahr" creationdate="20201221T152721Z">
+        <seg>次のクエリを実行する前に、まずrasdamanとTomcatを起動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27450,6 +27626,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is only the first step on the road to using PostGIS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152146Z" creationid="miurahr" creationdate="20201221T152146Z">
+        <seg>これは、PostGISを使用するための最初のステップです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is telling you that the result is one number.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T142625Z" creationid="miurahr" creationdate="20201123T142625Z">
@@ -27598,6 +27782,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053833Z" creationid="miurahr" creationdate="20201103T053833Z">
         <seg>このクイックスタートでは、200行未満のコードでGeoExtコンポーネントを使用してリッチなWebアプリケーションを作成する手順について詳しく説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This quick start shows how to access and manipulate an example 2D coverage using WCPS language.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152712Z" creationid="miurahr" creationdate="20201221T152712Z">
+        <seg>このクイックスタートでは、WCPS言語を使用してサンプルの2Dカバレッジにアクセスし、操作する方法を説明します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28674,6 +28866,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try ``ogr2ogr`` on the command line to import/export data to your database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152106Z" creationid="miurahr" creationdate="20201221T152106Z">
+        <seg>データベースにデータをインポート/エクスポートするには、コマンドラインで ``ogr2ogr`` を試してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Try ``vignette("sf1")`` for a slightly technical introduction to the R spatial package.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T035336Z" creationid="miurahr" creationdate="20201221T033556Z">
@@ -28774,6 +28974,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>:menuselection:`Geospatial` メニューから、たくさんのアプリケーションを試してみてください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try to do road routing using :doc:`../overview/pgrouting_overview`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152143Z" creationid="miurahr" creationdate="20201221T152143Z">
+        <seg> :doc:`../overview/pgrouting_overview` を使用して、道路のルーティングを試みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try to import data with ``shp2pgsql`` on the command line to your database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152117Z" creationid="miurahr" creationdate="20201221T152117Z">
+        <seg>コマンドラインで ``shp2pgsql`` を使用して、データベースにデータをインポートしてみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31766,6 +31982,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T073936Z" creationid="miurahr" creationdate="20201103T072358Z">
         <seg>サンプルの地図が開き、次のように表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should see a browser window with a web map viewer showing a world map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152408Z" creationid="miurahr" creationdate="20201221T152408Z">
+        <seg>ブラウザウィンドウに、世界のマップを表示するWebマップビューアが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35242,6 +35466,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>https://docs.qgis.org/3.4/en/docs/user_manual/working_with_ogc/server/index.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152420Z" creationid="miurahr" creationdate="20201221T152420Z">
+        <seg>https://docs.qgis.org/3.4/en/docs/user_manual/working_with_ogc/server/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>https://download.osgeo.org/gdal/workshop/foss4ge2015/workshop_gdal.html</seg>
       </tuv>
       <tuv lang="ja">
@@ -35254,6 +35486,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>https://gdal.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>https://github.com/qgis/qgis-web-client</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152426Z" creationid="miurahr" creationdate="20201221T152426Z">
+        <seg>https://github.com/qgis/qgis-web-client</seg>
       </tuv>
     </tu>
     <tu>
@@ -37686,6 +37926,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T033057Z" creationid="miurahr" creationdate="20201220T025604Z">
         <seg>pycsw は`Python`_ による  |CSW| 実装です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pycsw is an OGC CSW server implementation written in `Python &lt;https://www.python.org&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T152305Z" creationid="miurahr" creationdate="20201221T152305Z">
+        <seg>pycsw is an OGC CSW server implementation written in `Python &lt;https://www.python.org&gt;`_.</seg>
       </tuv>
     </tu>
     <tu>
