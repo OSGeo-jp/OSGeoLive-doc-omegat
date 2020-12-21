@@ -5102,6 +5102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An  example  of forward geodesic use is to use the Boston loca- tion and determine Portland's location by azimuth and distance:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T051110Z" creationid="miurahr" creationdate="20201221T051110Z">
+        <seg>前方測地線を使用する例として、ボストンの位置を使用し、方位角と距離でポートランドのロケーションを決定する方法を示した事例:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An OSGeoLive ISO image (downloaded from: :doc:`OSGeoLive downloads &lt;../download&gt;`) or converted from a DVD.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T072039Z" creationid="miurahr" creationdate="20201120T134748Z">
@@ -9910,6 +9918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>F. F. Karney, Algorithms for Geodesics, J. Geodesy 87, 43-55 (2013) &lt;https://link.springer.com/article/10.1007/s00190-012-0578-z&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T051148Z" creationid="miurahr" creationdate="20201221T051148Z">
+        <seg>F. F. Karney, Algorithms for Geodesics, J. Geodesy 87, 43-55 (2013) &lt;https://link.springer.com/article/10.1007/s00190-012-0578-z&gt;`_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>FGDC CSDGM 1998</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T030358Z" creationid="miurahr" creationdate="20201220T030358Z">
@@ -10874,6 +10890,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134141Z" creationid="miurahr" creationdate="20201116T134141Z">
         <seg>Webページなどの詳細情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further reading</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T051143Z" creationid="miurahr" creationdate="20201221T051143Z">
+        <seg>さらに読む</seg>
       </tuv>
     </tu>
     <tu>
@@ -25625,6 +25649,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following script determines the geodesic azimuths and  distance in U.S.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T050929Z" creationid="miurahr" creationdate="20201221T050929Z">
+        <seg>次のスクリプトは、測地線の方位角と距離を計算します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The functionality can be accessed through a GUI, the command line or by using the C++ API.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T015627Z" creationid="miurahr" creationdate="20201103T015627Z">
@@ -32050,10 +32082,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`Addendum &lt;https://geographiclib.sourceforge.io/geod-addenda.html&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T051149Z" creationid="miurahr" creationdate="20201221T051149Z">
+        <seg>`Addendum &lt;https://geographiclib.sourceforge.io/geod-addenda.html&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`Beginner Tutorial &lt;https://geostyler.github.io/geostyler-beginner-workshop&gt;`__</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T065506Z" creationid="miurahr" creationdate="20201116T235519Z">
         <seg>`初心者向けチュートリアル &lt;https://geostyler.github.io/geostyler-beginner-workshop&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`C.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T051145Z" creationid="miurahr" creationdate="20201221T051145Z">
+        <seg>`C.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32126,6 +32174,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011708Z" creationid="miurahr" creationdate="20201103T011708Z">
         <seg>`GeoWebCache &lt;https://www.geowebcache.org&gt;`_ は GeoServer に統合されていて、 WMS などの様々なソースからタイル化して地図画像をキャッシュします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`GeographicLib &lt;https://geographiclib.sourceforge.io/&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T051145Z" creationid="miurahr" creationdate="20201221T051145Z">
+        <seg>`GeographicLib &lt;https://geographiclib.sourceforge.io/&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
@@ -32422,6 +32478,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T023349Z" creationid="miurahr" creationdate="20201220T023349Z">
         <seg>`TMS &lt;https://wiki.osgeo.org/wiki/Tile_Map_Service_Specification&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`The online geodesic bibliography &lt;https://geographiclib.sourceforge.io/geodesic-papers/biblio.html&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T051149Z" creationid="miurahr" creationdate="20201221T051149Z">
+        <seg>`The online geodesic bibliography &lt;https://geographiclib.sourceforge.io/geodesic-papers/biblio.html&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
@@ -34426,6 +34490,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>geod Example</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T050925Z" creationid="miurahr" creationdate="20201221T050925Z">
+        <seg>geodの例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>geod Synopsis</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T050922Z" creationid="miurahr" creationdate="20201221T050922Z">
+        <seg>geod概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>geoinquiet gmail com</seg>
       </tuv>
       <tuv lang="ja">
@@ -35790,6 +35870,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>kuzkok gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>lack  of precision in the distance value compromises the precision of the Portland location.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T051128Z" creationid="miurahr" creationdate="20201221T051128Z">
+        <seg>距離の値に精度がないと、ポートランドのロケーションの精度が低下します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37314,6 +37402,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>pycsw Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T051151Z" creationid="miurahr" creationdate="20201221T051151Z">
+        <seg>pycsw Quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pycsw enables users to publish a catalogue of dataset descriptions (metadata) to the web, using standards based interfaces and formats, such that it can be queried and updated by catalogue clients.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T025426Z" creationid="miurahr" creationdate="20201220T025426Z">
@@ -38106,6 +38202,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>statute miles from Boston, MA, to Portland, OR:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T050933Z" creationid="miurahr" creationdate="20201221T050933Z">
+        <seg>マサチューセッツ州ボストンからオレゴン州ポートランドまでの法定マイル:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>stefan.hansen lisasoft com</seg>
       </tuv>
       <tuv lang="ja">
@@ -38774,6 +38878,30 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>webworldwind_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>where the first two values are the azimuth from Boston to Portland, the back azimuth from Portland to Boston followed by the distance.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T051019Z" creationid="miurahr" creationdate="20201221T051019Z">
+        <seg>ここで、最初の2つの値は、ボストンからポートランドまでの方位角、ポートランドからボストンまでの背面方位角、その後が距離です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>which gives the results:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T050938Z" creationid="miurahr" creationdate="20201221T050938Z">
+        <seg>結果は次のようになります:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>which gives:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T051124Z" creationid="miurahr" creationdate="20201221T051124Z">
+        <seg>つぎのようになります:</seg>
       </tuv>
     </tu>
     <tu>
