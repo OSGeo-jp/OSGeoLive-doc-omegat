@@ -4086,6 +4086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A project window contains a layer list and a layer view.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225447Z" creationid="miurahr" creationdate="20201221T225447Z">
+        <seg>プロジェクトウィンドウには、レイヤリストとレイヤビューがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A rasdaman driver is part of GDAL and MapServer.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014431Z" creationid="miurahr" creationdate="20201103T014431Z">
@@ -4362,6 +4370,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020657Z" creationid="miurahr" creationdate="20201103T020657Z">
         <seg>Actiniaは、衛星画像、時系列衛星画像データ、ベクタデータを処理するREST APIを提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activate it and click on a single feature in the Map View to select it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225807Z" creationid="miurahr" creationdate="20201221T225807Z">
+        <seg>これを有効にして、マップビューの1つの地物をクリックして選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4730,6 +4746,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Aeylinen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After a few moments, you will be able to see the data from your shapefile in the Map View.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225548Z" creationid="miurahr" creationdate="20201221T225548Z">
+        <seg>しばらくすると、マップビューでシェープファイルのデータを見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5370,6 +5394,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T081633Z" creationid="miurahr" creationdate="20201103T062730Z">
         <seg>'lasinfo' で更なる簡単な調査をすることで、快適な作業を提供してくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Another quicker option is to directly drag and drop your shapefile in the Layer View.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225558Z" creationid="miurahr" creationdate="20201221T225558Z">
+        <seg>シェイプファイルをレイヤのビューに直接ドラッグ&amp;ドロップする方法もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6182,6 +6214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Browse for an ESRI shapefile.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225519Z" creationid="miurahr" creationdate="20201221T225519Z">
+        <seg>ESRIシェープファイルをブラウズします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Browse to dataset :file:`/home/user/data/natural_earth2/ne_10m_admin_0_countries.shp`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201125T004637Z" creationid="miurahr" creationdate="20201125T004637Z">
@@ -6886,6 +6926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose to :menuselection:`Style --&gt; `Change Styles`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225644Z" creationid="miurahr" creationdate="20201221T225644Z">
+        <seg>:menuselection:`Style --&gt; `Change Styles` を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose to measure a point, line, or polygon.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132259Z" creationid="miurahr" creationdate="20201116T132259Z">
@@ -7378,6 +7426,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132255Z" creationid="miurahr" creationdate="20201116T132255Z">
         <seg>測定するマップ上でクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the menu entry "Editable" so that a check mark is shown.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225741Z" creationid="miurahr" creationdate="20201221T225741Z">
+        <seg>チェックマークが表示されるように、メニュー項目 "Editable" をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9566,6 +9622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each instance of OpenJUMP can contain multiple projects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225451Z" creationid="miurahr" creationdate="20201221T225451Z">
+        <seg>OpenJUMPの各インスタンスには、複数のプロジェクトを含めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each layer has a *source*, which knows how to load the layer content.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T071052Z" creationid="miurahr" creationdate="20201108T004231Z">
@@ -9690,6 +9754,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201125T004010Z" creationid="miurahr" creationdate="20201125T004010Z">
         <seg>QGISプロジェクトの編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Edit feature geometries in a layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225725Z" creationid="miurahr" creationdate="20201221T225725Z">
+        <seg>レイヤの地物のジオメトリを編集する</seg>
       </tuv>
     </tu>
     <tu>
@@ -10506,6 +10578,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T042723Z" creationid="miurahr" creationdate="20201108T042723Z">
         <seg>まず、都市データを保存するための通常のデータベーステーブルを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First we need to select a geometry and then we move a point of the geometry.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225759Z" creationid="miurahr" creationdate="20201221T225759Z">
+        <seg>最初にジオメトリを選択し、次にジオメトリの点を移動する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13350,6 +13430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the selection worked, then the features line color should change to yellow and small yellow squares appear at each angle point (vertex) in the feature geometry.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225812Z" creationid="miurahr" creationdate="20201221T225812Z">
+        <seg>選択が成功すると、地物の線の色が黄色に変わり、地物の各点(頂点)に小さな黄色の正方形が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If there is `imagery offset &lt;/en/josm/aerial-imagery&gt;`__, you can **correct the imagery offset** by clicking **Fix Alignment**.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T084400Z" creationid="miurahr" creationdate="20201103T051930Z">
@@ -14121,6 +14209,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the Layer List, right click on the layer name.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225602Z" creationid="miurahr" creationdate="20201221T225602Z">
+        <seg>レイヤリストで、レイヤ名を右クリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the Layers window on the upper right of the screen select the sample.osm layer.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T080322Z" creationid="miurahr" creationdate="20201103T080322Z">
@@ -14397,6 +14493,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235638Z" creationid="miurahr" creationdate="20201116T235638Z">
         <seg>このクイックGMTチュートリアルでは、デジタル地形モデル(DTM)を使用して、シェーディングされた防災地図を生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this quick start, we will only be working with a single window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225456Z" creationid="miurahr" creationdate="20201221T225456Z">
+        <seg>このクイックスタートでは、単一のウィンドウで作業します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16345,6 +16449,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's try a quick edit.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225755Z" creationid="miurahr" creationdate="20201221T225755Z">
+        <seg>簡単に編集してみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's try changing the map extent with the zoom-in tool.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T015053Z" creationid="miurahr" creationdate="20201117T015053Z">
@@ -16557,6 +16669,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T074457Z" creationid="miurahr" creationdate="20201103T072427Z">
         <seg>サンプルの地図を見てみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Look for a file with the .shp extension (e.g. on the LiveDVD under `/home/user/data/natural_earth2/ne_10m_admin_0_countries.shp`).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225535Z" creationid="miurahr" creationdate="20201221T225535Z">
+        <seg>shp拡張子のファイルを探します(例えば、LiveDVDの `/home/user/data/natural_earth2/ne_10m_admin_0_countries.shp` )。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18193,6 +18313,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next, click on the button that shows a blue crosshair with a yellow square in the middle, the :guilabel:`Move Vertex Tool` (Hoovering over the buttons gives you a button description).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225839Z" creationid="miurahr" creationdate="20201221T225839Z">
+        <seg>次に、中央に黄色の正方形がある青い十字が表示されているボタンをクリックします。 :guilabel:`Move Vertex Tool`  (ボタンの上にマウスカーソルを置くとボタンの説明が表示されます)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nicolas Roelandt</seg>
       </tuv>
       <tuv lang="ja">
@@ -19057,6 +19185,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ORFEO Toolbox library (OTB) is a high performance library for image processing targeted on remote sensing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T230202Z" creationid="miurahr" creationdate="20201221T230202Z">
+        <seg>ORFEO Toolbox library(OTB)は、リモートセンシングを目的とした画像処理のためのパフォーマンスの高いライブラリです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OSGeo TMS 1.0.0</seg>
       </tuv>
       <tuv lang="ja">
@@ -19457,6 +19593,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OTB Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T230145Z" creationid="miurahr" creationdate="20201221T230145Z">
+        <seg>OTB クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OTB has been funded the French Space Agency (CNES) in the frame of the Methodological Part of the ORFEO/Pleiades Accompaniement Program and has been actively developed since 2006.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T024252Z" creationid="miurahr" creationdate="20201220T024252Z">
@@ -19637,6 +19781,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T123240Z" creationid="miurahr" creationdate="20201116T123240Z">
         <seg>上部には、レイヤ選択とツールウィジェットを表示するメニューバーが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the top-level menu bar in OpenJUMP, select :menuselection:`File --&gt; Open File`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225512Z" creationid="miurahr" creationdate="20201221T225512Z">
+        <seg>OpenJUMPのトップレベルのメニューバーで、 :menuselection:`File--&gt;Open File` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19965,6 +20117,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022108Z" creationid="miurahr" creationdate="20201103T022108Z">
         <seg>Webブラウザを開き、次のURLを入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open an ESRI shapefile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225500Z" creationid="miurahr" creationdate="20201221T225500Z">
+        <seg>ESRIシェープファイルを開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -23478,6 +23638,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the file and click the :guilabel:`Finish` button on the dialog.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225544Z" creationid="miurahr" creationdate="20201221T225544Z">
+        <seg>ファイルを選択し、ダイアログで :guilabel:`Finish` ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the following file from the :file:`natural_earth2` folder:</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T073016Z" creationid="miurahr" creationdate="20201120T142040Z">
@@ -24670,6 +24838,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Style a layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225600Z" creationid="miurahr" creationdate="20201221T225600Z">
+        <seg>レイヤのスタイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Style a layer using Mapfile configurations</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022522Z" creationid="miurahr" creationdate="20201103T022522Z">
@@ -25306,6 +25482,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T025705Z" creationid="miurahr" creationdate="20201220T025705Z">
         <seg>CSW 標準は、空間データ、 Web サービス、および関連リソースに関するメタデータを発見、参照、および照会するための共通インターフェースを定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Change Styles dialog has five (5) tabs that allow you to change how the layer is displayed in the Map View.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225650Z" creationid="miurahr" creationdate="20201221T225650Z">
+        <seg>スタイルの変更ダイアログには5つのタブがあり、レイヤビューのマップの表示方法を変更できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26465,6 +26649,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The latest OpenJUMP version can be found here: https://sourceforge.net/projects/jump-pilot/files/OpenJUMP/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T230131Z" creationid="miurahr" creationdate="20201221T230131Z">
+        <seg>OpenJUMPの最新バージョンはこちら:  https://sourceforge.net/projects/jump-pilot/files/OpenJUMP/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The latest stable release is |osgeolive-version| and can be downloaded from:</seg>
       </tuv>
       <tuv lang="ja">
@@ -26621,6 +26813,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OSMを最も目にする光景は、 https://www.openstreetmap.org のオンライン上でのウェブタイルによるインターフェイスです。しかしマップは、 :doc:`QGIS &lt;qgis_overview&gt;` や :doc:`OpenLayers &lt;openlayers_overview&gt;`, ArcGIS および 専用の OSM アプリケーションなどの、多くのアプリケーションで閲覧、インポート、編集が可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The name of the layer will match the name of the shapefile.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225554Z" creationid="miurahr" creationdate="20201221T225554Z">
+        <seg>レイヤの名前は、シェープファイルの名前と一致します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27353,6 +27553,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is a lot more material left for you to discover.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T230034Z" creationid="miurahr" creationdate="20201221T225854Z">
+        <seg>読むべき多くの資料がそろっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There is a river, a forest, some buildings, several roads, and a couple of shops.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T074733Z" creationid="miurahr" creationdate="20201103T072433Z">
@@ -27666,6 +27874,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This Quickstart describes how to:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201222T024126Z" creationid="miurahr" creationdate="20201222T024126Z">
+        <seg>このクイックスタートでは、次の方法について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This Quickstart describes some basic steps required to start working with GeoStyler: installing GeoStyler and adding a first UI component to your react application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235040Z" creationid="miurahr" creationdate="20201116T235040Z">
@@ -27818,6 +28034,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This includes changing the stroke color, the fill color, line style and line thickness, transparency, adding labels, and determining at which maximum and minimum scales the layer is displayed at.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225654Z" creationid="miurahr" creationdate="20201221T225654Z">
+        <seg>これには、ストロークの色、塗りつぶし色、線のスタイルと太さ、透過性、ラベルの追加、レイヤを表示する最大と最小のスケールの決定が含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This includes data import and export to databases, sorting, cleaning, and creating data dumps.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052351Z" creationid="miurahr" creationdate="20201102T052351Z">
@@ -27950,6 +28174,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T234922Z" creationid="miurahr" creationdate="20201116T234922Z">
         <seg>これは、GeoServerを使用するための最初のステップにすぎません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is only the first step on the road to using OpenJUMP.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225851Z" creationid="miurahr" creationdate="20201221T225851Z">
+        <seg>これは、OpenJUMPを使用するための最初のステップです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28226,6 +28458,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This toolbar has a set of buttons that you can use to edit the geometry of a geographic feature.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225752Z" creationid="miurahr" creationdate="20201221T225752Z">
+        <seg>このツールバーには、地物のジオメトリを編集するためのボタンがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This uses the OpenLayers map we created, and will be positioned in the 'center' region of our application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T151123Z" creationid="miurahr" creationdate="20201103T054228Z">
@@ -28346,6 +28586,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will open a new floating toolbar over the Map View on the right side.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225745Z" creationid="miurahr" creationdate="20201221T225745Z">
+        <seg>これにより、右側のマップビュー上に新しい浮動ツールバーが開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This will open a new window with a preview of some of the sample data.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T150623Z" creationid="miurahr" creationdate="20201116T150623Z">
@@ -28366,6 +28614,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T073558Z" creationid="miurahr" creationdate="20201116T133204Z">
         <seg>これにより、URL ``http://localhost:8880/geonetwork`` でFirefox Webブラウザが開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will present you with a dialog box that allows you to open files containing geospatial data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225517Z" creationid="miurahr" creationdate="20201221T225517Z">
+        <seg>これにより、空間データを含むファイルを開くためのダイアログボックスが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will show a pop-up menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225605Z" creationid="miurahr" creationdate="20201221T225605Z">
+        <seg>これにより、ポップアップメニューが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28686,6 +28950,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T224550Z" creationid="miurahr" creationdate="20201221T224550Z">
         <seg>これを行うには、ターミナルを開き、次のコマンドを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To do that, we first click the button that shows a mouse cursor in the editing toolbar (top left button).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225803Z" creationid="miurahr" creationdate="20201221T225803Z">
+        <seg>そのためには、まず編集ツールバーにマウスカーソルが表示されているボタン(左上ボタン)をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29350,6 +29622,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T001105Z" creationid="miurahr" creationdate="20201117T001054Z">
         <seg>ルーティング機能を使用してみます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try using this to move one of the vertices/points of the geometry you selected before by clicking on one of the vertices and dragging it (leaving the mouse button pressed).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225847Z" creationid="miurahr" creationdate="20201221T225847Z">
+        <seg>これを使用して、前に選択したジオメトリの頂点の1つをクリックしてドラッグ(マウスボタンを押したまま)し、移動してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31786,6 +32066,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can download tutorials for the OpenJUMP here: https://sourceforge.net/projects/jump-pilot/files/Documentation/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T230005Z" creationid="miurahr" creationdate="20201221T225855Z">
+        <seg>OpenJUMPのチュートリアルはこちらからダウンロードできます: https://sourceforge.net/projects/jump-pilot/files/Documentation/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can drag points from the line by clicking your left mouse button on a point and dragging it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052530Z" creationid="miurahr" creationdate="20201103T052530Z">
@@ -31922,6 +32210,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can get help fast on the OpenJUMP users mailing list: https://groups.google.com/forum/#!forum/openjump-users</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T230114Z" creationid="miurahr" creationdate="20201221T230114Z">
+        <seg>OpenJUMPユーザーメーリングリスト:  https://groups.google.com/forum/#!forum/openjump-users で、すばやくヘルプを見ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can have multiple projects open at a time, each project can have several maps.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T142341Z" creationid="miurahr" creationdate="20201120T142341Z">
@@ -31966,6 +32262,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133745Z" creationid="miurahr" creationdate="20201120T133745Z">
         <seg>再生、一時停止、巻き戻しが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can read the OpenJUMP wiki here: http://ojwiki.soldin.de/index.php?title=Main_Page</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T230056Z" creationid="miurahr" creationdate="20201221T230056Z">
+        <seg>OpenJUMPのウィキは: http://ojwiki.soldin.de/index.php?title=Main_Page   からアクセスできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32346,6 +32650,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You should now see your mouse cursor change to a small black crosshair when you move it over the Map View.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225842Z" creationid="miurahr" creationdate="20201221T225842Z">
+        <seg>これで、マップのビュー上にマウスカーソルを移動すると、マウスカーソルが小さな黒い十字に変わります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You should see a browser window with a web map viewer showing a world map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T152408Z" creationid="miurahr" creationdate="20201221T152408Z">
@@ -32422,6 +32734,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T142447Z" creationid="miurahr" creationdate="20201123T142447Z">
         <seg>プロンプトで1行のコードを入力し、returnキーを押すと、Rインタプリタがそれを評価して結果を出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will also see a new layer created for your data in the Layer List.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T225552Z" creationid="miurahr" creationdate="20201221T225552Z">
+        <seg>レイヤリストには、データ用に作成された新しいレイヤも表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35910,6 +36230,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>https://help.ubuntu.com/community/Lubuntu/Documentation 及び https://wiki.lxde.org/en/Main_Page</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>https://help.ubuntu.com/community/Lubuntu/Documentation and https://www.lxde.org/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201221T230134Z" creationid="miurahr" creationdate="20201221T230134Z">
+        <seg>https://help.ubuntu.com/community/Lubuntu/Documentation and https://www.lxde.org/</seg>
       </tuv>
     </tu>
     <tu>
