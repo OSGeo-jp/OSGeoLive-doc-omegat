@@ -15,7 +15,7 @@ OSGeoLive翻訳管理(https://docs.google.com/spreadsheets/d/1FyDI0iaG-v-VsocWrU
 ```bash
 $ python3 -m venv venv
 $ source venv/bin/activate
-$ pip install -r requirements.txt
+$ pip install -r tools/requirements.txt
 ```
 
 ### 訳文のreST文法チェック
