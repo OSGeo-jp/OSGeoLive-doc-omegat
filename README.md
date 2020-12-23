@@ -50,16 +50,13 @@ $ pip install -r requirements.txt
 
 ## 訳文の生成
 
-Java(JRE8以降)が導入された環境で以下のコマンドを実行すると、訳文がCLIで生成される。
-Linux, macOSでは
+OmegaTの[プロジェクト]メニュー --> [訳文の生成] により、targetフォルダに生成される。
+
+Java(JRE8以降)とGradleが導入された環境で以下のコマンドを実行すると、訳文がコマンドラインで生成される。
 
 ```bash
-$ ./gradlew trasnlate
+$ gradle trasnlate
 
 ```
 
-Windows CMDでは
-```cmd
-$ gradlew.bat translate
-```
 
