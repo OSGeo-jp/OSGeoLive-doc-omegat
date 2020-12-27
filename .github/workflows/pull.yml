@@ -2,7 +2,7 @@ name: Pull source
 
 on:
   workflow_dispatch:
-    input:
+    inputs:
 
 jobs:
   pull-source:
