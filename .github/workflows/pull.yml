@@ -23,7 +23,7 @@ jobs:
 
       - name: Overwrite latest po files to source folder
         run: |
-          cp -R OSGeoLive-doc/locale/ja/LC_MESSAGES/ source
+          cp -R OSGeoLive-doc/locale/ja/LC_MESSAGES/* source/
           rm -Rf OSGeoLive-doc
 
       - name: Commit the changes in source folder
