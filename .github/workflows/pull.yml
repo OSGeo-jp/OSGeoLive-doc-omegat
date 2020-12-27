@@ -12,7 +12,7 @@ jobs:
       - name: Checkout OSGeoLive-doc-omegat
         uses: actions/checkout@v2
         with:
-          - ref: ${{ github.head_ref }}
+          ref: ${{ github.head_ref }}
 
       - name: Checkout OSGeoLive-doc
         uses: actions/checkout@v2
