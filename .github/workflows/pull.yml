@@ -22,7 +22,9 @@ jobs:
           path: OSGeoLive-doc
 
       - name: Overwrite latest po files to source folder
-        run: cp -R OSGeoLive-doc/locale/ja/LC_MESSAGES/ source
+        run: |
+          cp -R OSGeoLive-doc/locale/ja/LC_MESSAGES/ source
+          rm -Rf OSGeoLive-doc
 
       - name: Commit the changes in source folder
         uses: stefanzweifel/git-auto-commit-action@v4
