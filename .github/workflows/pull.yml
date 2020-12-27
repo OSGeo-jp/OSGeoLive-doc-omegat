@@ -1,0 +1,38 @@
+name: Pull source
+
+on:
+  workflow_dispatch:
+    input:
+
+jobs:
+  pull-source:
+    runs-on: ubuntu-20.04
+    name: Pull source
+    steps:
+      - name: Checkout OSGeoLive-doc-omegat
+        uses: actions/checkout@v2
+        with:
+          - ref: ${{ github.head_ref }}
+
+      - name: Checkout OSGeoLive-doc
+        uses: actions/checkout@v2
+        with:
+          repository: OSGeo-jp/OSGeoLive-doc
+          ref: transifex_ja
+          path: OSGeoLive-doc
+
+      - name: Overwrite latest po files to source folder
+        run: cp -R OSGeoLive-doc/locale/ja/LC_MESSAGES/ source/
+
+      - name: Commit the changes in source folder
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update source po files
+
+      - name: "Inform that changes have been made"
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        run: echo "Changes committed!"
+
+      - name: "Inform that no changes were performed"
+        if: steps.auto-commit-action.outputs.changes_detected == 'false'
+        run: echo "No Changes detected!"
