@@ -55,8 +55,5 @@ OmegaTの[プロジェクト]メニュー --> [訳文の生成] により、targ
 Java(JRE8以降)とGradleが導入された環境で以下のコマンドを実行すると、訳文がコマンドラインで生成される。
 
 ```bash
-$ gradle trasnlate
-
+$ gradle translate
 ```
-
-
