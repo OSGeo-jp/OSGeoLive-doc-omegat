@@ -27,6 +27,7 @@ jobs:
           rm -Rf OSGeoLive-doc
 
       - name: Commit the changes in source folder
+        id: "auto-commit-action"
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update source po files
