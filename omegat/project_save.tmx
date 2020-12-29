@@ -6832,8 +6832,8 @@
       <tuv lang="en-US">
         <seg>Chinese</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>Chinese</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201229T154120Z">
+        <seg>中国語</seg>
       </tuv>
     </tu>
     <tu>
@@ -22888,8 +22888,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Russian</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>Russian</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20201229T154130Z">
+        <seg>ロシア語</seg>
       </tuv>
     </tu>
     <tu>
