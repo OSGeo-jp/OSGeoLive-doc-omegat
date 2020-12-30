@@ -6,8 +6,8 @@ on:
 
 jobs:
   pull-source:
-    runs-on: ubuntu-20.04
     name: Pull source
+    runs-on: ubuntu-20.04
     steps:
       - name: Checkout OSGeoLive-doc-omegat
         uses: actions/checkout@v2
