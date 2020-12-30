@@ -13,18 +13,18 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: ${{ github.head_ref }}
+          path: omegat
 
       - name: Checkout OSGeoLive-doc
         uses: actions/checkout@v2
         with:
           repository: OSGeo-jp/OSGeoLive-doc
           ref: transifex_ja
-          path: OSGeoLive-doc
+          path: doc
 
       - name: Overwrite latest po files to source folder
         run: |
-          cp -R OSGeoLive-doc/locale/ja/LC_MESSAGES/* source/
-          rm -Rf OSGeoLive-doc
+          cp -R doc/locale/ja/LC_MESSAGES/* omegat/source/
 
       - name: Commit the changes in source folder
         id: "auto-commit-action"
