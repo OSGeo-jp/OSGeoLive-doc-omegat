@@ -1,0 +1,17 @@
+name: Invoke doc pull workflow
+
+on:
+  workflow_dispatch:
+    inputs:
+
+jobs:
+  invoke-doc-pull:
+    name: Invoke doc pull workflow
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Invoke doc pull workflow
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: Pull OmegaT after check update
+          repo: sanak/OSGeoLive-doc
+          token: ${{ secrets.PERSONAL_TOKEN }}
