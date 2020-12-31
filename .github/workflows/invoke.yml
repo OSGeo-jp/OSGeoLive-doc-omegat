@@ -13,5 +13,5 @@ jobs:
         uses: benc-uk/workflow-dispatch@v1
         with:
           workflow: Pull OmegaT after check update
-          repo: sanak/OSGeoLive-doc
+          repo: OSGeo-jp/OSGeoLive-doc
           token: ${{ secrets.PERSONAL_TOKEN }}
