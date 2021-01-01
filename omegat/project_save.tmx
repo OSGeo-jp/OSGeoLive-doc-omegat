@@ -11296,8 +11296,8 @@
       <tuv lang="en-US">
         <seg>Further, if Quickstarts are included, which are licenced under the `CC By-SA &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_ license, then the new document will also need to be licenced under the `CC By-SA &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201124T235516Z" creationid="smellman" creationdate="20201101T111029Z">
-        <seg>さらに、`CC By-SA &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_ ライセンスの下でライセンスされているQuickstartsが含まれている場合、新しい文書も `CC By-SA &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_ ライセンスの下でライセンスされる必要があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T073043Z" creationid="smellman" creationdate="20201101T111029Z">
+        <seg>さらに、 `CC By-SA &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_ ライセンスの下でライセンスされているクイックスタートが含まれている場合、新しい文書も `CC By-SA &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_ ライセンスの下でライセンスされる必要があります。</seg>
       </tuv>
     </tu>
     <tu>
