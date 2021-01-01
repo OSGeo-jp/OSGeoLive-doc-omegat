@@ -32572,8 +32572,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You may use attribution text similar to one of the following:</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201101T111053Z" creationid="smellman" creationdate="20201101T111053Z">
-        <seg>次のいずれか属性テキストを使用できます:</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T073114Z" creationid="smellman" creationdate="20201101T111053Z">
+        <seg>次のいずれかの属性テキストを使用できます:</seg>
       </tuv>
     </tu>
     <tu>
