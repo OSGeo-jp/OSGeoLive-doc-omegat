@@ -28396,8 +28396,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This sample dataset supplies annual maximum of daily high temperature, and annual maximum consecutive five-day precipitation, both historical and predicted, for the years 1850-2012 and 2006-2100 (see accompanying text files for details).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T020553Z" creationid="miurahr" creationdate="20201220T020553Z">
-        <seg>このサンプル・データ・セットは、 1850年から 2012 年、および 2006年から2100 年について、過去の記録と将来予測の双方にわたって、毎日の最高気温と、年間最大連続 5 日降水量を提供します ( 詳細については、付随するテキスト・ファイルを参照してください ) 。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T122939Z" creationid="miurahr" creationdate="20201220T020553Z">
+        <seg>このサンプルデータセットは、日最高気温の年最大値と、連続した5日間降水量の年最大値の、過去(1850-2012年)及び予測データ(2006-2100年)を提供します (詳細については、付随するテキストファイルを参照してください)。</seg>
       </tuv>
     </tu>
     <tu>
