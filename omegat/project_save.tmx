@@ -19332,8 +19332,8 @@
       <tuv lang="en-US">
         <seg>OSGeoLive development is coordinated via email and internet chat (IRC) as detailed on the `OSGeoLive Wiki &lt;https://trac.osgeo.org/osgeolive#Communication&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T051744Z">
-        <seg>OSGeoLive の開発は、emailやインターネット・チャット (IRC) によってコーディネートされています。詳細については、`OSGeoLive Wiki &lt;https://trac.osgeo.org/osgeolive#Communication&gt;`_ を参照してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T131627Z">
+        <seg>OSGeoLive の開発は、 `OSGeoLive Wiki &lt;https://trac.osgeo.org/osgeolive#Communication&gt;`_ に詳述されているように、Eメールとインターネットチャット(IRC)を通じて調整されています。</seg>
       </tuv>
     </tu>
     <tu>
