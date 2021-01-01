@@ -2176,8 +2176,8 @@
       <tuv lang="en-US">
         <seg>**Verbose, suitable for a 100 page thesis:**</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T052946Z" creationid="miurahr" creationdate="20201221T052946Z">
-        <seg>**Verbose, suitable for a 100 page thesis:**</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T073601Z" creationid="miurahr" creationdate="20201221T052946Z">
+        <seg>**詳細な、100ページの論文に適した属性:**</seg>
       </tuv>
     </tu>
     <tu>
@@ -40316,8 +40316,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>|CC-By-SA-med| This document includes content from the "gvSIG Quickstart" created by Simon Cropper under the Creative Commons Attribution-ShareAlike 3.0 Unported licence, https://creativecommons.org/licenses/by-sa/3.0/ available from the OSGeoLive project, :doc:`quickstart/gvsig_quickstart`, and downloaded on 25 July 2011.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T052946Z" creationid="miurahr" creationdate="20201221T052946Z">
-        <seg>|CC-By-SA-med| This document includes content from the "gvSIG Quickstart" created by Simon Cropper under the Creative Commons Attribution-ShareAlike 3.0 Unported licence, https://creativecommons.org/licenses/by-sa/3.0/ available from the OSGeoLive project, :doc:`quickstart/gvsig_quickstart`, and downloaded on 25 July 2011.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T074218Z" creationid="miurahr" creationdate="20201221T052946Z">
+        <seg>|CC-By-SA-med| このドキュメントには、Simon Cropper氏がクリエイティブ・コモンズ 表示 - 継承 3.0 非移植 ライセンス (https://creativecommons.org/licenses/by-sa/3.0/) の下で作成した "gvSIG クイックスタート" のコンテツが含まれ、OSGeoLiveプロジェクトの :doc:`quickstart/gvsig_quickstart` から入手可能で、2011年7月25日にダウンロードされました。</seg>
       </tuv>
     </tu>
     <tu>
