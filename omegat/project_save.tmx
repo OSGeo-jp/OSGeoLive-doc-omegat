@@ -14040,8 +14040,8 @@
       <tuv lang="en-US">
         <seg>In addition download the OSGeo Virtual disk file (vmdk) from :doc:`live.osgeo.org &lt;../download&gt;`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T162240Z" creationid="miurahr" creationdate="20201103T113442Z">
-        <seg>さらに、doc:`live.osgeo.org &lt;../download&gt;` からOSGeo仮想ディスクファイル(vmdk)をダウンロードします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T164736Z" creationid="miurahr" creationdate="20201103T113442Z">
+        <seg>さらに、 doc:`live.osgeo.org &lt;../download&gt;` からOSGeo仮想ディスクファイル(vmdk)をダウンロードします。</seg>
       </tuv>
     </tu>
     <tu>
