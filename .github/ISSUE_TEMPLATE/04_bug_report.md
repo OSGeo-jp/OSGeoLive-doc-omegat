@@ -1,38 +1,32 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: バグレポート
+about: 日本語訳文・英語原文以外のバグについて、改善のためレポートを作成
+title: '[バグ]'
+labels: 'バグ'
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**バグの説明**
+バグの内容について、明確・簡潔に説明してください。  
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**再現方法**
+バグを再現するための手順:
+1. ○○(OmegaT・GitHubのサイトURL)上で
+2. ○○を操作中に
+2. ○○の問題が発生した
+など
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**期待される動作**
+期待される動作について、明確・簡潔に記載してください。
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**スクリーンショット**
+該当する場合は、問題の説明に役立つスクリーンショットを追加してください。
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**デスクトップ:**
+ - OS: [例: macOS]
+ - アプリ: [例: OmegaT、ブラウザ(Chrome、Firefoxなど)]
+ - バージョン: [※OmegaTの場合、例: 5.4.1]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**追加のコンテキスト**
+問題についての他のコンテキストをここに追加してください。
