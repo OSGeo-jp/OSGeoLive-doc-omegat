@@ -10872,8 +10872,8 @@
       <tuv lang="en-US">
         <seg>For our GMT example we will first transform the dataset into geographic coordinates Longitude-Latitude (EPSG:4326) using the `gdalwarp` command:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T235744Z" creationid="miurahr" creationdate="20201116T235744Z">
-        <seg>GMTの例では、最初に`gdalwarp`コマンドを使用して、データセットを地理座標(経度-緯度)(EPSG:4326)に変換します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T164522Z" creationid="miurahr" creationdate="20201116T235744Z">
+        <seg>GMTの例では、最初に `gdalwarp` コマンドを使用して、データセットを地理座標(経度-緯度)(EPSG:4326)に変換します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11056,8 +11056,8 @@
       <tuv lang="en-US">
         <seg>From a quick look at the DTM metadata, open a terminal and use the GDAL command `gdalinfo`:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T235658Z" creationid="miurahr" creationdate="20201116T235658Z">
-        <seg>DTMメタデータをざっと見て、端末を開き、GDALコマンド`gdalinfo`:</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T164509Z" creationid="miurahr" creationdate="20201116T235658Z">
+        <seg>DTMメタデータをざっと見て、端末を開き、GDALコマンド `gdalinfo`:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12896,8 +12896,8 @@
       <tuv lang="en-US">
         <seg>Here the flag `-D` is used to select the colorbar position `TC: Top Center`, the size `5x0.25` expressed in inches `i` the orientation by `h: horizontal` and the flag `-By` to set a label `m` on the `y axis`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T000002Z" creationid="miurahr" creationdate="20201117T000002Z">
-        <seg>ここでは、フラグ`-D`を使用して、カラーバーの位置`TC:Top Center`、サイズ`5x0.25`をインチ`i`で表したもの、方向を`h:horizontal`で表したもの、フラグ`-By`を使用してラベル`m`を`y軸`に設定したものを選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T164350Z" creationid="miurahr" creationdate="20201117T000002Z">
+        <seg>ここでは、フラグ `-D` を使用して、カラーバーの位置 `TC: Top Center` 、サイズ `5x0.25` をインチ `i` で表したもの、方向を `h:horizontal` で表したもの、フラグ `-By` を使用してラベル `m` を `y軸` に設定したものを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14024,8 +14024,8 @@
       <tuv lang="en-US">
         <seg>In `grdgradient` we will use the `-Ne` flag to normalize the output using a cumulative Laplace distribution and the `-A` flag for Azimuthal direction for a directional derivative.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T235915Z" creationid="miurahr" creationdate="20201116T235915Z">
-        <seg>「grdgradient」では、「-Ne」フラグを使用して、累積ラプラス分布を使用して出力を正規化し、「-A」フラグを方位角方向の方向微分に使用します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T164445Z" creationid="miurahr" creationdate="20201116T235915Z">
+        <seg>`grdgradient` では、 `-Ne` フラグを使用して、累積ラプラス分布を使用して出力を正規化し、 `-A` フラグを方位角方向の方向微分に使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28997,8 +28997,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To do so, we will compute the directional derivative, or gradient, from our grid using the `grdgradient` command.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T235908Z" creationid="miurahr" creationdate="20201116T235908Z">
-        <seg>そのために、「grdgradient」コマンドを使用して、グリッドから方向の導関数、つまり勾配を計算します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T164307Z" creationid="miurahr" creationdate="20201116T235908Z">
+        <seg>そのために、 `grdgradient` コマンドを使用して、グリッドから方向の導関数、つまり勾配を計算します。</seg>
       </tuv>
     </tu>
     <tu>
