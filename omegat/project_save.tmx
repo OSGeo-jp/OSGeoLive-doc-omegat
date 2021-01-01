@@ -3536,8 +3536,8 @@
       <tuv lang="en-US">
         <seg>:doc:`Quickstart documentation &lt;../quickstart/openjump_quickstart&gt;`</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T104447Z" creationid="smellman" creationdate="20201103T104447Z">
-        <seg>:doc:`クイックスタート文書 &lt;./quickstart/openjump_quickstart&gt;`</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T162421Z" creationid="smellman" creationdate="20201103T104447Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/openjump_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -3664,8 +3664,8 @@
       <tuv lang="en-US">
         <seg>:doc:`Quickstart documentation &lt;../quickstart/t-rex_quickstart&gt;`</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T051328Z" creationid="smellman" creationdate="20201103T051328Z">
-        <seg>:doc:`クイックスタートドキュメント&lt;./quickstart/t-rex_quickstart&gt;`</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T162450Z" creationid="smellman" creationdate="20201103T051328Z">
+        <seg>:doc:`クイックスタートドキュメント &lt;../quickstart/t-rex_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -14491,8 +14491,8 @@
       <tuv lang="en-US">
         <seg>In this example we are going to use the :doc:`Natural Earth data set &lt;../overview/naturalearth_overview&gt;` that is included on OSGeoLive (:file:`/usr/local/share/data/natural_earth2/`).</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T080549Z" creationid="miurahr" creationdate="20201116T150735Z">
-        <seg>この例では、OSGeoLiveに含まれている :doc:`Natural Earthデータセット &lt;./overview/naturalearth_overview&gt;` (:file:`/usr/local/share/data/natural_earth2/`)を使用します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T162657Z" creationid="miurahr" creationdate="20201116T150735Z">
+        <seg>この例では、OSGeoLiveに含まれている :doc:`Natural Earthデータセット &lt;../overview/naturalearth_overview&gt;` (:file:`/usr/local/share/data/natural_earth2/`)を使用します。</seg>
       </tuv>
     </tu>
     <tu>
