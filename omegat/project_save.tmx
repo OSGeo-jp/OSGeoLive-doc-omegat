@@ -2952,16 +2952,16 @@
       <tuv lang="en-US">
         <seg>*ZOO Kernel* : A powerful server-side C Kernel which makes it possible to manage and chain Web services coded in different programming languages.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T034702Z" creationid="miurahr" creationdate="20201221T034645Z">
-        <seg>*ZOOカーネル* : 異なるプログラミング言語でコーディングされたWebサービスの管理とチェーンを可能にする、強力なサーバーサイドCカーネルです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T144236Z" creationid="miurahr" creationdate="20201221T034645Z">
+        <seg>*ZOOカーネル* : 異なるプログラミング言語でコーディングされたWebサービスの管理とチェーン化を可能にする、強力なサーバーサイドCカーネルです。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>*ZOO Services* : A growing suite of example Web services based on various Open Source libraries.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T142242Z" creationid="miurahr" creationdate="20201221T034710Z">
-        <seg>*ZOOサービス* : さまざまなオープンソースライブラリに基づく、サンプルWebサービスのスイートが増えています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T144703Z" creationid="miurahr" creationdate="20201221T034710Z">
+        <seg>*ZOOサービス* : さまざまなオープンソースライブラリをベースとした、成長中のサンプルWebサービスのスイートが増えています。</seg>
       </tuv>
     </tu>
     <tu>
