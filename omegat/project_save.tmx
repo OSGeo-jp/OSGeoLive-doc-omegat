@@ -25892,8 +25892,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The ZOO Kernel is written in C language, but supports several common programming languages in order to connect to numerous libraries and above all to simplify the Web service end-developer's job.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T034803Z" creationid="miurahr" creationdate="20201221T034803Z">
-        <seg>ZOOカーネルはC言語で書かれていますが、数多くのライブラリに接続するためにいくつかの一般的なプログラミング言語をサポートしています。特に、Webサービスのエンド開発者の仕事である単純化に接続します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T153320Z" creationid="miurahr" creationdate="20201221T034803Z">
+        <seg>ZOO カーネルはC言語で書かれていますが、数多くのライブラリに接続するために、いくつかの一般的なプログラミング言語をサポートし、上記のすべてのWebサービスのエンド開発者の仕事を簡素化します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26692,8 +26692,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The latter is able to load dynamic libraries and to handle them as on-demand Web services.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T034756Z" creationid="miurahr" creationdate="20201221T034756Z">
-        <seg>後者は、動的ライブラリをロードして、オンデマンドのWebサービスとして処理することができます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T153137Z" creationid="miurahr" creationdate="20201221T034756Z">
+        <seg>ZOO カーネルは、動的ライブラリをロードして、オンデマンドのWebサービスとして処理することができます。</seg>
       </tuv>
     </tu>
     <tu>
