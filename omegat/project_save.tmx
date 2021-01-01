@@ -33013,8 +33013,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>ZOO-Project provides a developer friendly Web Processing Service (WPS) framework for creating and chaining Web Processing Services.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T150606Z" creationid="miurahr" creationdate="20201221T034516Z">
-        <seg>ZOO プロジェクトは、 Web Processing Service を作成してチェーン化のための開発者フレンドリーな Web Processing Service (WPS) フレームワークを提供します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T150734Z" creationid="miurahr" creationdate="20201221T034516Z">
+        <seg>ZOO プロジェクトは、 Web Processing Service を作成・連結するための、開発者向けの Web Processing Service (WPS) フレームワークを提供します。</seg>
       </tuv>
     </tu>
     <tu>
