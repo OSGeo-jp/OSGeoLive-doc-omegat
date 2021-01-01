@@ -30986,6 +30986,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We've included a number of non-OSGeo software packages, from both the spatial and non-spatial realms, which we hope you will find to be as useful as we do.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T060619Z" creationid="sanak" creationdate="20210101T060619Z">
+        <seg>OSGeo以外のソフトウェア・パッケージも、空間的分野と非空間的領域の両方からいくつか含まれていますが、私たちと同じように役に立つことを期待しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Web GIS Portal</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T051108Z" creationid="miurahr" creationdate="20201122T051108Z">
