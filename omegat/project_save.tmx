@@ -19204,8 +19204,8 @@
       <tuv lang="en-US">
         <seg>OSGeo outreach and activities include:</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>OSGeoのアウトリーチや活動に含まれるもの:</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T134021Z">
+        <seg>OSGeoのアウトリーチと活動には次のものが含まれます:</seg>
       </tuv>
     </tu>
     <tu>
