@@ -15435,8 +15435,9 @@
       <tuv lang="en-US">
         <seg>It provides pre-configured applications for a range of geospatial use cases, including storage, publishing, viewing, analysis and manipulation of data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T052946Z" creationid="miurahr" creationdate="20201102T052946Z">
-        <seg>OSGeoLive は様々な地理空間関連の保管、配布、表示、分析、データメンテナンスなどの ユースケースに応じた設定済みのアプリケーションを提供しています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T124849Z" creationid="miurahr" creationdate="20201102T052946Z">
+        <seg>データの保存、公開、表示、分析、操作など、さまざまな地理空間の用途に合わせて事前構成されたアプリケーションを提供します。
+</seg>
       </tuv>
     </tu>
     <tu>
