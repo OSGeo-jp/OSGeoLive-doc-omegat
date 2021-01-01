@@ -14040,8 +14040,8 @@
       <tuv lang="en-US">
         <seg>In addition download the OSGeo Virtual disk file (vmdk) from :doc:`live.osgeo.org &lt;../download&gt;`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T164736Z" creationid="miurahr" creationdate="20201103T113442Z">
-        <seg>さらに、 doc:`live.osgeo.org &lt;../download&gt;` からOSGeo仮想ディスクファイル(vmdk)をダウンロードします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T170255Z" creationid="miurahr" creationdate="20201103T113442Z">
+        <seg>さらに、 :doc:`live.osgeo.org &lt;../download&gt;` からOSGeo仮想ディスクファイル(vmdk)をダウンロードします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17198,6 +17198,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T012515Z" creationid="miurahr" creationdate="20201220T012515Z">
         <seg>Mapスライサーは、ラスター・マップ・パブリッシングのためのマップ・タイルを作成するためのデスクトップ・アプリケーションです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapbender</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T170106Z" creationid="sanak" creationdate="20210101T170106Z">
+        <seg>Mapbender</seg>
       </tuv>
     </tu>
     <tu>
