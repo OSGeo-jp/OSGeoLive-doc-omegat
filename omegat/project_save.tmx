@@ -25732,8 +25732,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The Open Source Geospatial Foundation (OSGeo) provides the primary development &amp; hosting infrastructure and personnel for the project, and for many of the software teams which contribute to it.</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>オープンソース地理空間財団 (OSGeo) は主要な開発やインフラのホスト、プロジェクトの要員を提供し、これに貢献する多くのソフトウェアチームのためにあります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T132902Z">
+        <seg>オープンソース地理空間財団 (OSGeo) は、プロジェクトと、プロジェクトに貢献する多くのソフトウェアチームのための主要な開発およびホスティングインフラストラクチャと人員を提供します。</seg>
       </tuv>
     </tu>
     <tu>
