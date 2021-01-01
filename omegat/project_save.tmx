@@ -33508,8 +33508,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`OSGeoLive &lt;https://live.osgeo.org&gt;`_ is a self-contained bootable DVD, USB thumb drive or Virtual Machine based on `Lubuntu &lt;https://lubuntu.net&gt;`_, that allows you to try a wide variety of open source geospatial software without installing anything.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T052933Z" creationid="miurahr" creationdate="20201102T052933Z">
-        <seg>`OSGeoLive &lt;https://live.osgeo.org&gt;`_ は、 Lubuntu をベースとしたブータブルDVD, USBスティックドライブまたは仮想マシン で、様々なオープンソースの地理空間ソフトウェアをインストール無しに試すことができます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T124541Z" creationid="miurahr" creationdate="20201102T052933Z">
+        <seg>`OSGeoLive &lt;https://live.osgeo.org&gt;`_ は、 `Lubuntu &lt;https://lubuntu.net&gt;`_ をベースにした、自己完結型のブータブルDVD、USBサムドライブまたは仮想マシンで、何もインストールせずに、さまざまなオープンソースの地理空間ソフトウェアを試すことができます。</seg>
       </tuv>
     </tu>
     <tu>
