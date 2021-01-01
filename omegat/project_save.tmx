@@ -3864,8 +3864,8 @@
       <tuv lang="en-US">
         <seg>A ZOO service is a link composed of a metadata file (.zcfg) and the code for the corresponding implementation.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T034807Z" creationid="miurahr" creationdate="20201221T034807Z">
-        <seg>ZOOサービスは、メタデータファイル(.zcfg)と対応する実装のコードで構成されるリンクです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T153519Z" creationid="miurahr" creationdate="20201221T034807Z">
+        <seg>ZOO サービスは、メタデータファイル(.zcfg)と対応する実装のコードで構成されるリンクです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26804,8 +26804,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The metadata file describes all the available functions which can be called using a WPS Exec Request, as well as the desired input/output.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T034812Z" creationid="miurahr" creationdate="20201221T034812Z">
-        <seg>メタデータファイルには、WPS Exec Requestを使用して呼び出すことができるすべての関数と、目的の入出力が記述されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T154049Z" creationid="miurahr" creationdate="20201221T034812Z">
+        <seg>メタデータファイルには、WPS Exec リクエストを使用して呼び出すことができるすべての利用可能な機能と、必要な入出力が記述されています。</seg>
       </tuv>
     </tu>
     <tu>
