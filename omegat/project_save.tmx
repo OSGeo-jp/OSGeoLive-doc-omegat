@@ -8416,16 +8416,16 @@
       <tuv lang="en-US">
         <seg>Creative Commons</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>Creative Commons</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T115319Z">
+        <seg>クリエイティブ・コモンズ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Creative Commons Attribution</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>Creative Commons Attribution</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T115425Z">
+        <seg>クリエイティブ・コモンズ 表示</seg>
       </tuv>
     </tu>
     <tu>
