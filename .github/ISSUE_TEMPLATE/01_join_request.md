@@ -1,6 +1,6 @@
 ---
 name: 参加申請
-about: OmegaTを利用した翻訳に参加します
+about: OmegaTを利用したOSGeoLive-docの翻訳プロジェクトに参加
 title: '[参加申請]'
 labels: '参加申請'
 assignees: 'sanak'
