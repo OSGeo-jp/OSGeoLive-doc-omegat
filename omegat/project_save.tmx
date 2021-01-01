@@ -3992,8 +3992,8 @@
       <tuv lang="en-US">
         <seg>A look at the `OGC Domain Working Groups &lt;https://www.ogc.org/projects/groups/wg&gt;`_ shows the wide scope of current activity in the OGC.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201125T000223Z" creationid="miurahr" creationdate="20201103T013255Z">
-        <seg>`OGC Domain Working Groups&lt;https://www.ogc.org/projects/groups/wg&gt;`_ を見ると、OGCにおける現在の活動の広い範囲がわかります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T140900Z" creationid="miurahr" creationdate="20201103T013255Z">
+        <seg>`OGC Domain Working Groups &lt;https://www.ogc.org/projects/groups/wg&gt;`_ を見ると、OGCにおける現在の活動の広い範囲がわかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26964,8 +26964,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The project is certified `OGC Compliant`_, and is an `OGC Reference Implementation`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T025647Z" creationid="miurahr" creationdate="20201220T025647Z">
-        <seg>このプロジェクトは、 `OGC Compliant`_ として認定されており、  `OGC Reference Implementation`_ です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T141105Z" creationid="miurahr" creationdate="20201220T025647Z">
+        <seg>このプロジェクトは、 `OGC 準拠`_ として認定されており、 `OGC リファレンス実装`_ です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38685,8 +38685,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>pycsw is a `Python`_ implementation of the |CSW|.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T033057Z" creationid="miurahr" creationdate="20201220T025604Z">
-        <seg>pycsw は`Python`_ による  |CSW| 実装です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T140928Z" creationid="miurahr" creationdate="20201220T025604Z">
+        <seg>pycsw は `Python`_ による |CSW| 実装です。</seg>
       </tuv>
     </tu>
     <tu>
