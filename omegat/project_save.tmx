@@ -2960,8 +2960,8 @@
       <tuv lang="en-US">
         <seg>*ZOO Services* : A growing suite of example Web services based on various Open Source libraries.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T034710Z" creationid="miurahr" creationdate="20201221T034710Z">
-        <seg>*ZOO Services* : さまざまなオープンソースライブラリに基づく、サンプルWebサービスのスイートが増えています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T142242Z" creationid="miurahr" creationdate="20201221T034710Z">
+        <seg>*ZOOサービス* : さまざまなオープンソースライブラリに基づく、サンプルWebサービスのスイートが増えています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24009,8 +24009,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Simple WPS chaining with ZOO API</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T034830Z" creationid="miurahr" creationdate="20201221T034830Z">
-        <seg>ZOO APIによるシンプルなWPSチェーニング</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T142520Z" creationid="miurahr" creationdate="20201221T034830Z">
+        <seg>ZOO APIによるシンプルなWPS連鎖</seg>
       </tuv>
     </tu>
     <tu>
@@ -26484,8 +26484,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The first uses the simple spatialtools services based on the :doc:`GEOS &lt;geos_overview&gt;` and :doc:`OGR &lt;gdal_overview&gt;` libraries, the second showcase Voronoi and Delaunay triangulation (from the CGAL library) and the third present how to interract with OTB applications runninng as WPS services.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T142202Z" creationid="miurahr" creationdate="20201221T034628Z">
-        <seg>第1に、 `GEOS &lt;geos_overview&gt;` および :doc:`OGR &lt;gdal_overview&gt;` ライブラリに基づくシンプルなspatialtoolsサービスを使用します。第2に、ボロノイとドロネーの三角分割(CGALライブラリから)を紹介します。第3に、WPSサービスとして動作するOTBアプリケーションとの相互運用方法を紹介します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T142225Z" creationid="miurahr" creationdate="20201221T034628Z">
+        <seg>第1に、 `GEOS &lt;geos_overview&gt;` および :doc:`OGR &lt;gdal_overview&gt;` ライブラリに基づくシンプルな空間ツールサービスを使用します。第2に、ボロノイとドロネーの三角分割(CGALライブラリから)を紹介します。第3に、WPSサービスとして動作するOTBアプリケーションとの相互運用方法を紹介します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32989,8 +32989,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>ZOO is based on a 'WPS Service Kernel' which constitutes the ZOO's core system (aka ZOO Kernel).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T034751Z" creationid="miurahr" creationdate="20201221T034751Z">
-        <seg>ZOOは、ZOOのコアシステム(ZOO カーネル)を構成する'WPS Service Kernel'に基づいています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T142414Z" creationid="miurahr" creationdate="20201221T034751Z">
+        <seg>ZOOは、ZOOのコアシステム(ZOO カーネル)を構成する 'WPSサービスカーネル' に基づいています。</seg>
       </tuv>
     </tu>
     <tu>
