@@ -24761,8 +24761,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Stay tuned and follow OSGeoLive on Twitter `@osgeolive &lt;https://mobile.twitter.com/osgeolive&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>OSGeoLiveのツイッターアカウントはこちらです．`@osgeolive &lt;https://mobile.twitter.com/osgeolive&gt;`_</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T165931Z">
+        <seg>Twitter `@osgeolive &lt;https://mobile.twitter.com/osgeolive&gt;`_ で OSGeoLive をフォローしてください。</seg>
       </tuv>
     </tu>
     <tu>
