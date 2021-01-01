@@ -3528,8 +3528,8 @@
       <tuv lang="en-US">
         <seg>:doc:`Quickstart documentation &lt;../quickstart/opencpn_quickstart&gt;`</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T102903Z" creationid="smellman" creationdate="20201103T102903Z">
-        <seg>:doc:`クイックスタート文書&lt;./quickstart/opencpn_quickstart&gt;`</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T162342Z" creationid="smellman" creationdate="20201103T102903Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/opencpn_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -14040,8 +14040,8 @@
       <tuv lang="en-US">
         <seg>In addition download the OSGeo Virtual disk file (vmdk) from :doc:`live.osgeo.org &lt;../download&gt;`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T070505Z" creationid="miurahr" creationdate="20201103T113442Z">
-        <seg>さらに、doc:`live.osgeo.org&lt;../download&gt;` からOSGeo仮想ディスクファイル(vmdk)をダウンロードします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T162240Z" creationid="miurahr" creationdate="20201103T113442Z">
+        <seg>さらに、doc:`live.osgeo.org &lt;../download&gt;` からOSGeo仮想ディスクファイル(vmdk)をダウンロードします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18068,8 +18068,8 @@
       <tuv lang="en-US">
         <seg>NMEA GPS or `Gpsd &lt;https://www.berlios.de/software/gpsd/&gt;`_ daemon input</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T102722Z" creationid="smellman" creationdate="20201103T102722Z">
-        <seg>NMEA GPSまたは`Gpsd&lt;https://www.berlios.de/software/gpsd/&gt;`_ デーモンの入力</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T162318Z" creationid="smellman" creationdate="20201103T102722Z">
+        <seg>NMEA GPS または `Gpsd &lt;https://www.berlios.de/software/gpsd/&gt;`_ デーモンの入力</seg>
       </tuv>
     </tu>
     <tu>
@@ -20350,6 +20350,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>GEOS 経由で提供される OpenGis 空間解析関数 - Overlaps()、Touches()、Union()、Buffer() など</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenJUMP GIS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T162359Z" creationid="sanak" creationdate="20210101T162359Z">
+        <seg>OpenJUMP GIS</seg>
       </tuv>
     </tu>
     <tu>
@@ -24297,8 +24305,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Spare Hard Disk Space: The virtual disk file (vmdk) from :doc:`live.osgeo.org &lt;../download&gt;`  unzips to almost 10 GB.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T070342Z" creationid="miurahr" creationdate="20201103T113354Z">
-        <seg>ハードディスクの空き容量 :doc:`live.osgeo.org&lt;./download&gt;` の仮想ディスクファイル(vmdk)は、ほぼ10GBに解凍されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T162156Z" creationid="miurahr" creationdate="20201103T113354Z">
+        <seg>ハードディスクの空き容量 :doc:`live.osgeo.org &lt;../download&gt;` の仮想ディスクファイル(vmdk)は、ほぼ10GBに解凍されます。</seg>
       </tuv>
     </tu>
     <tu>
