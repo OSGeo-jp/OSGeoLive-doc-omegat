@@ -24009,8 +24009,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Simple WPS chaining with ZOO API</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T142520Z" creationid="miurahr" creationdate="20201221T034830Z">
-        <seg>ZOO APIによるシンプルなWPS連鎖</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T154638Z" creationid="miurahr" creationdate="20201221T034830Z">
+        <seg>ZOO API によるシンプルな WPS 連結</seg>
       </tuv>
     </tu>
     <tu>
@@ -33357,8 +33357,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`Demo using OTB Applications as WPS Services &lt;http://localhost/zoo-demo/otb-example.html&gt;`_</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T142908Z" creationid="sanak" creationdate="20210101T142908Z">
-        <seg>`WPSサービスとしてのOTBアプリケーションのデモ &lt;http://localhost/zoo-demo/otb-example.html&gt;`_</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T154544Z" creationid="sanak" creationdate="20210101T142908Z">
+        <seg>`WPS サービスとしての OTB アプリケーションのデモ &lt;http://localhost/zoo-demo/otb-example.html&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
