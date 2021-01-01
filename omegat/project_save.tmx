@@ -1534,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-pygeoapi|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T141651Z" creationid="sanak" creationdate="20210101T141651Z">
+        <seg>**ソフトウェアバージョン:** |version-pygeoapi|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-pywps|</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T032152Z" creationid="miurahr" creationdate="20201220T032152Z">
@@ -2554,6 +2562,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T030405Z" creationid="miurahr" creationdate="20201220T030405Z">
         <seg>**Webサイト:** https://pycsw.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://pygeoapi.io/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T141634Z" creationid="sanak" creationdate="20210101T141634Z">
+        <seg>**Webサイト:** https://pygeoapi.io/</seg>
       </tuv>
     </tu>
     <tu>
@@ -14651,8 +14667,8 @@
       <tuv lang="en-US">
         <seg>Initially developed as a central component of the EU's :doc:`INSPIRE &lt;inspire_overview&gt;` infrastructure, it provides a consistent central access point where labels and descriptions for reference codes can be easily browsed by humans and retrieved by machines.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T052340Z" creationid="miurahr" creationdate="20201103T015034Z">
-        <seg>当初はEUの:doc:`INSPIRE&lt;inspire_overview&gt;` インフラストラクチャの中心的なコンポーネントとして開発されたもので、リファレンスコードのラベルと説明を人間が簡単にブラウズし、マシンが検索できる一貫した中央アクセスポイントを提供します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T141806Z" creationid="miurahr" creationdate="20201103T015034Z">
+        <seg>当初はEUの:doc: `INSPIRE&lt;inspire_overview&gt;` インフラストラクチャの中心的なコンポーネントとして開発されたもので、リファレンスコードのラベルと説明を人間が簡単にブラウズし、マシンが検索できる一貫した中央アクセスポイントを提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26468,8 +26484,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The first uses the simple spatialtools services based on the :doc:`GEOS &lt;geos_overview&gt;` and :doc:`OGR &lt;gdal_overview&gt;` libraries, the second showcase Voronoi and Delaunay triangulation (from the CGAL library) and the third present how to interract with OTB applications runninng as WPS services.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T034628Z" creationid="miurahr" creationdate="20201221T034628Z">
-        <seg>第1に、`GEOS &lt;geos_overview&gt;` および :doc:`OGR &lt;gdal_overview&gt;` ライブラリに基づくシンプルなspatialtoolsサービスを使用します。第2に、VoronoiとDelaunayの三角分割(CGALライブラリから)を紹介します。第3に、WPSサービスとして動作するオー・ティー・ビーアプリケーションとの相互運用方法を紹介します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T142202Z" creationid="miurahr" creationdate="20201221T034628Z">
+        <seg>第1に、 `GEOS &lt;geos_overview&gt;` および :doc:`OGR &lt;gdal_overview&gt;` ライブラリに基づくシンプルなspatialtoolsサービスを使用します。第2に、ボロノイとドロネーの三角分割(CGALライブラリから)を紹介します。第3に、WPSサービスとして動作するOTBアプリケーションとの相互運用方法を紹介します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33491,10 +33507,34 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`OGC API - Coverages`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T141615Z" creationid="sanak" creationdate="20210101T141615Z">
+        <seg>`OGC API - Coverages`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`OGC API - Features`_</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T031721Z" creationid="miurahr" creationdate="20201220T031721Z">
         <seg>`OGC API - Features`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`OGC API - Processes`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T141620Z" creationid="sanak" creationdate="20210101T141620Z">
+        <seg>`OGC API - Processes`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`OGC API - Tiles`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T141618Z" creationid="sanak" creationdate="20210101T141618Z">
+        <seg>`OGC API - Tiles`_</seg>
       </tuv>
     </tu>
     <tu>
@@ -33695,6 +33735,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T062017Z" creationid="miurahr" creationdate="20201103T062017Z">
         <seg>`クイックスタート文書 &lt;http://docs.geotools.org/latest/userguide/tutorial/quickstart/index.html&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`SpatioTemporal Asset Catalog`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T141623Z" creationid="sanak" creationdate="20210101T141623Z">
+        <seg>`SpatioTemporal Asset Catalog`_</seg>
       </tuv>
     </tu>
     <tu>
