@@ -33347,6 +33347,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`Demo using OTB Applications as WPS Services &lt;http://localhost/zoo-demo/otb-example.html&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T142908Z" creationid="sanak" creationdate="20210101T142908Z">
+        <seg>`WPSサービスとしてのOTBアプリケーションのデモ &lt;http://localhost/zoo-demo/otb-example.html&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`Demo using Services Provider based CGAL library &lt;http://localhost/zoo-demo/cgal.html&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T142826Z" creationid="sanak" creationdate="20210101T142826Z">
+        <seg>`CGAL ライブラリをベースとしたサービスプロバイダのデモ &lt;http://localhost/zoo-demo/cgal.html&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`Demo using Services Provider based GEOS and OGR libraries &lt;http://localhost/zoo-demo/ogr-example.html&gt;`_</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T142802Z" creationid="miurahr" creationdate="20201221T034841Z">
