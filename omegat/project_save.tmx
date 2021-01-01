@@ -18243,8 +18243,8 @@
       <tuv lang="en-US">
         <seg>NetCDF version 4.0 and above work with the HDF5 format, designed to store and organize large amounts of numerical data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T020313Z" creationid="miurahr" creationdate="20201220T020313Z">
-        <seg>NetCDF バージョン 4.0 と HDF5 フォーマットの作業では、大量の数値データを保管および編成するように設計されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T122510Z" creationid="miurahr" creationdate="20201220T020313Z">
+        <seg>NetCDF バージョン 4.0 以上では、大容量数値データの格納・構成を目的とする HDF5 形式としても機能します。</seg>
       </tuv>
     </tu>
     <tu>
