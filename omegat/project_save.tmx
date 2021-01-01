@@ -23809,8 +23809,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Services contain the algorithms and functions, and can now be implemented in C/C++, Fortran, Java, Python, PHP, Ruby, C# and JavaScript.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T034821Z" creationid="miurahr" creationdate="20201221T034821Z">
-        <seg>サービスにはアルゴリズムと関数が含まれており、C/C++、Fortran、Java、Python、PHP、Ruby、C#、およびJavaScriptで実装できるようになりました。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T154231Z" creationid="miurahr" creationdate="20201221T034821Z">
+        <seg>サービスにはアルゴリズムと機能が含まれていて、現在は、C/C++、Fortran、Java、Python、PHP、Ruby、C#、および JavaScript で実装することができます。</seg>
       </tuv>
     </tu>
     <tu>
