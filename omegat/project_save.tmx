@@ -2960,8 +2960,8 @@
       <tuv lang="en-US">
         <seg>*ZOO Services* : A growing suite of example Web services based on various Open Source libraries.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T144703Z" creationid="miurahr" creationdate="20201221T034710Z">
-        <seg>*ZOOサービス* : さまざまなオープンソースライブラリをベースとした、成長中のサンプルWebサービスのスイートが増えています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T144728Z" creationid="miurahr" creationdate="20201221T034710Z">
+        <seg>*ZOOサービス* : さまざまなオープンソースライブラリをベースとした、成長中のサンプルWebサービスのスイートです。</seg>
       </tuv>
     </tu>
     <tu>
