@@ -14627,7 +14627,7 @@
       <tuv lang="en-US">
         <seg>Information Center for the Environment at the University of California, Davis provides hardware resources and development support to the OSGeoLive project.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T133239Z">
+      <tuv lang="ja" changeid="sanak" changedate="20210101T133508Z">
         <seg>カリフォルニア大学デービス校環境情報センターは、OSGeoLiveプロジェクトにハードウェアリソースと開発支援を提供しています。</seg>
       </tuv>
     </tu>
@@ -19660,8 +19660,8 @@
       <tuv lang="en-US">
         <seg>Okeanos is the Greek Academic cloud service (IaaS) which is providing virtualized computing resources free of charge to the Greek Universities and public Research Centres.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T133003Z" creationid="miurahr" creationdate="20201120T133003Z">
-        <seg>Okeanosはギリシャのアカデミッククラウドサービス(IaaS)であり、ギリシャの大学公共研究センターに仮想コンピューティングリソースを無償で提供しています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T133619Z" creationid="miurahr" creationdate="20201120T133003Z">
+        <seg>Okeanosはギリシャのアカデミッククラウドサービス(IaaS)で、ギリシャの大学や公共研究センターに仮想コンピューティングリソースを無償で提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22417,8 +22417,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Remote Sensing Laboratory at the National Technical University of Athens, provides hardware resources and development support to the OSGeoLive project.</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>アテネ工科大学リモートセンシング研究室は、OSGeoLiveプロジェクトへのハードウェア資源と開発支援を提供しています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T133529Z">
+        <seg>アテネ工科大学リモートセンシング研究室は、OSGeoLiveプロジェクトにハードウェアリソースと開発支援を提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25513,8 +25513,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The DebianGIS and UbuntuGIS projects provide and quality-assure many of the core packages.</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>DebianGISとUbuntuGISプロジェクトは、コアパッケージの多くを提供し品質を保証します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T133435Z">
+        <seg>DebianGISとUbuntuGISプロジェクトは、コアパッケージの多くを提供し品質を保証しています。</seg>
       </tuv>
     </tu>
     <tu>
