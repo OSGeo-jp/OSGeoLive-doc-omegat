@@ -13232,8 +13232,8 @@
       <tuv lang="en-US">
         <seg>IRC users might try the #osgeolive or #osgeo channel at Freenode.net for real-time assistance.</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201101T104134Z" creationid="smellman" creationdate="20201101T104134Z">
-        <seg>IRCユーザーは、Freenode.netの#osgeoliveまたは#osgeoチャネルを使ってリアルタイムによる支援を試してみてください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T061007Z" creationid="smellman" creationdate="20201101T104134Z">
+        <seg>IRCユーザーは、Freenode.netの #osgeolive または #osgeo チャンネルを使ってリアルタイムによる支援を試してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31772,8 +31772,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You also can meet us at Slack, Matrix or Glitter.</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201101T104205Z" creationid="smellman" creationdate="20201101T104205Z">
-        <seg>Slack、Matrix、Glitterでも私達に会うことができます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T061017Z" creationid="smellman" creationdate="20201101T104205Z">
+        <seg>Slack、Matrix、Glitterでも私たちに会うことができます。</seg>
       </tuv>
     </tu>
     <tu>
