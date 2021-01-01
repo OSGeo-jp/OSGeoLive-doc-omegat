@@ -28100,8 +28100,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This is a pre-made virtual machine (.vmdk), based on osgeolive, suitable for use in VirtualBox, VMWare, KVM and other virtual machine applications.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T224023Z" creationid="miurahr" creationdate="20201123T224023Z">
-        <seg>VirtualBox、VMWare、KVM などの仮想マシンに適した、OSGeoLiveに基づいて事前作成された仮想マシン(.vmdk)です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T085419Z" creationid="miurahr" creationdate="20201123T224023Z">
+        <seg>VirtualBox、VMWare、KVM やその他の仮想マシンアプリケーションに適した、OSGeoLiveに基づいて事前作成された仮想マシン(.vmdk)です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33476,8 +33476,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`Minimum suggested system resources: 1 GB RAM (2 GB are better for trying Java based applications), 1GHz i386 or amd64 compatible CPU.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T224045Z" creationid="miurahr" creationdate="20201123T224045Z">
-        <seg>`最低限の動作環境は: メモリ 1GB (Java ベースのアプリケーションを使用する場合 2 GB あるとよいでしょう)、1GHz 以上の i386 か amd64 互換の CPU。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T085336Z" creationid="miurahr" creationdate="20201123T224045Z">
+        <seg>`最低限の動作環境は: メモリ 1GB (Java ベースのアプリケーションを使用する場合 2GB あるとよいでしょう)、1GHz 以上の i386 か amd64 互換の CPU。</seg>
       </tuv>
     </tu>
     <tu>
