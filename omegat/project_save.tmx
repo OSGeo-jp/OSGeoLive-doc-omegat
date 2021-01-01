@@ -41277,8 +41277,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>|nologo| :doc:`re3gistry_overview` - [:doc:`Quickstart &lt;../quickstart/re3gistry_quickstart&gt;`] - Management of reference codes</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T070656Z" creationid="miurahr" creationdate="20201103T070656Z">
-        <seg>|nologo| :doc:`re3gistry_overview` - [:doc:`クイックスタート &lt;../quickstart/re3gistry_quickstart&gt;`] - Management of reference codes</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T164940Z" creationid="miurahr" creationdate="20201103T070656Z">
+        <seg>|nologo| :doc:`re3gistry_overview` - [:doc:`クイックスタート &lt;../quickstart/re3gistry_quickstart&gt;`] - リファレンスコードの管理</seg>
       </tuv>
     </tu>
     <tu>
