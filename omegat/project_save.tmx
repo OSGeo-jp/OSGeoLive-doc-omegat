@@ -13046,6 +13046,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Historical Map 1689</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T160912Z" creationid="sanak" creationdate="20210101T160912Z">
+        <seg>歴史的地図1689</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hit :kbd:`CTRL` + :kbd:`C` if the psql prompt keeps appearing after pressing return.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T062640Z" creationid="miurahr" creationdate="20201108T041902Z">
