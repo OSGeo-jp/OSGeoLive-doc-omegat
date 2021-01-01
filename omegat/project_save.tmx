@@ -5624,8 +5624,8 @@
       <tuv lang="en-US">
         <seg>As per the `terms of the Creative Commons license &lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F&gt;`_, if you include OSGeoLive documentation into a new document, you will need to attribute the contributors.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T072825Z" creationid="smellman" creationdate="20201101T110855Z">
-        <seg>`クリエイティブ・コモンズ・ライセンスの条件 &lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F&gt;`_ に従って、OSGeoLiveのドキュメントを新しいドキュメントに含める場合は、コントリビュータの属性を指定する必要があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T081334Z" creationid="smellman" creationdate="20201101T110855Z">
+        <seg>`クリエイティブ・コモンズ・ライセンスの条件 &lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F&gt;`_ に従って、OSGeoLiveのドキュメントを新しいドキュメントに含める場合は、貢献者の属性を指定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5784,8 +5784,8 @@
       <tuv lang="en-US">
         <seg>Attributing OSGeoLive Documentation</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201101T110741Z" creationid="smellman" creationdate="20201101T110741Z">
-        <seg>OSGeoLiveの文書の属性</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T081723Z" creationid="smellman" creationdate="20201101T110741Z">
+        <seg>OSGeoLiveの文書の帰属</seg>
       </tuv>
     </tu>
     <tu>
