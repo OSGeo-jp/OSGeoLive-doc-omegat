@@ -3848,8 +3848,8 @@
       <tuv lang="en-US">
         <seg>A WPS provides web access to functions which run spatial algorithms.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T134113Z" creationid="miurahr" creationdate="20201120T134113Z">
-        <seg>WPSは空間アルゴリズムを実行する関数へのWebアクセスを提供します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T143506Z" creationid="miurahr" creationdate="20201120T134113Z">
+        <seg>WPSは空間アルゴリズムを実行する機能へのWebアクセスを提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33013,8 +33013,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>ZOO-Project supports many programming languages and comes with three demo applications.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T034527Z" creationid="miurahr" creationdate="20201221T034527Z">
-        <seg>ZOO-Projectは多くのプログラミング言語をサポートしており、3つのデモアプリケーションが用意されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T143732Z" creationid="miurahr" creationdate="20201221T034527Z">
+        <seg>ZOO-Project は多くのプログラミング言語をサポートし、3つのデモアプリケーションが用意されています。</seg>
       </tuv>
     </tu>
     <tu>
