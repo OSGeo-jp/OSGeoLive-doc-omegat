@@ -33349,8 +33349,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`FOSS4G &lt;https://foss4g.org&gt;`_: Annual, international conference for *Free and Open Source Software for Geospatial*, as well as many regional and local `events &lt;https://www.osgeo.org/events&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201125T001543Z">
-        <seg>`FOSS4G &lt;https://foss4g.org&gt;`_: *地理空間のためのフリーでオープンソースなソフトウェア* のために毎年開催される国際カンファレンスで、多くの地域でも同様の `イベント &lt;https://www.osgeo.org/events&gt;`_. が開催されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T134531Z">
+        <seg>`FOSS4G &lt;https://foss4g.org&gt;`_: *地理空間のためのフリーでオープンソースなソフトウェア* のために毎年開催される国際カンファレンスで、多くの地域でも同様の `イベント &lt;https://www.osgeo.org/events&gt;`_ が開催されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33517,8 +33517,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`OSGeoLive &lt;https://live.osgeo.org&gt;`__: A distribution of established geospatial open source software, pre-configured with sample data and quickstarts, ready to try out.</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>`OSGeoLive &lt;https://live.osgeo.org&gt;`__: 地理空間オープンソースソフトウェア、事前設定のサンプルデータ、クイックスタートによって構成されたディストリビューションで、試す準備ができています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T134428Z">
+        <seg>`OSGeoLive &lt;https://live.osgeo.org&gt;`__: サンプルデータとクイックスタートが事前に設定された、実証済みの地理空間オープンソースソフトウェアのディストリビューション。すぐに試用できます。</seg>
       </tuv>
     </tu>
     <tu>
