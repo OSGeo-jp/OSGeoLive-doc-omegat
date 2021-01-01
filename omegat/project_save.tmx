@@ -32997,8 +32997,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>ZOO is based on a 'WPS Service Kernel' which constitutes the ZOO's core system (aka ZOO Kernel).</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T152003Z" creationid="miurahr" creationdate="20201221T034751Z">
-        <seg>ZOO は、ZOO のコアシステム(ZOO カーネル)を構成する「WPS サービスカーネル」に基づいています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T153022Z" creationid="miurahr" creationdate="20201221T034751Z">
+        <seg>ZOO は、ZOO のコアシステムを構成している「WPS サービスカーネル」(別名ZOO カーネル)に基づいています。</seg>
       </tuv>
     </tu>
     <tu>
