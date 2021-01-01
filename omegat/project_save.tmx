@@ -40397,8 +40397,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>|OSGeo_community| :doc:`geostyler_overview` - [:doc:`Quickstart &lt;../quickstart/geostyler_quickstart&gt;`] - Generic Styler For Geodata</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T070840Z" creationid="miurahr" creationdate="20201103T070840Z">
-        <seg>|OSGeo_community| :doc:`geostyler_overview` - [:doc:`クイックスタート &lt;../quickstart/geostyler_quickstart&gt;`] - Generic Styler For Geodata</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T140048Z" creationid="miurahr" creationdate="20201103T070840Z">
+        <seg>|OSGeo_community| :doc:`geostyler_overview` - [:doc:`クイックスタート &lt;../quickstart/geostyler_quickstart&gt;`] - 地理データのための汎用的なスタイラー</seg>
       </tuv>
     </tu>
     <tu>
@@ -40989,8 +40989,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>|nologo| :doc:`geoext_overview` - [:doc:`Quickstart &lt;../quickstart/geoext_quickstart&gt;`] - JavaScript Toolkit Web Mapping</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T070923Z" creationid="miurahr" creationdate="20201103T070923Z">
-        <seg>|nologo| :doc:`geoext_overview` - [:doc:`クイックスタート &lt;../quickstart/geoext_quickstart&gt;`] - JavaScript Toolkit Web Mapping</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T140020Z" creationid="miurahr" creationdate="20201103T070923Z">
+        <seg>|nologo| :doc:`geoext_overview` - [:doc:`クイックスタート &lt;../quickstart/geoext_quickstart&gt;`] - JavaScript Web マッピングツールキット</seg>
       </tuv>
     </tu>
     <tu>
