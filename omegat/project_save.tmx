@@ -2952,16 +2952,16 @@
       <tuv lang="en-US">
         <seg>*ZOO Kernel* : A powerful server-side C Kernel which makes it possible to manage and chain Web services coded in different programming languages.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T144236Z" creationid="miurahr" creationdate="20201221T034645Z">
-        <seg>*ZOOカーネル* : 異なるプログラミング言語でコーディングされたWebサービスの管理とチェーン化を可能にする、強力なサーバーサイドCカーネルです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T150942Z" creationid="miurahr" creationdate="20201221T034645Z">
+        <seg>*ZOO カーネル* : 異なるプログラミング言語でコーディングされたWebサービスの管理と連結を可能にする、強力なサーバーサイドCカーネルです。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>*ZOO Services* : A growing suite of example Web services based on various Open Source libraries.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T144728Z" creationid="miurahr" creationdate="20201221T034710Z">
-        <seg>*ZOOサービス* : さまざまなオープンソースライブラリをベースとした、成長中のサンプルWebサービスのスイートです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T151458Z" creationid="miurahr" creationdate="20201221T034710Z">
+        <seg>*ZOO サービス* : さまざまなオープンソースライブラリをベースとした、成長中のサンプルWebサービスのスイートです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27244,8 +27244,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The three demontration applications are available from the ZOO-Project demo landing page presented bellow.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T143820Z" creationid="miurahr" creationdate="20201221T034641Z">
-        <seg>3つのデモアプリケーションは、以下に示す ZOO-Project のデモランディングページから利用できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T150920Z" creationid="miurahr" creationdate="20201221T034641Z">
+        <seg>3つのデモアプリケーションは、以下に示す ZOO プロジェクトのデモランディングページから利用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33021,8 +33021,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>ZOO-Project supports many programming languages and comes with three demo applications.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T143732Z" creationid="miurahr" creationdate="20201221T034527Z">
-        <seg>ZOO-Project は多くのプログラミング言語をサポートし、3つのデモアプリケーションが用意されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T150808Z" creationid="miurahr" creationdate="20201221T034527Z">
+        <seg>ZOO プロジェクトは多くのプログラミング言語をサポートし、3つのデモアプリケーションが用意されています。</seg>
       </tuv>
     </tu>
     <tu>
