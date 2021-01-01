@@ -5774,6 +5774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Atlas</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T160430Z" creationid="sanak" creationdate="20210101T160430Z">
+        <seg>Atlas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AtlasStyler_</seg>
       </tuv>
       <tuv lang="ja">
@@ -6120,8 +6128,8 @@
       <tuv lang="en-US">
         <seg>Besides choosing any number of maps to view on your globe (including OpenStreetMap), you are encouraged to include a KDE Marble widget in your application.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T083921Z" creationid="miurahr" creationdate="20201117T000702Z">
-        <seg>地球儀に表示する(`OpenStreet Maps&lt;https://www.openstreetmap.org&gt;`_ を含む)マップをいろいろ選択するだけでなく、アプリケーションにKDE Marbleウィジェットを含めることをお勧めします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T160123Z" creationid="miurahr" creationdate="20201117T000702Z">
+        <seg>地球儀に表示する(`OpenStreet Maps &lt;https://www.openstreetmap.org&gt;`_ を含む)マップをいろいろ選択するだけでなく、アプリケーションにKDE Marbleウィジェットを含めることをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10768,8 +10776,8 @@
       <tuv lang="en-US">
         <seg>For example, if we look closer at our "ne_10m_lakes" data file using a tool such as `ogrinfo &lt;https://gdal.org/ogrinfo.html&gt;`_, we'll see the geometry and attribute definitions it contains.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T080143Z" creationid="miurahr" creationdate="20201103T022601Z">
-        <seg>たとえば、 `ogrinfo&lt;https://gdal.org/ogrinfo.html&gt;`_ などのツールを使用して"ne_10m_lakes"データファイルを詳しく調べると、このファイルに含まれるジオメトリと属性定義がわかります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T160033Z" creationid="miurahr" creationdate="20201103T022601Z">
+        <seg>たとえば、 `ogrinfo &lt;https://gdal.org/ogrinfo.html&gt;`_ などのツールを使用して"ne_10m_lakes"データファイルを詳しく調べると、このファイルに含まれるジオメトリと属性定義がわかります。</seg>
       </tuv>
     </tu>
     <tu>
