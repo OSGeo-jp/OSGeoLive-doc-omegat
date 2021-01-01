@@ -512,8 +512,8 @@
       <tuv lang="en-US">
         <seg>**Concise CC-By-SA and attribution:**</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T052947Z" creationid="miurahr" creationdate="20201221T052947Z">
-        <seg>**Concise CC-By-SA and attribution:**</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T074444Z" creationid="miurahr" creationdate="20201221T052947Z">
+        <seg>**簡潔な CC-By-SA と属性:**</seg>
       </tuv>
     </tu>
     <tu>
@@ -26875,8 +26875,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The original work was translated from English to German.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T052946Z" creationid="miurahr" creationdate="20201221T052946Z">
-        <seg>The original work was translated from English to German.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T074302Z" creationid="miurahr" creationdate="20201221T052946Z">
+        <seg>原著は英語からドイツ語に翻訳されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41252,8 +41252,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>© 2011 [Your Name] under a `CC By SA License &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T052947Z" creationid="miurahr" creationdate="20201221T052947Z">
-        <seg>© 2011 [Your Name] under a `CC By SA License &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T075829Z" creationid="miurahr" creationdate="20201221T052947Z">
+        <seg>© 2011 [あなたの名前] under a `CC By SA License &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_.</seg>
       </tuv>
     </tu>
     <tu>
