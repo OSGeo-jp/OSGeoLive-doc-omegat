@@ -5096,8 +5096,8 @@
       <tuv lang="en-US">
         <seg>Allow two to three minutes for rasdaman and especially Tomcat to fully start (once the `rasdaman web client &lt;http://localhost:8080/rasdaman/ows&gt;`_ loads in the browser).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T153202Z" creationid="miurahr" creationdate="20201221T153202Z">
-        <seg>rasdaman、特にTomcatが完全に起動するまで、2分から3分間待ちます( `rasdaman web client&lt;http://localhost:8080/rasdaman/ows&gt;`_ がブラウザーにロードされるまで)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T162043Z" creationid="miurahr" creationdate="20201221T153202Z">
+        <seg>rasdaman、特にTomcatが完全に起動するまで、2分から3分間待ちます( `rasdaman web client &lt;http://localhost:8080/rasdaman/ows&gt;`_ がブラウザにロードされるまで)。</seg>
       </tuv>
     </tu>
     <tu>
