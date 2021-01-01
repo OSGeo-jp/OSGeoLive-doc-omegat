@@ -26956,8 +26956,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The project emerged as part of the next generation `OGC API`_ efforts in 2018 and provides the capability for organizations to deploy a RESTful OGC API endpoint using OpenAPI, GeoJSON, and HTML.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T030759Z" creationid="miurahr" creationdate="20201220T030759Z">
-        <seg>このプロジェクトは、 2018 年の次世代の OGC API の取り組みの一環として登場し、 各組織が、OpenAPI、 GeoJSON、 HTMLを使用して RESTフルな OGC API エンドポイントを設置できるようにするのが目的です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T141503Z" creationid="miurahr" creationdate="20201220T030759Z">
+        <seg>このプロジェクトは、 2018年の次世代の OGC API の取り組みの一環として登場し、各組織が、OpenAPI、 GeoJSON、 HTMLを使用して RESTful な OGC API エンドポイントを設置できるようにするのが目的です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33837,8 +33837,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`pygeoapi`_ is a `Python`_ server implementation of the OGC API suite of standards.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T030557Z" creationid="miurahr" creationdate="20201220T030557Z">
-        <seg>`pygeoapi`_ は `Python`_  で実装されている 各種OGC API標準のサーバです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T141342Z" creationid="miurahr" creationdate="20201220T030557Z">
+        <seg>`pygeoapi`_ は `Python`_ で実装されている 各種OGC API標準のサーバです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35165,8 +35165,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>easy to install: install a full implementation via ``pip`` or ``git``</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T031209Z" creationid="miurahr" creationdate="20201220T031209Z">
-        <seg>インストールが容易:  ``pip`` や``git`` コマンドで全実装がインストールできる</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T141537Z" creationid="miurahr" creationdate="20201220T031209Z">
+        <seg>インストールが容易: ``pip`` や ``git`` コマンドで全実装がインストールできる</seg>
       </tuv>
     </tu>
     <tu>
@@ -38733,8 +38733,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>pygeoapi is `open source &lt;https://opensource.org&gt;`_ and released under an `MIT`_ license.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T030824Z" creationid="miurahr" creationdate="20201220T030824Z">
-        <seg>pygeoapi は `open source &lt;https://opensource.org&gt;`_ で  `MIT`_ ライセンスでリリースされています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T141524Z" creationid="miurahr" creationdate="20201220T030824Z">
+        <seg>pygeoapi は `オープンソース &lt;https://opensource.org&gt;`_ で  `MIT`_ ライセンスでリリースされています。</seg>
       </tuv>
     </tu>
     <tu>
