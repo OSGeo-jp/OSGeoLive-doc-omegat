@@ -7792,8 +7792,8 @@
       <tuv lang="en-US">
         <seg>Columbia</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>Columbia</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T134843Z">
+        <seg>コロンビア</seg>
       </tuv>
     </tu>
     <tu>
@@ -10944,8 +10944,8 @@
       <tuv lang="en-US">
         <seg>France/Ireland/UK</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>France/Ireland/UK</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T134933Z">
+        <seg>フランス/アイルランド/英国</seg>
       </tuv>
     </tu>
     <tu>
@@ -16052,8 +16052,8 @@
       <tuv lang="en-US">
         <seg>Korea</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>Korea</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T134722Z">
+        <seg>韓国</seg>
       </tuv>
     </tu>
     <tu>
@@ -17628,8 +17628,8 @@
       <tuv lang="en-US">
         <seg>Mexico</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>Mexico</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T134822Z">
+        <seg>メキシコ</seg>
       </tuv>
     </tu>
     <tu>
@@ -20708,8 +20708,8 @@
       <tuv lang="en-US">
         <seg>Paraguay</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>Paraguay</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T134833Z">
+        <seg>パラグアイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -21020,8 +21020,8 @@
       <tuv lang="en-US">
         <seg>Poland</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>Poland</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T134737Z">
+        <seg>ポーランド</seg>
       </tuv>
     </tu>
     <tu>
@@ -29789,8 +29789,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Ukraine</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>Ukraine</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T134808Z">
+        <seg>ウクライナ</seg>
       </tuv>
     </tu>
     <tu>
@@ -30277,8 +30277,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Venezuela</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>Venezuela</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T134904Z">
+        <seg>ベネズエラ</seg>
       </tuv>
     </tu>
     <tu>
