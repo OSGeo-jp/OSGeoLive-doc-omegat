@@ -8112,8 +8112,8 @@
       <tuv lang="en-US">
         <seg>Core Features</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011152Z">
-        <seg>主要機能</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T155601Z">
+        <seg>主な機能</seg>
       </tuv>
     </tu>
     <tu>
@@ -17972,8 +17972,8 @@
       <tuv lang="en-US">
         <seg>Multi language WPS server</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T034824Z" creationid="miurahr" creationdate="20201221T034824Z">
-        <seg>多言語WPSサーバ</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T154855Z" creationid="miurahr" creationdate="20201221T034824Z">
+        <seg>マルチ開発言語 WPS サーバ</seg>
       </tuv>
     </tu>
     <tu>
