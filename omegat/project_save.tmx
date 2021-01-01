@@ -21619,8 +21619,8 @@
       <tuv lang="en-US">
         <seg>Project Overviews and Overview Translations, are provided under a `Creative Commons Attribution 3.0 Unported License &lt;https://creativecommons.org/licenses/by/3.0/&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T072120Z" creationid="smellman" creationdate="20201101T110638Z">
-        <seg>プロジェクトの概要と概要の翻訳は、`クリエイティブ・コモンズ 表示 3.0 非移植 ライセンス &lt;https://creativecommons.org/licenses/by/3.0/&gt;`_ の下で提供されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T072301Z" creationid="smellman" creationdate="20201101T110638Z">
+        <seg>プロジェクト概要と概要の翻訳は、`クリエイティブ・コモンズ 表示 3.0 非移植 ライセンス &lt;https://creativecommons.org/licenses/by/3.0/&gt;`_ の下で提供されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21975,8 +21975,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Quickstarts and Quickstart Translations, are provided under a `Creative Commons Attribution-ShareAlike 3.0 Unported License &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201124T235421Z" creationid="smellman" creationdate="20201101T110651Z">
-        <seg>QuickstartsとQuickStart翻訳は、`Creative Commons Attribution-ShareAlike 3.0 Unported License &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_ の下で提供されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T072233Z" creationid="smellman" creationdate="20201101T110651Z">
+        <seg>クイックスタートとクイックスタートの翻訳は、`クリエイティブ・コモンズ 表示 - 継承 3.0 非移植 ライセンス &lt;https://creativecommons.org/licenses/by-sa/3.0/&gt;`_ の下で提供されています。</seg>
       </tuv>
     </tu>
     <tu>
