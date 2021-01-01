@@ -2944,8 +2944,8 @@
       <tuv lang="en-US">
         <seg>*ZOO API* : A server-side JavaScript API able to call and chain the ZOO Services, which makes the development and chaining processes easier.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T034728Z" creationid="miurahr" creationdate="20201221T034728Z">
-        <seg>*ZOO API* : ZOOサービスを呼び出してチェーン接続できるサーバー側のJavaScript APIです。これにより、開発とチェーン接続のプロセスが容易になります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T151849Z" creationid="miurahr" creationdate="20201221T034728Z">
+        <seg>*ZOO API* : ZOO サービスを呼び出して連結できるサーバー側のJavaScript APIです。これにより、プロセスの開発と連結が容易になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32997,8 +32997,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>ZOO is based on a 'WPS Service Kernel' which constitutes the ZOO's core system (aka ZOO Kernel).</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T142414Z" creationid="miurahr" creationdate="20201221T034751Z">
-        <seg>ZOOは、ZOOのコアシステム(ZOO カーネル)を構成する 'WPSサービスカーネル' に基づいています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T152003Z" creationid="miurahr" creationdate="20201221T034751Z">
+        <seg>ZOO は、ZOO のコアシステム(ZOO カーネル)を構成する「WPS サービスカーネル」に基づいています。</seg>
       </tuv>
     </tu>
     <tu>
