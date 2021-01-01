@@ -2944,8 +2944,8 @@
       <tuv lang="en-US">
         <seg>*ZOO API* : A server-side JavaScript API able to call and chain the ZOO Services, which makes the development and chaining processes easier.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T151849Z" creationid="miurahr" creationdate="20201221T034728Z">
-        <seg>*ZOO API* : ZOO サービスを呼び出して連結できるサーバー側のJavaScript APIです。これにより、プロセスの開発と連結が容易になります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T152841Z" creationid="miurahr" creationdate="20201221T034728Z">
+        <seg>*ZOO API* : プロセスの開発と連結をより簡単にする、ZOO サービスの呼び出し・連結が可能なサーバサイドのJavaScript API。</seg>
       </tuv>
     </tu>
     <tu>
