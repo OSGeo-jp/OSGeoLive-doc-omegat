@@ -40435,6 +40435,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|OSGeo_community| :doc:`pygeoapi_overview` - [:doc:`Quickstart &lt;../quickstart/pygeoapi_quickstart&gt;`] - OGC Web Services</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T140248Z" creationid="sanak" creationdate="20210101T140248Z">
+        <seg>|OSGeo_community| :doc:`pygeoapi_overview` - [:doc:`クイックスタート &lt;../quickstart/pygeoapi_quickstart&gt;`] - OGC Web サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|OSGeo_incubation| :doc:`rasdaman_overview` - [:doc:`Quickstart &lt;../quickstart/rasdaman_quickstart&gt;`] - Multi-Dimensional Raster Database</seg>
       </tuv>
       <tuv lang="ja">
@@ -40447,6 +40455,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|OSGeo_incubation| :doc:`zoo-project_overview` - [:doc:`クイックスタート &lt;../quickstart/zoo-project_quickstart&gt;`] - Web Processing Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`deegree_overview` - [:doc:`Quickstart &lt;../quickstart/deegree_quickstart&gt;`] - OGC Web Services</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T140144Z" creationid="sanak" creationdate="20210101T140110Z">
+        <seg>|OSGeo_project| :doc:`deegree_overview` - [:doc:`クイックスタート &lt;../quickstart/deegree_quickstart&gt;`] - OGC Web サービス</seg>
       </tuv>
     </tu>
     <tu>
@@ -40541,8 +40557,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>|OSGeo_project| :doc:`mapcache_overview` - [:doc:`Quickstart &lt;../quickstart/mapcache_quickstart&gt;`] - OGC Web Services</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>|OSGeo_project| :doc:`mapcache_overview` - [:doc:`Quickstart &lt;../quickstart/mapcache_quickstart&gt;`] - OGC Webサービス</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T140118Z">
+        <seg>|OSGeo_project| :doc:`mapcache_overview` - [:doc:`クイックスタート &lt;../quickstart/mapcache_quickstart&gt;`] - OGC Webサービス</seg>
       </tuv>
     </tu>
     <tu>
