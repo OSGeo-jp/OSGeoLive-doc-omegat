@@ -27818,6 +27818,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This Live GIS disc and virtual-machine has been put together by members of the OSGeo community to showcase their favourite Free and Open Source (FOSS) geospatial software.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T052151Z" creationid="sanak" creationdate="20210101T052151Z">
+        <seg>This Live GIS disc and virtual-machine has been put together by members of the OSGeo community to showcase their favourite Free and Open Source (FOSS) geospatial software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This Quick Start describes how to enable pgrouting in a PostgreSQL database, load data with osm2pgrouting, and run a basic shortest path query with the sample test data.</seg>
       </tuv>
       <tuv lang="ja">
