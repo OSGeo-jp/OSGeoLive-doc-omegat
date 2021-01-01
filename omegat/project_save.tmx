@@ -5624,8 +5624,8 @@
       <tuv lang="en-US">
         <seg>As per the `terms of the Creative Commons license &lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F&gt;`_, if you include OSGeoLive documentation into a new document, you will need to attribute the contributors.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201124T235431Z" creationid="smellman" creationdate="20201101T110855Z">
-        <seg> `terms of the Creative Commons license &lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F&gt;`_ に従って、OSGeoLiveのドキュメントを新しいドキュメントに含める場合は、コントリビュータの属性を指定する必要があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T072825Z" creationid="smellman" creationdate="20201101T110855Z">
+        <seg>`クリエイティブ・コモンズ・ライセンスの条件 &lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F&gt;`_ に従って、OSGeoLiveのドキュメントを新しいドキュメントに含める場合は、コントリビュータの属性を指定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8760,8 +8760,8 @@
       <tuv lang="en-US">
         <seg>Data on OSGeoLive is available under various Open Licences.</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201101T110717Z" creationid="smellman" creationdate="20201101T110717Z">
-        <seg>OSGeoLiveに関するデータは様々なオープン・ライセンスの下で入手可能です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T072541Z" creationid="smellman" creationdate="20201101T110717Z">
+        <seg>OSGeoLiveに関するデータはさまざまなオープン・ライセンスの下で入手可能です。</seg>
       </tuv>
     </tu>
     <tu>
