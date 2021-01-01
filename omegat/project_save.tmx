@@ -30555,6 +30555,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>WPS Server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T145857Z" creationid="sanak" creationdate="20210101T145857Z">
+        <seg>WPS Server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>WYSIWYG map creation with QGIS</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003156Z" creationid="miurahr" creationdate="20201103T003156Z">
@@ -33005,8 +33013,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>ZOO-Project provides a developer friendly Web Processing Service (WPS) framework for creating and chaining Web Processing Services.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T143429Z" creationid="miurahr" creationdate="20201221T034516Z">
-        <seg>ZOO-Project は、Webサービス開発と処理チェーン化のための開発者フレンドリーな Web Processing Service (WPS) フレームワークを提供します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T150606Z" creationid="miurahr" creationdate="20201221T034516Z">
+        <seg>ZOO プロジェクトは、 Web Processing Service を作成してチェーン化のための開発者フレンドリーな Web Processing Service (WPS) フレームワークを提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33037,8 +33045,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Zoo Project</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T034502Z" creationid="miurahr" creationdate="20201221T034502Z">
-        <seg>Zoo Project</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T145829Z" creationid="miurahr" creationdate="20201221T034502Z">
+        <seg>Zoo プロジェクト</seg>
       </tuv>
     </tu>
     <tu>
