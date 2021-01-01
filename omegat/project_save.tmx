@@ -3976,8 +3976,8 @@
       <tuv lang="en-US">
         <seg>A half hour `presentation &lt;presentation.html&gt;`_, highlighting all OSGeoLive applications, is available with slides, script, and `abstract &lt;presentation/abstract.txt&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>全ての OSGeoLive アプリケーションを取り上げた30分間の `プレゼンテーション &lt;presentation.html&gt;`_ がスライドや原稿、 `アブストラクト &lt;presentation/abstract.txt&gt;`_ とともに、利用可能です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T125843Z">
+        <seg>全ての OSGeoLive アプリケーションを取り上げた30分間の `プレゼンテーション &lt;presentation.html&gt;`_ がスライドや原稿、 `要約 &lt;presentation/abstract.txt&gt;`_ とともに、利用可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22337,8 +22337,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Reboot computer.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T053027Z" creationid="miurahr" creationdate="20201102T053006Z">
-        <seg>コンピュータを再起動。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T125515Z" creationid="miurahr" creationdate="20201102T053006Z">
+        <seg>コンピュータを再起動</seg>
       </tuv>
     </tu>
     <tu>
@@ -25684,8 +25684,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The OSGeo Foundation is a not-for-profit supporting Geospatial Open Source Software development, promotion and `education &lt;https://www.osgeo.org/initiatives/geo-for-all/&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T053050Z" creationid="miurahr" creationdate="20201102T053050Z">
-        <seg>OSGeo 財団は、非営利で地理空間のオープンソースソフトウェアの開発、プロモーション、及び `教育 &lt;https://www.osgeo.org/initiatives/geo-for-all/&gt;`_ をサポートしています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T125449Z" creationid="miurahr" creationdate="20201102T053050Z">
+        <seg>OSGeo財団は、非営利で地理空間のオープンソースソフトウェアの開発、プロモーション、及び `教育 &lt;https://www.osgeo.org/initiatives/geo-for-all/&gt;`_ をサポートしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29317,8 +29317,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To try out the applications, simply:</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T125040Z">
-        <seg>アプリケーションを試すには、シンプルに:</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T125501Z">
+        <seg>アプリケーションを試すには、シンプルに以下の手順を実施します:</seg>
       </tuv>
     </tu>
     <tu>
