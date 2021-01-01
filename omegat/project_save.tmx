@@ -368,8 +368,8 @@
       <tuv lang="en-US">
         <seg>**Alternative Concise CC-By and attribution:**</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T080518Z" creationid="miurahr" creationdate="20201221T052947Z">
-        <seg>**代替の簡潔な CC-By and attribution:**</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T080816Z" creationid="miurahr" creationdate="20201221T052947Z">
+        <seg>**代替の簡潔な CC-By と属性:**</seg>
       </tuv>
     </tu>
     <tu>
@@ -40324,8 +40324,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>|CC-By-small| © 2011 [Your Name].</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T052947Z" creationid="miurahr" creationdate="20201221T052947Z">
-        <seg>|CC-By-small| © 2011 [Your Name].</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T080908Z" creationid="miurahr" creationdate="20201221T052947Z">
+        <seg>|CC-By-small| © 2011 [あなたの名前].</seg>
       </tuv>
     </tu>
     <tu>
