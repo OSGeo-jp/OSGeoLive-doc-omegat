@@ -26875,8 +26875,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The original work was translated from English to German.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T074302Z" creationid="miurahr" creationdate="20201221T052946Z">
-        <seg>原著は英語からドイツ語に翻訳されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T080330Z" creationid="miurahr" creationdate="20201221T052946Z">
+        <seg>The original work was translated from English to German.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40316,8 +40316,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>|CC-By-SA-med| This document includes content from the "gvSIG Quickstart" created by Simon Cropper under the Creative Commons Attribution-ShareAlike 3.0 Unported licence, https://creativecommons.org/licenses/by-sa/3.0/ available from the OSGeoLive project, :doc:`quickstart/gvsig_quickstart`, and downloaded on 25 July 2011.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T075842Z" creationid="miurahr" creationdate="20201221T052946Z">
-        <seg>|CC-By-SA-med| このドキュメントには、Simon Cropper氏がクリエイティブ・コモンズ 表示 - 継承 3.0 非移植 ライセンス (https://creativecommons.org/licenses/by-sa/3.0/) の下で作成した "gvSIG クイックスタート" のコンテツが含まれ、OSGeoLiveプロジェクトの :doc:`quickstart/gvsig_quickstart` から入手可能で、2011年7月25日にダウンロードしました。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210101T080312Z" creationid="miurahr" creationdate="20201221T052946Z">
+        <seg>|CC-By-SA-med| This document includes content from the "gvSIG Quickstart" created by Simon Cropper under the Creative Commons Attribution-ShareAlike 3.0 Unported licence, https://creativecommons.org/licenses/by-sa/3.0/ available from the OSGeoLive project, :doc:`quickstart/gvsig_quickstart`, and downloaded on 25 July 2011.</seg>
       </tuv>
     </tu>
     <tu>
