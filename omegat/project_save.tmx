@@ -4304,8 +4304,8 @@
       <tuv lang="en-US">
         <seg>Access GIS data in many file formats and spatial databases</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T125819Z" creationid="miurahr" creationdate="20201103T011954Z">
-        <seg>多くのファイル形式や空間データベースのGISデータへのアクセス</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T143639Z" creationid="miurahr" creationdate="20201103T011954Z">
+        <seg>多くのファイルフォーマットや空間データベースのGISデータへのアクセス</seg>
       </tuv>
     </tu>
     <tu>
@@ -21155,8 +21155,8 @@
       <tuv lang="en-US">
         <seg>Plug-ins for the ImageIO-EXT project allowing GeoTools to read additional raster formats from GDAL</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T142714Z" creationid="miurahr" creationdate="20201103T012108Z">
-        <seg>ImageIO-EXTプロジェクトのプラグインは、GeoTools で GDAL 経由で追加のラスタ形式を読み込めるようにしています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T143708Z" creationid="miurahr" creationdate="20201103T012108Z">
+        <seg>ImageIO-EXTプロジェクトのプラグインは、GeoTools で GDAL 経由で追加のラスタフォーマットを読み込めるようにしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21887,8 +21887,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Provide additional capabilities built using the spatial facilites of the core library.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T012137Z" creationid="miurahr" creationdate="20201103T012137Z">
-        <seg>コアライブラリのspatial facilitesを使用して構築された追加機能を提供します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T144546Z" creationid="miurahr" creationdate="20201103T012137Z">
+        <seg>コアライブラリの空間機能を使用して構築された追加機能を提供します。</seg>
       </tuv>
     </tu>
     <tu>
