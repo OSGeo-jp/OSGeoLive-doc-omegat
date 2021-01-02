@@ -14795,8 +14795,8 @@
       <tuv lang="en-US">
         <seg>In-depth documentation is available `locally &lt;http://localhost/cesium/&gt;`_ on the OSGeoLive package.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T191112Z" creationid="miurahr" creationdate="20201116T134850Z">
-        <seg>詳細なドキュメントは、OSGeoLiveパッケージ上で `ローカルに &lt;http://localhost/cesium/&gt;`_利用できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T193102Z" creationid="miurahr" creationdate="20201116T134850Z">
+        <seg>詳細なドキュメントは、OSGeoLiveパッケージ上で `ローカルに &lt;http://localhost/cesium/&gt;`_ 利用できます。</seg>
       </tuv>
     </tu>
     <tu>
