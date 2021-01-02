@@ -7792,8 +7792,8 @@
       <tuv lang="en-US">
         <seg>Clients for Web Feature Service (WFS), Web Map Service (WMS) and experimental support for Web Process Service (WPS)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T062036Z" creationid="miurahr" creationdate="20201103T062036Z">
-        <seg>Web Feature Service(WFS)、Web Map Service(WMS)、およびWeb Process Service(WPS)の試験的サポートのクライアント</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T124727Z" creationid="miurahr" creationdate="20201103T062036Z">
+        <seg>Web Feature Service (WFS)、Web Map Service (WMS) のクライアントと、Web Process Service(WPS) の試験的なサポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -19147,16 +19147,16 @@
       <tuv lang="en-US">
         <seg>OGC General Feature Model including Simple Feature support</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T063505Z" creationid="miurahr" creationdate="20201103T063505Z">
-        <seg>Simple Featureサポートを含むOGC General Feature Model</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T124114Z" creationid="miurahr" creationdate="20201103T063505Z">
+        <seg>Simple Feature サポートを含む OGC General Feature Model</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>OGC Grid Coverage representation of raster information</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T062133Z" creationid="miurahr" creationdate="20201103T062133Z">
-        <seg>ラスタ情報表現のOGC Grid Coverage</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T124316Z" creationid="miurahr" creationdate="20201103T062133Z">
+        <seg>ラスタ情報表現の OGC Grid Coverage</seg>
       </tuv>
     </tu>
     <tu>
@@ -19203,8 +19203,8 @@
       <tuv lang="en-US">
         <seg>OGC Style Layer Descriptor / Symbology Encoding data structures and rendering engine</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T085638Z" creationid="miurahr" creationdate="20201103T062201Z">
-        <seg>OGC Style Layer Descriptor / シンボロジーのエンコードデータ構造とレンダリングエンジン</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T124048Z" creationid="miurahr" creationdate="20201103T062201Z">
+        <seg>OGC Style Layer Descriptor / Symbology Encoding データ構造とレンダリングエンジン</seg>
       </tuv>
     </tu>
     <tu>
@@ -25216,8 +25216,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Support of numerous Open Geospatial Consortium (OGC) standards:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T062138Z" creationid="miurahr" creationdate="20201103T062138Z">
-        <seg>多数のオープン地理空間コンソーシアム(OGC)標準のサポート:</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T124230Z" creationid="miurahr" creationdate="20201103T062138Z">
+        <seg>多くの Open Geospatial Consortium (OGC) 標準をサポート:</seg>
       </tuv>
     </tu>
     <tu>
