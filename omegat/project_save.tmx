@@ -25734,6 +25734,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Generic Mapping Tools</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T161047Z" creationid="sanak" creationdate="20210102T161047Z">
+        <seg>包括的な地図化ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The GeoMoose measure tool allows you to: * measure a point (return the coordinates of a picked point) * measure the distance along a potentially multi-segment line * measure the area of a polygon.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T151820Z" creationid="miurahr" creationdate="20201116T132245Z">
