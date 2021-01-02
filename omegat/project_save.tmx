@@ -112,224 +112,224 @@
       <tuv lang="en-US">
         <seg>**API Interface:** JavaScript</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>**API インターフェイス:** JavaScript</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131035Z">
+        <seg>**API インタフェース:** JavaScript</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces (data):** REST (via Xapi), XML</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>**API インターフェイス (データ):** REST (Xapi 経由), XML</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131328Z">
+        <seg>**API インタフェース (データ):** REST (Xapi 経由), XML</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** C</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>**API インターフェイス:** C</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131413Z">
+        <seg>**API インタフェース:** C</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** C++</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T025251Z" creationid="miurahr" creationdate="20201220T025251Z">
-        <seg>**API インターフェイス:** C++</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131329Z" creationid="miurahr" creationdate="20201220T025251Z">
+        <seg>**API インタフェース:** C++</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** C++, Python</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>**API インターフェイス:** C++, Python</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131317Z">
+        <seg>**API インタフェース:** C++, Python</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** C++, Python, R</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T032728Z" creationid="miurahr" creationdate="20201220T032728Z">
-        <seg>**API インターフェイス:** C++, Python, R</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131411Z" creationid="miurahr" creationdate="20201220T032728Z">
+        <seg>**API インタフェース:** C++, Python, R</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** C, C++</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>**API インターフェイス:** C, C++</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131204Z">
+        <seg>**API インタフェース:** C, C++</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** C, C++, Python</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>**API インターフェイス:** C, C++, Python</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131310Z">
+        <seg>**API インタフェース:** C, C++, Python</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** C, C++, Python, Java, C#, Ruby, VB6 and Perl</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>**API インターフェイス:** C, C++, Python, Java, C#, Ruby, VB6 及び Perl</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131018Z">
+        <seg>**API インタフェース:** C, C++, Python, Java, C#, Ruby, VB6 及び Perl</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** C, C++, Python, Java, Ruby</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T071606Z" creationid="miurahr" creationdate="20201103T071606Z">
-        <seg>**API インターフェイス:** C, C++, Python, Java, Ruby</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131333Z" creationid="miurahr" creationdate="20201103T071606Z">
+        <seg>**API インタフェース:** C, C++, Python, Java, Ruby</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** C, PHP, Python, Perl, Ruby, Java, and .NET</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>**API インターフェイス:** C, PHP, Python, Perl, Ruby, Java, .NET</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131320Z">
+        <seg>**API インタフェース:** C, PHP, Python, Perl, Ruby, Java, .NET</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** C, Python, Bourne Shell</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T063902Z" creationid="miurahr" creationdate="20201103T063902Z">
-        <seg>**API インターフェイス:** C, Python, Bourne Shell</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131241Z" creationid="miurahr" creationdate="20201103T063902Z">
+        <seg>**API インタフェース:** C, Python, Bourne Shell</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** Command line</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T063729Z" creationid="miurahr" creationdate="20201103T063729Z">
-        <seg>**API インターフェイス:** Command line</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131238Z" creationid="miurahr" creationdate="20201103T063729Z">
+        <seg>**API インタフェース:** Command line</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** GeoTools, ImageIO-Ext, Java Advanced Imaging, Eclipse Rich Client Platform, Eclipse Modelling Framework</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201125T000818Z" creationid="miurahr" creationdate="20201103T002926Z">
-        <seg>**APIインターフェース:** GeoTools,ImageIO-Ext,Java Advanced Imaging,Eclipse Rich Client Platform,Eclipse Modelling Framework</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T130914Z" creationid="miurahr" creationdate="20201103T002926Z">
+        <seg>**APIインタフェース:** GeoTools,ImageIO-Ext,Java Advanced Imaging,Eclipse Rich Client Platform,Eclipse Modelling Framework</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** Java</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>**API インターフェイス:** Java</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131011Z">
+        <seg>**API インタフェース:** Java</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** Java and Javascript</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T051051Z" creationid="miurahr" creationdate="20201122T051051Z">
-        <seg>**API インターフェイス:** Java and Javascript</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131037Z" creationid="miurahr" creationdate="20201122T051051Z">
+        <seg>**API インタフェース:** Java and Javascript</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** Java; WMS</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T015959Z" creationid="miurahr" creationdate="20201220T015959Z">
-        <seg>**API インターフェイス:** Java; WMS</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131324Z" creationid="miurahr" creationdate="20201220T015959Z">
+        <seg>**API インタフェース:** Java; WMS</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** JavaScript</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T231010Z" creationid="miurahr" creationdate="20201123T231010Z">
-        <seg>**API インターフェイス:** JavaScript</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131236Z" creationid="miurahr" creationdate="20201123T231010Z">
+        <seg>**API インタフェース:** JavaScript</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** Javascript</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>**API インターフェイス:** Javascript</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131307Z">
+        <seg>**API インタフェース:** Javascript</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** Python</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T050731Z" creationid="miurahr" creationdate="20201122T050731Z">
-        <seg>**API インターフェイス:** Python</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131015Z" creationid="miurahr" creationdate="20201122T050731Z">
+        <seg>**API インタフェース:** Python</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** Python (Django)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T052159Z" creationid="miurahr" creationdate="20201122T052159Z">
-        <seg>**API インターフェイス:** Python (Django)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131201Z" creationid="miurahr" creationdate="20201122T052159Z">
+        <seg>**API インタフェース:** Python (Django)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** Python / wsgi</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T041941Z" creationid="miurahr" creationdate="20201122T041941Z">
-        <seg>**API インターフェイス:** Python / wsgi</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131305Z" creationid="miurahr" creationdate="20201122T041941Z">
+        <seg>**API インタフェース:** Python / wsgi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** Qt designer, C++, Python, D-BUS, Shell script</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T070439Z" creationid="miurahr" creationdate="20201103T070439Z">
-        <seg>**API インターフェイス:** Qt designer, C++, Python, D-BUS, Shell script</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131322Z" creationid="miurahr" creationdate="20201103T070439Z">
+        <seg>**API インタフェース:** Qt designer, C++, Python, D-BUS, Shell script</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** REST API, Python</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T061716Z" creationid="miurahr" creationdate="20201103T061716Z">
-        <seg>**API インターフェイス:** REST API, Python</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131004Z" creationid="miurahr" creationdate="20201103T061716Z">
+        <seg>**API インタフェース:** REST API, Python</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** SQL</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>**API インターフェイス:** SQL</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131331Z">
+        <seg>**API インタフェース:** SQL</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** WMS, WFS, WCS, REST</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>**API インターフェイス:** WMS, WFS, WCS, REST</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131224Z">
+        <seg>**API インタフェース:** WMS, WFS, WCS, REST</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** http, Mapbox Vector Tiles</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T051308Z" creationid="smellman" creationdate="20201103T051308Z">
-        <seg>**APIインターフェイス:** http, Mapbox Vector Tiles</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131419Z" creationid="smellman" creationdate="20201103T051308Z">
+        <seg>**API インタフェース:** http, Mapbox Vector Tiles</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**API Interfaces:** rasql, C++, Java</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T071422Z" creationid="miurahr" creationdate="20201103T071422Z">
-        <seg>**API インターフェイス:** rasql, C++, Java</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131406Z" creationid="miurahr" creationdate="20201103T071422Z">
+        <seg>**API インタフェース:** rasql, C++, Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -4704,8 +4704,8 @@
       <tuv lang="en-US">
         <seg>Administer sensors and data with an intuitive web-based interface.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T041751Z" creationid="miurahr" creationdate="20201122T041751Z">
-        <seg>直感的なWebベースのインターフェイスでセンサーとデータを管理します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131252Z" creationid="miurahr" creationdate="20201122T041751Z">
+        <seg>直感的なWebベースのインタフェースでセンサーとデータを管理します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5288,8 +5288,8 @@
       <tuv lang="en-US">
         <seg>An inbuilt demo interface</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T023338Z" creationid="miurahr" creationdate="20201220T023338Z">
-        <seg>組み込みデモ・インターフェースがあります</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T130844Z" creationid="miurahr" creationdate="20201220T023338Z">
+        <seg>組み込みデモ・インタフェースがあります</seg>
       </tuv>
     </tu>
     <tu>
@@ -8040,8 +8040,8 @@
       <tuv lang="en-US">
         <seg>Continues to grow - we are planning new features (like a commandline interface, more parsers etc.) and small improvements</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T230948Z" creationid="miurahr" creationdate="20201123T230948Z">
-        <seg>成長を続ける-新しい機能(コマンドラインインターフェイス、より多くのパーサーなど)と小さな改善を計画しています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131233Z" creationid="miurahr" creationdate="20201123T230948Z">
+        <seg>成長を続ける-新しい機能(コマンドラインインタフェース、より多くのパーサーなど)と小さな改善を計画しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8792,8 +8792,8 @@
       <tuv lang="en-US">
         <seg>Data is published via standards based interfaces, such as WMS, WFS, WCS, WPS, Tile Caching and more.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011412Z" creationid="miurahr" creationdate="20201103T011412Z">
-        <seg>データは WMS、WFS、WCS、WPS、タイルキャッシュなどの標準に基づくインターフェイス経由で配信されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131211Z" creationid="miurahr" creationdate="20201103T011412Z">
+        <seg>データは WMS、WFS、WCS、WPS、タイルキャッシュなどの標準に基づくインタフェース経由で配信されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9736,8 +9736,8 @@
       <tuv lang="en-US">
         <seg>Easily create web mapping interfaces using template applications</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T053522Z" creationid="miurahr" creationdate="20201122T053522Z">
-        <seg>テンプレートアプリケーションを使用してWebマッピングインターフェイスを簡単に作成する</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131315Z" creationid="miurahr" creationdate="20201122T053522Z">
+        <seg>テンプレートアプリケーションを使用してWebマッピングインタフェースを簡単に作成する</seg>
       </tuv>
     </tu>
     <tu>
@@ -10360,8 +10360,8 @@
       <tuv lang="en-US">
         <seg>Fast user interface for managing and visualising data</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T032749Z" creationid="miurahr" creationdate="20201220T032749Z">
-        <seg>データを管理および視覚化するための高速ユーザー・インターフェース</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T130911Z" creationid="miurahr" creationdate="20201220T032749Z">
+        <seg>データを管理および視覚化するための高速ユーザー・インタフェース</seg>
       </tuv>
     </tu>
     <tu>
@@ -11088,8 +11088,8 @@
       <tuv lang="en-US">
         <seg>Friendly graphical user interface:</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>使いやすいグラフィカルなユーザーインターフェイス:</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131341Z">
+        <seg>使いやすいグラフィカルなユーザインタフェース:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11368,8 +11368,8 @@
       <tuv lang="en-US">
         <seg>Further, the user may enter routes and waypoints allowing interface to an external autopilot for precise course following.</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T102604Z" creationid="smellman" creationdate="20201103T102604Z">
-        <seg>さらに、ユーザは、正確なコース追跡のための外部自動操縦装置へのインターフェースを可能にする経路およびウェイポイントを入力することができます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T130853Z" creationid="smellman" creationdate="20201103T102604Z">
+        <seg>さらに、ユーザは、正確なコース追跡のための外部自動操縦装置へのインタフェースを可能にする経路およびウェイポイントを入力することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12048,8 +12048,8 @@
       <tuv lang="en-US">
         <seg>GeoServer comes with a browser-based management interface and connects to multiple data sources at the back end.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011414Z" creationid="miurahr" creationdate="20201103T011414Z">
-        <seg>GeoServer は、ブラウザベースの管理インターフェイスを持ち、バックエンド側で複数のデータソースへ接続します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131213Z" creationid="miurahr" creationdate="20201103T011414Z">
+        <seg>GeoServer は、ブラウザベースの管理インタフェースを持ち、バックエンド側で複数のデータソースへ接続します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12096,8 +12096,8 @@
       <tuv lang="en-US">
         <seg>GeoStyler is an Open Source JavaScript library that enables users to style maps with the help of a Graphical User Interface.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T052249Z" creationid="miurahr" creationdate="20201122T052249Z">
-        <seg>GeoStylerはオープンソースのJavaScriptライブラリで、グラフィカルユーザインターフェイスを使用してマップのスタイルを設定できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131227Z" creationid="miurahr" creationdate="20201122T052249Z">
+        <seg>GeoStylerはオープンソースのJavaScriptライブラリで、グラフィカルユーザインタフェースを使用してマップのスタイルを設定できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12344,8 +12344,8 @@
       <tuv lang="en-US">
         <seg>Geospatial algorithms, including those from :doc:`JTS &lt;jts_overview&gt;`, can be called through GeoServer's |WPS| interface.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011727Z" creationid="miurahr" creationdate="20201103T011727Z">
-        <seg>:doc:`JTS &lt;jts_overview&gt;` に由来する地理空間アルゴリズムを、 GeoServer の |WPS| インターフェイスを経由して呼び出すことが可能です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131218Z" creationid="miurahr" creationdate="20201103T011727Z">
+        <seg>:doc:`JTS &lt;jts_overview&gt;` に由来する地理空間アルゴリズムを、 GeoServer の |WPS| インタフェースを経由して呼び出すことが可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12680,8 +12680,8 @@
       <tuv lang="en-US">
         <seg>Graphical User Interface (GUI) including support for reordering of rules, a mapview, pickers for colors and symbols and a ton more</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T230857Z" creationid="miurahr" creationdate="20201123T230857Z">
-        <seg>ルールの並べ替えサポート、Mapview、色とシンボルのピッカーなどの、グラフィカル・ユーザー・インターフェース(GUI)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T130833Z" creationid="miurahr" creationdate="20201123T230857Z">
+        <seg>ルールの並べ替えサポート、Mapview、色とシンボルのピッカーなどの、グラフィカル・ユーザー・インタフェース(GUI)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15299,8 +15299,8 @@
       <tuv lang="en-US">
         <seg>It implements various service interfaces (such as WMS-C, WMTS, TMS, Google Maps KML, Virtual Earth) in order to accelerate and optimize map image delivery.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011713Z" creationid="miurahr" creationdate="20201103T011713Z">
-        <seg>様々な (WMS-C, WMTS, TMS, Google Maps KML, Virtual Earth などの) サービスインターフェイスを実装し、地図画像配信を加速・最適化します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131215Z" creationid="miurahr" creationdate="20201103T011713Z">
+        <seg>様々な (WMS-C, WMTS, TMS, Google Maps KML, Virtual Earth などの) サービスインタフェースを実装し、地図画像配信を加速・最適化します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15331,8 +15331,8 @@
       <tuv lang="en-US">
         <seg>It is a JavaScript framework that combines the GIS functionality of `OpenLayers &lt;https://openlayers.org/&gt;`_ with the user interface of the `ExtJS &lt;https://www.sencha.com/products/extjs/&gt;`_ library provided by `Sencha &lt;https://www.sencha.com&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T224926Z" creationid="miurahr" creationdate="20201123T224926Z">
-        <seg>これは、  `OpenLayers &lt;https://openlayers.org/&gt;`_ のGIS機能と、`Sencha &lt;https://www.sencha.com&gt;`_ によって提供される  `ExtJS &lt;https://www.sencha.com/products/extjs/&gt;`_  ライブラリのユーザインターフェイスを組み合わせたJavaScriptフレームワークです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131025Z" creationid="miurahr" creationdate="20201123T224926Z">
+        <seg>これは、  `OpenLayers &lt;https://openlayers.org/&gt;`_ のGIS機能と、`Sencha &lt;https://www.sencha.com&gt;`_ によって提供される  `ExtJS &lt;https://www.sencha.com/products/extjs/&gt;`_  ライブラリのユーザインタフェースを組み合わせたJavaScriptフレームワークです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18123,8 +18123,8 @@
       <tuv lang="en-US">
         <seg>Multi-lingual user interface</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T051729Z" creationid="miurahr" creationdate="20201122T051729Z">
-        <seg>多言語のユーザーインターフェイス</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131149Z" creationid="miurahr" creationdate="20201122T051729Z">
+        <seg>多言語のユーザインタフェース</seg>
       </tuv>
     </tu>
     <tu>
@@ -20115,8 +20115,8 @@
       <tuv lang="en-US">
         <seg>Online editing of data with a seamless interface and advanced observation calculator.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T041827Z" creationid="miurahr" creationdate="20201122T041827Z">
-        <seg>シームレスなインターフェイスと先進的な観測計算機によるデータのオンライン編集</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131302Z" creationid="miurahr" creationdate="20201122T041827Z">
+        <seg>シームレスなインタフェースと先進的な観測計算機によるデータのオンライン編集</seg>
       </tuv>
     </tu>
     <tu>
@@ -25680,8 +25680,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The CSW standard defines common interfaces to discover, browse and query metadata about spatial data, web services and related resources.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T025705Z" creationid="miurahr" creationdate="20201220T025705Z">
-        <seg>CSW 標準は、空間データ、 Web サービス、および関連リソースに関するメタデータを発見、参照、および照会するための共通インターフェースを定義します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T130907Z" creationid="miurahr" creationdate="20201220T025705Z">
+        <seg>CSW 標準は、空間データ、 Web サービス、および関連リソースに関するメタデータを発見、参照、および照会するための共通インタフェースを定義します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25843,8 +25843,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The OGC Standards Baseline consists of the |OGC| standards for interfaces, encodings, profiles, application schemas, and best practice documents.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T013300Z" creationid="miurahr" creationdate="20201103T013300Z">
-        <seg>OGC Standards Baselineは、インターフェース、エンコーディング、プロファイル、アプリケーション・スキーマ、ベスト・プラクティス文書に関するOGC標準で構成されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T130849Z" creationid="miurahr" creationdate="20201103T013300Z">
+        <seg>OGC Standards Baselineは、インタフェース、エンコーディング、プロファイル、アプリケーション・スキーマ、ベスト・プラクティス文書に関するOGC標準で構成されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26467,8 +26467,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The core R interface is a command line window which provides excellent flexibility and control but tends to lengthen the time required to become a proficient user when compared to software with a graphical user interface (GUI).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T013650Z" creationid="miurahr" creationdate="20201103T013650Z">
-        <seg>R の基本インターフェイスはコマンドラインであり、高い自由度と操作性を提供しています。一方で、グラフィカル・ユーザー・インターフェイス (GUI) と比べて習熟するまでに長い時間を必要とする傾向があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131358Z" creationid="miurahr" creationdate="20201103T013650Z">
+        <seg>R の基本インタフェースはコマンドラインであり、高い自由度と操作性を提供しています。一方で、グラフィカル・ユーザー・インタフェース (GUI) と比べて習熟するまでに長い時間を必要とする傾向があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27171,8 +27171,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The project provides also a Graphical user Interface that allows for easing the daily operations and a RESTFull Web api for automatizing administration procedures.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T022222Z" creationid="miurahr" creationdate="20201122T022222Z">
-        <seg>このプロジェクトはまた、日常的な操作を容易にするグラフィカル・ユーザー・インターフェースと、管理手順を自動化するためのRESTフル Web apiも提供しています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T130946Z" creationid="miurahr" creationdate="20201122T022222Z">
+        <seg>このプロジェクトはまた、日常的な操作を容易にするグラフィカル・ユーザー・インタフェースと、管理手順を自動化するためのRESTフル Web apiも提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27499,8 +27499,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The user interface is easily configurable, and additional services can be added through a modular architecture.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T051146Z" creationid="miurahr" creationdate="20201122T051146Z">
-        <seg>ユーザインターフェイスは簡単に設定でき、モジュールアーキテクチャを使用して追加サービスを追加できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131133Z" creationid="miurahr" creationdate="20201122T051146Z">
+        <seg>ユーザインタフェースは簡単に設定でき、モジュールアーキテクチャを使用して追加サービスを追加できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28268,8 +28268,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This includes the chaining of processes, and using rendering transformations to create powerful visualisations through the WMS interface.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011833Z" creationid="miurahr" creationdate="20201103T011833Z">
-        <seg>これには、処理を連結することや、 レンダリング変換を使用したWMS インターフェイスによる強力な可視化が含まれます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131220Z" creationid="miurahr" creationdate="20201103T011833Z">
+        <seg>これには、処理を連結することや、 レンダリング変換を使用したWMS インタフェースによる強力な可視化が含まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30284,8 +30284,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>User interface components include a map panel, layer tree panel, feature grid, and an overview map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T225044Z" creationid="miurahr" creationdate="20201123T225044Z">
-        <seg>ユーザーインターフェイスコンポーネントには、マップパネル、レイヤツリーパネル、地物グリッド、および全体図マップがあります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131031Z" creationid="miurahr" creationdate="20201123T225044Z">
+        <seg>ユーザーインタフェースコンポーネントには、マップパネル、レイヤツリーパネル、地物グリッド、および全体図マップがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31988,8 +31988,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>XML based MapBook configuration file for User Interface, Source Layers and Tools.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T051346Z" creationid="miurahr" creationdate="20201122T051346Z">
-        <seg>ユーザーインターフェイス、ソースレイヤ、ツール用のXMLベースのMapBook設定ファイル。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131142Z" creationid="miurahr" creationdate="20201122T051346Z">
+        <seg>ユーザインタフェース、ソースレイヤ、ツール用のXMLベースのMapBook設定ファイル。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33028,8 +33028,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You will be presented with a web page displaying a demo interface of a GeoMoose instance.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T131945Z" creationid="miurahr" creationdate="20201116T131945Z">
-        <seg>Webページが表示され、GeoMooseインスタンスのデモインターフェイスが表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131424Z" creationid="miurahr" creationdate="20201116T131945Z">
+        <seg>Webページが表示され、GeoMooseインスタンスのデモインタフェースが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36356,8 +36356,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>gvSIG is known for its user-friendly interface and being able to access all common vector and raster formats.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T064040Z" creationid="miurahr" creationdate="20201103T064040Z">
-        <seg>gvSIGは、ユーザフレンドリなインターフェイスと、すべての一般的なベクトル形式とラスター形式にアクセスできることで知られています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131247Z" creationid="miurahr" creationdate="20201103T064040Z">
+        <seg>gvSIGは、ユーザフレンドリなインタフェースと、すべての一般的なベクトル形式とラスター形式にアクセスできることで知られています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38980,8 +38980,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>pycsw enables users to publish a catalogue of dataset descriptions (metadata) to the web, using standards based interfaces and formats, such that it can be queried and updated by catalogue clients.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T025426Z" creationid="miurahr" creationdate="20201220T025426Z">
-        <seg>pycsw により、ユーザーは、標準準拠のインターフェースとフォーマットを使用して、データ・セット記述 (メタデータ) のカタログを Webに公開することができます。これにより、カタログ・クライアントによる照会および更新が可能になります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T130857Z" creationid="miurahr" creationdate="20201220T025426Z">
+        <seg>pycsw により、ユーザーは、標準準拠のインタフェースとフォーマットを使用して、データ・セット記述 (メタデータ) のカタログを Webに公開することができます。これにより、カタログ・クライアントによる照会および更新が可能になります。</seg>
       </tuv>
     </tu>
     <tu>
