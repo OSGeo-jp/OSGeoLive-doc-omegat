@@ -6344,8 +6344,8 @@
       <tuv lang="en-US">
         <seg>Browser based editor for OpenStreetMap</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T064924Z" creationid="miurahr" creationdate="20201103T064924Z">
-        <seg>OpenStreetMap用ブラウザベースエディタ</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T175503Z" creationid="miurahr" creationdate="20201103T064924Z">
+        <seg>OpenStreetMap 用ブラウザベースエディタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -20731,8 +20731,8 @@
       <tuv lang="en-US">
         <seg>OpenStreetMap Editing</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T065012Z" creationid="miurahr" creationdate="20201103T065012Z">
-        <seg>OpenStreetMap編集</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T175554Z" creationid="miurahr" creationdate="20201103T065012Z">
+        <seg>OpenStreetMap 編集</seg>
       </tuv>
     </tu>
     <tu>
@@ -26939,8 +26939,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The iD editor is a great way to edit small and easy changes that don’t require the advanced features of the more advanced :doc:`JOSM &lt;josm_overview&gt;` editor.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T141143Z" creationid="miurahr" creationdate="20201103T065008Z">
-        <seg>iDエディタは、より高度な  :doc:`JOSM &lt;josm_overview&gt;` エディタの高機能を必要としない、小さくて簡単な変更を編集するときに、優れた方法です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T175548Z" creationid="miurahr" creationdate="20201103T065008Z">
+        <seg>iD エディタは、より高度な :doc:`JOSM &lt;josm_overview&gt;` エディタの高機能を必要としない、小さくて簡単な変更を編集するときに、優れた方法です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26955,8 +26955,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The iD editor is the de facto, browser-based `OpenStreetMap &lt;https://www.openstreetmap.org&gt;`_ editor.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T064917Z" creationid="miurahr" creationdate="20201103T064917Z">
-        <seg>iDエディタは、事実上のOSM標準のブラウザベースの`OpenStreetMap &lt;https://www.openstreetmap.org&gt;`_エディタです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T175512Z" creationid="miurahr" creationdate="20201103T064917Z">
+        <seg>iD エディタは、事実上のOSM標準のブラウザベースの `OpenStreetMap &lt;https://www.openstreetmap.org&gt;`_ エディタです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31420,8 +31420,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Web Map Tile Service (for basemaps)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T065027Z" creationid="miurahr" creationdate="20201103T065027Z">
-        <seg>Webマップタイルサービス(ベースマップの場合)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T175625Z" creationid="miurahr" creationdate="20201103T065027Z">
+        <seg>Web Map Tile Service (ベースマップの場合)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36812,8 +36812,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>iD editor</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T064927Z" creationid="miurahr" creationdate="20201103T064927Z">
-        <seg>iDエディタ</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T175445Z" creationid="miurahr" creationdate="20201103T064927Z">
+        <seg>iD エディタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -36836,8 +36836,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>iD is fast and easy to use, and allows mapping from various data sources such as satellite and aerial imageries, GPS, Field Papers or Mapillary.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T051309Z" creationid="miurahr" creationdate="20201103T051309Z">
-        <seg>iDは高速で使いやすく、衛星や航空画像、GPS、Field Papers、Mapillaryなどのさまざまなデータソースからのマッピングが可能です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T175527Z" creationid="miurahr" creationdate="20201103T051309Z">
+        <seg>iD は高速で使いやすく、衛星や航空画像、GPS、Field Papers、Mapillary などのさまざまなデータソースからのマッピングが可能です。</seg>
       </tuv>
     </tu>
     <tu>
