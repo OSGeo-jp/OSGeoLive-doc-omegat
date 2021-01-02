@@ -456,8 +456,8 @@
       <tuv lang="en-US">
         <seg>**Community Support:** Forum at https://groups.google.com/forum/?hl=en#!forum/cesium-dev</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T050205Z" creationid="miurahr" creationdate="20201122T050205Z">
-        <seg>**コミュニティサポート:** Forum at https://groups.google.com/forum/?hl=en#!forum/cesium-dev</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T060445Z" creationid="miurahr" creationdate="20201122T050205Z">
+        <seg>**コミュニティサポート:** フォーラムはこちら https://groups.google.com/forum/?hl=en#!forum/cesium-dev</seg>
       </tuv>
     </tu>
     <tu>
@@ -2000,8 +2000,8 @@
       <tuv lang="en-US">
         <seg>**Supported Platforms:**  Platform independent, depends only on a browser which supports WebGL</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T050154Z" creationid="miurahr" creationdate="20201122T050154Z">
-        <seg>**対応プラットフォーム:**  Platform independent, depends only on a browser which supports WebGL</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T060411Z" creationid="miurahr" creationdate="20201122T050154Z">
+        <seg>**対応プラットフォーム:** プラットフォームに依存せず、WebGLをサポートするブラウザにのみ依存</seg>
       </tuv>
     </tu>
     <tu>
