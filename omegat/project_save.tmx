@@ -5016,8 +5016,8 @@
       <tuv lang="en-US">
         <seg>Algorithms may be as simple as determining the difference in influenza cases between two different seasons, or as complicated as a global climate change model.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T041524Z" creationid="miurahr" creationdate="20201103T041509Z">
-        <seg>アルゴリズムは、2つの異なる季節の間のインフルエンザ症例の差を決定するような単純なものであっても、地球規模の気候変動モデルのような複雑なものであってもかまいません。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T051943Z" creationid="miurahr" creationdate="20201103T041509Z">
+        <seg>アルゴリズムは、2つの異なる季節の間のインフルエンザ症例の差を決定するようなシンプルなものであっても、地球規模の気候変動モデルのような複雑なものであってもかまいません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25512,8 +25512,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The 52°North |WPS| enables web access to geospatial processing algorithms provided by Sextante, ArcGIS Server, R, GRASS 7, or custom developed functions.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T041517Z" creationid="miurahr" creationdate="20201103T041517Z">
-        <seg>52°North WPSは、Sextante、ArcGIS Server、R、GRASS7、またはカスタム開発関数によって提供される空間処理アルゴリズムへのWebアクセスを可能にします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T051441Z" creationid="miurahr" creationdate="20201103T041517Z">
+        <seg>52°North |WPS| は、Sextante、ArcGIS Server、R、GRASS 7、または独自に開発した機能によって提供される空間処理アルゴリズムへのWebアクセスを可能にします。</seg>
       </tuv>
     </tu>
     <tu>
