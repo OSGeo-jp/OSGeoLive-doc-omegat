@@ -3040,16 +3040,16 @@
       <tuv lang="en-US">
         <seg>2-D EO Coverages derived from gmlcov:RectifiedGridCoverage</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T050608Z" creationid="miurahr" creationdate="20201122T050528Z">
-        <seg>gmlcov:RectifiedGridCoverageから派生した2-D EOカバレッジ</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T071042Z" creationid="miurahr" creationdate="20201122T050528Z">
+        <seg>gmlcov:RectifiedGridCoverage から派生した2-D EOカバレッジ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>2-D EO Coverages derived from gmlcov:ReferenceableGridCoverage</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T050559Z" creationid="miurahr" creationdate="20201122T050559Z">
-        <seg>gmlcov:ReferenceableGridCoverageから派生した2-D EOカバレッジ</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T071053Z" creationid="miurahr" creationdate="20201122T050559Z">
+        <seg>gmlcov:ReferenceableGridCoverage から派生した2-D EOカバレッジ</seg>
       </tuv>
     </tu>
     <tu>
@@ -9702,6 +9702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Earth Observation data currently supported includes 2D raster data generally acquired using sensors on satellites or aircrafts and including information about the time of acquisition and the footprint on planet Earth.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T071318Z" creationid="sanak" creationdate="20210102T071318Z">
+        <seg>現在サポートされている地球観測データには、衛星や航空機のセンサを用いて一般的に取得された2Dラスタデータが含まれ、取得時刻や地球のフットプリントに関する情報が含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Earth at Night</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T000812Z" creationid="miurahr" creationdate="20201117T000812Z">
@@ -15461,6 +15469,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T053446Z" creationid="miurahr" creationdate="20201122T053446Z">
         <seg>これは、マップと地物のサービスを維持、分類、および監視する必要があるSDI管理者向けのツールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is typically used to monitor Earth's natural and built environment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T071621Z" creationid="sanak" creationdate="20210102T071621Z">
+        <seg>一般的には、地球の自然や人工的な環境を監視するために使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21791,8 +21807,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Protocols supported are: KVP and XML/POST (used together with SOAP2POST Proxy to provide also XML/SOAP)</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T070530Z" creationid="miurahr" creationdate="20201122T050513Z">
-        <seg>サポートされているプロトコルは: KVPとXML/POST(SOAP2POSTプロキシと一緒に使用してXML/SOAPも提供)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T071012Z" creationid="miurahr" creationdate="20201122T050513Z">
+        <seg>サポートされているプロトコル: KVP と XML/POST (SOAP2POST プロキシと一緒に使用して XML/SOAP も提供)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21839,8 +21855,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Publish data via |OGC|</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T070611Z" creationid="miurahr" creationdate="20201122T050447Z">
-        <seg>|OGC| 経由でのデータパブリッシュ</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T070811Z" creationid="miurahr" creationdate="20201122T050447Z">
+        <seg>|OGC| 経由でのデータ公開</seg>
       </tuv>
     </tu>
     <tu>
@@ -21871,8 +21887,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Publish using the following formats and groupings:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T050518Z" creationid="miurahr" creationdate="20201122T050518Z">
-        <seg>次の形式とグループ分けを使用してパブリッシュする:</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T071035Z" creationid="miurahr" creationdate="20201122T050518Z">
+        <seg>次の形式とグループ分けを使用したパブリッシュ:</seg>
       </tuv>
     </tu>
     <tu>
