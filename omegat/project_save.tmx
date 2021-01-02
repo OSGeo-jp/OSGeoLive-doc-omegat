@@ -1696,8 +1696,8 @@
       <tuv lang="en-US">
         <seg>**Support:** Issues on https://github.com/geostyler/geostyler</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T231015Z" creationid="miurahr" creationdate="20201123T231015Z">
-        <seg>**サポート:** Issues on https://github.com/geostyler/geostyler</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T084748Z" creationid="miurahr" creationdate="20201123T231015Z">
+        <seg>**サポート:** https://github.com/geostyler/geostyler の Issues</seg>
       </tuv>
     </tu>
     <tu>
@@ -1712,8 +1712,8 @@
       <tuv lang="en-US">
         <seg>**Support:** `Communication and Support &lt;http://docs.geotools.org/latest/userguide/welcome/support.html&gt;`_</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T012315Z" creationid="miurahr" creationdate="20201103T012315Z">
-        <seg>**サポート:** `Communication and Support &lt;http://docs.geotools.org/latest/userguide/welcome/support.html&gt;`_</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T084922Z" creationid="miurahr" creationdate="20201103T012315Z">
+        <seg>**サポート:** `コミュニケーションとサポート &lt;http://docs.geotools.org/latest/userguide/welcome/support.html&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
@@ -2032,8 +2032,8 @@
       <tuv lang="en-US">
         <seg>**Supported Platforms:** Cross Platform Java 8,9,10</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T012258Z" creationid="miurahr" creationdate="20201103T012258Z">
-        <seg>**対応OS:** Cross Platform Java 8,9,10</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T084907Z" creationid="miurahr" creationdate="20201103T012258Z">
+        <seg>**対応OS:** クロスプラットフォーム Java 8,9,10</seg>
       </tuv>
     </tu>
     <tu>
@@ -12192,8 +12192,8 @@
       <tuv lang="en-US">
         <seg>GeoTools_Support</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T062032Z" creationid="miurahr" creationdate="20201103T062032Z">
-        <seg>GeoTools_サポート</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T085012Z" creationid="miurahr" creationdate="20201103T062032Z">
+        <seg>GeoTools サポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -14955,8 +14955,8 @@
       <tuv lang="en-US">
         <seg>Integrated Geometry support provided by `JTS Topology Suite (JTS) &lt;https://sourceforge.net/projects/jts-topo-suite/&gt;`_</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T140440Z" creationid="miurahr" creationdate="20201103T011924Z">
-        <seg>統合されたジオメトリのサポートは、`JTS Topology Suite (JTS) &lt;https://sourceforge.net/projects/jts-topo-suite/&gt;`_ によって提供されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T085058Z" creationid="miurahr" creationdate="20201103T011924Z">
+        <seg>統合されたジオメトリのサポートは、 `JTS Topology Suite (JTS) &lt;https://sourceforge.net/projects/jts-topo-suite/&gt;`_ によって提供されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19467,8 +19467,8 @@
       <tuv lang="en-US">
         <seg>OSGeoLive applications which include GeoTools include: :doc:`52nSOS_overview`, :doc:`52nWPS_overview`, AtlasStyler, :doc:`geomajas_overview`, Geopublisher, :doc:`geoserver_overview`, and :doc:`udig_overview`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011857Z" creationid="miurahr" creationdate="20201103T011857Z">
-        <seg>OSGeoLive のアプリケーションで  GeoTools を利用しているものは以下となります: :doc:`52nSOS_overview`, :doc:`52nWPS_overview`, AtlasStyler, :doc:`geomajas_overview`, Geopublisher, :doc:`geoserver_overview`, 及び :doc:`udig_overview`</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T085258Z" creationid="miurahr" creationdate="20201103T011857Z">
+        <seg>OSGeoLive のアプリケーションで  GeoTools を利用しているものには: :doc:`52nSOS_overview`, :doc:`52nWPS_overview`, AtlasStyler, :doc:`geomajas_overview`, Geopublisher, :doc:`geoserver_overview`, 及び :doc:`udig_overview` があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40710,6 +40710,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|KML|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OGC|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T084635Z" creationid="sanak" creationdate="20210102T084635Z">
+        <seg>|OGC|</seg>
       </tuv>
     </tu>
     <tu>
