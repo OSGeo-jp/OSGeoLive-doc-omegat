@@ -23232,8 +23232,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Scripts are often used to automate processing steps but there are GUIs, the leading one being RStudio (https://rstudio.com).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T013709Z" creationid="miurahr" creationdate="20201103T013709Z">
-        <seg>処理を自動化するためのスクリプトが頻繁に利用されており、また、Rの GUI 環境として主要なものに RStudio  (https://rstudio.com) があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T054316Z" creationid="miurahr" creationdate="20201103T013709Z">
+        <seg>処理を自動化するためのスクリプトが頻繁に利用されており、また、R の GUI 環境として主要なものに RStudio (https://rstudio.com) があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23912,8 +23912,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Several packages provide connection with other OSGeo tools and software.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T071134Z" creationid="miurahr" creationdate="20201103T071134Z">
-        <seg>いくつかのパッケージは、他のOSGeoツールやソフトウェアとの接続を提供します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T053936Z" creationid="miurahr" creationdate="20201103T071134Z">
+        <seg>いくつかのパッケージは、他の OSGeo ツールやソフトウェアとの接続を提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26595,8 +26595,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The functions available via R complement and advance capabilities found in GIS and image processing software.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T013628Z" creationid="miurahr" creationdate="20201103T013628Z">
-        <seg>Rで利用できる機能は、GISや画像処理ソフトウェアの機能を補完し、拡張します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T053915Z" creationid="miurahr" creationdate="20201103T013628Z">
+        <seg>R で利用できる機能は、GIS や画像処理ソフトウェアの機能を補完し、拡張します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32196,8 +32196,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can easily plug R with GRASS-GIS, Qgis, postgreSQL and postGIS.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T071138Z" creationid="miurahr" creationdate="20201103T071138Z">
-        <seg>RはGRASS-GIS、Qgis、PostgreSQL、postGISで簡単にプラグインできます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T054141Z" creationid="miurahr" creationdate="20201103T071138Z">
+        <seg>R は GRASS-GIS、QGIS、PostgreSQL、PostGIS に簡単に接続できます。</seg>
       </tuv>
     </tu>
     <tu>
