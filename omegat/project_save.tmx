@@ -7766,6 +7766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Client for OGC-WMS/WMTS/WFS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T082345Z" creationid="sanak" creationdate="20210102T082345Z">
+        <seg>Client for OGC-WMS/WMTS/WFS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Client-server architecture</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T040733Z" creationid="miurahr" creationdate="20201108T040733Z">
@@ -11866,6 +11874,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132517Z" creationid="miurahr" creationdate="20201116T132517Z">
         <seg>GeoMooseは、スーパータブで選択されたものの概要も返し、マップ上で選択されたフィーチャを強調表示し、選択されたフィーチャの属性テーブルを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoNetwork</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T082219Z" creationid="sanak" creationdate="20210102T082219Z">
+        <seg>GeoNetwork</seg>
       </tuv>
     </tu>
     <tu>
@@ -17705,6 +17721,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Metadata standards:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T082422Z" creationid="sanak" creationdate="20210102T082422Z">
+        <seg>メタデータ標準規格:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Meteorology and Climatology</seg>
       </tuv>
       <tuv lang="ja">
@@ -18219,8 +18243,8 @@
       <tuv lang="en-US">
         <seg>Native support for ISO19115/ISO19119/ISO19139/ISO19110 and Dublin Core formatted metadata</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T051705Z" creationid="miurahr" creationdate="20201122T051705Z">
-        <seg>ISO19115/ISO19119/ISO19139/ISO19110およびDublin Coreフォーマットのメタデータのネイティブサポート</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T082233Z" creationid="miurahr" creationdate="20201122T051705Z">
+        <seg>ISO19115/ISO19119/ISO19139/ISO19110 および Dublin Core フォーマットのメタデータのネイティブサポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -19069,6 +19093,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T061847Z" creationid="sanak" creationdate="20210102T061847Z">
         <seg>OGC Catalogue Service-Web (CSW) 2.0.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC Catalogue Service-Web (CSW) 2.0.2 ISO</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T082328Z" creationid="sanak" creationdate="20210102T082328Z">
+        <seg>OGC Catalogue Service-Web (CSW) 2.0.2 ISO</seg>
       </tuv>
     </tu>
     <tu>
@@ -20097,6 +20129,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open Archives Initiatives (OAI-PMH)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T082336Z" creationid="sanak" creationdate="20210102T082336Z">
+        <seg>Open Archives Initiatives (OAI-PMH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open Data Catalog connectivity</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T030315Z" creationid="miurahr" creationdate="20201220T030315Z">
@@ -20533,6 +20573,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T065933Z" creationid="sanak" creationdate="20210102T065933Z">
         <seg>OpenSearch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenSearch-Geo / INSPIRE Atom</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T082337Z" creationid="sanak" creationdate="20210102T082337Z">
+        <seg>OpenSearch-Geo / INSPIRE Atom</seg>
       </tuv>
     </tu>
     <tu>
@@ -22480,8 +22528,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Recently updated entries are accessible as RSS news feeds and as GeoRSS.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T051700Z" creationid="miurahr" creationdate="20201122T051700Z">
-        <seg>最近更新されたエントリは、RSSニュースフィードおよびGeoRSSとしてのアクセスできるようになりました。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T082307Z" creationid="miurahr" creationdate="20201122T051700Z">
+        <seg>最近更新されたエントリは、RSS ニュースフィードおよび GeoRSS としてアクセスできるようになりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23272,8 +23320,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Scheduled harvesting and synchronization of metadata between distributed catalogues (GeoNetwork, CSW, OGC WxS GetCapabilities, WebDav, ArcSDE, Thredds, OGC WFS Features, OAI-PMH)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T051717Z" creationid="miurahr" creationdate="20201122T051717Z">
-        <seg>配信されたカタログ(GeoNetwork、CSW、OGC WxS GetCapabilities、WebDAV、ArcSDE、Thredds、OGC WFS Features、OAI-PMH)間のメタデータのスケジュールされた収集と同期</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T082327Z" creationid="miurahr" creationdate="20201122T051717Z">
+        <seg>配信されたカタログ (GeoNetwork、CSW、OGC WxS GetCapabilities、WebDAV、ArcSDE、Thredds、OGC WFS Features、OAI-PMH) 間のメタデータのスケジュールされた収集と同期</seg>
       </tuv>
     </tu>
     <tu>
