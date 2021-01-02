@@ -5792,8 +5792,8 @@
       <tuv lang="en-US">
         <seg>At https://standards.rasdaman.com a collection of interactive demos is available.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T014425Z" creationid="miurahr" creationdate="20201103T014425Z">
-        <seg>https://standards.rasdaman.comでは、対話型デモのコレクションが利用できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T184551Z" creationid="miurahr" creationdate="20201103T014425Z">
+        <seg>https://standards.rasdaman.com では、対話型デモのコレクションが利用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12448,8 +12448,8 @@
       <tuv lang="en-US">
         <seg>Geostatistics: modules for variogram fitting and kriging</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T032659Z" creationid="miurahr" creationdate="20201220T032659Z">
-        <seg>Geostatistics: modules for variogram fitting and kriging</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T184856Z" creationid="miurahr" creationdate="20201220T032659Z">
+        <seg>地球統計学: バリオグラムのフィッティングおよびクリギング用モジュール</seg>
       </tuv>
     </tu>
     <tu>
@@ -22255,8 +22255,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>QGIS Server is usually run as CGI/FastCGI module within the Apache Webserver.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T003137Z" creationid="miurahr" creationdate="20201103T003137Z">
-        <seg>QGISサーバーは通常、Apache Webserver内でCGI/FastCGIモジュールとして実行されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T184250Z" creationid="miurahr" creationdate="20201103T003137Z">
+        <seg>QGIS サーバは通常、Apache Webserver 内で CGI/FastCGI モジュールとして実行されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22271,8 +22271,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>QGIS Server provides web map and feature services (WMS &amp; WFS) using the same libraries as the GIS (QGIS) desktop application.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T183835Z" creationid="miurahr" creationdate="20201103T003126Z">
-        <seg>QGIS サーバは、GIS(QGIS)デスクトップアプリケーションと同じライブラリを使用して、Webマップおよびフィーチャサービス(WMS &amp; WFS)を提供します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T184318Z" creationid="miurahr" creationdate="20201103T003126Z">
+        <seg>QGIS サーバは、GIS (QGIS)デスクトップアプリケーションと同じライブラリを使用して、Webマップおよびフィーチャサービス(WMS &amp; WFS)を提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22488,8 +22488,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>RESTful API with content negotiation (including OpenAPI 3 descriptor)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T015512Z" creationid="miurahr" creationdate="20201103T015512Z">
-        <seg>コンテンツネゴシエーションを持つ(OpenAPI 3記述子を含む)RESTful API</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T184746Z" creationid="miurahr" creationdate="20201103T015512Z">
+        <seg>コンテンツネゴシエーションを持つ (OpenAPI 3記述子を含む) RESTful API</seg>
       </tuv>
     </tu>
     <tu>
@@ -38860,8 +38860,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>parallelization and "tile streaming" for unlimited scalability from laptop to cluster and cloud</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T071314Z" creationid="miurahr" creationdate="20201103T071314Z">
-        <seg>並列化と"タイルストリーミング"により、ノートパソコンからクラスタやクラウドまで無制限の拡張性を実現</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T184651Z" creationid="miurahr" creationdate="20201103T071314Z">
+        <seg>並列化と "タイルストリーミング" により、ノートパソコンからクラスタやクラウドまで無制限の拡張性を実現</seg>
       </tuv>
     </tu>
     <tu>
