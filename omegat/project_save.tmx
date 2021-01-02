@@ -19337,6 +19337,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OGC Style Layer Descriptor (SLD)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T185227Z" creationid="sanak" creationdate="20210102T185227Z">
+        <seg>OGC Style Layer Descriptor (SLD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OGC Style Layer Descriptor / Symbology Encoding data structures and rendering engine</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T124048Z" creationid="miurahr" creationdate="20201103T062201Z">
