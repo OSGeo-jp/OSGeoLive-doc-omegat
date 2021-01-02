@@ -2470,6 +2470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Website:** https://inspire.ec.europa.eu/about-inspire/563</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T175834Z" creationid="sanak" creationdate="20210102T175834Z">
+        <seg>**Webサイト:** https://inspire.ec.europa.eu/about-inspire/563</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Website:** https://josm.openstreetmap.de</seg>
       </tuv>
       <tuv lang="ja">
@@ -13418,6 +13426,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>INSPIRE View Service 準拠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INSPIRE is based on the infrastructures for spatial information established and operated by the 27 Member States of the European Union.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T175749Z" creationid="sanak" creationdate="20210102T175749Z">
+        <seg>INSPIRE is based on the infrastructures for spatial information established and operated by the 27 Member States of the European Union.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26275,8 +26291,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The `ASPRS LAS format`_ is a sequential binary format used to store data from LiDAR sensors and by LiDAR processing software for data interchange and archival.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T070005Z" creationid="miurahr" creationdate="20201103T070005Z">
-        <seg>`ASPRS LAS format`_ は LiDAR センサや LiDAR 処理ソフトウェアがデータの保存、交換，アーカイブに使用しているシーケンシャルなバイナリフォーマットです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T180649Z" creationid="miurahr" creationdate="20201103T070005Z">
+        <seg>`ASPRS LAS フォーマット`_ は LiDAR センサや LiDAR 処理ソフトウェアがデータの保存、交換，アーカイブに使用しているシーケンシャルなバイナリフォーマットです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26309,14 +26325,6 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T151315Z" creationid="miurahr" creationdate="20201103T054653Z">
         <seg>`GeoExtのホームページ &lt;https://geoext.github.io/geoext3/&gt;`_ には完全な `APIドキュメント &lt;https://geoext.github.io/geoext3/v3.1.0/docs&gt;`_ と例があります。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The `INSPIRE Directive &lt;https://inspire.ec.europa.eu&gt;`__ aims to create a European Union spatial data infrastructure (SDI) for the purposes of environmental policies.</seg>
-      </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T022023Z" creationid="miurahr" creationdate="20201220T022023Z">
-        <seg>The `INSPIRE Directive &lt;https://inspire.ec.europa.eu&gt;`__ aims to create a European Union spatial data infrastructure (SDI) for the purposes of environmental policies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28142,14 +28150,6 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T053141Z" creationid="miurahr" creationdate="20201122T053141Z">
         <seg>このプロジェクトはOSGeoLive仮想マシンディスク(VMDK)にのみ含まれています</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>This European SDI enables the sharing of environmental spatial information among public sector organisations, facilitates public access to spatial information and assist in policy-making across boundaries.</seg>
-      </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T022037Z" creationid="miurahr" creationdate="20201220T022037Z">
-        <seg>This European SDI enables the sharing of environmental spatial information among public sector organisations, facilitates public access to spatial information and assist in policy-making across boundaries.</seg>
       </tuv>
     </tu>
     <tu>
