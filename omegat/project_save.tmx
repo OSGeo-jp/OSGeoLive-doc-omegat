@@ -11494,6 +11494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GML, GMLCOV, EO-O&amp;M</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T065906Z" creationid="sanak" creationdate="20210102T065906Z">
+        <seg>GML, GMLCOV, EO-O&amp;M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GMT</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T021606Z" creationid="miurahr" creationdate="20201220T021606Z">
@@ -12066,6 +12074,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T052308Z" creationid="miurahr" creationdate="20201122T052308Z">
         <seg>GeoStylerは、マップスタイル用のUIコンポーネントのセットを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoTIFF</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T070027Z" creationid="sanak" creationdate="20210102T070027Z">
+        <seg>GeoTIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -20489,6 +20505,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OpenSearch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T065933Z" creationid="sanak" creationdate="20210102T065933Z">
+        <seg>OpenSearch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OpenStreetMap</seg>
       </tuv>
       <tuv lang="ja">
@@ -21759,16 +21783,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Proposed extensions to WCS including: GeoTIFF encoding, predefined projections (CRSs), scaling, and interpolation.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T050505Z" creationid="miurahr" creationdate="20201122T050505Z">
-        <seg>提案されているWCSの拡張:GeoTIFFエンコーディング、定義済み投影法(CRS)、スケーリング、補間。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T070439Z" creationid="miurahr" creationdate="20201122T050505Z">
+        <seg>提案されているWCSの拡張: GeoTIFFエンコーディング、定義済み投影法(CRS)、スケーリング、補間。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Protocols supported are: KVP and XML/POST (used together with SOAP2POST Proxy to provide also XML/SOAP)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T050513Z" creationid="miurahr" creationdate="20201122T050513Z">
-        <seg>サポートされているプロトコルは:KVPとXML/POST(SOAP2POSTプロキシと一緒に使用してXML/SOAPも提供)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T070530Z" creationid="miurahr" creationdate="20201122T050513Z">
+        <seg>サポートされているプロトコルは: KVPとXML/POST(SOAP2POSTプロキシと一緒に使用してXML/SOAPも提供)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21815,8 +21839,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Publish data via |OGC|</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T050447Z" creationid="miurahr" creationdate="20201122T050447Z">
-        <seg>|OGC| 経由でデータを公開する</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T070611Z" creationid="miurahr" creationdate="20201122T050447Z">
+        <seg>|OGC| 経由でのデータパブリッシュ</seg>
       </tuv>
     </tu>
     <tu>
@@ -22480,8 +22504,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Register EO data archives</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T050435Z" creationid="miurahr" creationdate="20201122T050435Z">
-        <seg>EOデータアーカイブを登録する</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T070249Z" creationid="miurahr" creationdate="20201122T050435Z">
+        <seg>EOデータアーカイブの登録</seg>
       </tuv>
     </tu>
     <tu>
@@ -30428,8 +30452,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>View, filter, subset, and download EO data</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T050430Z" creationid="miurahr" creationdate="20201122T050430Z">
-        <seg>EOデータを表示、フィルタ、サブセット作成そしてダウンロードができます</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T070239Z" creationid="miurahr" creationdate="20201122T050430Z">
+        <seg>EOデータの表示、フィルタ、サブセット作成、およびダウンロード</seg>
       </tuv>
     </tu>
     <tu>
@@ -30562,6 +30586,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>WCS, EO-WCS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T065900Z" creationid="sanak" creationdate="20210102T065900Z">
+        <seg>WCS, EO-WCS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>WFS-T Service</seg>
       </tuv>
       <tuv lang="ja">
@@ -30610,6 +30642,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>WMS, EO-WMS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T065902Z" creationid="sanak" creationdate="20210102T065902Z">
+        <seg>WMS, EO-WMS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>WMS, WFS, WMTS, TMS, OSM, Google Maps, Shape, PostGIS, Oracle, JDBC, …)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T050841Z" creationid="miurahr" creationdate="20201122T050841Z">
@@ -30622,6 +30662,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>WMTS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WPS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T065904Z" creationid="sanak" creationdate="20210102T065904Z">
+        <seg>WPS</seg>
       </tuv>
     </tu>
     <tu>
@@ -40842,6 +40890,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|WCS| 1.0, 1.1 and 2.0 &amp; proposed EO-WCS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T070111Z" creationid="sanak" creationdate="20210102T070111Z">
+        <seg>|WCS| 1.0, 1.1 および 2.0 と 提案されている EO-WCS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|WFS|</seg>
       </tuv>
       <tuv lang="ja">
@@ -40894,6 +40950,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|WMS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|WMS| &amp; EO-WMS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T070043Z" creationid="sanak" creationdate="20210102T070043Z">
+        <seg>|WMS| および EO-WMS</seg>
       </tuv>
     </tu>
     <tu>
