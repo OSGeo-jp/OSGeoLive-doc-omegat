@@ -3800,8 +3800,8 @@
       <tuv lang="en-US">
         <seg>A GIS client can request the actual raster data for use in spatial analysis.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011653Z" creationid="miurahr" creationdate="20201103T011653Z">
-        <seg> GISクライアントはラスタの実データを要求して空間解析に使うことができます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T083503Z" creationid="miurahr" creationdate="20201103T011653Z">
+        <seg>GISクライアントはラスタの実データを要求して空間解析に使うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12072,8 +12072,8 @@
       <tuv lang="en-US">
         <seg>GeoServer supports the majority of the EPSG database of projections and can reproject to any of them on demand to allow clients with limited reprojection support to pass the load to the server.</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>GeoServer は EPSG データベースの主な投影法をサポートしており、オンデマンドでそれらの投影法への再投影ができます。クライアント側で再投影を制限され手いる場合にはサーバ側でその処理を行うこともできます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T083600Z">
+        <seg>GeoServer は EPSG データベースの主な投影法をサポートしており、オンデマンドでそれらの投影法への再投影ができます。クライアント側で再投影を制限されている場合にはサーバ側でその処理を行うこともできます。</seg>
       </tuv>
     </tu>
     <tu>
