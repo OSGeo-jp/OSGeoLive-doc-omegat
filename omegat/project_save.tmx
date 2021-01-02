@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-gpsprune|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T164556Z" creationid="sanak" creationdate="20210102T164556Z">
+        <seg>**ソフトウェアバージョン:** |version-gpsprune|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-grass|</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011234Z" creationid="miurahr" creationdate="20201103T011234Z">
@@ -2050,6 +2058,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T070433Z" creationid="miurahr" creationdate="20201103T010444Z">
         <seg>**対応プラットフォーム:** GNU/Linux, Mac OSX, MS Windows, Maemo 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Supported Platforms:** GNU/Linux, Mac OSX, Windows</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T164611Z" creationid="sanak" creationdate="20210102T164611Z">
+        <seg>**対応プラットフォーム:** GNU/Linux, Mac OSX, Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -3410,6 +3426,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T063747Z" creationid="miurahr" creationdate="20201103T063747Z">
         <seg>:doc:`クイックスタート文書 &lt;../quickstart/gmt_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/gpsprune_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T164627Z" creationid="sanak" creationdate="20210102T164627Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/gpsprune_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -5874,6 +5898,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051108Z" creationid="smellman" creationdate="20201103T051108Z">
         <seg>データソース内のレイヤーの自動検出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Automatic correlation of photographs and audio files with the loaded data using timestamps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T164334Z" creationid="sanak" creationdate="20210102T164334Z">
+        <seg>タイムスタンプを使用した写真およびオーディオファイルと読み込まれたデータの自動での関連付け</seg>
       </tuv>
     </tu>
     <tu>
@@ -8470,6 +8502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creation of charts such as altitude against distance, speed against time</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T164441Z" creationid="sanak" creationdate="20210102T164441Z">
+        <seg>距離に対する高度、時間に対する速度などのチャートの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creative Commons</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T115319Z">
@@ -9194,6 +9234,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T081706Z" creationid="miurahr" creationdate="20201122T051337Z">
         <seg>表示: 地図ビューア、サイドメニュー、ナビゲーション、タブ付きユーザコントロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Distances, climbs, descents, time estimates and more</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T164503Z" creationid="sanak" creationdate="20210102T164503Z">
+        <seg>距離、登り、下り、時間の見積もりなど</seg>
       </tuv>
     </tu>
     <tu>
@@ -20205,6 +20253,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T055518Z">
         <seg>オンラインヘルプ: https://wiki.openstreetmap.org/wiki/QGIS#QGIS_2:_Importing_OSM_vector_layers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Online resources such as Wikipedia, GPSies, OpenCaching.de and local weather forecasts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T164543Z" creationid="sanak" creationdate="20210102T164543Z">
+        <seg>Wikipedia、GPSies、OpenCaching.de、地域の天気予報などのオンラインリソース</seg>
       </tuv>
     </tu>
     <tu>
