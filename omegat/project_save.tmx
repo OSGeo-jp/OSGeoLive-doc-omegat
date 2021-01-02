@@ -208,8 +208,8 @@
       <tuv lang="en-US">
         <seg>**API Interfaces:** Command line</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T131238Z" creationid="miurahr" creationdate="20201103T063729Z">
-        <seg>**API インタフェース:** Command line</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T160831Z" creationid="miurahr" creationdate="20201103T063729Z">
+        <seg>**API インタフェース:** コマンドライン</seg>
       </tuv>
     </tu>
     <tu>
@@ -12728,8 +12728,8 @@
       <tuv lang="en-US">
         <seg>Gridding and contouring functions.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T013159Z" creationid="miurahr" creationdate="20201103T013159Z">
-        <seg>グリッド機能とコンタリング機能。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T160807Z" creationid="miurahr" creationdate="20201103T013159Z">
+        <seg>グリッド化と等高線機能</seg>
       </tuv>
     </tu>
     <tu>
@@ -16051,8 +16051,8 @@
       <tuv lang="en-US">
         <seg>Journal quality cartography.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T231308Z" creationid="miurahr" creationdate="20201123T231308Z">
-        <seg>学会誌品質のカートグラフィー。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T160818Z" creationid="miurahr" creationdate="20201123T231308Z">
+        <seg>学術誌品質の地図制作</seg>
       </tuv>
     </tu>
     <tu>
