@@ -4640,8 +4640,8 @@
       <tuv lang="en-US">
         <seg>Additional Geometry, Filter and Style parser/encoders available for DOM and SAX applications.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T085426Z" creationid="miurahr" creationdate="20201103T063243Z">
-        <seg>DOMおよびSAXアプリケーションで利用できる追加のジオメトリ、フィルタ、スタイルのパーサ/エンコーダ。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T151317Z" creationid="miurahr" creationdate="20201103T063243Z">
+        <seg>DOM および SAX アプリケーションで利用できる、追加のジオメトリ、フィルタ、スタイルのパーサ/エンコーダ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15875,8 +15875,8 @@
       <tuv lang="en-US">
         <seg>Java data structures and bindings provided for the following: xsd-core (xml simple types), fes, filter, gml2, gml3, kml, ows, sld, wcs, wfs, wms, wps, vpf.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T063149Z" creationid="miurahr" creationdate="20201103T063149Z">
-        <seg>次データのために提供されるJavaデータ構造とバインディング: xsd-core (xml simple types), fes, filter, gml2, gml3, kml, ows, sld, wcs, wfs, wms, wps, vpf.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T151149Z" creationid="miurahr" creationdate="20201103T063149Z">
+        <seg>Javaデータ構造とバインディングによって次の形式が利用できます: xsd-core (xml simple types), fes, filter, gml2, gml3, kml, ows, sld, wcs, wfs, wms, wps, vpf.</seg>
       </tuv>
     </tu>
     <tu>
