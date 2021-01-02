@@ -22752,8 +22752,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Read our written `tutorials &lt;https://cesium.com/docs&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T191628Z" creationid="miurahr" creationdate="20201116T134812Z">
-        <seg>私たちが書いた `チュートリアル &lt;https://cesium.com/docs&gt;`_ をお読みください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T192728Z" creationid="miurahr" creationdate="20201116T134812Z">
+        <seg>`チュートリアル &lt;https://cesium.com/docs&gt;`_ をお読みください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32596,8 +32596,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can develop some quick applications using the `Sandcastle website &lt;https://sandcastle.cesium.com/index.html&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T190720Z" creationid="miurahr" creationdate="20201116T134822Z">
-        <seg>`Sandcastle Webサイト &lt;https://sandcastle.cesium.com/index.html&gt;`_ を使用して、いくつかのクイックアプリケーションを開発できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T192807Z" creationid="miurahr" creationdate="20201116T134822Z">
+        <seg>`Sandcastle Webサイト &lt;https://sandcastle.cesium.com/index.html&gt;`_ を使用して、簡単なアプリケーションを開発できます。</seg>
       </tuv>
     </tu>
     <tu>
