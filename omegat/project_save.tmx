@@ -5816,8 +5816,8 @@
       <tuv lang="en-US">
         <seg>Attribute and spatial filters using OGC Filter Encoding specification</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011949Z" creationid="miurahr" creationdate="20201103T011949Z">
-        <seg>OGC Filter Encoding仕様を使用する属性および空間フィルタ</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T091148Z" creationid="miurahr" creationdate="20201103T011949Z">
+        <seg>OGC Filter Encoding 仕様を使用する属性および空間フィルタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12184,8 +12184,8 @@
       <tuv lang="en-US">
         <seg>GeoTools is used by a number of projects including web services, command line tools and desktop applications.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011846Z" creationid="miurahr" creationdate="20201103T011846Z">
-        <seg>GeoTools は Web サービスやコマンドライン、デスクトップアプリケーションなどを含むいくつかのプロジェクトで利用されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T090855Z" creationid="miurahr" creationdate="20201103T011846Z">
+        <seg>GeoTools は Web サービスやコマンドラインツール、デスクトップアプリケーションなど、さまざまなプロジェクトで利用されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19467,8 +19467,8 @@
       <tuv lang="en-US">
         <seg>OSGeoLive applications which include GeoTools include: :doc:`52nSOS_overview`, :doc:`52nWPS_overview`, AtlasStyler, :doc:`geomajas_overview`, Geopublisher, :doc:`geoserver_overview`, and :doc:`udig_overview`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T085258Z" creationid="miurahr" creationdate="20201103T011857Z">
-        <seg>OSGeoLive のアプリケーションで  GeoTools を利用しているものには: :doc:`52nSOS_overview`, :doc:`52nWPS_overview`, AtlasStyler, :doc:`geomajas_overview`, Geopublisher, :doc:`geoserver_overview`, 及び :doc:`udig_overview` があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T090951Z" creationid="miurahr" creationdate="20201103T011857Z">
+        <seg>OSGeoLive のアプリケーションで  GeoTools を利用しているのは次のものです: :doc:`52nSOS_overview`, :doc:`52nWPS_overview`, AtlasStyler, :doc:`geomajas_overview`, Geopublisher, :doc:`geoserver_overview`, 及び :doc:`udig_overview` 。</seg>
       </tuv>
     </tu>
     <tu>
