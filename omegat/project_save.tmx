@@ -4024,8 +4024,8 @@
       <tuv lang="en-US">
         <seg>A map composition interface will display.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T143013Z" creationid="miurahr" creationdate="20201116T143013Z">
-        <seg>マップ合成インターフェイスが表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131520Z" creationid="miurahr" creationdate="20201116T143013Z">
+        <seg>マップ合成インタフェースが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7168,8 +7168,8 @@
       <tuv lang="en-US">
         <seg>Click :menuselection:`Geospatial --&gt; Webservices --&gt; istSOS` to open the Web Admin interface.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T083604Z" creationid="miurahr" creationdate="20201122T023204Z">
-        <seg>:menuselection:`Geospatial --&gt; Webservices --&gt; istSOS` をクリックして、Web Adminインターフェイスを開きます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131525Z" creationid="miurahr" creationdate="20201122T023204Z">
+        <seg>:menuselection:`Geospatial --&gt; Webservices --&gt; istSOS` をクリックして、Web Adminインタフェースを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11104,8 +11104,8 @@
       <tuv lang="en-US">
         <seg>From any page in the web interface, you will see a *Sign in* link on the top-right of the page.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142113Z" creationid="miurahr" creationdate="20201116T142113Z">
-        <seg>Webインターフェイスの任意のページから、ページの右上に[*サインイン*]リンクが表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131517Z" creationid="miurahr" creationdate="20201116T142113Z">
+        <seg>Webインタフェースの任意のページから、ページの右上に[*サインイン*]リンクが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11232,8 +11232,8 @@
       <tuv lang="en-US">
         <seg>From the interface shown above, one can view and modify existing spatial layers and maps, as well as find information on other GeoNode users.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142059Z" creationid="miurahr" creationdate="20201116T142059Z">
-        <seg>上記のインターフェイスから、既存の空間レイヤとマップをビューおよび変更したり、他のGeoNodeユーザに関する情報を検索したりできます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131443Z" creationid="miurahr" creationdate="20201116T142059Z">
+        <seg>上記のインタフェースから、既存の空間レイヤとマップをビューおよび変更したり、他のGeoNodeユーザに関する情報を検索したりできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11280,8 +11280,8 @@
       <tuv lang="en-US">
         <seg>From the “services” drop down button of the admin interface (http://localhost/istsos/admin ) choose the desired instance.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T025311Z" creationid="miurahr" creationdate="20201122T025311Z">
-        <seg>管理インターフェイス(http://localhost/istsos/admin)の"services"ドロップダウンボタンから、目的のインスタンスを選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131528Z" creationid="miurahr" creationdate="20201122T025311Z">
+        <seg>管理インタフェース(http://localhost/istsos/admin)の"services"ドロップダウンボタンから、目的のインスタンスを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14603,8 +14603,8 @@
       <tuv lang="en-US">
         <seg>In this interface there is a toolbar, layer list, and map window.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T143159Z" creationid="miurahr" creationdate="20201116T143159Z">
-        <seg>このインターフェイスには、ツールバー、レイヤ一覧、マップウィンドウがあります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131522Z" creationid="miurahr" creationdate="20201116T143159Z">
+        <seg>このインタフェースには、ツールバー、レイヤ一覧、マップウィンドウがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20019,8 +20019,8 @@
       <tuv lang="en-US">
         <seg>Once signed in, the top toolbar will change to include some additional elements, namely a link to the Admin console, the name of the signed in user, a link to Sign out, and a dropdown box for changing the interface language.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T133423Z" creationid="miurahr" creationdate="20201116T133423Z">
-        <seg>サインインすると、上部のツールバーが変更され、管理コンソールへのリンク、サインインしたユーザの名前、サインアウトへのリンク、インターフェイス言語を変更するためのドロップダウンボックスなどの追加要素が表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131439Z" creationid="miurahr" creationdate="20201116T133423Z">
+        <seg>サインインすると、上部のツールバーが変更され、管理コンソールへのリンク、サインインしたユーザの名前、サインアウトへのリンク、インタフェース言語を変更するためのドロップダウンボックスなどの追加要素が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24592,8 +24592,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Spatialite-gui provides a visual interface for viewing and maintaining a spatialite database.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201121T133838Z" creationid="miurahr" creationdate="20201121T133838Z">
-        <seg>Spatialite-guiは、spatialiteデータベースを表示および維持するためのビジュアルインターフェイスを提供します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131540Z" creationid="miurahr" creationdate="20201121T133838Z">
+        <seg>Spatialite-guiは、spatialiteデータベースを表示および維持するためのビジュアルインタフェースを提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25779,8 +25779,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The Interfaces presented above shows:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T131949Z" creationid="miurahr" creationdate="20201116T131949Z">
-        <seg>上記のインターフェイスは次のものを示しています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131432Z" creationid="miurahr" creationdate="20201116T131949Z">
+        <seg>上記のインタフェースは次のものを示しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25939,8 +25939,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The OpenJUMP user interface has four (4) basic components.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T225337Z" creationid="miurahr" creationdate="20201221T225337Z">
-        <seg>OpenJUMPのユーザーインターフェイスには、4つの基本コンポーネントがあります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131531Z" creationid="miurahr" creationdate="20201221T225337Z">
+        <seg>OpenJUMPのユーザーインタフェースには、4つの基本コンポーネントがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27019,8 +27019,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The most visible aspect to OSM is the online web-tile interface from https://www.openstreetmap.org, but the maps can also be viewed, imported, or edited in many applications such as :doc:`QGIS &lt;qgis_overview&gt;` , :doc:`OpenLayers &lt;openlayers_overview&gt;`, ArcGIS and dedicated OSM applications.</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>OSMを最も目にする光景は、 https://www.openstreetmap.org のオンライン上でのウェブタイルによるインターフェイスです。しかしマップは、 :doc:`QGIS &lt;qgis_overview&gt;` や :doc:`OpenLayers &lt;openlayers_overview&gt;`, ArcGIS および 専用の OSM アプリケーションなどの、多くのアプリケーションで閲覧、インポート、編集が可能です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131658Z">
+        <seg>OSMを最も目にする光景は、 https://www.openstreetmap.org のオンライン上でのウェブタイルによるインタフェースです。しかしマップは、 :doc:`QGIS &lt;qgis_overview&gt;` や :doc:`OpenLayers &lt;openlayers_overview&gt;`, ArcGIS および 専用の OSM アプリケーションなどの、多くのアプリケーションで閲覧、インポート、編集が可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27515,8 +27515,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The various parts of the QGIS Interface are listed below.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T052525Z" creationid="miurahr" creationdate="20201102T052525Z">
-        <seg>QGISインターフェイスのさまざまな部分を次に示します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131535Z" creationid="miurahr" creationdate="20201102T052525Z">
+        <seg>QGISインタフェースのさまざまな部分を次に示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30316,8 +30316,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Users needing to script or automate queries will learn the advantages of working with a spatialite database from the command line interface.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T013806Z" creationid="miurahr" creationdate="20201122T013806Z">
-        <seg>スクリプトを使用したりクエリを自動化したりする必要があるユーザは、コマンドラインインターフェイスからspatialiteデータベースを操作する利点を学習します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131635Z" creationid="miurahr" creationdate="20201122T013806Z">
+        <seg>スクリプトを使用したりクエリを自動化したりする必要があるユーザは、コマンドラインインタフェースからspatialiteデータベースを操作する利点を学習します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31332,8 +31332,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Web based and command line administration interface</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T050439Z" creationid="miurahr" creationdate="20201122T050439Z">
-        <seg>Webベースのコマンドライン管理インターフェイス</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T131644Z" creationid="miurahr" creationdate="20201122T050439Z">
+        <seg>Webベースのコマンドライン管理インタフェース</seg>
       </tuv>
     </tu>
     <tu>
