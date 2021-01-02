@@ -984,8 +984,8 @@
       <tuv lang="en-US">
         <seg>**Licence:** `X/MIT style Open Source license &lt;https://trac.osgeo.org/gdal/wiki/FAQGeneral#WhatlicensedoesGDALOGRuse&gt;`_</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>**ライセンス:** `X/MIT style Open Source license &lt;https://trac.osgeo.org/gdal/wiki/FAQGeneral#WhatlicensedoesGDALOGRuse&gt;`_</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T072328Z">
+        <seg>**ライセンス:** `X/MIT スタイルオープンソースライセンス &lt;https://trac.osgeo.org/gdal/wiki/FAQGeneral#WhatlicensedoesGDALOGRuse&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
@@ -7848,8 +7848,8 @@
       <tuv lang="en-US">
         <seg>Command-line utilities for data translation, image warping, subsetting, and various other common tasks</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>データ変換、画像変形、切り出し、その他一般的な操作を行うコマンドラインユーティリティ。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T072050Z">
+        <seg>データ変換、画像変形、切り出し、その他一般的な操作を行うコマンドラインユーティリティ</seg>
       </tuv>
     </tu>
     <tu>
@@ -41553,8 +41553,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Implemented Standards</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>準拠している標準規格</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T072236Z">
+        <seg>実装されている標準規格</seg>
       </tuv>
     </tu>
     <tu>
