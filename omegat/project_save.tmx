@@ -10240,8 +10240,8 @@
       <tuv lang="en-US">
         <seg>Explore the `screenshot collection &lt;https://grass.osgeo.org/learn/gallery/&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T140519Z" creationid="miurahr" creationdate="20201103T011215Z">
-        <seg>`screenshot collection &lt;https://grass.osgeo.org/learn/gallery/&gt;`_ をご覧ください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T165142Z" creationid="miurahr" creationdate="20201103T011215Z">
+        <seg>`スクリーンショット集 &lt;https://grass.osgeo.org/learn/gallery/&gt;`_ をご覧ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11696,8 +11696,8 @@
       <tuv lang="en-US">
         <seg>GRASS GIS includes tools for spatial modeling, visualization of raster and vector data, management and analysis of geospatial data, and the processing of satellite and aerial imagery.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011102Z" creationid="miurahr" creationdate="20201103T011102Z">
-        <seg>GRASS GISには、空間モデリング、ラスターおよびベクトルデータの視覚化、空間データの管理と分析、衛星および航空画像の処理のためのツールが含まれています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T165631Z" creationid="miurahr" creationdate="20201103T011102Z">
+        <seg>GRASS GIS には、空間モデリング、ラスタおよびベクタデータの視覚化、地理空間データの管理と解析、衛星および航空写真画像の処理のためのツールが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15339,8 +15339,8 @@
       <tuv lang="en-US">
         <seg>It comes with a temporal framework for advanced time series processing and a Python API for rapid geospatial programming.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011105Z" creationid="miurahr" creationdate="20201103T011105Z">
-        <seg>高度な時系列処理のための時間的フレームワークと、高速空間プログラミングのためのPython APIが付属しています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T170000Z" creationid="miurahr" creationdate="20201103T011105Z">
+        <seg>高度な時系列処理のための時間的フレームワークと、高速な地理空間プログラミングのための Python API が付属しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25899,8 +25899,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The Geographic Resources Analysis Support System, commonly referred to as GRASS, is a Geographic Information System (GIS) providing powerful raster, vector, and geospatial processing engines in a single integrated software suite.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011059Z" creationid="miurahr" creationdate="20201103T011059Z">
-        <seg>GRASS(Geographic Resources Analysis Support System)は、一般にGRASSと呼ばれる地理情報システム(GIS)で単一の統合ソフトウェアスイートで提供する地理情報システム(GIS)です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T165409Z" creationid="miurahr" creationdate="20201103T011059Z">
+        <seg>GRASS（Geographic Resources Analysis Support System、地理空間情報リソースの解析補助システム） はラスタ、ベクタ、地理情報処理エンジンを一つのソフトウェアに統合した地理情報システム (GIS) です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33004,8 +33004,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You name it, there's a `tool for it &lt;https://grass.osgeo.org/grass78/manuals/keywords.html&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T064801Z" creationid="miurahr" creationdate="20201103T064801Z">
-        <seg>名前から逆引するための`ツールがあります &lt;https://grass.osgeo.org/grass78/manuals/keywords.html&gt;`_.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T165440Z" creationid="miurahr" creationdate="20201103T064801Z">
+        <seg>名前から逆引するための `ツール &lt;https://grass.osgeo.org/grass78/manuals/keywords.html&gt;`_ があります。</seg>
       </tuv>
     </tu>
     <tu>
