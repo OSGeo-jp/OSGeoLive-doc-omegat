@@ -10928,8 +10928,8 @@
       <tuv lang="en-US">
         <seg>For further details, check the `comprehensive list of OGC standards &lt;https://www.ogc.org/standards/&gt;`__.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T052445Z" creationid="miurahr" creationdate="20201103T013431Z">
-        <seg>詳細については、`包括的なOGC標準リスト &lt;https://www.ogc.org/standards/&gt;`__ を参照してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T182336Z" creationid="miurahr" creationdate="20201103T013431Z">
+        <seg>詳細については、 `包括的なOGC標準リスト &lt;https://www.ogc.org/standards/&gt;`__ を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14184,8 +14184,8 @@
       <tuv lang="en-US">
         <seg>In 2020, the `OGC API &lt;https://ogcapi.ogc.org/&gt;`_ family of standards started to be developed to make it easy for anyone to provide geospatial data to the web.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T013333Z" creationid="miurahr" creationdate="20201103T013333Z">
-        <seg>2020年に`OGC API&lt;https://ogcapi.ogc.org/&gt;`_ファミリの標準が開発され始めました。これは、空間データを誰でも簡単にWebに提供できるようにするためです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T182320Z" creationid="miurahr" creationdate="20201103T013333Z">
+        <seg>2020年に `OGC API&lt;https://ogcapi.ogc.org/&gt;`_ ファミリの標準が開発され始めました。これは、空間データを誰でも簡単にWebに提供できるようにするためです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17611,8 +17611,8 @@
       <tuv lang="en-US">
         <seg>Marble is an open source KDE Education Project program similar to `NASA World Wind &lt;https://worldwind.arc.nasa.gov/java/&gt;`_ or Google Earth.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T141252Z" creationid="miurahr" creationdate="20201103T005942Z">
-        <seg>Marbleは`NASA World Wind &lt;https://worldwind.arc.nasa.gov/java/&gt;`_ やGoogle Earthに似たオープンソースのKDE Education Projectプログラムです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T182153Z" creationid="miurahr" creationdate="20201103T005942Z">
+        <seg>Marbleは `NASA World Wind &lt;https://worldwind.arc.nasa.gov/java/&gt;`_ やGoogle Earthに似たオープンソースのKDE Education Projectプログラムです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26003,8 +26003,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The OGC Standards Baseline consists of the |OGC| standards for interfaces, encodings, profiles, application schemas, and best practice documents.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T130849Z" creationid="miurahr" creationdate="20201103T013300Z">
-        <seg>OGC Standards Baselineは、インタフェース、エンコーディング、プロファイル、アプリケーション・スキーマ、ベスト・プラクティス文書に関するOGC標準で構成されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T182246Z" creationid="miurahr" creationdate="20201103T013300Z">
+        <seg>OGC Standards Baselineは、インタフェース、エンコーディング、プロファイル、アプリケーション・スキーマ、ベスト・プラクティス文書に関する |OGC| 標準で構成されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27707,8 +27707,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The |ORM| describes these standards and the relationships between them and related ISO standards.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T013306Z" creationid="miurahr" creationdate="20201103T013306Z">
-        <seg>ORMでは、これらの規格と、関連するISO規格との関係について説明しています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T182259Z" creationid="miurahr" creationdate="20201103T013306Z">
+        <seg>|ORM| では、これらの規格と、関連するISO規格との関係について説明しています。</seg>
       </tuv>
     </tu>
     <tu>
