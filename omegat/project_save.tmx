@@ -25336,8 +25336,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Support for compliant Web Map Servers (:doc:`GeoServer &lt;geoserver_overview&gt;`, MapServer tested)</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T052251Z" creationid="miurahr" creationdate="20201103T002520Z">
-        <seg>Web MapServer標準のサポート( :doc:`GeoServer&lt;geoserver_overview&gt;` 、テスト済みMapServer)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T185216Z" creationid="miurahr" creationdate="20201103T002520Z">
+        <seg>Web MapServer標準のサポート(:doc:`GeoServer&lt;geoserver_overview&gt;` 、テスト済みMapServer)</seg>
       </tuv>
     </tu>
     <tu>
