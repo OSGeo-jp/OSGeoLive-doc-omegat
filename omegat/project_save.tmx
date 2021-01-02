@@ -9704,8 +9704,8 @@
       <tuv lang="en-US">
         <seg>Earth Observation data currently supported includes 2D raster data generally acquired using sensors on satellites or aircrafts and including information about the time of acquisition and the footprint on planet Earth.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T071318Z" creationid="sanak" creationdate="20210102T071318Z">
-        <seg>現在サポートされている地球観測データには、衛星や航空機のセンサを用いて一般的に取得された2Dラスタデータが含まれ、取得時刻や地球のフットプリントに関する情報が含まれています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T071727Z" creationid="sanak" creationdate="20210102T071318Z">
+        <seg>現在サポートされている地球観測データには、衛星や航空機のセンサを用いて一般的に取得された2Dラスタデータが含まれ、取得時刻や地球上のフットプリントに関する情報が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
