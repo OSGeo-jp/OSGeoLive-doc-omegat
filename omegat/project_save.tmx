@@ -3704,8 +3704,8 @@
       <tuv lang="en-US">
         <seg>:doc:`Quickstart documentation &lt;../quickstart/re3gistry_quickstart&gt;`</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T141950Z" creationid="smellman" creationdate="20201103T051632Z">
-        <seg>:doc: `クイックスタートドキュメント &lt;../quickstart/re3gistry_quickstart&gt;`</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T192438Z" creationid="smellman" creationdate="20201103T051632Z">
+        <seg>:doc:`クイックスタートドキュメント &lt;../quickstart/re3gistry_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -27835,8 +27835,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The |ORM| describes these standards and the relationships between them and related ISO standards.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T192100Z" creationid="miurahr" creationdate="20201103T013306Z">
-        <seg> |ORM| では、これらの規格と、関連するISO規格との関係について説明しています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T192423Z" creationid="miurahr" creationdate="20201103T013306Z">
+        <seg>|ORM| では、これらの規格と、関連するISO規格との関係について説明しています。</seg>
       </tuv>
     </tu>
     <tu>
