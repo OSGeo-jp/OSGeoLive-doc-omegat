@@ -12678,6 +12678,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GpsPrune runs on Mac OSX, Windows and Linux, and is available in over ten different languages.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T163234Z" creationid="sanak" creationdate="20210102T163234Z">
+        <seg>GpsPrune Mac OSX, Windows, Linux で動作し、10以上の異なる言語で利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GpsPrune uses GPSBabel, if available, to read data directly from a GPS receiver, and can send the edited data back to the receiver too.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T163103Z" creationid="sanak" creationdate="20210102T163103Z">
+        <seg>可能な場合には Gpsbabel を用いて GPS 受信機から直接データを読み込み、編集したデータを 受信機に送り返すこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Graphical User Interface (GUI) including support for reordering of rules, a mapview, pickers for colors and symbols and a ton more</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T130833Z" creationid="miurahr" creationdate="20201123T230857Z">
@@ -15133,6 +15149,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T130232Z" creationid="miurahr" creationdate="20201102T052949Z">
         <seg>また、サンプルデータセットやドキュメントも含んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It also has functions for correlating photos and audio files to the coordinates using the file timestamps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T162813Z" creationid="sanak" creationdate="20210102T162813Z">
+        <seg>また、ファイルのタイムスタンプを使って、写真や音声ファイルを位置座標に関連付ける機能も持っています。</seg>
       </tuv>
     </tu>
     <tu>
