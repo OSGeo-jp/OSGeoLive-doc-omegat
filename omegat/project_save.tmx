@@ -1016,8 +1016,8 @@
       <tuv lang="en-US">
         <seg>**License:** GPLv3 or BSD License dependent on ExtJS license - see `License &lt;https://github.com/geoext/geoext3/blob/master/LICENSE&gt;`_ and `License FAQ &lt;https://github.com/geoext/geoext3/blob/master/LICENSE-FAQ.md&gt;`_</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T225342Z" creationid="miurahr" creationdate="20201123T225342Z">
-        <seg>**ライセンス:** GPLv3 or BSD License dependent on ExtJS license - see `License &lt;https://github.com/geoext/geoext3/blob/master/LICENSE&gt;`_ and `License FAQ &lt;https://github.com/geoext/geoext3/blob/master/LICENSE-FAQ.md&gt;`_</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T074236Z" creationid="miurahr" creationdate="20201123T225342Z">
+        <seg>**ライセンス:** GPLv3 もしくは BSD ライセンス、ExtJS ライセンスに依存 - `ライセンス &lt;https://github.com/geoext/geoext3/blob/master/LICENSE&gt;`_ および `ライセンス FAQ &lt;https://github.com/geoext/geoext3/blob/master/LICENSE-FAQ.md&gt;`_ を参照</seg>
       </tuv>
     </tu>
     <tu>
@@ -1704,8 +1704,8 @@
       <tuv lang="en-US">
         <seg>**Support:** Mailing list https://www.geoext.org/cgi-bin/mailman/listinfo/users and https://stackoverflow.com/questions/tagged/geoext3</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T225403Z" creationid="miurahr" creationdate="20201123T225403Z">
-        <seg>**サポート:** Mailing list https://www.geoext.org/cgi-bin/mailman/listinfo/users and https://stackoverflow.com/questions/tagged/geoext3</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T074254Z" creationid="miurahr" creationdate="20201123T225403Z">
+        <seg>**サポート:** メーリングリスト https://www.geoext.org/cgi-bin/mailman/listinfo/users および https://stackoverflow.com/questions/tagged/geoext3</seg>
       </tuv>
     </tu>
     <tu>
@@ -13608,8 +13608,8 @@
       <tuv lang="en-US">
         <seg>If you are using the GPL v3 version of the ExtJS framework you will use it under GPLv3.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T225114Z" creationid="miurahr" creationdate="20201123T225114Z">
-        <seg>GPLv3バージョンのExtJSフレームワークを使用している場合は、GPLv3の下で使用します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T073908Z" creationid="miurahr" creationdate="20201123T225114Z">
+        <seg>GPL v3バージョンのExtJSフレームワークを使用している場合は、GPLv3の下で使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14963,8 +14963,8 @@
       <tuv lang="en-US">
         <seg>Integration with `MapFish Print &lt;http://mapfish.github.io/mapfish-print-doc/&gt;`_ and `GeoServer Printing Module &lt;https://docs.geoserver.org/latest/en/user/extensions/printing/index.html&gt;`_</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T225314Z" creationid="miurahr" creationdate="20201123T225314Z">
-        <seg> `MapFish Print &lt;http://mapfish.github.io/mapfish-print-doc/&gt;`_  および `GeoServer Printing Module &lt;https://docs.geoserver.org/latest/en/user/extensions/printing/index.html&gt;`_ との統合</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T074101Z" creationid="miurahr" creationdate="20201123T225314Z">
+        <seg>`MapFish Print &lt;http://mapfish.github.io/mapfish-print-doc/&gt;`_ および `GeoServer Printing Module &lt;https://docs.geoserver.org/latest/en/user/extensions/printing/index.html&gt;`_ との統合</seg>
       </tuv>
     </tu>
     <tu>
