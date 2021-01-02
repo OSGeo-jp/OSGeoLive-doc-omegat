@@ -4640,8 +4640,8 @@
       <tuv lang="en-US">
         <seg>Additional Geometry, Filter and Style parser/encoders available for DOM and SAX applications.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T063243Z" creationid="miurahr" creationdate="20201103T063243Z">
-        <seg>DOMおよびSAXサプリケーションで利用できる追加のジオメトリ、フィルタ、スタイルのパーサ/エンコーダ。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T085426Z" creationid="miurahr" creationdate="20201103T063243Z">
+        <seg>DOMおよびSAXアプリケーションで利用できる追加のジオメトリ、フィルタ、スタイルのパーサ/エンコーダ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19123,8 +19123,8 @@
       <tuv lang="en-US">
         <seg>OGC Filter and Common Constraint Language (CQL)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T063634Z" creationid="miurahr" creationdate="20201103T062049Z">
-        <seg>OGC  Filterと Common Constraint Language (CQL)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T085826Z" creationid="miurahr" creationdate="20201103T062049Z">
+        <seg>OGC Filterと Common Constraint Language (CQL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19203,8 +19203,8 @@
       <tuv lang="en-US">
         <seg>OGC Style Layer Descriptor / Symbology Encoding data structures and rendering engine</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T060602Z" creationid="miurahr" creationdate="20201103T062201Z">
-        <seg>OGC Style Layer Descriptor/データ構造とレンダリングエンジンのシンボロジーのエンコード</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T085638Z" creationid="miurahr" creationdate="20201103T062201Z">
+        <seg>OGC Style Layer Descriptor / シンボロジーのエンコードデータ構造とレンダリングエンジン</seg>
       </tuv>
     </tu>
     <tu>
@@ -24368,8 +24368,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Some highlights are swing support (used in geotools tutorials), swt, local and web process support, additional symbology, additional data formats, generation of grids and a couple of implementations of ISO Geometry.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T060658Z" creationid="miurahr" creationdate="20201103T012234Z">
-        <seg>注目すべき点は、スイングサポート(geotoolsチュートリアルで使用)、swt、ローカルおよびWebプロセスサポート、シンボロジーの追加、データフォーマットの追加、グリッドの生成、およびISOジオメトリのいくつかの実装です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T090042Z" creationid="miurahr" creationdate="20201103T012234Z">
+        <seg>注目すべき点は、swingサポート(geotoolsチュートリアルで使用)、swt、ローカルおよびWebプロセスサポート、シンボロジーの追加、データフォーマットの追加、グリッドの生成、およびISOジオメトリのいくつかの実装です。</seg>
       </tuv>
     </tu>
     <tu>
