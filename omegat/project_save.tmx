@@ -4736,8 +4736,8 @@
       <tuv lang="en-US">
         <seg>Advanced filter expression support based on XPath 1.0</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T042449Z" creationid="miurahr" creationdate="20201103T042449Z">
-        <seg>XPath1.0に基づく高度なフィルタ式のサポート</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T061247Z" creationid="miurahr" creationdate="20201103T042449Z">
+        <seg>XPath 1.0に基づく高度なフィルタ式のサポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -9000,8 +9000,8 @@
       <tuv lang="en-US">
         <seg>Designed for rich data models from the bottom up</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T042442Z" creationid="miurahr" creationdate="20201103T042442Z">
-        <seg>ボトムアップのリッチ・データ・モデル向けに設計</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T061223Z" creationid="miurahr" creationdate="20201103T042442Z">
+        <seg>ボトムアップのリッチデータモデル向けに設計</seg>
       </tuv>
     </tu>
     <tu>
@@ -11304,8 +11304,8 @@
       <tuv lang="en-US">
         <seg>Fully transactional (even for rich data models)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T042427Z" creationid="miurahr" creationdate="20201103T042427Z">
-        <seg>完全なトランザクション(リッチ・データ・モデルの場合も含む)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T061137Z" creationid="miurahr" creationdate="20201103T042427Z">
+        <seg>完全なトランザクション(リッチデータモデルの場合も含む)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11480,8 +11480,8 @@
       <tuv lang="en-US">
         <seg>GML 2/3.0/3.1/3.2 output/input</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T042432Z" creationid="miurahr" creationdate="20201103T042432Z">
-        <seg>GM L2/3.0/3.1/3.2出力/入力</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T061149Z" creationid="miurahr" creationdate="20201103T042432Z">
+        <seg>GML 2/3.0/3.1/3.2 出力/入力</seg>
       </tuv>
     </tu>
     <tu>
@@ -13296,8 +13296,8 @@
       <tuv lang="en-US">
         <seg>ISO 19107-compliant geometry model: Complex geometries (e.g. non-linear curves)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T042446Z" creationid="miurahr" creationdate="20201103T042446Z">
-        <seg>ISO19107準拠形状モデル:複雑な形状(例:非線形曲線)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T061712Z" creationid="miurahr" creationdate="20201103T042446Z">
+        <seg>ISO 19107準拠のジオメトリモデル: 複雑なジオメトリ (例: 非線形曲線)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25232,8 +25232,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Supports numerous backends, such as PostGIS, Oracle Spatial, MS SQL Server, Shapefiles or GML instance documents</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T042453Z" creationid="miurahr" creationdate="20201103T042453Z">
-        <seg>PostGIS、Oracle Spatial、MS SQL Server、Shapefiles、GMLインスタンスドキュメントなどの多数のバックエンドをサポート</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T061344Z" creationid="miurahr" creationdate="20201103T042453Z">
+        <seg>PostGIS、Oracle Spatial、MS SQL Server、シェープファイル、GMLインスタンスドキュメントなどの多数のバックエンドをサポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -35132,16 +35132,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>deegree provides geospatial webservices based upon |OGC| and `INSPIRE Network Services &lt;https://inspire.ec.europa.eu&gt;`_ specifications.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T042333Z" creationid="miurahr" creationdate="20201103T042333Z">
-        <seg>deegreeは、OGCと「INSPIRE Network Services&lt;https://inspire.ec.europa.eu&gt;」仕様に基づいた地理空間ウェブサービスを提供している。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T060747Z" creationid="miurahr" creationdate="20201103T042333Z">
+        <seg>deegreeは、 |OGC| と `INSPIRE Network Services &lt;https://inspire.ec.europa.eu&gt;`_ 仕様に基づいた地理空間ウェブサービスを提供しています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>deegree supports:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T042336Z" creationid="miurahr" creationdate="20201103T042336Z">
-        <seg>deegreeは以下をサポートしている。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T060806Z" creationid="miurahr" creationdate="20201103T042336Z">
+        <seg>deegreeは以下をサポートしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40844,8 +40844,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>|WFS|: Serves vector data from geospatial data</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T042350Z" creationid="miurahr" creationdate="20201103T042340Z">
-        <seg>|WFS|: 空間データからベクトルデータを提供</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T060823Z" creationid="miurahr" creationdate="20201103T042340Z">
+        <seg>|WFS|: 空間データからベクタデータを提供</seg>
       </tuv>
     </tu>
     <tu>
