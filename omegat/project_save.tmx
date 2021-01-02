@@ -4304,8 +4304,8 @@
       <tuv lang="en-US">
         <seg>Access GIS data in many file formats and spatial databases</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011954Z" creationid="miurahr" creationdate="20201103T011954Z">
-        <seg>多くのファイル形式および空間データベースのGISデータにアクセスする</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T125819Z" creationid="miurahr" creationdate="20201103T011954Z">
+        <seg>多くのファイル形式や空間データベースのGISデータへのアクセス</seg>
       </tuv>
     </tu>
     <tu>
@@ -8096,8 +8096,8 @@
       <tuv lang="en-US">
         <seg>Coordinate reference system and transformation support</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011956Z" creationid="miurahr" creationdate="20201103T011956Z">
-        <seg>座標参照系と変換サポート</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T125831Z" creationid="miurahr" creationdate="20201103T011956Z">
+        <seg>座標参照系と座標変換のサポート</seg>
       </tuv>
     </tu>
     <tu>
