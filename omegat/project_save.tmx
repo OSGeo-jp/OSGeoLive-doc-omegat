@@ -9200,8 +9200,8 @@
       <tuv lang="en-US">
         <seg>Discovery services client to localize data resources within an SDI (catalogue and gazeteer services)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T052436Z" creationid="miurahr" creationdate="20201122T052436Z">
-        <seg>SDI(catalog and gazteer services)内のデータリソースをローカライズするディスカバリサービスのクライアント</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T174832Z" creationid="miurahr" creationdate="20201122T052436Z">
+        <seg>SDI (カタログと地名索引サービス) 内のデータリソースをローカライズするディスカバリサービスのクライアント</seg>
       </tuv>
     </tu>
     <tu>
@@ -15155,8 +15155,8 @@
       <tuv lang="en-US">
         <seg>Interoperable: able to work with most known data formats:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T052331Z" creationid="miurahr" creationdate="20201122T052331Z">
-        <seg>相互運用性:ほとんどの既知のデータフォーマットで動作します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T174419Z" creationid="miurahr" creationdate="20201122T052331Z">
+        <seg>相互運用性: ほとんどの既知のデータフォーマットで動作します:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15371,8 +15371,8 @@
       <tuv lang="en-US">
         <seg>It features a wide range of tools for working with geographic information (query, layout creation, geoprocessing, networks, etc.), which turns gvSIG into the ideal tool for users working in the land realm.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T064047Z" creationid="miurahr" creationdate="20201103T064047Z">
-        <seg>これには、地理情報を操作するためのさまざまなツール(クエリー、レイアウト作成、地理処理、ネットワークなど)が用意されており、gvSIGを陸上で作業するユーザにとって理想的なツールに変えることができます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T174307Z" creationid="miurahr" creationdate="20201103T064047Z">
+        <seg>これには、地理情報を操作するためのさまざまなツール(クエリー、レイアウト作成、ジオプロセシング、ネットワークなど)が用意されており、gvSIG を陸上で作業するユーザにとって理想的なツールに変えることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22015,8 +22015,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Provides common GIS tools like data loading, map navigation, query map information like alphanumeric information, distance measurement, thematic cartography, legend edition using common legend types, labelling, feature selection by many selection types, data tables with statistics, ordering, table relations, table linking, layout manager, geoprocessing tools, CAD, raster processing, etc.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T064729Z" creationid="miurahr" creationdate="20201103T064729Z">
-        <seg>データ読み込み、マップナビゲーション、英数字情報などのクエリーマップ情報、距離計測、主題地図学、一般的な凡例タイプを使用した凡例編集、ラベル付け、多くの選択タイプによるフィーチャ選択、統計情報を含むデータテーブル、順序付け、テーブルリレーション、テーブルリンク、レイアウトマネージャ、地理処理ツール、CAD、ラスター処理などの一般的なGISツールを提供します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T174345Z" creationid="miurahr" creationdate="20201103T064729Z">
+        <seg>データ読み込み、地図ナビゲーション、英数字情報などのクエリーマップ情報、距離計測、主題地図学、一般的な凡例タイプを使用した凡例編集、ラベル付け、多くの選択タイプによるフィーチャ選択、統計情報を含むデータテーブル、順序付け、テーブルリレーション、テーブルリンク、レイアウトマネージャ、地理処理ツール、CAD、ラスター処理などの一般的なGISツールを提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36508,16 +36508,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>gvSIG is known for:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T064052Z" creationid="miurahr" creationdate="20201103T064052Z">
-        <seg>gvSIGは次のことで知られています：</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T174257Z" creationid="miurahr" creationdate="20201103T064052Z">
+        <seg>gvSIG は次のことで知られています：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>gvSIG_ is a Geographic Information System (GIS) desktop application designed for capturing, storing, handling, analysing and deploying any kind of referenced geographic information in order to solve complex management and planning problems.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201125T000135Z" creationid="miurahr" creationdate="20201103T064036Z">
-        <seg>gvSIG_ は、地理情報システム(GIS)デスクトップアプリケーションで、複雑な管理と計画の問題を解決するために、参照されているあらゆる種類の地理情報をキャプチャ、保存、処理、分析、および展開するように設計されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T174047Z" creationid="miurahr" creationdate="20201103T064036Z">
+        <seg>gvSIG_ は、地理情報システム (GIS) デスクトップアプリケーションで、複雑な管理と計画の問題を解決するために、参照されているあらゆる種類の地理情報をキャプチャ、保存、処理、分析、および展開するように設計されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37052,8 +37052,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>integrating in the same view both local and remote data through OGC standards.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T064058Z" creationid="miurahr" creationdate="20201103T064058Z">
-        <seg>OGC標準を使用して、ローカル・データとリモート・データの両方を同じビューで統合できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T174231Z" creationid="miurahr" creationdate="20201103T064058Z">
+        <seg>OGC 標準を使用して、ローカルデータとリモートデータの両方を同じビューで統合できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40428,8 +40428,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>vector &amp; CAD: shapefile, NetCDF, GML, KML, DGN, DXF, DWG</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T052349Z" creationid="miurahr" creationdate="20201122T052349Z">
-        <seg>ベクタ &amp; CAD: shapefile, NetCDF, GML, KML, DGN, DXF, DWG</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T174439Z" creationid="miurahr" creationdate="20201122T052349Z">
+        <seg>ベクタ &amp; CAD: シェープファイル, NetCDF, GML, KML, DGN, DXF, DWG</seg>
       </tuv>
     </tu>
     <tu>
