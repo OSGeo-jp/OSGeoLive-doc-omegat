@@ -11568,8 +11568,8 @@
       <tuv lang="en-US">
         <seg>GPS Track-Editing</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T231321Z" creationid="miurahr" creationdate="20201123T231321Z">
-        <seg>GPSトラック編集</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T161314Z" creationid="miurahr" creationdate="20201123T231321Z">
+        <seg>GPS トラック編集</seg>
       </tuv>
     </tu>
     <tu>
@@ -15203,8 +15203,8 @@
       <tuv lang="en-US">
         <seg>It can be used for planning trips in advance, or for analysing the tracks recorded by GPS receivers.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T021539Z" creationid="miurahr" creationdate="20201220T021539Z">
-        <seg>It can be used for planning trips in advance, or for analysing the tracks recorded by GPS receivers.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T161933Z" creationid="miurahr" creationdate="20201220T021539Z">
+        <seg>旅行の計画を事前に立てたり、GPS 受信機によって記録されたトラックを分析するために使用することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15597,6 +15597,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T044505Z" creationid="miurahr" creationdate="20201102T044505Z">
         <seg>スタンドアロン GPX トラックや GPX トラックデータの読み込みと共に、OSM データベースから既存のノード (点) 、ウェイ (ライン) 、メタデータタグ (名前/値の情報) 、リレーション (点と線の順序付けられたシーケンス) の編集をサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It uses :doc:`OpenStreetMap &lt;osm_dataset_overview&gt;` imagery to show recorded tracks and waypoints, and provides a variety of tools to let you edit, crop and prune the data points.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T162603Z" creationid="sanak" creationdate="20210102T162603Z">
+        <seg>:doc:`OpenStreetMap &lt;osm_dataset_overview&gt;` の画像を使用して、記録されたトラックとウェイポイントを表示します。また、さまざまなツールを備えていて、データポイントの編集、切り抜き、部分削除などが自由に行なえます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33684,8 +33692,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`GpsPrune &lt;https://activityworkshop.net/software/gpsprune&gt;`_ is a tool for viewing, editing and converting coordinate data from GPS systems.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T021519Z" creationid="miurahr" creationdate="20201220T021519Z">
-        <seg>`GpsPrune &lt;https://activityworkshop.net/software/gpsprune&gt;`_  は、GPSシステムからの座標データを変換、表示および編集するツールです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T161717Z" creationid="miurahr" creationdate="20201220T021519Z">
+        <seg>`GpsPrune &lt;https://activityworkshop.net/software/gpsprune&gt;`_  は GPS システムの位置情報を表示、編集、変換するためのツールです。</seg>
       </tuv>
     </tu>
     <tu>
