@@ -2032,8 +2032,8 @@
       <tuv lang="en-US">
         <seg>**Supported Platforms:** Cross Platform Java 8,9,10</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T084907Z" creationid="miurahr" creationdate="20201103T012258Z">
-        <seg>**対応OS:** クロスプラットフォーム Java 8,9,10</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T124758Z" creationid="miurahr" creationdate="20201103T012258Z">
+        <seg>**対応プラットフォーム:** クロスプラットフォーム Java 8,9,10</seg>
       </tuv>
     </tu>
     <tu>
@@ -3920,8 +3920,8 @@
       <tuv lang="en-US">
         <seg>A clean data access API supporting feature access, transaction support and locking between threads</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011952Z" creationid="miurahr" creationdate="20201103T011952Z">
-        <seg>スレッド間、トランザクションサポート、スレッド間のロックをサポートするクリーンなデータアクセスAPI</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T125536Z" creationid="miurahr" creationdate="20201103T011952Z">
+        <seg>地物へのアクセス、トランザクション、スレッド間のロックをサポートする、クリーンなデータアクセスAPI</seg>
       </tuv>
     </tu>
     <tu>
@@ -5816,8 +5816,8 @@
       <tuv lang="en-US">
         <seg>Attribute and spatial filters using OGC Filter Encoding specification</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T091148Z" creationid="miurahr" creationdate="20201103T011949Z">
-        <seg>OGC Filter Encoding 仕様を使用する属性および空間フィルタ</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T125302Z" creationid="miurahr" creationdate="20201103T011949Z">
+        <seg>OGC Filter Encoding 仕様を利用した、属性および空間フィルタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -13360,8 +13360,8 @@
       <tuv lang="en-US">
         <seg>ISO 19107 Geometry</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T065707Z" creationid="miurahr" creationdate="20201103T065707Z">
-        <seg>ISO19107ジオメトリ</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T124732Z" creationid="miurahr" creationdate="20201103T065707Z">
+        <seg>ISO 19107 ジオメトリ</seg>
       </tuv>
     </tu>
     <tu>
@@ -14955,8 +14955,8 @@
       <tuv lang="en-US">
         <seg>Integrated Geometry support provided by `JTS Topology Suite (JTS) &lt;https://sourceforge.net/projects/jts-topo-suite/&gt;`_</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T091155Z" creationid="miurahr" creationdate="20201103T011924Z">
-        <seg>統合されたジオメトリのサポートは、 `JTS Topology Suite (JTS) &lt;https://sourceforge.net/projects/jts-topo-suite/&gt;`_ によって提供されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T125204Z" creationid="miurahr" creationdate="20201103T011924Z">
+        <seg>`JTS Topology Suite (JTS) &lt;https://sourceforge.net/projects/jts-topo-suite/&gt;`_ による、統合されたジオメトリのサポート</seg>
       </tuv>
     </tu>
     <tu>
