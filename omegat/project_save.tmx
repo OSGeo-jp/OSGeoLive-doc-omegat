@@ -4336,8 +4336,8 @@
       <tuv lang="en-US">
         <seg>Access maps from: MapServer, Tilecache, ArcGIS REST, WMS, WFS.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T051306Z" creationid="miurahr" creationdate="20201122T051306Z">
-        <seg>マップへのアクセス元:MapServer、Tilecache、ArcGIS REST、WMS、WFS</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T081419Z" creationid="miurahr" creationdate="20201122T051306Z">
+        <seg>マップへのアクセス元: MapServer、Tilecache、ArcGIS REST、WMS、WFS</seg>
       </tuv>
     </tu>
     <tu>
@@ -9176,8 +9176,8 @@
       <tuv lang="en-US">
         <seg>Displays: MapViewer, Side Menu, Navigation, Tabbed User Controls.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T051337Z" creationid="miurahr" creationdate="20201122T051337Z">
-        <seg>表示: MapViewer, Side Menu, Navigation, Tabbed User Controls.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T081706Z" creationid="miurahr" creationdate="20201122T051337Z">
+        <seg>表示: 地図ビューア、サイドメニュー、ナビゲーション、タブ付きユーザコントロール</seg>
       </tuv>
     </tu>
     <tu>
@@ -21855,8 +21855,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Publish almost unlimited number of layers.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T051403Z" creationid="miurahr" creationdate="20201122T051403Z">
-        <seg>ほぼ無制限の数のレイヤをパブリッシュする。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T081748Z" creationid="miurahr" creationdate="20201122T051403Z">
+        <seg>ほぼ無制限の数のレイヤをパブリッシュします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29556,8 +29556,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Tools: measure, drawing, query, fading, re-order, jump-to zoom, coordinate readouts, ...</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T051329Z" creationid="miurahr" creationdate="20201122T051322Z">
-        <seg>ツール:measure,drawing,query,fading,re-order,jump-to zoom,coordinate readings,...</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T081608Z" creationid="miurahr" creationdate="20201122T051322Z">
+        <seg>ツール: 計測、描画、クエリ、フェード、並べ替え、ズームジャンプ、座標表示など</seg>
       </tuv>
     </tu>
     <tu>
@@ -30618,6 +30618,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>WFS (client)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T082006Z" creationid="sanak" creationdate="20210102T082006Z">
+        <seg>WFS (クライアント)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>WFS-T Service</seg>
       </tuv>
       <tuv lang="ja">
@@ -30638,6 +30646,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>WMS (1.0.0-1.3.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WMS (client)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T081957Z" creationid="sanak" creationdate="20210102T081957Z">
+        <seg>WMS (クライアント)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36510,6 +36526,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>https://www.geomoose.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>https://www.geomoose.org/info/license.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T082008Z" creationid="sanak" creationdate="20210102T082008Z">
+        <seg>https://www.geomoose.org/info/license.html</seg>
       </tuv>
     </tu>
     <tu>
