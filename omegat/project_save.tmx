@@ -14955,8 +14955,8 @@
       <tuv lang="en-US">
         <seg>Integrated Geometry support provided by `JTS Topology Suite (JTS) &lt;https://sourceforge.net/projects/jts-topo-suite/&gt;`_</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T085058Z" creationid="miurahr" creationdate="20201103T011924Z">
-        <seg>統合されたジオメトリのサポートは、 `JTS Topology Suite (JTS) &lt;https://sourceforge.net/projects/jts-topo-suite/&gt;`_ によって提供されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T091155Z" creationid="miurahr" creationdate="20201103T011924Z">
+        <seg>統合されたジオメトリのサポートは、 `JTS Topology Suite (JTS) &lt;https://sourceforge.net/projects/jts-topo-suite/&gt;`_ によって提供されています。</seg>
       </tuv>
     </tu>
     <tu>
