@@ -22752,8 +22752,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Read our written `tutorials &lt;https://cesium.com/docs&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T143242Z" creationid="miurahr" creationdate="20201116T134812Z">
-        <seg> `tutorials &lt;https://cesium.com/docs&gt;`_ をお読みください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T190528Z" creationid="miurahr" creationdate="20201116T134812Z">
+        <seg> `チュートリアル &lt;https://cesium.com/docs&gt;`_ をお読みください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31100,8 +31100,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Watch our `video tutorials &lt;https://www.youtube.com/playlist?list=PLBk_Dtk-_Tlm4STvXKFEdfUWylPemo-9V&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T143231Z" creationid="miurahr" creationdate="20201116T134927Z">
-        <seg>`video tutorials &lt;https://www.youtube.com/playlist?list=PLBk_Dtk-_Tlm4STvXKFEdfUWylPemo-9V&gt;`_ をご覧ください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T190513Z" creationid="miurahr" creationdate="20201116T134927Z">
+        <seg>`ビデオチュートリアル &lt;https://www.youtube.com/playlist?list=PLBk_Dtk-_Tlm4STvXKFEdfUWylPemo-9V&gt;`_ をご覧ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32596,8 +32596,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can develop some quick applications using the `Sandcastle website &lt;https://sandcastle.cesium.com/index.html&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T143301Z" creationid="miurahr" creationdate="20201116T134822Z">
-        <seg> `Sandcastle website &lt;https://sandcastle.cesium.com/index.html&gt;`_ を使用して、いくつかのクイックアプリケーションを開発できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T190537Z" creationid="miurahr" creationdate="20201116T134822Z">
+        <seg> `Sandcastle Webサイト &lt;https://sandcastle.cesium.com/index.html&gt;`_ を使用して、いくつかのクイックアプリケーションを開発できます。</seg>
       </tuv>
     </tu>
     <tu>
