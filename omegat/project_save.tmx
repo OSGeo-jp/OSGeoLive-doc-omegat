@@ -10288,16 +10288,16 @@
       <tuv lang="en-US">
         <seg>Export/import of SLD legends</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T053011Z" creationid="miurahr" creationdate="20201122T053011Z">
-        <seg>SLD凡例のエクスポート/インポート</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T175047Z" creationid="miurahr" creationdate="20201122T053011Z">
+        <seg>SLD 凡例のエクスポート/インポート</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Export/import of Web Map Context (WMC)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T053024Z" creationid="miurahr" creationdate="20201122T053024Z">
-        <seg>Web Mac Context (WMC)のエクスポート/インポート</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T175052Z" creationid="miurahr" creationdate="20201122T053024Z">
+        <seg>Web Mac Context (WMC) のエクスポート/インポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -16787,8 +16787,8 @@
       <tuv lang="en-US">
         <seg>Load WMS, WMTS, WFS and WCS layers</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T053007Z" creationid="miurahr" creationdate="20201122T053007Z">
-        <seg>WMS、WMTS、WFS、WCSレイヤのよみこみ</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T175039Z" creationid="miurahr" creationdate="20201122T053007Z">
+        <seg>WMS、WMTS、WFS、WCS レイヤの読み込み</seg>
       </tuv>
     </tu>
     <tu>
@@ -23480,8 +23480,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Scripting support (for both vector and raster data)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T052745Z" creationid="miurahr" creationdate="20201122T052745Z">
-        <seg>スクリプトサポート(ベクタとラスタデータの両方)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T175210Z" creationid="miurahr" creationdate="20201122T052745Z">
+        <seg>スクリプトサポート (ベクタとラスタデータの両方)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23584,16 +23584,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Search on catalogues with  CSW (ISO/19115 and ebRIM)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T053029Z" creationid="miurahr" creationdate="20201122T053029Z">
-        <seg>CSW(ISO/19115and ebRim)でカタログを検索する</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T175116Z" creationid="miurahr" creationdate="20201122T053029Z">
+        <seg>CSW (ISO/19115 and ebRIM) でカタログを検索する</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Search on gazetteers using WFS-G recommendation</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T053034Z" creationid="miurahr" creationdate="20201122T053034Z">
-        <seg>WFS-G勧告を使用した地名表記の検索</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T175025Z" creationid="miurahr" creationdate="20201122T053034Z">
+        <seg>WFS-G 勧告を使用した地名表記の検索</seg>
       </tuv>
     </tu>
     <tu>
@@ -35852,8 +35852,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>export, clipping</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T052721Z" creationid="miurahr" creationdate="20201122T052721Z">
-        <seg>エクスポート,クリッピング</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T175138Z" creationid="miurahr" creationdate="20201122T052721Z">
+        <seg>エクスポート、クリッピング</seg>
       </tuv>
     </tu>
     <tu>
@@ -35980,8 +35980,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>filters, vectorization</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T052729Z" creationid="miurahr" creationdate="20201122T052729Z">
-        <seg>フィルタ,ベクタ化</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T175150Z" creationid="miurahr" creationdate="20201122T052729Z">
+        <seg>フィルタ、ベクタ化</seg>
       </tuv>
     </tu>
     <tu>
@@ -37748,8 +37748,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>look up tables, histogram</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T052725Z" creationid="miurahr" creationdate="20201122T052725Z">
-        <seg>検索テーブル,ヒストグラム</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T175143Z" creationid="miurahr" creationdate="20201122T052725Z">
+        <seg>検索テーブル、ヒストグラム</seg>
       </tuv>
     </tu>
     <tu>
