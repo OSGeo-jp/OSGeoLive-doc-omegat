@@ -2512,8 +2512,8 @@
       <tuv lang="en-US">
         <seg>**Website:** https://mapnik.org/</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T070329Z" creationid="miurahr" creationdate="20201103T070329Z">
-        <seg>*Webサイト:** https://mapnik.org/</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T181540Z" creationid="miurahr" creationdate="20201103T070329Z">
+        <seg>**Webサイト:** https://mapnik.org/</seg>
       </tuv>
     </tu>
     <tu>
@@ -17371,8 +17371,8 @@
       <tuv lang="en-US">
         <seg>MapServer is an `Open Source &lt;https://opensource.org/&gt;`_ geographic data rendering engine written in C. Beyond browsing GIS data, MapServer allows you create "geographic image maps", that is, maps that can direct users to web content.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T005834Z" creationid="miurahr" creationdate="20201103T005834Z">
-        <seg>MapServer は C 言語で記述された`オープンソース&lt;https://opensource.org/&gt;`_ のジオグラフィックデータレンダリングエンジンです。GISデータのブラウズはもちろん、MapServer はユーザにコンテンツを直接伝えるためのグラフィックイメージ地図を作ることが出来ます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T181601Z" creationid="miurahr" creationdate="20201103T005834Z">
+        <seg>MapServer は C 言語で記述された `オープンソース&lt;https://opensource.org/&gt;`_ のジオグラフィックデータレンダリングエンジンです。GISデータのブラウズはもちろん、MapServer はユーザにコンテンツを直接伝えるためのグラフィックイメージ地図を作ることが出来ます。</seg>
       </tuv>
     </tu>
     <tu>
