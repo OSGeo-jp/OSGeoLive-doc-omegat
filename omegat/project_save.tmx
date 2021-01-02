@@ -7792,8 +7792,8 @@
       <tuv lang="en-US">
         <seg>Clients for Web Feature Service (WFS), Web Map Service (WMS) and experimental support for Web Process Service (WPS)</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T124727Z" creationid="miurahr" creationdate="20201103T062036Z">
-        <seg>Web Feature Service (WFS)、Web Map Service (WMS) のクライアントと、Web Process Service(WPS) の試験的なサポート</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T152730Z" creationid="miurahr" creationdate="20201103T062036Z">
+        <seg>Web Feature Service (WFS)、Web Map Service (WMS) のクライアントと、Web Process Service (WPS) の試験的なサポート</seg>
       </tuv>
     </tu>
     <tu>
