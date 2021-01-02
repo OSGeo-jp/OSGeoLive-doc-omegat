@@ -5222,6 +5222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Altitude or speed profile view</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T163627Z" creationid="sanak" creationdate="20210102T163627Z">
+        <seg>高度、速度のプロファイル表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Among others the package includes modules for geostatistics, image classification, projections, simulation of dynamic processes (hydrology, landscape development) and terrain analysis.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T015623Z" creationid="miurahr" creationdate="20201103T015623Z">
@@ -9866,6 +9874,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T034145Z" creationid="miurahr" creationdate="20201221T034145Z">
         <seg>レコードを編集(ログイン時)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Editing tools for creating, modifying, deleting, reversing and compressing tracks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T163725Z" creationid="sanak" creationdate="20210102T163725Z">
+        <seg>作成、修正、削除、方向転換、トラック圧縮などの編集ツール</seg>
       </tuv>
     </tu>
     <tu>
@@ -15041,6 +15057,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Interactive 3d view of the data or export to POV format for 3D rendering, both including map imagery painted onto the terrain</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T163949Z" creationid="sanak" creationdate="20210102T163949Z">
+        <seg>データの対話型 3D ビュー、または3Dレンダリング用の POV フォーマットへのエクスポート (いずれも、地表に描画された地図画像を含む)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Interactive KML tours (Creating, editing, viewing)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010349Z" creationid="miurahr" creationdate="20201103T010349Z">
@@ -16733,6 +16757,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135201Z" creationid="miurahr" creationdate="20201116T135201Z">
         <seg>作業フォルダを読み込む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Load data from text files, gpx files, kml/kmz files, or directly from a GPS receiver</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T164108Z" creationid="sanak" creationdate="20210102T163249Z">
+        <seg>テキストファイル、gpx ファイル、 kml/kmz ファイル、または GPS 受信機からの直接のデータ読み込み</seg>
       </tuv>
     </tu>
     <tu>
@@ -23314,6 +23346,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T000809Z" creationid="miurahr" creationdate="20201117T000809Z">
         <seg>サテライトビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save data to text files, gpx files, kml/kmz files, or directly to a GPS receiver</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T164144Z" creationid="sanak" creationdate="20210102T164100Z">
+        <seg>テキストファイル、gpx ファイル、kml/kmz ファイル、または GPS 受信機への直接のデータ保存</seg>
       </tuv>
     </tu>
     <tu>
@@ -33398,6 +33438,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ズーム/パン アニメーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoomable map imagery from OpenStreetMap or any compatible server (such as HikeBikeMap, Reit- und Wanderkarte etc)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T163515Z" creationid="sanak" creationdate="20210102T163515Z">
+        <seg>OpenStreetMap や互換サーバの画像（HikeBikeMap, Reit- und Wanderkarte など）を使用した地図画像の拡大縮小</seg>
       </tuv>
     </tu>
     <tu>
