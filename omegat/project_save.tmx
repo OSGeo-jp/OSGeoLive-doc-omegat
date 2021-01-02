@@ -21921,6 +21921,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proj.4</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T183646Z" creationid="sanak" creationdate="20210102T183646Z">
+        <seg>Proj.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proj.4 Quickstart</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T040518Z" creationid="miurahr" creationdate="20201221T040518Z">
@@ -36918,6 +36926,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T024323Z" creationid="miurahr" creationdate="20201220T024323Z">
         <seg>画像アクセス:  ほとんどのリモートセンシングラスターフォーマット ( JPEG2000 形式を含む)、メタデータアクセス、および視覚化のための最適化された読み取り/書き込みアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image fusion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T182942Z" creationid="sanak" creationdate="20210102T182942Z">
+        <seg>画像融合</seg>
       </tuv>
     </tu>
     <tu>
