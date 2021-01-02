@@ -6664,8 +6664,8 @@
       <tuv lang="en-US">
         <seg>Can render rich data models directly</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T042600Z" creationid="miurahr" creationdate="20201103T042600Z">
-        <seg>リッチ・データ・モデルを直接レンダリングできる</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T061749Z" creationid="miurahr" creationdate="20201103T042600Z">
+        <seg>リッチデータモデルを直接レンダリングできる</seg>
       </tuv>
     </tu>
     <tu>
@@ -19017,6 +19017,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OGC Catalogue Service-Web (CSW) 2.0.2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T061847Z" creationid="sanak" creationdate="20210102T061847Z">
+        <seg>OGC Catalogue Service-Web (CSW) 2.0.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OGC Filter and Common Constraint Language (CQL)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T063634Z" creationid="miurahr" creationdate="20201103T062049Z">
@@ -21051,8 +21059,8 @@
       <tuv lang="en-US">
         <seg>Pluggable process provider layer</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T042816Z" creationid="miurahr" creationdate="20201103T042816Z">
-        <seg>プラガブル・プロセス・プロバイダ層</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T062505Z" creationid="miurahr" creationdate="20201103T042816Z">
+        <seg>プラグ可能なプロセスプロバイダレイヤ</seg>
       </tuv>
     </tu>
     <tu>
@@ -40522,6 +40530,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|GML| 2.12, 3.0.1, 3.1.1 and 3.2.1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T062036Z" creationid="sanak" creationdate="20210102T062036Z">
+        <seg>|GML| 2.12, 3.0.1, 3.1.1 および 3.2.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|KML|</seg>
       </tuv>
       <tuv lang="ja">
@@ -40842,6 +40858,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|WFS| 1.0.0, 1.1.0 and 2.0.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T061807Z" creationid="sanak" creationdate="20210102T061807Z">
+        <seg>|WFS| 1.0.0, 1.1.0 および 2.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|WFS|: Serves vector data from geospatial data</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T060823Z" creationid="miurahr" creationdate="20201103T042340Z">
@@ -40870,6 +40894,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|WMS| (クライアントサーバー)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|WMS| 1.1.1 and 1.3.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T061812Z" creationid="sanak" creationdate="20210102T061812Z">
+        <seg>|WMS| 1.1.1 および 1.3.0</seg>
       </tuv>
     </tu>
     <tu>
