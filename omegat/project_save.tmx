@@ -11544,8 +11544,8 @@
       <tuv lang="en-US">
         <seg>GMT supports many common map projections plus linear, log, and power scaling, and comes with support data such as coastlines, rivers, and political boundaries.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T013148Z" creationid="miurahr" creationdate="20201103T013148Z">
-        <seg>GMTは、多くの一般的な投影法に加えて、線形、対数、および冪乗スケールをサポートし、海岸線、河川、および政治的境界などのサポートデータを備えています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T160355Z" creationid="miurahr" creationdate="20201103T013148Z">
+        <seg>GMT は、多くの一般的な地図投影法に加えて、線形、対数、および冪乗スケールをサポートし、海岸線、河川、および政治的境界などのサポートデータが付属しています。</seg>
       </tuv>
     </tu>
     <tu>
