@@ -31908,8 +31908,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Work with an extensive range of map projections</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011959Z" creationid="miurahr" creationdate="20201103T011959Z">
-        <seg>広範囲のマップ投影を使用する</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T140217Z" creationid="miurahr" creationdate="20201103T011959Z">
+        <seg>広範囲の地図投影法との連携</seg>
       </tuv>
     </tu>
     <tu>
@@ -35820,8 +35820,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>filter and analyze data in terms of spatial and non-spatial attributes</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T012001Z" creationid="miurahr" creationdate="20201103T012001Z">
-        <seg>空間的および非空間的属性に関してデータをフィルタ処理および分析する</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T141006Z" creationid="miurahr" creationdate="20201103T012001Z">
+        <seg>空間的および非空間的属性の観点からの、データのフィルタと分析</seg>
       </tuv>
     </tu>
     <tu>
