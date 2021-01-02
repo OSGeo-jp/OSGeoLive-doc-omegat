@@ -10368,8 +10368,8 @@
       <tuv lang="en-US">
         <seg>Extra parameters like f.e.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T003409Z" creationid="miurahr" creationdate="20201103T003409Z">
-        <seg>f.e.などの追加パラメータ</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T184155Z" creationid="miurahr" creationdate="20201103T003409Z">
+        <seg>追加パラメータ 例:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10402,6 +10402,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T030358Z" creationid="miurahr" creationdate="20201220T030358Z">
         <seg>FGDC CSDGM 1998</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FILTER, SELECTION, DPI</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T184159Z" creationid="sanak" creationdate="20210102T184159Z">
+        <seg>FILTER, SELECTION, DPI</seg>
       </tuv>
     </tu>
     <tu>
@@ -19337,6 +19345,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OGC Styled Layer Descriptor (SLD) 1.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T184214Z" creationid="sanak" creationdate="20210102T184214Z">
+        <seg>OGC Styled Layer Descriptor (SLD) 1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OGC WMS 1.0.0, 1.1.0, 1.1.1, 1.3.0</seg>
       </tuv>
       <tuv lang="ja">
@@ -19373,6 +19389,30 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T034832Z" creationid="miurahr" creationdate="20201221T034832Z">
         <seg>OGC WPS 2.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC Web Coverage Service (WCS)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T184202Z" creationid="sanak" creationdate="20210102T184202Z">
+        <seg>OGC Web Coverage Service (WCS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC Web Feature Service (WFS) 1.0.0 and Transactional WFS (WFS-T) 1.0.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T184201Z" creationid="sanak" creationdate="20210102T184201Z">
+        <seg>OGC Web Feature Service (WFS) 1.0.0 and Transactional WFS (WFS-T) 1.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC Web Map Service (WMS) 1.1.1 and 1.3.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T184200Z" creationid="sanak" creationdate="20210102T184200Z">
+        <seg>OGC Web Map Service (WMS) 1.1.1 and 1.3.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -22199,8 +22239,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>QGIS Server</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T003121Z" creationid="miurahr" creationdate="20201103T003121Z">
-        <seg>QGISサーバー</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T183659Z" creationid="miurahr" creationdate="20201103T003121Z">
+        <seg>QGIS サーバ</seg>
       </tuv>
     </tu>
     <tu>
@@ -22231,8 +22271,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>QGIS Server provides web map and feature services (WMS &amp; WFS) using the same libraries as the GIS (QGIS) desktop application.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T003126Z" creationid="miurahr" creationdate="20201103T003126Z">
-        <seg>QGISサーバは、GIS(QGIS)デスクトップアプリケーションと同じライブラリを使用して、Webマップおよびフィーチャサービス(WMS &amp; WFS)を提供します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T183835Z" creationid="miurahr" creationdate="20201103T003126Z">
+        <seg>QGIS サーバは、GIS(QGIS)デスクトップアプリケーションと同じライブラリを使用して、Webマップおよびフィーチャサービス(WMS &amp; WFS)を提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25464,8 +25504,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Supports Styled Layer Descriptor (SLD)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T003402Z" creationid="miurahr" creationdate="20201103T003402Z">
-        <seg>Styled Layer Descriptor (SLD)をサポート</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T184020Z" creationid="miurahr" creationdate="20201103T003402Z">
+        <seg>Styled Layer Descriptor (SLD) をサポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -31402,6 +31442,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Web Feature Service (WFS) - vectors</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T183943Z" creationid="sanak" creationdate="20210102T183943Z">
+        <seg>Web Feature Service (WFS) - ベクタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Web GIS Portal</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T051108Z" creationid="miurahr" creationdate="20201122T051108Z">
@@ -31428,8 +31476,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Web Map Service (WMS) - images</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T003142Z" creationid="miurahr" creationdate="20201103T003142Z">
-        <seg>Web Map Service(WMS):イメージ</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T184012Z" creationid="miurahr" creationdate="20201103T003142Z">
+        <seg>Web Map Service (WMS) - イメージ</seg>
       </tuv>
     </tu>
     <tu>
