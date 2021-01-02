@@ -4840,8 +4840,8 @@
       <tuv lang="en-US">
         <seg>After more than 30 years of continuous development GRASS GIS is both the longest maintained and largest Open Source GIS available.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011128Z" creationid="miurahr" creationdate="20201103T011128Z">
-        <seg>GRASS GISは、30年以上にわたって継続的に開発されてきたオープンソースGISの中で、最も長く維持され、かつ最大のものです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T171117Z" creationid="miurahr" creationdate="20201103T011128Z">
+        <seg>GRASS GIS は、30年以上にわたって継続的に開発されてきたオープンソースGISの中で、最も長く維持され、かつ最大のものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25856,8 +25856,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The GRASS GIS software includes more than 400 built-in analysis modules.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011123Z" creationid="miurahr" creationdate="20201103T011123Z">
-        <seg>GRASS GISソフトウェアには、400以上の分析モジュールが組み込まれています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T170905Z" creationid="miurahr" creationdate="20201103T011123Z">
+        <seg>GRASS GIS ソフトウェアには、400以上の解析モジュールが組み込まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36492,8 +36492,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>gvSIG Desktop</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T064030Z" creationid="miurahr" creationdate="20201103T064030Z">
-        <seg>gvSIGデスクトップ</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T171342Z" creationid="miurahr" creationdate="20201103T064030Z">
+        <seg>gvSIG デスクトップ</seg>
       </tuv>
     </tu>
     <tu>
