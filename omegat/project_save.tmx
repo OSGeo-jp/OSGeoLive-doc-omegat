@@ -4366,6 +4366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Actinia</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T054908Z" creationid="sanak" creationdate="20210102T054908Z">
+        <seg>Actinia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Actinia Quickstart</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020743Z" creationid="miurahr" creationdate="20201103T020743Z">
@@ -15443,8 +15451,8 @@
       <tuv lang="en-US">
         <seg>It provides a REST API to process satellite images, time series of satellite images, arbitrary raster data with geographical relations and vector data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T020441Z" creationid="miurahr" creationdate="20201103T020441Z">
-        <seg>衛星画像、時系列衛星画像、地理的関係を持つ任意のラスタデータ、ベクタデータを処理するREST APIを提供する。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T055105Z" creationid="miurahr" creationdate="20201103T020441Z">
+        <seg>衛星画像、時系列衛星画像、地理的関係を持つ任意のラスタデータ、ベクタデータを処理するREST APIを提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22152,8 +22160,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>REST API to process satellite images, time series of satellite images, raster and vector data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T020457Z" creationid="miurahr" creationdate="20201103T020457Z">
-        <seg>衛星画像、時系列の衛星画像、ラスターおよびベクタデータを処理するREST API。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T055155Z" creationid="miurahr" creationdate="20201103T020457Z">
+        <seg>衛星画像、時系列の衛星画像、ラスタおよびベクタデータを処理するREST API。</seg>
       </tuv>
     </tu>
     <tu>
