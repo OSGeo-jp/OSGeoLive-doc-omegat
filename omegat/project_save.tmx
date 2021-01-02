@@ -8816,8 +8816,8 @@
       <tuv lang="en-US">
         <seg>Database "jdbc-ng" support:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T063002Z" creationid="miurahr" creationdate="20201103T063002Z">
-        <seg>データベース "jdbc-ng"のサポート:</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T150651Z" creationid="miurahr" creationdate="20201103T063002Z">
+        <seg>データベース "jdbc-ng" サポート:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12168,8 +12168,8 @@
       <tuv lang="en-US">
         <seg>GeoTools also operates as part of a wider community with a staging area used to foster new talent and promote experimentation.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T012222Z" creationid="miurahr" creationdate="20201103T012222Z">
-        <seg>GeoToolsはまた、新しい人材を育成し、実験を促進するために使用されるステージング領域を持つ、より広いコミュニティの一部として動作します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T150205Z" creationid="miurahr" creationdate="20201103T012222Z">
+        <seg>GeoTools はまた、新しい人材の育成や実験の促進に使用されるステージング領域を持つ、より広いコミュニティの一部としても運営されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24368,8 +24368,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Some highlights are swing support (used in geotools tutorials), swt, local and web process support, additional symbology, additional data formats, generation of grids and a couple of implementations of ISO Geometry.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T090042Z" creationid="miurahr" creationdate="20201103T012234Z">
-        <seg>注目すべき点は、swingサポート(geotoolsチュートリアルで使用)、swt、ローカルおよびWebプロセスサポート、シンボロジーの追加、データフォーマットの追加、グリッドの生成、およびISOジオメトリのいくつかの実装です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T150440Z" creationid="miurahr" creationdate="20201103T012234Z">
+        <seg>注目すべき点は、Swing サポート (geotoolsチュートリアルで使用)、SWT、ローカルおよびWebプロセスサポート、追加のシンボロジー、追加のデータフォーマット、グリッドの生成、および ISO ジオメトリのいくつかの実装です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39172,8 +39172,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>raster formats and data access:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T012245Z" creationid="miurahr" creationdate="20201103T012245Z">
-        <seg>ラスター形式とデータアクセス:</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T150452Z" creationid="miurahr" creationdate="20201103T012245Z">
+        <seg>ラスタフォーマットとデータアクセス:</seg>
       </tuv>
     </tu>
     <tu>
