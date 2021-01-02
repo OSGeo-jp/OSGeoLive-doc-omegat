@@ -13072,8 +13072,8 @@
       <tuv lang="en-US">
         <seg>Highly efficient raster data access, taking advantage of tiling and overviews</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>ラスタデータの高度な操作。タイリング、サムネイル作成</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T073447Z">
+        <seg>タイリングと概観ビューを活用した、高効率なラスタデータアクセス</seg>
       </tuv>
     </tu>
     <tu>
