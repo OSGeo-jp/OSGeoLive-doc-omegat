@@ -8784,8 +8784,8 @@
       <tuv lang="en-US">
         <seg>Data on OSGeoLive is available under various Open Licences.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T072541Z" creationid="smellman" creationdate="20201101T110717Z">
-        <seg>OSGeoLiveに関するデータはさまざまなオープン・ライセンスの下で入手可能です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T045515Z" creationid="smellman" creationdate="20201101T110717Z">
+        <seg>OSGeoLiveに関するデータはさまざまなオープンライセンスの下で入手可能です。</seg>
       </tuv>
     </tu>
     <tu>
