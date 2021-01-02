@@ -360,8 +360,8 @@
       <tuv lang="en-US">
         <seg>**Air Quality Data e-Reporting Extension**: Starting with version 4.3.0, an extension is available that provides for the Air Quality Data Flows E1a, E1b and E2a compliant data (the instance on OSGeoLive is not configured accordingly).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201124T235720Z" creationid="miurahr" creationdate="20201103T041910Z">
-        <seg>**Air Quality データ eレポート拡張**:  バージョン4.3.0以降では、Air Quality Data Flows E1a、E1b、およびE2a準拠データを提供する拡張機能が使用可能です(OSGeoLiveのインスタンスは適切に設定されていません)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T050413Z" creationid="miurahr" creationdate="20201103T041910Z">
+        <seg>**Air Quality データeレポート拡張**: バージョン4.3.0以降では、Air Quality Data Flows E1a、E1b、およびE2a準拠データを提供する拡張機能が使用可能です(OSGeoLiveのインスタンスは適切に設定されていません)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,8 +376,8 @@
       <tuv lang="en-US">
         <seg>**Browser Client**: The SOS is delivered with a browser based application.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T041639Z" creationid="miurahr" creationdate="20201103T041639Z">
-        <seg>**ブラウザクライアント**:SOSはブラウザベースのアプリケーションで提供されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T050001Z" creationid="miurahr" creationdate="20201103T041639Z">
+        <seg>**ブラウザクライアント**: SOSはブラウザベースのアプリケーションで提供されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -696,16 +696,16 @@
       <tuv lang="en-US">
         <seg>**Helgoland**: The SOS contains the Helgoland application for  the exploration, analysis and visualization of Sensor Web data in various fields of use, e.g. hydrology, meteorology, environmental monitoring, traffic management.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T041652Z" creationid="miurahr" creationdate="20201103T041652Z">
-        <seg>**Helgoland**:SOSには、水文、気象、環境モニタリング、交通管理など、さまざまな使用分野におけるセンサーWebデータの調査、分析、視覚化のためのHelgolandアプリケーションが含まれています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T050010Z" creationid="miurahr" creationdate="20201103T041652Z">
+        <seg>**Helgoland**: SOSには、水文、気象、環境モニタリング、交通管理など、さまざまな使用分野におけるセンサーWebデータの調査、分析、視覚化のためのHelgolandアプリケーションが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>**INSPIRE Download Service Extension**: Starting with Version 4.2.0, an extension is available that allows the SOS to be used as an INSPIRE download service.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201124T235729Z" creationid="miurahr" creationdate="20201103T041717Z">
-        <seg>**INSPIRE ダウンロードサービス拡張**:  バージョン4.2.0以降では、SOSをINSPIREダウンロードサービスとして使用できるように拡張されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T050045Z" creationid="miurahr" creationdate="20201103T041717Z">
+        <seg>**INSPIRE ダウンロードサービス拡張**: バージョン4.2.0以降では、SOSをINSPIREダウンロードサービスとして使用できるように拡張されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1200,8 +1200,8 @@
       <tuv lang="en-US">
         <seg>**Sensor Web REST-API**: Starting with Version 4.1.1., a bundle version is available, that directly provides the `RESTful API &lt;https://wiki.52north.org/SensorWeb/SensorWebClientRESTInterface&gt;`_, is available.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201103T055152Z" creationid="sanak" creationdate="20201103T055152Z">
-        <seg>**センサー Web REST-API**: バージョン4.1.1以降では、バンドルバージョンが使用可能で、 `RESTful API &lt;https://wiki.52north.org/SensorWeb/SensorWebClientRESTInterface&gt;`_　が直接使用可能です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T050156Z" creationid="sanak" creationdate="20201103T055152Z">
+        <seg>**センサー Web REST-API**: バージョン4.1.1以降では、バンドルバージョンが使用可能で、 `RESTful API &lt;https://wiki.52north.org/SensorWeb/SensorWebClientRESTInterface&gt;`_ が直接使用可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1680,8 +1680,8 @@
       <tuv lang="en-US">
         <seg>**Specifications**: The 52°North SOS implements the current specification version 2.0.0 and the previous version 1.0.0 (here no transactional operations).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201124T235745Z" creationid="miurahr" creationdate="20201103T041705Z">
-        <seg>**仕様**:  52°North SOSは、現在の仕様バージョン2.0.0および以前のバージョン1.0.0を実装します(ここではトランザクション操作はありません)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T050027Z" creationid="miurahr" creationdate="20201103T041705Z">
+        <seg>**仕様**: 52°North SOSは、現在の仕様バージョン2.0.0および以前のバージョン1.0.0を実装します(ここではトランザクション操作はありません)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3114,6 +3114,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>5.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>52</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T045942Z" creationid="sanak" creationdate="20210102T045942Z">
+        <seg>52</seg>
       </tuv>
     </tu>
     <tu>
@@ -5912,8 +5920,8 @@
       <tuv lang="en-US">
         <seg>Background information is provided in a `blog post &lt;https://blog.52north.org/2014/01/30/52north-supports-the-jrc-in-developing-an-inspire-download-service-based-on-sos/&gt;`_ and in the `wiki &lt;https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#INSPIRE_Download_Service_extensi&gt;`_ .</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201124T235715Z" creationid="miurahr" creationdate="20201103T041859Z">
-        <seg>背景情報は、 `ブログポスト &lt;https://blog.52north.org/2014/01/30/52north-supports-the-jrc-in-developing-an-inspire-download-service-based-on-sos/&gt;`_  および  `Wiki &lt;https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#INSPIRE_Download_Service_extensi&gt;`_ で提供されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T050114Z" creationid="miurahr" creationdate="20201103T041859Z">
+        <seg>背景情報は、 `ブログポスト &lt;https://blog.52north.org/2014/01/30/52north-supports-the-jrc-in-developing-an-inspire-download-service-based-on-sos/&gt;`_  および `Wiki &lt;https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#INSPIRE_Download_Service_extensi&gt;`_ で提供されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17811,8 +17819,8 @@
       <tuv lang="en-US">
         <seg>More details can be found in the `52°North SOS client &lt;http://localhost:8080/52nSOS/index&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201103T071519Z" creationid="sanak" creationdate="20201103T071519Z">
-        <seg>詳細については `52°North SOS client &lt;http://localhost:8080/52nSOS/index&gt;`_ を参照してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T050642Z" creationid="sanak" creationdate="20201103T071519Z">
+        <seg>詳細については `52°North SOS クライアント &lt;http://localhost:8080/52nSOS/index&gt;`_ を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18437,6 +18445,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T013725Z" creationid="miurahr" creationdate="20201220T013708Z">
         <seg>ノースカロライナ USA 教育データ・セット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>North SOS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T045951Z" creationid="sanak" creationdate="20210102T045951Z">
+        <seg>North SOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -26387,8 +26403,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The demo data are published under a |CC BY 3.0| License.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201103T072137Z" creationid="sanak" creationdate="20201103T072137Z">
-        <seg>でもデータは、 |CC BY 3.0| ライセンスの下で公開されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T050940Z" creationid="sanak" creationdate="20201103T072137Z">
+        <seg>デモデータは、 |CC BY 3.0| ライセンスの下で公開されています。</seg>
       </tuv>
     </tu>
     <tu>
