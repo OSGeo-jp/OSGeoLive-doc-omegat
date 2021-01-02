@@ -11680,23 +11680,23 @@
       <tuv lang="en-US">
         <seg>GRASS GIS has been optimized for performance and large geospatial data analysis.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011108Z" creationid="miurahr" creationdate="20201103T011108Z">
-        <seg>GRASS GISは、パフォーマンスおよび大規模な空間データ分析用に最適化されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T170303Z" creationid="miurahr" creationdate="20201103T011108Z">
+        <seg>GRASS GIS は、パフォーマンスおよび大規模な空間データ分析用に最適化されています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>GRASS GIS has been translated into many languages and supports a huge array of data formats.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011113Z" creationid="miurahr" creationdate="20201103T011113Z">
-        <seg>GRASS GISは多くの言語に翻訳され、膨大なデータフォーマットをサポートしています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T170449Z" creationid="miurahr" creationdate="20201103T011113Z">
+        <seg>GRASS GIS は多くの言語に翻訳されており、多数のデータフォーマットに対応しています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>GRASS GIS includes tools for spatial modeling, visualization of raster and vector data, management and analysis of geospatial data, and the processing of satellite and aerial imagery.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T165631Z" creationid="miurahr" creationdate="20201103T011102Z">
+      <tuv lang="ja" changeid="sanak" changedate="20210102T170311Z" creationid="miurahr" creationdate="20201103T011102Z">
         <seg>GRASS GIS には、空間モデリング、ラスタおよびベクタデータの視覚化、地理空間データの管理と解析、衛星および航空写真画像の処理のためのツールが含まれています。</seg>
       </tuv>
     </tu>
@@ -11712,8 +11712,8 @@
       <tuv lang="en-US">
         <seg>GRASS GIS is used around the world in academic and commercial settings as well as by many governmental agencies and environmental consulting companies.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011118Z" creationid="miurahr" creationdate="20201103T011118Z">
-        <seg>GRASS GISは、多くの政府機関や環境コンサルティング会社だけでなく、学術的および商業的な環境で世界中で使用されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T170652Z" creationid="miurahr" creationdate="20201103T011118Z">
+        <seg>GRASS GIS は、多くの政府機関や環境コンサルティング会社だけでなく、学術的および商業的な環境で世界中のあらゆる所で使用されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15211,8 +15211,8 @@
       <tuv lang="en-US">
         <seg>It also can produce sophisticated presentation graphics and hardcopy maps.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011111Z" creationid="miurahr" creationdate="20201103T011111Z">
-        <seg>また、高度なプレゼンテーショングラフィックスやハードコピーマップを作成することもできます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T170420Z" creationid="miurahr" creationdate="20201103T011111Z">
+        <seg>さらに、プレゼンテーション用のすばらしい画像の作成、地図の印刷も可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15683,8 +15683,8 @@
       <tuv lang="en-US">
         <seg>It runs on a variety of popular hardware platforms and is Free open-source software released under the terms of the GNU General Public License.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011121Z" creationid="miurahr" creationdate="20201103T011121Z">
-        <seg>さまざまな一般的なハードウェアプラットフォーム上で動作し、GNU General Public Licenseの条件に基づいてリリースされたフリーのオープンソースソフトウェアです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210102T170809Z" creationid="miurahr" creationdate="20201103T011121Z">
+        <seg>さまざまな一般的なハードウェアプラットフォーム上で動作し、GNU General Public License の条件に基づいてリリースされたフリーのオープンソースソフトウェアです。</seg>
       </tuv>
     </tu>
     <tu>
