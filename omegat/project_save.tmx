@@ -41268,8 +41268,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>|OSGeo_project| :doc:`postgis_overview` - [:doc:`Quickstart &lt;../quickstart/postgis_quickstart&gt;`] - Spatial Database</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>|OSGeo_project| :doc:`postgis_overview` - [:doc:`空間データの格納: &lt;../quickstart/postgis_quickstart&gt;`] - 空間データベース</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210103T032904Z">
+        <seg>|OSGeo_project| :doc:`postgis_overview` - [:doc:`クイックスタート &lt;../quickstart/postgis_quickstart&gt;`] - 空間データベース</seg>
       </tuv>
     </tu>
     <tu>
