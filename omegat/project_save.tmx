@@ -4264,8 +4264,8 @@
       <tuv lang="en-US">
         <seg>A terminal window opens running R.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T142537Z" creationid="miurahr" creationdate="20201123T142537Z">
-        <seg>ターミナルウィンドウが開き、Rが実行されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210103T034727Z" creationid="miurahr" creationdate="20201123T142537Z">
+        <seg>ターミナルウィンドウが開き、R が実行されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6984,8 +6984,8 @@
       <tuv lang="en-US">
         <seg>Choose :menuselection:`Geospatial --&gt; Spatial Tools --&gt; R Statistics`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T142532Z" creationid="miurahr" creationdate="20201123T142532Z">
-        <seg> :menuselection:`Geospatial --&gt; Spatial Tools --&gt; R Statistics` を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210103T034703Z" creationid="miurahr" creationdate="20201123T142532Z">
+        <seg>:menuselection:`Geospatial --&gt; Spatial Tools --&gt; R Statistics` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9416,8 +9416,8 @@
       <tuv lang="en-US">
         <seg>Don't fear the command line - it is a source of great power.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T142452Z" creationid="miurahr" creationdate="20201123T142452Z">
-        <seg>コマンドラインを恐れる必要はありません。大きな力の源です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210103T034523Z" creationid="miurahr" creationdate="20201123T142452Z">
+        <seg>コマンドラインはそんなに怖いものではなく、とても便利なものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13304,8 +13304,8 @@
       <tuv lang="en-US">
         <seg>Hit CTRL-C if get stuck and you should get the prompt back.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T142503Z" creationid="miurahr" creationdate="20201123T142503Z">
-        <seg>スタックした場合は、CTRL-Cを押します。プロンプトが再度表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210103T034646Z" creationid="miurahr" creationdate="20201123T142503Z">
+        <seg>表示が止まってしまった場合は CTRL-C を入力することで復帰することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22544,8 +22544,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>R is essentially a command-line program, although graphical user interfaces are available.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T142441Z" creationid="miurahr" creationdate="20201123T142441Z">
-        <seg>Rは基本的にコマンドラインプログラムですが、GUIも利用できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210103T034458Z" creationid="miurahr" creationdate="20201123T142441Z">
+        <seg>R は基本的にコマンドラインプログラムですが、GUI も利用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25104,8 +25104,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Start R</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>開始 R</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210103T034337Z">
+        <seg>R の起動</seg>
       </tuv>
     </tu>
     <tu>
@@ -30660,8 +30660,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Using the up and down arrows to recall commands so you can edit mistakes.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T142457Z" creationid="miurahr" creationdate="20201123T142457Z">
-        <seg>上下の矢印を使用してコマンドを呼び出し、間違いを編集できるようにします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210103T034552Z" creationid="miurahr" creationdate="20201123T142457Z">
+        <seg>ミスタイプをしても十字キーの上下でコマンド履歴を呼び出し編集することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33332,8 +33332,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You type a line of code at the prompt, press return, and the R interpreter evaluates it and prints the result.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T142447Z" creationid="miurahr" creationdate="20201123T142447Z">
-        <seg>プロンプトで1行のコードを入力し、returnキーを押すと、Rインタプリタがそれを評価して結果を出力します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210103T034352Z" creationid="miurahr" creationdate="20201123T142447Z">
+        <seg>プロンプトで1行のコードを入力し、return キーを押すと、R インタプリタがそれを評価して結果を出力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37940,8 +37940,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>load some data from a shapefile and map it</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>シェープファイルからデータを読み込み、マップする</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210103T034316Z">
+        <seg>シェープファイルからデータを読み込み、地図化する</seg>
       </tuv>
     </tu>
     <tu>
@@ -40580,8 +40580,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>use R for simple arithmetic</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>単純な算術演算には R を使用します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210103T034308Z">
+        <seg>簡単な算術演算に R を使用する</seg>
       </tuv>
     </tu>
     <tu>
