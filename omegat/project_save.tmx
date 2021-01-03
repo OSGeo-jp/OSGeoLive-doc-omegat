@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Java) plugin-system</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210103T141740Z" creationid="sanak" creationdate="20210103T141740Z">
+        <seg>(Java) プラグインシステム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Optional) Installing GeoStyler</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235106Z" creationid="miurahr" creationdate="20201116T235106Z">
@@ -9686,6 +9694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dublin Core</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Dublin Core</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dublin Core   1.1</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T030354Z" creationid="miurahr" creationdate="20201220T030354Z">
@@ -12346,6 +12362,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T084626Z" creationid="sanak" creationdate="20210102T084626Z">
         <seg>Geographic JSON (GeoJSON)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geomajas</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Geomajas</seg>
       </tuv>
     </tu>
     <tu>
@@ -19305,6 +19329,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Numpy</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Numpy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OAI-PMH   2.0</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T030358Z" creationid="miurahr" creationdate="20201220T030358Z">
@@ -19389,6 +19421,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T030354Z" creationid="miurahr" creationdate="20201220T030354Z">
         <seg>OGC OpenSearch  1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC Simple Features for SQL (SFQL)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OGC Simple Features for SQL (SFQL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19489,10 +19529,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OGC Web Feature Server (WFS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OGC Web Feature Server (WFS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC Web Feature Server Transactional (WFS-T)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OGC Web Feature Server Transactional (WFS-T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OGC Web Feature Service (WFS) 1.0.0 and Transactional WFS (WFS-T) 1.0.0</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T184201Z" creationid="sanak" creationdate="20210102T184201Z">
         <seg>OGC Web Feature Service (WFS) 1.0.0 and Transactional WFS (WFS-T) 1.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC Web Map Server (WMS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OGC Web Map Server (WMS)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22485,6 +22549,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Quilted charts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210103T141614Z" creationid="sanak" creationdate="20210103T141614Z">
+        <seg>海図の繋ぎ合わせ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>R</seg>
       </tuv>
       <tuv lang="ja">
@@ -24370,6 +24442,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>シェープファイル、 外部WFS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shapely</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Shapely</seg>
       </tuv>
     </tu>
     <tu>
@@ -31082,6 +31162,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>WPS 1.0.0</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>WPS 1.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>WPS Server</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T145857Z" creationid="sanak" creationdate="20210101T145857Z">
@@ -31582,6 +31670,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201121T055501Z" creationid="miurahr" creationdate="20201121T055501Z">
         <seg>Web Map サーバ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Web Map Server Cache (WMS-C)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Web Map Server Cache (WMS-C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37268,8 +37364,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>internationalization (cz, de, en, es, fi, fr, hu, it, ja, pt, ta, zh)</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T104213Z" creationid="smellman" creationdate="20201103T104213Z">
-        <seg>国際化(cz, de, en, es, fi, fr, hu, it, ja, pt, ta, zh)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210103T141708Z" creationid="smellman" creationdate="20201103T104213Z">
+        <seg>国際化 (cz, de, en, es, fi, fr, hu, it, ja, pt, ta, zh)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37446,6 +37542,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>jakob miksch posteo eu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>jansule</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>jansule</seg>
       </tuv>
     </tu>
     <tu>
@@ -40178,6 +40282,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>suleiman terrestris de</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>suleiman terrestris de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>support for non-image raster data like DEMs</seg>
       </tuv>
       <tuv lang="ja">
@@ -41430,6 +41542,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T083258Z">
         <seg>|WMS| (クライアント/サーバ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|WMS| (v1.1.1, v1.3.0)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>|WMS| (v1.1.1, v1.3.0)</seg>
       </tuv>
     </tu>
     <tu>
