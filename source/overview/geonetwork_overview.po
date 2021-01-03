@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Ko Nagase <nagase@georepublic.co.jp>, 2020
+# Ko Nagase <nagase@georepublic.co.jp>, 2021
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-15 14:20-0600\n"
 "PO-Revision-Date: 2017-09-20 16:07+0000\n"
-"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2020\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2021\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../build/doc/overview/geonetwork_overview.rst:18
 msgid "GeoNetwork"
-msgstr ""
+msgstr "GeoNetwork"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:21
 msgid "Metadata Catalog"
@@ -40,7 +40,7 @@ msgstr ""
 
 #: ../../build/doc/overview/geonetwork_overview.rst:32
 msgid "Core Features"
-msgstr "主要機能"
+msgstr "主な機能"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:33
 msgid "Immediate search access to local and distributed geospatial catalogues"
@@ -61,7 +61,7 @@ msgstr "世界中の分散しているサーバからのWebマップサービス
 #: ../../build/doc/overview/geonetwork_overview.rst:36
 msgid ""
 "Recently updated entries are accessible as RSS news feeds and as GeoRSS."
-msgstr "最近更新されたエントリは、RSSニュースフィードおよびGeoRSSとしてのアクセスできるようになりました。"
+msgstr "最近更新されたエントリは、RSS ニュースフィードおよび GeoRSS としてアクセスできるようになりました。"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:37
 msgid "Online editing of metadata with a powerful template system"
@@ -72,7 +72,7 @@ msgid ""
 "Native support for ISO19115/ISO19119/ISO19139/ISO19110 and Dublin Core "
 "formatted metadata"
 msgstr ""
-"ISO19115/ISO19119/ISO19139/ISO19110およびDublin Coreフォーマットのメタデータのネイティブサポート"
+"ISO19115/ISO19119/ISO19139/ISO19110 および Dublin Core フォーマットのメタデータのネイティブサポート"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:39
 msgid ""
@@ -80,8 +80,8 @@ msgid ""
 "catalogues (GeoNetwork, CSW, OGC WxS GetCapabilities, WebDav, ArcSDE, "
 "Thredds, OGC WFS Features, OAI-PMH)"
 msgstr ""
-"配信されたカタログ(GeoNetwork、CSW、OGC WxS GetCapabilities、WebDAV、ArcSDE、Thredds、OGC "
-"WFS Features、OAI-PMH)間のメタデータのスケジュールされた収集と同期"
+"配信されたカタログ (GeoNetwork、CSW、OGC WxS GetCapabilities、WebDAV、ArcSDE、Thredds、OGC "
+"WFS Features、OAI-PMH) 間のメタデータのスケジュールされた収集と同期"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:40
 msgid "Fine-grained access control"
@@ -93,7 +93,7 @@ msgstr "グループとユーザーの管理"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:42
 msgid "Multi-lingual user interface"
-msgstr "多言語のユーザーインターフェイス"
+msgstr "多言語のユーザインタフェース"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:45
 msgid "Implemented Standards"
@@ -101,23 +101,23 @@ msgstr "実装されている標準規格"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:47
 msgid "OGC Catalogue Service-Web (CSW) 2.0.2 ISO"
-msgstr ""
+msgstr "OGC Catalogue Service-Web (CSW) 2.0.2 ISO"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:48
 msgid "Open Archives Initiatives (OAI-PMH)"
-msgstr ""
+msgstr "Open Archives Initiatives (OAI-PMH)"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:49
 msgid "OpenSearch-Geo / INSPIRE Atom"
-msgstr ""
+msgstr "OpenSearch-Geo / INSPIRE Atom"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:50
 msgid "Client for OGC-WMS/WMTS/WFS"
-msgstr ""
+msgstr "Client for OGC-WMS/WMTS/WFS"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:51
 msgid "Metadata standards:"
-msgstr ""
+msgstr "メタデータ標準規格:"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:53
 msgid "ISO19115/ISO19119/ISO19139/ISO19110 and ISO Profiles"
@@ -125,7 +125,7 @@ msgstr ""
 
 #: ../../build/doc/overview/geonetwork_overview.rst:54
 msgid "Dublin Core"
-msgstr ""
+msgstr "Dublin Core"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:57
 msgid "Details"
@@ -149,7 +149,7 @@ msgstr "**対応プラットフォーム:** Windows, Linux, Mac"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:67
 msgid "**API Interfaces:** Java"
-msgstr "**API インターフェイス:** Java"
+msgstr "**API インタフェース:** Java"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:69
 msgid "**Support:** https://www.osgeo.org/service-providers"

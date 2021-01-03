@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Ko Nagase <nagase@georepublic.co.jp>, 2019
+# Ko Nagase <nagase@georepublic.co.jp>, 2021
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-28 21:50-0600\n"
 "PO-Revision-Date: 2017-09-20 16:02+0000\n"
-"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2019\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2021\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -36,13 +36,13 @@ msgid ""
 msgstr ""
 "プロジェクトのコードリポジトリ `OpenHUB <https://www.openhub.net/>`_ "
 "によるメトリクス。これらのメトリクスにはいくつかの欠点 (リポジトリの移動などによる) "
-"があることに注意する必要があります。また、プロジェクト開発については断片的な情報しかありません。一部の小さな変更を除けば、パッケージとライブラリは完成度の高いレベルにあります。"
+"があることに注意する必要があります。また、プロジェクトの開発については断片的な情報しかありません。一部の小さな変更を除けば、パッケージとライブラリは完成度の高いレベルにあります。"
 
 #: ../../build/doc/metrics.rst:14
 msgid ""
 "Viewing the metrics requires an Internet connection and Javascript to be "
 "enabled."
-msgstr "メトリクスを見るためにはインターネット接続と　Javascript　の実行をを許可する必要があります。"
+msgstr "メトリクスを見るためにはインターネット接続と Javascript の実行を許可する必要があります。"
 
 #: ../../build/doc/metrics.rst:23
 msgid "Desktop GIS"

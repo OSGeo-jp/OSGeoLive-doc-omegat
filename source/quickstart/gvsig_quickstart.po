@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Ko Nagase <nagase@georepublic.co.jp>, 2020
+# Ko Nagase <nagase@georepublic.co.jp>, 2021
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-21 10:22-0500\n"
 "PO-Revision-Date: 2017-09-20 16:03+0000\n"
-"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2020\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2021\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -143,7 +143,7 @@ msgstr ""
 msgid ""
 "(4) The right cell is the main display area where raster and vector data is "
 "rendered."
-msgstr ""
+msgstr "(4)右のセルは、ラスタデータとベクタデータがレンダリングされるメイン表示領域です。"
 
 #: ../../build/doc/quickstart/gvsig_quickstart.rst:99
 msgid "Add layers to the view"
@@ -320,6 +320,9 @@ msgid ""
 "aerial photograph or Digital Terrain Model as a backdrop to your vector "
 "data, or to show other vector data stored in different formats."
 msgstr ""
+"Note that this is a very basic view showing a point, a line and a polygon "
+"vector file superimposed over a raster file. "
+"航空写真やデジタル地形モデルをベクタデータの背景として使用したり、異なる形式で保存された他のベクタデータを表示することも簡単です。"
 
 #: ../../build/doc/quickstart/gvsig_quickstart.rst:194
 msgid "Add an overview or locator"

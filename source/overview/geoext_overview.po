@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Ko Nagase <nagase@georepublic.co.jp>, 2019
+# Ko Nagase <nagase@georepublic.co.jp>, 2021
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-21 10:22-0500\n"
 "PO-Revision-Date: 2019-07-17 15:40+0000\n"
-"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2019\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2021\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,11 +23,11 @@ msgstr ""
 
 #: ../../build/doc/overview/geoext_overview.rst:14
 msgid "GeoExt"
-msgstr ""
+msgstr "GeoExt"
 
 #: ../../build/doc/overview/geoext_overview.rst:17
 msgid "A JavaScript Toolkit for Rich Web Mapping Applications"
-msgstr ""
+msgstr "リッチWebマッピングアプリケーションのためのJavaScriptツールキット"
 
 #: ../../build/doc/overview/geoext_overview.rst:19
 msgid ""
@@ -37,6 +37,10 @@ msgid ""
 "interface of the `ExtJS <https://www.sencha.com/products/extjs/>`_ library "
 "provided by `Sencha <https://www.sencha.com>`_."
 msgstr ""
+"GeoExtはオープンソースで、Web経由でデスクトップアプリケーションのようなGISアプリケーションが構築できます。これは、  `OpenLayers"
+" <https://openlayers.org/>`_ のGIS機能と、`Sencha <https://www.sencha.com>`_ "
+"によって提供される  `ExtJS <https://www.sencha.com/products/extjs/>`_  "
+"ライブラリのユーザインタフェースを組み合わせたJavaScriptフレームワークです。"
 
 #: ../../build/doc/overview/geoext_overview.rst:22
 msgid ""
@@ -46,6 +50,7 @@ msgid ""
 "classes are also available allowing OpenLayers features and layers to be "
 "used as ExtJS data models, and for various map layer types to be serialized."
 msgstr ""
+"ユーザーインタフェースコンポーネントには、マップパネル、レイヤツリーパネル、地物グリッド、および全体図マップがあります。GeoExtコンポーネントは、他のExtJSコンポーネントと同様に使用でき、簡単に設定と拡張ができます。下位レベルのクラスも利用可能で、OpenLayersの地物とレイヤをExtJSデータモデルとして使用したり、さまざまなマップレイヤタイプをシリアライズしたりすることができます。"
 
 #: ../../build/doc/overview/geoext_overview.rst:26
 msgid ""
@@ -54,6 +59,9 @@ msgid ""
 "the ExtJS framework you will use it under GPLv3. If you own a Sencha ExtJS "
 "Commercial License, you have the right to use GeoExt3 under the BSD License."
 msgstr ""
+"GeoExt3はデュアルライセンスです。選択するライセンスは、使用するフレームワークExtJSのライセンスによって異なります。GPL "
+"v3バージョンのExtJSフレームワークを使用している場合は、GPLv3の下で使用します。Sencha "
+"ExtJS商用ライセンスを所有している場合、BSDライセンスの下でGeoExt3を使用する権利があります。"
 
 #: ../../build/doc/overview/geoext_overview.rst:37
 msgid "Core Features"
@@ -61,41 +69,42 @@ msgstr "主な機能"
 
 #: ../../build/doc/overview/geoext_overview.rst:39
 msgid "UI Components"
-msgstr ""
+msgstr "UIコンポーネント"
 
 #: ../../build/doc/overview/geoext_overview.rst:41
 msgid "Map panel"
-msgstr ""
+msgstr "マップパネル"
 
 #: ../../build/doc/overview/geoext_overview.rst:42
 msgid "Overview map"
-msgstr ""
+msgstr "マップ全体図"
 
 #: ../../build/doc/overview/geoext_overview.rst:43
 msgid "Pop-ups"
-msgstr ""
+msgstr "ポップアップ"
 
 #: ../../build/doc/overview/geoext_overview.rst:44
 msgid "Feature renderer"
-msgstr ""
+msgstr "地物レンダラー"
 
 #: ../../build/doc/overview/geoext_overview.rst:45
 msgid "Layer Tree, legends, and drag-and-drop layer ordering"
-msgstr ""
+msgstr "レイヤツリー、凡例、ドラッグアンドドロップによるレイヤ順序管理"
 
 #: ../../build/doc/overview/geoext_overview.rst:47
 msgid "Data Models and Stores"
-msgstr ""
+msgstr "データモデルとデータストア"
 
 #: ../../build/doc/overview/geoext_overview.rst:49
 msgid ""
 "Integration of the OpenLayers data model with the ExtJS data model enabling "
 "sorting and filtering of features using ExtJS components"
 msgstr ""
+"OpenLayersデータモデルとExtJSデータモデルの統合により、ExtJSコンポーネントを使用した地物の並べ替えとフィルタリングが可能"
 
 #: ../../build/doc/overview/geoext_overview.rst:51
 msgid "ExtJS stores and models for OpenLayers features and layers"
-msgstr ""
+msgstr "OpenLayersの地物とレイヤのためのExtJSストアとモデル"
 
 #: ../../build/doc/overview/geoext_overview.rst:53
 msgid "Miscellaneous"
@@ -107,10 +116,14 @@ msgid ""
 "doc/>`_ and `GeoServer Printing Module "
 "<https://docs.geoserver.org/latest/en/user/extensions/printing/index.html>`_"
 msgstr ""
+"`MapFish Print <http://mapfish.github.io/mapfish-print-doc/>`_ および "
+"`GeoServer Printing Module "
+"<https://docs.geoserver.org/latest/en/user/extensions/printing/index.html>`_"
+" との統合"
 
 #: ../../build/doc/overview/geoext_overview.rst:57
 msgid "Layer Serializers (WMS, WMTS, XYZ)"
-msgstr ""
+msgstr "レイヤシリアライザー(WMS, WMTS, XYZ)"
 
 #: ../../build/doc/overview/geoext_overview.rst:60
 msgid "Details"
@@ -118,7 +131,7 @@ msgstr "詳細"
 
 #: ../../build/doc/overview/geoext_overview.rst:62
 msgid "**Website:** https://geoext.github.io/geoext3"
-msgstr ""
+msgstr "**Webサイト:** https://geoext.github.io/geoext3"
 
 #: ../../build/doc/overview/geoext_overview.rst:64
 msgid ""
@@ -126,14 +139,17 @@ msgid ""
 "<https://github.com/geoext/geoext3/blob/master/LICENSE>`_ and `License FAQ "
 "<https://github.com/geoext/geoext3/blob/master/LICENSE-FAQ.md>`_"
 msgstr ""
+"**ライセンス:** GPLv3 もしくは BSD ライセンス、ExtJS ライセンスに依存 - `ライセンス "
+"<https://github.com/geoext/geoext3/blob/master/LICENSE>`_ および `ライセンス FAQ "
+"<https://github.com/geoext/geoext3/blob/master/LICENSE-FAQ.md>`_ を参照"
 
 #: ../../build/doc/overview/geoext_overview.rst:67
 msgid "**Software Version:** |version-geoext|"
-msgstr ""
+msgstr "**ソフトウェアバージョン:** |version-geoext|"
 
 #: ../../build/doc/overview/geoext_overview.rst:69
 msgid "**API Interface:** JavaScript"
-msgstr "**API インターフェイス:** JavaScript"
+msgstr "**API インタフェース:** JavaScript"
 
 #: ../../build/doc/overview/geoext_overview.rst:71
 msgid ""
@@ -141,6 +157,8 @@ msgid ""
 "bin/mailman/listinfo/users and "
 "https://stackoverflow.com/questions/tagged/geoext3"
 msgstr ""
+"**サポート:** メーリングリスト https://www.geoext.org/cgi-bin/mailman/listinfo/users および"
+" https://stackoverflow.com/questions/tagged/geoext3"
 
 #: ../../build/doc/overview/geoext_overview.rst:77
 msgid "Quickstart"
@@ -148,4 +166,4 @@ msgstr "クイックスタート"
 
 #: ../../build/doc/overview/geoext_overview.rst:79
 msgid ":doc:`Quickstart documentation <../quickstart/geoext_quickstart>`"
-msgstr ""
+msgstr ":doc:`クイックスタート文書 <../quickstart/geoext_quickstart>`"

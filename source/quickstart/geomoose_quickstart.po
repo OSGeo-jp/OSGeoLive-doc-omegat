@@ -4,8 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Ko Nagase <nagase@georepublic.co.jp>, 2020
-# Vicky Vergara <vicky@georepublic.de>, 2020
+# Ko Nagase <nagase@georepublic.co.jp>, 2021
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-21 10:22-0500\n"
 "PO-Revision-Date: 2017-09-20 16:04+0000\n"
-"Last-Translator: Vicky Vergara <vicky@georepublic.de>, 2020\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2021\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -62,11 +61,11 @@ msgstr "デスクトップアイコン\"Start GeoMoose\"をクリックします
 msgid ""
 "You will be presented with a web page displaying a demo interface of a "
 "GeoMoose instance."
-msgstr "Webページが表示され、GeoMooseインスタンスのデモインターフェイスが表示されます。"
+msgstr "Webページが表示され、GeoMooseインスタンスのデモインタフェースが表示されます。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:43
 msgid "The Interfaces presented above shows:"
-msgstr "上記のインターフェイスは次のものを示しています。"
+msgstr "上記のインタフェースは次のものを示しています。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:45
 msgid "A banner bar"
@@ -144,9 +143,9 @@ msgid ""
 "multi-segment line * measure the area of a polygon."
 msgstr ""
 "GeoMooseの計測ツールを使用すると、次のことができます。\n"
-"* 点を計測(選択された点の座標を返す)\n"
-"* 複数の区間を含む可能性のある線に沿った距離を計測\n"
-"* ポリゴンの面積を計測"
+"* 点を計測(選択された点の座標を返す) \n"
+"* 複数の区間を含む可能性のある線に沿った距離を計測  \n"
+"* ポリゴンの面積を計測。"
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:76
 msgid ""

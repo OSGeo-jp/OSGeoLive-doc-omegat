@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Ko Nagase <nagase@georepublic.co.jp>, 2020
+# Ko Nagase <nagase@georepublic.co.jp>, 2021
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-21 10:22-0500\n"
 "PO-Revision-Date: 2017-09-20 16:03+0000\n"
-"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2020\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2021\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/saga_quickstart.rst:20
 msgid "SAGA Quickstart"
-msgstr ""
+msgstr "SAGA Quickstart"
 
 #: ../../build/doc/quickstart/saga_quickstart.rst:22
 msgid ""
@@ -36,6 +36,8 @@ msgid ""
 "development) and terrain analysis. The functionality can be accessed through"
 " a GUI, the command line or by using the C++ API."
 msgstr ""
+"SAGA (System for Automated Geoscientific Analyses) "
+"は,空間データの編集と解析に使用されるオープンソースの地理情報システム(GIS)である。これはベクトル(点,線,多角形),表,格子,画像データの解析のための多数のモジュールを含みます。このパッケージには、地球統計学、画像分類、投影、動的プロセスのシミュレーション(水文学、景観開発)、地形解析などのモジュールが含まれています。この機能には、GUI、コマンドライン、またはC++APIを使用してアクセスできます。"
 
 #: ../../build/doc/quickstart/saga_quickstart.rst:35
 msgid "Running"

@@ -4,8 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Ko Nagase <nagase@georepublic.co.jp>, 2020
 # MarPetra <mvergaratrejo@gmail.com>, 2020
+# Ko Nagase <nagase@georepublic.co.jp>, 2021
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-15 14:20-0600\n"
 "PO-Revision-Date: 2020-11-29 04:49+0000\n"
-"Last-Translator: MarPetra <mvergaratrejo@gmail.com>, 2020\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2021\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,7 +24,7 @@ msgstr ""
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:17
 msgid "pygeoapi"
-msgstr ""
+msgstr "pygeoapi"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:20
 msgid "Web Service"
@@ -38,66 +38,74 @@ msgid ""
 "RESTful OGC API endpoint using OpenAPI, GeoJSON, and HTML. pygeoapi is `open"
 " source <https://opensource.org>`_ and released under an `MIT`_ license."
 msgstr ""
+"`pygeoapi`_ は `Python`_ で実装されている 各種OGC API標準のサーバです。このプロジェクトは、 2018年の次世代の "
+"`OGC API`_ の取り組みの一環として登場し、各組織が、OpenAPI、 GeoJSON、 HTMLを使用して RESTful な OGC API"
+" エンドポイントを設置できるようにするのが目的です。pygeoapi は `オープンソース <https://opensource.org>`_ で  "
+"`MIT`_ ライセンスでリリースされています。"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:32
 msgid "Core Features"
-msgstr "主要機能"
+msgstr "主な機能"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:34
 msgid "out of the box modern OGC API server"
-msgstr ""
+msgstr "すぐに使用可能な最新の OGC API サーバー"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:35
 msgid ""
 "certified OGC Compliant and Reference Implementation for OGC API - Features"
-msgstr ""
+msgstr "OGC API  - 機能の、 OGC 準拠および参照実装認定"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:36
 msgid ""
 "additionally implements OGC API - Coverages, OGC API - Tiles, OGC API - "
 "Processes and SpatioTemporal Asset Library"
 msgstr ""
+"OGC API - カバレッジ、 OGC API -タイル、 OGC API - "
+"プロセスおよび空間テンポラル・アセット・ライブラリーを追加で実装しています。"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:37
 msgid ""
 "out of the box data provider plugins for rasterio, GDAL/OGR, Elasticsearch, "
 "PostgreSQL/PostGIS"
 msgstr ""
+"データプロバイダのプラグインにより、 rasterio, GDAL/OGR, Elasticsearch, "
+"PostgreSQL/PostGISをすぐに利用可能"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:38
 msgid "easy to use OpenAPI / Swagger documentation for developers"
-msgstr ""
+msgstr "OpenAPI / Swagger の資料を開発者向けに簡単に使用できる"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:39
 msgid "supports JSON, GeoJSON, HTML and CSV output"
-msgstr ""
+msgstr "JSON、 GeoJSON、 HTML 、および CSV の出力をサポート"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:40
 msgid "supports data filtering by spatial, temporal or attribute queries"
-msgstr ""
+msgstr "空間、時間、または属性の照会によるデータ・フィルタリングをサポート"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:41
 msgid "easy to install: install a full implementation via ``pip`` or ``git``"
-msgstr ""
+msgstr "インストールが容易: ``pip`` や ``git`` コマンドで全実装がインストールできる"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:42
 msgid "simple YAML configuration"
-msgstr ""
+msgstr "単純な YAML による設定"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:43
 msgid "easy to deploy: via UbuntuGIS or the official Docker image"
-msgstr ""
+msgstr "設置が簡単: UbuntuGIS や公式 Docker イメージ"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:44
 msgid ""
 "flexible: built on a robust plugin framework to build custom data "
 "connections, formats and processes"
-msgstr ""
+msgstr "柔軟性 : カスタムデータへの接続、フォーマットおよびプロセスを形成する堅固なプラグイン・フレームワーク上に構築"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:45
 msgid ""
 "supports any Python web framework (included are Flask [default], Starlette)"
-msgstr ""
+msgstr "あらゆる (Flask [既定], Starletteをふくむ) Python webフレームワークをサポート"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:49
 msgid "Implemented Standards"
@@ -107,59 +115,59 @@ msgstr "実装されている標準規格"
 msgid ""
 "Standards are at the core of pygeoapi.  Below is the project's standards "
 "support matrix."
-msgstr ""
+msgstr "標準は、pygeoapiの中核になります。以下に、プロジェクトの標準サポート表を示します。"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:53
 msgid "Implementing: implements standard (good)"
-msgstr ""
+msgstr "実装: 標準実装(可)"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:54
 msgid "Compliant: conforms to OGC compliance requirements (great)"
-msgstr ""
+msgstr "準拠: OGC仕様要求に準拠 (良)"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:55
 msgid ""
 "Reference Implementation: provides a reference for the standard (awesome!)"
-msgstr ""
+msgstr "参照実装: 標準の参照を提供(優秀!)"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:1
 msgid "Standard"
-msgstr ""
+msgstr "標準"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:1
 msgid "Support"
-msgstr ""
+msgstr "サポート"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:1
 msgid "`OGC API - Features`_"
-msgstr ""
+msgstr "`OGC API - Features`_"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:1
 msgid "Reference Implementation"
-msgstr ""
+msgstr "参照実装レベル"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:1
 msgid "`OGC API - Coverages`_"
-msgstr ""
+msgstr "`OGC API - Coverages`_"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:1
 #: ../../build/doc/overview/pygeoapi_overview.rst:1
 #: ../../build/doc/overview/pygeoapi_overview.rst:1
 #: ../../build/doc/overview/pygeoapi_overview.rst:1
 msgid "Implementing"
-msgstr ""
+msgstr "実装レベル"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:1
 msgid "`OGC API - Tiles`_"
-msgstr ""
+msgstr "`OGC API - Tiles`_"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:1
 msgid "`OGC API - Processes`_"
-msgstr ""
+msgstr "`OGC API - Processes`_"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:1
 msgid "`SpatioTemporal Asset Catalog`_"
-msgstr ""
+msgstr "`SpatioTemporal Asset Catalog`_"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:69
 msgid "Details"
@@ -167,15 +175,15 @@ msgstr "詳細"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:71
 msgid "**Website:** https://pygeoapi.io/"
-msgstr ""
+msgstr "**Webサイト:** https://pygeoapi.io/"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:73
 msgid "**Licence:** `MIT`_"
-msgstr ""
+msgstr "**ライセンス:** `MIT`_"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:75
 msgid "**Software Version:** |version-pygeoapi|"
-msgstr ""
+msgstr "**ソフトウェアバージョン:** |version-pygeoapi|"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:77
 msgid "**Supported Platforms:** Windows, Linux, Mac"
@@ -183,7 +191,7 @@ msgstr "**対応プラットフォーム:** Windows, Linux, Mac"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:79
 msgid "**API Interfaces:** Python"
-msgstr ""
+msgstr "**API インタフェース:** Python"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:81
 msgid "**Support:** |SUPPORT|"
@@ -195,4 +203,4 @@ msgstr "クイックスタート"
 
 #: ../../build/doc/overview/pygeoapi_overview.rst:98
 msgid ":doc:`Quickstart documentation <../quickstart/pygeoapi_quickstart>`"
-msgstr ""
+msgstr ":doc:`クイックスタート文書 <../quickstart/pygeoapi_quickstart>`"

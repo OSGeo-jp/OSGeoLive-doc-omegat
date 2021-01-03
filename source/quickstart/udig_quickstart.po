@@ -4,8 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# MarPetra <mvergaratrejo@gmail.com>, 2020
-# Ko Nagase <nagase@georepublic.co.jp>, 2020
+# Ko Nagase <nagase@georepublic.co.jp>, 2021
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-21 10:22-0500\n"
 "PO-Revision-Date: 2017-09-20 16:06+0000\n"
-"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2020\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2021\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,51 +23,53 @@ msgstr ""
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:20
 msgid "uDig Quickstart"
-msgstr ""
+msgstr "uDig クイックスタート"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:28
 msgid ""
 "uDig (User Friendly Internet Desktop GIS), is a GIS Desktop client for "
 "editing and viewing Geospatial data."
 msgstr ""
+"uDig(User Friendly Internet Desktop "
+"GIS)は、地理空間データを編集および表示するためのGISデスクトップクライアントです。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:34
 msgid "This Quick Start describes how to:"
-msgstr "このクイックスタートでは、次の方法について説明します。"
+msgstr "このクイックスタートでは、次の方法について説明します:"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:36
 msgid "load a map layers from a shapefile and |WMS|"
-msgstr ""
+msgstr "シェープファイルとWMSからマップレイヤをロードする"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:37
 msgid "use the standard map tools"
-msgstr ""
+msgstr "標準のマップツールを使用する"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:38
 msgid "apply colour to map features using styling"
-msgstr ""
+msgstr "スタイルを使用して地物に色を適用する"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:43
 msgid "start uDig"
-msgstr ""
+msgstr "uDigの開始"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:54
 msgid "Choose |osgeolive-appmenupath-udig| from menu"
-msgstr ""
+msgstr "メニューから |osgeolive-appmenupath-udig| を選択してください"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:55
 msgid "The application will take a few moments to start up"
-msgstr ""
+msgstr "アプリケーションの起動にはしばらくかかります"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:66
 msgid ""
 "If you have any difficulties, or are running uDig please review the Running "
 "uDig reference page."
-msgstr ""
+msgstr "問題がある場合、またはuDigを実行している場合は、実行中のuDigのリファレンスページを確認してください。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:69
 msgid "Welcome View"
-msgstr ""
+msgstr "ウェルカム画面"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:71
 msgid ""
@@ -76,102 +77,105 @@ msgid ""
 "entire display. This screen has links to tutorials, documentation and the "
 "project website."
 msgstr ""
+"uDigを初めて起動すると、ウェルカム画面が画面全体に表示されます。この画面には、チュートリアル、ドキュメント、およびプロジェクトWebサイトへのリンクがあります。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:74
 msgid ""
 "Click the arrow labelled Workbench in the upper right corner, to reveal the "
 "contents of the uDig workbench."
-msgstr ""
+msgstr "右上隅にあるワークベンチというラベルの矢印をクリックすると、uDigワークベンチの内容が表示されます。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:79
 msgid ""
 "You can return to the Welcome view at any time by selecting the "
 ":menuselection:`Help --> Welcome` from the menu bar."
 msgstr ""
+"メニューバーから :menuselection:`Help --> Welcome` を選択すると、いつでもウェルカム画面に戻ることができます。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:82
 msgid "Workbench"
-msgstr ""
+msgstr "ワークベンチ"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:84
 msgid ""
 "The Workbench window offers multiple Editors (each showing a Map) and "
 "supporting Views (offering information about the current Map)."
-msgstr ""
+msgstr "ワークベンチウィンドウには複数のエディタ(それぞれがマップを表示)とサポートするビュー(現在のマップに関する情報を提供)があります。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:90
 msgid "Shown above is a typical uDig session with the"
-msgstr ""
+msgstr "上に表示されているのは、典型的なuDigセッションで"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:92
 msgid "Layers view (1),"
-msgstr ""
+msgstr "レイヤビュー(1)"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:93
 msgid "Projects view (2),"
-msgstr ""
+msgstr "プロジェクトビュー(2)"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:94
 msgid "Catalog view (3) and"
-msgstr ""
+msgstr "カタログビュー(3)と"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:95
 msgid "Map editor (4)."
-msgstr ""
+msgstr "マップエディタ(4)"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:97
 msgid "These views will be described further as we demonstrate their use."
-msgstr ""
+msgstr "これらのビューについては、その使用方法を説明する際に詳しく説明します。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:100
 msgid "Files"
-msgstr ""
+msgstr "ファイル"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:102
 msgid ""
 "To start out with we are going to load some of the sample data included on "
 "the DVD."
-msgstr ""
+msgstr "まず、DVDに含まれているサンプルデータの一部をロードします。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:104
 msgid ""
 "Choose :menuselection:`Layer --> Add` from the menu bar to open up the **Add"
 " Data** wizard"
 msgstr ""
+"メニューバーから :menuselection:`Layer --> Add` を選択して、 **Add Data** ウィザードを開きます。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:106
 msgid "Select **Files** from the list of data sources"
-msgstr ""
+msgstr "データソースのリストから**ファイル**を選択します"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:108
 msgid "Press :guilabel:`Next` to open up a file dialog"
-msgstr ""
+msgstr ":guilabel:`Next` を押してファイルダイアログを開きます"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:110
 msgid "The OSGeoLive DVD contains sample data in:"
-msgstr ""
+msgstr "OSGeoLive DVDにはサンプルデータが含まれています。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:112
 msgid ":file:`~/data` (a short cut to :file:`/usr/local/share/data`)"
-msgstr ""
+msgstr ":file:`~/data` (:file:`/usr/local/share/data` へのショートカット)"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:114
 msgid "Select the following file from the :file:`natural_earth2` folder:"
-msgstr ""
+msgstr ":file:`natural_earth2` フォルダから次のファイルを選択します。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:116
 msgid ":file:`ne_10m_admin_0_countries.shp`"
-msgstr ""
+msgstr ":file:`ne_10m_admin_0_countries.shp`"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:118
 msgid "Press :guilabel:`Open`"
-msgstr ""
+msgstr ":guilabel:`Open` を押します。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:120
 msgid ""
 "A new Map editor will be opened based on the contents of your shapefile. The"
 " default name and projection of the Map has been taken from your shapefile."
-msgstr ""
+msgstr "シェイプファイルの内容に基づいて、新しいマップエディタが開きます。マップのデフォルト名と投影はシェイプファイルから取得されています。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:123
 msgid ""
@@ -179,12 +183,15 @@ msgid ""
 ":file:`ne_10m_admin_0_countries.shp`. This view is used to track the use of "
 "resources by the uDig application."
 msgstr ""
+"**ビューカタログ** が :file:`ne_10m_admin_0_countries.shp` "
+"のエントリで更新されました。このビューは、uDigアプリケーションによるリソースの使用を追跡するために使用されます。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:126
 msgid ""
 "The **Layers** view shows a single layer is displayed on this map. This view"
 " is used to change the order and appearance of information in your Map."
 msgstr ""
+"**レイヤ** ビューは、単一のレイヤがこのマップに表示されていることを示します。このビューは、マップ内の情報の順序と外観を変更するために使用されます。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:129
 msgid ""
@@ -192,16 +199,18 @@ msgid ""
 "`projects > ne 10m admin 0 countries`. You can have multiple projects open "
 "at a time, each project can have several maps."
 msgstr ""
+"**プロジェクト** ビューが更新され、あなたのマップが `projects > ne 10m admin 0 countries` "
+"に保存されていることが示されました。一度に複数のプロジェクトを開くことができ、各プロジェクトは複数のマップを持つことができます。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:132
 msgid "Open up the :file:`~/data/natural_earth2/` folder on the desktop"
-msgstr ""
+msgstr "デスクトップ上の :file:`~/data/natural_earth2/` フォルダを開く"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:134
 msgid ""
 "Drag :file:`HYP_50M_SR_W.tif` onto the Map Editor, a new layer is added to "
 "to the map."
-msgstr ""
+msgstr ":file:`HYP_50M_SR_W.tif` をマップエディタにドラッグすると、新しいレイヤがマップに追加されます。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:136
 msgid ""
@@ -209,12 +218,14 @@ msgid ""
 "`HYP_50M_SR_W` layer is drawn on top of the `ne 10m admin 0 countries` "
 "layer."
 msgstr ""
+"レイヤが描画される順序をレイヤビューで確認できます。現在、 `HYP_50M_SR_W` レイヤは `ne 10m admin 0 countries`"
+" レイヤの上に描画されています。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:139
 msgid ""
 "Select the `HYP_50M_SR_W` layer in the catalog view and drag it to the "
 "bottom of the list"
-msgstr ""
+msgstr "カタログレイヤの `HYP_50M_SR_W` ビューを選択し、リストの一番下にドラッグします"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:150
 msgid ""
@@ -224,75 +235,76 @@ msgid ""
 "shapefile is not loaded into memory, we have a policy of keeping data on "
 "disk and drawing data like this shapefile onto the screen as needed."
 msgstr ""
+"組織でuDigが検討されるときによく聞かれる質問の1つは、アプリケーションが使用するメモリの量です。ほとんどのGISアプリケーションとは異なり、uDigは固定された量のメモリで動作します。上記のシェープファイルはメモリにロードされません。必要に応じてディスク上にデータを保持し、このシェープファイルのようなデータを画面上に描画するポリシーがあります。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:159
 msgid ""
 "You can also drag and drop shapefiles directly into the uDig application!"
-msgstr ""
+msgstr "シェイプファイルをuDigアプリケーションに直接ドラッグ&ドロップすることもできます。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:162
 msgid "Map"
-msgstr ""
+msgstr "マップ"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:164
 msgid ""
 "You can control where in the world the Map Editor is looking by using the "
 "navigation tools in the tool bar along the top of the screen."
-msgstr ""
+msgstr "画面上部にあるツールバーのナビゲーションツールを使用して、マップエディタが世界のどこを見ているかを制御できます。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:167
 msgid "The |ZOOM| Zoom tool is available by default"
-msgstr ""
+msgstr "|ZOOM| ズームツールはデフォルトで利用可能です"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:171
 msgid ""
 "Use the zoom tool by drawing a box using the left mouse button around the "
 "area of the world you wish to see."
-msgstr ""
+msgstr "ズームツールを使用して、表示したい世界の領域の周りに左マウスボタンでボックスを描画します。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:173
 msgid ""
 "To zoom out draw a box with the right mouse button. The current map extents "
 "will be located within the box you draw."
-msgstr ""
+msgstr "縮小するには、マウスの右ボタンでボックスを描画します。現在のマップ範囲は、描画したボックス内に配置されます。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:176
 msgid ""
 "The |PAN| Pan tool can be used to scroll around your map with out changing "
 "scale."
-msgstr ""
+msgstr "|PAN| Panツールを使用すると、スケールを変更せずにマップをスクロールできます。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:180
 msgid ""
 "There are also several navigation buttons that can be used at any time:"
-msgstr ""
+msgstr "いつでも使用できるナビゲーションボタンもいくつかあります。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:182
 msgid ""
 "|SHOWALL| Show All, can be used to return to the full extents at any time"
-msgstr ""
+msgstr "|SHOWALL| 全表示。いつでも全範囲に戻るために使用できます"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:186
 msgid ""
 "|ZOOM_IN| Zoom In and |ZOOM_OUT| Zoom Out can be used to change the scale by"
 " a fixed amount."
-msgstr ""
+msgstr "|ZOOM_IN| Zoom In と |ZOOM_OUT| Zoom Out を使用すると、スケールを一定量だけ変更できます。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:191
 msgid ""
 "You can use Navigation Back |BNAV| and Forward |FNAV| in the menu bar to "
 "cycle though previously visited locations."
-msgstr ""
+msgstr "メニューバーのナビゲーション |BNAV| 戻ると |FNAV| 進むを使用して、前に訪れた場所を循環させることができます。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:197
 msgid ""
 "Most tools allow you to Pan by holding the center button and control the "
 "scale using the scroll wheel."
-msgstr ""
+msgstr "ほとんどのツールでは、中央ボタンを押したままスクロールホイールを使用してスケールを制御することでパンを行うことができます。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:201
 msgid "Web Map Server"
-msgstr ""
+msgstr "Web Map サーバ"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:203
 msgid ""
@@ -301,6 +313,7 @@ msgid ""
 "the use of Web Map Servers which make available layers of information that "
 "you can mix into your own maps."
 msgstr ""
+"uDigのようなアプリケーションを使用する理由の1つは、Web上で利用可能なすべての優れた無料の地理空間情報にアクセスすることです。このセクションでは、Webマップサーバを使用して、独自のマップに混合できる情報のレイヤを利用可能にする方法について説明します。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:207
 msgid ""
@@ -309,6 +322,9 @@ msgid ""
 "Capabilities\" section and two links for WMS Services you can drag into your"
 " empty map."
 msgstr ""
+"インターネットに接続していない場合は、ローカルWMSの |osgeolive-appmenupath-geoserver| "
+"を実行します。\"Service Capabilities\" "
+"セクションと、空のマップにドラッグできるWMSサービスへの2つのリンクがあるページが開きます。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:211
 msgid ""
@@ -318,90 +334,105 @@ msgid ""
 "You can also connect to Web Map Servers using the **Add Data** "
 "(:menuselection:`Layer --> Add...`) Wizard and paste WMS URL right there."
 msgstr ""
+"`GeoServer Welcome page`_ の右パネルからWMS URL(例えば `WMS1.1.1`_ 用)をコピーし、それを **マップ**"
+" ビューまたは **レイヤ** ビューのいずれかに「貼り付ける」ことができます。ウィザードには、 **マップ** "
+"に追加できるレイヤが表示されます。**Add Data** (:menuselection:`Layer --> "
+"Add...`)ウィザードを使用してWebマップサーバに接続し、WMS URLをそこに貼り付けることもできます。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:216
 msgid "Select :menuselection:`File --> New --> New Map` from the menu bar"
-msgstr ""
+msgstr "メニューバーから :menuselection:`ファイル --> 新規 --> 新規マップ` を選択します。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:218
 msgid ""
 "Change to the **Web** view, click on the tab next to the **Catalog** view to"
 " reveal the *Web* view."
 msgstr ""
+"Change to the **Web** view, click on the tab next to the **Catalog** view to"
+" reveal the *Web* view."
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:223
 msgid ""
 "Click on the link ``WMS\\:http://www2.dmsolutions.ca/cgi-"
 "bin/mswms_gmap?Service=WMS&VERSION=1.1.0&REQUEST=GetCapabilities``"
 msgstr ""
+"リンク ``WMS\\:http://www2.dmsolutions.ca/cgi-"
+"bin/mswms_gmap?Service=WMS&VERSION=1.1.0&REQUEST=GetCapabilities`` "
+"をクリックしてください。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:229
 msgid ""
 "From the Resource Selection page we are going to choose the following "
 "layers:"
-msgstr ""
+msgstr "リソース選択ページから、次のレイヤを選択します。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:231
 msgid "Elevation/Bathymetry"
-msgstr ""
+msgstr "標高/水深測定"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:232
 msgid "Parks"
-msgstr ""
+msgstr "公園"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:233
 msgid "Cities"
-msgstr ""
+msgstr "市町村"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:238
 msgid "Press :guilabel:`Finish` to add these layers to your map"
-msgstr ""
+msgstr " :guilabel:`Finish` をクリックして、これらのレイヤをマップに追加します。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:243
 msgid "Use the |ZOOM| Zoom Tool to move closer to one of the Parks"
-msgstr ""
+msgstr " |ZOOM| Zoom ツールを使用して、公園の一つに移動します。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:245
 msgid ""
 "Switch to the |INFO| Info Tool and click on one the parks to learn more "
 "about it"
-msgstr ""
+msgstr "|INFO|  Info Toolに切り替えて、公園の1つをクリックすると、さらに詳しく知ることができます。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:249
 msgid ""
 "You can switch between the zoom and info tools by pressing `Z` and `I` on "
 "the keyboard."
-msgstr ""
+msgstr "キーボードの `Z` と `I` を押して、ズームと情報ツールを切り替えることができます。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:252
 msgid "Style"
-msgstr ""
+msgstr "スタイル"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:254
 msgid ""
 "Select the `project > ne 10m admin 0 countries`, you can double click to "
 "open this Map, or Right Click and choose Open Map"
 msgstr ""
+"`project > ne 10m admin 0 countries` "
+"を選択し、ダブルクリックしてこのマップを開くか、右クリックして[マップを開く]を選択します。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:256
 msgid "Select the countries layer in the Layer view"
-msgstr ""
+msgstr "レイヤビューのレイヤの国を選択"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:258
 msgid ""
 "Open up the **Style Editor** by right clicking on `ne 10m admin 0 countries`"
 " layer and choosing :guilabel:`Change Style`"
 msgstr ""
+" **Style Editor** を開くには、 `ne 10m admin 0 countries` "
+"レイヤを右クリックし、:guilabel:`Change Style` を選択します。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:260
 msgid "We are going to change a few things about how countries are displayed"
-msgstr ""
+msgstr "国の表示方法について、いくつかの点を変更します。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:262
 msgid ""
 "Line: Click :guilabel:`Border`, click on the Color button and change the "
 "color to BLACK"
 msgstr ""
+"Line: Click :guilabel:`Border`, click on the Color button and change the "
+"color to BLACK"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:264
 msgid ""

@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Ko Nagase <nagase@georepublic.co.jp>, 2020
+# Ko Nagase <nagase@georepublic.co.jp>, 2021
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-21 10:22-0500\n"
 "PO-Revision-Date: 2017-09-20 16:05+0000\n"
-"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2020\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2021\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:23
 msgid "Rasdaman Quickstart"
-msgstr ""
+msgstr "Rasdaman クイックスタート"
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:25
 msgid ""
@@ -37,10 +37,13 @@ msgid ""
 "rasdaman. This quick start shows how to access and manipulate an example 2D "
 "coverage using WCPS language."
 msgstr ""
+"Rasdamanは、多次元の時空間センサー、画像、シミュレーション、統計データに関する柔軟なアドホック分析のためのビッグデータエンジンです。Web "
+"Coverage Processing "
+"Service(WCPS)クエリ言語は、オープン地理空間コンソーシアム(OGC)標準で、Webサービスを使用して、センサー、シミュレーション、画像、統計データなどの多次元ラスタカバレッジのフィルタリングと処理を可能にします。WCPSクエリは、rasdamanクエリ言語であるrasqlに変換され、rasdaman上で実行されます。このクイックスタートでは、WCPS言語を使用してサンプルの2Dカバレッジにアクセスし、操作する方法を説明します。"
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:34
 msgid "Setup"
-msgstr ""
+msgstr "セットアップ"
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:36
 msgid ""
@@ -50,6 +53,9 @@ msgid ""
 "especially Tomcat to fully start (once the `rasdaman web client "
 "<http://localhost:8080/rasdaman/ows>`_ loads in the browser)."
 msgstr ""
+"次のクエリを実行する前に、まずrasdamanとTomcatを起動します。デスクトップで *Databases* ディレクトリを開き、 "
+"*Rasdaman Server* を起動します。rasdaman、特にTomcatが完全に起動するまで、2分から3分間待ちます( `rasdaman "
+"web client <http://localhost:8080/rasdaman/ows>`_ がブラウザにロードされるまで)。"
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:42
 msgid ""
@@ -57,14 +63,16 @@ msgid ""
 "which will launch a local demonstrator in the browser. For a more hands-on "
 "tutorial though, continue with the next examples here."
 msgstr ""
+"その後、同じディレクトリから *Rasdaman-Earthlookデモ* "
+"を開くことができます。これにより、ブラウザでローカルのデモが起動します。しかし、より実践的なチュートリアルのために、次の例に進んでください。"
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:48
 msgid "Running WCPS queries"
-msgstr ""
+msgstr "WCPSクエリを実行"
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:53
 msgid "Either:"
-msgstr ""
+msgstr "Either:"
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:51
 msgid ""
@@ -72,6 +80,9 @@ msgid ""
 "switch to the *ProcessCoverages* tab, and enter your query in the query "
 "boxes and press send."
 msgstr ""
+"Go to the `rasdaman web client <http://localhost:8080/rasdaman/ows>`_, "
+"switch to the *ProcessCoverages* tab, and enter your query in the query "
+"boxes and press send."
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:52
 msgid ""

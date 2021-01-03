@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Ko Nagase <nagase@georepublic.co.jp>, 2019
+# Ko Nagase <nagase@georepublic.co.jp>, 2021
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-21 10:22-0500\n"
 "PO-Revision-Date: 2017-09-20 16:09+0000\n"
-"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2019\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2021\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../build/doc/overview/eoxserver_overview.rst:15
 msgid "EOxServer"
-msgstr ""
+msgstr "EOxServer"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:18
 msgid "About"
@@ -33,7 +33,7 @@ msgstr "About"
 msgid ""
 "EOxServer is a server for presenting big Earth Observation (EO) data "
 "archives and metadata via Open Standards."
-msgstr ""
+msgstr "EOxServerは、大規模な地球観測(EO)データアーカイブとメタデータをオープンスタンダードで提供するサーバです。"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:23
 msgid ""
@@ -42,6 +42,7 @@ msgid ""
 " about the time of acquisition and the footprint on planet Earth. It is "
 "typically used to monitor Earth's natural and built environment."
 msgstr ""
+"現在サポートされている地球観測データには、衛星や航空機のセンサを用いて一般的に取得された2Dラスタデータが含まれ、取得時刻や地球上のフットプリントに関する情報が含まれています。一般的には、地球の自然や人工的な環境を監視するために使用されます。"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:28
 msgid ""
@@ -50,6 +51,10 @@ msgid ""
 "<gdal_overview>`, PROJ.4, and a :doc:`SpatiaLite <spatialite_overview>` or "
 ":doc:`PostGIS <postgis_overview>` database."
 msgstr ""
+"EOxServerは、Python、 :doc:`MapServer <mapserver_overview>` 、 Django/GeoDjango、"
+" :doc:`GDAL <gdal_overview>` 、 PROJ.4 と :doc:`SpatiaLite "
+"<spatialite_overview>` あるいは  :doc:`PostGIS <postgis_overview>`  "
+"データベースを含むソフトウェアからなるオープンソースのスタック上に構築されています。"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:40
 msgid "Core Features"
@@ -57,72 +62,72 @@ msgstr "主な機能"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:42
 msgid "View, filter, subset, and download EO data"
-msgstr ""
+msgstr "EOデータの表示、フィルタ、サブセット作成、およびダウンロード"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:43
 msgid "Register EO data archives"
-msgstr ""
+msgstr "EOデータアーカイブの登録"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:44
 msgid "Web based and command line administration interface"
-msgstr ""
+msgstr "Webベースのコマンドライン管理インタフェース"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:45
 msgid "Publish data via |OGC|"
-msgstr ""
+msgstr "|OGC| 経由でのデータ公開"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:47
 msgid "|WCS| 1.0, 1.1 and 2.0 & proposed EO-WCS"
-msgstr ""
+msgstr "|WCS| 1.0, 1.1 および 2.0 と 提案されている EO-WCS"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:49
 msgid "|WMS| & EO-WMS"
-msgstr ""
+msgstr "|WMS| および EO-WMS"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:50
 msgid ""
 "Proposed extensions to WCS including: GeoTIFF encoding, predefined "
 "projections (CRSs), scaling, and interpolation."
-msgstr ""
+msgstr "提案されているWCSの拡張: GeoTIFFエンコーディング、定義済み投影法(CRS)、スケーリング、補間。"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:52
 msgid ""
 "Protocols supported are: KVP and XML/POST (used together with SOAP2POST "
 "Proxy to provide also XML/SOAP)"
-msgstr ""
+msgstr "サポートされているプロトコル: KVP と XML/POST (SOAP2POST プロキシと一緒に使用して XML/SOAP も提供)"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:55
 msgid "Publish using the following formats and groupings:"
-msgstr ""
+msgstr "次の形式とグループ分けを使用したパブリッシュ:"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:57
 msgid "2-D EO Coverages derived from gmlcov:RectifiedGridCoverage"
-msgstr ""
+msgstr "gmlcov:RectifiedGridCoverage から派生した2-D EOカバレッジ"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:58
 msgid "2-D EO Coverages derived from gmlcov:ReferenceableGridCoverage"
-msgstr ""
+msgstr "gmlcov:ReferenceableGridCoverage から派生した2-D EOカバレッジ"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:59
 msgid "Dataset Series as a collection of EO Coverages e.g. in a time series"
-msgstr ""
+msgstr "時系列などのEOカバレッジのコレクションとしてのデータセットシリーズ"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:60
 msgid ""
 "Stitched Mosaics of Rectified EO Coverages including contributingFootprint"
-msgstr ""
+msgstr "修正EOカバレッジのステッチ済みモザイク(contributingFootprintを含む)"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:62
 msgid "Coverage formats supported:"
-msgstr ""
+msgstr "サポートされているカバレッジフォーマット:"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:64
 msgid "GeoTIFF"
-msgstr ""
+msgstr "GeoTIFF"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:65
 msgid "Formats supported by the GDAL library"
-msgstr ""
+msgstr "GDALライブラリでサポートされているフォーマット"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:68
 msgid "Implemented Standards"
@@ -130,23 +135,23 @@ msgstr "実装されている標準規格"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:70
 msgid "WCS, EO-WCS"
-msgstr ""
+msgstr "WCS, EO-WCS"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:71
 msgid "WMS, EO-WMS"
-msgstr ""
+msgstr "WMS, EO-WMS"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:72
 msgid "WPS"
-msgstr ""
+msgstr "WPS"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:73
 msgid "GML, GMLCOV, EO-O&M"
-msgstr ""
+msgstr "GML, GMLCOV, EO-O&M"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:74
 msgid "OpenSearch"
-msgstr ""
+msgstr "OpenSearch"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:77
 msgid "Details"
@@ -154,17 +159,19 @@ msgstr "詳細"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:79
 msgid "**Website:** https://docs.eoxserver.org/en/stable/"
-msgstr ""
+msgstr "**Webサイト:** https://docs.eoxserver.org/en/stable/"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:81
 msgid ""
 "**Licence:** `MIT-style license "
 "<https://docs.eoxserver.org/en/latest/copyright.html#license>`_"
 msgstr ""
+"**ライセンス:** `MIT-style license "
+"<https://docs.eoxserver.org/en/latest/copyright.html#license>`_"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:83
 msgid "**Software Version:** |version-eoxserver|"
-msgstr ""
+msgstr "**ソフトウェアバージョン:** |version-eoxserver|"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:85
 msgid "**Supported Platforms:** Linux, Windows, Mac"
@@ -172,13 +179,15 @@ msgstr "**対応プラットフォーム:** Linux, Windows, Mac"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:87
 msgid "**API Interfaces:** Python"
-msgstr ""
+msgstr "**API インタフェース:** Python"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:89
 msgid ""
 "**Support:** https://docs.eoxserver.org/en/latest/users/basics.html#where-"
 "can-i-get-support"
 msgstr ""
+"**サポート:** https://docs.eoxserver.org/en/latest/users/basics.html#where-can-i"
+"-get-support"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:94
 msgid "Quickstart"
@@ -186,4 +195,4 @@ msgstr "クイックスタート"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:96
 msgid ":doc:`Quickstart documentation <../quickstart/eoxserver_quickstart>`"
-msgstr ""
+msgstr ":doc:`クイックスタート文書 <../quickstart/eoxserver_quickstart>`"

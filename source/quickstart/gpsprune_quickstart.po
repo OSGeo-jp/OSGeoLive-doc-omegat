@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the OSGeoLive package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Ko Nagase <nagase@georepublic.co.jp>, 2021
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-28 22:14-0600\n"
 "PO-Revision-Date: 2017-09-20 16:03+0000\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2021\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +23,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/gpsprune_quickstart.rst:17
 msgid "GpsPrune Quickstart"
-msgstr ""
+msgstr "GpsPruneクイックスタート"
 
 #: ../../build/doc/quickstart/gpsprune_quickstart.rst:19
 msgid ""
@@ -27,6 +31,7 @@ msgid ""
 "can be used for preparing data for GPS devices and for analyzing the data "
 "recorded by them."
 msgstr ""
+"GpsPruneは、座標データを表示および編集するためのJavaアプリケーションです。GPS機器のデータの準備や、記録されたデータの分析に使用できます。"
 
 #: ../../build/doc/quickstart/gpsprune_quickstart.rst:21
 msgid ""
@@ -35,16 +40,19 @@ msgid ""
 "useful therefore if you have some kind of internet connection for this "
 "demonstration."
 msgstr ""
+"このクイックスタートでは、このライブイメージに含まれるデータファイルをロードして表示し、オンライン情報を使って追加情報を確認します。したがってこのデモでは、インターネット接続が必須です。"
 
 #: ../../build/doc/quickstart/gpsprune_quickstart.rst:26
 msgid "Start GpsPrune"
-msgstr ""
+msgstr "GpsPruneの開始"
 
 #: ../../build/doc/quickstart/gpsprune_quickstart.rst:28
 msgid ""
 "From the Start menu, choose :menuselection:`Geospatial --> Navigation and "
 "Maps --> GpsPrune`.  This will then give you the empty window shown below."
 msgstr ""
+"From the Start menu, choose :menuselection:`Geospatial --> Navigation and "
+"Maps --> GpsPrune`.  これにより、次のような空のウィンドウが表示されます。"
 
 #: ../../build/doc/quickstart/gpsprune_quickstart.rst:33
 msgid ""
@@ -54,6 +62,11 @@ msgid ""
 "  A suitable GPX file containing a couple of tracks can be found on the disc"
 " at :file:`~/data/vector/gpx/test_trk2.gpx` so we will load this one."
 msgstr ""
+"次に、メニューコマンド :menuselection:`File --> Open file` を使用して、読みこむファイルを選択します。This "
+"can be a GPX file, a KML or KMZ file, or even a comma-separated or tab-"
+"separated file if you have one.  A suitable GPX file containing a couple of "
+"tracks can be found on the disc at :file:`~/data/vector/gpx/test_trk2.gpx` "
+"so we will load this one."
 
 #: ../../build/doc/quickstart/gpsprune_quickstart.rst:37
 msgid ""
@@ -255,7 +268,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/gpsprune_quickstart.rst:112
 msgid "Further reading"
-msgstr ""
+msgstr "さらに読む"
 
 #: ../../build/doc/quickstart/gpsprune_quickstart.rst:113
 msgid "GpsPrune home page: https://activityworkshop.net/software/gpsprune/"

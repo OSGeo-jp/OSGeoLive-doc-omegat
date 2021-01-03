@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Ko Nagase <nagase@georepublic.co.jp>, 2020
+# Ko Nagase <nagase@georepublic.co.jp>, 2021
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-21 10:22-0500\n"
 "PO-Revision-Date: 2017-09-20 16:04+0000\n"
-"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2020\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2021\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,17 +23,17 @@ msgstr ""
 
 #: ../../build/doc/quickstart/otb_quickstart.rst:22
 msgid "OTB Quickstart"
-msgstr ""
+msgstr "OTB クイックスタート"
 
 #: ../../build/doc/quickstart/otb_quickstart.rst:24
 msgid ""
 "ORFEO Toolbox library (OTB) is a high performance library for image "
 "processing targeted on remote sensing."
-msgstr ""
+msgstr "ORFEO Toolbox library(OTB)は、リモートセンシングを目的とした画像処理のためのパフォーマンスの高いライブラリです。"
 
 #: ../../build/doc/quickstart/otb_quickstart.rst:26
 msgid "This Quickstart describes how to:"
-msgstr ""
+msgstr "このクイックスタートでは、次の方法について説明します。"
 
 #: ../../build/doc/quickstart/otb_quickstart.rst:28
 msgid "Get metadata information from an image"
