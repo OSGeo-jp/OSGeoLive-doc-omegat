@@ -18745,6 +18745,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>North SOS Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210103T031932Z" creationid="sanak" creationdate="20210103T031932Z">
+        <seg> North SOS クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>North WPS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210103T031828Z" creationid="sanak" creationdate="20210103T031828Z">
+        <seg> North WPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>North WPS Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210103T031945Z" creationid="sanak" creationdate="20210103T031945Z">
+        <seg> North WPS クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Not a GWT enthusiast?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T050937Z" creationid="miurahr" creationdate="20201122T050937Z">
