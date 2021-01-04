@@ -25960,8 +25960,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The  results  are accurate  to  round  off for `|f| &lt; 1/50`, where f is flattening.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T043918Z" creationid="miurahr" creationdate="20201221T043918Z">
-        <seg>結果は、 `|f| &lt; 1/50` (fは平坦化)の丸めに適しています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210104T044011Z" creationid="miurahr" creationdate="20201221T043918Z">
+        <seg>結果は、 `|f| &lt; 1/50` (fは平坦化) の丸めに適しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34484,8 +34484,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>``geod``  (direct)  and  ``invgeod`` (inverse) perform geodesic ("Great Circle") computations for determining latitude,  longitude  and back  azimuth  of  a terminus point given a initial point latitude, longitude, azimuth and distance (direct) or  the  forward and  back azimuths and distance between an initial and terminus point latitudes and  longitudes  (inverse).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T043855Z" creationid="miurahr" creationdate="20201221T043855Z">
-        <seg>``geod``  (直接)と ``invgeod`` (逆)は、測地線("Great Circle")計算を実行します。この計算では、最初の点の緯度、経度、方位角、距離(直接)、または前後の方位角と最初と最後の点の間の距離(逆)を指定します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210104T043949Z" creationid="miurahr" creationdate="20201221T043855Z">
+        <seg>``geod`` (直接) と ``invgeod`` (逆) は、測地線 ("Great Circle") 計算を実行します。この計算では、最初の点の緯度、経度、方位角、距離 (直接) 、または前後の方位角と最初と最後の点の間の距離 (逆) を指定します。</seg>
       </tuv>
     </tu>
     <tu>
