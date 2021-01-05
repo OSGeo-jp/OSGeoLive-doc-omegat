@@ -16641,6 +16641,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Leaflet Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210105T153326Z" creationid="sanak" creationdate="20210105T153326Z">
+        <seg>Leaflet Quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Leaflet is an JavaScript library for browser based, mobile-friendly, interactive maps.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011004Z" creationid="miurahr" creationdate="20201103T011004Z">
@@ -17369,6 +17377,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MapCache Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210105T153331Z" creationid="sanak" creationdate="20210105T153331Z">
+        <seg>MapCache Quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MapCache can be run on Apache as a module or on any web server that supports CGI/FastCGI such as IIS, Nginx, and Jetty.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T022617Z" creationid="miurahr" creationdate="20201220T022617Z">
@@ -17517,6 +17533,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T170106Z" creationid="sanak" creationdate="20210101T170106Z">
         <seg>Mapbender</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapbender Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210105T153330Z" creationid="sanak" creationdate="20210105T153330Z">
+        <seg>Mapbender Quickstart</seg>
       </tuv>
     </tu>
     <tu>
@@ -19773,6 +19797,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>OSGeoLive クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeoLive Quickstart for Running in a Hyper-V Virtual Machine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210105T153312Z" creationid="sanak" creationdate="20210105T153312Z">
+        <seg>OSGeoLive Quickstart for Running in a Hyper-V Virtual Machine</seg>
       </tuv>
     </tu>
     <tu>
@@ -29970,6 +30002,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toolbar customization, View control (zoom, pan.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210105T153623Z" creationid="sanak" creationdate="20210105T153623Z">
+        <seg>ツールバーのカスタマイズ、ビューコントロール (ズーム、画面移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tools (Distance Measurement, Bookmarks, Time Simulation, Offline Mode)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010407Z" creationid="miurahr" creationdate="20201103T010407Z">
@@ -36084,8 +36124,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>etc), styles, icons and layers management.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T044520Z" creationid="miurahr" creationdate="20201102T044520Z">
-        <seg>など）、スタイル、アイコンとレイヤ管理。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210105T153736Z" creationid="miurahr" creationdate="20201102T044520Z">
+        <seg>など)、スタイル、アイコンとレイヤ管理。</seg>
       </tuv>
     </tu>
     <tu>
