@@ -22405,6 +22405,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PyWPS Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210105T215506Z" creationid="sanak" creationdate="20210105T215506Z">
+        <seg>PyWPS Quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PyWPS provides web access to custom geospatial operations (referred to as Processes) via the |WPS| standard.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T031900Z" creationid="miurahr" creationdate="20201220T031900Z">
