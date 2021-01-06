@@ -22533,6 +22533,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Query the 52°North SOS Capabilities to determine what queries it supports and which data it offers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210106T102711Z" creationid="sanak" creationdate="20210106T102711Z">
+        <seg>Query the 52°North SOS Capabilities to determine what queries it supports and which data it offers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Questions can be directed to our email list: https://lists.osgeo.org/pipermail/osgeolive/</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T072447Z" creationid="miurahr" creationdate="20201120T135916Z">
