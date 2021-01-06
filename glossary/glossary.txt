@@ -46,14 +46,3 @@ view	ビュー
 map	マップ
 raster layer	ラスタレイヤ
 vector layer	ベクタレイヤ
-symbolizer	図案化	検討が必要
-choropleth map	階級区分図
-polyline	ポリライン
-polygon	ポリゴン
-corridor	コリドー
-billboard	ビルボード
-extrusion	押し出し	3Dグラフィックス用語
-gazetteer	地名索引
-symbology	シンボロジー
-support	支援	文脈で使いわける
-symbol	シンボル
