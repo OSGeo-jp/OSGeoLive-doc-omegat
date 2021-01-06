@@ -12696,8 +12696,8 @@
       <tuv lang="en-US">
         <seg>Getting Started</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210106T103928Z" creationid="sanak" creationdate="20210106T103928Z">
-        <seg>Getting Started</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210106T104627Z" creationid="sanak" creationdate="20210106T103928Z">
+        <seg>はじめに</seg>
       </tuv>
     </tu>
     <tu>
@@ -24098,6 +24098,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T070135Z" creationid="miurahr" creationdate="20201121T133959Z">
         <seg>:menuselection:`File-&gt;Connecting an existing SQLite DB` を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select :menuselection:`Geospatial --&gt; Web Services --&gt; 52North --&gt; Start 52North SOS` to start the 52°North SOS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210106T104712Z" creationid="sanak" creationdate="20210106T104712Z">
+        <seg>:menuselection:`Geospatial --&gt; Web Services --&gt; 52North --&gt; Start 52North SOS` を選択して、52°North SOS を開始します。</seg>
       </tuv>
     </tu>
     <tu>
