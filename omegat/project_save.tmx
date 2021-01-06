@@ -10318,6 +10318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Explore the REST API endpoint for client developers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210106T104528Z" creationid="sanak" creationdate="20210106T104528Z">
+        <seg>クライアント開発者向けの REST API エンドポイントについて調べます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Explore the `screenshot collection &lt;https://grass.osgeo.org/learn/gallery/&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T165142Z" creationid="miurahr" creationdate="20201103T011215Z">
@@ -12682,6 +12690,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T072703Z" creationid="sanak" creationdate="20201103T072703Z">
         <seg>GetResultTemplate (仕様バージョン2.0以降): GetResult 要求で返される結果データのテンプレートを要求します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Getting Started</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210106T103928Z" creationid="sanak" creationdate="20210106T103928Z">
+        <seg>Getting Started</seg>
       </tuv>
     </tu>
     <tu>
@@ -22525,6 +22541,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Query details about an observation from the SOS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210106T104340Z" creationid="sanak" creationdate="20210106T104340Z">
+        <seg>SOS からの観測に関する詳細を照会します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Query external WFS servers.</seg>
       </tuv>
       <tuv lang="ja">
@@ -22535,8 +22559,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Query the 52°North SOS Capabilities to determine what queries it supports and which data it offers.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210106T102711Z" creationid="sanak" creationdate="20210106T102711Z">
-        <seg>Query the 52°North SOS Capabilities to determine what queries it supports and which data it offers.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210106T104139Z" creationid="sanak" creationdate="20210106T102711Z">
+        <seg>52°North SOS Capabilities にクエリを実行し、サポートするクエリと提供するデータを決定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30662,6 +30686,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043028Z" creationid="miurahr" creationdate="20201108T043028Z">
         <seg>矢印キーを使用して、コマンドラインを呼び出したり編集します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the lightweight visualisation tool "Helgoland" delivered with the SOS to explore the available data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210106T104437Z" creationid="sanak" creationdate="20210106T104437Z">
+        <seg>SOS と共に提供される軽量可視化ツール "Helgoland" を使用して、利用可能なデータを調べます。</seg>
       </tuv>
     </tu>
     <tu>
