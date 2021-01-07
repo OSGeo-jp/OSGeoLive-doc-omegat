@@ -17,5 +17,4 @@ assignees: ''
 検討した代替案もしくは機能について、明確・簡潔に説明してください。
 
 **追加のコンテキスト**
-Add any other context or screenshots about the feature request here.
 改善要望についての他のコンテキストやスクリーンショットをここに追加してください。
