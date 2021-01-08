@@ -33,7 +33,7 @@ jobs:
           key: omegat-source-${{ steps.get-date.outputs.date }}
       - uses: actions/setup-java@v1
         with:
-          java-version: 11
+          java-version: 8
       - uses: actions/setup-python@v2
         with:
           python-version: 3.8
@@ -42,6 +42,9 @@ jobs:
         run: |
           pip install -U pip
           pip install -r tools/requirements.txt
+      - name: Prepare gradle config
+        run: echo "plugins { id 'org.omegat.gradle' version '1.2.5' }" > build.gradle
+        shell: bash
       - name: Generate translation
         uses: burrunan/gradle-cache-action@v1
         with:
