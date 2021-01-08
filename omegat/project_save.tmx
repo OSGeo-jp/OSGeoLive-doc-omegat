@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef7" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_4470bbb50" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1384,8 +1384,8 @@
       <tuv lang="en-US">
         <seg>**Software Version:** |version-grass|</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011234Z" creationid="miurahr" creationdate="20201103T011234Z">
-        <seg>**ソフトウエアバージョン:** |version-grass|</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221045Z" creationid="miurahr" creationdate="20201103T011234Z">
+        <seg>**ソフトウェアバージョン:** |version-grass|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1408,8 +1408,8 @@
       <tuv lang="en-US">
         <seg>**Software Version:** |version-istsos|</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T041926Z" creationid="miurahr" creationdate="20201122T041926Z">
-        <seg>**ソフトウエアバージョン:** |version-istsos|</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221045Z" creationid="miurahr" creationdate="20201122T041926Z">
+        <seg>**ソフトウェアバージョン:** |version-istsos|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1480,8 +1480,8 @@
       <tuv lang="en-US">
         <seg>**Software Version:** |version-marble|</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T010439Z" creationid="miurahr" creationdate="20201103T010439Z">
-        <seg>**ソフトウエアバージョン:** |version-marble|</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221045Z" creationid="miurahr" creationdate="20201103T010439Z">
+        <seg>**ソフトウェアバージョン:** |version-marble|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1568,8 +1568,8 @@
       <tuv lang="en-US">
         <seg>**Software Version:** |version-qgis_mapserver|</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T003426Z" creationid="miurahr" creationdate="20201103T003426Z">
-        <seg>**ソフトウエアバージョン:** |version-qgis_mapserver|</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221045Z" creationid="miurahr" creationdate="20201103T003426Z">
+        <seg>**ソフトウェアバージョン:** |version-qgis_mapserver|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1624,8 +1624,8 @@
       <tuv lang="en-US">
         <seg>**Software Version:** |version-udig|</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T002819Z" creationid="miurahr" creationdate="20201103T002819Z">
-        <seg>**ソフトウエアバージョン:** |version-udig|</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221045Z" creationid="miurahr" creationdate="20201103T002819Z">
+        <seg>**ソフトウェアバージョン:** |version-udig|</seg>
       </tuv>
     </tu>
     <tu>
@@ -13618,6 +13618,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T072046Z" creationid="miurahr" creationdate="20201120T134830Z">
         <seg>OS GeoLive10.5以降のISOイメージは *isohybrid* です(amd64もサポートUEFIブート)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ISO19115/ISO19119/ISO19139/ISO19110 and ISO Profiles</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ISO19115/ISO19119/ISO19139/ISO19110 and ISO Profiles</seg>
       </tuv>
     </tu>
     <tu>
