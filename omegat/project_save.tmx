@@ -2768,8 +2768,8 @@
       <tuv lang="en-US">
         <seg>**What will I learn ?** In this section, you will learn what a Mapfile is and how to configure it to allow MapServer to serve a shapefile as images using WMS requests.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T040642Z" creationid="miurahr" creationdate="20201103T021438Z">
-        <seg>**何を学べますか？** ここでは、Mapfileの概要と、MapServerがWMS要求を使用してシェイプファイルをイメージとして処理できるように設定する方法について説明します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201103T021438Z">
+        <seg>**何を学べますか？** ここでは、Mapfileの概要と、MapServerがWMS要求を使用してシェープファイルをイメージとして処理できるように設定する方法について説明します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4128,8 +4128,8 @@
       <tuv lang="en-US">
         <seg>A new Map editor will be opened based on the contents of your shapefile.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T142101Z" creationid="miurahr" creationdate="20201120T142101Z">
-        <seg>シェイプファイルの内容に基づいて、新しいマップエディタが開きます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201120T142101Z">
+        <seg>シェープファイルの内容に基づいて、新しいマップエディタが開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4552,8 +4552,8 @@
       <tuv lang="en-US">
         <seg>Add a new layer to the Mapfile to serve a local Shapefile</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T022338Z" creationid="miurahr" creationdate="20201103T022338Z">
-        <seg>新しいレイヤをMapfileに追加して、ローカルシェイプファイルを提供する</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201103T022338Z">
+        <seg>新しいレイヤをMapfileに追加して、ローカルシェープファイルを提供する</seg>
       </tuv>
     </tu>
     <tu>
@@ -5512,8 +5512,8 @@
       <tuv lang="en-US">
         <seg>Another quicker option is to directly drag and drop your shapefile in the Layer View.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T225558Z" creationid="miurahr" creationdate="20201221T225558Z">
-        <seg>シェイプファイルをレイヤのビューに直接ドラッグ&amp;ドロップする方法もあります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201221T225558Z">
+        <seg>シェープファイルをレイヤのビューに直接ドラッグ&amp;ドロップする方法もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6456,8 +6456,8 @@
       <tuv lang="en-US">
         <seg>Build a shapefile as a raster tileindex with gdaltindex</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T125359Z" creationid="miurahr" creationdate="20201116T125359Z">
-        <seg>シェイプファイルをgdaltindex付きのラスタータイルインデックスとして作成</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201116T125359Z">
+        <seg>シェープファイルをgdaltindex付きのラスタータイルインデックスとして作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -8744,8 +8744,8 @@
       <tuv lang="en-US">
         <seg>DATA: the name of the spatial data file this layer uses, in this case a shapefile.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T021942Z" creationid="miurahr" creationdate="20201103T021942Z">
-        <seg>DATA:このレイヤが使用する空間データファイル(この場合はシェイプファイル)の名前。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201103T021942Z">
+        <seg>DATA:このレイヤが使用する空間データファイル(この場合はシェープファイル)の名前。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9672,8 +9672,8 @@
       <tuv lang="en-US">
         <seg>Drawing shapes (polygons)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053051Z" creationid="miurahr" creationdate="20201103T053051Z">
-        <seg>シェイプ(ポリゴン)を描画する</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T222053Z" creationid="miurahr" creationdate="20201103T053051Z">
+        <seg>形状(ポリゴン)を描画する</seg>
       </tuv>
     </tu>
     <tu>
@@ -13088,8 +13088,8 @@
       <tuv lang="en-US">
         <seg>Have a look at your output shapefile with QGIS and ogrinfo (you will learn more about ogrinfo later in this tutorial)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T130127Z" creationid="miurahr" creationdate="20201116T130127Z">
-        <seg>QGISとogrinfoを使用して、出力シェイプファイルを見てみましょう(ogrinfoについては、このチュートリアルの後半で詳しく説明します)。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201116T130127Z">
+        <seg>QGISとogrinfoを使用して、出力シェープファイルを見てみましょう(ogrinfoについては、このチュートリアルの後半で詳しく説明します)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13360,8 +13360,8 @@
       <tuv lang="en-US">
         <seg>Hit the ``...`` button and browse to the ``sids.shp`` shapefile in the R ``maptools`` package (located in /usr/local/lib/R/site-library/spData/shapes):</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T063341Z" creationid="miurahr" creationdate="20201108T044147Z">
-        <seg>``...`` ボタンを押して、R ``maptools`` パッケージ(/usr/local/lib/R/site-library/spData/shapesにある) ``sids.shp`` シェイプファイルを参照してください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201108T044147Z">
+        <seg>``...`` ボタンを押して、R ``maptools`` パッケージ(/usr/local/lib/R/site-library/spData/shapesにある) ``sids.shp`` シェープファイルを参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14280,8 +14280,8 @@
       <tuv lang="en-US">
         <seg>Importing shapefiles to QGIS can be done via the handy QGIS Database Manager.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T043938Z" creationid="miurahr" creationdate="20201108T043938Z">
-        <seg>シェイプファイルをQGISに読み込むには、QGISデータベースマネージャを使用します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201108T043938Z">
+        <seg>シェープファイルをQGISに読み込むには、QGISデータベースマネージャを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14803,8 +14803,8 @@
       <tuv lang="en-US">
         <seg>In this example, we will load a shapefile, and search for schools which are near highway 42.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T013825Z" creationid="miurahr" creationdate="20201122T013825Z">
-        <seg>この例では、シェイプファイルをロードし、highway 42の近くにある学校を検索します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201122T013825Z">
+        <seg>この例では、シェープファイルをロードし、highway 42の近くにある学校を検索します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20787,8 +20787,8 @@
       <tuv lang="en-US">
         <seg>Open the shape file with a Desktop GIS like QGIS, and have a look.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T130533Z" creationid="miurahr" creationdate="20201116T130533Z">
-        <seg>QGISのようなデスクトップGISを使用してシェイプファイルを開き、確認します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201116T130533Z">
+        <seg>QGISのようなデスクトップGISを使用してシェープファイルを開き、確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20819,8 +20819,8 @@
       <tuv lang="en-US">
         <seg>Open |UG| and add the shapefiles (using the add data button in the top left hand corner).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T231618Z" creationid="miurahr" creationdate="20201116T231618Z">
-        <seg>|UG| を開き、シェイプファイルを追加します(左上隅のデータ追加ボタンを使用)。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201116T231618Z">
+        <seg>|UG| を開き、シェープファイルを追加します(左上隅のデータ追加ボタンを使用)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23608,8 +23608,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>SHAPEPATH: sets a base path for file-based data (e.g. shapefiles or tiff images).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T021840Z" creationid="miurahr" creationdate="20201103T021840Z">
-        <seg>SHAPEPATH:ファイルベースのデータ(シェイプファイルやTIFFイメージなど)のベースパスを設定します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201103T021840Z">
+        <seg>SHAPEPATH:ファイルベースのデータ(シェープファイルやTIFFイメージなど)のベースパスを設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26987,8 +26987,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The default name and projection of the Map has been taken from your shapefile.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T142203Z" creationid="miurahr" creationdate="20201120T142203Z">
-        <seg>マップのデフォルト名と投影はシェイプファイルから取得されています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201120T142203Z">
+        <seg>マップのデフォルト名と投影はシェープファイルから取得されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27931,8 +27931,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The tools that are available when you select a shape and activate the context menu with the right mouse button are similar to those when you click on a line.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053127Z" creationid="miurahr" creationdate="20201103T053127Z">
-        <seg>シェイプを選択して右マウスボタンでコンテキストメニューを表示したときに使用できるツールは、ラインをクリックしたときのツールと似ています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221940Z" creationid="miurahr" creationdate="20201103T053127Z">
+        <seg>形状を選択して右マウスボタンでコンテキストメニューを表示したときに使用できるツールは、ラインをクリックしたときのツールと似ています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28219,8 +28219,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>There are several options here but |UG| allows you to open the shapefiles directly and apply simple styles using a GUI.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T080812Z" creationid="miurahr" creationdate="20201116T231518Z">
-        <seg>ここにはいくつかのオプションがありますが、 |UG| ではシェイプファイルを直接開き、GUIを使用して簡単なスタイルを適用できます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201116T231518Z">
+        <seg>ここにはいくつかのオプションがありますが、 |UG| ではシェープファイルを直接開き、GUIを使用して簡単なスタイルを適用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31652,8 +31652,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>We will now use the DB Manager to import a shapefile into the database.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T044057Z" creationid="miurahr" creationdate="20201108T044057Z">
-        <seg>次に、DBマネージャを使用して、シェイプファイルをデータベースにインポートします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201108T044057Z">
+        <seg>次に、DBマネージャを使用して、シェープファイルをデータベースにインポートします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32660,8 +32660,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can also drag and drop shapefiles directly into the uDig application!</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T142857Z" creationid="miurahr" creationdate="20201120T142857Z">
-        <seg>シェイプファイルをuDigアプリケーションに直接ドラッグ&amp;ドロップすることもできます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201120T142857Z">
+        <seg>シェープファイルをuDigアプリケーションに直接ドラッグ&amp;ドロップすることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32716,8 +32716,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can build a shapefile as a raster tileindex.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T130113Z" creationid="miurahr" creationdate="20201116T130113Z">
-        <seg>シェイプファイルをラスタタイルインデックスとして作成できます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201116T130113Z">
+        <seg>シェープファイルをラスタタイルインデックスとして作成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33596,8 +33596,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You will notice that the color of your shape will change depending on the attributes that you assign to it.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053109Z" creationid="miurahr" creationdate="20201103T053109Z">
-        <seg>シェイプのカラーは、割り当てるアトリビュートに応じて変化します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210108T221857Z" creationid="miurahr" creationdate="20201103T053109Z">
+        <seg>形状色は、割り当てるアトリビュートに応じて変化します。</seg>
       </tuv>
     </tu>
     <tu>
