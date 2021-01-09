@@ -29524,8 +29524,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To add a new point, click on the **Point** button.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T084416Z" creationid="miurahr" creationdate="20201103T051957Z">
-        <seg>新しい点を追加するには、 **[Point]** ボタンをクリックします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210109T024714Z" creationid="miurahr" creationdate="20201103T051957Z">
+        <seg>新しい点を追加するには、 **[ポイント]** ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32633,11 +32633,13 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>アプリケーションの訳語にあわせる
+</note>
       <tuv lang="en-US">
         <seg>You can add your own map tiles by clicking on **Custom**.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T084235Z" creationid="miurahr" creationdate="20201103T051828Z">
-        <seg>**Custom** をクリックすると、独自のマップタイルを追加できます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210109T024035Z" creationid="miurahr" creationdate="20201103T051828Z">
+        <seg>**カスタム** をクリックすると、独自のマップタイルを追加できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33908,8 +33910,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>[1] **Edit Feature Panel:** This panel shows tags from the object</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T084130Z" creationid="miurahr" creationdate="20201103T051354Z">
-        <seg>[1] **[フィーチャ編集]パネル:** このパネルにはオブジェクトのタグが表示されます</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210109T023934Z" creationid="miurahr" creationdate="20201103T051354Z">
+        <seg>[1] **[地物編集]パネル:** このパネルにはオブジェクトのタグが表示されます</seg>
       </tuv>
     </tu>
     <tu>
