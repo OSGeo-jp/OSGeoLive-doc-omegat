@@ -7173,11 +7173,13 @@
       </tuv>
     </tu>
     <tu>
+      <note>Use Application translation term
+</note>
       <tuv lang="en-US">
         <seg>Click **Hospital Grounds** to tag the point as a hospital.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T084423Z" creationid="miurahr" creationdate="20201103T052045Z">
-        <seg>**Hospital Grounds** をクリックして、ポイントに病院のタグを付けます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210109T024952Z" creationid="miurahr" creationdate="20201103T052045Z">
+        <seg>**大規模病院（代表点または敷地）** をクリックして、ポイントに病院のタグを付けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10968,8 +10970,8 @@
       <tuv lang="en-US">
         <seg>For example,   if you want to **add a Field Paper**  [1], click **Custom** then   click on the magnifying glass (search) icon to open the following window:</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T084319Z" creationid="miurahr" creationdate="20201103T051832Z">
-        <seg>たとえば、 **Field Paperを追加する** [1] 場合は、 **Custom** をクリックし、虫眼鏡(検索)アイコンをクリックして次のウィンドウを開きます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210109T025006Z" creationid="miurahr" creationdate="20201103T051832Z">
+        <seg>たとえば、 **Field Paperを追加する** [1] 場合は、 **カスタム** をクリックし、虫眼鏡(検索)アイコンをクリックして次のウィンドウを開きます。</seg>
       </tuv>
     </tu>
     <tu>
