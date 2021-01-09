@@ -52,3 +52,8 @@ jobs:
       - name: Check translations
         run: |
            python tools/check_target.py
+      - name: Report coverage
+        uses: miurahr/omegat-stat@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          min-coverage: 50.0
