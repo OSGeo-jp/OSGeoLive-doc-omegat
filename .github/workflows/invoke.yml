@@ -13,6 +13,6 @@ jobs:
         uses: benc-uk/workflow-dispatch@v1
         with:
           workflow: Pull OmegaT after check update
-          repo: ${{ github.actor }}/OSGeoLive-doc
+          repo: ${{ github.repository_owner }}/OSGeoLive-doc
           ref: omegat_ja
           token: ${{ secrets.PERSONAL_TOKEN }}
