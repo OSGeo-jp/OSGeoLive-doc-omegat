@@ -18,7 +18,7 @@ jobs:
       - name: Checkout OSGeoLive-doc
         uses: actions/checkout@v2
         with:
-          repository: OSGeo-jp/OSGeoLive-doc
+          repository: ${{ github.actor }}/OSGeoLive-doc
           ref: transifex_ja
           path: doc
 
