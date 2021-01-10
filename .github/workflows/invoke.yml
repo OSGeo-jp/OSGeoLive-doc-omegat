@@ -14,4 +14,5 @@ jobs:
         with:
           workflow: Pull OmegaT after check update
           repo: ${{ github.actor }}/OSGeoLive-doc
+          ref: omegat_ja
           token: ${{ secrets.PERSONAL_TOKEN }}
