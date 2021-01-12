@@ -114,7 +114,7 @@ msgstr ""
 msgid ""
 "Another quicker option is to directly drag and drop your shapefile in the "
 "Layer View."
-msgstr "シェイプファイルをレイヤのビューに直接ドラッグ&ドロップする方法もあります。"
+msgstr "シェープファイルをレイヤのビューに直接ドラッグ&ドロップする方法もあります。"
 
 #: ../../build/doc/quickstart/openjump_quickstart.rst:59
 msgid "Style a layer"

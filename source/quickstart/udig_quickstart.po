@@ -175,7 +175,7 @@ msgstr ":guilabel:`Open` を押します。"
 msgid ""
 "A new Map editor will be opened based on the contents of your shapefile. The"
 " default name and projection of the Map has been taken from your shapefile."
-msgstr "シェイプファイルの内容に基づいて、新しいマップエディタが開きます。マップのデフォルト名と投影はシェイプファイルから取得されています。"
+msgstr "シェープファイルの内容に基づいて、新しいマップエディタが開きます。マップのデフォルト名と投影はシェープファイルから取得されています。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:123
 msgid ""
@@ -240,7 +240,7 @@ msgstr ""
 #: ../../build/doc/quickstart/udig_quickstart.rst:159
 msgid ""
 "You can also drag and drop shapefiles directly into the uDig application!"
-msgstr "シェイプファイルをuDigアプリケーションに直接ドラッグ&ドロップすることもできます。"
+msgstr "シェープファイルをuDigアプリケーションに直接ドラッグ&ドロップすることもできます。"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:162
 msgid "Map"

@@ -37,11 +37,11 @@ msgstr "このクイックスタートでは、次の方法について説明し
 
 #: ../../build/doc/quickstart/R_quickstart.rst:24
 msgid "use R for simple arithmetic"
-msgstr "単純な算術演算には R を使用します。"
+msgstr "簡単な算術演算に R を使用する"
 
 #: ../../build/doc/quickstart/R_quickstart.rst:25
 msgid "load some data from a shapefile and map it"
-msgstr "シェープファイルからデータを読み込み、マップする"
+msgstr "シェープファイルからデータを読み込み、地図化する"
 
 #: ../../build/doc/quickstart/R_quickstart.rst:26
 msgid "do a coordinate transformation"
@@ -53,7 +53,7 @@ msgstr "地図上にいくつかのデータポイントをプロットする"
 
 #: ../../build/doc/quickstart/R_quickstart.rst:34
 msgid "Start R"
-msgstr "開始 R"
+msgstr "R の起動"
 
 #: ../../build/doc/quickstart/R_quickstart.rst:35
 msgid ""
@@ -61,7 +61,8 @@ msgid ""
 "are available. You type a line of code at the prompt, press return, and the "
 "R interpreter evaluates it and prints the result."
 msgstr ""
-"Rは基本的にコマンドラインプログラムですが、GUIも利用できます。プロンプトで1行のコードを入力し、returnキーを押すと、Rインタプリタがそれを評価して結果を出力します。"
+"R は基本的にコマンドラインプログラムですが、GUI も利用できます。プロンプトで1行のコードを入力し、return キーを押すと、R "
+"インタプリタがそれを評価して結果を出力します。"
 
 #: ../../build/doc/quickstart/R_quickstart.rst:40
 msgid ""
@@ -69,16 +70,16 @@ msgid ""
 "and down arrows to recall commands so you can edit mistakes. Hit CTRL-C if "
 "get stuck and you should get the prompt back."
 msgstr ""
-"コマンドラインを恐れる必要はありません。大きな力の源です。上下の矢印を使用してコマンドを呼び出し、間違いを編集できるようにします。スタックした場合は"
-"、CTRL-Cを押します。プロンプトが再度表示されます。"
+"コマンドラインはそんなに怖いものではなく、とても便利なものです。ミスタイプをしても十字キーの上下でコマンド履歴を呼び出し編集することができます。表示が止まってしまった場合は"
+" CTRL-C を入力することで復帰することができます。"
 
 #: ../../build/doc/quickstart/R_quickstart.rst:43
 msgid ""
 "Choose :menuselection:`Geospatial --> Spatial Tools --> R Statistics`. A "
 "terminal window opens running R."
 msgstr ""
-" :menuselection:`Geospatial --> Spatial Tools --> R Statistics` "
-"を選択します。ターミナルウィンドウが開き、Rが実行されます。"
+":menuselection:`Geospatial --> Spatial Tools --> R Statistics` "
+"を選択します。ターミナルウィンドウが開き、R が実行されます。"
 
 #: ../../build/doc/quickstart/R_quickstart.rst:45
 msgid "You can start with simple arithmetic."

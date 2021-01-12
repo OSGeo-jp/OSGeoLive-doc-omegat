@@ -335,7 +335,7 @@ msgid ""
 "|OSGeo_project| :doc:`postgis_overview` - [:doc:`Quickstart "
 "<../quickstart/postgis_quickstart>`] - Spatial Database"
 msgstr ""
-"|OSGeo_project| :doc:`postgis_overview` - [:doc:`空間データの格納: "
+"|OSGeo_project| :doc:`postgis_overview` - [:doc:`クイックスタート "
 "<../quickstart/postgis_quickstart>`] - 空間データベース"
 
 #: ../../build/doc/overview/overview.rst:197

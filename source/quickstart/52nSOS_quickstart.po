@@ -30,7 +30,7 @@ msgstr "52 North SOS クイックスタート"
 msgid ""
 "The 52°North SOS is a Web service, that enables interoperable access to "
 "(spatial) observation data and associated metadata."
-msgstr ""
+msgstr "52°North SOS は Web サービスで、(空間) 観測データと関連するメタデータへの相互運用アクセスを可能にします。"
 
 #: ../../build/doc/quickstart/52nSOS_quickstart.rst:24
 msgid "This Quick Start describes how to:"
@@ -40,31 +40,33 @@ msgstr "このクイックスタートでは、次の方法について説明し
 msgid ""
 "Query the 52°North SOS Capabilities to determine what queries it supports "
 "and which data it offers."
-msgstr ""
+msgstr "52°North SOS Capabilities にクエリを実行し、サポートするクエリと提供するデータを決定します。"
 
 #: ../../build/doc/quickstart/52nSOS_quickstart.rst:27
 msgid "Query details about an observation from the SOS."
-msgstr ""
+msgstr "SOS からの観測に関する詳細を照会します。"
 
 #: ../../build/doc/quickstart/52nSOS_quickstart.rst:28
 msgid ""
 "Use the lightweight visualisation tool \"Helgoland\" delivered with the SOS "
 "to explore the available data."
-msgstr ""
+msgstr "SOS と共に提供される軽量可視化ツール \"Helgoland\" を使用して、利用可能なデータを調べます。"
 
 #: ../../build/doc/quickstart/52nSOS_quickstart.rst:29
 msgid "Explore the REST API endpoint for client developers."
-msgstr ""
+msgstr "クライアント開発者向けの REST API エンドポイントについて調べます。"
 
 #: ../../build/doc/quickstart/52nSOS_quickstart.rst:36
 msgid "Getting Started"
-msgstr ""
+msgstr "はじめに"
 
 #: ../../build/doc/quickstart/52nSOS_quickstart.rst:38
 msgid ""
 "Select :menuselection:`Geospatial --> Web Services --> 52North --> Start "
 "52North SOS` to start the 52°North SOS."
 msgstr ""
+":menuselection:`Geospatial --> Web Services --> 52North --> Start 52North "
+"SOS` を選択して、52°North SOS を開始します。"
 
 #: ../../build/doc/quickstart/52nSOS_quickstart.rst:48
 msgid "This will open the 52°North SOS client welcome page in firefox at"

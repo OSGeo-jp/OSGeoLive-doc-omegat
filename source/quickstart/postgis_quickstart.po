@@ -475,7 +475,7 @@ msgid ""
 "Manager. You find the manager in the menu. Go to ``Database -> DB Manager ->"
 " DB Manager``."
 msgstr ""
-"シェイプファイルをQGISに読み込むには、QGISデータベースマネージャを使用します。マネージャーはメニューにあります。 ``Database -> "
+"シェープファイルをQGISに読み込むには、QGISデータベースマネージャを使用します。マネージャーはメニューにあります。 ``Database -> "
 "DB Manager -> DB Manager`` に移動します。"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:420
@@ -496,7 +496,7 @@ msgid ""
 "We'll use the North Carolina sudden infant death syndrome (SIDS) data that "
 "is included with one of the R statistics package add-ons."
 msgstr ""
-"次に、DBマネージャを使用して、シェイプファイルをデータベースにインポートします。ここでは、R Statistics "
+"次に、DBマネージャを使用して、シェープファイルをデータベースにインポートします。ここでは、R Statistics "
 "Packageアドオンの1つに含まれているNorth Carolina Sudden Infant Death "
 "Syndrome(SIDS)データを使用します。"
 
@@ -509,7 +509,7 @@ msgid ""
 msgstr ""
 "``Table`` メニューから ``Import layer/file`` オプションを選択します。``...`` ボタンを押して、R "
 "``maptools`` パッケージ(/usr/local/lib/R/site-library/spData/shapesにある) "
-"``sids.shp`` シェイプファイルを参照してください。"
+"``sids.shp`` シェープファイルを参照してください。"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:443
 msgid "Leave everything else as it is and hit ``Load``"

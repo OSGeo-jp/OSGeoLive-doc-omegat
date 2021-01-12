@@ -116,7 +116,7 @@ msgstr "**ライセンス:** GPL"
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:57
 msgid "**Software Version:** |version-qgis_mapserver|"
-msgstr "**ソフトウエアバージョン:** |version-qgis_mapserver|"
+msgstr "**ソフトウェアバージョン:** |version-qgis_mapserver|"
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:59
 msgid "**Supported Platforms:** Windows, Linux"

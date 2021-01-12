@@ -59,7 +59,7 @@ msgstr "データをgdal_warpまたはgdal_merge.pyでモザイク化"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:34
 msgid "Build a shapefile as a raster tileindex with gdaltindex"
-msgstr "シェイプファイルをgdaltindex付きのラスタータイルインデックスとして作成"
+msgstr "シェープファイルをgdaltindex付きのラスタータイルインデックスとして作成"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:39
 msgid "OGR"
@@ -230,14 +230,14 @@ msgid ""
 "is generated with the bounds of the extent of the polygon and the path to "
 "the file."
 msgstr ""
-"シェイプファイルをラスタタイルインデックスとして作成できます。すべてのイメージに対して、ポリゴンの範囲とファイルへのパスの境界を持つポリゴンが生成されます。"
+"シェープファイルをラスタタイルインデックスとして作成できます。すべてのイメージに対して、ポリゴンの範囲とファイルへのパスの境界を持つポリゴンが生成されます。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:189
 msgid ""
 "Have a look at your output shapefile with QGIS and ogrinfo (you will learn "
 "more about ogrinfo later in this tutorial)"
 msgstr ""
-"QGISとogrinfoを使用して、出力シェイプファイルを見てみましょう(ogrinfoについては、このチュートリアルの後半で詳しく説明します)。"
+"QGISとogrinfoを使用して、出力シェープファイルを見てみましょう(ogrinfoについては、このチュートリアルの後半で詳しく説明します)。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:217
 msgid "Reprojecting"
@@ -302,7 +302,7 @@ msgstr "OGRについて知る"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:285
 msgid "Open the shape file with a Desktop GIS like QGIS, and have a look."
-msgstr "QGISのようなデスクトップGISを使用してシェイプファイルを開き、確認します。"
+msgstr "QGISのようなデスクトップGISを使用してシェープファイルを開き、確認します。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:289
 msgid "Get information about the vector data with ogrinfo"

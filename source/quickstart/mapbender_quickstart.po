@@ -24,7 +24,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/mapbender_quickstart.rst:24
 msgid "Mapbender Quickstart"
-msgstr ""
+msgstr "Mapbender クイックスタート"
 
 #: ../../build/doc/quickstart/mapbender_quickstart.rst:26
 msgid ""

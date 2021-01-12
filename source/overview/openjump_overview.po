@@ -145,7 +145,7 @@ msgstr "カスタマイズ"
 
 #: ../../build/doc/overview/openjump_overview.rst:61
 msgid "internationalization (cz, de, en, es, fi, fr, hu, it, ja, pt, ta, zh)"
-msgstr "国際化(cz, de, en, es, fi, fr, hu, it, ja, pt, ta, zh)"
+msgstr "国際化 (cz, de, en, es, fi, fr, hu, it, ja, pt, ta, zh)"
 
 #: ../../build/doc/overview/openjump_overview.rst:62
 msgid "provides an API, scripting via BeanShell and Java Python/Ython"
@@ -153,7 +153,7 @@ msgstr "BeanShellおよびJava Python/Ythonを介したAPI、スクリプトの�
 
 #: ../../build/doc/overview/openjump_overview.rst:63
 msgid "(Java) plugin-system"
-msgstr ""
+msgstr "(Java) プラグインシステム"
 
 #: ../../build/doc/overview/openjump_overview.rst:66
 msgid "Implemented Standards"

@@ -121,7 +121,7 @@ msgstr "メタデータ標準規格:"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:53
 msgid "ISO19115/ISO19119/ISO19139/ISO19110 and ISO Profiles"
-msgstr ""
+msgstr "ISO19115/ISO19119/ISO19139/ISO19110 and ISO Profiles"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:54
 msgid "Dublin Core"

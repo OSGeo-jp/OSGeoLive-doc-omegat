@@ -263,7 +263,7 @@ msgid ""
 msgstr ""
 "はじめに、で陸地と海洋のデータセットのスタイルを設定しましょう。SLDファイルは簡単なテキストエディタで作成できますが、グラフィカルエディタの方がよい場合もあります。ここにはいくつかのオプションがありますが、"
 " |UG| "
-"ではシェイプファイルを直接開き、GUIを使用して簡単なスタイルを適用できます。また、必要に応じてXMLを変更するための簡単なエディタも提供しています。"
+"ではシェープファイルを直接開き、GUIを使用して簡単なスタイルを適用できます。また、必要に応じてXMLを変更するための簡単なエディタも提供しています。"
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst:140
 msgid "Using |UG| to create simple styles"
@@ -281,7 +281,7 @@ msgstr ""
 msgid ""
 "Open |UG| and add the shapefiles (using the add data button in the top left "
 "hand corner)."
-msgstr "|UG| を開き、シェイプファイルを追加します(左上隅のデータ追加ボタンを使用)。"
+msgstr "|UG| を開き、シェープファイルを追加します(左上隅のデータ追加ボタンを使用)。"
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst:147
 msgid ""

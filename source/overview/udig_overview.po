@@ -190,7 +190,7 @@ msgstr "**ライセンス:** Dual BSD / EPL (Eclipse Foundation)"
 
 #: ../../build/doc/overview/udig_overview.rst:76
 msgid "**Software Version:** |version-udig|"
-msgstr "**ソフトウエアバージョン:** |version-udig|"
+msgstr "**ソフトウェアバージョン:** |version-udig|"
 
 #: ../../build/doc/overview/udig_overview.rst:78
 msgid "**Supported Platforms:** Windows, Linux, Mac"

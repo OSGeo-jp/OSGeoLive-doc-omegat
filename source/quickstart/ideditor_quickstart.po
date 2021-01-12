@@ -76,7 +76,7 @@ msgstr "**[編集]** の横の小さな矢印をクリックし、 **[iD編集(�
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:52
 msgid "[1] **Edit Feature Panel:** This panel shows tags from the object"
-msgstr "[1] **[フィーチャ編集]パネル:** このパネルにはオブジェクトのタグが表示されます"
+msgstr "[1] **[地物編集]パネル:** このパネルにはオブジェクトのタグが表示されます"
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:52
 msgid "selected on the map. You can add or edit tags from this panel."
@@ -134,8 +134,8 @@ msgid ""
 "you want to **add a Field Paper**  [1], click **Custom** then   click on the"
 " magnifying glass (search) icon to open the following window:"
 msgstr ""
-"**Custom** をクリックすると、独自のマップタイルを追加できます。たとえば、 **Field Paperを追加する** [1] 場合は、 "
-"**Custom** をクリックし、虫眼鏡(検索)アイコンをクリックして次のウィンドウを開きます。"
+"**カスタム** をクリックすると、独自のマップタイルを追加できます。たとえば、 **Field Paperを追加する** [1] 場合は、 "
+"**カスタム** をクリックし、虫眼鏡(検索)アイコンをクリックして次のウィンドウを開きます。"
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:76
 msgid "|image17|"
@@ -194,7 +194,7 @@ msgstr "ポイントを追加する"
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:97
 msgid "To add a new point, click on the **Point** button. |image3|"
-msgstr "新しい点を追加するには、 **[Point]** ボタンをクリックします。|image3|"
+msgstr "新しい点を追加するには、 **[ポイント]** ボタンをクリックします。|image3|"
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:99
 msgid ""
@@ -214,7 +214,7 @@ msgid ""
 "change to show a form where you can select attributes for the object. Click "
 "**Hospital Grounds** to tag the point as a hospital."
 msgstr ""
-"新しい点が追加されます。同時に、左側のパネルが変わり、オブジェクトの属性を選択できるフォームが表示されます。**Hospital Grounds** "
+"新しい点が追加されます。同時に、左側のパネルが変わり、オブジェクトの属性を選択できるフォームが表示されます。**大規模病院（代表点または敷地）** "
 "をクリックして、ポイントに病院のタグを付けます。"
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:110
@@ -353,7 +353,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:175
 msgid "Drawing shapes (polygons)"
-msgstr "シェイプ(ポリゴン)を描画する"
+msgstr "形状(ポリゴン)を描画する"
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:177
 msgid "To add a new multi-sided shape, click on the **Area** button."
@@ -373,14 +373,14 @@ msgstr "マウスカーソルがプラス(+)記号に変わります。イメー
 msgid ""
 "You will notice that the color of your shape will change depending on the "
 "attributes that you assign to it. |image35|"
-msgstr "シェイプのカラーは、割り当てるアトリビュートに応じて変化します。|image35|"
+msgstr "形状色は、割り当てるアトリビュートに応じて変化します。|image35|"
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:185
 msgid ""
 "The tools that are available when you select a shape and activate the "
 "context menu with the right mouse button are similar to those when you click"
 " on a line."
-msgstr "シェイプを選択して右マウスボタンでコンテキストメニューを表示したときに使用できるツールは、ラインをクリックしたときのツールと似ています。"
+msgstr "形状を選択して右マウスボタンでコンテキストメニューを表示したときに使用できるツールは、ラインをクリックしたときのツールと似ています。"
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:189
 msgid "A \"polygon\" in the iD editor is actually a \"closed way\" with tags on it."

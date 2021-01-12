@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/pywps_quickstart.rst:23
 msgid "PyWPS Quickstart"
-msgstr ""
+msgstr "PyWPS クイックスタート"
 
 #: ../../build/doc/quickstart/pywps_quickstart.rst:25
 msgid ""

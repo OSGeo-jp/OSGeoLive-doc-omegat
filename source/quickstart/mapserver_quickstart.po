@@ -47,7 +47,7 @@ msgid ""
 "using WMS requests."
 msgstr ""
 "**何を学べますか？** "
-"ここでは、Mapfileの概要と、MapServerがWMS要求を使用してシェイプファイルをイメージとして処理できるように設定する方法について説明します。"
+"ここでは、Mapfileの概要と、MapServerがWMS要求を使用してシェープファイルをイメージとして処理できるように設定する方法について説明します。"
 
 #: ../../build/doc/quickstart/mapserver_quickstart.rst:49
 msgid "What is a Mapfile ?"
@@ -129,7 +129,7 @@ msgstr "LAYER: 空間データセットのアクセスプロパティと表示�
 msgid ""
 "SHAPEPATH: sets a base path for file-based data (e.g. shapefiles or tiff "
 "images)."
-msgstr "SHAPEPATH:ファイルベースのデータ(シェイプファイルやTIFFイメージなど)のベースパスを設定します。"
+msgstr "SHAPEPATH:ファイルベースのデータ(シェープファイルやTIFFイメージなど)のベースパスを設定します。"
 
 #: ../../build/doc/quickstart/mapserver_quickstart.rst:121
 msgid ""
@@ -157,7 +157,7 @@ msgstr ""
 msgid ""
 "DATA: the name of the spatial data file this layer uses, in this case a "
 "shapefile."
-msgstr "DATA:このレイヤが使用する空間データファイル(この場合はシェイプファイル)の名前。"
+msgstr "DATA:このレイヤが使用する空間データファイル(この場合はシェープファイル)の名前。"
 
 #: ../../build/doc/quickstart/mapserver_quickstart.rst:130
 msgid ""
@@ -241,7 +241,7 @@ msgstr "このコマンドが正常に実行されると、file:///home/user/mym
 
 #: ../../build/doc/quickstart/mapserver_quickstart.rst:190
 msgid "Add a new layer to the Mapfile to serve a local Shapefile"
-msgstr "新しいレイヤをMapfileに追加して、ローカルシェイプファイルを提供する"
+msgstr "新しいレイヤをMapfileに追加して、ローカルシェープファイルを提供する"
 
 #: ../../build/doc/quickstart/mapserver_quickstart.rst:194
 msgid ""

@@ -121,7 +121,7 @@ msgstr "**ライセンス:** GNU General Public License (GPL) version 2"
 
 #: ../../build/doc/overview/istsos_overview.rst:58
 msgid "**Software Version:** |version-istsos|"
-msgstr "**ソフトウエアバージョン:** |version-istsos|"
+msgstr "**ソフトウェアバージョン:** |version-istsos|"
 
 #: ../../build/doc/overview/istsos_overview.rst:60
 msgid "**Supported Platforms:** Linux, Unix, Mac, Windows"

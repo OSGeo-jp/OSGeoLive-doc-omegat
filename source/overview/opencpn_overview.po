@@ -88,7 +88,7 @@ msgstr "無制限のルート/マークの作成"
 
 #: ../../build/doc/overview/opencpn_overview.rst:43
 msgid "Quilted charts"
-msgstr ""
+msgstr "海図の繋ぎ合わせ"
 
 #: ../../build/doc/overview/opencpn_overview.rst:44
 msgid "International language support"

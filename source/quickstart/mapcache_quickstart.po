@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/mapcache_quickstart.rst:18
 msgid "MapCache Quickstart"
-msgstr ""
+msgstr "MapCache クイックスタート"
 
 #: ../../build/doc/quickstart/mapcache_quickstart.rst:20
 msgid ""

@@ -68,7 +68,7 @@ msgstr "共通的なGISデスクトップインタフェースツール:"
 msgid ""
 "Toolbar customization, View control (zoom, pan. etc), styles, icons and "
 "layers management."
-msgstr "Toolbar customization, View control (zoom, pan. など）、スタイル、アイコンとレイヤ管理。"
+msgstr "ツールバーのカスタマイズ、ビューコントロール (ズーム、画面移動など)、スタイル、アイコンとレイヤ管理。"
 
 #: ../../build/doc/overview/josm_overview.rst:40
 msgid "Download and upload OSM vector data."

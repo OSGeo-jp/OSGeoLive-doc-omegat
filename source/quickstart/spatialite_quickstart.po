@@ -145,7 +145,7 @@ msgid ""
 "example, we will load a shapefile, and search for schools which are near "
 "highway 42."
 msgstr ""
-"スクリプトを使用したりクエリを自動化したりする必要があるユーザは、コマンドラインインタフェースからspatialiteデータベースを操作する利点を学習します。この例では、シェイプファイルをロードし、highway"
+"スクリプトを使用したりクエリを自動化したりする必要があるユーザは、コマンドラインインタフェースからspatialiteデータベースを操作する利点を学習します。この例では、シェープファイルをロードし、highway"
 " 42の近くにある学校を検索します。"
 
 #: ../../build/doc/quickstart/spatialite_quickstart.rst:104

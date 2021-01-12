@@ -109,7 +109,7 @@ msgstr "**ライセンス:** GNU General Public License (GPL) version 2+"
 
 #: ../../build/doc/overview/grass_overview.rst:75
 msgid "**Software Version:** |version-grass|"
-msgstr "**ソフトウエアバージョン:** |version-grass|"
+msgstr "**ソフトウェアバージョン:** |version-grass|"
 
 #: ../../build/doc/overview/grass_overview.rst:77
 msgid "**Supported Platforms:** GNU/Linux, Mac OSX, MS Windows"
