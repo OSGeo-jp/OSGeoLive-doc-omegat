@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_4470bbb50" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef7" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16669,8 +16669,8 @@
       <tuv lang="en-US">
         <seg>Leaflet Quickstart</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210105T153326Z" creationid="sanak" creationdate="20210105T153326Z">
-        <seg>Leaflet Quickstart</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210112T131401Z" creationid="sanak" creationdate="20210105T153326Z">
+        <seg>Leaflet クイックスタート</seg>
       </tuv>
     </tu>
     <tu>
@@ -17405,8 +17405,8 @@
       <tuv lang="en-US">
         <seg>MapCache Quickstart</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210105T153331Z" creationid="sanak" creationdate="20210105T153331Z">
-        <seg>MapCache Quickstart</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210112T131448Z" creationid="sanak" creationdate="20210105T153331Z">
+        <seg>MapCache クイックスタート</seg>
       </tuv>
     </tu>
     <tu>
@@ -17565,8 +17565,8 @@
       <tuv lang="en-US">
         <seg>Mapbender Quickstart</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210105T153330Z" creationid="sanak" creationdate="20210105T153330Z">
-        <seg>Mapbender Quickstart</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210112T131424Z" creationid="sanak" creationdate="20210105T153330Z">
+        <seg>Mapbender クイックスタート</seg>
       </tuv>
     </tu>
     <tu>
@@ -22433,8 +22433,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>PyWPS Quickstart</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210105T215506Z" creationid="sanak" creationdate="20210105T215506Z">
-        <seg>PyWPS Quickstart</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210112T131501Z" creationid="sanak" creationdate="20210105T215506Z">
+        <seg>PyWPS クイックスタート</seg>
       </tuv>
     </tu>
     <tu>
