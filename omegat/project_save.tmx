@@ -17459,6 +17459,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MapProxy Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210112T150935Z" creationid="sanak" creationdate="20210112T150935Z">
+        <seg>MapProxy Quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MapProxy implements the following open specifications:</seg>
       </tuv>
       <tuv lang="ja">
