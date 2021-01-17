@@ -2920,8 +2920,8 @@
       <tuv lang="en-US">
         <seg>*Features* represent real world things and can be rendered using different *geometries* (like point, line or polygon) using a given *style*, which determines its look (line thinkness, fill color, etc).</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T071116Z" creationid="miurahr" creationdate="20201108T004459Z">
-        <seg>*フィーチャー* は現実世界のものを表し、特定の*スタイル*を使用して、さまざまな *ジオメトリ* (点、線、ポリゴンなど)を使用してレンダリングできます。これにより、外観(線の思考、塗り潰し色など)が決まります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T123601Z" creationid="miurahr" creationdate="20201108T004459Z">
+        <seg>*フィーチャー* は現実世界のものを表し、特定の *スタイル* を使用して、さまざまな *ジオメトリ* (点、線、ポリゴンなど)を使用してレンダリングできます。これにより、外観(線の思考、塗り潰し色など)が決まります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4208,8 +4208,8 @@
       <tuv lang="en-US">
         <seg>A shape is called a **closed way** because it is just a line that ends at the same point where it begins.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T075006Z" creationid="miurahr" creationdate="20201103T072730Z">
-        <seg>シェイプは、データ上では始点と終点が同一の地点にあるだけのウェイなので 閉じたウェイ(closed way) と呼ばれます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T123209Z" creationid="miurahr" creationdate="20201103T072730Z">
+        <seg>シェイプは、データ上では始点と終点が同一の地点にあるだけのウェイなので **閉じたウェイ(closed way)** と呼ばれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6144,8 +6144,8 @@
       <tuv lang="en-US">
         <seg>Before the last *END* statement in the Mapfile, add the following layer configuration::</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T022422Z" creationid="miurahr" creationdate="20201103T022422Z">
-        <seg>Mapfileの最後の*END*文の前に、次のレイヤ設定を追加します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T123408Z" creationid="miurahr" creationdate="20201103T022422Z">
+        <seg>Mapfileの最後の *END* 文の前に、次のレイヤ設定を追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9530,8 +9530,8 @@
       <tuv lang="en-US">
         <seg>Download the file here: `sample.osm &lt;https://learnosm.org/files/sample.osm&gt;`__</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>ここでファイルをダウンロードしてください： `sample.osm &lt;https://learnosm.org/files/sample.osm&gt;` __</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T123129Z">
+        <seg>ここでファイルをダウンロードしてください: `sample.osm &lt;https://learnosm.org/files/sample.osm&gt;`__</seg>
       </tuv>
     </tu>
     <tu>
@@ -10674,8 +10674,8 @@
       <tuv lang="en-US">
         <seg>Finally, we set the initial position of the *camera* using the ``ol.View`` class, set the initial zoom level and center location.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T071228Z" creationid="miurahr" creationdate="20201108T015639Z">
-        <seg>最後に、 ``ol.View`` クラスを使用して*camera*の初期位置を設定し、初期ズームレベルと中心位置を設定します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T123614Z" creationid="miurahr" creationdate="20201108T015639Z">
+        <seg>最後に、 ``ol.View`` クラスを使用して *camera* の初期位置を設定し、初期ズームレベルと中心位置を設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11106,8 +11106,8 @@
       <tuv lang="en-US">
         <seg>For these cases you need to add an additional column to your query `reverse_cost`</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T001548Z" creationid="miurahr" creationdate="20201117T001548Z">
-        <seg>このような場合は、クエリ`reverse_cost`に列を追加する必要があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T123919Z" creationid="miurahr" creationdate="20201117T001548Z">
+        <seg>このような場合は、クエリ `reverse_cost` に列を追加する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13154,8 +13154,8 @@
       <tuv lang="en-US">
         <seg>Here is how you use osm2pgrouting version 2.1.0+.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T001926Z" creationid="miurahr" creationdate="20201117T001926Z">
-        <seg>osm2pgrouting version2.1.0+の使用方法を次に示します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T123739Z" creationid="miurahr" creationdate="20201117T001926Z">
+        <seg>osm2pgrouting version 2.1.0+の使用方法を次に示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13802,8 +13802,8 @@
       <tuv lang="en-US">
         <seg>If we put it in simple words, it's a |WMS| **GetMap** request that tells MapServer to "*use the following Mapfile to render the specified layers as a png image based on some user-supplied parameters such as image size, geographical extent, projection, etc.*".</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T075911Z" creationid="miurahr" creationdate="20201103T022133Z">
-        <seg>簡単に言うと、これはWMSの **GetMap** 要求であり、「 *次のMapfileを使用して、イメージサイズ、地理的範囲、投影などのユーザ指定のパラメータに基づいて、指定されたレイヤをpngイメージとしてレンダリングする* 」ようMapServerに指示します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T123355Z" creationid="miurahr" creationdate="20201103T022133Z">
+        <seg>簡単に言うと、これは |WMS| の **GetMap** 要求であり、 " *次のMapfileを使用して、イメージサイズ、地理的範囲、投影などのユーザ指定のパラメータに基づいて、指定されたレイヤをpngイメージとしてレンダリングする*" ようMapServerに指示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14306,8 +14306,8 @@
       <tuv lang="en-US">
         <seg>In OSM, points are actually called **nodes**, and lines are called **ways**.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T074958Z" creationid="miurahr" creationdate="20201103T072715Z">
-        <seg>ポイントは実際には ノード(node) と呼ばれ、ラインは ウェイ と呼ばれます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T123157Z" creationid="miurahr" creationdate="20201103T072715Z">
+        <seg>ポイントは実際には **ノード(node)** と呼ばれ、ラインは **ウェイ(way)** と呼ばれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14461,8 +14461,8 @@
       <tuv lang="en-US">
         <seg>In our "ne_10m_lakes" dataset, we have a *ScaleRank* attribute, which seems to be related to the size of the lakes.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T022810Z" creationid="miurahr" creationdate="20201103T022810Z">
-        <seg>"ne_10m_lakes"データセットには、湖の大きさに関係すると思われる*ScaleRank*属性がある。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T123425Z" creationid="miurahr" creationdate="20201103T022810Z">
+        <seg>"ne_10m_lakes" データセットには、湖の大きさに関係すると思われる *ScaleRank* 属性がある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18981,8 +18981,8 @@
       <tuv lang="en-US">
         <seg>Note: the SQL statement must always have field names `id, source, target, and cost`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T001836Z" creationid="miurahr" creationdate="20201117T001836Z">
-        <seg>注:SQL文には、常にフィールド名`id,source,target,およびcost`が必要です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T123844Z" creationid="miurahr" creationdate="20201117T001836Z">
+        <seg>注:SQL文には、常にフィールド名 `id, source, target, および cost` が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24738,8 +24738,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Since we are using fields `source_osm` and `target_osm`, we need to alias them so resulting pgr_dijkstra query columns are named source and target.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T001828Z" creationid="miurahr" creationdate="20201117T001828Z">
-        <seg>ここではフィールド`source_osm`と`target_osm`を使用しているため、これらのフィールドに別名を付ける必要があります。そうすることで、pgr_dijkstraクエリーの列にsourceとtargetという名前が付けられます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T123911Z" creationid="miurahr" creationdate="20201117T001828Z">
+        <seg>ここではフィールド `source_osm` と `target_osm` を使用しているため、これらのフィールドに別名を付ける必要があります。そうすることで、pgr_dijkstraクエリーの列にsourceとtargetという名前が付けられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25266,8 +25266,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Start QGIS via :menuselection:`Geospatial --&gt; Desktop GIS --&gt; QGIS Desktop`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T022939Z" creationid="miurahr" creationdate="20201103T022939Z">
-        <seg>QGISの起動方法:menuselection:`Geospatial--&gt;Desktop GIS--&gt;QGIS Desktop`</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T123517Z" creationid="miurahr" creationdate="20201103T022939Z">
+        <seg>QGISの起動方法 :menuselection:`Geospatial --&gt; Desktop GIS --&gt; QGIS Desktop`</seg>
       </tuv>
     </tu>
     <tu>
@@ -26669,8 +26669,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The `Learn OSM website &lt;https://learnosm.org&gt;`_ provides easy to understand, step-by-step guides for you to get started with contributing to OpenStreetMap and using OpenStreetMap and using OpenStreetMap data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T052155Z" creationid="miurahr" creationdate="20201102T052155Z">
-        <seg>「Learn OSM Webサイト&lt;https://learnosm.org&gt;」は、OpenStreetMapへの貢献、OpenStreetMapの使用、およびOpenStreetMapデータの使用を開始するための、理解しやすいステップバイステップのガイドを提供します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T123711Z" creationid="miurahr" creationdate="20201102T052155Z">
+        <seg>`Learn OSM Webサイト &lt;https://learnosm.org&gt;`_ は、OpenStreetMapへの貢献、OpenStreetMapの使用、およびOpenStreetMapデータの使用を開始するための、理解しやすいステップバイステップのガイドを提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31438,8 +31438,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>We can use this as a way to render the lakes differently.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T022801Z" creationid="miurahr" creationdate="20201103T022801Z">
-        <seg>これを使って湖を違った形にレンダリングすることができます</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T123445Z" creationid="miurahr" creationdate="20201103T022801Z">
+        <seg>これを使って湖を違った形にレンダリングすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33352,8 +33352,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You may notice that when you select an object, a list appears to the right of the map in a window called “Properties”.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T075019Z" creationid="miurahr" creationdate="20201103T072736Z">
-        <seg>オブジェクトを選択すると、JOSMの画面右側に”プロパティ”と呼ばれるリストが表示されることに気がつくかもしれません。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T123235Z" creationid="miurahr" creationdate="20201103T072736Z">
+        <seg>オブジェクトを選択すると、JOSMの画面右側に ”プロパティ” と呼ばれるリストが表示されることに気がつくかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
