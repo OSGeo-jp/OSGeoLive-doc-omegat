@@ -2896,8 +2896,8 @@
       <tuv lang="en-US">
         <seg>*Do not draw all these ways in one line* so that the inner contours suspend from the outer contour.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T084521Z" creationid="miurahr" creationdate="20201103T053213Z">
-        <seg>*これらのすべての方法を1本の線で描画しないでください。* 内側の輪郭線が外側の輪郭線から一時停止します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T122953Z" creationid="miurahr" creationdate="20201103T053213Z">
+        <seg> *これらのすべての方法を1本の線で描画しないでください。* 内側の輪郭線が外側の輪郭線から一時停止します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2976,8 +2976,8 @@
       <tuv lang="en-US">
         <seg>*Search facets*, or  filters, that provide ways of narrowing down the search results, such as *Type of Resource*, *Topic*, *Keywords*,</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T073658Z" creationid="miurahr" creationdate="20201116T133829Z">
-        <seg>検索結果を絞り込む *リソースタイプ* 、 *トピック* 、 *キーワード* などを提供する*検索ファセット*、またはフィルタ。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T122725Z" creationid="miurahr" creationdate="20201116T133829Z">
+        <seg>検索結果を絞り込む *リソースタイプ* 、 *トピック* 、 *キーワード* などを提供する *検索ファセット* 、またはフィルタ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5168,8 +5168,8 @@
       <tuv lang="en-US">
         <seg>All the JavaScript in the following sections should be pasted after the ``// all JavaScript application code should go here`` comment in the ``Ext.onReady`` function.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T054028Z" creationid="miurahr" creationdate="20201103T054028Z">
-        <seg>以下のセクションにあるすべてのJavaScriptは、``Ext.onReady``関数の``//all JavaScript application code should go here``コメントの後に貼り付ける必要があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T122423Z" creationid="miurahr" creationdate="20201103T054028Z">
+        <seg>以下のセクションにあるすべてのJavaScriptは、``Ext.onReady`` 関数の ``// all JavaScript application code should go here`` コメントの後に貼り付ける必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11306,8 +11306,8 @@
       <tuv lang="en-US">
         <seg>From the EOxServer main page, click the **Admin Client** link and login with user `admin` and password `admin`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T124634Z" creationid="miurahr" creationdate="20201116T124634Z">
-        <seg>EOxServerのメインページで[**Admin Client**]リンクをクリックし、ユーザー「admin」とパスワード「admin」でログインします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T122102Z" creationid="miurahr" creationdate="20201116T124634Z">
+        <seg>EOxServerのメインページで **Admin Client** リンクをクリックし、ユーザー `admin` とパスワード `admin` でログインします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12570,8 +12570,8 @@
       <tuv lang="en-US">
         <seg>Get a summary about your data with ogrinfo together with `-so`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T130541Z" creationid="miurahr" creationdate="20201116T130541Z">
-        <seg>ogrinfoに`-so`を付けて、データの概要を表示します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T122306Z" creationid="miurahr" creationdate="20201116T130541Z">
+        <seg>ogrinfoに `-so` を付けて、データの概要を表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12610,8 +12610,8 @@
       <tuv lang="en-US">
         <seg>Get the list of the supported formats with `--formats`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T130602Z" creationid="miurahr" creationdate="20201116T130602Z">
-        <seg>対応フォーマットの一覧を`--formats`で取得します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T122321Z" creationid="miurahr" creationdate="20201116T130602Z">
+        <seg>対応フォーマットの一覧を `--formats` で取得します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18693,8 +18693,8 @@
       <tuv lang="en-US">
         <seg>Next paste in the HTML below, and save the file as ``/var/www/html/geoext/demo.html``.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053929Z" creationid="miurahr" creationdate="20201103T053929Z">
-        <seg>次に下のHTMLに貼り付け、ファイルを``/var/www/html/geoext/demo.html``として保存します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T122345Z" creationid="miurahr" creationdate="20201103T053929Z">
+        <seg>次に下のHTMLに貼り付け、ファイルを ``/var/www/html/geoext/demo.html`` として保存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26589,8 +26589,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The `--formats` commandline switch of gdal_translate can be used to see a list of available format drivers.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T125624Z" creationid="miurahr" creationdate="20201116T125624Z">
-        <seg>gdal_translateの`--formats`コマンドラインスイッチを使用すると、利用可能なフォーマットドライバの一覧を表示できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T122227Z" creationid="miurahr" creationdate="20201116T125624Z">
+        <seg>gdal_translateの `--formats` コマンドラインスイッチを使用すると、利用可能なフォーマットドライバの一覧を表示できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26621,8 +26621,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The `-scale` switch can be used to rescale data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T130029Z" creationid="miurahr" creationdate="20201116T130029Z">
-        <seg>`-scale`スイッチは、データの再スケールに使用できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T122234Z" creationid="miurahr" creationdate="20201116T130029Z">
+        <seg>`-scale` スイッチは、データの再スケールに使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27221,8 +27221,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The gdalinfo `-mm` switch can be used to see pixel min/max values.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T130043Z" creationid="miurahr" creationdate="20201116T130043Z">
-        <seg>gdalinfo`-mm`スイッチを使用して、ピクセルの最小値/最大値を表示できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T122253Z" creationid="miurahr" creationdate="20201116T130043Z">
+        <seg>gdalinfo `-mm` スイッチを使用して、ピクセルの最小値/最大値を表示できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28053,8 +28053,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The |WMS| layers you are serving from |GS| can be used with a variety of clients on this OSGeoLive distribution, including:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T234358Z" creationid="miurahr" creationdate="20201116T234358Z">
-        <seg>|GS| から提供されているWMSレイヤは、このOSGeoLiveディストリビューションのさまざまなクライアントで使用できます。次のものがあります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T122818Z" creationid="miurahr" creationdate="20201116T234358Z">
+        <seg>|GS| から提供されている |WMS| レイヤは、このOSGeoLiveディストリビューションのさまざまなクライアントで使用できます。次のものがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29206,8 +29206,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This will be referred to throughout this document as the *homepage*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T133208Z" creationid="miurahr" creationdate="20201116T133208Z">
-        <seg>これは、このドキュメント全体で*ホームページ*と呼ばれます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T122627Z" creationid="miurahr" creationdate="20201116T133208Z">
+        <seg>これは、このドキュメント全体で *ホームページ* と呼ばれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33424,8 +33424,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You should now be able to refresh the link http://localhost/geoext/demo.html in your browser and see a complete GeoExt application similar to the image below.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T054643Z" creationid="miurahr" creationdate="20201103T054643Z">
-        <seg>ブラウザでリンクhttp://localhost/geoext/demo.htmlを更新すると、下の画像のような完全なGeoExtアプリケーションが表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T122447Z" creationid="miurahr" creationdate="20201103T054643Z">
+        <seg>ブラウザでリンク http://localhost/geoext/demo.html を更新すると、下の画像のような完全なGeoExtアプリケーションが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
