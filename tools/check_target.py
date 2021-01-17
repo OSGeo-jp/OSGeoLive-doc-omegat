@@ -79,8 +79,9 @@ class Main:
                         issues.append(error.astext())
                 if len(msgstr_warning) > 0:
                     issues.append(msgstr_warning)
-                if not self.check_doctree_diff(msgid_doctree, msgstr_doctree):
-                    issues.append("Doctree element count is different.")
+                doctree_diff = self.check_doctree_diff(msgid_doctree, msgstr_doctree)
+                if len(doctree_diff) > 0:
+                    issues.append("Doctree element count is different (%s)" % doctree_diff)
 
             if len(issues) > 0:
                 self.print_issues(po, msgid, msgstr, issues, po.current_index)
@@ -114,14 +115,14 @@ class Main:
         for key in class_counts1:
             if key != 'Text':
                 if key not in class_counts2:
-                    return False
+                    return "<%s> is not included" % key
                 elif class_counts1[key] != class_counts2[key]:
-                    return False
+                    return "<%s> count is different" % key
         for key in class_counts2:
             if key != 'Text':
                 if key not in class_counts1:
-                    return False
-        return True
+                    return "<%s> is added" % key
+        return ""
 
     @staticmethod
     def count_doctree_classes(doctree):
