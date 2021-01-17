@@ -8482,8 +8482,8 @@
       <tuv lang="en-US">
         <seg>Create the file "ne.toml" in your home directory: :file:`/home/user/ne.toml`</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T065842Z" creationid="smellman" creationdate="20201103T052403Z">
-        <seg>ファイル"ne.toml"をホームディレクトリ::file:`/home/user/ne.toml` に作成します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T125141Z" creationid="smellman" creationdate="20201103T052403Z">
+        <seg>ファイル"ne.toml"をホームディレクトリ: :file:`/home/user/ne.toml` に作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8554,8 +8554,8 @@
       <tuv lang="en-US">
         <seg>Creating bootable USB drive with ``dd`` under Linux</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>Linux 環境でブータブル USB ドライブの作成</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T125339Z">
+        <seg>Linux 環境で ``dd`` でのブータブル USB ドライブの作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -20717,8 +20717,8 @@
       <tuv lang="en-US">
         <seg>Open any text editor (e.g. :menuselection:`Accessories --&gt; FeatherPad`).</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T065810Z" creationid="smellman" creationdate="20201103T052346Z">
-        <seg>任意のテキストエディタを開きます(例: menuselection:`アクセサリ --&gt; FeatherPad`)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T125201Z" creationid="smellman" creationdate="20201103T052346Z">
+        <seg>任意のテキストエディタを開きます(例: :menuselection:`アクセサリ --&gt; FeatherPad`)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24034,8 +24034,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select **Files** from the list of data sources</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T142005Z" creationid="miurahr" creationdate="20201120T142005Z">
-        <seg>データソースのリストから**ファイル**を選択します</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T125300Z" creationid="miurahr" creationdate="20201120T142005Z">
+        <seg>データソースのリストから **ファイル** を選択します</seg>
       </tuv>
     </tu>
     <tu>
@@ -38152,8 +38152,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>load a map layers from a shapefile and |WMS|</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201120T140755Z" creationid="miurahr" creationdate="20201120T140755Z">
-        <seg>シェープファイルとWMSからマップレイヤをロードする</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T125249Z" creationid="miurahr" creationdate="20201120T140755Z">
+        <seg>シェープファイルと |WMS| からマップレイヤをロードする</seg>
       </tuv>
     </tu>
     <tu>
