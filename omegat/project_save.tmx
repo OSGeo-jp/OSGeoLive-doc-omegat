@@ -16093,8 +16093,8 @@
       <tuv lang="en-US">
         <seg>Java Application built using the :doc:`GeoTools &lt;geotools_overview&gt;`, `JTS Topology Suite (JTS) &lt;https://sourceforge.net/projects/jts-topo-suite/&gt;`_</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T002700Z" creationid="miurahr" creationdate="20201103T002700Z">
-        <seg> :doc:`GeoTools&lt;geotools_overview&gt;`、`JTS Topology Suite(JTS)&lt;https://sourceforge.net/projects/jts-topo-suite/&gt;`_ を使用して構築されたJavaアプリケーション</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T130009Z" creationid="miurahr" creationdate="20201103T002700Z">
+        <seg>:doc:`GeoTools &lt;geotools_overview&gt;`、`JTS Topology Suite (JTS) &lt;https://sourceforge.net/projects/jts-topo-suite/&gt;`_ を使用して構築されたJavaアプリケーション</seg>
       </tuv>
     </tu>
     <tu>
@@ -17461,8 +17461,8 @@
       <tuv lang="en-US">
         <seg>MapProxy Quickstart</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210112T150935Z" creationid="sanak" creationdate="20210112T150935Z">
-        <seg>MapProxy Quickstart</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T130120Z" creationid="sanak" creationdate="20210112T150935Z">
+        <seg>MapProxy クイックスタート</seg>
       </tuv>
     </tu>
     <tu>
