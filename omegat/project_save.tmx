@@ -22021,8 +22021,8 @@
       <tuv lang="en-US">
         <seg>Press start on the *deegree-inspire-workspace*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T143629Z" creationid="miurahr" creationdate="20201116T135302Z">
-        <seg>*deegree-inspire-workspace* の開始を押してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T121940Z" creationid="miurahr" creationdate="20201116T135302Z">
+        <seg> *deegree-inspire-workspace* の開始を押してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32598,8 +32598,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You are now in the workspace management of the running *deegree* instance.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T135238Z" creationid="miurahr" creationdate="20201116T135238Z">
-        <seg>これで、実行中の*deegree*インスタンスの作業フォルダ管理が開始されました。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T121927Z" creationid="miurahr" creationdate="20201116T135238Z">
+        <seg>これで、実行中の *deegree* インスタンスの作業フォルダ管理が開始されました。</seg>
       </tuv>
     </tu>
     <tu>
