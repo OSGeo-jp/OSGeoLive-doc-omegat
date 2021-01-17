@@ -72,8 +72,8 @@
       <tuv lang="en-US">
         <seg>(You can also open this manually by pointing your browser to http://localhost:8033).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T135147Z" creationid="miurahr" creationdate="20201116T135147Z">
-        <seg>(ブラウザでhttp://localhost:8033)を選択して手動で開くこともできます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T120159Z" creationid="miurahr" creationdate="20201116T135147Z">
+        <seg>(ブラウザで http://localhost:8033)を選択して手動で開くこともできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11034,8 +11034,8 @@
       <tuv lang="en-US">
         <seg>For general information about R, try the official `Introduction to R &lt;https://cran.r-project.org/doc/manuals/R-intro.html&gt;`_ or any of the documentation from the main `R Project &lt;https://www.r-project.org/&gt;`_ page.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T143117Z">
-        <seg>いまは、Rに関する一般的な情報については、公式の`Introduction to R &lt;https://cran.r-project.org/doc/manuals/R-intro.html&gt;`_  またはメインの `R Project &lt;https://www.r-project.org/&gt;`_ ページにあたるとよいでしょう。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T120006Z">
+        <seg>いまは、Rに関する一般的な情報については、公式の `Introduction to R &lt;https://cran.r-project.org/doc/manuals/R-intro.html&gt;`_ またはメインの `R Project &lt;https://www.r-project.org/&gt;`_ ページにあたるとよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11050,8 +11050,8 @@
       <tuv lang="en-US">
         <seg>For more information on spatial aspects of R, the best place to start is probably the `R Spatial Task View &lt;https://cran.r-project.org/web/views/Spatial.html&gt;`_</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T142434Z">
-        <seg>Rの空間的側面の詳細については、おそらく`R Spatial Task View &lt;https://cran.r-project.org/web/views/Spatial.html&gt;`_ から始めるのが最適です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T120029Z">
+        <seg>Rの空間的側面の詳細については、おそらく `R Spatial Task View &lt;https://cran.r-project.org/web/views/Spatial.html&gt;`_ から始めるのが最適です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28798,8 +28798,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This is a simple web-based GUI for editing the configuration files of the *deegree workspace*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T143603Z" creationid="miurahr" creationdate="20201116T135156Z">
-        <seg>これは、 *deegree作業フォルダ* の設定ファイルを編集するためのシンプルなWebベースのGUIです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T121855Z" creationid="miurahr" creationdate="20201116T135156Z">
+        <seg>これは、 *deegree 作業フォルダ* の設定ファイルを編集するためのシンプルなWebベースのGUIです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29894,8 +29894,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To quit R, type ``q()`` and hit return.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T033342Z" creationid="miurahr" creationdate="20201221T033342Z">
-        <seg>Rを終了するには、``q()``と入力してreturnを押します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T115939Z" creationid="miurahr" creationdate="20201221T033342Z">
+        <seg>Rを終了するには、 ``q()`` と入力してreturnを押します。</seg>
       </tuv>
     </tu>
     <tu>
