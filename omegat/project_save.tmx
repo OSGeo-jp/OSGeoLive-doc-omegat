@@ -8554,8 +8554,8 @@
       <tuv lang="en-US">
         <seg>Creating bootable USB drive with ``dd`` under Linux</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210117T125339Z">
-        <seg>Linux 環境で ``dd`` でのブータブル USB ドライブの作成</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T125533Z">
+        <seg>Linux 環境で ``dd`` でブータブル USB ドライブの作成</seg>
       </tuv>
     </tu>
     <tu>
