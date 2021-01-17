@@ -35960,8 +35960,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>documentation can be found in the `SOS webapp &lt;http://localhost:8080/52nSOS/static/doc/api-doc/&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201103T055451Z" creationid="sanak" creationdate="20201103T055451Z">
-        <seg>`SOS webapp &lt;http://localhost:8080/52nSOS/static/doc/api-doc/&gt;`_ 内で文書を確認できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T114114Z" creationid="sanak" creationdate="20201103T055451Z">
+        <seg> `SOS webapp &lt;http://localhost:8080/52nSOS/static/doc/api-doc/&gt;`_ 内で文書を確認できます。</seg>
       </tuv>
     </tu>
     <tu>
