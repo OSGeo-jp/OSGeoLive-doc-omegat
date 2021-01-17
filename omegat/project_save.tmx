@@ -42192,8 +42192,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>|osgeolive-version| Project Metrics</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>プロジェクトメトリクス</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T111041Z">
+        <seg>|osgeolive-version| プロジェクトメトリクス</seg>
       </tuv>
     </tu>
     <tu>
