@@ -8218,8 +8218,8 @@
       <tuv lang="en-US">
         <seg>Coordinate reprojection via `GDAL &lt;https://gdal.org&gt;`__</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>`GDAL &lt;https://gdal.org&gt;`_ 経由での投影法の変換</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T114138Z">
+        <seg>`GDAL &lt;https://gdal.org&gt;`__ 経由での投影法の変換</seg>
       </tuv>
     </tu>
     <tu>
@@ -14298,8 +14298,8 @@
       <tuv lang="en-US">
         <seg>In 2020, the `OGC API &lt;https://ogcapi.ogc.org/&gt;`_ family of standards started to be developed to make it easy for anyone to provide geospatial data to the web.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T182320Z" creationid="miurahr" creationdate="20201103T013333Z">
-        <seg>2020年に `OGC API&lt;https://ogcapi.ogc.org/&gt;`_ ファミリの標準が開発され始めました。これは、空間データを誰でも簡単にWebに提供できるようにするためです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T114319Z" creationid="miurahr" creationdate="20201103T013333Z">
+        <seg>2020年に `OGC API &lt;https://ogcapi.ogc.org/&gt;`_ ファミリの標準が開発され始めました。これは、空間データを誰でも簡単にWebに提供できるようにするためです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17509,8 +17509,8 @@
       <tuv lang="en-US">
         <seg>MapServer is an `Open Source &lt;https://opensource.org/&gt;`_ geographic data rendering engine written in C. Beyond browsing GIS data, MapServer allows you create "geographic image maps", that is, maps that can direct users to web content.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T181601Z" creationid="miurahr" creationdate="20201103T005834Z">
-        <seg>MapServer は C 言語で記述された `オープンソース&lt;https://opensource.org/&gt;`_ のジオグラフィックデータレンダリングエンジンです。GISデータのブラウズはもちろん、MapServer はユーザにコンテンツを直接伝えるためのグラフィックイメージ地図を作ることが出来ます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T114202Z" creationid="miurahr" creationdate="20201103T005834Z">
+        <seg>MapServer は C 言語で記述された `オープンソース &lt;https://opensource.org/&gt;`_ のジオグラフィックデータレンダリングエンジンです。GISデータのブラウズはもちろん、MapServer はユーザにコンテンツを直接伝えるためのグラフィックイメージ地図を作ることが出来ます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25610,8 +25610,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Support for compliant Web Map Servers (:doc:`GeoServer &lt;geoserver_overview&gt;`, MapServer tested)</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T185216Z" creationid="miurahr" creationdate="20201103T002520Z">
-        <seg>Web MapServer標準のサポート(:doc:`GeoServer&lt;geoserver_overview&gt;` 、テスト済みMapServer)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T114406Z" creationid="miurahr" creationdate="20201103T002520Z">
+        <seg>Web MapServer標準のサポート(:doc:`GeoServer &lt;geoserver_overview&gt;` 、テスト済みMapServer)</seg>
       </tuv>
     </tu>
     <tu>
