@@ -52,8 +52,9 @@ class Main:
 
     def load_files(self):
         count_files = 0
-        for root, subFolders, files in os.walk(self.args.directory, topdown=False):
-            for file in files:
+        for root, dirs, files in os.walk(self.args.directory, topdown=True):
+            dirs.sort()
+            for file in sorted(files):
                 if file.endswith(PO_EXT):
                     po_inst = polib.pofile(os.path.join(root, file))
                     po = Po(po_inst, file, os.path.join(root, file))
