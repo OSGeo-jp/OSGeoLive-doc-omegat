@@ -14749,8 +14749,8 @@
       <tuv lang="en-US">
         <seg>In this Quickstart we will use 'PostgreSQL' when describing general database functions, and 'PostGIS' when describing the additional spatial functionality provided by PostGIS.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T040634Z" creationid="miurahr" creationdate="20201108T040634Z">
-        <seg>このクイックスタートでは、一般的なデータベース関数を記述する場合は'PostgreSQL'を使用し、PostGISによって提供される追加の空間機能を記述する場合は'PostGIS'を使用します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T124028Z" creationid="miurahr" creationdate="20201108T040634Z">
+        <seg>このクイックスタートでは、一般的なデータベース関数を記述する場合は 'PostgreSQL' を使用し、PostGISによって提供される追加の空間機能を記述する場合は 'PostGIS' を使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22914,8 +22914,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Read more about ``ogr_fdw``: * Repository: https://github.com/pramsey/pgsql-ogr-fdw * New and improved: http://blog.cleverelephant.ca/2016/04/ogr-fdw-update.html</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T003205Z" creationid="miurahr" creationdate="20201117T003205Z">
-        <seg>``ogr_fdw``: *リポジトリ: https://github.com/pramsey/pgsql-ogr-fdw* 新規改良版: http://blog.cleverelephant.ca/2016/04/ogr-fdw-update.html</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T125042Z" creationid="miurahr" creationdate="20201117T003205Z">
+        <seg>``ogr_fdw``: * リポジトリ: https://github.com/pramsey/pgsql-ogr-fdw * 新規改良版: http://blog.cleverelephant.ca/2016/04/ogr-fdw-update.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -27405,8 +27405,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The list uses a standard unix pager - hit space for next page, :kbd:`b` to go back, :kbd:`q` to quit, h for help.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201219T120223Z" creationid="miurahr" creationdate="20201108T041234Z">
-        <seg>このリストでは標準的なUNIXのページャの使いかたを示します - スペースで次のページ、 :kbd:`b`  は戻る、 :kbd:`q` は終了、h はヘルプを表示します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210117T124920Z" creationid="miurahr" creationdate="20201108T041234Z">
+        <seg>このリストでは標準的なUNIXのページャの使いかたを示します - スペースで次のページ、 :kbd:`b` は戻る、 :kbd:`q` は終了、h はヘルプを表示します。</seg>
       </tuv>
     </tu>
     <tu>
