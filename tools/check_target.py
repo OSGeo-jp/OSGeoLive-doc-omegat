@@ -22,7 +22,9 @@ SPHINX_ROLES = [
     'math', 'eq',
     # Other semantic markup
     'abbr', 'command', 'dfn', 'file', 'guilabel', 'kbd', 'mailheader', 'makevar', 'manpage', 'menuselection',
-    'mimetype', 'newsgroup', 'program', 'regexp', 'samp', 'pep', 'rfc'
+    'mimetype', 'newsgroup', 'program', 'regexp', 'samp', 'pep', 'rfc',
+    # Additional
+    'code'
 ]
 
 
@@ -50,8 +52,9 @@ class Main:
 
     def load_files(self):
         count_files = 0
-        for root, subFolders, files in os.walk(self.args.directory, topdown=False):
-            for file in files:
+        for root, dirs, files in os.walk(self.args.directory, topdown=True):
+            dirs.sort()
+            for file in sorted(files):
                 if file.endswith(PO_EXT):
                     po_inst = polib.pofile(os.path.join(root, file))
                     po = Po(po_inst, file, os.path.join(root, file))
@@ -64,18 +67,25 @@ class Main:
         for entry in po.inst:
             if entry.obsolete:
                 continue  # skip obsolete translations (prefixed with #~ in po file)
-            issue_found = False
+            issues = []
             msgid = entry.msgid
             msgstr = entry.msgstr
-            if ".rst" in str(entry):
+            if (".rst" in str(entry)) and len(msgstr) > 0:
                 # Sphinx build equivalent
-                res = self.check_docutils_inliner(po, msgstr)
-                if len(res) > 0:
-                    issue_found = True
+                msgid_doctree, msgid_errors, msgid_warning = self.parse_message_to_doctree(po, msgid)
+                msgstr_doctree, msgstr_errors, msgstr_warning = self.parse_message_to_doctree(po, msgstr)
+                if len(msgstr_errors) > 0:
+                    for error in msgstr_errors:
+                        issues.append(error.astext())
+                if len(msgstr_warning) > 0:
+                    issues.append(msgstr_warning)
+                doctree_diff = self.check_doctree_diff(msgid_doctree, msgstr_doctree)
+                if len(doctree_diff) > 0:
+                    issues.append("Doctree element count is different (%s)" % doctree_diff)
 
-            if issue_found:
-                self.print_issue(po, msgid, msgstr, res, po.current_index)
-                self.issue_count += 1
+            if len(issues) > 0:
+                self.print_issues(po, msgid, msgstr, issues, po.current_index)
+                self.issue_count += len(issues)
 
             po.current_index += 1
 
@@ -84,7 +94,7 @@ class Main:
         return [], []
 
     @staticmethod
-    def check_docutils_inliner(po, msgstr):
+    def parse_message_to_doctree(po, message):
         inliner = Inliner()
         settings = AttrDict({'character_level_inline_markup': False, 'pep_references': None, 'rfc_references': None})
         inliner.init_customizations(settings)
@@ -94,18 +104,47 @@ class Main:
         reporter = Reporter(po.file, report_level=Reporter.WARNING_LEVEL,
                             halt_level=Reporter.SEVERE_LEVEL, stream=stream)
         memo = Struct(document=document, reporter=reporter, language=None, inliner=inliner)
-        inliner.parse(msgstr, po.current_index, memo, None)
-        return stream.getvalue()
+        doctree, errors = inliner.parse(message, po.current_index, memo, None)
+        warning = stream.getvalue()
+        return doctree, errors, warning
 
     @staticmethod
-    def print_issue(po, msgid, msgstr, issue, current_index):
-        # print("po: %s" % po)
-        print("==========================")
-        print("file: %s" % po.file)
-        print("index: %s" % current_index)
-        print("msgid: %s" % msgid)
-        print("msgstr: %s" % msgstr)
-        print("issue: %s" % issue)
+    def check_doctree_diff(doctree1, doctree2):
+        class_counts1 = Main.count_doctree_classes(doctree1)
+        class_counts2 = Main.count_doctree_classes(doctree2)
+        for key in class_counts1:
+            if key != 'Text':
+                if key not in class_counts2:
+                    return "<%s> is not included" % key
+                elif class_counts1[key] != class_counts2[key]:
+                    return "<%s> count is different" % key
+        for key in class_counts2:
+            if key != 'Text':
+                if key not in class_counts1:
+                    return "<%s> is added" % key
+        return ""
+
+    @staticmethod
+    def count_doctree_classes(doctree):
+        class_counts = {}
+        for item in doctree:
+            class_name = item.__class__.__name__
+            if class_name in class_counts:
+                class_counts[class_name] = class_counts[class_name] + 1
+            else:
+                class_counts[class_name] = 1
+        return class_counts
+
+    @staticmethod
+    def print_issues(po, msgid, msgstr, issues, current_index):
+        for issue in issues:
+            # print("po: %s" % po)
+            print("==========================")
+            print("file: %s" % po.file)
+            print("index: %s" % current_index)
+            print("msgid: %s" % msgid)
+            print("msgstr: %s" % msgstr)
+            print("issue: %s" % issue)
 
 
 if __name__ == "__main__":
