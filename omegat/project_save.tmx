@@ -5216,8 +5216,8 @@
       <tuv lang="en-US">
         <seg>Allows tiles to be "assembled" together - allowing tiles for different datasets to be merged together into a single tile to send to the client</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T023223Z" creationid="miurahr" creationdate="20201220T023149Z">
-        <seg>タイルを一緒に「くみこんで」、異なるデータ・セットのタイルを 1 つのタイルにまぜこみして、クライアントに送信できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T144814Z" creationid="miurahr" creationdate="20201220T023149Z">
+        <seg>タイルを一緒に "くみこんで"、異なるデータ・セットのタイルを 1 つのタイルにまぜこみして、クライアントに送信できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7826,8 +7826,8 @@
       <tuv lang="en-US">
         <seg>Clicking on points will cause the value of "Ozone_concentration" to be shown in a table at the bottom of the map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T234855Z" creationid="miurahr" creationdate="20201116T234855Z">
-        <seg>点をクリックすると、「オゾン濃度」の値がマップの下部のテーブルに表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145609Z" creationid="miurahr" creationdate="20201116T234855Z">
+        <seg>点をクリックすると、 "オゾン濃度" の値がマップの下部のテーブルに表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9682,8 +9682,8 @@
       <tuv lang="en-US">
         <seg>Driver is "GTiff/GeoTIFF"</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>ドライバーは「GTiff/GeoTIFF」</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145224Z">
+        <seg>ドライバーは "GTiff/GeoTIFF"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10122,8 +10122,8 @@
       <tuv lang="en-US">
         <seg>Enter a value for Data Source Name (this example uses "netcdf") and a NetCDF URL.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T234653Z" creationid="miurahr" creationdate="20201116T234653Z">
-        <seg>[Data Source Name]の値(今回は「netcdf」)と、NetCDF URLを入力します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145455Z" creationid="miurahr" creationdate="20201116T234653Z">
+        <seg>[Data Source Name]の値(今回は "netcdf")と、NetCDF URLを入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10282,7 +10282,7 @@
       <tuv lang="en-US">
         <seg>Examples are enumerations, controlled vocabularies, taxonomies, thesauri or, simply, ‘lists of things’.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T015215Z" creationid="miurahr" creationdate="20201103T015215Z">
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145201Z" creationid="miurahr" creationdate="20201103T015215Z">
         <seg>例としては、列挙、統制された語彙、分類法、シソーラス、あるいは単に「ものの一覧」があります。</seg>
       </tuv>
     </tu>
@@ -13410,8 +13410,8 @@
       <tuv lang="en-US">
         <seg>Hosting almost everywhere: cloud storage such as Amazon S3 or any cheap "unlimited" webhosting with FTP access</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T012838Z" creationid="miurahr" creationdate="20201220T012824Z">
-        <seg>ほとんどあらゆる場所でホスティング : Amazon S3 などのクラウド・ストレージ、または FTP アクセスによる安価の「無制限の」 Web ホスティング</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T144827Z" creationid="miurahr" creationdate="20201220T012824Z">
+        <seg>ほとんどあらゆる場所でホスティング : Amazon S3 などのクラウド・ストレージ、または FTP アクセスによる安価の "無制限の" Web ホスティング</seg>
       </tuv>
     </tu>
     <tu>
@@ -14669,8 +14669,8 @@
       <tuv lang="en-US">
         <seg>In the screenshot below, this is labelled  “My GeoNetwork catalogue” but it may have a different name and logo.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T133355Z" creationid="miurahr" creationdate="20201116T133355Z">
-        <seg>下のスクリーンショットでは、これに「My GeoNetwork catalog」というラベルが付いていますが、名前とロゴが異なる場合があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145320Z" creationid="miurahr" creationdate="20201116T133355Z">
+        <seg>下のスクリーンショットでは、これに "My GeoNetwork catalog" というラベルが付いていますが、名前とロゴが異なる場合があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15381,8 +15381,8 @@
       <tuv lang="en-US">
         <seg>It basically tells MapServer to draw the elements having the "ScaleRank" property equal to "0" or "1" with a black outline.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T022825Z" creationid="miurahr" creationdate="20201103T022825Z">
-        <seg>基本的には、MapServerに対して、「0」または「1」に等しい「ScaleRank」プロパティを持つ要素を黒いアウトラインで描画するように指示します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T144616Z" creationid="miurahr" creationdate="20201103T022825Z">
+        <seg>基本的には、MapServerに対して、 "0" または "1" に等しい "ScaleRank" プロパティを持つ要素を黒いアウトラインで描画するように指示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18005,8 +18005,8 @@
       <tuv lang="en-US">
         <seg>Metadata is 'data about data', storing such things as creation-date, author, title, area-of-interest, etc, and is usually encoded as XML files, following international standards such as ISO 19115, ISO 19139 and FGDC CSDGM.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T025533Z" creationid="miurahr" creationdate="20201220T025435Z">
-        <seg>メタデータは「データに関するデータ」であり、作成日、作成者、タイトル、興味分野などといったものを格納しており、 ISO 19115、 ISO 19139 、 FGDC CSDGM などの国際標準に従って XML ファイルとして通常エンコードされています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T144925Z" creationid="miurahr" creationdate="20201220T025435Z">
+        <seg>メタデータは 'データに関するデータ' であり、作成日、作成者、タイトル、興味分野などといったものを格納しており、 ISO 19115、 ISO 19139 、 FGDC CSDGM などの国際標準に従って XML ファイルとして通常エンコードされています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21949,8 +21949,8 @@
       <tuv lang="en-US">
         <seg>Press "Save", "Publish" the "O3" layer.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T234801Z" creationid="miurahr" creationdate="20201116T234801Z">
-        <seg>"保存"と"O3"レイヤを"公開" を押してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145510Z" creationid="miurahr" creationdate="20201116T234801Z">
+        <seg>"保存" と "O3" レイヤを "公開" を押してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23026,7 +23026,7 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Reference codes are exchanged between applications to uniquely reference some ‘thing’.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T015114Z" creationid="miurahr" creationdate="20201103T015038Z">
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145145Z" creationid="miurahr" creationdate="20201103T015038Z">
         <seg>リファレンスコードは、何らかの「もの」を一意に参照するためにアプリケーション間で交換されます。</seg>
       </tuv>
     </tu>
@@ -23834,16 +23834,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Scroll down to find the "cite:O3" entry, and click on the "OpenLayers" link to show a preview of the layer.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T234847Z" creationid="miurahr" creationdate="20201116T234847Z">
-        <seg>下へスクロールして"cite: O3"の項目を探し、"OpenLayers"リンクをクリックしてレイヤのプレビューを表示します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145528Z" creationid="miurahr" creationdate="20201116T234847Z">
+        <seg>下へスクロールして "cite: O3" の項目を探し、 "OpenLayers" リンクをクリックしてレイヤのプレビューを表示します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Scroll down to the bottom of the "Data" tab and press "Save" again.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T234812Z" creationid="miurahr" creationdate="20201116T234812Z">
-        <seg>"Data"タブの一番下までスクロールダウンし、もう一度"保存"を押します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145516Z" creationid="miurahr" creationdate="20201116T234812Z">
+        <seg>"Data" タブの一番下までスクロールダウンし、もう一度 "保存" を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24002,8 +24002,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select "Layer Preview" from the menu on the left</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T234826Z" creationid="miurahr" creationdate="20201116T234826Z">
-        <seg>左側のメニューから"レイヤプレビュー"を選択</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145521Z" creationid="miurahr" creationdate="20201116T234826Z">
+        <seg>左側のメニューから "レイヤプレビュー" を選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -24394,8 +24394,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select which layer you want to select features from using the "Query Layer" select-box.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T132433Z" creationid="miurahr" creationdate="20201116T132423Z">
-        <seg>「クエリーレイヤ」選択ボックスを使用して、地物を選択するレイヤを選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145301Z" creationid="miurahr" creationdate="20201116T132423Z">
+        <seg>"クエリーレイヤ" 選択ボックスを使用して、地物を選択するレイヤを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26277,8 +26277,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The LAYER "CLASSITEM" property tells MapServer which attribute to use when evaluating EXPRESSIONs defined in the CLASS objects.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T022846Z" creationid="miurahr" creationdate="20201103T022846Z">
-        <seg>LAYERの「CLASSITEM」プロパティは、CLASSオブジェクトで定義された式を評価するときに使用する属性をMapServerに伝えます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T144643Z" creationid="miurahr" creationdate="20201103T022846Z">
+        <seg>LAYERの "CLASSITEM" プロパティは、CLASSオブジェクトで定義された式を評価するときに使用する属性をMapServerに伝えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26405,8 +26405,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The OSM feature city data has been imported into a PostGIS database called "osm_local" using the osm2pgsql tool.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T051535Z" creationid="miurahr" creationdate="20201102T051535Z">
-        <seg>OSM機能の都市データは、osm2pgsqlツールを使用して「osm_local」という名前のPostGISデータベースにインポートされています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T144855Z" creationid="miurahr" creationdate="20201102T051535Z">
+        <seg>OSM機能の都市データは、osm2pgsqlツールを使用して "osm_local" という名前のPostGISデータベースにインポートされています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26469,8 +26469,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The Re3gistry 2 is a reusable open source solution for managing and sharing "reference codes".</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T015150Z" creationid="miurahr" creationdate="20201103T015024Z">
-        <seg>Re3gistry 2は、「リファレンスコード」を管理および共有するための再利用可能なオープンソースソリューションです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T144942Z" creationid="miurahr" creationdate="20201103T015024Z">
+        <seg>Re3gistry 2は、 "リファレンスコード" を管理および共有するための再利用可能なオープンソースソリューションです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26893,8 +26893,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The catalog along the left side of the Map view will change to the "Super Tab" - a place to where GeoMoose displays results of an action or asks for more information.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T132223Z" creationid="miurahr" creationdate="20201116T132223Z">
-        <seg>マップビューの左側に表示されるカタログが「Super Tab」に変わります。GeoMooseがアクションの結果を表示したり、詳細情報を要求したりする場所です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145234Z" creationid="miurahr" creationdate="20201116T132223Z">
+        <seg>マップビューの左側に表示されるカタログが "Super Tab" に変わります。GeoMooseがアクションの結果を表示したり、詳細情報を要求したりする場所です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27181,8 +27181,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The following screenshot demonstrates a search of all parcel owners containing the name "frank".</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T132732Z" creationid="miurahr" creationdate="20201116T132732Z">
-        <seg>次のスクリーンショットは、「frank」という名前を含むすべての区画所有者の検索を示しています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145309Z" creationid="miurahr" creationdate="20201116T132732Z">
+        <seg>次のスクリーンショットは、 "frank" という名前を含むすべての区画所有者の検索を示しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27781,8 +27781,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The search results are depicted as “cards”, showing the Categories the metadata is classified with, the title of the record, a thumbnail, an abstract (if present) and links to downloads and other resources (if present).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T133911Z" creationid="miurahr" creationdate="20201116T133911Z">
-        <seg>検索結果は「カード」として表示され、メタデータが分類されるカテゴリ、レコードのタイトル、サムネイル、要約(存在する場合)、ダウンロードおよびその他のリソースへのリンク(存在する場合)が表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145329Z" creationid="miurahr" creationdate="20201116T133911Z">
+        <seg>検索結果は "カード" として表示され、メタデータが分類されるカテゴリ、レコードのタイトル、サムネイル、要約(存在する場合)、ダウンロードおよびその他のリソースへのリンク(存在する場合)が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27837,8 +27837,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The smaller CBD extract is loaded into another PostGIS database called "pgrouting".</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T051611Z" creationid="miurahr" creationdate="20201102T051611Z">
-        <seg>小さなCBD抽出物は、「pgrouting」と呼ばれる別のPostGISデータベースにロードされます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T144906Z" creationid="miurahr" creationdate="20201102T051611Z">
+        <seg>小さなCBD抽出物は、 "pgrouting" と呼ばれる別のPostGISデータベースにロードされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28405,8 +28405,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>These standards are being constructed as "building blocks" that can be used to assemble novel APIs for web access to geospatial content.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T013350Z" creationid="miurahr" creationdate="20201103T013350Z">
-        <seg>これらの標準は、空間コンテンツへのWebアクセス用の新しいAPIを組み立てるために使用できる「ビルディング・ブロック」として構築されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T144842Z" creationid="miurahr" creationdate="20201103T013350Z">
+        <seg>これらの標準は、空間コンテンツへのWebアクセス用の新しいAPIを組み立てるために使用できる "ビルディング・ブロック" として構築されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29958,8 +29958,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To start, click on the "Select Features" icon (mouse cursor icon), pick point, line, polygon and start drawing your selection in the map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T132353Z" creationid="miurahr" creationdate="20201116T132353Z">
-        <seg>開始するには、「Select Features」アイコン(マウスカーソルアイコン)をクリックし、ポイント、ライン、ポリゴンを選択して、マップで選択の描画を開始します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145250Z" creationid="miurahr" creationdate="20201116T132353Z">
+        <seg>開始するには、 "Select Features" アイコン(マウスカーソルアイコン)をクリックし、ポイント、ライン、ポリゴンを選択して、マップで選択の描画を開始します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30174,8 +30174,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Try "admin" and "admin" for the Username and Password.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142241Z" creationid="miurahr" creationdate="20201116T142241Z">
-        <seg>ユーザー名とパスワードに「admin」と「admin」を使用してみてください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145342Z" creationid="miurahr" creationdate="20201116T142241Z">
+        <seg>ユーザー名とパスワードに "admin" と "admin" を使用してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32086,8 +32086,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>When a feature matches the "EXPRESSION" specified in a class, that class is going to render the feature.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T022831Z" creationid="miurahr" creationdate="20201103T022831Z">
-        <seg>フィーチャがクラスで指定された「EXPRESSION」に一致すると、そのクラスはフィーチャをレンダリングします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T144628Z" creationid="miurahr" creationdate="20201103T022831Z">
+        <seg>フィーチャがクラスで指定された "EXPRESSION" に一致すると、そのクラスはフィーチャをレンダリングします。</seg>
       </tuv>
     </tu>
     <tu>
