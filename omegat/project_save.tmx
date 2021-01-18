@@ -7738,8 +7738,8 @@
       <tuv lang="en-US">
         <seg>Click the checkbox next to the 'Water' layer to turn the layer off.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T120350Z" creationid="miurahr" creationdate="20201103T120350Z">
-        <seg>「Water」レイヤの横にあるチェックボックスをクリックして、レイヤをオフにします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T150907Z" creationid="miurahr" creationdate="20201103T120350Z">
+        <seg>'Water' レイヤの横にあるチェックボックスをクリックして、レイヤをオフにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9466,8 +9466,8 @@
       <tuv lang="en-US">
         <seg>Double click on the 'QGIS' icon.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T052504Z" creationid="miurahr" creationdate="20201102T052504Z">
-        <seg>「QGIS」アイコンをダブルクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T150817Z" creationid="miurahr" creationdate="20201102T052504Z">
+        <seg>'QGIS' アイコンをダブルクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14693,8 +14693,8 @@
       <tuv lang="en-US">
         <seg>In the style panel enter the value '0.5' in the 'width' input.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T015612Z" creationid="miurahr" creationdate="20201117T015612Z">
-        <seg>スタイルパネルで、入力値「width」に値「0.5」を入力します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T150955Z" creationid="miurahr" creationdate="20201117T015612Z">
+        <seg>スタイルパネルで、入力値 'width' に値 '0.5' を入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17173,8 +17173,8 @@
       <tuv lang="en-US">
         <seg>Make sure that the 'ne_10m_rivers_lakes_centrelines' is selected at the top of the style panel.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T015606Z" creationid="miurahr" creationdate="20201117T015606Z">
-        <seg>スタイルパネルの最上部で「ne_10m_rivers_lakes_centrelines」が選択されていることを確認します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T150938Z" creationid="miurahr" creationdate="20201117T015606Z">
+        <seg>スタイルパネルの最上部で 'ne_10m_rivers_lakes_centrelines' が選択されていることを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19197,8 +19197,8 @@
       <tuv lang="en-US">
         <seg>Now package authors are encouraged to write a 'vignette' as a friendly introduction to the package.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T033745Z" creationid="miurahr" creationdate="20201123T143020Z">
-        <seg>パッケージ作成者は、パッケージをわかりやすく紹介するために「ビネット」を書くことが推奨されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T151028Z" creationid="miurahr" creationdate="20201123T143020Z">
+        <seg>パッケージ作成者は、パッケージをわかりやすく紹介するために 'ビネット' を書くことが推奨されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27381,8 +27381,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The libLAS 'command-line utilities' provide the bulk of user-facing operational software for libLAS, although the underlying libLAS library is what powers them.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T060058Z" creationid="miurahr" creationdate="20201103T060058Z">
-        <seg>libLASの「コマンドライン・ユーティリティー」は、libLAS用のユーザー向けの操作ソフトウェアの大部分を提供していますが、基礎となるlibLAS・ライブラリーがその原動力となっています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T150741Z" creationid="miurahr" creationdate="20201103T060058Z">
+        <seg>libLASの 'コマンドライン・ユーティリティー' は、libLAS用のユーザー向けの操作ソフトウェアの大部分を提供していますが、基礎となるlibLAS・ライブラリーがその原動力となっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27445,8 +27445,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The map should zoom to the extent of the selected ('active') layer.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T015352Z" creationid="miurahr" creationdate="20201117T015352Z">
-        <seg>マップは選択された(「アクティブ」)レイヤの範囲にズームします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T150923Z" creationid="miurahr" creationdate="20201117T015352Z">
+        <seg>マップは選択された('アクティブ')レイヤの範囲にズームします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28750,8 +28750,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This information is stored as a QGIS project file and has an extension of '.qgs' or '.qgz', with '.qgz' being the default file format in QGIS going into the future.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T114036Z" creationid="miurahr" creationdate="20201103T114036Z">
-        <seg>この情報はQGISのプロジェクトファイルとして保存され、拡張子は「.qgs」または「.qgz」になります。「.qgz」は将来のQGISでの既定のファイル形式です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T150851Z" creationid="miurahr" creationdate="20201103T114036Z">
+        <seg>この情報はQGISのプロジェクトファイルとして保存され、拡張子は '.qgs' または '.qgz' になります。 '.qgz' は将来のQGISでの既定のファイル形式です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32238,8 +32238,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>When you reach :guilabel:`Coordinate Reference System` you will notice that under *Native SRS* it says UNKNOWN you will need to fill in the next box (*declared SRS*) to make sure |GS| knows where the data is.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T080654Z" creationid="miurahr" creationdate="20201116T230931Z">
-        <seg>:guilabel:`Coordinate Reference System` に到達すると、 *Native SRS* の下にUNKNOWNと表示されていることがわかります。次のボックス(*declared SRS*)に入力して、 |GS| がデータの場所を確実に認識できるようにする必要があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T150628Z" creationid="miurahr" creationdate="20201116T230931Z">
+        <seg>:guilabel:`Coordinate Reference System` に到達すると、 *Native SRS* の下に UNKNOWN と表示されていることがわかります。次のボックス(*declared SRS*)に入力して、 |GS| がデータの場所を確実に認識できるようにする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33192,8 +33192,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can type epsg:4326 in the box, or go to `http://prj2epsg.org/search &lt;http://prj2epsg.org/search&gt;`_ and paste in the string you see if you click on the link next to "UNKNOWN".</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>ボックスにepsg:4326と入力するか、 `http://prj2epsg.org/search &lt;http://prj2epsg.org/search&gt;`_ に移動して、次のリンクをクリックすると表示される文字列を貼り付けます 「不明」に。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T150722Z">
+        <seg>ボックスにepsg:4326と入力するか、 `http://prj2epsg.org/search &lt;http://prj2epsg.org/search&gt;`_ に移動して、 "UNKNOWN" の隣のリンクをクリックすると表示される文字列を貼り付けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33720,8 +33720,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Your client connects to the server via the internal 'loopback' network connection, and is not visible to other computers unless you configure it to be so.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T040837Z" creationid="miurahr" creationdate="20201108T040837Z">
-        <seg>クライアントは、内部の「ループバック」ネットワーク接続を介してサーバに接続し、そのように設定しない限り、他のコンピュータからは見えません。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T150758Z" creationid="miurahr" creationdate="20201108T040837Z">
+        <seg>クライアントは、内部の 'ループバック' ネットワーク接続を介してサーバに接続し、そのように設定しない限り、他のコンピュータからは見えません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33928,8 +33928,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>[1] Pan: Allows the map to be dragged ('panned') to a new location.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T085227Z" creationid="miurahr" creationdate="20201117T014854Z">
-        <seg>[1] パン: マップを新しい位置にドラッグ(「パン」)できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T150916Z" creationid="miurahr" creationdate="20201117T014854Z">
+        <seg>[1] パン: マップを新しい位置にドラッグ('パン')できます。</seg>
       </tuv>
     </tu>
     <tu>
