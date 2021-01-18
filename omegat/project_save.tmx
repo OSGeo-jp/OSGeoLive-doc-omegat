@@ -2896,8 +2896,8 @@
       <tuv lang="en-US">
         <seg>*Do not draw all these ways in one line* so that the inner contours suspend from the outer contour.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210117T122953Z" creationid="miurahr" creationdate="20201103T053213Z">
-        <seg> *これらのすべての方法を1本の線で描画しないでください。* 内側の輪郭線が外側の輪郭線から一時停止します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T141450Z" creationid="miurahr" creationdate="20201103T053213Z">
+        <seg>*これらのすべてのウェイを1本の線で描画しないでください* そうすることで、内側の輪郭線が外側の輪郭線から外れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3840,8 +3840,8 @@
       <tuv lang="en-US">
         <seg>A "line" created in the iD editor is actually a "way" with "tags" on it.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053012Z" creationid="miurahr" creationdate="20201103T053012Z">
-        <seg>iDエディタで作成される "ライン"は、実際には"タグ"がついた"ウエイ"です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T141041Z" creationid="miurahr" creationdate="20201103T053012Z">
+        <seg>iDエディタで作成される "ライン" は、実際には "タグ" がついた "ウェイ" です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3856,8 +3856,8 @@
       <tuv lang="en-US">
         <seg>A "polygon" in the iD editor is actually a "closed way" with tags on it.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053146Z" creationid="miurahr" creationdate="20201103T053146Z">
-        <seg>iDエディタの"ポリゴン"は、実際にはタグが付いた"閉じたウエイ"です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T141133Z" creationid="miurahr" creationdate="20201103T053146Z">
+        <seg>iDエディタの "ポリゴン" は、実際にはタグが付いた "閉じたウェイ" です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16333,8 +16333,8 @@
       <tuv lang="en-US">
         <seg>Just think of buildings with inner courtyards or lakes with islands.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053158Z" creationid="miurahr" creationdate="20201103T053158Z">
-        <seg>中庭のある建物や島のある湖を思い浮かべてください</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T140539Z" creationid="miurahr" creationdate="20201103T053158Z">
+        <seg>中庭のある建物や島のある湖を思い浮かべてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29518,8 +29518,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To add a new multi-sided shape, click on the **Area** button.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T084501Z" creationid="miurahr" creationdate="20201103T053056Z">
-        <seg>新しい多辺形状を追加するには、 **領域** ボタンをクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T141109Z" creationid="miurahr" creationdate="20201103T053056Z">
+        <seg>新しい多辺形状を追加するには、 **エリア** ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
