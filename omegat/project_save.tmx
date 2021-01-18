@@ -3832,8 +3832,8 @@
       <tuv lang="en-US">
         <seg>A "Jump to" location pull down list</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T132008Z" creationid="miurahr" creationdate="20201116T132008Z">
-        <seg>"Jump to"の場所のプルダウンリスト</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T153307Z" creationid="miurahr" creationdate="20201116T132008Z">
+        <seg>"Jump to" の場所のプルダウンリスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -5720,8 +5720,8 @@
       <tuv lang="en-US">
         <seg>As needed, additional tabs will appear: an "Information" readout, a "Custom" output tab, and others.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T132108Z" creationid="miurahr" creationdate="20201116T132108Z">
-        <seg>必要に応じて、追加のタブが表示されます:"Information"の読み出し、"Custom"の出力タブなどです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T153413Z" creationid="miurahr" creationdate="20201116T132108Z">
+        <seg>必要に応じて、追加のタブが表示されます: "Information" の読み出し、 "Custom" の出力タブなどです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7450,8 +7450,8 @@
       <tuv lang="en-US">
         <seg>Click on the "identify" ("i" in a circle icon) button in the top toolbar</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T132157Z" creationid="miurahr" creationdate="20201116T132157Z">
-        <seg>上部ツールバーの"identify"(円形アイコンの中の"i")ボタンをクリック</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T153449Z" creationid="miurahr" creationdate="20201116T132157Z">
+        <seg>上部ツールバーの "identify" (円形アイコンの中の "i")ボタンをクリック</seg>
       </tuv>
     </tu>
     <tu>
@@ -7522,8 +7522,8 @@
       <tuv lang="en-US">
         <seg>Click on the desktop icon "Start GeoMoose".</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T131938Z" creationid="miurahr" creationdate="20201116T131938Z">
-        <seg>デスクトップアイコン"Start GeoMoose"をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T153303Z" creationid="miurahr" creationdate="20201116T131938Z">
+        <seg>デスクトップアイコン "Start GeoMoose" をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8162,8 +8162,8 @@
       <tuv lang="en-US">
         <seg>Control tabs starting with "Catalog", for displaying the layer list.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T132016Z" creationid="miurahr" creationdate="20201116T132016Z">
-        <seg>"Catalog"で始まるコントロールタブで、レイヤ一覧を表示します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T153324Z" creationid="miurahr" creationdate="20201116T132016Z">
+        <seg>"Catalog" で始まるコントロールタブで、レイヤ一覧を表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10154,8 +10154,8 @@
       <tuv lang="en-US">
         <seg>Enter your search parameters in the Super Tab then click the "Go!" button.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T132727Z" creationid="miurahr" creationdate="20201116T132727Z">
-        <seg>Super Tabに検索パラメータを入力し、[Go!]ボタンをクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T153609Z" creationid="miurahr" creationdate="20201116T132727Z">
+        <seg>Super Tabに検索パラメータを入力し、 "Go!" ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10650,8 +10650,8 @@
       <tuv lang="en-US">
         <seg>Finally, click the "Go" button to actually select the features.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T132503Z" creationid="miurahr" creationdate="20201116T132457Z">
-        <seg>最後に、[Go]ボタンをクリックして、地物を実際に選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T153536Z" creationid="miurahr" creationdate="20201116T132457Z">
+        <seg>最後に、 "Go" ボタンをクリックして、地物を実際に選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12794,8 +12794,8 @@
       <tuv lang="en-US">
         <seg>Go to the "Browser Clients" folder on the desktop.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T131934Z" creationid="miurahr" creationdate="20201116T131934Z">
-        <seg>デスクトップ上の"Browser Clients"フォルダに移動します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T153246Z" creationid="miurahr" creationdate="20201116T131934Z">
+        <seg>デスクトップ上の "Browser Clients" フォルダに移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14058,8 +14058,8 @@
       <tuv lang="en-US">
         <seg>If you want to adjust your selection you can do that with the "Modify Feature" option.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T132405Z" creationid="miurahr" creationdate="20201116T132405Z">
-        <seg>選択を調整する場合は、[地物の変更]オプションを使用します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T153710Z" creationid="miurahr" creationdate="20201116T132405Z">
+        <seg>選択を調整する場合は、 "地物の変更" オプションを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26981,8 +26981,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The default is to buffer by "0" which does nothing.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T132414Z" creationid="miurahr" creationdate="20201116T132414Z">
-        <seg>既定値は"0"でバッファリングされ、何も行われません。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T153716Z" creationid="miurahr" creationdate="20201116T132414Z">
+        <seg>既定値は "0" でバッファリングされ、何も行われません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29966,8 +29966,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To start, hover over the "Search" menu in the toolbar and then click on the "Search Parcels" icon.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T132804Z" creationid="miurahr" creationdate="20201116T132716Z">
-        <seg>開始するには、ツールバーの"検索"メニューにカーソルを置き、"区画検索"アイコンをクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T153644Z" creationid="miurahr" creationdate="20201116T132716Z">
+        <seg>開始するには、ツールバーの "検索" メニューにカーソルを置き、 "区画検索" アイコンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
