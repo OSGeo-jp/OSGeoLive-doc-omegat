@@ -5136,8 +5136,8 @@
       <tuv lang="en-US">
         <seg>All configuration changes, software updates, and saved files are permanent, just like on any "regular" computer.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113323Z" creationid="miurahr" creationdate="20201103T113323Z">
-        <seg>すべての構成変更、ソフトウェア更新、および保存されたファイルは、「通常の」コンピュータと同様に永続的です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145838Z" creationid="miurahr" creationdate="20201103T113323Z">
+        <seg>すべての構成変更、ソフトウェア更新、および保存されたファイルは、 "通常の" コンピュータと同様に永続的です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5608,8 +5608,8 @@
       <tuv lang="en-US">
         <seg>Apply this change by starting a new desktop session: either restart the virtual machine or log out and log back in (username "user", password "user").</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113608Z" creationid="miurahr" creationdate="20201103T113608Z">
-        <seg>この変更を適用するには、新しいデスクトップセッションを開始します。仮想マシンを再起動するか、ログアウトして再度ログインします(ユーザー名「user」、パスワード「user」)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T150009Z" creationid="miurahr" creationdate="20201103T113608Z">
+        <seg>この変更を適用するには、新しいデスクトップセッションを開始します。仮想マシンを再起動するか、ログアウトして再度ログインします(ユーザー名 "user"、パスワード "user")。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7442,8 +7442,8 @@
       <tuv lang="en-US">
         <seg>Click on the "Download virtual machine" button.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113444Z" creationid="miurahr" creationdate="20201103T113444Z">
-        <seg>「Download virtual machine(仮想マシンのダウンロード)」ボタンをクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145844Z" creationid="miurahr" creationdate="20201103T113444Z">
+        <seg>"Download virtual machine(仮想マシンのダウンロード)" ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7626,8 +7626,8 @@
       <tuv lang="en-US">
         <seg>Click one of entries in the "Theme" list in "Map View" tab to switch between them.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T000851Z" creationid="miurahr" creationdate="20201117T000851Z">
-        <seg>「マップビュー」タブの「テーマ」リストの項目の1つをクリックして、切り替えます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145644Z" creationid="miurahr" creationdate="20201117T000851Z">
+        <seg>"マップビュー" タブの "テーマ" リストの項目の1つをクリックして、切り替えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7650,8 +7650,8 @@
       <tuv lang="en-US">
         <seg>Click the "Ok" button.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T001023Z" creationid="miurahr" creationdate="20201117T001023Z">
-        <seg>「OK」ボタンをクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145658Z" creationid="miurahr" creationdate="20201117T001023Z">
+        <seg>"OK" ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12802,8 +12802,8 @@
       <tuv lang="en-US">
         <seg>Go to the "Display" section and increase video memory to 32 or 64 MB.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113525Z" creationid="miurahr" creationdate="20201103T113525Z">
-        <seg>「ディスプレイ」セクションに移動し、ビデオメモリを32MBまたは64MBに増やします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145848Z" creationid="miurahr" creationdate="20201103T113525Z">
+        <seg>"ディスプレイ" セクションに移動し、ビデオメモリを32MBまたは64MBに増やします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14493,8 +14493,8 @@
       <tuv lang="en-US">
         <seg>In some host operating systems, it may be required to "Enable 3D Acceleration" for display to work properly.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113527Z" creationid="miurahr" creationdate="20201103T113527Z">
-        <seg>一部のホストオペレーティングシステムでは、表示を正しく機能させるために「3Dアクセラレータを有効にする]が必要になる場合があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145908Z" creationid="miurahr" creationdate="20201103T113527Z">
+        <seg>一部のホストオペレーティングシステムでは、表示を正しく機能させるために "3Dアクセラレータを有効にする" が必要になる場合があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14573,8 +14573,8 @@
       <tuv lang="en-US">
         <seg>In the above example, we defined a Shared Folder path on the host system and named it "GIS" in the VM Settings.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113622Z" creationid="miurahr" creationdate="20201103T113622Z">
-        <seg>上の例では、ホストシステム上に共有フォルダパスを定義し、VM設定で「GIS」という名前を付けました。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T150031Z" creationid="miurahr" creationdate="20201103T113622Z">
+        <seg>上の例では、ホストシステム上に共有フォルダパスを定義し、VM設定で "GIS" という名前を付けました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18909,8 +18909,8 @@
       <tuv lang="en-US">
         <seg>Note that the new one we just added has the "STATUS" property set to "ON".</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T022435Z" creationid="miurahr" creationdate="20201103T022435Z">
-        <seg>ここで追加した新しいオブジェクトの「STATUS」プロパティが「ON」に設定されていることに注意してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145629Z" creationid="miurahr" creationdate="20201103T022435Z">
+        <seg>ここで追加した新しいオブジェクトの "STATUS" プロパティが "ON" に設定されていることに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20413,8 +20413,8 @@
       <tuv lang="en-US">
         <seg>Once the "Folder path" and "Folder name" are defined, click OK, and again OK to finish and close the settings window.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113538Z" creationid="miurahr" creationdate="20201103T113538Z">
-        <seg>「フォルダパス」と「フォルダ名」を定義したら、[OK]をクリックし、もう一度[OK]をクリックして設定ウィンドウを閉じます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145922Z" creationid="miurahr" creationdate="20201103T113538Z">
+        <seg>"フォルダパス" と "フォルダ名" を定義したら、[OK]をクリックし、もう一度[OK]をクリックして設定ウィンドウを閉じます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27973,8 +27973,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The user "user" is not a member of the "users" group on the OSGeoLive virtual machine.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113548Z" creationid="miurahr" creationdate="20201103T113548Z">
-        <seg>ユーザー「user」は、OSGeoLive仮想マシンの「users」グループのメンバーではありません。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145945Z" creationid="miurahr" creationdate="20201103T113548Z">
+        <seg>ユーザー "user" は、OSGeoLive仮想マシンの "users" グループのメンバーではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29694,8 +29694,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To find a location, enter its name into the search line on the top of "Search" panel.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T000905Z" creationid="miurahr" creationdate="20201117T000905Z">
-        <seg>場所を検索するには、「検索」パネルの一番上の検索行に名前を入力します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145652Z" creationid="miurahr" creationdate="20201117T000905Z">
+        <seg>場所を検索するには、 "検索" パネルの一番上の検索行に名前を入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29798,8 +29798,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To manage bookmarks, go to "Bookmarks-&gt;Manage Bookmarks".</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T001049Z" creationid="miurahr" creationdate="20201117T001049Z">
-        <seg>ブックマークを管理するには、「ブックマーク-&gt;ブックマークの管理」に移動します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145711Z" creationid="miurahr" creationdate="20201117T001049Z">
+        <seg>ブックマークを管理するには、 "ブックマーク-&gt;ブックマークの管理" に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32230,8 +32230,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>When you install the iso on the VM, the username must be set to "user"</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113543Z" creationid="miurahr" creationdate="20201103T113543Z">
-        <seg>VMにisoをインストールする場合は、ユーザー名を「user」に設定する必要があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145929Z" creationid="miurahr" creationdate="20201103T113543Z">
+        <seg>VMにisoをインストールする場合は、ユーザー名を "user" に設定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32776,8 +32776,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can copy a WMS URL (e.g. for `WMS 1.1.1`_) from right panel of `GeoServer Welcome page`_ and "paste" it either on the **Map** view or the **Layers** view.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T073316Z" creationid="miurahr" creationdate="20201121T055549Z">
-        <seg>`GeoServer Welcome page`_ の右パネルからWMS URL(例えば `WMS1.1.1`_ 用)をコピーし、それを **マップ** ビューまたは **レイヤ** ビューのいずれかに「貼り付ける」ことができます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145830Z" creationid="miurahr" creationdate="20201121T055549Z">
+        <seg>`GeoServer Welcome page`_ の右パネルからWMS URL(例えば `WMS1.1.1`_ 用)をコピーし、それを **マップ** ビューまたは **レイヤ** ビューのいずれかに "貼り付ける" ことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33128,8 +33128,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can see now that the red X disappeared and a "+" appeared on the left.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T002635Z" creationid="miurahr" creationdate="20201117T002635Z">
-        <seg>これで、赤いXが消え、左側に「+」が表示されたことがわかります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T145726Z" creationid="miurahr" creationdate="20201117T002635Z">
+        <seg>これで、赤いXが消え、左側に "+" が表示されたことがわかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33760,8 +33760,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>ZOO is based on a 'WPS Service Kernel' which constitutes the ZOO's core system (aka ZOO Kernel).</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T153022Z" creationid="miurahr" creationdate="20201221T034751Z">
-        <seg>ZOO は、ZOO のコアシステムを構成している「WPS サービスカーネル」(別名ZOO カーネル)に基づいています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T150513Z" creationid="miurahr" creationdate="20201221T034751Z">
+        <seg>ZOO は、ZOO のコアシステムを構成している 'WPS サービスカーネル' (別名ZOO カーネル)に基づいています。</seg>
       </tuv>
     </tu>
     <tu>
