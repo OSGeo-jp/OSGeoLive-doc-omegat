@@ -6648,8 +6648,8 @@
       <tuv lang="en-US">
         <seg>CPU: Any CPU will do, but a processor which supports "Virtualization Technology" will be faster.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113420Z" creationid="miurahr" creationdate="20201103T113420Z">
-        <seg>CPU: どのCPUでもかまいませんが、"Virtualization Technology"をサポートの方が高速です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T155918Z" creationid="miurahr" creationdate="20201103T113420Z">
+        <seg>CPU: どのCPUでもかまいませんが、 "Virtualization Technology" をサポートの方が高速です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8482,8 +8482,8 @@
       <tuv lang="en-US">
         <seg>Create the file "ne.toml" in your home directory: :file:`/home/user/ne.toml`</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210117T125141Z" creationid="smellman" creationdate="20201103T052403Z">
-        <seg>ファイル"ne.toml"をホームディレクトリ: :file:`/home/user/ne.toml` に作成します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T155829Z" creationid="smellman" creationdate="20201103T052403Z">
+        <seg>ファイル "ne.toml" をホームディレクトリ: :file:`/home/user/ne.toml` に作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10106,8 +10106,8 @@
       <tuv lang="en-US">
         <seg>Enter a name such as OSGeoLive, and choose Linux as the "Operating system", and Ubuntu as the "Version".</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>イメージに OSGeo-Live のような名前を付け、"Operating System" に Linux、"Version" に Ubuntu を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T160100Z">
+        <seg>イメージに OSGeoLive のような名前を付け、"オペレーティングシステム" に Linux、 "バージョン" に Ubuntu (64-bit) を選択します。</seg>
       </tuv>
     </tu>
     <tu>
