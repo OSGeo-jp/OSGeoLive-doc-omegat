@@ -31518,8 +31518,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>We simply need to add the new layer name to the "LAYERS" property list::</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210118T144530Z" creationid="miurahr" creationdate="20201103T022506Z">
-        <seg>"LAYERS" プロパティリストに新しいレイヤ名を追加するだけです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T155514Z" creationid="miurahr" creationdate="20201103T022506Z">
+        <seg> "LAYERS" プロパティリストに新しいレイヤ名を追加するだけです。</seg>
       </tuv>
     </tu>
     <tu>
