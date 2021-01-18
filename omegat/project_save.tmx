@@ -8130,8 +8130,8 @@
       <tuv lang="en-US">
         <seg>Continue to the next screen and choose "Use an existing virtual hard disk file".</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113505Z" creationid="miurahr" creationdate="20201103T113505Z">
-        <seg>次の画面に進み、"既存の仮想ハードディスクファイルを使用する"を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T160121Z" creationid="miurahr" creationdate="20201103T113505Z">
+        <seg>次の画面に進み、 "既存の仮想ハードディスクファイルを使用する" を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14386,8 +14386,8 @@
       <tuv lang="en-US">
         <seg>In addition, move to the "Shared Folders" section, and click the "Add folder" (green + icon on the right) to find a directory on your host computer that you wish to share inside the VM.</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>さらに、"Shared Folders" セクションに移動し、"Add folder" (右側の緑の "+" アイコン) をクリックし、VM 内部で共有したいホストコンピュータのディレクトリを指定します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T160349Z">
+        <seg>さらに、 "共有フォルダー" セクションに移動し、 "フォルダーを追加" (右側の緑の "+" アイコン) をクリックし、VM 内部で共有したいホストコンピュータのディレクトリを指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20413,8 +20413,8 @@
       <tuv lang="en-US">
         <seg>Once the "Folder path" and "Folder name" are defined, click OK, and again OK to finish and close the settings window.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210118T145922Z" creationid="miurahr" creationdate="20201103T113538Z">
-        <seg>"フォルダパス" と "フォルダ名" を定義したら、[OK]をクリックし、もう一度[OK]をクリックして設定ウィンドウを閉じます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T160412Z" creationid="miurahr" creationdate="20201103T113538Z">
+        <seg> "フォルダパス" と "フォルダ名" を定義したら、[OK]をクリックし、もう一度[OK]をクリックして設定ウィンドウを閉じます。</seg>
       </tuv>
     </tu>
     <tu>
