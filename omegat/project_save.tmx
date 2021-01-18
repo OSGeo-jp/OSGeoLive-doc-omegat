@@ -20813,8 +20813,8 @@
       <tuv lang="en-US">
         <seg>Open your Internet browser, and go to the OpenStreetMap website at https://www.openstreetmap.org.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T051330Z" creationid="miurahr" creationdate="20201103T051330Z">
-        <seg>インターネットブラウザを開き、https://www.openstreetmap.orgのOpenStreetMapのWebサイトにアクセスします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T135947Z" creationid="miurahr" creationdate="20201103T051330Z">
+        <seg>インターネットブラウザを開き、https://www.openstreetmap.org のOpenStreetMapのWebサイトにアクセスします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30262,8 +30262,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Try the LearnOSM documentation, from which this quickstart was derived: https://learnosm.org/en/beginner/id-editor/</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053635Z" creationid="miurahr" creationdate="20201103T053635Z">
-        <seg>このクイックスタートが派生したLearnOSMのドキュメントを試してください:https://learnosm.org/en/beginner/idエディタ/</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T140211Z" creationid="miurahr" creationdate="20201103T053635Z">
+        <seg>このクイックスタートが派生したLearnOSMのドキュメントを試してください: https://learnosm.org/ja/beginner/id-editor/</seg>
       </tuv>
     </tu>
     <tu>
@@ -33440,8 +33440,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You should now be able to view an empty HTML page in Firefox at http://localhost/geoext/demo.html</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T054010Z" creationid="miurahr" creationdate="20201103T053955Z">
-        <seg>http://localhost/geoext/demo.htmlでFirefoxの空のHTMLページを見ることができるようになりましたね。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210118T135932Z" creationid="miurahr" creationdate="20201103T053955Z">
+        <seg>http://localhost/geoext/demo.html でFirefoxの空のHTMLページを見ることができるようになりましたね。</seg>
       </tuv>
     </tu>
     <tu>
