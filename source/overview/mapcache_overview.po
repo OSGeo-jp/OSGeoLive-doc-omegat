@@ -97,7 +97,7 @@ msgstr "カスタマイズ可能なグリッド"
 msgid ""
 "Allows tiles to be \"assembled\" together - allowing tiles for different "
 "datasets to be merged together into a single tile to send to the client"
-msgstr "タイルを一緒に「くみこんで」、異なるデータ・セットのタイルを 1 つのタイルにまぜこみして、クライアントに送信できます。"
+msgstr "タイルを一緒に \"くみこんで\"、異なるデータ・セットのタイルを 1 つのタイルにまぜこみして、クライアントに送信できます。"
 
 #: ../../build/doc/overview/mapcache_overview.rst:49
 msgid "Includes a seeder application to pre-fill caches from the command line"

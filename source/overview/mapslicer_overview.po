@@ -41,7 +41,7 @@ msgid ""
 "webserver or a cloud storage (such as Amazon S3)."
 msgstr ""
 "Mapスライサーは、ラスター・マップ・パブリッシングのためのマップ・タイルを作成するためのデスクトップ・アプリケーションです。Geodata は、 "
-"Google マップや地球と互換性のあるタイルに変換されて、直接ウェブサーバやクラウドストレージ ( Amazon S3など) "
+"Google マップや地球と互換性のあるタイルに変換されて、直接ウェブサーバやクラウドストレージ (Amazon S3など) "
 "へアップロードされることで、公開できるようになります。"
 
 #: ../../build/doc/overview/mapslicer_overview.rst:25
@@ -77,7 +77,7 @@ msgid ""
 "Hosting almost everywhere: cloud storage such as Amazon S3 or any cheap "
 "\"unlimited\" webhosting with FTP access"
 msgstr ""
-"ほとんどあらゆる場所でホスティング : Amazon S3 などのクラウド・ストレージ、または FTP アクセスによる安価の「無制限の」 Web "
+"ほとんどあらゆる場所でホスティング : Amazon S3 などのクラウド・ストレージ、または FTP アクセスによる安価の \"無制限の\" Web "
 "ホスティング"
 
 #: ../../build/doc/overview/mapslicer_overview.rst:41

@@ -39,7 +39,7 @@ msgstr "このクイックスタートでは、次の方法について説明し
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:36
 msgid "load a map layers from a shapefile and |WMS|"
-msgstr "シェープファイルとWMSからマップレイヤをロードする"
+msgstr "シェープファイルと |WMS| からマップレイヤをロードする"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:37
 msgid "use the standard map tools"
@@ -145,7 +145,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:106
 msgid "Select **Files** from the list of data sources"
-msgstr "データソースのリストから**ファイル**を選択します"
+msgstr "データソースのリストから **ファイル** を選択します"
 
 #: ../../build/doc/quickstart/udig_quickstart.rst:108
 msgid "Press :guilabel:`Next` to open up a file dialog"
@@ -335,7 +335,7 @@ msgid ""
 "(:menuselection:`Layer --> Add...`) Wizard and paste WMS URL right there."
 msgstr ""
 "`GeoServer Welcome page`_ の右パネルからWMS URL(例えば `WMS1.1.1`_ 用)をコピーし、それを **マップ**"
-" ビューまたは **レイヤ** ビューのいずれかに「貼り付ける」ことができます。ウィザードには、 **マップ** "
+" ビューまたは **レイヤ** ビューのいずれかに \"貼り付ける\" ことができます。ウィザードには、 **マップ** "
 "に追加できるレイヤが表示されます。**Add Data** (:menuselection:`Layer --> "
 "Add...`)ウィザードを使用してWebマップサーバに接続し、WMS URLをそこに貼り付けることもできます。"
 

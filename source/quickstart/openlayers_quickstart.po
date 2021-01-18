@@ -117,7 +117,7 @@ msgid ""
 "*geometries* (like point, line or polygon) using a given *style*, which "
 "determines its look (line thinkness, fill color, etc)."
 msgstr ""
-"*フィーチャー* は現実世界のものを表し、特定の*スタイル*を使用して、さまざまな *ジオメトリ* "
+"*フィーチャー* は現実世界のものを表し、特定の *スタイル* を使用して、さまざまな *ジオメトリ* "
 "(点、線、ポリゴンなど)を使用してレンダリングできます。これにより、外観(線の思考、塗り潰し色など)が決まります。"
 
 #: ../../build/doc/quickstart/openlayers_quickstart.rst:58
@@ -182,7 +182,7 @@ msgstr ""
 msgid ""
 "Finally, we set the initial position of the *camera* using the ``ol.View`` "
 "class, set the initial zoom level and center location."
-msgstr "最後に、 ``ol.View`` クラスを使用して*camera*の初期位置を設定し、初期ズームレベルと中心位置を設定します。"
+msgstr "最後に、 ``ol.View`` クラスを使用して *camera* の初期位置を設定し、初期ズームレベルと中心位置を設定します。"
 
 #: ../../build/doc/quickstart/openlayers_quickstart.rst:130
 msgid "Add raster layers"

@@ -73,8 +73,8 @@ msgid ""
 "throughout this document as the *homepage*."
 msgstr ""
 "デスクトップのWeb Servicesフォルダで、 **GeoNetworkを開始** をダブルクリックします。これにより、URL "
-"``http://localhost:8880/geonetwork`` でFirefox "
-"Webブラウザが開きます。これは、このドキュメント全体で*ホームページ*と呼ばれます。"
+"``http://localhost:8880/geonetwork`` でFirefox Webブラウザが開きます。これは、このドキュメント全体で "
+"*ホームページ* と呼ばれます。"
 
 #: ../../build/doc/quickstart/geonetwork_quickstart.rst:47
 msgid ""
@@ -83,8 +83,8 @@ msgid ""
 "labelled  “My GeoNetwork catalogue” but it may have a different name and "
 "logo."
 msgstr ""
-"トップツールバーの左上に表示されているカタログロゴを選択すると、ホームページにいつでも戻ることができます。下のスクリーンショットでは、これに「My "
-"GeoNetwork catalog」というラベルが付いていますが、名前とロゴが異なる場合があります。"
+"トップツールバーの左上に表示されているカタログロゴを選択すると、ホームページにいつでも戻ることができます。下のスクリーンショットでは、これに \"My "
+"GeoNetwork catalog\" というラベルが付いていますが、名前とロゴが異なる場合があります。"
 
 #: ../../build/doc/quickstart/geonetwork_quickstart.rst:55
 msgid "Sign in"
@@ -189,7 +189,7 @@ msgstr "入力時に提案を表示する全文検索ボックス"
 msgid ""
 "*Search facets*, or  filters, that provide ways of narrowing down the search"
 " results, such as *Type of Resource*, *Topic*, *Keywords*,"
-msgstr "検索結果を絞り込む *リソースタイプ* 、 *トピック* 、 *キーワード* などを提供する*検索ファセット*、またはフィルタ。"
+msgstr "検索結果を絞り込む *リソースタイプ* 、 *トピック* 、 *キーワード* などを提供する *検索ファセット* 、またはフィルタ。"
 
 #: ../../build/doc/quickstart/geonetwork_quickstart.rst:112
 msgid ""
@@ -218,7 +218,8 @@ msgid ""
 "abstract (if present) and links to downloads and other resources (if "
 "present)."
 msgstr ""
-"検索結果は「カード」として表示され、メタデータが分類されるカテゴリ、レコードのタイトル、サムネイル、要約(存在する場合)、ダウンロードおよびその他のリソースへのリンク(存在する場合)が表示されます。"
+"検索結果は \"カード\" "
+"として表示され、メタデータが分類されるカテゴリ、レコードのタイトル、サムネイル、要約(存在する場合)、ダウンロードおよびその他のリソースへのリンク(存在する場合)が表示されます。"
 
 #: ../../build/doc/quickstart/geonetwork_quickstart.rst:131
 msgid ""

@@ -200,9 +200,9 @@ msgid ""
 " the Mapfile will be rendered in addition to all layers with *STATUS "
 "DEFAULT*. The result looks like the following:"
 msgstr ""
-"上記はどういう意味ですか?簡単に言うと、これはWMSの **GetMap** 要求であり、「 "
-"*次のMapfileを使用して、イメージサイズ、地理的範囲、投影などのユーザ指定のパラメータに基づいて、指定されたレイヤをpngイメージとしてレンダリングする*"
-" 」ようMapServerに指示します。Mapfileで *STATUS ON* を持つ \"*&LAYERS=.*\" "
+"上記はどういう意味ですか? 簡単に言うと、これは |WMS| の **GetMap** 要求であり、 "
+"\"*次のMapfileを使用して、イメージサイズ、地理的範囲、投影などのユーザ指定のパラメータに基づいて、指定されたレイヤをpngイメージとしてレンダリングする*\""
+" ようMapServerに指示します。Mapfileで *STATUS ON* を持つ \"*&LAYERS=...*\" "
 "プロパティで指定されたすべてのレイヤは、 *STATUS DEFAULT* を持つすべての画層に加えてレンダリングされます。結果は次のようになります。"
 
 #: ../../build/doc/quickstart/mapserver_quickstart.rst:167
@@ -210,8 +210,8 @@ msgid ""
 "All parameters of the request are WMS-specific, except "
 "\"*?map=/home/user/mapserver_quickstart.map*\", which is MapServer-specific."
 msgstr ""
-"要求のすべてのパラメータは、MapServer固有の「 *?map=/home/user/mapserver_quickstart.map* "
-"」を除き、WMS固有です。"
+"要求のすべてのパラメータは、MapServer固有の \"*?map=/home/user/mapserver_quickstart.map*\" "
+"を除き、WMS固有です。"
 
 #: ../../build/doc/quickstart/mapserver_quickstart.rst:173
 msgid "Render a map image with MapServer using the command line"
@@ -230,14 +230,14 @@ msgid ""
 "Open a terminal (:menuselection:`Applications --> System Tools --> Terminal "
 "Emulator`) and type::"
 msgstr ""
-"ターミナルを開き(:menuselection:`Applications-->System Tools-->Terminal "
+"ターミナルを開き(:menuselection:`Applications --> System Tools --> Terminal "
 "Emulator`)、次のように入力します。"
 
 #: ../../build/doc/quickstart/mapserver_quickstart.rst:184
 msgid ""
 "If this command runs successfully, you are able to see your rendered map at "
 "file:///home/user/mymap.png."
-msgstr "このコマンドが正常に実行されると、file:///home/user/mymap.pngでレンダリングされたマップを表示できます。"
+msgstr "このコマンドが正常に実行されると、file:///home/user/mymap.png でレンダリングされたマップを表示できます。"
 
 #: ../../build/doc/quickstart/mapserver_quickstart.rst:190
 msgid "Add a new layer to the Mapfile to serve a local Shapefile"
@@ -253,7 +253,7 @@ msgstr "**何を学べますか?** 新しいレイヤオブジェクト定義を
 msgid ""
 "We will now add a new layer to our Mapfile. Before the last *END* statement "
 "in the Mapfile, add the following layer configuration::"
-msgstr "次に、新しいレイヤをMapfileに追加します。Mapfileの最後の*END*文の前に、次のレイヤ設定を追加します。"
+msgstr "次に、新しいレイヤをMapfileに追加します。Mapfileの最後の *END* 文の前に、次のレイヤ設定を追加します。"
 
 #: ../../build/doc/quickstart/mapserver_quickstart.rst:212
 msgid ""
@@ -261,7 +261,8 @@ msgid ""
 "just added has the \"STATUS\" property set to \"ON\". That means that unless"
 " we specifically request it, it won't be rendered."
 msgstr ""
-"これで、Mapfileに2つのレイヤ定義が作成されました。ここで追加した新しいオブジェクトの「STATUS」プロパティが「ON」に設定されていることに注意してください。具体的にお願いしないと出せないということですね。"
+"これで、Mapfileに2つのレイヤ定義が作成されました。ここで追加した新しいオブジェクトの \"STATUS\" プロパティが \"ON\" "
+"に設定されていることに注意してください。具体的にお願いしないと出せないということですね。"
 
 #: ../../build/doc/quickstart/mapserver_quickstart.rst:216
 msgid ""
@@ -269,8 +270,8 @@ msgid ""
 "layer to the image rendered. We simply need to add the new layer name to the"
 " \"LAYERS\" property list::"
 msgstr ""
-"前述のWMSの **GetMap** "
-"要求を受け取り、レンダリングしたイメージに新しい「Lakes」レイヤを追加します。「LAYERS」プロパティリストに新しいレイヤ名を追加するだけです。"
+"前述のWMSの **GetMap** 要求を受け取り、レンダリングしたイメージに新しい \"Lakes\" レイヤを追加します。 \"LAYERS\" "
+"プロパティリストに新しいレイヤ名を追加するだけです。"
 
 #: ../../build/doc/quickstart/mapserver_quickstart.rst:222
 msgid ""
@@ -299,8 +300,8 @@ msgid ""
 "differently using multiple CLASS objects."
 msgstr ""
 "Mapfileでは、LAYERオブジェクトに無限個のCLASSオブジェクトを含めることができます。これらは、空間データファイル(DATA)に含まれる要素のスタイルを設定するために使用されます。たとえば、"
-" `ogrinfo <https://gdal.org/ogrinfo.html>`_ "
-"などのツールを使用して\"ne_10m_lakes\"データファイルを詳しく調べると、このファイルに含まれるジオメトリと属性定義がわかります。 "
+" `ogrinfo <https://gdal.org/ogrinfo.html>`_ などのツールを使用して \"ne_10m_lakes\" "
+"データファイルを詳しく調べると、このファイルに含まれるジオメトリと属性定義がわかります。 "
 "これらの属性値は、複数のCLASSオブジェクトを使用してデータセット内の要素を異なる方法で描画する方法として使用できます。"
 
 #: ../../build/doc/quickstart/mapserver_quickstart.rst:246
@@ -310,7 +311,8 @@ msgid ""
 "render the lakes differently. In the LAYER object, we'll add another CLASS "
 "object just before our current one::"
 msgstr ""
-"\"ne_10m_lakes\"データセットには、湖の大きさに関係すると思われる*ScaleRank*属性がある。これを使って湖を違った形にレンダリングすることができますLAYERオブジェクトでは、現在のオブジェクトの直前に別のCLASSオブジェクトを追加します。"
+"\"ne_10m_lakes\" データセットには、湖の大きさに関係すると思われる *ScaleRank* "
+"属性がある。これを使って湖を違った形にレンダリングすることができます。LAYERオブジェクトでは、現在のオブジェクトの直前に別のCLASSオブジェクトを追加します。"
 
 #: ../../build/doc/quickstart/mapserver_quickstart.rst:271
 msgid ""
@@ -325,7 +327,12 @@ msgid ""
 "\"CLASSITEM\" property tells MapServer which attribute to use when "
 "evaluating EXPRESSIONs defined in the CLASS objects."
 msgstr ""
-"新しいCLASSオブジェクトは何をしますか?基本的には、MapServerに対して、「0」または「1」に等しい「ScaleRank」プロパティを持つ要素を黒いアウトラインで描画するように指示します。クラスオブジェクトは、描画されるフィーチャごとに常に上から下に読み込まれます。フィーチャがクラスで指定された「EXPRESSION」に一致すると、そのクラスはフィーチャをレンダリングします。フィーチャがクラスと一致しない場合、次のクラスがチェックされます。フィーチャがどのクラスとも一致しない場合、フィーチャはまったくレンダリングされませんが、画層の最後のクラスにEXPRESSIONが含まれていない場合、そのクラスが既定として機能します。LAYERの「CLASSITEM」プロパティは、CLASSオブジェクトで定義された式を評価するときに使用する属性をMapServerに伝えます。"
+"新しいCLASSオブジェクトは何をしますか?基本的には、MapServerに対して、 \"0\" または \"1\" に等しい "
+"\"ScaleRank\" "
+"プロパティを持つ要素を黒いアウトラインで描画するように指示します。クラスオブジェクトは、描画されるフィーチャごとに常に上から下に読み込まれます。フィーチャがクラスで指定された"
+" \"EXPRESSION\" "
+"に一致すると、そのクラスはフィーチャをレンダリングします。フィーチャがクラスと一致しない場合、次のクラスがチェックされます。フィーチャがどのクラスとも一致しない場合、フィーチャはまったくレンダリングされませんが、画層の最後のクラスにEXPRESSIONが含まれていない場合、そのクラスが既定として機能します。LAYERの"
+" \"CLASSITEM\" プロパティは、CLASSオブジェクトで定義された式を評価するときに使用する属性をMapServerに伝えます。"
 
 #: ../../build/doc/quickstart/mapserver_quickstart.rst:282
 msgid ""
@@ -363,7 +370,7 @@ msgid ""
 "Start QGIS via :menuselection:`Geospatial --> Desktop GIS --> QGIS Desktop`."
 " Go to :menuselection:`Layer --> Add Layer --> Add WMS/WMTS Layer`."
 msgstr ""
-"QGISの起動方法:menuselection:`Geospatial-->Desktop GIS-->QGIS Desktop` "
+"QGISの起動方法 :menuselection:`Geospatial --> Desktop GIS --> QGIS Desktop` "
 ":menuselection:`Layer --> Add Layer --> Add WMS/WMTS Layer` にいく"
 
 #: ../../build/doc/quickstart/mapserver_quickstart.rst:304

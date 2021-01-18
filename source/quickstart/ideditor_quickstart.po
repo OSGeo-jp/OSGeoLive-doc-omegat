@@ -56,7 +56,7 @@ msgid ""
 "Open your Internet browser, and go to the OpenStreetMap website at "
 "https://www.openstreetmap.org."
 msgstr ""
-"インターネットブラウザを開き、https://www.openstreetmap.orgのOpenStreetMapのWebサイトにアクセスします。"
+"インターネットブラウザを開き、https://www.openstreetmap.org のOpenStreetMapのWebサイトにアクセスします。"
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:40
 msgid "**Login** using your OpenStreetMap account."
@@ -334,7 +334,7 @@ msgstr "ラインの方向を逆転 (河川や一方通行の設定に便利) |i
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:162
 msgid "A \"line\" created in the iD editor is actually a \"way\" with \"tags\" on it."
-msgstr "iDエディタで作成される \"ライン\"は、実際には\"タグ\"がついた\"ウエイ\"です。"
+msgstr "iDエディタで作成される \"ライン\" は、実際には \"タグ\" がついた \"ウェイ\" です。"
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:165
 msgid ""
@@ -357,7 +357,7 @@ msgstr "形状(ポリゴン)を描画する"
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:177
 msgid "To add a new multi-sided shape, click on the **Area** button."
-msgstr "新しい多辺形状を追加するには、 **領域** ボタンをクリックします。"
+msgstr "新しい多辺形状を追加するには、 **エリア** ボタンをクリックします。"
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:179
 msgid "|image34|"
@@ -384,7 +384,7 @@ msgstr "形状を選択して右マウスボタンでコンテキストメニュ
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:189
 msgid "A \"polygon\" in the iD editor is actually a \"closed way\" with tags on it."
-msgstr "iDエディタの\"ポリゴン\"は、実際にはタグが付いた\"閉じたウエイ\"です。"
+msgstr "iDエディタの \"ポリゴン\" は、実際にはタグが付いた \"閉じたウェイ\" です。"
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:192
 msgid "Drawing multipolygons"
@@ -400,9 +400,9 @@ msgid ""
 "contours and hit **c** in order to combine them into what is called a "
 "multipolygon."
 msgstr ""
-"外部輪郭だけでなく、1つまたは複数の内部輪郭を持つポリゴンを描画する必要がある場合があります。中庭のある建物や島のある湖を思い浮かべてください*これらのすべての方法を1本の線で描画しないでください。*"
-" 内側の輪郭線が外側の輪郭線から一時停止します。むしろ、これらの等高線を別々に描き、外側の等高線のみにタグを付け、すべての等高線を選択して **c** "
-"を押し、それらをいわゆるマルチポリゴンに結合します。"
+"外部輪郭だけでなく、1つまたは複数の内部輪郭を持つポリゴンを描画する必要がある場合があります。中庭のある建物や島のある湖を思い浮かべてください。*これらのすべてのウェイを1本の線で描画しないでください*"
+" そうすることで、内側の輪郭線が外側の輪郭線から外れます。むしろ、これらの等高線を別々に描き、外側の等高線のみにタグを付け、すべての等高線を選択して "
+"**c** を押し、それらをいわゆるマルチポリゴンに結合します。"
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:206
 msgid ""
@@ -509,7 +509,8 @@ msgid ""
 "Try the LearnOSM documentation, from which this quickstart was derived: "
 "https://learnosm.org/en/beginner/id-editor/"
 msgstr ""
-"このクイックスタートが派生したLearnOSMのドキュメントを試してください:https://learnosm.org/en/beginner/idエディタ/"
+"このクイックスタートが派生したLearnOSMのドキュメントを試してください: https://learnosm.org/ja/beginner/id-"
+"editor/"
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:261
 msgid "Website: https://wiki.openstreetmap.org/wiki/ID"

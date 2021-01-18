@@ -68,8 +68,8 @@ msgid ""
 " OpenLayers JavaScript libraries, and two CSS files used to style ExtJS and "
 "OpenLayers components."
 msgstr ""
-"次に下のHTMLに貼り付け、ファイルを``/var/www/html/geoext/demo.html``として保存します。このファイルには、ExtJSおよびOpenLayers"
-" "
+"次に下のHTMLに貼り付け、ファイルを ``/var/www/html/geoext/demo.html`` "
+"として保存します。このファイルには、ExtJSおよびOpenLayers "
 "JavaScriptライブラリへのリンクと、ExtJSおよびOpenLayersコンポーネントのスタイル設定に使用される2つのCSSファイルが含まれています。"
 
 #: ../../build/doc/quickstart/geoext_quickstart.rst:39
@@ -85,7 +85,7 @@ msgid ""
 "You should now be able to view an empty HTML page in Firefox at "
 "http://localhost/geoext/demo.html"
 msgstr ""
-"http://localhost/geoext/demo.htmlでFirefoxの空のHTMLページを見ることができるようになりましたね。"
+"http://localhost/geoext/demo.html でFirefoxの空のHTMLページを見ることができるようになりましたね。"
 
 #: ../../build/doc/quickstart/geoext_quickstart.rst:72
 msgid ""
@@ -94,9 +94,9 @@ msgid ""
 "``Ext.onReady`` function. Placing code here ensures the JavaScript libraries"
 " have been loaded before running any custom JavaScript code."
 msgstr ""
-"以下のセクションにあるすべてのJavaScriptは、``Ext.onReady``関数の``//all JavaScript application "
-"code should go "
-"here``コメントの後に貼り付ける必要があります。ここにコードを配置すると、カスタムJavaScriptコードを実行する前に、JavaScriptライブラリが確実にロードされます。"
+"以下のセクションにあるすべてのJavaScriptは、``Ext.onReady`` 関数の ``// all JavaScript "
+"application code should go here`` "
+"コメントの後に貼り付ける必要があります。ここにコードを配置すると、カスタムJavaScriptコードを実行する前に、JavaScriptライブラリが確実にロードされます。"
 
 #: ../../build/doc/quickstart/geoext_quickstart.rst:76
 msgid "Configure OpenLayers objects"
@@ -199,7 +199,8 @@ msgid ""
 " in your browser and see a complete GeoExt application similar to the image "
 "below."
 msgstr ""
-"ブラウザでリンクhttp://localhost/geoext/demo.htmlを更新すると、下の画像のような完全なGeoExtアプリケーションが表示されます。"
+"ブラウザでリンク http://localhost/geoext/demo.html "
+"を更新すると、下の画像のような完全なGeoExtアプリケーションが表示されます。"
 
 #: ../../build/doc/quickstart/geoext_quickstart.rst:273
 msgid "What's next?"

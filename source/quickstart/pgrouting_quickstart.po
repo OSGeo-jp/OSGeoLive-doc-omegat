@@ -92,7 +92,7 @@ msgid ""
 "compatible format. Here is how you use osm2pgrouting version 2.1.0+."
 msgstr ""
 "osm2pgroutingは、.osmファイルをpgRouting互換形式でロードするためのコマンドラインツールです。osm2pgrouting "
-"version2.1.0+の使用方法を次に示します。"
+"version 2.1.0+の使用方法を次に示します。"
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:73
 msgid ""
@@ -156,7 +156,9 @@ msgid ""
 "to alias them so resulting pgr_dijkstra query columns are named source and "
 "target."
 msgstr ""
-"注:SQL文には、常にフィールド名`id,source,target,およびcost`が必要です。ここではフィールド`source_osm`と`target_osm`を使用しているため、これらのフィールドに別名を付ける必要があります。そうすることで、pgr_dijkstraクエリーの列にsourceとtargetという名前が付けられます。"
+"注:SQL文には、常にフィールド名 `id, source, target, および cost` が必要です。ここではフィールド "
+"`source_osm` と `target_osm` "
+"を使用しているため、これらのフィールドに別名を付ける必要があります。そうすることで、pgr_dijkstraクエリーの列にsourceとtargetという名前が付けられます。"
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:205
 msgid "Output is:"
@@ -218,7 +220,8 @@ msgid ""
 "going the other way. For these cases you need to add an additional column to"
 " your query `reverse_cost`"
 msgstr ""
-"前の例では、両方向で道路のコストが等しいと仮定しました。一方の車線に1本のウェイまたは異なる速度制限がある場合、道路の一方の方向を通るコストは、もう一方のウェイを通るコストと異なることがあります。このような場合は、クエリ`reverse_cost`に列を追加する必要があります。"
+"前の例では、両方向で道路のコストが等しいと仮定しました。一方の車線に1本のウェイまたは異なる速度制限がある場合、道路の一方の方向を通るコストは、もう一方のウェイを通るコストと異なることがあります。このような場合は、クエリ"
+" `reverse_cost` に列を追加する必要があります。"
 
 #: ../../build/doc/quickstart/pgrouting_quickstart.rst:284
 msgid "With :command:`\\\\q` command leave the PostgreSQL shell."

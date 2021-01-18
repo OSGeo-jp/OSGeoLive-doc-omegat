@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../build/doc/metrics.rst:6
 msgid "|osgeolive-version| Project Metrics"
-msgstr "プロジェクトメトリクス"
+msgstr "|osgeolive-version| プロジェクトメトリクス"
 
 #: ../../build/doc/metrics.rst:8
 msgid ""

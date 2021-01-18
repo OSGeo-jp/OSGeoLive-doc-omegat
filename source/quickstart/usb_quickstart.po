@@ -81,7 +81,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/usb_quickstart.rst:25
 msgid "Creating bootable USB drive with ``dd`` under Linux"
-msgstr "Linux 環境でブータブル USB ドライブの作成"
+msgstr "Linux 環境で ``dd`` でブータブル USB ドライブの作成"
 
 #: ../../build/doc/quickstart/usb_quickstart.rst:27
 msgid ""

@@ -137,9 +137,11 @@ msgid ""
 "as Spherical-Mercator, on demand. The smaller CBD extract is loaded into "
 "another PostGIS database called \"pgrouting\"."
 msgstr ""
-"OSM機能の都市データは、osm2pgsqlツールを使用して「osm_local」という名前のPostGISデータベースにインポートされています。このデータベースに使用される空間参照システムは、WGS84データム(EPSGコード4326"
+"OSM機能の都市データは、osm2pgsqlツールを使用して \"osm_local\" "
+"という名前のPostGISデータベースにインポートされています。このデータベースに使用される空間参照システムは、WGS84データム(EPSGコード4326"
 ")を使用した緯度-経度順であり、必要に応じて、Spherical-"
-"Mercatorなどの他の空間参照システム(SRS)に再投影できます。小さなCBD抽出物は、「pgrouting」と呼ばれる別のPostGISデータベースにロードされます。"
+"Mercatorなどの他の空間参照システム(SRS)に再投影できます。小さなCBD抽出物は、 \"pgrouting\" "
+"と呼ばれる別のPostGISデータベースにロードされます。"
 
 #: ../../build/doc/overview/osm_dataset_overview.rst:63
 msgid "Details"

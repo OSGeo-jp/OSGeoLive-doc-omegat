@@ -113,7 +113,7 @@ msgstr "気温(7月)。"
 msgid ""
 "Click one of entries in the \"Theme\" list in \"Map View\" tab to switch "
 "between them."
-msgstr "「マップビュー」タブの「テーマ」リストの項目の1つをクリックして、切り替えます。"
+msgstr "\"マップビュー\" タブの \"テーマ\" リストの項目の1つをクリックして、切り替えます。"
 
 #: ../../build/doc/quickstart/marble_quickstart.rst:63
 msgid "Click a label in any place to view more information about it."
@@ -128,7 +128,7 @@ msgid ""
 "To find a location, enter its name into the search line on the top of "
 "\"Search\" panel. As you start typing, suggestions below the search line "
 "will appear like this:"
-msgstr "場所を検索するには、「検索」パネルの一番上の検索行に名前を入力します。入力を開始すると、検索ラインの下に次のような提案が表示されます:"
+msgstr "場所を検索するには、 \"検索\" パネルの一番上の検索行に名前を入力します。入力を開始すると、検索ラインの下に次のような提案が表示されます:"
 
 #: ../../build/doc/quickstart/marble_quickstart.rst:80
 msgid "Add a bookmark"
@@ -150,11 +150,11 @@ msgstr "ブックマークの名前、説明、移動先フォルダを記入"
 
 #: ../../build/doc/quickstart/marble_quickstart.rst:90
 msgid "Click the \"Ok\" button. Then the bookmark will appear."
-msgstr "「OK」ボタンをクリックします。するとブックマークが表示されます。"
+msgstr "\"OK\" ボタンをクリックします。するとブックマークが表示されます。"
 
 #: ../../build/doc/quickstart/marble_quickstart.rst:92
 msgid "To manage bookmarks, go to \"Bookmarks->Manage Bookmarks\"."
-msgstr "ブックマークを管理するには、「ブックマーク->ブックマークの管理」に移動します。"
+msgstr "ブックマークを管理するには、 \"ブックマーク->ブックマークの管理\" に移動します。"
 
 #: ../../build/doc/quickstart/marble_quickstart.rst:98
 msgid "Things to try"

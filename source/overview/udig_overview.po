@@ -102,7 +102,7 @@ msgid ""
 "Support for compliant Web Map Servers (:doc:`GeoServer "
 "<geoserver_overview>`, MapServer tested)"
 msgstr ""
-"Web MapServer標準のサポート(:doc:`GeoServer<geoserver_overview>` 、テスト済みMapServer)"
+"Web MapServer標準のサポート(:doc:`GeoServer <geoserver_overview>` 、テスト済みMapServer)"
 
 #: ../../build/doc/overview/udig_overview.rst:46
 msgid ""
@@ -135,9 +135,8 @@ msgid ""
 "Java Application built using the :doc:`GeoTools <geotools_overview>`, `JTS "
 "Topology Suite (JTS) <https://sourceforge.net/projects/jts-topo-suite/>`_"
 msgstr ""
-" :doc:`GeoTools<geotools_overview>`、`JTS Topology "
-"Suite(JTS)<https://sourceforge.net/projects/jts-topo-suite/>`_ "
-"を使用して構築されたJavaアプリケーション"
+":doc:`GeoTools <geotools_overview>`、`JTS Topology Suite (JTS) "
+"<https://sourceforge.net/projects/jts-topo-suite/>`_ を使用して構築されたJavaアプリケーション"
 
 #: ../../build/doc/overview/udig_overview.rst:56
 msgid ""

@@ -64,7 +64,8 @@ msgid ""
 " those tasks. The demo data can be found in "
 ":file:`/home/user/data/las/srs.las`"
 msgstr ""
-"libLASの「コマンドライン・ユーティリティー」は、libLAS用のユーザー向けの操作ソフトウェアの大部分を提供していますが、基礎となるlibLAS・ライブラリーがその原動力となっています。以下は、LASデータに対して実行する一般的な操作と、これらのタスクを実行するために使用するユーティリティとアプローチの一覧です。デモデータは、"
+"libLASの 'コマンドライン・ユーティリティー' "
+"は、libLAS用のユーザー向けの操作ソフトウェアの大部分を提供していますが、基礎となるlibLAS・ライブラリーがその原動力となっています。以下は、LASデータに対して実行する一般的な操作と、これらのタスクを実行するために使用するユーティリティとアプローチの一覧です。デモデータは、"
 " :file:`/home/user/data/las/srs.las` にあります。"
 
 #: ../../build/doc/quickstart/liblas_quickstart.rst:37

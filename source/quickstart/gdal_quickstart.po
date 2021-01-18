@@ -117,7 +117,7 @@ msgstr "注意："
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:101
 msgid "Driver is \"GTiff/GeoTIFF\""
-msgstr "ドライバーは「GTiff/GeoTIFF」"
+msgstr "ドライバーは \"GTiff/GeoTIFF\""
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:102
 msgid "Size is 10800x5400"
@@ -144,7 +144,8 @@ msgid ""
 "First get to know your drivers. The `--formats` commandline switch of "
 "gdal_translate can be used to see a list of available format drivers."
 msgstr ""
-"まずドライバーについて知りましょう。gdal_translateの`--formats`コマンドラインスイッチを使用すると、利用可能なフォーマットドライバの一覧を表示できます。"
+"まずドライバーについて知りましょう。gdal_translateの `--formats` "
+"コマンドラインスイッチを使用すると、利用可能なフォーマットドライバの一覧を表示できます。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:118
 msgid "Each format reports if it is"
@@ -209,7 +210,8 @@ msgid ""
 "input and output ranges is also available. The gdalinfo `-mm` switch can be "
 "used to see pixel min/max values."
 msgstr ""
-"`-scale`スイッチは、データの再スケールに使用できます。入力および出力範囲の明示的な制御も可能です。gdalinfo`-mm`スイッチを使用して、ピクセルの最小値/最大値を表示できます。"
+"`-scale` スイッチは、データの再スケールに使用できます。入力および出力範囲の明示的な制御も可能です。gdalinfo `-mm` "
+"スイッチを使用して、ピクセルの最小値/最大値を表示できます。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:167
 msgid ""
@@ -310,7 +312,7 @@ msgstr "ogrinfoでベクタデータに関する情報を取得する"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:310
 msgid "Get a summary about your data with ogrinfo together with `-so`."
-msgstr "ogrinfoに`-so`を付けて、データの概要を表示します。"
+msgstr "ogrinfoに `-so` を付けて、データの概要を表示します。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:393
 msgid ""
@@ -328,7 +330,7 @@ msgstr "ogrinfoの結果をgrepに転送して、COUNTRY属性だけをフィル
 msgid ""
 "You can convert your data to other formats. Get the list of the supported "
 "formats with `--formats`."
-msgstr "データを他の形式に変換できます。対応フォーマットの一覧を`--formats`で取得します。"
+msgstr "データを他の形式に変換できます。対応フォーマットの一覧を `--formats` で取得します。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:420
 msgid "Use ogr2ogr to convert data between file formats"

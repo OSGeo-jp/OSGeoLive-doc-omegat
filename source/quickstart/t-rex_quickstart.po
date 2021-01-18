@@ -103,13 +103,13 @@ msgstr "ブラウザを閉じ、t-rexを実行しているターミナルウィ�
 #: ../../build/doc/quickstart/t-rex_quickstart.rst:63
 msgid ""
 "Open any text editor (e.g. :menuselection:`Accessories --> FeatherPad`)."
-msgstr "任意のテキストエディタを開きます(例: menuselection:`アクセサリ --> FeatherPad`)。"
+msgstr "任意のテキストエディタを開きます(例: :menuselection:`アクセサリ --> FeatherPad`)。"
 
 #: ../../build/doc/quickstart/t-rex_quickstart.rst:65
 msgid ""
 "Create the file \"ne.toml\" in your home directory: "
 ":file:`/home/user/ne.toml`"
-msgstr "ファイル\"ne.toml\"をホームディレクトリ::file:`/home/user/ne.toml` に作成します。"
+msgstr "ファイル \"ne.toml\" をホームディレクトリ: :file:`/home/user/ne.toml` に作成します。"
 
 #: ../../build/doc/quickstart/t-rex_quickstart.rst:68
 msgid "Put the following content in it::"

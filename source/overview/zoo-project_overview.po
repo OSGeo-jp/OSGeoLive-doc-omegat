@@ -86,7 +86,7 @@ msgid ""
 "connect to numerous libraries and above all to simplify the Web service end-"
 "developer's job."
 msgstr ""
-"ZOO は、ZOO のコアシステムを構成している「WPS サービスカーネル」(別名ZOO カーネル)に基づいています。ZOO "
+"ZOO は、ZOO のコアシステムを構成している 'WPS サービスカーネル' (別名ZOO カーネル)に基づいています。ZOO "
 "カーネルは、動的ライブラリをロードして、オンデマンドのWebサービスとして処理することができます。ZOO "
 "カーネルはC言語で書かれていますが、数多くのライブラリに接続するために、いくつかの一般的なプログラミング言語をサポートし、上記のすべてのWebサービスのエンド開発者の仕事を簡素化します。"
 

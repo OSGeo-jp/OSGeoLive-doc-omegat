@@ -44,7 +44,7 @@ msgstr "[デスクトップGIS]フォルダを開きます。"
 
 #: ../../build/doc/quickstart/qgis_quickstart.rst:49
 msgid "Double click on the 'QGIS' icon."
-msgstr "「QGIS」アイコンをダブルクリックします。"
+msgstr "'QGIS' アイコンをダブルクリックします。"
 
 #: ../../build/doc/quickstart/qgis_quickstart.rst:51
 msgid ""
@@ -177,7 +177,8 @@ msgid ""
 "extension of '.qgs' or '.qgz', with '.qgz' being the default file format in "
 "QGIS going into the future."
 msgstr ""
-"QGISプロジェクトは、レイヤ、スタイル、マップ範囲、および設定を保存し、後で使用できるようにします。この情報はQGISのプロジェクトファイルとして保存され、拡張子は「.qgs」または「.qgz」になります。「.qgz」は将来のQGISでの既定のファイル形式です。"
+"QGISプロジェクトは、レイヤ、スタイル、マップ範囲、および設定を保存し、後で使用できるようにします。この情報はQGISのプロジェクトファイルとして保存され、拡張子は"
+" '.qgs' または '.qgz' になります。 '.qgz' は将来のQGISでの既定のファイル形式です。"
 
 #: ../../build/doc/quickstart/qgis_quickstart.rst:140
 msgid "Let's open an existing QGIS project and have a look at how it works."
@@ -238,7 +239,7 @@ msgstr "'ne_10m_populated_places' レイヤの横にあるチェックボック�
 
 #: ../../build/doc/quickstart/qgis_quickstart.rst:171
 msgid "Click the checkbox next to the 'Water' layer to turn the layer off."
-msgstr "「Water」レイヤの横にあるチェックボックスをクリックして、レイヤをオフにします。"
+msgstr "'Water' レイヤの横にあるチェックボックスをクリックして、レイヤをオフにします。"
 
 #: ../../build/doc/quickstart/qgis_quickstart.rst:173
 msgid ""
@@ -295,7 +296,7 @@ msgstr "ナビゲーションツールバーを使用すると、マップを移
 
 #: ../../build/doc/quickstart/qgis_quickstart.rst:208
 msgid "[1] Pan: Allows the map to be dragged ('panned') to a new location."
-msgstr "[1] パン: マップを新しい位置にドラッグ(「パン」)できます。"
+msgstr "[1] パン: マップを新しい位置にドラッグ('パン')できます。"
 
 #: ../../build/doc/quickstart/qgis_quickstart.rst:209
 msgid "[2] Zoom in: Allows the map extent to be zoomed in."
@@ -373,7 +374,7 @@ msgstr "[レイヤにズーム]ボタンをクリックします。"
 
 #: ../../build/doc/quickstart/qgis_quickstart.rst:233
 msgid "The map should zoom to the extent of the selected ('active') layer."
-msgstr "マップは選択された(「アクティブ」)レイヤの範囲にズームします。"
+msgstr "マップは選択された('アクティブ')レイヤの範囲にズームします。"
 
 #: ../../build/doc/quickstart/qgis_quickstart.rst:236
 msgid "Style your layers"
@@ -442,11 +443,11 @@ msgstr "スタイル枠では、地物のサイズを変更することもでき
 msgid ""
 "Make sure that the 'ne_10m_rivers_lakes_centrelines' is selected at the top "
 "of the style panel."
-msgstr "スタイルパネルの最上部で「ne_10m_rivers_lakes_centrelines」が選択されていることを確認します。"
+msgstr "スタイルパネルの最上部で 'ne_10m_rivers_lakes_centrelines' が選択されていることを確認します。"
 
 #: ../../build/doc/quickstart/qgis_quickstart.rst:286
 msgid "In the style panel enter the value '0.5' in the 'width' input."
-msgstr "スタイルパネルで、入力値「width」に値「0.5」を入力します。"
+msgstr "スタイルパネルで、入力値 'width' に値 '0.5' を入力します。"
 
 #: ../../build/doc/quickstart/qgis_quickstart.rst:292
 msgid ""

@@ -34,7 +34,8 @@ msgid ""
 "functions, and 'PostGIS' when describing the additional spatial "
 "functionality provided by PostGIS."
 msgstr ""
-"PostGISは、PostgreSQLリレーショナルデータベースに空間機能を追加します。PostgreSQLを拡張して、空間データを格納、問い合わせ、操作できるようにします。このクイックスタートでは、一般的なデータベース関数を記述する場合は'PostgreSQL'を使用し、PostGISによって提供される追加の空間機能を記述する場合は'PostGIS'を使用します。"
+"PostGISは、PostgreSQLリレーショナルデータベースに空間機能を追加します。PostgreSQLを拡張して、空間データを格納、問い合わせ、操作できるようにします。このクイックスタートでは、一般的なデータベース関数を記述する場合は"
+" 'PostgreSQL' を使用し、PostGISによって提供される追加の空間機能を記述する場合は 'PostGIS' を使用します。"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:46
 msgid "This Quick Start describes how to:"
@@ -75,7 +76,8 @@ msgid ""
 "connection, and is not visible to other computers unless you configure it to"
 " be so."
 msgstr ""
-"サーバがクライアントと同じコンピュータ上にあることを止めるものは何もありません。これにより、単一のマシン上でPostgreSQLを使用することができます。クライアントは、内部の「ループバック」ネットワーク接続を介してサーバに接続し、そのように設定しない限り、他のコンピュータからは見えません。"
+"サーバがクライアントと同じコンピュータ上にあることを止めるものは何もありません。これにより、単一のマシン上でPostgreSQLを使用することができます。クライアントは、内部の"
+" 'ループバック' ネットワーク接続を介してサーバに接続し、そのように設定しない限り、他のコンピュータからは見えません。"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:70
 msgid "Creating a spatially-enabled database"
@@ -121,7 +123,7 @@ msgid ""
 "The list uses a standard unix pager - hit space for next page, :kbd:`b` to "
 "go back, :kbd:`q` to quit, h for help."
 msgstr ""
-"このリストでは標準的なUNIXのページャの使いかたを示します - スペースで次のページ、 :kbd:`b`  は戻る、 :kbd:`q` は終了、h "
+"このリストでは標準的なUNIXのページャの使いかたを示します - スペースで次のページ、 :kbd:`b` は戻る、 :kbd:`q` は終了、h "
 "はヘルプを表示します。"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:96
@@ -596,7 +598,7 @@ msgid ""
 "You can see now that the red X disappeared and a \"+\" appeared on the left."
 " By pressing it a tree is going to appear, displaying the contents of the "
 "database."
-msgstr "これで、赤いXが消え、左側に「+」が表示されたことがわかります。これを押すとツリーが表示され、データベースの内容が表示されます。"
+msgstr "これで、赤いXが消え、左側に \"+\" が表示されたことがわかります。これを押すとツリーが表示され、データベースの内容が表示されます。"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:500
 msgid ""
@@ -729,7 +731,7 @@ msgid ""
 "ogr-fdw * New and improved: http://blog.cleverelephant.ca/2016/04/ogr-fdw-"
 "update.html"
 msgstr ""
-"``ogr_fdw``: *リポジトリ: https://github.com/pramsey/pgsql-ogr-fdw* 新規改良版: "
+"``ogr_fdw``: * リポジトリ: https://github.com/pramsey/pgsql-ogr-fdw * 新規改良版: "
 "http://blog.cleverelephant.ca/2016/04/ogr-fdw-update.html"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:603

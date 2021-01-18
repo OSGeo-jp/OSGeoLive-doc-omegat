@@ -50,8 +50,8 @@ msgid ""
 "following international standards such as ISO 19115, ISO 19139 and FGDC "
 "CSDGM."
 msgstr ""
-"メタデータは「データに関するデータ」であり、作成日、作成者、タイトル、興味分野などといったものを格納しており、 ISO 19115、 ISO 19139"
-" 、 FGDC CSDGM などの国際標準に従って XML ファイルとして通常エンコードされています。"
+"メタデータは 'データに関するデータ' であり、作成日、作成者、タイトル、興味分野などといったものを格納しており、 ISO 19115、 ISO "
+"19139 、 FGDC CSDGM などの国際標準に従って XML ファイルとして通常エンコードされています。"
 
 #: ../../build/doc/overview/pycsw_overview.rst:28
 msgid ""

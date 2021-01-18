@@ -70,7 +70,7 @@ msgstr "`LAStools`_ に基づく LAS データを操作するための `コマ�
 
 #: ../../build/doc/overview/liblas_overview.rst:42
 msgid "Coordinate reprojection via `GDAL <https://gdal.org>`__"
-msgstr "`GDAL <https://gdal.org>`_ 経由での投影法の変換"
+msgstr "`GDAL <https://gdal.org>`__ 経由での投影法の変換"
 
 #: ../../build/doc/overview/liblas_overview.rst:45
 msgid "Details"

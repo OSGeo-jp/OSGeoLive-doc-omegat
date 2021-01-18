@@ -116,8 +116,8 @@ msgid ""
 msgstr ""
 "**センサー Web REST-API**: バージョン4.1.1以降では、バンドルバージョンが使用可能で、 `RESTful API "
 "<https://wiki.52north.org/SensorWeb/SensorWebClientRESTInterface>`_ "
-"が直接使用可能です。したがって、観測データはRESTfulな方法で要求することができ、JSONエンコードされた応答で返されます。詳細については`SOS "
-"webapp <http://localhost:8080/52nSOS/static/doc/api-doc/>`_ 内で文書を確認できます。"
+"が直接使用可能です。したがって、観測データはRESTfulな方法で要求することができ、JSONエンコードされた応答で返されます。詳細については `SOS"
+" webapp <http://localhost:8080/52nSOS/static/doc/api-doc/>`_ 内で文書を確認できます。"
 
 #: ../../build/doc/overview/52nSOS_overview.rst:66
 msgid ""

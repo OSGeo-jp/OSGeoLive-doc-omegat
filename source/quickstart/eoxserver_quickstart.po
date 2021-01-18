@@ -149,8 +149,8 @@ msgid ""
 "From the EOxServer main page, click the **Admin Client** link and login with"
 " user `admin` and password `admin`."
 msgstr ""
-"EOxServerのメインページで[**Admin "
-"Client**]リンクをクリックし、ユーザー「admin」とパスワード「admin」でログインします。"
+"EOxServerのメインページで **Admin Client** リンクをクリックし、ユーザー `admin` とパスワード `admin` "
+"でログインします。"
 
 #: ../../build/doc/quickstart/eoxserver_quickstart.rst:116
 msgid ""

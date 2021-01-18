@@ -198,8 +198,8 @@ msgid ""
 " the next box (*declared SRS*) to make sure |GS| knows where the data is."
 msgstr ""
 "ページをスクロールすると、 |GS| が多くのフィールドにデータ挿入していることがわかります。:guilabel:`Coordinate "
-"Reference System` に到達すると、 *Native SRS* "
-"の下にUNKNOWNと表示されていることがわかります。次のボックス(*declared SRS*)に入力して、 |GS| "
+"Reference System` に到達すると、 *Native SRS* の下に UNKNOWN "
+"と表示されていることがわかります。次のボックス(*declared SRS*)に入力して、 |GS| "
 "がデータの場所を確実に認識できるようにする必要があります。"
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst:122
@@ -209,7 +209,8 @@ msgid ""
 "on the link next to \"UNKNOWN\"."
 msgstr ""
 "ボックスにepsg:4326と入力するか、 `http://prj2epsg.org/search "
-"<http://prj2epsg.org/search>`_ に移動して、次のリンクをクリックすると表示される文字列を貼り付けます 「不明」に。"
+"<http://prj2epsg.org/search>`_ に移動して、 \"UNKNOWN\" "
+"の隣のリンクをクリックすると表示される文字列を貼り付けます。"
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst:123
 msgid ""
@@ -419,7 +420,8 @@ msgid ""
 "The |WMS| layers you are serving from |GS| can be used with a variety of "
 "clients on this OSGeoLive distribution, including:"
 msgstr ""
-"|GS| から提供されているWMSレイヤは、このOSGeoLiveディストリビューションのさまざまなクライアントで使用できます。次のものがあります。"
+"|GS| から提供されている |WMS| "
+"レイヤは、このOSGeoLiveディストリビューションのさまざまなクライアントで使用できます。次のものがあります。"
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst:248
 msgid ":doc:`uDig <../overview/udig_overview>`"
@@ -463,15 +465,15 @@ msgstr ":guilabel:`ストア追加` をクリックし、次に :guilabel:`NetCD
 msgid ""
 "Enter a value for Data Source Name (this example uses \"netcdf\") and a "
 "NetCDF URL. You can use this sample file::"
-msgstr "[Data Source Name]の値(今回は「netcdf」)と、NetCDF URLを入力します。次のサンプルファイルを利用可能::"
+msgstr "[Data Source Name]の値(今回は \"netcdf\")と、NetCDF URLを入力します。次のサンプルファイルを利用可能::"
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst:267
 msgid "Press \"Save\", \"Publish\" the \"O3\" layer."
-msgstr "\"保存\"と\"O3\"レイヤを\"公開\" を押してください。"
+msgstr "\"保存\" と \"O3\" レイヤを \"公開\" を押してください。"
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst:268
 msgid "Scroll down to the bottom of the \"Data\" tab and press \"Save\" again."
-msgstr "\"Data\"タブの一番下までスクロールダウンし、もう一度\"保存\"を押します。"
+msgstr "\"Data\" タブの一番下までスクロールダウンし、もう一度 \"保存\" を押します。"
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst:276
 msgid "Preview the NetCDF layer"
@@ -479,19 +481,19 @@ msgstr "NetCDFレイヤをプレビュー"
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst:278
 msgid "Select \"Layer Preview\" from the menu on the left"
-msgstr "左側のメニューから\"レイヤプレビュー\"を選択"
+msgstr "左側のメニューから \"レイヤプレビュー\" を選択"
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst:279
 msgid ""
 "Scroll down to find the \"cite:O3\" entry, and click on the \"OpenLayers\" "
 "link to show a preview of the layer."
-msgstr "下へスクロールして\"cite: O3\"の項目を探し、\"OpenLayers\"リンクをクリックしてレイヤのプレビューを表示します。"
+msgstr "下へスクロールして \"cite: O3\" の項目を探し、 \"OpenLayers\" リンクをクリックしてレイヤのプレビューを表示します。"
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst:280
 msgid ""
 "Clicking on points will cause the value of \"Ozone_concentration\" to be "
 "shown in a table at the bottom of the map."
-msgstr "点をクリックすると、「オゾン濃度」の値がマップの下部のテーブルに表示されます。"
+msgstr "点をクリックすると、 \"オゾン濃度\" の値がマップの下部のテーブルに表示されます。"
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst:288
 msgid ""

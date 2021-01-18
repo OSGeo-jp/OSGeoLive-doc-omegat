@@ -79,8 +79,7 @@ msgid ""
 "Download the file here: `sample.osm "
 "<https://learnosm.org/files/sample.osm>`__"
 msgstr ""
-"ここでファイルをダウンロードしてください： `sample.osm <https://learnosm.org/files/sample.osm>` "
-"__"
+"ここでファイルをダウンロードしてください: `sample.osm <https://learnosm.org/files/sample.osm>`__"
 
 #: ../../build/doc/quickstart/josm_quickstart.rst:48
 msgid ""
@@ -184,8 +183,8 @@ msgid ""
 "it begins."
 msgstr ""
 "地図には基本的に、ポイント・ライン・シェイプという3つのタイプのオブジェクトしかない、とかんがえるととてもシンプルです。これから先、OpenStreetMapについて調べてゆくと、これらを別の単語で表現していることがあります。"
-" ポイントは実際には ノード(node) と呼ばれ、ラインは ウェイ "
-"と呼ばれます。シェイプは、データ上では始点と終点が同一の地点にあるだけのウェイなので 閉じたウェイ(closed way) と呼ばれます。"
+" ポイントは実際には **ノード(node)** と呼ばれ、ラインは **ウェイ(way)** "
+"と呼ばれます。シェイプは、データ上では始点と終点が同一の地点にあるだけのウェイなので **閉じたウェイ(closed way)** と呼ばれます。"
 
 #: ../../build/doc/quickstart/josm_quickstart.rst:114
 msgid ""
@@ -196,7 +195,8 @@ msgid ""
 "to know is that this information helps describe whether our object is a "
 "forest, a river, a building, or something else."
 msgstr ""
-"オブジェクトを選択すると、JOSMの画面右側に”プロパティ”と呼ばれるリストが表示されることに気がつくかもしれません。ここに表示される値はタグと呼ばれます。タグとは、ポイントやライン、シェイプに関連付けられた情報で、その地点が何を表しているかを示しています。タグについては、後の章で詳しく説明します。いまのところ、森林や河川、建物などの内容はタグに書かれた情報によって表されている、ということを知っているだけでかまいません。"
+"オブジェクトを選択すると、JOSMの画面右側に ”プロパティ” "
+"と呼ばれるリストが表示されることに気がつくかもしれません。ここに表示される値はタグと呼ばれます。タグとは、ポイントやライン、シェイプに関連付けられた情報で、その地点が何を表しているかを示しています。タグについては、後の章で詳しく説明します。いまのところ、森林や河川、建物などの内容はタグに書かれた情報によって表されている、ということを知っているだけでかまいません。"
 
 #: ../../build/doc/quickstart/josm_quickstart.rst:121
 msgid ""
