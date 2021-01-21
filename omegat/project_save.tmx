@@ -20403,6 +20403,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Once inside, select for display the raster map layer "`elevation`" from the PERMANENT mapset.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T140154Z" creationid="sanak" creationdate="20210121T140154Z">
+        <seg>内にはいると、 PERMANENT マップセットから "`elevation`" ラスタマップレイヤ表示を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Once saved, you can go to the |GS| admin page again and select ``Styles`` (at the bottom of the ``Data`` section).</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T080916Z" creationid="miurahr" creationdate="20201116T231856Z">
@@ -20667,6 +20675,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open a terminal window and type `python3` on the command line to enter a python interpreter.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T140328Z" creationid="sanak" creationdate="20210121T140328Z">
+        <seg>ターミナルウィンドウを開き、コマンドラインに `python3` と入力して、pythonインタプリタを起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open a terminal window and type `python` on the command line to enter a python interpreter.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T081151Z" creationid="miurahr" creationdate="20201103T055333Z">
@@ -20767,6 +20783,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T070119Z" creationid="miurahr" creationdate="20201121T133943Z">
         <seg>:menuselection:`Geospatial-&gt;Databases-&gt;Spatialite GUI` を選択して、Spatialite GUIを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the `WMS URL &lt;http://localhost/cgi-bin/qgis_mapserv.fcgi?map=/home/user/world.qgz&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetMap&amp;BBOX=-91.901820,-180.000000,83.633800,180.000000&amp;CRS=EPSG:4326&amp;WIDTH=722&amp;HEIGHT=352&amp;LAYERS=ne_10m_admin_0_countries&amp;STYLES=default&amp;FORMAT=image/png&amp;DPI=96&amp;TRANSPARENT=true&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T140658Z" creationid="sanak" creationdate="20210121T140658Z">
+        <seg> `WMS URL &lt;http://localhost/cgi-bin/qgis_mapserv.fcgi?map=/home/user/world.qgz&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetMap&amp;BBOX=-91.901820,-180.000000,83.633800,180.000000&amp;CRS=EPSG:4326&amp;WIDTH=722&amp;HEIGHT=352&amp;LAYERS=ne_10m_admin_0_countries&amp;STYLES=default&amp;FORMAT=image/png&amp;DPI=96&amp;TRANSPARENT=true&gt;`_ を開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29776,6 +29800,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T082154Z" creationid="miurahr" creationdate="20201116T145928Z">
         <seg>GeoNodeとその機能の詳細については、Webページ www.geonode.org を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To learn more about QGIS Server, a good starting point is the `QGIS Server Guide`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T141613Z" creationid="sanak" creationdate="20210121T141613Z">
+        <seg>QGISの詳細については、`QGIS Server Guide`_ を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
