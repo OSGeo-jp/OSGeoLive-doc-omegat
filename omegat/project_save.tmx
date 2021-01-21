@@ -19885,8 +19885,8 @@
       <tuv lang="en-US">
         <seg>OSGeoLive contains an example of web map viewer based on the GeoExt Javascript framework and using QGIS Server for rendering the map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201125T003832Z" creationid="miurahr" creationdate="20201125T003736Z">
-        <seg>OSGeoLiveには、GeoExt javascriptフレームワークにもとづくサンプル地図ビューアが収録されていますので、QGIS サーバをつかって地図をレンダリングしましょう。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T141657Z" creationid="miurahr" creationdate="20201125T003736Z">
+        <seg>OSGeoLiveには、GeoExt Javascriptフレームワークにもとづくサンプル地図ビューアが収録されていますので、QGIS サーバをつかって地図をレンダリングしましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22521,8 +22521,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>QGIS Server Quickstart</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T152305Z" creationid="miurahr" creationdate="20201221T152305Z">
-        <seg>QGIS Server Quickstart</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T141642Z" creationid="miurahr" creationdate="20201221T152305Z">
+        <seg>QGIS サーバ クイックスタート</seg>
       </tuv>
     </tu>
     <tu>
@@ -37122,6 +37122,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T055149Z" creationid="sanak" creationdate="20201218T055149Z">
         <seg>http://localhost/cgi-bin/zoo_loader.cgi?Request=GetCapabilities&amp;Service=WPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>https://docs.qgis.org/3.10/en/docs/server_manual/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T141728Z" creationid="sanak" creationdate="20210121T141728Z">
+        <seg>https://docs.qgis.org/3.10/en/docs/server_manual/</seg>
       </tuv>
     </tu>
     <tu>
