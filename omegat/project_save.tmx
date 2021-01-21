@@ -7266,8 +7266,8 @@
       <tuv lang="en-US">
         <seg>Click :menuselection:`Geospatial --&gt; Web Services --&gt; QGIS Server`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T152402Z" creationid="miurahr" creationdate="20201221T152402Z">
-        <seg> :menuselection:`Geospatial --&gt; Web Services --&gt; QGIS Server` をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T142120Z" creationid="miurahr" creationdate="20201221T152402Z">
+        <seg>:menuselection:`Geospatial --&gt; Web Services --&gt; QGIS Server` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8362,8 +8362,8 @@
       <tuv lang="en-US">
         <seg>Create a new QGIS project</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201125T004535Z" creationid="miurahr" creationdate="20201125T004535Z">
-        <seg>新規QGISプロジェクトの作成</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T142503Z" creationid="miurahr" creationdate="20201125T004535Z">
+        <seg>新規 QGIS プロジェクトの作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -19885,8 +19885,8 @@
       <tuv lang="en-US">
         <seg>OSGeoLive contains an example of web map viewer based on the GeoExt Javascript framework and using QGIS Server for rendering the map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210121T141657Z" creationid="miurahr" creationdate="20201125T003736Z">
-        <seg>OSGeoLiveには、GeoExt Javascriptフレームワークにもとづくサンプル地図ビューアが収録されていますので、QGIS サーバをつかって地図をレンダリングしましょう。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T142427Z" creationid="miurahr" creationdate="20201125T003736Z">
+        <seg>OSGeoLive には、GeoExt Javascript フレームワークにもとづくサンプル地図ビューアが収録されていますので、QGIS サーバをつかって地図をレンダリングしましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20789,8 +20789,8 @@
       <tuv lang="en-US">
         <seg>Open the `WMS URL &lt;http://localhost/cgi-bin/qgis_mapserv.fcgi?map=/home/user/world.qgz&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetMap&amp;BBOX=-91.901820,-180.000000,83.633800,180.000000&amp;CRS=EPSG:4326&amp;WIDTH=722&amp;HEIGHT=352&amp;LAYERS=ne_10m_admin_0_countries&amp;STYLES=default&amp;FORMAT=image/png&amp;DPI=96&amp;TRANSPARENT=true&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210121T140658Z" creationid="sanak" creationdate="20210121T140658Z">
-        <seg> `WMS URL &lt;http://localhost/cgi-bin/qgis_mapserv.fcgi?map=/home/user/world.qgz&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetMap&amp;BBOX=-91.901820,-180.000000,83.633800,180.000000&amp;CRS=EPSG:4326&amp;WIDTH=722&amp;HEIGHT=352&amp;LAYERS=ne_10m_admin_0_countries&amp;STYLES=default&amp;FORMAT=image/png&amp;DPI=96&amp;TRANSPARENT=true&gt;`_ を開きます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T141936Z" creationid="sanak" creationdate="20210121T140658Z">
+        <seg>`WMS URL &lt;http://localhost/cgi-bin/qgis_mapserv.fcgi?map=/home/user/world.qgz&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetMap&amp;BBOX=-91.901820,-180.000000,83.633800,180.000000&amp;CRS=EPSG:4326&amp;WIDTH=722&amp;HEIGHT=352&amp;LAYERS=ne_10m_admin_0_countries&amp;STYLES=default&amp;FORMAT=image/png&amp;DPI=96&amp;TRANSPARENT=true&gt;`_ を開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22021,8 +22021,8 @@
       <tuv lang="en-US">
         <seg>Press :guilabel:`OK`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201125T004400Z" creationid="miurahr" creationdate="20201125T004400Z">
-        <seg> :guilabel:`OK` をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T141853Z" creationid="miurahr" creationdate="20201125T004400Z">
+        <seg>:guilabel:`OK` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22037,8 +22037,8 @@
       <tuv lang="en-US">
         <seg>Press :guilabel:`Open`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201125T004644Z" creationid="miurahr" creationdate="20201125T004644Z">
-        <seg> :guilabel:`Open` をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T141917Z" creationid="miurahr" creationdate="20201125T004644Z">
+        <seg>:guilabel:`Open` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22537,8 +22537,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>QGIS Server provides a web map service (WMS) based on libraries from the QGIS desktop application.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201125T003520Z" creationid="miurahr" creationdate="20201125T003520Z">
-        <seg>QGISサーバは、GIS(QGIS)デスクトップアプリケーションと同じライブラリを使用して、Webマップサービス(WMS)を提供します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T142325Z" creationid="miurahr" creationdate="20201125T003520Z">
+        <seg>QGIS サーバは、QGIS デスクトップアプリケーションと同じライブラリを使用して、Webマップサービス(WMS)を提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22633,8 +22633,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Quick start for Server Installation on Debian/Ubuntu:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201125T004932Z" creationid="miurahr" creationdate="20201125T004932Z">
-        <seg>Debian/Ubuntuでのサーバ導入については:</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T142535Z" creationid="miurahr" creationdate="20201125T004932Z">
+        <seg>Debian/Ubuntu でのサーバ導入については:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23170,16 +23170,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Reopen QGIS.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201125T004545Z" creationid="miurahr" creationdate="20201125T004545Z">
-        <seg>QGISをもう一度開きます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T142511Z" creationid="miurahr" creationdate="20201125T004545Z">
+        <seg>QGIS をもう一度開きます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Reopen the web browser.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201125T004450Z" creationid="miurahr" creationdate="20201125T004450Z">
-        <seg>webブラウザをもういちど開きます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T142030Z" creationid="miurahr" creationdate="20201125T004450Z">
+        <seg>Webブラウザをもういちど開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24098,8 +24098,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select :file:`QGIS-NaturalEarth-Example.qgs` and press :guilabel:`Open`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201125T004124Z" creationid="miurahr" creationdate="20201125T004124Z">
-        <seg> :file:`QGIS-NaturalEarth-Example.qgs` を選択して、 :guilabel:`Open` をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T142042Z" creationid="miurahr" creationdate="20201125T004124Z">
+        <seg>:file:`QGIS-NaturalEarth-Example.qgs` を選択して、 :guilabel:`Open` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29806,8 +29806,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To learn more about QGIS Server, a good starting point is the `QGIS Server Guide`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210121T141613Z" creationid="sanak" creationdate="20210121T141613Z">
-        <seg>QGISの詳細については、`QGIS Server Guide`_ を参照してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T142131Z" creationid="sanak" creationdate="20210121T141613Z">
+        <seg>QGIS サーバの詳細については、`QGIS Server Guide`_ を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31686,16 +31686,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>We will now change river styling and look at the result in the web map viewer.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201125T004241Z" creationid="miurahr" creationdate="20201125T004241Z">
-        <seg>さて、河川のスタイルを変更してwebマップビューアで確認してみましょう。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T142458Z" creationid="miurahr" creationdate="20201125T004241Z">
+        <seg>さて、河川のスタイルを変更してWebマップビューアで確認してみましょう。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>We will now change the map styling using QGIS.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201125T004037Z" creationid="miurahr" creationdate="20201125T004037Z">
-        <seg>さて、これでQGISで地図スタイルを変更できるようになりました。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T142437Z" creationid="miurahr" creationdate="20201125T004037Z">
+        <seg>さて、これで QGIS で地図スタイルを変更できるようになりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33544,8 +33544,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You should see all world countries, this time rendered by QGIS Server.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201125T004801Z" creationid="miurahr" creationdate="20201125T004801Z">
-        <seg>QGISサーバでレンダリングされた世界地図が表示されるはずです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T142524Z" creationid="miurahr" creationdate="20201125T004801Z">
+        <seg>QGIS サーバでレンダリングされた世界地図が表示されるはずです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33592,8 +33592,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You should see the same world map rendered by QGIS.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201125T004147Z" creationid="miurahr" creationdate="20201125T004147Z">
-        <seg>QGISでレンダリングされた同じ地図が表示されるはずです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T142442Z" creationid="miurahr" creationdate="20201125T004147Z">
+        <seg>QGIS でレンダリングされた同じ地図が表示されるはずです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40856,8 +40856,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>update an existing QGIS project and render it with QGIS Server</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201125T003553Z" creationid="miurahr" creationdate="20201125T003553Z">
-        <seg>既存のQGISプロジェクトを開いて、QGISサーバでレンダリングしましょう。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T142358Z" creationid="miurahr" creationdate="20201125T003553Z">
+        <seg>既存の QGIS プロジェクトを開いて、QGIS サーバでレンダリングしましょう。</seg>
       </tuv>
     </tu>
     <tu>
