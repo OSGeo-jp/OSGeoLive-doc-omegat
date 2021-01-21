@@ -7258,8 +7258,8 @@
       <tuv lang="en-US">
         <seg>Click :menuselection:`Geospatial --&gt; Desktop GIS --&gt; QGIS`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T152418Z" creationid="miurahr" creationdate="20201221T152418Z">
-        <seg> :menuselection:`Geospatial --&gt; Desktop GIS --&gt; QGIS` をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T145235Z" creationid="miurahr" creationdate="20201221T152418Z">
+        <seg>:menuselection:`Geospatial --&gt; Desktop GIS --&gt; QGIS` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10092,6 +10092,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T053755Z" creationid="miurahr" creationdate="20201122T053755Z">
         <seg>リモートOGCサービスのための暗号化プロトコルモニタリング、ステータス通知、自動更新サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enock Seth Nyamador</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T142712Z" creationid="sanak" creationdate="20210121T142712Z">
+        <seg>Enock Seth Nyamador</seg>
       </tuv>
     </tu>
     <tu>
@@ -36150,6 +36158,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>enockseth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T142809Z" creationid="sanak" creationdate="20210121T142809Z">
+        <seg>enockseth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>entire NC state with raster data at 500m resolution;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T013853Z" creationid="miurahr" creationdate="20201220T013853Z">
@@ -39010,6 +39026,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OGC 準拠の WMS、WMTS、WFS、WCS などのオンラインで提供される空間データ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>open enockseth co</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T142713Z" creationid="sanak" creationdate="20210121T142713Z">
+        <seg>open enockseth co</seg>
       </tuv>
     </tu>
     <tu>
