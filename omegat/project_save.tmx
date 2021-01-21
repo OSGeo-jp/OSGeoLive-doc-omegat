@@ -15387,6 +15387,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It builds upon an Open Source stack of software which includes Python, :doc:`MapServer &lt;../overview/mapserver_overview&gt;`, Django/GeoDjango, :doc:`GDAL &lt;../overview/gdal_overview&gt;`,  :doc:`PROJ.4 &lt;../overview/proj4_overview&gt;` and a :doc:`SpatiaLite &lt;../overview/spatialite_overview&gt;` or :doc:`PostGIS &lt;../overview/postgis_overview&gt;` database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T135349Z" creationid="sanak" creationdate="20210121T135349Z">
+        <seg>これは、Python、:doc:`MapServer &lt;../overview/mapserver_overview&gt;`、  Django/GeoDjango、:doc:`GDAL &lt;../overview/gdal_overview&gt;`、:doc:`PROJ.4 &lt;../overview/proj4_overview&gt;` と  :doc:`SpatiaLite &lt;../overview/spatialite_overview&gt;`  または  :doc:`PostGIS &lt;../overview/postgis_overview&gt;` データベースを含むソフトウェアのオープンソーススタック上に構築されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It builds upon an Open Source stack of software which includes Python, :doc:`MapServer &lt;../overview/mapserver_overview&gt;`, Django/GeoDjango, :doc:`GDAL &lt;../overview/gdal_overview&gt;`, PROJ.4 and a :doc:`SpatiaLite &lt;../overview/spatialite_overview&gt;` or :doc:`PostGIS &lt;../overview/postgis_overview&gt;` database.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T144225Z" creationid="miurahr" creationdate="20201116T141559Z">
@@ -21527,6 +21535,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T002539Z" creationid="miurahr" creationdate="20201117T002539Z">
         <seg>pgAdminの新しいバージョンであるpgadmin4があり、apt install pgadmin4を使用してインストールできることに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please note, that when you disable the "MER FRS 1P RGB reduced" layer, the timeslider widget is hidden and only reappears once a dataset layer is enabled.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T135701Z" creationid="sanak" creationdate="20210121T135701Z">
+        <seg> "MER FRS1P RGB reduced" レイヤを無効にすると、タイムスライダウィジェットは非表示になり、データセットレイヤが有効になると再表示されることに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
