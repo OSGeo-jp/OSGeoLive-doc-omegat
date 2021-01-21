@@ -17701,8 +17701,8 @@
       <tuv lang="en-US">
         <seg>Maps and print templates created in QGIS desktop can be published as web maps simply by copying the QGIS project file into the server directory.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T003131Z" creationid="miurahr" creationdate="20201103T003131Z">
-        <seg>QGISのデスクトップで作成されたマップと印刷テンプレートは、QGISプロジェクトファイルをサーバディレクトリにコピーするだけで、Webマップとしてパブリッシュできます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T142635Z" creationid="miurahr" creationdate="20201103T003131Z">
+        <seg>QGIS のデスクトップで作成されたマップと印刷テンプレートは、QGIS プロジェクトファイルをサーバディレクトリにコピーするだけで、Webマップとしてパブリッシュできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22545,8 +22545,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>QGIS Server provides web map and feature services (WMS &amp; WFS) using the same libraries as the GIS (QGIS) desktop application.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T184318Z" creationid="miurahr" creationdate="20201103T003126Z">
-        <seg>QGIS サーバは、GIS (QGIS)デスクトップアプリケーションと同じライブラリを使用して、Webマップおよびフィーチャサービス(WMS &amp; WFS)を提供します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210121T142612Z" creationid="miurahr" creationdate="20201103T003126Z">
+        <seg>QGIS サーバは、GIS (QGIS) デスクトップアプリケーションと同じライブラリを使用して、Webマップおよびフィーチャサービス(WMS &amp; WFS)を提供します。</seg>
       </tuv>
     </tu>
     <tu>
