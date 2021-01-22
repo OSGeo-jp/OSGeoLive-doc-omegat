@@ -9472,6 +9472,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double click on the `QGIS` icon.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023419Z" creationid="miurahr" creationdate="20210122T023419Z">
+        <seg>`QGIS` アイコンをダブルクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double click to end the line/polygon.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132314Z" creationid="miurahr" creationdate="20201116T132314Z">
@@ -9572,6 +9580,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113801Z" creationid="miurahr" creationdate="20201103T113801Z">
         <seg>ブラウザパネルから画層をドラッグし、マップフレームにドロップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drag the layers from the `Browser` panel and drop them in the map canvas.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023551Z" creationid="miurahr" creationdate="20210122T023551Z">
+        <seg>`ブラウザ` パネルからレイヤをドラッグし、マップキャンバスにドロップします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18627,6 +18643,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Navigate to `PostGIS` and then to the database `osm_local`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023438Z" creationid="miurahr" creationdate="20210122T023438Z">
+        <seg>`PostGIS` に移動し、次にデータベース `osm_local` に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Navigating the map</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131623Z" creationid="miurahr" creationdate="20201116T131623Z">
@@ -19891,6 +19915,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OSGeoLive comes with OSM data for the city where the global `FOSS4G conference &lt;https://foss4g.org&gt;`_ takes place.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023224Z" creationid="miurahr" creationdate="20210122T023224Z">
+        <seg>OSGeoLiveには、世界的な `FOSS4Gカンファレンス &lt;https://FOSS4G.org/&gt;`_ が開催されている都市のOSMデータが用意されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OSGeoLive contains an example of web map viewer based on the GeoExt Javascript framework and using QGIS Server for rendering the map.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210121T142427Z" creationid="miurahr" creationdate="20201125T003736Z">
@@ -20791,6 +20823,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T070119Z" creationid="miurahr" creationdate="20201121T133943Z">
         <seg>:menuselection:`Geospatial-&gt;Databases-&gt;Spatialite GUI` を選択して、Spatialite GUIを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the `Desktop GIS` folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023424Z" creationid="miurahr" creationdate="20210122T023339Z">
+        <seg>`デスクトップGIS` フォルダを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25300,6 +25340,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113717Z" creationid="miurahr" creationdate="20201103T113717Z">
         <seg>スタートQGIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start QGIS and have a look at the data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023259Z" creationid="miurahr" creationdate="20210122T023259Z">
+        <seg>QGISを起動し、データを確認しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33398,6 +33446,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You find the data in the file system at `/usr/local/share/data/osm/` or in the PostgreSQL database `osm_local`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023253Z" creationid="miurahr" creationdate="20210122T023253Z">
+        <seg>ファイルシステムの `/usr/local/share/data/osm/` またはPostgreSQLデータベースの `osm_local` にデータがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You find the manager in the menu.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043941Z" creationid="miurahr" creationdate="20201108T043941Z">
@@ -33650,6 +33706,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T150722Z" creationid="miurahr" creationdate="20201116T150722Z">
         <seg>仮想マシンまたはUSBから実行するか、OSGeoLive(または単にGeoServer)をハードドライブにインストールする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will find the data in the schema `public`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023448Z" creationid="miurahr" creationdate="20210122T023448Z">
+        <seg>データはスキーマの `public` にあります。</seg>
       </tuv>
     </tu>
     <tu>
