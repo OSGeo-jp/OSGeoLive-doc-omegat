@@ -6558,6 +6558,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default the creator of a file/directory is the owner.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T024001Z" creationid="miurahr" creationdate="20210122T024001Z">
+        <seg>By default the creator of a file/directory is the owner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By default, QGIS comes with OpenStreetMap basemap layer and is located in the `Browser Panel` under `XYZ Tiles`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T024059Z" creationid="miurahr" creationdate="20210122T023931Z">
+        <seg>デフォルトでは、QGISにはOpenStreetMapベースマップのレイヤが付属しており、`XYZ タイル` の下の `ブラウザパネル` にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By navigating and expanding the ``Tables``, you can see all the tables contained within this schema.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T063452Z" creationid="miurahr" creationdate="20201117T002653Z">
@@ -7062,6 +7078,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose i.e. Geopackage and save the data as `buenos_aires_pubs`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023909Z" creationid="miurahr" creationdate="20210122T023909Z">
+        <seg>i.e.Geopackageを選択し、データを `buenos_aires_pubs` として保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose key `amenity`, value `pub`, in `Buenos Aires`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023825Z" creationid="miurahr" creationdate="20210122T023825Z">
+        <seg>`Buenos Aires` 内のキー `amenity` 、値は `pub` を選択してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose the ne_10m_lakes table and hit ``Add`` at the bottom (not ``Load`` at the top - that loads database connection parameters), and it should be loaded into QGIS:</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T063251Z" creationid="miurahr" creationdate="20201108T043653Z">
@@ -7154,6 +7186,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>空間データのためのクラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click  `Run query`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023837Z" creationid="miurahr" creationdate="20210122T023837Z">
+        <seg>`クエリの実行` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13412,6 +13452,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>ホームページ: http://merkaartor.be</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Homepage: https://github.com/3liz/QuickOSM</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023655Z" creationid="miurahr" creationdate="20210122T023655Z">
+        <seg>ホームページ: https://github.com/3liz/QuickOSM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Homepage: https://github.com/nextgis/quickmapservices</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T024452Z" creationid="miurahr" creationdate="20210122T024452Z">
+        <seg>ホームページ: https://github.com/nextgis/quickmapservices</seg>
       </tuv>
     </tu>
     <tu>
@@ -20643,6 +20699,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open QuickOSM from `Vector --&gt; QuickOSM --&gt; QuickOSM`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T024924Z" creationid="miurahr" creationdate="20210122T023733Z">
+        <seg>`ベクタ --&gt;QuickOSM--&gt;QuickOSM` からQuickOSMを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open Source Geospatial Content Management System</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142025Z" creationid="miurahr" creationdate="20201116T142025Z">
@@ -22687,6 +22751,30 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>QuickMapServices</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T024100Z" creationid="miurahr" creationdate="20210122T024100Z">
+        <seg>QuickMapServices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QuickOSM</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023637Z" creationid="miurahr" creationdate="20210122T023637Z">
+        <seg>QuickOSM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QuickOSM: See the `QuickOSM`_ section</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T024031Z" creationid="miurahr" creationdate="20210122T024031Z">
+        <seg>QuickOSM:  `QuickOSM`_ の章を参照ください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QuickOSM: https://plugins.qgis.org/plugins/QuickOSM/</seg>
       </tuv>
       <tuv lang="ja">
@@ -23968,6 +24056,30 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Search for `OSM` in the plugin repository.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023924Z" creationid="miurahr" creationdate="20210122T023917Z">
+        <seg>プラグインリポジトリで `OSM` を検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search for `QuickMapServices` from `Plugins --&gt; Manage and Install Plugins` in QGIS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T024734Z" creationid="miurahr" creationdate="20210122T024734Z">
+        <seg>QGISの `プラグイン --&gt; プラグインの管理とインストール...` から、 `QuickMapServices` を検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search for `QuickOSM` from `Plugins --&gt; Manage and Install Plugins` in QGIS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T024815Z" creationid="miurahr" creationdate="20210122T023722Z">
+        <seg>QGISの `プラグイン --&gt; プラグインの管理とインストール...` から `QuickOSM` を検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Search for a location</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134656Z" creationid="miurahr" creationdate="20201116T134656Z">
@@ -23980,6 +24092,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010046Z" creationid="miurahr" creationdate="20201103T010046Z">
         <seg>住所と名所を検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search for all the pubs in the FOSS4G city</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023754Z" creationid="miurahr" creationdate="20210122T023754Z">
+        <seg>FOSS4Gの開催都市のすべてのパブを検索</seg>
       </tuv>
     </tu>
     <tu>
@@ -24676,6 +24796,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T001936Z" creationid="miurahr" creationdate="20201117T001936Z">
         <seg>2.1以上の値が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show the query to see the Overpass query</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023830Z" creationid="miurahr" creationdate="20210122T023830Z">
+        <seg>Overpassのクエリを表示する</seg>
       </tuv>
     </tu>
     <tu>
@@ -27827,6 +27955,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The resulting data will be loaded in your QGIS project as temporal data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023843Z" creationid="miurahr" creationdate="20210122T023843Z">
+        <seg>結果のデータは、時系列データとしてQGISプロジェクトにロードされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The resulting web maps look exactly the same as in the desktop.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003134Z" creationid="miurahr" creationdate="20201103T003134Z">
@@ -30940,6 +31076,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using OSM as basemap in QGIS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023928Z" creationid="miurahr" creationdate="20210122T023919Z">
+        <seg>QGISでOSMをベースマップとして使用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using QGIS Desktop to load your OGC WMS</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022935Z" creationid="miurahr" creationdate="20201103T022935Z">
@@ -32644,6 +32788,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>XYZ Tiles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023937Z" creationid="miurahr" creationdate="20210122T023925Z">
+        <seg>XYZ タイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Xianfeng Song</seg>
       </tuv>
       <tuv lang="ja">
@@ -32696,6 +32848,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T150853Z" creationid="miurahr" creationdate="20201116T130104Z">
         <seg>`-projwin` を使用して、地理参照座標(ulx uly lrx lry)でコーナーを定義することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You also find many OSM Plugins for QGIS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023913Z" creationid="miurahr" creationdate="20210122T023913Z">
+        <seg>また、QGIS用のOSMプラグインも多数用意されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33174,6 +33334,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can now save the data via `Export -&gt; Save as....`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023859Z" creationid="miurahr" creationdate="20210122T023859Z">
+        <seg>これで、 `Export-&gt;Save as....` を使用してデータを保存できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can pan by holding the left mouse button and dragging the map to your desired area.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051341Z" creationid="miurahr" creationdate="20201103T051341Z">
@@ -33438,6 +33606,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You find a QGIS introduction in the :doc:`QGIS Quickstart &lt;../quickstart/qgis_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023634Z" creationid="miurahr" creationdate="20210122T023634Z">
+        <seg>:doc:`QGISクイックスタート &lt;../quickstart/qgis_quickstart&gt;` にQGISの紹介があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You find a list of different FDW at:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T002849Z" creationid="miurahr" creationdate="20201117T002849Z">
@@ -33466,6 +33642,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T063551Z" creationid="miurahr" creationdate="20201117T003014Z">
         <seg>これらを有効にするには、メニューの :menuselection:`File--&gt; Options--&gt; Browser--&gt; Display` を使用する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have to enable the Plugin in QGIS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023707Z" creationid="miurahr" creationdate="20210122T023707Z">
+        <seg>QGISでプラグインを有効にしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34530,6 +34714,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T070546Z" creationid="miurahr" creationdate="20201103T113655Z">
         <seg>`仮想マシンを作成するその他の方法 &lt;https://wiki.osgeo.org/wiki/Live_GIS_Virtual_Machine&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickMapServices` plugin allows you to easily add various map services as basemaps with one click in QGIS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T024132Z" creationid="miurahr" creationdate="20210122T024132Z">
+        <seg>`QuickMapServices` プラグインを使用すると、QGISで一回クリックするだけで、さまざまなマップサービスをベースマップとして追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickOSM` allows you to work quickly with OSM data in QGIS thanks to Overpass API.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023646Z" creationid="miurahr" creationdate="20210122T023646Z">
+        <seg>`QuickOSM` では、Overpass APIのおかげで、QGISでOSMデータをすばやく操作できます。</seg>
       </tuv>
     </tu>
     <tu>
