@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**.osm.bz2** contains raw OSM XML files `.osm`, `osm2pgsql`_ works well with them, find out more about working with them here https://wiki.openstreetmap.org/wiki/OSM_XML</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025321Z" creationid="miurahr" creationdate="20210122T025321Z">
+        <seg>**.osm.bz2** は、生のOSM XMLファイル `.osm`の圧縮形式で、 `osm2pgsql`_ を使うことで利用できます。利用方法の詳細については次のWikiを参照してください。 https://wiki.openstreetmap.org/wiki/OSM_XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**API Interface:** JavaScript</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T131035Z">
@@ -4582,6 +4590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add an OSM basemap from `Web --&gt; QuickMapServices --&gt; OSM`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T024944Z" creationid="miurahr" creationdate="20210122T024944Z">
+        <seg>`Web--&gt;QuickMapServices--&gt;OSM` からOSMベースマップを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add contacts / phone number |image39|</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053451Z" creationid="miurahr" creationdate="20201103T053451Z">
@@ -7102,6 +7118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose the region or country you are interested in.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025111Z" creationid="miurahr" creationdate="20210122T025111Z">
+        <seg>興味のある地域または国を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose to :menuselection:`Style --&gt; `Change Styles`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T225644Z" creationid="miurahr" creationdate="20201221T225644Z">
@@ -7344,6 +7368,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click `zoom to data` in the map canvas to navigate to your results</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025648Z" creationid="miurahr" creationdate="20210122T025648Z">
+        <seg>マップキャンパスで `zoom to data` をクリックし、検索結果へ移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click a label in any place to view more information about it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T000855Z" creationid="miurahr" creationdate="20201117T000855Z">
@@ -7548,6 +7580,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075858Z" creationid="miurahr" creationdate="20201103T075858Z">
         <seg>画面左側にあるカラムから、”選択”ツールをクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the button `Wizard` and paste the query to the search column `amenity=pub in "Buenos Aires"`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025550Z" creationid="miurahr" creationdate="20210122T025550Z">
+        <seg> `Wizard` ボタンをクリックし、`amenity=pub in "Buenos Aires"` という検索行をはりつけます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8948,6 +8988,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071046Z" creationid="miurahr" creationdate="20201103T071046Z">
         <seg>データのインポート・エクスポートは、コマンドラインツール (shp2pgsql、pgsql2shp、ogr2ogr、dxf2postgis) や、デスクトップ、Web GIS クライアントから可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data is provided in three formats: `.osm.pbf`, `.shp.zip` and `.osm.bz2`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025132Z" creationid="miurahr" creationdate="20210122T025132Z">
+        <seg>データは次の3つのフォーマットで提供されています: `.osm.pbf`, `.shp.zip` and `.osm.bz2`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12432,6 +12480,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Geofabrik</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025036Z" creationid="miurahr" creationdate="20210122T025036Z">
+        <seg>Geofabrik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Geographic JSON (GeoJSON)</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T084626Z" creationid="sanak" creationdate="20210102T084626Z">
@@ -13056,6 +13112,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HOT Export Tool</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025652Z" creationid="miurahr" creationdate="20210122T025652Z">
+        <seg>HOT Export Tool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hamish Bowman</seg>
       </tuv>
       <tuv lang="ja">
@@ -13152,6 +13216,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Have a look at the web client and download all the pubs in the FOSS4G city.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025442Z" creationid="miurahr" creationdate="20210122T025442Z">
+        <seg>Webクライアントを開いて、FOSS4Gの開催都市にある全てのパブ(居酒屋)をダウンロードしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Have a look at your output shapefile with QGIS and ogrinfo (you will learn more about ogrinfo later in this tutorial)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201116T130127Z">
@@ -13212,6 +13284,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T002927Z" creationid="miurahr" creationdate="20201117T002927Z">
         <seg>次の手順に従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here is a quickstart: https://export.hotosm.org/en/v3/learn/quick_start</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025812Z" creationid="miurahr" creationdate="20210122T025812Z">
+        <seg>クイックスタート: https://export.hotosm.org/en/v3/learn/quick_start</seg>
       </tuv>
     </tu>
     <tu>
@@ -20859,6 +20939,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open https://overpass-turbo.eu/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025454Z" creationid="miurahr" creationdate="20210122T025454Z">
+        <seg>https://overpass-turbo.eu/ を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open local data:</seg>
       </tuv>
       <tuv lang="ja">
@@ -21383,6 +21471,22 @@
       </tuv>
       <tuv lang="ja">
         <seg>オーバーレイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overpass turbo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025325Z" creationid="miurahr" creationdate="20210122T025325Z">
+        <seg>Overpass turbo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overpass turbo is a web based data mining tool for OpenStreetMap based on the Overpass-API.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025359Z" creationid="miurahr" creationdate="20210122T025359Z">
+        <seg>Overpass turbo は、Overpass APIをベースに、OpenStreetMap向けのWebベースのデータマイニングツールです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25592,6 +25696,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start working with OSM data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T024954Z" creationid="miurahr" creationdate="20210122T024954Z">
+        <seg>OSMデータで作業を開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start zyGrib</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133320Z" creationid="miurahr" creationdate="20201120T133320Z">
@@ -26487,6 +26599,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133436Z" creationid="miurahr" creationdate="20201120T133436Z">
         <seg>メキシコ湾やアフリカの南端にはしばしばダイナミックな風があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Humanitarian OpenStreetMap Team (HOT) provides an export tool for OpenStreetMap too.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025747Z" creationid="miurahr" creationdate="20210122T025738Z">
+        <seg>人道的OpenStreetMapチーム(HOT: The Humanitarian OpenStreetMap Team) でも、OpenStreetMapのエキスポートツールを提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28323,6 +28443,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then click the button `build and run query`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025607Z" creationid="miurahr" creationdate="20210122T025607Z">
+        <seg>次に、 `build and run query` をクリック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then drag the line to a new position.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052544Z" creationid="miurahr" creationdate="20201103T052537Z">
@@ -28455,6 +28583,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201116T231518Z">
         <seg>ここにはいくつかのオプションがありますが、 |UG| ではシェープファイルを直接開き、GUIを使用して簡単なスタイルを適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are several ways to download OpenStreetMap data for your region.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025022Z" creationid="miurahr" creationdate="20210122T025022Z">
+        <seg>OpenStreetMapデータをダウンロードする方法が複数あります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30248,6 +30384,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T082012Z" creationid="miurahr" creationdate="20201116T142837Z">
         <seg>データをアップロードするには、下部の *Upload* ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To use it you need an OSM account.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025752Z" creationid="miurahr" creationdate="20210122T025739Z">
+        <seg>これを使用するには、OSMアカウントが必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33158,6 +33302,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can download data in several formats and have history for your downloaded data and exports.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025802Z" creationid="miurahr" creationdate="20210122T025802Z">
+        <seg>いくつかの形式でデータをダウンロードし、ダウンロードしたデータとエクスポートの履歴を持つことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can download tutorials for the OpenJUMP here: https://sourceforge.net/projects/jump-pilot/files/Documentation/</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T230005Z" creationid="miurahr" creationdate="20201221T225855Z">
@@ -33306,6 +33458,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T230114Z" creationid="miurahr" creationdate="20201221T230114Z">
         <seg>OpenJUMPユーザーメーリングリスト:  https://groups.google.com/forum/#!forum/openjump-users で、すばやくヘルプを見ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can get the data in several formats.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025028Z" creationid="miurahr" creationdate="20210122T025028Z">
+        <seg>データは複数の形式で取得できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33522,6 +33682,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T230810Z" creationid="miurahr" creationdate="20201116T230810Z">
         <seg>データが他の場所にある場合は、ブラウズボタンを使用してディレクトリを検索できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use the following tools and services to extract OSM data for your area of interest.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025035Z" creationid="miurahr" creationdate="20210122T025035Z">
+        <seg>次のツールとサービスを使用して、対象エリアのOSMデータを抽出できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34398,6 +34566,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`.osm.pbf` and`.shp.zip` can be opened directly in QGIS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025151Z" creationid="miurahr" creationdate="20210122T025151Z">
+        <seg>`.osm.pbf` と`.shp.zip` は、QGISで直接開くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`API Docs &lt;../../openlayers/apidoc/&gt;`_</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021534Z" creationid="miurahr" creationdate="20201108T021534Z">
@@ -34522,6 +34698,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011708Z" creationid="miurahr" creationdate="20201103T011708Z">
         <seg>`GeoWebCache &lt;https://www.geowebcache.org&gt;`_ は GeoServer に統合されていて、 WMS などの様々なソースからタイル化して地図画像をキャッシュします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`Geofabrik &lt;https://download.geofabrik.de/&gt;`_ provides daily worldwide OpenStreetMap data extracts by subregion and country.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025102Z" creationid="miurahr" creationdate="20210122T025102Z">
+        <seg>`Geofabrik &lt;https://download.geofabrik.de/&gt;`_  は、地域や国ごとに、世界中の OpenStreetMap データを抽出して提供しています。</seg>
       </tuv>
     </tu>
     <tu>
