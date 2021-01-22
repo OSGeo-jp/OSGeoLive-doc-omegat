@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef7" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_4470bbb50" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32548,6 +32548,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Working with OSM data in QGIS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T023147Z" creationid="miurahr" creationdate="20210122T023147Z">
+        <seg>QGISでOSMデータを操作する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Write "python scripts/csv2istsos.py -p T_LUGANO -u http://localhost/istsos -s demo -w ~/Desktop" and press ENTER</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T034505Z" creationid="miurahr" creationdate="20201122T034505Z">
@@ -33426,6 +33434,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T082255Z" creationid="smellman" creationdate="20201101T111053Z">
         <seg>次のいずれかの帰属テキストを使用できます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may want to save the current view to return to it later or share it with a colleague.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T005042Z" creationid="miurahr" creationdate="20210122T005042Z">
+        <seg>You may want to save the current view to return to it later or share it with a colleague.</seg>
       </tuv>
     </tu>
     <tu>
