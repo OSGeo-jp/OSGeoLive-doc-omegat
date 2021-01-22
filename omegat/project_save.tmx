@@ -8032,6 +8032,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Command Line Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025903Z" creationid="miurahr" creationdate="20210122T025849Z">
+        <seg>コマンドライン クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Command-line clients run from within a Terminal Emulator window.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T040904Z" creationid="miurahr" creationdate="20201108T040904Z">
@@ -9532,6 +9540,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231106Z" creationid="miurahr" creationdate="20201116T231106Z">
         <seg>レイヤのプレビューは既定のスタイルを使用しているため、あまり見栄えがしなくても心配ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Don't worry.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025921Z" creationid="miurahr" creationdate="20210122T025921Z">
+        <seg>心配しないでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14995,6 +15011,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this quickstart you will learn some basic commands.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025931Z" creationid="miurahr" creationdate="20210122T025931Z">
+        <seg>このクイックスタートでは、いくつかの基本的なコマンドについて学習します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this step we will set-up an empty HTML page which will contain the application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053851Z" creationid="miurahr" creationdate="20201103T053851Z">
@@ -15847,6 +15871,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052249Z" creationid="miurahr" creationdate="20201102T052249Z">
         <seg>iDよりも強力かつ複雑であり、大量編集、オフライン、または信頼性の低いインターネット接続に使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is not difficult to learn and you will discover that it is fun and very powerful.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025927Z" creationid="miurahr" creationdate="20210122T025927Z">
+        <seg>学習することは難しくありません。そして、それが楽しくてとても強力であることがわかるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25640,6 +25672,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start a Terminal Emulator (`QTerminal` currently) from the `Applications` menu in the `System Tools` section.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T030458Z" creationid="miurahr" creationdate="20210122T030331Z">
+        <seg>`アプリケーション` メニューの `システムツール`  から、ターミナルエミュレータ (現在は `QTerminal` )を起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start a terminal.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113600Z" creationid="miurahr" creationdate="20201103T113600Z">
@@ -27503,6 +27543,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021425Z" creationid="miurahr" creationdate="20201108T021420Z">
         <seg>次のコードでは、マップのインスタンスにイベントを登録し、ポインタが移動するたびに通知されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following commands run from within a Terminal Emulator window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025957Z" creationid="miurahr" creationdate="20210122T025957Z">
+        <seg>次のコマンドは、ターミナルエミュレータウィンドウから実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32668,6 +32716,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you work with GNU/Linux Operating Systems such as OSGeoLive, Ubuntu, etc., it is good to know how to work on the command line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T025917Z" creationid="miurahr" creationdate="20210122T025853Z">
+        <seg>OSGeoLiveやUbuntuなどのGNU/Linuxオペレーティングシステムを使用している場合は、コマンドラインでの操作方法を知っておくことをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you're done, click the red power button to close.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133802Z" creationid="miurahr" creationdate="20201120T133802Z">
@@ -35202,6 +35258,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>`ローカルの eBook &lt;file:///usr/local/share/doc/Getting_Started_with_Ubuntu_13.10.pdf&gt;`_ と `拡張オンラインヘルプ &lt;https://help.ubuntu.com&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`pwd` shows the path of your current location.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210122T030511Z" creationid="miurahr" creationdate="20210122T030511Z">
+        <seg>`pwd` は現在の場所のパスを表示します。</seg>
       </tuv>
     </tu>
     <tu>
