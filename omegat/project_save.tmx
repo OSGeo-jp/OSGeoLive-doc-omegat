@@ -2998,6 +2998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*When this process is complete, a notice will appear in the right of the window indicating that 5 record(s) have been added for schema ‘iso19139’.*</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T161221Z" creationid="sanak" creationdate="20210126T161221Z">
+        <seg>*このプロセスが完了すると、ウィンドウの右側に、スキーマ「iso19139」に5つのレコードが追加されたことを示す通知が表示されます。*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*You must however never upload these fictitious data to the database.*</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T072406Z" creationid="miurahr" creationdate="20201103T072406Z">
@@ -3944,8 +3952,8 @@
       <tuv lang="en-US">
         <seg>A Web Mapping Service (WMS) or Web Feature Service (WFS) link to the data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134147Z" creationid="miurahr" creationdate="20201116T134147Z">
-        <seg>Web Mapping Service(WMS)またはWeb Feature Service(WFS)がデータにリンクしています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T161501Z" creationid="miurahr" creationdate="20201116T134147Z">
+        <seg>Web Mapping Service (WMS) または Web Feature Service (WFS) がデータにリンクしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11450,8 +11458,8 @@
       <tuv lang="en-US">
         <seg>From the **Search tab**, click on the card for **Physiographic Map of North and Central Eurasia (Sample record, please remove!)** to view the metadata.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T075004Z" creationid="miurahr" creationdate="20201116T134100Z">
-        <seg>**検索タブ** から、 **Physiographic Region of North and Central Eurasia(これはサンプルです。削除できます!)** のカードをクリックしてメタデータをビューに移動します。マップ</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T161435Z" creationid="miurahr" creationdate="20201116T134100Z">
+        <seg>**検索タブ** から、 **Physiographic Region of North and Central Eurasia (これはサンプルです。削除できます!)** のカードをクリックしてメタデータをビューに移動します。マップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -15635,6 +15643,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It builds upon an Open Source stack of software which includes Python, :doc:`MapServer &lt;../overview/mapserver_overview&gt;`, Django/GeoDjango, :doc:`GDAL &lt;../overview/gdal_overview&gt;`,  :doc:`PROJ &lt;../overview/proj_overview&gt;` and a :doc:`SpatiaLite &lt;../overview/spatialite_overview&gt;` or :doc:`PostGIS &lt;../overview/postgis_overview&gt;` database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T161837Z" creationid="sanak" creationdate="20210126T161837Z">
+        <seg>これは、Python、:doc:`MapServer &lt;../overview/mapserver_overview&gt;`、  Django/GeoDjango、:doc:`GDAL &lt;../overview/gdal_overview&gt;`、:doc:`PROJ &lt;../overview/proj_overview&gt;` と  :doc:`SpatiaLite &lt;../overview/spatialite_overview&gt;`  または  :doc:`PostGIS &lt;../overview/postgis_overview&gt;` データベースを含むソフトウェアのオープンソーススタック上に構築されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It builds upon an Open Source stack of software which includes Python, :doc:`MapServer &lt;../overview/mapserver_overview&gt;`, Django/GeoDjango, :doc:`GDAL &lt;../overview/gdal_overview&gt;`,  :doc:`PROJ.4 &lt;../overview/proj4_overview&gt;` and a :doc:`SpatiaLite &lt;../overview/spatialite_overview&gt;` or :doc:`PostGIS &lt;../overview/postgis_overview&gt;` database.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210121T135349Z" creationid="sanak" creationdate="20210121T135349Z">
@@ -17461,8 +17477,8 @@
       <tuv lang="en-US">
         <seg>Manage existing layers or change the background map (the default is openstreetmap),</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134242Z" creationid="miurahr" creationdate="20201116T134242Z">
-        <seg>既存のレイヤーを管理するか、背景のマップを変更します(既定はOpenStreetMap)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T161510Z" creationid="miurahr" creationdate="20201116T134242Z">
+        <seg>既存のレイヤーを管理するか、背景のマップを変更します (既定はOpenStreetMap)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24642,8 +24658,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select the **paintbrush** icon next to the layer to see the legend, showing you the classification used for the display.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T075102Z" creationid="miurahr" creationdate="20201116T134453Z">
-        <seg>レイヤの横にある **paintbrush** アイコンを選択すると、凡例が表示され、表示に使用された分類が表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T161727Z" creationid="miurahr" creationdate="20201116T134453Z">
+        <seg>レイヤの横にある **ペイントブラシ** アイコンを選択すると、凡例が表示され、表示に使用された分類が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34536,8 +34552,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Zoom to your position (if your browser is location-enabled),</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134355Z" creationid="miurahr" creationdate="20201116T134355Z">
-        <seg>自分の位置にズームします(ブラウザがロケーション対応の場合)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T161517Z" creationid="miurahr" creationdate="20201116T134355Z">
+        <seg>自分の位置にズームします (ブラウザがロケーション対応の場合)。</seg>
       </tuv>
     </tu>
     <tu>
