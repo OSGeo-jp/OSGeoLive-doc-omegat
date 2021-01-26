@@ -2502,6 +2502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Website:** https://grass.osgeo.org/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T163541Z" creationid="sanak" creationdate="20210126T163541Z">
+        <seg>**Webサイト:** https://grass.osgeo.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Website:** https://inspire.ec.europa.eu/about-inspire/563</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T175834Z" creationid="sanak" creationdate="20210102T175834Z">
@@ -20191,6 +20199,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T090951Z" creationid="miurahr" creationdate="20201103T011857Z">
         <seg>OSGeoLive のアプリケーションで  GeoTools を利用しているのは次のものです: :doc:`52nSOS_overview`, :doc:`52nWPS_overview`, AtlasStyler, :doc:`geomajas_overview`, Geopublisher, :doc:`geoserver_overview`, 及び :doc:`udig_overview` 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeoLive applications which include GeoTools include: :doc:`52nSOS_overview`, :doc:`52nWPS_overview`, AtlasStyler, Geomajas, Geopublisher, :doc:`geoserver_overview`, and :doc:`udig_overview`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T163726Z" creationid="sanak" creationdate="20210126T163726Z">
+        <seg>OSGeoLive のアプリケーションで  GeoTools を利用しているのは次のものです: :doc:`52nSOS_overview`, :doc:`52nWPS_overview`, AtlasStyler, Geomajas, Geopublisher, :doc:`geoserver_overview`, 及び :doc:`udig_overview`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42194,6 +42210,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|OSGeo_community| :doc:`proj4_overview` - [:doc:`クイックスタート &lt;../quickstart/proj4_quickstart&gt;`] - 座標参照系ライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_community| :doc:`proj_overview` - [:doc:`Quickstart &lt;../quickstart/proj_quickstart&gt;`] - Coordinate Reference System Libraries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T163528Z" creationid="sanak" creationdate="20210126T163528Z">
+        <seg>|OSGeo_community| :doc:`proj_overview` - [:doc:`クイックスタート &lt;../quickstart/proj_quickstart&gt;`] - 座標参照系ライブラリ</seg>
       </tuv>
     </tu>
     <tu>
