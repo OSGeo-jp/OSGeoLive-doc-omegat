@@ -5142,6 +5142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All Pairs Shortest Path * Johnson’s Algorithm * Floyd-Warshall Algorithm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T162429Z" creationid="sanak" creationdate="20210126T162429Z">
+        <seg>全点対間最短経路探索 * ジョンソンのアルゴリズム * ワーシャル-フロイド法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Pairs Shortest Path, Floyd-Warshall Algorithm</seg>
       </tuv>
       <tuv lang="ja">
@@ -6306,6 +6314,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>双方向ダイクストラ法による最短経路探索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bi-directional Shortest Path * A* algorithm * Dijkstra algorithm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T162650Z" creationid="sanak" creationdate="20210126T162650Z">
+        <seg>双方向最短経路探索 * A* アルゴリズム * ダイクストラ法</seg>
       </tuv>
     </tu>
     <tu>
@@ -8964,6 +8980,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014232Z" creationid="miurahr" creationdate="20201103T014232Z">
         <seg>データや属性を、多くのクライアント、例えば :doc:`QGIS &lt;qgis_overview&gt;` や :doc:`uDig &lt;udig_overview&gt;` から、JDBC や ODBC、もしくは 直接 PL/pgSQL を発行することで、変更することが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data and attributes can be modified by many clients, like :doc:`qgis_overview` and :doc:`udig_overview` through JDBC, ODBC, or directly using Pl/pgSQL.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T162314Z" creationid="sanak" creationdate="20210126T162314Z">
+        <seg>データや属性を、多くのクライアント、例えば :doc:`qgis_overview` や :doc:`udig_overview` から、JDBC や ODBC、もしくは 直接 PL/pgSQL を発行することで、変更することが可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16627,6 +16651,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>K-Shortest Path * Yen's algorithm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T163022Z" creationid="sanak" creationdate="20210126T163022Z">
+        <seg>K-最短経路探索 * Yen's algorithm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>K-Shortest Path, Multiple Alternative Paths</seg>
       </tuv>
       <tuv lang="ja">
@@ -22507,6 +22539,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Processes are written in the Python programming language and can integrate tools such as :doc:`GRASS GIS &lt;grass_overview&gt;`, :doc:`R &lt;R_overview&gt;`, :doc:`GDAL/OGR &lt;gdal_overview&gt;`, :doc:`proj &lt;proj_overview&gt;` and other libraries with Python bindings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T162008Z" creationid="sanak" creationdate="20210126T162008Z">
+        <seg>プロセスは、 Python プログラミング言語で実装されており、 :doc:`GRASS GIS &lt;grass_overview&gt;`, :doc:`R &lt;R_overview&gt;`, :doc:`GDAL/OGR &lt;gdal_overview&gt;`, :doc:`proj &lt;proj_overview&gt;` などのライブラリを、Pythonバインディングを通じて統合できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Processes are written in the Python programming language and can integrate tools such as :doc:`GRASS GIS &lt;grass_overview&gt;`, :doc:`R &lt;R_overview&gt;`, :doc:`GDAL/OGR &lt;gdal_overview&gt;`, :doc:`proj.4 &lt;proj4_overview&gt;` and other libraries with Python bindings.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T032042Z" creationid="miurahr" creationdate="20201220T032042Z">
@@ -22543,6 +22583,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T055348Z" creationid="miurahr" creationdate="20201102T052222Z">
         <seg>OSMデータを扱うプログラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proj</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T161923Z" creationid="sanak" creationdate="20210126T161923Z">
+        <seg>Proj</seg>
       </tuv>
     </tu>
     <tu>
@@ -25004,6 +25052,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T145116Z" creationid="miurahr" creationdate="20201116T145116Z">
         <seg>あなたのマップを共有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shortest Path * A* algorithm * Dijkstra algorithm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T162618Z" creationid="sanak" creationdate="20210126T162618Z">
+        <seg>最短経路探索 * A* アルゴリズム * ダイクストラ法</seg>
       </tuv>
     </tu>
     <tu>
@@ -40070,6 +40126,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>pgRouting extends the :doc:`postgis_overview`/`PostgreSQL &lt;https://www.postgresql.org&gt;`__ geospatial database to provide geospatial routing and other network analysis functionality.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T162156Z" creationid="sanak" creationdate="20210126T162156Z">
+        <seg>pgRouting は地理空間における経路探索や他のネットワーク解析機能を提供するために :doc:`postgis_overview`/`PostgreSQL &lt;https://www.postgresql.org&gt;`__ 地理空間データベースを拡張します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pgRouting is an extension that adds routing and other network analysis functionality to :doc:`PostGIS &lt;../overview/postgis_overview&gt;`/`PostgreSQL &lt;https://www.postgresql.org&gt;`_ databases.</seg>
       </tuv>
       <tuv lang="ja">
@@ -40082,6 +40146,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>pgRouting は GPLv2 ライセンスで提供され、個人、企業及び団体からなる、成長中のコミュニティによってサポートされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pgRouting is available under the GPLv2+ license and is supported by a growing community of individuals, businesses and organizations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T162350Z" creationid="sanak" creationdate="20210126T162350Z">
+        <seg>pgRouting は GPLv2+ ライセンスで提供され、個人、企業及び団体からなる、成長中のコミュニティによってサポートされています。</seg>
       </tuv>
     </tu>
     <tu>
