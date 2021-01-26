@@ -9944,6 +9944,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>EOxServer builds upon an Open Source stack of software which includes Python, :doc:`MapServer &lt;mapserver_overview&gt;`, Django/GeoDjango, :doc:`GDAL &lt;gdal_overview&gt;`, PROJ, and a :doc:`SpatiaLite &lt;spatialite_overview&gt;` or :doc:`PostGIS &lt;postgis_overview&gt;` database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T164128Z" creationid="sanak" creationdate="20210126T164128Z">
+        <seg>EOxServerは、Python、:doc:`MapServer &lt;mapserver_overview&gt;`、Django/GeoDjango、:doc:`GDAL &lt;gdal_overview&gt;`、PROJ と :doc:`SpatiaLite &lt;spatialite_overview&gt;` または :doc:`PostGIS &lt;postgis_overview&gt;` データベースを含むソフトウェアのオープンソーススタック上に構築されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>EOxServer builds upon an Open Source stack of software which includes Python, :doc:`MapServer &lt;mapserver_overview&gt;`, Django/GeoDjango, :doc:`GDAL &lt;gdal_overview&gt;`, PROJ.4, and a :doc:`SpatiaLite &lt;spatialite_overview&gt;` or :doc:`PostGIS &lt;postgis_overview&gt;` database.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T224641Z" creationid="miurahr" creationdate="20201123T224641Z">
@@ -35562,6 +35570,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>既存の WMS を10〜100倍高速化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>actinia</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T164436Z" creationid="sanak" creationdate="20210126T164436Z">
+        <seg>actinia</seg>
       </tuv>
     </tu>
     <tu>
