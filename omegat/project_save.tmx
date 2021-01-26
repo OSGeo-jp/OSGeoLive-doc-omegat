@@ -13514,8 +13514,8 @@
       <tuv lang="en-US">
         <seg>Here’s a few resources to check out next:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T125049Z" creationid="miurahr" creationdate="20201116T125049Z">
-        <seg>次に、いくつかのをいくつか紹介しましょう。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T170424Z" creationid="miurahr" creationdate="20201116T125049Z">
+        <seg>次にチェックすべきリソースはこちらです:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14106,8 +14106,8 @@
       <tuv lang="en-US">
         <seg>If you are already in the OSGeoLive environment, read the local copy of the `EOxServer Users' local documentation &lt;https://localhost/eoxserver-docs/EOxServer_documentation.pdf&gt;`_</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T150312Z" creationid="miurahr" creationdate="20201116T125242Z">
-        <seg>すでにOSGeoLive環境にいる場合は、メディアにはいっている `EOxServer Users' local documentation &lt;https://localhost/eoxserver-docs/EOxServer_documentation.pdf&gt;`_ をお読みください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T170210Z" creationid="miurahr" creationdate="20201116T125242Z">
+        <seg>すでにOSGeoLive環境にいる場合は、メディアにはいっている `EOxServer ユーザーズ・ローカルドキュメント &lt;https://localhost/eoxserver-docs/EOxServer_documentation.pdf&gt;`_ を読んでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18557,8 +18557,8 @@
       <tuv lang="en-US">
         <seg>More information can be found in the `operators' guide &lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T144548Z" creationid="miurahr" creationdate="20201116T124738Z">
-        <seg>詳細については、 `運用者ガイド &lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_ を参照してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T170047Z" creationid="miurahr" creationdate="20201116T124738Z">
+        <seg>詳細については、 `オペレーターズ・ガイド &lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_ を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23418,8 +23418,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Read the `EOxServer Operators' Guide &lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T150210Z" creationid="miurahr" creationdate="20201116T125130Z">
-        <seg> `EOxServer Operators' Guide &lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_ を読んでください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T170059Z" creationid="miurahr" creationdate="20201116T125130Z">
+        <seg>`EOxServer オペレーターズ・ガイド &lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_ を読んでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23434,8 +23434,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Read the complete `EOxServer Users' documentation &lt;https://docs.eoxserver.org/en/latest/users/index.html&gt;`_ starting from the `EOxServer Basics &lt;https://docs.eoxserver.org/en/latest/users/basics.html&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T150251Z" creationid="miurahr" creationdate="20201116T125154Z">
-        <seg> `EOxServer Basics &lt;https://docs.eoxserver.org/en/latest/users/basics.html&gt;`_ から始まる完全な `EOxServer Users' documentation &lt;https://docs.eoxserver.org/en/latest/users/index.html&gt;`_ を読んでください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T170116Z" creationid="miurahr" creationdate="20201116T125154Z">
+        <seg>`EOxServer Basics &lt;https://docs.eoxserver.org/en/latest/users/basics.html&gt;`_ から始まる完全な `EOxServer ユーザーズ・ドキュメント &lt;https://docs.eoxserver.org/en/latest/users/index.html&gt;`_ を読んでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24490,8 +24490,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>See the :doc:`EOxServer Overview &lt;../overview/eoxserver_overview&gt;` for more information.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T150152Z" creationid="miurahr" creationdate="20201116T125110Z">
-        <seg>詳細については、 :doc:`EOxServer Overview &lt;../overview/eoxserver_overview&gt;` を参照してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T170451Z" creationid="miurahr" creationdate="20201116T125110Z">
+        <seg>詳細については、:doc:`EOxServer Overview &lt;../overview/eoxserver_overview&gt;` を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27221,8 +27221,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The `Admin Client` is Djangos standard admin and allows you to configure the available data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T144506Z" creationid="miurahr" creationdate="20201116T124639Z">
-        <seg> `Admin Client` はDjangos標準の管理者であり、利用可能なデータを設定できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T165535Z" creationid="miurahr" creationdate="20201116T124639Z">
+        <seg>`Admin Client` はDjangos標準の管理者であり、利用可能なデータを設定できます。</seg>
       </tuv>
     </tu>
     <tu>
