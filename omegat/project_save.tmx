@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_4470bbb50" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef7" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6178,6 +6178,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T021424Z" creationid="miurahr" creationdate="20201122T021411Z">
         <seg>コマンドラインから作業する前に、ターミナルウィンドウ::menuselection:`システムツール-&gt;LXTerminal`を開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Before working from the command line, we need to open a terminal window: :menuselection:`System Tools -&gt; LXTerminal`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T154903Z" creationid="sanak" creationdate="20210126T154903Z">
+        <seg>Before working from the command line, we need to open a terminal window: :menuselection:`System Tools -&gt; LXTerminal`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13484,6 +13492,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Hirofumi Hayashi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hiroshi Miura</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T154148Z" creationid="sanak" creationdate="20210126T154148Z">
+        <seg>Hiroshi Miura</seg>
       </tuv>
     </tu>
     <tu>
@@ -23776,6 +23792,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Run as per: :doc:`osgeolive_quickstart`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T154555Z" creationid="sanak" creationdate="20210126T154555Z">
+        <seg>:doc:`osgeolive_quickstart` のように実行します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Run spatialite from the command line</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T013800Z" creationid="miurahr" creationdate="20201122T013800Z">
@@ -26364,6 +26388,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>モバイル端末上でのタップ操作の遅延除去</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taro Matsuzawa</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T154146Z" creationid="sanak" creationdate="20210126T154146Z">
+        <seg>Taro Matsuzawa</seg>
       </tuv>
     </tu>
     <tu>
@@ -37766,6 +37798,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>https://www.mydigitallife.net/comprehensive-list-of-how-key-to-press-to-access-bios-for-various-oem-and-computer-systems/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T154340Z" creationid="sanak" creationdate="20210126T154340Z">
+        <seg>https://www.mydigitallife.net/comprehensive-list-of-how-key-to-press-to-access-bios-for-various-oem-and-computer-systems/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>hu</seg>
       </tuv>
       <tuv lang="ja">
@@ -39258,6 +39298,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>misev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>miurahr</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T154157Z" creationid="sanak" creationdate="20210126T154157Z">
+        <seg>miurahr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>miurahr osmf jp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T154149Z" creationid="sanak" creationdate="20210126T154149Z">
+        <seg>miurahr osmf jp</seg>
       </tuv>
     </tu>
     <tu>
@@ -41114,6 +41170,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>tanner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>taro georepublic co jp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T154147Z" creationid="sanak" creationdate="20210126T154147Z">
+        <seg>taro georepublic co jp</seg>
       </tuv>
     </tu>
     <tu>
