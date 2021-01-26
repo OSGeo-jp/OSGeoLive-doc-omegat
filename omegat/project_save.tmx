@@ -6184,8 +6184,8 @@
       <tuv lang="en-US">
         <seg>Before working from the command line, we need to open a terminal window: :menuselection:`System Tools -&gt; LXTerminal`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210126T154903Z" creationid="sanak" creationdate="20210126T154903Z">
-        <seg>Before working from the command line, we need to open a terminal window: :menuselection:`System Tools -&gt; LXTerminal`.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T155300Z" creationid="sanak" creationdate="20210126T154903Z">
+        <seg>コマンドラインから作業する前に、ターミナルウィンドウ: :menuselection:`System Tools -&gt; LXTerminal` を開いてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9840,6 +9840,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dublin Core (dublin core)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T155741Z" creationid="sanak" creationdate="20210126T155741Z">
+        <seg>Dublin Core (dublin core)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dublin Core (for CSW only) (csw-record)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T155740Z" creationid="sanak" creationdate="20210126T155740Z">
+        <seg>Dublin Core (for CSW only) (csw-record)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dynamic Geospatial Visualization:</seg>
       </tuv>
       <tuv lang="ja">
@@ -10802,8 +10818,8 @@
       <tuv lang="en-US">
         <seg>Finally, we output the query to a "comma separated values" text file "schools_rt42.txt" with the following commands::</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T021815Z" creationid="miurahr" creationdate="20201122T021815Z">
-        <seg>最後に、次のコマンドを使用して、クエリを"comma separated values"テキストファイル"schools_rt42.txt"に出力します::</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T155128Z" creationid="miurahr" creationdate="20201122T021815Z">
+        <seg>最後に、次のコマンドを使用して、クエリを "カンマ区切り" のテキストファイル "schools_rt42.txt" に出力します::</seg>
       </tuv>
     </tu>
     <tu>
@@ -11236,6 +11252,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133531Z" creationid="miurahr" creationdate="20201116T133531Z">
         <seg>このクイックスタートガイドでは、[地理情報メタデータ(iso19139)]を選択し、一覧の下にある青い**[選択された標準のサンプルをロード**]ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the purposes of this Quick Start Guide, select ``Geographic information - Metadata (iso19139:2007)`` and then select first the **Load samples for selected standards** button below the list.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T161059Z" creationid="sanak" creationdate="20210126T155752Z">
+        <seg>このクイックスタートガイドでは、 ``Geographic information - Metadata (iso19139:2007)`` を選択し、一覧の下にある **Load samples for selected standards** ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12516,6 +12540,30 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T084626Z" creationid="sanak" creationdate="20210102T084626Z">
         <seg>Geographic JSON (GeoJSON)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geographic information - Metadata (iso19115-3.2018)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T155737Z" creationid="sanak" creationdate="20210126T155737Z">
+        <seg>Geographic information - Metadata (iso19115-3.2018)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geographic information - Metadata (iso19139:2007)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T155736Z" creationid="sanak" creationdate="20210126T155736Z">
+        <seg>Geographic information - Metadata (iso19139:2007)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geographic information - Methodology for feature cataloguing (iso9110)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T155742Z" creationid="sanak" creationdate="20210126T155742Z">
+        <seg>Geographic information - Methodology for feature cataloguing (iso9110)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24392,6 +24440,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select **Admin console** in the top toolbar to access the administrative functions in the catalog, then select the **Metadata and templates** menuitem to access the sample data and templates tab.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T155609Z" creationid="sanak" creationdate="20210126T155503Z">
+        <seg>トップツールバーの **管理コンソール** を選択してカタログ内の管理機能にアクセスし、 **メタデータとテンプレート** メニューを選択してサンプルデータとテンプレートタブにアクセスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select **Admin console** in the top toolbar to access the administrative functions in the catalog, then select the blue **Metadata and templates** button to access the sample data and templates tab.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133452Z" creationid="miurahr" creationdate="20201116T133452Z">
@@ -27435,6 +27491,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The default standards in GeoNetwork are:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T155731Z" creationid="sanak" creationdate="20210126T155731Z">
+        <seg>GeoNetwork の既定の標準規格は次のとおりです:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The demo data are published under a |CC BY 3.0| License.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T050940Z" creationid="sanak" creationdate="20201103T072137Z">
@@ -29416,6 +29480,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T014657Z" creationid="miurahr" creationdate="20201117T014657Z">
         <seg>これで、ラスタレイヤがマップフレームの他のすべてのレイヤの上にレンダリングされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This page lists all the metadata standards loaded in the catalog.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T155634Z" creationid="sanak" creationdate="20210126T155528Z">
+        <seg>このページには、カタログにロードされているすべてのメタデータ標準が一覧表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37774,6 +37846,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>https://wiki.postgresql.org/wiki/Foreign_data_wrappers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T155335Z" creationid="sanak" creationdate="20210126T155335Z">
+        <seg>https://wiki.postgresql.org/wiki/Foreign_data_wrappers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>https://www.geomoose.org/</seg>
       </tuv>
       <tuv lang="ja">
@@ -42562,6 +42642,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|image45|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|image4|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T155359Z" creationid="sanak" creationdate="20210126T155359Z">
+        <seg>|image4|</seg>
       </tuv>
     </tu>
     <tu>
