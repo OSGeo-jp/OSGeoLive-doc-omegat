@@ -5430,6 +5430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>And many more</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T163253Z" creationid="sanak" creationdate="20210126T163253Z">
+        <seg>その他多数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Andrea Antonello</seg>
       </tuv>
       <tuv lang="ja">
@@ -16653,8 +16661,8 @@
       <tuv lang="en-US">
         <seg>K-Shortest Path * Yen's algorithm</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210126T163022Z" creationid="sanak" creationdate="20210126T163022Z">
-        <seg>K-最短経路探索 * Yen's algorithm</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T163157Z" creationid="sanak" creationdate="20210126T163022Z">
+        <seg>K-最短経路探索 * Yen のアルゴリズム</seg>
       </tuv>
     </tu>
     <tu>
@@ -17007,6 +17015,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>MapServerの `EXPRESSIONS &lt;https://mapserver.org/mapfile/expressions.html&gt;`_ の詳細をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Learn more about pgRouting in the `documentation &lt;http://docs.pgrouting.org&gt;`__.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210126T163409Z" creationid="sanak" creationdate="20210126T163409Z">
+        <seg>pgRouting についてもっと知りたい場合は `ドキュメント &lt;http://docs.pgrouting.org&gt;`__ を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
