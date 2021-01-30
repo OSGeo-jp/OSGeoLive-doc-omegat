@@ -8264,6 +8264,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Connect to the `city_routing` database</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T072753Z" creationid="sanak" creationdate="20210130T072753Z">
+        <seg>`city_routing` データベースに接続します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contact Us</seg>
       </tuv>
       <tuv lang="ja">
@@ -26768,6 +26776,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The :command:`\\d` command will list all available tables and sequences</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T072856Z" creationid="sanak" creationdate="20210130T072856Z">
+        <seg>:command:`\\d` コマンドは利用可能なすべてのテーブルとシーケンスをリストしますwill list</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The :doc:`OpenCPN software &lt;../overview/opencpn_overview&gt;` (also on this disc) has a GRIB overlay plugin which you may try with your newly downloaded GRIB file.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T071910Z" creationid="miurahr" creationdate="20201120T133817Z">
@@ -40034,6 +40050,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210130T071601Z" creationid="sanak" creationdate="20210130T071601Z">
         <seg>osm2pgrouting は、pgRouting互換形式でデータベースに `.osm` ファイルをロードするためのコマンドラインツールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>osm2pgrouting loads the OSM identifiers `osm_id` and it also generates a unique identifier for all the data: `id` on the vertices, `gid` on the edges.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T073128Z" creationid="sanak" creationdate="20210130T073128Z">
+        <seg>osm2pgrouting は OSM 識別子 `osm_id` をロードし、すべてのデータに対して一意の識別子を生成します: 頂点に対しては `id`、エッジに対しては `gid` となります。</seg>
       </tuv>
     </tu>
     <tu>
