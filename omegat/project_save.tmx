@@ -15331,6 +15331,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inner Query</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T134744Z" creationid="sanak" creationdate="20210130T134744Z">
+        <seg>内部クエリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Input and Output formats supported:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041609Z" creationid="miurahr" creationdate="20201103T041609Z">
@@ -28423,6 +28431,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T124543Z" creationid="miurahr" creationdate="20201116T124543Z">
         <seg>結果はダウンロードウィジェットに表示され、ダウンロードするフォーマット、投影、データセットを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The results are:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T073304Z" creationid="sanak" creationdate="20210130T073304Z">
+        <seg>結果は次のとおりです:</seg>
       </tuv>
     </tu>
     <tu>
