@@ -15333,8 +15333,24 @@
       <tuv lang="en-US">
         <seg>Inner Query</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210130T134744Z" creationid="sanak" creationdate="20210130T134744Z">
-        <seg>内部クエリー</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T135554Z" creationid="sanak" creationdate="20210130T134744Z">
+        <seg>内部クエリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inner query that use `gid` as identifier of the segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T135537Z" creationid="sanak" creationdate="20210130T135419Z">
+        <seg>セグメントの識別子として `gid` を使用する内部クエリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inner query that use `gid` as identifier of the segments and lenght as `cost` without the optional `reverse_cost`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T135938Z" creationid="sanak" creationdate="20210130T135437Z">
+        <seg>セグメントの識別子として `gid`、長さを `cost` として使用する、オプションの `reverse_cost` なしの内部クエリ</seg>
       </tuv>
     </tu>
     <tu>
@@ -18701,8 +18717,8 @@
       <tuv lang="en-US">
         <seg>Most of the pgRouting functions have a parameter that is an SQL statement, it is called **inner query**</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210130T135002Z" creationid="sanak" creationdate="20210130T135002Z">
-        <seg>ほとんどの pgRouting 関数には SQL ステートメントであるパラメータがあり、これは **内部クエリー** と呼ばれます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T135559Z" creationid="sanak" creationdate="20210130T135002Z">
+        <seg>ほとんどの pgRouting 関数には SQL ステートメントであるパラメータがあり、これは **内部クエリ** と呼ばれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24044,6 +24060,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ダイクストラ法による最短経路探索関数を、無方向での移動を想定して実行します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run the Dijkstra shortest path function based on the time in seconds to traverse a segment on an undirected graph, using `id` as the identifier of a vertex</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T140643Z" creationid="sanak" creationdate="20210130T140643Z">
+        <seg>ダイクストラ法による最短経路探索関数を、無向グラフ上のセグメントを横断する時間(秒)に基づき、頂点の識別子として `id` を使用して実行します</seg>
       </tuv>
     </tu>
     <tu>
@@ -40346,6 +40370,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>pgRouting は以下の機能を提供します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pgr_Dijkstra</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T135941Z" creationid="sanak" creationdate="20210130T135941Z">
+        <seg>pgr_Dijkstra</seg>
       </tuv>
     </tu>
     <tu>
