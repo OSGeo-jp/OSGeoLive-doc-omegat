@@ -42910,6 +42910,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|nologo| :doc:`jupyter_overview` - [:doc:`Quickstart &lt;../quickstart/jupyter_quickstart&gt;`] - Mixing rich media in presentations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T070629Z" creationid="sanak" creationdate="20210130T070629Z">
+        <seg>|nologo| :doc:`jupyter_overview` - [:doc:`クイックスタート &lt;../quickstart/jupyter_quickstart&gt;`] - プレゼンテーションにリッチメディアを混在させる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|nologo| :doc:`leaflet_overview` - [:doc:`Quickstart &lt;../quickstart/leaflet_quickstart&gt;`] - Mobile Friendly Interactive Maps</seg>
       </tuv>
       <tuv lang="ja">
