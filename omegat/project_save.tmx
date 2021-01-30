@@ -5894,6 +5894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At the `psql` prompt type:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T071317Z" creationid="sanak" creationdate="20210130T071317Z">
+        <seg>`psql` プロンプトで次のように入力します::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At the bottom of that page is a file upload box and a browse button.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T234041Z" creationid="miurahr" creationdate="20201116T234041Z">
@@ -7042,6 +7050,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133334Z" creationid="miurahr" creationdate="20201120T133334Z">
         <seg>データサーバーへの接続をチェックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Check the imported data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T072740Z" creationid="sanak" creationdate="20210130T072740Z">
+        <seg>インポートしたデータをチェックします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Check the installed version</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T071653Z" creationid="sanak" creationdate="20210130T071653Z">
+        <seg>インストールされているバージョンを確認します</seg>
       </tuv>
     </tu>
     <tu>
@@ -10508,6 +10532,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013228Z" creationid="miurahr" creationdate="20201103T013228Z">
         <seg>OGCはOGCは、新しい技術トレンドを積極的に分析し予測し、メンバーのユースケースに対する革新的なプロトタイプソリューションを構築しとテストを行う、アジャイルの共同研究開発(R&amp;D)ラボであるOGCイノベーションプログラムを運営しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exit the database</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T071515Z" creationid="sanak" creationdate="20210130T071515Z">
+        <seg>データベースから抜けます</seg>
       </tuv>
     </tu>
     <tu>
@@ -17307,6 +17339,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Load the data from osm file:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T071737Z" creationid="sanak" creationdate="20210130T071737Z">
+        <seg>osmファイルからデータをロードします:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Loading OSM data with osm2pgrouting</seg>
       </tuv>
       <tuv lang="ja">
@@ -21639,6 +21679,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>出力は以下のような形となるはずです:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Output shows</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T071716Z" creationid="sanak" creationdate="20210130T071716Z">
+        <seg>出力が表示されます</seg>
       </tuv>
     </tu>
     <tu>
@@ -34534,6 +34582,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your version should be 3.1.0 or higher</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T071342Z" creationid="sanak" creationdate="20210130T071342Z">
+        <seg>バージョンは 3.1.0 かそれ以上である必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ZOO is based on a 'WPS Service Kernel' which constitutes the ZOO's core system (aka ZOO Kernel).</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T150513Z" creationid="miurahr" creationdate="20201221T034751Z">
@@ -39970,6 +40026,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T001920Z" creationid="miurahr" creationdate="20201117T001920Z">
         <seg>osm2pgroutingは、.osmファイルをpgRouting互換形式でロードするためのコマンドラインツールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>osm2pgrouting is a command-line tool for loading `.osm` files into the database with a pgRouting compatible format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T071601Z" creationid="sanak" creationdate="20210130T071601Z">
+        <seg>osm2pgrouting は、pgRouting互換形式でデータベースに `.osm` ファイルをロードするためのコマンドラインツールです。</seg>
       </tuv>
     </tu>
     <tu>
