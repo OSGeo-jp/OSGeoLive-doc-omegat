@@ -4214,6 +4214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A query that use the OSM identifier becomes:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T140934Z" creationid="sanak" creationdate="20210130T140656Z">
+        <seg>OSM 識別子を使用するクエリは次のようになります:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A rasdaman driver is part of GDAL and MapServer.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T014431Z" creationid="miurahr" creationdate="20201103T014431Z">
@@ -6186,6 +6194,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T070251Z" creationid="miurahr" creationdate="20201122T021945Z">
         <seg>チュートリアル `Spatialite cookbook`_ を必ず参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Because the query is using fields `source_osm` and `target_osm` the query aliases them to have the required names `source` and `target`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T141606Z" creationid="sanak" creationdate="20210130T141606Z">
+        <seg>クエリはフィールド `source_osm` と `target_osm` を使用しているので、クエリは `source` と `target` という必要な名前となるよう、別名を付けます。</seg>
       </tuv>
     </tu>
     <tu>
