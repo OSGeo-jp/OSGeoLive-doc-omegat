@@ -20995,6 +20995,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open a :menuselection:`System Tools --&gt; QTerminal` window and execute the commandline tool packaged with PostgreSQL `psql`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T071056Z" creationid="sanak" creationdate="20210130T071056Z">
+        <seg>:menuselection:`システムツール --&gt; QTerminal` ウィンドウを開き、PostgreSQL の `psql` コマンドラインツールを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open a new terminal window to verify the version of osm2pgrouting you have installed.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T001930Z" creationid="miurahr" creationdate="20201117T001930Z">
@@ -40178,6 +40186,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210126T162156Z" creationid="sanak" creationdate="20210126T162156Z">
         <seg>pgRouting は地理空間における経路探索や他のネットワーク解析機能を提供するために :doc:`postgis_overview`/`PostgreSQL &lt;https://www.postgresql.org&gt;`__ 地理空間データベースを拡張します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pgRouting is an extension that adds routing and other network analysis functionality to :doc:`../overview/postgis_overview`/`PostgreSQL &lt;https://www.postgresql.org&gt;`_ databases.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210130T070717Z" creationid="sanak" creationdate="20210130T070717Z">
+        <seg>pgRouting は、経路探索と他のネットワーク解析機能を :doc:`../overview/postgis_overview`/`PostgreSQL &lt;https://www.postgresql.org&gt;`_ データベースに追加する拡張機能です。</seg>
       </tuv>
     </tu>
     <tu>
