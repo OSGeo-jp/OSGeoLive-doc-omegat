@@ -4526,6 +4526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Access rights define whether a `user` or `group` or `others` have access to a file and what sort of access is given.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T060023Z" creationid="miurahr" creationdate="20210201T060023Z">
+        <seg>アクセス権は、 `ユーザ` または `グループ` または `他者` がファイルにアクセスできるかどうか、およびどのようなアクセスが与えられるかを定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Access shapefiles as VIRTUAL TABLEs, enabling standard SQL queries on external shapefiles, without importing or converting them</seg>
       </tuv>
       <tuv lang="ja">
@@ -5278,6 +5286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All files and directories are under the root directory (`/`).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055501Z" creationid="miurahr" creationdate="20210201T055501Z">
+        <seg>すべてのファイルとディレクトリは、ルートディレクトリ( `/` )の下にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All layers specified in the "*&amp;LAYERS=...*" property having *STATUS ON* in the Mapfile will be rendered in addition to all layers with *STATUS DEFAULT*.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T144408Z" creationid="miurahr" creationdate="20201103T022148Z">
@@ -5714,6 +5730,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052137Z" creationid="miurahr" creationdate="20201102T052137Z">
         <seg>OpenStreetMapは誰でも編集できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anytime you open a terminal window it will start in your home directory (see pwd).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055523Z" creationid="miurahr" creationdate="20210201T055523Z">
+        <seg>ターミナルウィンドウを開くと、ホームディレクトリから開きます(pwdを参照)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8616,6 +8640,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create a directory</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055716Z" creationid="miurahr" creationdate="20210201T055700Z">
+        <seg>ディレクトリを作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create a file in e.g. /home/user/ called basic-map.html , and copy the following content into the file.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T015328Z" creationid="miurahr" creationdate="20201108T015328Z">
@@ -9540,6 +9572,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Dimitar Misev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Directories or files have an owner and a group definition.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T060037Z" creationid="miurahr" creationdate="20210201T060037Z">
+        <seg>ディレクトリまたはファイルには、所有者とグループ定義があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11228,6 +11268,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T062553Z" creationid="miurahr" creationdate="20201108T041745Z">
         <seg>最初に ``dropdb`` コマンドを使って作成したデータベースを削除し、次に ``psql`` コマンドを使ってSQLコマンドインタプリタを取得します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First you should get to know how the file system under Linux is organized.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055422Z" creationid="miurahr" creationdate="20210201T055422Z">
+        <seg>まず、Linuxのファイルシステムがどのように構成されているかを知っておく必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13928,6 +13976,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How to create a new file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055738Z" creationid="miurahr" creationdate="20210201T055738Z">
+        <seg>新しいファイルを作成する方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How to navigate in the file system?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055415Z" creationid="miurahr" creationdate="20210201T055415Z">
+        <seg>ファイルシステム内での操作方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Howard Butler</seg>
       </tuv>
       <tuv lang="ja">
@@ -15684,6 +15748,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Install programs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055928Z" creationid="miurahr" creationdate="20210201T055928Z">
+        <seg>インストールプログラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Install the extension ``ogr_fdw`` in your database.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T063617Z" creationid="miurahr" creationdate="20201117T003212Z">
@@ -16400,6 +16472,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T170809Z" creationid="miurahr" creationdate="20201103T011121Z">
         <seg>さまざまな一般的なハードウェアプラットフォーム上で動作し、GNU General Public License の条件に基づいてリリースされたフリーのオープンソースソフトウェアです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It starts with the `/` known as root directory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055449Z" creationid="miurahr" creationdate="20210201T055429Z">
+        <seg>ルートディレクトリと呼ばれる `/` で始まります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19360,6 +19440,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054040Z" creationid="miurahr" creationdate="20201103T054040Z">
         <seg>次に、アプリケーションが使用するOpenLayersオブジェクトを設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next we will create a directory for some command line tests.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055729Z" creationid="miurahr" creationdate="20210201T055729Z">
+        <seg>次に、コマンドラインテスト用のディレクトリを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24833,6 +24921,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Search for programs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055943Z" creationid="miurahr" creationdate="20210201T055943Z">
+        <seg>プログラムを検索する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Search for spatial data</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133540Z" creationid="miurahr" creationdate="20201116T133540Z">
@@ -25393,6 +25489,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Services</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055923Z" creationid="miurahr" creationdate="20210201T055923Z">
+        <seg>サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Services contain the algorithms and functions, and can now be implemented in C/C++, Fortran, Java, Python, PHP, Ruby, C# and JavaScript.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T154231Z" creationid="miurahr" creationdate="20201221T034821Z">
@@ -25533,6 +25637,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T001936Z" creationid="miurahr" creationdate="20201117T001936Z">
         <seg>2.1以上の値が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show me what is in a directory</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055811Z" creationid="miurahr" creationdate="20210201T055811Z">
+        <seg>ディレクトリの内容を表示する</seg>
       </tuv>
     </tu>
     <tu>
@@ -28020,6 +28132,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The current user is "`user`" and has a home directory located at `/home/user`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055515Z" creationid="miurahr" creationdate="20210201T055515Z">
+        <seg>現在のユーザーは「 `user` 」で、 `/home/user` にホームディレクトリがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The data can be transmitted using GML (compressed) as well as other standard data formats like shapefile and json.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011644Z" creationid="miurahr" creationdate="20201103T011644Z">
@@ -28176,6 +28296,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053934Z" creationid="miurahr" creationdate="20201103T053934Z">
         <seg>このファイルには、ExtJSおよびOpenLayers JavaScriptライブラリへのリンクと、ExtJSおよびOpenLayersコンポーネントのスタイル設定に使用される2つのCSSファイルが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The file system is organized in a tree.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055436Z" creationid="miurahr" creationdate="20210201T055427Z">
+        <seg>ファイルシステムは樹木(ツリー)状に構成されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30025,6 +30153,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075313Z" creationid="miurahr" creationdate="20201103T073451Z">
         <seg>オブジェクトの位置を変更したい場合や、オブジェクトの形を変更したい場合はこのようにして行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is not the same as `/user`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055654Z" creationid="miurahr" creationdate="20210201T055654Z">
+        <seg>これは `/user` と同じではありません</seg>
       </tuv>
     </tu>
     <tu>
@@ -31989,6 +32125,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the tab key to autocomplete the path while you are typing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055713Z" creationid="miurahr" creationdate="20210201T055658Z">
+        <seg>入力中にTabキーを使用すれば、パスを自動補完入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the zoom tool by drawing a box using the left mouse button around the area of the world you wish to see.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T143033Z" creationid="miurahr" creationdate="20201120T143033Z">
@@ -33589,6 +33733,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Where am I?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055325Z" creationid="miurahr" creationdate="20210201T055325Z">
+        <seg>ここはどこですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Which outputs:</seg>
       </tuv>
       <tuv lang="ja">
@@ -33665,6 +33817,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T022257Z" creationid="miurahr" creationdate="20201122T022257Z">
         <seg>istSOSを使用すると、センサーデータをさまざまなインスタンスまとめることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the following command it can be saved in a file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055808Z" creationid="miurahr" creationdate="20210201T055808Z">
+        <seg>次のコマンドを使用すると、ファイルに保存できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34039,6 +34199,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can ask all commands for help and get information on how they can be used and find out about additional options.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055408Z" creationid="miurahr" creationdate="20210201T055408Z">
+        <seg>すべてのコマンドには、ヘルプを求めたり、それらの使用方法や追加オプションについての情報を得たりできるコマンドオプションがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can backup your virtual machine installation.</seg>
       </tuv>
       <tuv lang="ja">
@@ -34123,6 +34291,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231505Z" creationid="miurahr" creationdate="20201116T231505Z">
         <seg>SLDファイルは簡単なテキストエディタで作成できますが、グラフィカルエディタの方がよい場合もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can create files and directories there.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055726Z" creationid="miurahr" creationdate="20210201T055726Z">
+        <seg>ファイルやディレクトリを作成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34235,6 +34411,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131628Z" creationid="miurahr" creationdate="20201116T131628Z">
         <seg>マップをマウスでドラッグすると、目的の領域が画面の中央に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can easily navigate in the file system with the command cd.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055527Z" creationid="miurahr" creationdate="20210201T055527Z">
+        <seg>cdコマンドを使用すると、ファイルシステム内を簡単に移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34375,6 +34559,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can have `read`, `write` or `excecute` access.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T060027Z" creationid="miurahr" creationdate="20210201T060027Z">
+        <seg>You can have `read`, `write` or `excecute` access.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can have multiple projects open at a time, each project can have several maps.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T142341Z" creationid="miurahr" creationdate="20201120T142341Z">
@@ -34387,6 +34579,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>追加のソフトウェアのインストールが可能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can navigate in the history with the arrow up and down key.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055735Z" creationid="miurahr" creationdate="20210201T055735Z">
+        <seg>矢印の上下キーで履歴内を移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34419,6 +34619,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T140800Z" creationid="miurahr" creationdate="20201116T140800Z">
         <seg>マウスの左ボタンを押したままマップを移動し、マップをドラッグできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can pipe the information from a command to a file i.e. the command history.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055753Z" creationid="miurahr" creationdate="20210201T055753Z">
+        <seg>パイプを使用して、コマンドからファイルに情報を渡すことができます。たとえば、コマンド履歴です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34735,6 +34943,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have a command history.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055732Z" creationid="miurahr" creationdate="20210201T055732Z">
+        <seg>コマンド履歴があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have to activate them via menu via :menuselection:`File --&gt; Options --&gt; Browser --&gt; Display`</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T063551Z" creationid="miurahr" creationdate="20201117T003014Z">
@@ -34755,6 +34971,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142526Z" creationid="miurahr" creationdate="20201116T142526Z">
         <seg>ファイルを追加する方法は2つあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have write access in your user-directory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055723Z" creationid="miurahr" creationdate="20210201T055723Z">
+        <seg>あなたディレクトリに書き込み権限があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35107,6 +35331,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T072402Z" creationid="miurahr" creationdate="20201103T072402Z">
         <seg>これらのデータを使用して、さまざまな編集方法を試します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You would like to know more about the content of a directory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055813Z" creationid="miurahr" creationdate="20210201T055813Z">
+        <seg>ディレクトリの内容について詳しく知りたいです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36127,6 +36359,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`cd ..` moves you one directory to the top, `cd` user goes from your current location to the home directory of user.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055646Z" creationid="miurahr" creationdate="20210201T055646Z">
+        <seg>`cd ..` はディレクトリを一つ上に移動します。 `cd` では、現在の場所からユーザーのホームディレクトリに移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`geography` - is a data type that stores data as vectors drawn on a spheroidal surface</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T062836Z" creationid="miurahr" creationdate="20201108T042213Z">
@@ -36151,10 +36391,58 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`history` displays the command history.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055801Z" creationid="miurahr" creationdate="20210201T055801Z">
+        <seg>`history` では、コマンドの履歴を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`local eBook &lt;file:///usr/local/share/doc/Getting_Started_with_Ubuntu_13.10.pdf&gt;`_ and `extended online help &lt;https://help.ubuntu.com&gt;`_</seg>
       </tuv>
       <tuv lang="ja">
         <seg>`ローカルの eBook &lt;file:///usr/local/share/doc/Getting_Started_with_Ubuntu_13.10.pdf&gt;`_ と `拡張オンラインヘルプ &lt;https://help.ubuntu.com&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`ls -a` also shows hidden files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055906Z" creationid="miurahr" creationdate="20210201T055906Z">
+        <seg>`ls -a` は隠しファイルも表示します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`ls -al` you can combine the different options</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055917Z" creationid="miurahr" creationdate="20210201T055917Z">
+        <seg>`ls -al` you can combine the different options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`ls -l` shows a more detailed list of the files/directories with time, user access rights</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055858Z" creationid="miurahr" creationdate="20210201T055858Z">
+        <seg>`ls -l` を使うと、時間、ユーザーのアクセス権限などの、ファイル/ディレクトリの詳細なリストを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`ls` is the program that gives you a lot of information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055826Z" creationid="miurahr" creationdate="20210201T055826Z">
+        <seg>`ls` は多くの情報を提供するプログラムです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`ls` lists all files and directories</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055831Z" creationid="miurahr" creationdate="20210201T055831Z">
+        <seg>`ls` はすべてのファイルとディレクトリをリストします</seg>
       </tuv>
     </tu>
     <tu>
@@ -36179,6 +36467,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T062844Z" creationid="miurahr" creationdate="20201108T042235Z">
         <seg>`raster` - データをn次元の行列として格納するデータ型で、各位置(ピクセル)は</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`touch` creates a new empty file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055748Z" creationid="miurahr" creationdate="20210201T055748Z">
+        <seg>`touch` をつかうと、新しい空のファイルを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36963,6 +37259,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>任意の XSL 変換を伴う ``GetFeatureInfo`` リクエストへの転送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>cd / navigated to the root directory cd /home/user goes to your home directory same as cd ~</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055603Z" creationid="miurahr" creationdate="20210201T055603Z">
+        <seg>cd / では、ルートディレクトリに移動します。 cd  /home/user  は、cd ~ と同じで、ホームディレクトリに移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37883,6 +38187,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T175150Z" creationid="miurahr" creationdate="20201122T052729Z">
         <seg>フィルタ、ベクタ化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>find - search for files in a directory hierarchy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T060126Z" creationid="miurahr" creationdate="20210201T060126Z">
+        <seg>find - ディレクトリをたどって、ファイルを検索します</seg>
       </tuv>
     </tu>
     <tu>
@@ -39699,6 +40011,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210103T034316Z">
         <seg>シェープファイルからデータを読み込み、地図化する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>locate - find files by name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T060048Z" creationid="miurahr" creationdate="20210201T060048Z">
+        <seg>locate - 名前でファイルを検索</seg>
       </tuv>
     </tu>
     <tu>
