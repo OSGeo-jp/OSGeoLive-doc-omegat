@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Licence:** `X/MIT Open Source license &lt;https://proj.org/about.html#license&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052408Z" creationid="miurahr" creationdate="20210201T052408Z">
+        <seg>**ライセンス:** `X/MIT Open Source license &lt;https://proj.org/about.html#license&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Licence:** `X/MIT style Open Source license &lt;https://trac.osgeo.org/gdal/wiki/FAQGeneral#WhatlicensedoesGDALOGRuse&gt;`_</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T072328Z">
@@ -1546,6 +1554,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**ソフトウェアバージョン:** |version-postgis|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Software Version:** |version-proj|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052418Z" creationid="miurahr" creationdate="20210201T052418Z">
+        <seg>**ソフトウエアバージョン:** |version-proj|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2602,6 +2618,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**Webサイト:** https://pgrouting.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://proj.org/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052403Z" creationid="miurahr" creationdate="20210201T052403Z">
+        <seg>**Webサイト:** https://proj.org/</seg>
       </tuv>
     </tu>
     <tu>
@@ -3698,6 +3722,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071622Z" creationid="miurahr" creationdate="20201103T071622Z">
         <seg>:doc:`クイックスタート文書 &lt;../quickstart/proj4_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/proj_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052511Z" creationid="miurahr" creationdate="20210201T052511Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/proj_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -6786,6 +6818,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T155918Z" creationid="miurahr" creationdate="20201103T113420Z">
         <seg>CPU: どのCPUでもかまいませんが、 "Virtualization Technology" をサポートの方が高速です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CS-Map (C++) - used in MapGuide.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052105Z" creationid="miurahr" creationdate="20210201T052053Z">
+        <seg>CS-Map (C++) -   MapGuide に採用</seg>
       </tuv>
     </tu>
     <tu>
@@ -12612,6 +12652,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T070027Z" creationid="sanak" creationdate="20210102T070027Z">
         <seg>GeoTIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoTIFF/libgeotiff (C++).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052109Z" creationid="miurahr" creationdate="20210201T052109Z">
+        <seg>GeoTIFF/libgeotiff (C++)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21916,6 +21964,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PROJ has been translated from C to `other languages &lt;https://trac.osgeo.org/metacrs/wiki&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052025Z" creationid="miurahr" creationdate="20210201T052025Z">
+        <seg>PROJ は、Cから、 `ほかの言語へ &lt;https://trac.osgeo.org/metacrs/wiki&gt;`_ 変換されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PROJ is a library that provides methods to transform between different coordinate reference systems.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052323Z" creationid="miurahr" creationdate="20210201T052323Z">
+        <seg>PROJは、異なる座標参照システム間で変換するメソッドを提供するライブラリです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PROJ is used in :doc:`MapServer &lt;mapserver_overview&gt;`, :doc:`GRASS GIS &lt;grass_overview&gt;`, :doc:`PostGIS &lt;postgis_overview&gt;`, :doc:`Mapnik &lt;mapnik_overview&gt;`, Thuban, OGDI, TopoCad, OGRCoordinateTransformation and various others.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T051955Z" creationid="miurahr" creationdate="20210201T051955Z">
+        <seg>PROJは、 :doc:`MapServer &lt;mapserver_overview&gt;` 、 :doc:`GRASS GIS &lt;grass_overview&gt;` 、 :doc:`PostGIS &lt;postgis_overview&gt;` 、 :doc:`Mapnik &lt;mapnik_overview&gt;` 、そして、 Thuban, OGDI, TopoCad, OGRCoordinateTransformation などなどで利用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PROJ uses coordinate system definitions defined by the `European Petroleum Survey Group (EPSG) &lt;https://www.epsg.org/&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052307Z" creationid="miurahr" creationdate="20210201T052307Z">
+        <seg>PROJ は、 `European Petroleum Survey Group (EPSG) &lt;https://www.epsg.org/&gt;`_ で定義されている座標系定義を使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Packages are available for most linux distributions and installers are commonly used on Mac OS X and windows.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T070314Z" creationid="miurahr" creationdate="20201103T070314Z">
@@ -22888,6 +22968,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T141710Z" creationid="miurahr" creationdate="20201103T014201Z">
         <seg>Proj4は、`European Petroleum Survey Group (EPSG) &lt;https://www.epsg.org/&gt;` によって定義された座標系定義を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proj4J (Java).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052113Z" creationid="miurahr" creationdate="20210201T052113Z">
+        <seg>Proj4J (Java)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proj4js (JavaScript) - used in :doc:`OpenLayers &lt;openlayers_overview&gt;`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052057Z" creationid="miurahr" creationdate="20210201T052051Z">
+        <seg>Proj4js (JavaScript) -  :doc:`OpenLayers &lt;openlayers_overview&gt;` で使われている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29332,6 +29428,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These sub-projects include:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052039Z" creationid="miurahr" creationdate="20210201T052039Z">
+        <seg>サブプロジェクトには、:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These sub-projects include: These tools include: * Proj4js (JavaScript) - used in :doc:`OpenLayers &lt;openlayers_overview&gt;`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201125T000435Z" creationid="miurahr" creationdate="20201103T014111Z">
@@ -35231,6 +35335,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`EPSG.io &lt;https://epsg.io/&gt;`_ - website to retrieve coordinate system definitions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052358Z" creationid="miurahr" creationdate="20210201T052141Z">
+        <seg>`SpatialReference.org &lt;https://spatialreference.org/&gt;`_  - 座標系定義を取得するためのWebサイトです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`Examples &lt;../../openlayers/examples/&gt;`_</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021525Z" creationid="miurahr" creationdate="20201108T021525Z">
@@ -35635,6 +35747,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T062017Z" creationid="miurahr" creationdate="20201103T062017Z">
         <seg>`クイックスタート文書 &lt;http://docs.geotools.org/latest/userguide/tutorial/quickstart/index.html&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`SpatialReference.org &lt;https://spatialreference.org/&gt;`_ - website to retrieve coordinate system definitions (obsolete).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052342Z" creationid="miurahr" creationdate="20210201T052153Z">
+        <seg>`SpatialReference.org &lt;https://spatialreference.org/&gt;`_  - 座標系定義を取得するためのWebサイトです(旧式)</seg>
       </tuv>
     </tu>
     <tu>
