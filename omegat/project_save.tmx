@@ -14241,6 +14241,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If such a |SLD| file exists, the style will be applied automatically.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T054223Z" creationid="miurahr" creationdate="20210201T054223Z">
+        <seg>そのような |SLD| ファイルが存在する場合、スタイルは自動的に適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the active GRASS GIS session has identical location/mapset settings, then an alias can be used to avoid the persistent option in each single command call:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T123059Z" creationid="miurahr" creationdate="20201116T123059Z">
@@ -25769,6 +25777,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some files include style settings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T054155Z" creationid="miurahr" creationdate="20210201T054155Z">
+        <seg>一部のファイルにはスタイル設定が含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some highlights are swing support (used in geotools tutorials), swt, local and web process support, additional symbology, additional data formats, generation of grids and a couple of implementations of ISO Geometry.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T150440Z" creationid="miurahr" creationdate="20201103T012234Z">
@@ -25781,6 +25797,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201121T133851Z" creationid="miurahr" creationdate="20201121T133823Z">
         <seg>いくつかのサンプルSQLクエリも示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes it is a bit hard to see what is going on with layer providing much details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T054309Z" creationid="miurahr" creationdate="20210201T054309Z">
+        <seg>多くの詳細が含まれるレイヤで状況を確認するのは、時として少し難しいことがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27492,6 +27516,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Style definition can be found in files with the :file:`*.sld` extension.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T054208Z" creationid="miurahr" creationdate="20210201T054208Z">
+        <seg>スタイル定義は :file:`*.sld` 拡張子のファイルにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Tools widget provides three different tools: the Bounding Box Selection Tool, the Selection Management Tool and the Download Tool.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T123720Z" creationid="miurahr" creationdate="20201116T123720Z">
@@ -28556,6 +28588,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The name itself should be equal to the file containing the data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T054212Z" creationid="miurahr" creationdate="20210201T054212Z">
+        <seg>名前自体は、データを含むファイルと同じでなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The name of the layer will match the name of the shapefile.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T225554Z" creationid="miurahr" creationdate="20201221T225554Z">
@@ -29340,6 +29380,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is a lot more great material (and ability) left for you to discover in our **walkthrough** documents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T054519Z" creationid="miurahr" creationdate="20210201T054519Z">
+        <seg>**ウォークスルー** 文書には、さらに多くの優れた資料(と能力)が残されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There is a lot more material left for you to discover.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T230034Z" creationid="miurahr" creationdate="20201221T225854Z">
@@ -29569,6 +29617,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Thierry Badard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Things to Try</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T054423Z" creationid="miurahr" creationdate="20210201T054423Z">
+        <seg>試してみること</seg>
       </tuv>
     </tu>
     <tu>
@@ -29993,6 +30049,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T152146Z" creationid="miurahr" creationdate="20201221T152146Z">
         <seg>これは、PostGISを使用するための最初のステップです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is only the first step on the road to using uDig.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T054443Z" creationid="miurahr" creationdate="20210201T054443Z">
+        <seg>これはuDigを使用するための最初のステップです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30837,6 +30901,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To get focused on the task you like to work on, you can choose :menuselection:`Map --&gt; Mylar` from the menu bar.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T054325Z" creationid="miurahr" creationdate="20210201T054325Z">
+        <seg>作業したいタスクに集中するには、メニューバーから :menuselection:`マップ--&gt;Mylar` を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To get started, lets style the Land and Ocean datasets.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231454Z" creationid="miurahr" creationdate="20201116T231454Z">
@@ -31389,6 +31461,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try out the use of :doc:`PostGIS &lt;../overview/postgis_overview&gt;`, extract data from a Web Feature Server and explore the use of **Themes** with our powerful `Color Brewer` technology.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T054926Z" creationid="miurahr" creationdate="20210201T054926Z">
+        <seg> :doc:`PostGIS &lt;../overview/postgis_overview&gt;` を使用する。WFSサーバからデータを取得をする。 `Color Brewer` 技術を使用して **Themes**の活用をする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Try publishing your QGIS map to the web using `QGIS Map Server &lt;../overview/qgis_mapserver_overview.html&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T085407Z" creationid="miurahr" creationdate="20201117T015811Z">
@@ -31401,6 +31481,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>``st_buffer(geom)``, ``st_transform(geom,25831)``, ``st_x(geom)`` - のようないくつかの空間関数を試してください。完全なドキュメントは http://postgis.net/documentation/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try styling the WFS layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T054438Z" creationid="miurahr" creationdate="20210201T054438Z">
+        <seg>WFSレイヤのスタイリングを試してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31473,6 +31561,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T225847Z" creationid="miurahr" creationdate="20201221T225847Z">
         <seg>これを使用して、前に選択したジオメトリの頂点の1つをクリックしてドラッグ(マウスボタンを押したまま)し、移動してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try viewing your own GIS map layers, or try adding a layer from a |WFS|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T054433Z" creationid="miurahr" creationdate="20210201T054433Z">
+        <seg>独自のGISマップレイヤを表示するか、|WFS| からレイヤを追加してみてください</seg>
       </tuv>
     </tu>
     <tu>
@@ -31997,6 +32093,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using the *Layer* view select different layers in turn to see the effect.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T054336Z" creationid="miurahr" creationdate="20210201T054336Z">
+        <seg>*レイヤ* ビューを使用して、順番にレイヤを選択して効果を確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using the Manage Layers tool, select the cog symbol next to **Physiography of North and Central Eurasia Landform** and select **Zoom to layer**.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T075055Z" creationid="miurahr" creationdate="20201116T134426Z">
@@ -32473,6 +32577,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133947Z" creationid="miurahr" creationdate="20201120T133947Z">
         <seg>最初に実行されるまで待ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Walkthrough 1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T054525Z" creationid="miurahr" creationdate="20210201T054525Z">
+        <seg>ウォークスルー1</seg>
       </tuv>
     </tu>
     <tu>
@@ -33337,6 +33449,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T080231Z" creationid="miurahr" creationdate="20201103T080231Z">
         <seg>自分自身の地図を書き終えたら作業完了です。”sample.osm”で表示されていた地図のように描けたでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you are happy with the result you can press :guilabel:`Close` to dismiss the dialog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T054113Z" creationid="miurahr" creationdate="20210201T054113Z">
+        <seg>問題なければ、 :guilabel:`閉じる` を押してダイログを閉じてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34395,6 +34515,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T075653Z" creationid="miurahr" creationdate="20201221T075653Z">
         <seg>キーボードの `Z` と `I` を押して、ズームと情報ツールを切り替えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can turn off this effect at any time using :menuselection:`Map --&gt; Mylar` from the menu bar.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T054349Z" creationid="miurahr" creationdate="20210201T054349Z">
+        <seg>この効果は、メニューバーから :menuselection:`マップ--&gt;Mylar` を使用して、いつでもオフにすることができます。</seg>
       </tuv>
     </tu>
     <tu>
