@@ -3878,6 +3878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>:file:`/usr/local/share/udig/udig-docs/uDigWalkthrough 1.pdf`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T054928Z" creationid="miurahr" creationdate="20210201T054928Z">
+        <seg>:file:`/usr/local/share/udig/udig-docs/uDigWalkthrough 1.pdf`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>:file:`ne_10m_admin_0_countries.shp`</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T074407Z" creationid="miurahr" creationdate="20201221T074407Z">
@@ -6138,6 +6146,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>以前の OSGeo-Live リリースで利用可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Available on http://udig.refractions.net/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055123Z" creationid="miurahr" creationdate="20210201T055123Z">
+        <seg> http://udig.refractions.net/ にあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31463,8 +31479,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Try out the use of :doc:`PostGIS &lt;../overview/postgis_overview&gt;`, extract data from a Web Feature Server and explore the use of **Themes** with our powerful `Color Brewer` technology.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210201T054926Z" creationid="miurahr" creationdate="20210201T054926Z">
-        <seg> :doc:`PostGIS &lt;../overview/postgis_overview&gt;` を使用する。WFSサーバからデータを取得をする。 `Color Brewer` 技術を使用して **Themes**の活用をする。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055252Z" creationid="miurahr" creationdate="20210201T054926Z">
+        <seg> :doc:`PostGIS &lt;../overview/postgis_overview&gt;` を使用する。WFSサーバからデータを取得をする。 `Color Brewer` 技術を使用して **Themes** の活用をする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32585,6 +32601,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T054525Z" creationid="miurahr" creationdate="20210201T054525Z">
         <seg>ウォークスルー1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Walkthrough 2 - Learn how to create shapefiles and use the Edit tools to manipulate feature data, covers the installation of :doc:`GeoServer &lt;../overview/geoserver_overview&gt;` and editing with a Web Feature Server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T055056Z" creationid="miurahr" creationdate="20210201T055056Z">
+        <seg>ウオークスルー 2 -シェイプファイルを作成し、編集ツールを使用して地物データを操作する方法を学習します。 :doc:`GeoServer &lt;../overview/geoserver_overview&gt;` のインストールと、 Web Feature Serverでの編集ができます。</seg>
       </tuv>
     </tu>
     <tu>
