@@ -10992,6 +10992,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fill: On Tab :guilabel:`Fill` uncheck the box :guilabel:`enable/disable fill` to turn off fill</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T053207Z" creationid="miurahr" creationdate="20210201T053107Z">
+        <seg>ぬりつぶし: ぬりつぶしをオフにするには、タブ  :guilabel:`Fill` のチェックボックス   :guilabel:`enable/disable fill` のチェックをはずす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Filter layers on the map (if configured),</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134308Z" creationid="miurahr" creationdate="20201116T134308Z">
@@ -17020,6 +17028,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Label: On Tab :guilabel:`Labels` check the box :guilabel:`enable/disable labeling`, and choose the attribute **NAME** from the list of attributes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T053255Z" creationid="miurahr" creationdate="20210201T053155Z">
+        <seg>ラベル:  タブ :guilabel:`Labels` のチェックボックス :guilabel:`enable/disable labeling` のチェックを いれ、一覧からアトリビュート **NAME** を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lack of change in smaller, concise packages and libraries may simply reflect a level of maturity and completeness.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T224148Z" creationid="miurahr" creationdate="20201123T224148Z">
@@ -17462,8 +17478,8 @@
       <tuv lang="en-US">
         <seg>Line: Click :guilabel:`Border`, click on the Color button and change the color to BLACK</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T141151Z" creationid="miurahr" creationdate="20201221T141151Z">
-        <seg>Line: Click :guilabel:`Border`, click on the Color button and change the color to BLACK</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052951Z" creationid="miurahr" creationdate="20201221T141151Z">
+        <seg>ライン:  :guilabel:`Border` をクリックし、色ボタンをクリックして、色を黒色に変更します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22720,6 +22736,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T145510Z" creationid="miurahr" creationdate="20201116T234801Z">
         <seg>"保存" と "O3" レイヤを "公開" を押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press :guilabel:`Apply` to see what this looks like on your Map, the **Layer** view will also be updated to reflect the current style</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T054011Z" creationid="miurahr" creationdate="20210201T053209Z">
+        <seg> :guilabel:`適用` をおすと、**レイヤ** ビューが現在のスタイルを反映して更新されるので、あなたのマップの見えかたを確認してみてください。</seg>
       </tuv>
     </tu>
     <tu>
