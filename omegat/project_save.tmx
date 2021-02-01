@@ -4038,6 +4038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A basic demo application is available which demonstrates using Mapnik with MapProxy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052700Z" creationid="miurahr" creationdate="20210201T052700Z">
+        <seg>MapProxyでMapnikを使用する基本的なデモアプリケーションが利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A basic demo application is available which highlights using Mapnik to serve tiles into an OpenLayers web map in the OSM/Google tile scheme.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055529Z" creationid="miurahr" creationdate="20201103T055513Z">
@@ -7484,6 +7492,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210121T145235Z" creationid="miurahr" creationdate="20201221T152418Z">
         <seg>:menuselection:`Geospatial --&gt; Desktop GIS --&gt; QGIS` をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click :menuselection:`Geospatial --&gt; Web Services --&gt; MapProxy --&gt; Start MapProxy`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052720Z" creationid="miurahr" creationdate="20210201T052720Z">
+        <seg> :menuselection:`Geospatial --&gt; Web Services --&gt; MapProxy --&gt; Start MapProxy` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18188,6 +18204,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mapnik &amp; MapProxy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052656Z" creationid="miurahr" creationdate="20210201T052656Z">
+        <seg>Mapnik と MapProxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapnik &amp; Python</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052609Z" creationid="miurahr" creationdate="20210201T052609Z">
+        <seg>Mapnik と Python</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mapnik Quickstart</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055158Z" creationid="miurahr" creationdate="20201103T055158Z">
@@ -20780,6 +20812,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Observe the output in the server terminal window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052811Z" creationid="miurahr" creationdate="20210201T052811Z">
+        <seg>サーバターミナルウィンドウの出力を確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Observed property: urn:ogc:def:parameter:x-istsos:1.0:meteo:air:temperature</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T025408Z" creationid="miurahr" creationdate="20201122T025408Z">
@@ -21384,6 +21424,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T152743Z" creationid="miurahr" creationdate="20201221T152743Z">
         <seg>デスクトップで *Databases* ディレクトリを開き、 *Rasdaman Server* を起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the MapProxy demo application http://0.0.0.0:8011/demo/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052736Z" creationid="miurahr" creationdate="20210201T052736Z">
+        <seg>MapProxyデモアプリケーションを http://0.0.0.0:8011/demo/ で開きます</seg>
       </tuv>
     </tu>
     <tu>
@@ -27700,6 +27748,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The above code depends on having an XML stylesheet that Mapnik can read (world_population.xml), defining the layers to read data from and the styles to apply to those layers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052650Z" creationid="miurahr" creationdate="20210201T052650Z">
+        <seg>上記のコードは、Mapnikが読み取れるXMLスタイルシートを用意し、データを読み込むレイヤーと、それらのレイヤーに適用するスタイルを定義することで実現しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The above code depends on having an XML stylesheet that Mapnik can read, defining the layers to read data from and the styles to apply to those layers.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055345Z" creationid="miurahr" creationdate="20201103T055345Z">
@@ -27984,6 +28040,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T081219Z" creationid="miurahr" creationdate="20201103T055539Z">
         <seg>このデモでは、Mapnik用に設計された"TileStache"と呼ばれるtileserverを使っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The demo uses the world_population.xml from the Mapnik demo.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052708Z" creationid="miurahr" creationdate="20210201T052708Z">
+        <seg>このデモでは、Mapnikデモのworld_population.xmlを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34343,6 +34407,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can use the MapProxy WMS in other applications for example in QGIS or in Mapbender (http://localhost/mapbender/application/mapbender_user).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052803Z" creationid="miurahr" creationdate="20210201T052803Z">
+        <seg>MapProxy WMSは、QGISやMapbender(http://localhost/mapbender/application/mapbender_user))などの他のアプリケーションで使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can use the ``define custom colors`` section to create your preferred color.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T080904Z" creationid="miurahr" creationdate="20201116T231807Z">
@@ -34475,6 +34547,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043941Z" creationid="miurahr" creationdate="20201108T043941Z">
         <seg>マネージャーはメニューにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You find the world population demo by Mapnik as a WMS layer and also the world population in combination with a the GeoServer layer topp:states (make sure GeoServer is running)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052746Z" creationid="miurahr" creationdate="20210201T052746Z">
+        <seg>WMSレイヤとしてのMapnikによる世界人口のデモと、GeoServerレイヤトップ:states(GeoServerが動作していることを確認)との組み合わせによる世界人口のデモをご覧ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38659,6 +38739,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T030055Z" creationid="miurahr" creationdate="20201220T030055Z">
         <seg>Search/Retrieval via URL (SRU)検索プロトコルの実装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>import mapnik, os m = mapnik.Map(600,400) style = '/usr/local/share/mapnik/world_population.xml' mapnik.load_map(m,style) m.zoom_all() mapnik.render_to_file(m,'world_population.png') os.system('xdg-open world_population.png')</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T052621Z" creationid="miurahr" creationdate="20210201T052621Z">
+        <seg>import mapnik, os m = mapnik.Map(600,400) style = '/usr/local/share/mapnik/world_population.xml' mapnik.load_map(m,style) m.zoom_all() mapnik.render_to_file(m,'world_population.png') os.system('xdg-open world_population.png')</seg>
       </tuv>
     </tu>
     <tu>
