@@ -14801,6 +14801,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, `a dedicated page on INSPIRE &lt;https://wiki.osgeo.org/wiki/INSPIRE&gt;`__ under the OSGeo wiki is maintained that gives an overview of the legal and technical aspects of INSPIRE together with selected use cases and an overview of OSGeo software projects that implementers may use.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T050518Z" creationid="miurahr" creationdate="20210201T050518Z">
+        <seg>In addition, `a dedicated page on INSPIRE &lt;https://wiki.osgeo.org/wiki/INSPIRE&gt;`__ under the OSGeo wiki is maintained that gives an overview of the legal and technical aspects of INSPIRE together with selected use cases and an overview of OSGeo software projects that implementers may use.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, a style can be applied to a layer, which determines the style of all contained features, or to an individual feature.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T020207Z" creationid="miurahr" creationdate="20201108T020207Z">
@@ -21896,6 +21904,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>PHP, Python, Perl, Ruby, Java, .NET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PROJ</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210201T050522Z" creationid="miurahr" creationdate="20210201T050522Z">
+        <seg>PROJ</seg>
       </tuv>
     </tu>
     <tu>
