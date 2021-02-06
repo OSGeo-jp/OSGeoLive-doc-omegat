@@ -9920,10 +9920,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Download the DS File Ops Kit and unzip.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T165546Z" creationid="miurahr" creationdate="20210206T165546Z">
+        <seg>DS File Ops Kit をダウンロードして、unzipします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Download the OSGeoLive VirtualBox virtual hard disk (vmdk) by following the links on :doc:`live.osgeo.org &lt;../download&gt;`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210206T165051Z" creationid="miurahr" creationdate="20210206T165051Z">
         <seg> :doc:`live.osgeo.org &lt;../download&gt;` のリンクから、 OSGeoLiveの VirtualBox仮想ハードディスク(vmdk)をダウンロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download the `Microsoft Virtual Machine Converter 3.0 &lt;https://www.microsoft.com/en-us/download/details.aspx?id=42497&gt;`_ and install.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T165525Z" creationid="miurahr" creationdate="20210206T165525Z">
+        <seg> `Microsoft Virtual Machine Converter 3.0 &lt;https://www.microsoft.com/en-us/download/details.aspx?id=42497&gt;`_ をダウンロードしてインストールします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10968,6 +10984,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Failing to do the above steps will result in the error *"ConvertTo-MvmcVirtualHardDisk : The entry 0247ca9d-f9aa-4910-9e8c-1c14d83a7749 is not a supported disk database entry for the descriptor."*</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T165919Z" creationid="miurahr" creationdate="20210206T165919Z">
+        <seg>Failing to do the above steps will result in the error *"ConvertTo-MvmcVirtualHardDisk : The entry 0247ca9d-f9aa-4910-9e8c-1c14d83a7749 is not a supported disk database entry for the descriptor."*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fast</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T065014Z" creationid="miurahr" creationdate="20201103T065014Z">
@@ -11100,6 +11124,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T080709Z" creationid="miurahr" creationdate="20201116T231012Z">
         <seg>最後に :guilabel:`保存` をクリックて、最初のレイヤを公開しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finally run the conversion process:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T165931Z" creationid="miurahr" creationdate="20210206T165931Z">
+        <seg>最後に、変換処理を実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14020,6 +14052,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T055415Z" creationid="miurahr" creationdate="20210201T055415Z">
         <seg>ファイルシステム内での操作方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How-To</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T165936Z" creationid="miurahr" creationdate="20210206T165936Z">
+        <seg>How-To</seg>
       </tuv>
     </tu>
     <tu>
@@ -18844,6 +18884,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Microsoft Virtual Machine Converter 3.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T165442Z" creationid="miurahr" creationdate="20210206T165442Z">
+        <seg>Microsoft Virtual Machine Converter 3.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Microsoft Windows based Desktop GIS.</seg>
       </tuv>
       <tuv lang="ja">
@@ -21420,6 +21468,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open PowerShell (with administrator rights)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T165602Z" creationid="miurahr" creationdate="20210206T165602Z">
+        <seg>PowerShellを管理者権限で開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open QGIS.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T114051Z" creationid="miurahr" creationdate="20201103T114044Z">
@@ -21688,6 +21744,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201116T130533Z">
         <seg>QGISのようなデスクトップGISを使用してシェープファイルを開き、確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open this in a text editor (such as Notepad) and comment out the following lines using hashes (this metadata is VirtualBox specific and is not recognised by the converter):</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T165839Z" creationid="miurahr" creationdate="20210206T165839Z">
+        <seg>メモ帳などのテキストエディタでこのフィアルを開き、次の行について、行頭の#をつかってコメントアウト(除外)します。(このメタデータは、VirtualBoxに特有で、変換プログラムが理解できません)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24553,6 +24617,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Run the following command to get the disk descriptor from the OSGeoLive vmdk.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T165641Z" creationid="miurahr" creationdate="20210206T165641Z">
+        <seg>OSGeoLiveのvmdkファイルから、ディスクの記述子を取得するため、次のコマンドを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run the following command to insert the disk descriptor back into the ``vmdk`` file:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T165909Z" creationid="miurahr" creationdate="20210206T165909Z">
+        <seg>次のコマンドを実行して、ディスク記述子を ``vmdk`` ファイルに書き戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Run through the :doc:`zyGrib quickstart &lt;../quickstart/zygrib_quickstart&gt;` and load the zyGrib file over your chart.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T225033Z" creationid="miurahr" creationdate="20201221T225033Z">
@@ -26305,6 +26385,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>StarWind V2V Converter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T165343Z" creationid="miurahr" creationdate="20210206T165343Z">
+        <seg>StarWind V2V Converter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start Cesium</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134648Z" creationid="miurahr" creationdate="20201116T134648Z">
@@ -26525,6 +26613,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T055607Z">
         <seg>スタートページ: https://www.openstreetmap.org/edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start the Hyper-V Manager application and under Actions select New &gt; Virtual Machine, and then Next.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T165948Z" creationid="miurahr" creationdate="20210206T165948Z">
+        <seg>Start the Hyper-V Manager application and under Actions select New &gt; Virtual Machine, and then Next.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28398,8 +28494,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The file therefore has to be converted from ``vmdk`` to ``vhdx``.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210206T165232Z" creationid="miurahr" creationdate="20210206T165232Z">
-        <seg>The file therefore has to be converted from ``vmdk`` to ``vhdx``.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T165311Z" creationid="miurahr" creationdate="20210206T165232Z">
+        <seg>つまり、``vmdk`` ファイルを ``vhdx`` へ変換しないといけないのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29156,6 +29252,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The second more complicated option is as follows.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T165505Z" creationid="miurahr" creationdate="20210206T165505Z">
+        <seg>二つ目の選択肢は、以下に示すように少し複雑です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The server starts in a terminal window (which stays open and outputs basic debugging information).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055623Z" creationid="miurahr" creationdate="20201103T055623Z">
@@ -29560,6 +29664,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T143115Z" creationid="miurahr" creationdate="20201120T143115Z">
         <seg>いつでも使用できるナビゲーションボタンもいくつかあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are currently two conversion options available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T165336Z" creationid="miurahr" creationdate="20210206T165336Z">
+        <seg>二つの変換方法がいまのところあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30141,6 +30253,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This guide assumes Hyper-V is already installed and enabled - if this is not the case the more typical approach using Virtual Box outlined at :doc:`virtualization_quickstart` can be used.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T165938Z" creationid="miurahr" creationdate="20210206T165938Z">
+        <seg>This guide assumes Hyper-V is already installed and enabled - if this is not the case the more typical approach using Virtual Box outlined at :doc:`virtualization_quickstart` can be used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This guide assumes that you have Geonetwork installed and running, and know the URL so you can connect to it from your browser.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133113Z" creationid="miurahr" creationdate="20201116T133113Z">
@@ -30153,6 +30273,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134638Z" creationid="miurahr" creationdate="20201116T134638Z">
         <seg>このガイドでは、Cesiumを3D(地球儀)、2.5D(コロンブスビュー)、2D(マップ)で使用する方法について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This has a simple user interface allowing you to select the ``osgeo-live-XX.X-vm.vmdk`` file and convert to a *Microsoft VHDX* image.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T165432Z" creationid="miurahr" creationdate="20210206T165432Z">
+        <seg>これは、簡易なユーザインターフェースをもち、 ``osgeo-live-XX.X-vm.vmdk`` ファイルを選択して、 *Microsoft VHDX* イメージに変換できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30553,6 +30681,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T122939Z" creationid="miurahr" creationdate="20201220T020553Z">
         <seg>このサンプルデータセットは、日最高気温の年最大値と、連続した5日間降水量の年最大値の、過去(1850-2012年)及び予測データ(2006-2100年)を提供します (詳細については、付随するテキストファイルを参照してください)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This saves the disk description to the "descriptor1.txt" file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T165700Z" creationid="miurahr" creationdate="20210206T165700Z">
+        <seg>"descriptor1.txt" に仮想ディスクの情報が保存されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32233,6 +32369,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T141607Z" creationid="miurahr" creationdate="20201116T141607Z">
         <seg>Web Clientを使用して、EOデータをビュー、フィルタリング、サブセット、ダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the `StarWind V2V Converter &lt;https://www.starwindsoftware.com/starwind-v2v-converter&gt;`_ program.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T165358Z" creationid="miurahr" creationdate="20210206T165358Z">
+        <seg> `StarWind V2V Converter &lt;https://www.starwindsoftware.com/starwind-v2v-converter&gt;`_ プログラムを使う方法</seg>
       </tuv>
     </tu>
     <tu>
