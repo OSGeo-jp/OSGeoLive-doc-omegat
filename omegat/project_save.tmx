@@ -4126,6 +4126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A free tool `hypervswitch &lt;https://unclassified.software/en/apps/hypervswitch&gt;`_ can be used to quickly enable and disable Hyper-V - however it still requires a reboot each time the setting is changed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T164559Z" creationid="miurahr" creationdate="20210206T164559Z">
+        <seg>無料ツールの `hypervswitch &lt;https://unclassified.software/en/apps/hypervswitch&gt;`_ を使えば、簡単にすぐにHyper-Vの有効/無効を切りかえできます。しかし、設定を変更したときは再起動が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A full range of arithmetic, trigonometric, and statistical functions are built-in, and thousands more are available from packages in the `CRAN &lt;https://cran.r-project.org/&gt;`_ archive.</seg>
       </tuv>
       <tuv lang="ja">
@@ -14072,6 +14080,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hyper-V is available on both Windows Server, and Windows 10 Professional - it is not part of Windows 10 Home.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T164224Z" creationid="miurahr" creationdate="20210206T164224Z">
+        <seg>Hyper-V は、Windowsサーバか、Windows 10 プロフェッショナル版で利用することができます。Windows 10 Homeには含まれていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hyper-V requirements can be found `here &lt;https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/reference/hyper-v-requirements&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T164714Z" creationid="miurahr" creationdate="20210206T164714Z">
+        <seg>Hyper-V の必要要件は `ここ &lt;https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/reference/hyper-v-requirements&gt;`_ で確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IE 7–11</seg>
       </tuv>
       <tuv lang="ja">
@@ -15088,6 +15112,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T145908Z" creationid="miurahr" creationdate="20201103T113527Z">
         <seg>一部のホストオペレーティングシステムでは、表示を正しく機能させるために "3Dアクセラレータを有効にする" が必要になる場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In summary the host machine needs to have the following hardware requirements:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T164905Z" creationid="miurahr" creationdate="20210206T164905Z">
+        <seg>簡単にまとめると、ホストマシンは次のハードウエア要件を満す必要があります:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20568,6 +20600,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>OSGeoLive クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeoLive Quickstart for Running in a Hyper-V Virtual Machine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T164042Z" creationid="miurahr" creationdate="20210206T163820Z">
+        <seg>Hyper-V 仮想マシン内での OSGeoLive 起動クイックスタート</seg>
       </tuv>
     </tu>
     <tu>
@@ -27956,6 +27996,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The advantages of using a virtual machine are the same as those outlined at :doc:`virtualization_quickstart`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T164254Z" creationid="miurahr" creationdate="20210206T164254Z">
+        <seg>仮想マシンを利用する利点は、 :doc:`virtualization_quickstart` にまとまっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The appearance of each map layer can be controlled using the SLD standard which allows features to be coloured and labeled.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011432Z" creationid="miurahr" creationdate="20201103T011432Z">
@@ -28932,6 +28980,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The rest of this page documents how to configure OSGeoLive to run on Hyper-V.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T164640Z" creationid="miurahr" creationdate="20210206T164640Z">
+        <seg>このページのこれ以降は、OSGeoLiveをHyper-Vで稼動させる方法を説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The result is just the opposite.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T015210Z" creationid="miurahr" creationdate="20201117T015210Z">
@@ -29837,6 +29893,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This Quick Start describes how to run OSGeoLive using Hyper-V, Microsoft's virtualisation software.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T164131Z" creationid="miurahr" creationdate="20210206T164131Z">
+        <seg>ここでは、OSGeoLive を マイクロソフトの仮想マシン技術ソフトウエアのHyper-V から起動する方法を説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This Quick Start describes how to start OSGeoLive from a DVD or USB.</seg>
       </tuv>
       <tuv lang="ja">
@@ -30253,10 +30317,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This leaves 2 options - disabling the Hyper-V feature, or configuring a new Hyper-V machine to run OSGeoLive.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T164443Z" creationid="miurahr" creationdate="20210206T164443Z">
+        <seg>つまり、二つの選択肢のどちらかだけです。Hyper-Vを無告にするか、OSGeoLiveをHyper-Vで起動できるように設定するか、です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This legend gives you an overview of all the layers currently loaded into the application, with the option to turn them on or off.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131702Z" creationid="miurahr" creationdate="20201116T131702Z">
         <seg>この凡例は、アプリケーションにロードされているすべてのレイヤの概要を、オン/オフのオプション付きで示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This link also provides information on checking if your machine is compatible using the ``systeminfo`` command.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T164810Z" creationid="miurahr" creationdate="20210206T164810Z">
+        <seg>このリンク先には、あなたが利用しているPCが、Hyper-Vをサポートできるかをチェックするツールの ``systeminfo`` コマンドの情報もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31889,6 +31969,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131648Z" creationid="miurahr" creationdate="20201116T131648Z">
         <seg>凡例について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unfortunately Virtual Box and Hyper-V cannot be run simultaneously.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210206T164339Z" creationid="miurahr" creationdate="20210206T164339Z">
+        <seg>残念ですが、VirtualBoxと、Hyper-Vの両方を同時に試すことはできません。</seg>
       </tuv>
     </tu>
     <tu>
