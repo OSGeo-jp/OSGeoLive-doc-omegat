@@ -14176,6 +14176,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hopefully you have discovered how powerful the command line is.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134941Z" creationid="miurahr" creationdate="20210208T134941Z">
+        <seg>コマンドラインがいかにパワフルか理解できたでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hosting almost everywhere: cloud storage such as Amazon S3 or any cheap "unlimited" webhosting with FTP access</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T144827Z" creationid="miurahr" creationdate="20201220T012824Z">
@@ -35743,6 +35751,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have learned some important commands and information to work with the command line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134912Z" creationid="miurahr" creationdate="20210208T134912Z">
+        <seg>ここまでで、重要なコマンドとその利用方法について学習してきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have to activate them via menu via :menuselection:`File --&gt; Options --&gt; Browser --&gt; Display`</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T063551Z" creationid="miurahr" creationdate="20201117T003014Z">
@@ -39823,6 +39839,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>head - show the beginning of a file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134820Z" creationid="miurahr" creationdate="20210208T134804Z">
+        <seg>head - ファイルの冒頭を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>helle omniscale de</seg>
       </tuv>
       <tuv lang="ja">
@@ -39843,6 +39867,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>hernanolivera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>history | grep cd</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134739Z" creationid="miurahr" creationdate="20210208T134739Z">
+        <seg>history | grep cd</seg>
       </tuv>
     </tu>
     <tu>
@@ -41583,6 +41615,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>mv - rename/move</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134813Z" creationid="miurahr" creationdate="20210208T134802Z">
+        <seg>mv - 名前変更または移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>nachouve gmail com</seg>
       </tuv>
       <tuv lang="ja">
@@ -42847,6 +42887,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>rm - remove a file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134746Z" creationid="miurahr" creationdate="20210208T134746Z">
+        <seg>rm - ファイルを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rmdir - remove an empty directory</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134756Z" creationid="miurahr" creationdate="20210208T134756Z">
+        <seg>rmdir - 空になったディレクトリを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ro</seg>
       </tuv>
       <tuv lang="ja">
@@ -43475,6 +43531,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T051008Z" creationid="smellman" creationdate="20201103T051008Z">
         <seg>t-rexは、独自のデータからMVTタイルを配信することに特化したベクタータイルサーバです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>tail - show the end of a file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134828Z" creationid="miurahr" creationdate="20210208T134828Z">
+        <seg>tail - ファイルの末尾を表示</seg>
       </tuv>
     </tu>
     <tu>
