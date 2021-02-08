@@ -10986,8 +10986,8 @@
       <tuv lang="en-US">
         <seg>Failing to do the above steps will result in the error *"ConvertTo-MvmcVirtualHardDisk : The entry 0247ca9d-f9aa-4910-9e8c-1c14d83a7749 is not a supported disk database entry for the descriptor."*</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210206T165919Z" creationid="miurahr" creationdate="20210206T165919Z">
-        <seg>Failing to do the above steps will result in the error *"ConvertTo-MvmcVirtualHardDisk : The entry 0247ca9d-f9aa-4910-9e8c-1c14d83a7749 is not a supported disk database entry for the descriptor."*</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T121522Z" creationid="miurahr" creationdate="20210206T165919Z">
+        <seg>前記のステップに失敗すると、 *"ConvertTo-MvmcVirtualHardDisk : The entry 0247ca9d-f9aa-4910-9e8c-1c14d83a7749 is not a supported disk database entry for the descriptor."* というエラーがでるので注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14701,6 +14701,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053045Z" creationid="miurahr" creationdate="20201103T053045Z">
         <seg>削除する必要があると本当に感じている場合は、最初に元のマッパーまたはOSM電子メールリストのいずれかに問い合わせてみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you require the virtual machine to have Internet access you will need to set this up this up on the "Configure Networking" screen.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T121733Z" creationid="miurahr" creationdate="20210208T121733Z">
+        <seg>仮想マシンがインターネット接続させる必要がある場合、"ネットワーク設定"スクリーンで設定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21108,6 +21116,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the "Connect Virtual Hard Disk", select "Use an existing virtual hard disk" and select the ``.vhdx`` file you unzipped earlier.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T121831Z" creationid="miurahr" creationdate="20210208T121831Z">
+        <seg>"仮想ハードディスクの接続"では、 "既存の仮想ハードディスクを使用" を選択し、先程解凍した ``.vhdx`` ファイルを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the ZOO Project demonstration landing page, click :guilabel:`view` on CGAL triangulations.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T054640Z" creationid="miurahr" creationdate="20201120T134405Z">
@@ -25185,6 +25201,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select "Generation 1" from the Specify Generation options.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T121607Z" creationid="miurahr" creationdate="20210208T121607Z">
+        <seg>生成オプションを指定から、"Generation 1" を選択。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select "Layer Preview" from the menu on the left</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T145521Z" creationid="miurahr" creationdate="20201116T234826Z">
@@ -26619,8 +26643,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Start the Hyper-V Manager application and under Actions select New &gt; Virtual Machine, and then Next.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210206T165948Z" creationid="miurahr" creationdate="20210206T165948Z">
-        <seg>Start the Hyper-V Manager application and under Actions select New &gt; Virtual Machine, and then Next.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T121138Z" creationid="miurahr" creationdate="20210206T165948Z">
+        <seg>Hyper-V管理アプリケーションを開始して、アクションメニューの 新規 &gt; 仮想マシンを選択し、次へすすみます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29588,6 +29612,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then enter an appropriate name for the virtual machine.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T121539Z" creationid="miurahr" creationdate="20210208T121539Z">
+        <seg>仮想マシンに適切な名前をつけます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then join the community on the `Mailing Lists &lt;https://www.mapserver.org/community/lists.html&gt;`_ to exchange ideas, discuss potential software improvements and ask questions.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T080256Z" creationid="miurahr" creationdate="20201103T023521Z">
@@ -30255,8 +30287,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This guide assumes Hyper-V is already installed and enabled - if this is not the case the more typical approach using Virtual Box outlined at :doc:`virtualization_quickstart` can be used.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210206T165938Z" creationid="miurahr" creationdate="20210206T165938Z">
-        <seg>This guide assumes Hyper-V is already installed and enabled - if this is not the case the more typical approach using Virtual Box outlined at :doc:`virtualization_quickstart` can be used.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T121358Z" creationid="miurahr" creationdate="20210206T165938Z">
+        <seg>このガイドでは、Hyper-V がすでに導入されており、有効化されていることを前提にしています。まだ有効でない場合のより一般的なVirtualBoxをつかう方法が  :doc:`virtualization_quickstart` に文書があり、利用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33825,6 +33857,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T142809Z" creationid="miurahr" creationdate="20201123T142809Z">
         <seg>このデータセットでOGRウェイがRに読み込まれると、データフレームのように多くの方法で動作するオブジェクトが返されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When assigning memory, you can select "Use Dynamic Memory for this virtual machine".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T121650Z" creationid="miurahr" creationdate="20210208T121650Z">
+        <seg>メモリ割り当てのときは、 "仮想マシンに動的メモリを使用する"を選択することもできます。</seg>
       </tuv>
     </tu>
     <tu>
