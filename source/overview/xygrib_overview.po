@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2011~2019, OSGeo
+# This file is distributed under the same license as the OSGeoLive package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Ko Nagase <nagase@georepublic.co.jp>, 2021
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OSGeoLive 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-06 18:01-0600\n"
+"PO-Revision-Date: 2021-02-07 00:39+0000\n"
+"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2021\n"
+"Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../build/doc/overview/xygrib_overview.rst:14
+msgid "XyGrib"
+msgstr ""
+
+#: ../../build/doc/overview/xygrib_overview.rst:17
+msgid "Weather forecasting"
+msgstr "気象予想"
+
+#: ../../build/doc/overview/xygrib_overview.rst:19
+msgid ""
+"XyGrib is a Grib file reader and visualizes meteorological data providing an"
+" off-line capability to analyse weather forecasts or hindcasts. XyGrib is "
+"the continuation of the zyGrib software package with a new team of "
+"volunteers. It is intended to be used as a capable weather work station for "
+"anyone with a serious interest in examining weather. This would include "
+"members of the sailing community, private and sport aviators, farmers, "
+"weather buffs and many more."
+msgstr ""
+
+#: ../../build/doc/overview/xygrib_overview.rst:29
+msgid "Core Features"
+msgstr "主な機能"
+
+#: ../../build/doc/overview/xygrib_overview.rst:31
+msgid "Visualization of meteorologic data from files in GRIB format"
+msgstr "GRIB フォーマットのファイルからの気象データの可視化"
+
+#: ../../build/doc/overview/xygrib_overview.rst:32
+msgid "Automatic download of weather and wave forecasts"
+msgstr "気象・波浪予報の自動ダウンロード"
+
+#: ../../build/doc/overview/xygrib_overview.rst:33
+msgid "Automatic download from IAC (fleetcode) data"
+msgstr "IAC (fleetcode) データからの自動ダウンロード"
+
+#: ../../build/doc/overview/xygrib_overview.rst:34
+msgid "Play animations of 8-day forecasts"
+msgstr "8日間の予測アニメーションの再生"
+
+#: ../../build/doc/overview/xygrib_overview.rst:35
+msgid ""
+"Create your own regional weather maps (worldwide), or view a detailed "
+"quantitative forecast for a particular location."
+msgstr "独自の地域天気図(世界中)を作成するか、特定の場所の詳細な数量予測を表示します。"
+
+#: ../../build/doc/overview/xygrib_overview.rst:36
+msgid ""
+"Plot wind, pressure, temperature, humidity, rain, snow, cloud cover, dew "
+"point, wave height, and high altitude data."
+msgstr "風、気圧、温度、湿度、雨、雪、雲量、露点、波の高さ、および高さのデータをプロットします。"
+
+#: ../../build/doc/overview/xygrib_overview.rst:39
+msgid "Details"
+msgstr "詳細"
+
+#: ../../build/doc/overview/xygrib_overview.rst:41
+msgid "**Website:** https://opengribs.org"
+msgstr ""
+
+#: ../../build/doc/overview/xygrib_overview.rst:43
+msgid "**Licence:** GNU General Public License (GPL) version 3"
+msgstr "**ライセンス:** GNU General Public License (GPL) version 3"
+
+#: ../../build/doc/overview/xygrib_overview.rst:45
+msgid "**Software Version:** |version-xygrib|"
+msgstr ""
+
+#: ../../build/doc/overview/xygrib_overview.rst:47
+msgid "**Supported Platforms:** GNU/Linux, Mac OSX, MS Windows"
+msgstr "**対応プラットフォーム:** GNU/Linux, Mac OSX, MS Windows"
+
+#: ../../build/doc/overview/xygrib_overview.rst:49
+msgid "**Support:** https://opengribs.org/en/support-forum"
+msgstr ""
+
+#: ../../build/doc/overview/xygrib_overview.rst:55
+msgid "Quickstart"
+msgstr "クイックスタート"
+
+#: ../../build/doc/overview/xygrib_overview.rst:57
+msgid ":doc:`Quickstart documentation <../quickstart/xygrib_quickstart>`"
+msgstr ""
