@@ -24465,6 +24465,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click and select "Connect".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T123902Z" creationid="miurahr" creationdate="20210208T123902Z">
+        <seg>右クリックして、"接続" を選択。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rivers are now rendered in a new color.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201125T004420Z" creationid="miurahr" creationdate="20201125T004420Z">
@@ -25573,6 +25581,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T085101Z" creationid="miurahr" creationdate="20201103T120201Z">
         <seg>プロジェクト 'QGIS-NaturalEarth-Example.qgs' を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the virtual machine from the Virtual Machines list</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T123841Z" creationid="miurahr" creationdate="20210208T123841Z">
+        <seg>仮想マシンの一覧から、作成した仮想マシンを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35531,6 +35547,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T131424Z" creationid="miurahr" creationdate="20201116T131945Z">
         <seg>Webページが表示され、GeoMooseインスタンスのデモインタフェースが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will be prompted to start the machine, and a new "Virtual Machine Connection" window will open.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T124000Z" creationid="miurahr" creationdate="20210208T124000Z">
+        <seg>仮想マシンが起動するまで、すこし待つと、 "仮想マシン接続" ウインドウが開きます。</seg>
       </tuv>
     </tu>
     <tu>
