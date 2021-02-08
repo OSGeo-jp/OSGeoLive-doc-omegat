@@ -6374,6 +6374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Before writing any code for the map, you need to do the following preparation steps on your page:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T124611Z" creationid="miurahr" creationdate="20210208T124611Z">
+        <seg>Before writing any code for the map, you need to do the following preparation steps on your page:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Before you draw, you need to make sure that nothing is selected.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075519Z" creationid="miurahr" creationdate="20201103T073558Z">
@@ -15556,6 +15564,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Include Leaflet CSS files in the head section of your document</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T124612Z" creationid="miurahr" creationdate="20210208T124612Z">
+        <seg>Include Leaflet CSS files in the head section of your document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Include Leaflet JavaScript file:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T124657Z" creationid="miurahr" creationdate="20210208T124657Z">
+        <seg>Leaflet JavaScritファイルをよみこむ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Include coastline, land, ocean, minor islands, reefs, physical region features and points, rivers, lakes, glaciated areas, Antarctic ice shelves, bathymetry, geographic lines, and graticles.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012727Z" creationid="miurahr" creationdate="20201103T012727Z">
@@ -16416,6 +16440,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011007Z" creationid="miurahr" creationdate="20201103T011007Z">
         <seg>軽量ですが、ほとんどの開発者がかつて必要としていたオンライン地図のための全ての機能を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is lightweight, yet has all the features most developers ever need for online maps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T124307Z" creationid="miurahr" creationdate="20210208T124307Z">
+        <seg>軽量ですが、開発者が必要とする少し前のオンライン地図の全機能を持っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17456,6 +17488,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210112T131401Z" creationid="sanak" creationdate="20210105T153326Z">
         <seg>Leaflet クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Leaflet is a JavaScript library for browser-based, mobile-friendly, interactive maps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T124156Z" creationid="miurahr" creationdate="20210208T124156Z">
+        <seg>Leaflet はブラウザベースで、モバイルフレンドリーなインタラクティブ地図のための JavaScript ライブラリです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21108,6 +21148,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On OSGeoLive this can be found under **Geospatial\\Spatial Tools\\Start Mapnik &amp; TileStache**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T124412Z" creationid="miurahr" creationdate="20210208T124412Z">
+        <seg>OSGeoLiveでは、**Geospatial\\Spatial Tools\\Start Mapnik &amp; TileStache** にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On Windows run the installer, or on Ubuntu-like Linux systems do the following:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113435Z" creationid="miurahr" creationdate="20201103T113435Z">
@@ -22972,6 +23020,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Preparing your page</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T124558Z" creationid="miurahr" creationdate="20210208T124558Z">
+        <seg>HTMLページを用意する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Prerequisites</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132941Z" creationid="miurahr" creationdate="20201116T132941Z">
@@ -23192,6 +23248,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002617Z" creationid="miurahr" creationdate="20201103T002617Z">
         <seg>印刷とPDFの生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prior to running this quick start you should start TileStache.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T124354Z" creationid="miurahr" creationdate="20210208T124354Z">
+        <seg>このクイックスタートを開始するまえに、TileStacheを開始します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24669,6 +24733,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Running</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T124318Z" creationid="miurahr" creationdate="20210208T124318Z">
+        <seg>実行する</seg>
       </tuv>
     </tu>
     <tu>
@@ -30981,6 +31053,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will provide background tiles that will be used in this demo.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T124521Z" creationid="miurahr" creationdate="20210208T124521Z">
+        <seg>これで、このデモで必要な背景タイルを提供できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This will show a pop-up menu.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T225605Z" creationid="miurahr" creationdate="20201221T225605Z">
@@ -32777,6 +32857,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010209Z" creationid="miurahr" creationdate="20201103T010209Z">
         <seg>雲や太陽の影を表示したり、衛星や宇宙ステーションを追跡したり、それらの軌道を表示したりします。これらはすべてリアルタイムで更新されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View the example_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T124533Z" creationid="miurahr" creationdate="20210208T124533Z">
+        <seg>example_ を見る</seg>
       </tuv>
     </tu>
     <tu>
@@ -41803,6 +41891,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>puppingeo gmail com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>put a **div** element with a certain **id** where you want your map to be:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T124704Z" creationid="miurahr" creationdate="20210208T124704Z">
+        <seg>put a **div** element with a certain **id** where you want your map to be:</seg>
       </tuv>
     </tu>
     <tu>
