@@ -2782,6 +2782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**What will I learn ?** In this section, you will learn how to use the PROJ tool.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T124949Z" creationid="miurahr" creationdate="20210208T124949Z">
+        <seg>**何を学べますか?** このセクションでは、PROJツールの使用方法を学習します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**What will I learn ?** In this section, you will learn how to use the cs2cs tool.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T043521Z" creationid="miurahr" creationdate="20201221T043521Z">
@@ -5522,6 +5530,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132133Z" creationid="miurahr" creationdate="20201116T132133Z">
         <seg>選択または定義するビュースケールの編集可能なプルダウンリスト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An example of forward geodesic use is to use the Boston loca- tion and determine Portland's location by azimuth and distance:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125313Z" creationid="miurahr" creationdate="20210208T125313Z">
+        <seg>前方測地線を使用する例として、ボストンの位置を使用し、方位角と距離でポートランドのロケーションを決定する方法を示した事例:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8580,6 +8596,38 @@
       </tuv>
       <tuv lang="ja">
         <seg>座標</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy a file to a new file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125520Z" creationid="miurahr" creationdate="20210208T125520Z">
+        <seg>ファイルをあたらしいファイルへコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy a file to another directory</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125534Z" creationid="miurahr" creationdate="20210208T125534Z">
+        <seg>ファイルを他のディレクトリにコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy a whole directory to a new location (-R recursive)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125607Z" creationid="miurahr" creationdate="20210208T125600Z">
+        <seg>ディレクトリ全体をあたらしい場所へコピー (-R 再帰的にたどる)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy files and directories</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125448Z" creationid="miurahr" creationdate="20210208T125427Z">
+        <seg>ファイルとディレクトリーのコピー</seg>
       </tuv>
     </tu>
     <tu>
@@ -17284,6 +17332,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lack of precision in the distance value compromises the precision of the Portland location.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125321Z" creationid="miurahr" creationdate="20210208T125321Z">
+        <seg>距離の値に精度がないと、ポートランドのロケーションの精度が低下します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lads</seg>
       </tuv>
       <tuv lang="ja">
@@ -22340,6 +22396,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PROJ Example</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125029Z" creationid="miurahr" creationdate="20210208T125029Z">
+        <seg>PROJの例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PROJ Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T124800Z" creationid="miurahr" creationdate="20210208T124800Z">
+        <seg>PROJクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PROJ and invproj perform respective forward and inverse transformation of cartographic data to or from cartesian data with a wide range of selectable projection functions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125011Z" creationid="miurahr" creationdate="20210208T125011Z">
+        <seg>PROJとinvprojは、選択可能なデカルト関数を使用して、投影データとの間で地図データの順変換と逆変換を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PROJ has been translated from C to `other languages &lt;https://trac.osgeo.org/metacrs/wiki&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T052025Z" creationid="miurahr" creationdate="20210201T052025Z">
@@ -22352,6 +22432,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T052323Z" creationid="miurahr" creationdate="20210201T052323Z">
         <seg>PROJは、異なる座標参照システム間で変換するメソッドを提供するライブラリです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PROJ is a standard Unix filter function which converts geographic longitude and latitude coordinates into cartesian coordinates (and vice versa), and it is a C API for software developers to include coordinate transformation in their own software.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T124938Z" creationid="miurahr" creationdate="20210208T124938Z">
+        <seg>proj.4は、地理的な経緯度座標をデカルト座標に(またはその逆に)変換する標準的なUnixのフィルタ関数であり、ソフトウェア開発者が自身のソフトウェアに座標変換を含めるためのC APIです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28404,6 +28492,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The coordinate system transformation can include translation between projected and geographic coordinates as well as the application of datum shifts.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125150Z" creationid="miurahr" creationdate="20210208T125150Z">
+        <seg>座標系変換には、投影座標と地理座標との間の平行移動や、データムシフトの適用が含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The core R interface is a command line window which provides excellent flexibility and control but tends to lengthen the time required to become a proficient user when compared to software with a graphical user interface (GUI).</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T131358Z" creationid="miurahr" creationdate="20201103T013650Z">
@@ -28724,6 +28820,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following script determines the geodesic azimuths and distance in U.S.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125301Z" creationid="miurahr" creationdate="20210208T125301Z">
+        <seg>次のスクリプトは、測地線の方位角と距離を計算します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The functionality can be accessed through a GUI, the command line or by using the C++ API.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T015627Z" creationid="miurahr" creationdate="20201103T015627Z">
@@ -28767,6 +28871,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
         <seg>The geographic values of this example are equivalent and  meant as  examples of various forms of DMS input.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T043702Z" creationid="miurahr" creationdate="20201221T043702Z">
+        <seg>この例の地理的値は、DMS入力の様々な形式の例として、等価であり、意味があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The geographic values of this example are equivalent and meant as examples of various forms of DMS input.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125114Z" creationid="miurahr" creationdate="20210208T125114Z">
         <seg>この例の地理的値は、DMS入力の様々な形式の例として、等価であり、意味があります。</seg>
       </tuv>
     </tu>
@@ -29288,6 +29400,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003134Z" creationid="miurahr" creationdate="20201103T003134Z">
         <seg>作成されるWebマップは、デスクトップとまったく同じように表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The results are accurate to round off for `|f| &lt; 1/50`, where f is flattening.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125242Z" creationid="miurahr" creationdate="20210208T125242Z">
+        <seg>結果は、 `|f| &lt; 1/50` (fは平坦化) の丸めに適しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29976,6 +30096,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071049Z" creationid="miurahr" creationdate="20201103T071049Z">
         <seg>これらのクライアントは PostGIS 空間データテーブルの地図表示や操作を可能とします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These commands are fully describe in `PROJ documentation &lt;https://proj.org/apps/proj.html&gt;`_ for the latest version.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125023Z" creationid="miurahr" creationdate="20210208T125023Z">
+        <seg>これらのコマンドについては、最新バージョンの  `proj documentation &lt;https://proj.org/apps/proj.html&gt;`_ で詳しく説明しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33869,6 +33997,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What is PROJ ?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T124957Z" creationid="miurahr" creationdate="20210208T124957Z">
+        <seg>PROJとは？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What is a Mapfile ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021028Z" creationid="miurahr" creationdate="20201103T021028Z">
@@ -34197,6 +34333,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Who is sudo?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125614Z" creationid="miurahr" creationdate="20210208T125601Z">
+        <seg>sudoとは?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Widespread geo-application integration</seg>
       </tuv>
       <tuv lang="ja">
@@ -34233,6 +34377,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T040808Z" creationid="miurahr" creationdate="20201108T040808Z">
         <seg>PostgreSQLでは、要求はSQL言語で行われ、応答は通常データベースからのデータのテーブルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With `sudo` you can do things that you are normally not allowed to.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125640Z" creationid="miurahr" creationdate="20210208T125640Z">
+        <seg> `sudo` を使って、通常は実行できないコマンドを実行できるようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34707,6 +34859,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T145830Z" creationid="miurahr" creationdate="20201121T055549Z">
         <seg>`GeoServer Welcome page`_ の右パネルからWMS URL(例えば `WMS1.1.1`_ 用)をコピーし、それを **マップ** ビューまたは **レイヤ** ビューのいずれかに "貼り付ける" ことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can copy files from one location to another.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125508Z" creationid="miurahr" creationdate="20210208T125508Z">
+        <seg>ファイルを一方の場所から他へコピーすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36751,6 +36911,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>``cs2cs`` performs transformation between the source and destination cartographic coordinate system on a set of input points.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125130Z" creationid="miurahr" creationdate="20210208T125130Z">
+        <seg>``cs2cs`` は、一連の入力点上で、変換元と変換先の地図作成座標系間の変換を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>``geod``  (direct)  and  ``invgeod`` (inverse) perform geodesic ("Great Circle") computations for determining latitude,  longitude  and back  azimuth  of  a terminus point given a initial point latitude, longitude, azimuth and distance (direct) or  the  forward and  back azimuths and distance between an initial and terminus point latitudes and  longitudes  (inverse).</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210104T043949Z" creationid="miurahr" creationdate="20201221T043855Z">
@@ -36759,9 +36927,25 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>``geod`` (direct) and ``invgeod`` (inverse) perform geodesic ("Great Circle") computations for determining latitude, longitude and back azimuth of a terminus point given a initial point latitude, longitude, azimuth and distance (direct) or the forward and back azimuths and distance between an initial and terminus point latitudes and longitudes (inverse).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125232Z" creationid="miurahr" creationdate="20210208T125232Z">
+        <seg>``geod`` (直接) と ``invgeod`` (逆) は、測地線 ("Great Circle") 計算を実行します。この計算では、最初の点の緯度、経度、方位角、距離 (直接) 、または前後の方位角と最初と最後の点の間の距離 (逆) を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>``invgeod`` may not be available on all  platforms;  in  this  case call geod with the -I option.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T051431Z" creationid="miurahr" creationdate="20201221T050917Z">
+        <seg>``invgeod`` はすべてのプラットフォームで利用できるわけではありません。この場合、-Iオプションを指定してgeodを呼び出してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>``invgeod`` may not be available on all platforms; in this case call geod with the -I option.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125251Z" creationid="miurahr" creationdate="20210208T125251Z">
         <seg>``invgeod`` はすべてのプラットフォームで利用できるわけではありません。この場合、-Iオプションを指定してgeodを呼び出してください。</seg>
       </tuv>
     </tu>
@@ -36847,6 +37031,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`ls -1` shows only the file names</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125431Z" creationid="miurahr" creationdate="20210208T125425Z">
+        <seg>`ls -1` は、ファイル名だけ表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`ls -a` also shows hidden files</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T055906Z" creationid="miurahr" creationdate="20210201T055906Z">
@@ -36857,8 +37049,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`ls -al` you can combine the different options</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210201T055917Z" creationid="miurahr" creationdate="20210201T055917Z">
-        <seg>`ls -al` you can combine the different options</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125413Z" creationid="miurahr" creationdate="20210201T055917Z">
+        <seg>`ls -al` 他のオプションとくみあわせることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36907,6 +37099,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T062844Z" creationid="miurahr" creationdate="20201108T042235Z">
         <seg>`raster` - データをn次元の行列として格納するデータ型で、各位置(ピクセル)は</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`sudo` runs commands with the rights of the superuser also known as root With `sudo` you can i.e. install more software, administrate services, change access rights and more fun.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125803Z" creationid="miurahr" creationdate="20210208T125803Z">
+        <seg>`sudo` は、コマンドを通常 root ユーザとして知られるスーパーユーザーの権限で実行します。 `sudo` をつかうと、ソフトウエアを導入するとか、サービスの管理をするとか、アクセス権限を変更するとか、いろいろ可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43459,6 +43659,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T043434Z" creationid="miurahr" creationdate="20201221T043342Z">
         <seg>は、経度112Wに最も近い標準的なUTM中心子午線を使用して、UTM投影を実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>will perform UTM forward projection with a stan- dard UTM central meridian nearest longitude 112W.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125058Z" creationid="miurahr" creationdate="20210208T125058Z">
+        <seg>は、経度112Wに最も近い標準的なUTM中心子午線を使用して、UTM投影を実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>will transform the input NAD83 geographic coordinates into NAD27 coordinates in the UTM projection with zone 10 selected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125206Z" creationid="miurahr" creationdate="20210208T125206Z">
+        <seg>は、zone10を選択した状態で、UTM投影のNAD83地理座標をNAD27座標に変換します。</seg>
       </tuv>
     </tu>
     <tu>
