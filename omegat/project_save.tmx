@@ -15468,6 +15468,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the terminal window you can use the `vim` editor (Vi IMproved).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T133348Z" creationid="miurahr" creationdate="20210208T133348Z">
+        <seg>ターミナルウインドウで、 `vim` エディタ (Vi IMproved)を利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the terminal, enter: "cd /usr/share/istsos/" and press ENTER.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T034433Z" creationid="miurahr" creationdate="20201122T034433Z">
@@ -21652,6 +21660,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open a file with `vim`:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T133625Z" creationid="miurahr" creationdate="20210208T133625Z">
+        <seg> `vim` でファイルを開く:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open a new terminal window to verify the version of osm2pgrouting you have installed.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T001930Z" creationid="miurahr" creationdate="20201117T001930Z">
@@ -25357,6 +25373,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>参照:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See also</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T133614Z" creationid="miurahr" creationdate="20210208T133614Z">
+        <seg>参照</seg>
       </tuv>
     </tu>
     <tu>
@@ -36423,6 +36447,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`:w` saves your changes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T133720Z" creationid="miurahr" creationdate="20210208T133720Z">
+        <seg>`:w` は、変更点を保存する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`API Docs &lt;../../openlayers/apidoc/&gt;`_</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021534Z" creationid="miurahr" creationdate="20201108T021534Z">
@@ -36507,6 +36539,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T052358Z" creationid="miurahr" creationdate="20210201T052141Z">
         <seg>`SpatialReference.org &lt;https://spatialreference.org/&gt;`_  - 座標系定義を取得するためのWebサイトです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`ESC` leaves the input mode</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T133707Z" creationid="miurahr" creationdate="20210208T133707Z">
+        <seg>`ESC` キーで、入力モードからぬける</seg>
       </tuv>
     </tu>
     <tu>
@@ -37195,6 +37235,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T055748Z" creationid="miurahr" creationdate="20210201T055748Z">
         <seg>`touch` をつかうと、新しい空のファイルを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`vim` is very powerful and has many options.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T133601Z" creationid="miurahr" creationdate="20210208T133601Z">
+        <seg>`vim` はパワフルで、様々な機能があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42091,6 +42139,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T071259Z" creationid="miurahr" creationdate="20201103T071259Z">
         <seg>視覚化、分類、畳み込み、集約、その他多くの空間関数に対応する、強力で柔軟なクエリ言語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>press `i` to switch to the input mode</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T133650Z" creationid="miurahr" creationdate="20210208T133650Z">
+        <seg>`i` キーをおして、入力モードへ変更する</seg>
       </tuv>
     </tu>
     <tu>
