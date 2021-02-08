@@ -14104,6 +14104,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How to edit files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T130155Z" creationid="miurahr" creationdate="20210208T130155Z">
+        <seg>ファイルの編集方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How to navigate in the file system?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T055415Z" creationid="miurahr" creationdate="20210201T055415Z">
@@ -15926,8 +15934,8 @@
       <tuv lang="en-US">
         <seg>Install programs</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210201T055928Z" creationid="miurahr" creationdate="20210201T055928Z">
-        <seg>インストールプログラム</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125911Z" creationid="miurahr" creationdate="20210201T055928Z">
+        <seg>プログラムをインストールする</seg>
       </tuv>
     </tu>
     <tu>
@@ -24497,6 +24505,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Restart your Apache Service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T130131Z" creationid="miurahr" creationdate="20210208T130131Z">
+        <seg>Apacheサービスを再開できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Restrict user access with the OWS security proxy module via trusted servers</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T053738Z" creationid="miurahr" creationdate="20201122T053738Z">
@@ -24805,6 +24821,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210206T165909Z" creationid="miurahr" creationdate="20210206T165909Z">
         <seg>次のコマンドを実行して、ディスク記述子を ``vmdk`` ファイルに書き戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run the new program with `sl` see also `apt show sl`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T130036Z" creationid="miurahr" creationdate="20210208T130036Z">
+        <seg>Run the new program with `sl` see also `apt show sl`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25205,6 +25229,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010328Z" creationid="miurahr" creationdate="20201103T010328Z">
         <seg>検索(オンライン住所検索、オンラインPOI検索)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search and install programs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125844Z" creationid="miurahr" creationdate="20210208T125844Z">
+        <seg>検索とプログラムのインストール</seg>
       </tuv>
     </tu>
     <tu>
@@ -26001,6 +26033,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show information about programs.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125859Z" creationid="miurahr" creationdate="20210208T125859Z">
+        <seg>プログラムの情報を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show me what is in a directory</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T055811Z" creationid="miurahr" creationdate="20210201T055811Z">
@@ -26277,6 +26317,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T150440Z" creationid="miurahr" creationdate="20201103T012234Z">
         <seg>注目すべき点は、Swing サポート (geotoolsチュートリアルで使用)、SWT、ローカルおよびWebプロセスサポート、追加のシンボロジー、追加のデータフォーマット、グリッドの生成、および ISO ジオメトリのいくつかの実装です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some programms run as services like PostgreSQL, tomcat or Apache Webserver.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T130111Z" creationid="miurahr" creationdate="20210208T130111Z">
+        <seg>PostgreSQL、TomcatやApache webサーバのように一部のプログラムはサービスとして実行されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35039,6 +35087,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can either edit files in the terminal or open them with an external program like Geany.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T133314Z" creationid="miurahr" creationdate="20210208T133314Z">
+        <seg>ターミナルでファイルを編集することもできますし、Geanyのような外部プログラムで開くこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can enter your own customised SQL into this panel.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201121T134327Z" creationid="miurahr" creationdate="20201121T134327Z">
@@ -35323,6 +35379,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235120Z" creationid="miurahr" creationdate="20201116T235120Z">
         <seg>ライブラリを最初に見たい場合は、このセクションをスキップできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can start or stop the services.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T130119Z" creationid="miurahr" creationdate="20210208T130119Z">
+        <seg>サービスを開始、停止できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35839,6 +35903,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You will love the program `sl`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125932Z" creationid="miurahr" creationdate="20210208T125902Z">
+        <seg> `sl` プログラムを気にいるとおもいますよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You will not be able to carry out the following steps if you are running with a **read only** file system (such as the DVD).</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T080534Z" creationid="miurahr" creationdate="20201116T150715Z">
@@ -35907,6 +35979,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T230555Z" creationid="miurahr" creationdate="20201116T230555Z">
         <seg>次のように表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will see the use of `sudo` in some of the following commands.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T125832Z" creationid="miurahr" creationdate="20210208T125832Z">
+        <seg>次のコマンドは、 `sudo` の用例です。</seg>
       </tuv>
     </tu>
     <tu>
