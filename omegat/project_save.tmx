@@ -6870,6 +6870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default (as we didn't pass any options when creating the map instance), all mouse and touch interactions on the map are enabled, and it has zoom and attribution controls.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T140319Z" creationid="miurahr" creationdate="20210208T140319Z">
+        <seg>デフォルトで、 (地図インスタンスを作成するときに、設定オプションを与えない場合), 全てのマウス操作とタッチ操作は有効化されます。ズームや属性制御することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By default the creator of a file/directory is the owner.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T133951Z" creationid="miurahr" creationdate="20210122T024001Z">
@@ -11480,6 +11488,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>First we'll initialize the map and set its view to our chosen geographical coordinates and a zoom level:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T140206Z" creationid="miurahr" creationdate="20210208T140206Z">
+        <seg>最初に地図の初期化をおこないます。ビューを設定し投影法とズームレベルを選択します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>First you should get to know how the file system under Linux is organized.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T055422Z" creationid="miurahr" creationdate="20210201T055422Z">
@@ -15636,6 +15652,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this case we will be using the tile images provided by TileStache on the live dvd.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T140539Z" creationid="miurahr" creationdate="20210208T140539Z">
+        <seg>In this case we will be using the tile images provided by TileStache on the live dvd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this case, it will show the results of a query of each active and identifiable layer for the point that you clicked in the map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132229Z" creationid="miurahr" creationdate="20201116T132229Z">
@@ -17772,6 +17796,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's create a map of eastern Africa with an indication of the 2018 FOSS4G conference.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T140124Z" creationid="miurahr" creationdate="20210208T140124Z">
+        <seg>では、2018年のFOSS4Gカンファレンスが開催された東アフリカの地図を作成してみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's create a new, empty spatialite database, and load two shapefiles from the north_carolina dataset::</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T021511Z" creationid="miurahr" creationdate="20201122T021501Z">
@@ -19804,6 +19836,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next we'll add a tile layer to our map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T140528Z" creationid="miurahr" creationdate="20210208T140528Z">
+        <seg>次に、地図にレイヤを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next, add PostGIS extension:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041949Z" creationid="miurahr" creationdate="20201108T041949Z">
@@ -19984,6 +20024,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T111044Z" creationid="smellman" creationdate="20201101T111044Z">
         <seg>画像は必ずしもテキストと同じCCライセンスで提供されているわけではないことに注意してください。著者に確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note that setView call also returns the map object - most Leaflet methods act like this when they don't return an explicit value, which allows convenient jQuery-like method chaining.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T140511Z" creationid="miurahr" creationdate="20210208T140511Z">
+        <seg> setView のよびだしも、地図オブジェクトを返却します。 - 多くのLeafletのメソッドは、明示的な戻り値がない場合、同様に動作します。 jQueryのようなメソッドのチェインニングができて便利です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20414,8 +20462,8 @@
       <tuv lang="en-US">
         <seg>Now you are ready to initialize the map and do some stuff with it.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210208T135702Z" creationid="miurahr" creationdate="20210208T135702Z">
-        <seg>Now you are ready to initialize the map and do some stuff with it.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T140040Z" creationid="miurahr" creationdate="20210208T135702Z">
+        <seg>これで地図を表示し、応用する準備がととのいました。</seg>
       </tuv>
     </tu>
     <tu>
