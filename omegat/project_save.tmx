@@ -3118,6 +3118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>+/- right: r = read / w = write / x = execute</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134659Z" creationid="miurahr" creationdate="20210208T134659Z">
+        <seg>+/- right: r = read / w = write / x = execute</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>-&gt; http://localhost/cgi-bin/qgis_mapserv.fcgi</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T152424Z" creationid="miurahr" creationdate="20201221T152424Z">
@@ -3142,6 +3150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1 execute</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134521Z" creationid="miurahr" creationdate="20210208T134502Z">
+        <seg>1 実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>10.0</seg>
       </tuv>
       <tuv lang="ja">
@@ -3154,6 +3170,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>10.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2 write</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134516Z" creationid="miurahr" creationdate="20210208T134501Z">
+        <seg>2 書き込み</seg>
       </tuv>
     </tu>
     <tu>
@@ -3226,6 +3250,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T032751Z" creationid="miurahr" creationdate="20201220T032751Z">
         <seg>3D 可視化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4 read</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134509Z" creationid="miurahr" creationdate="20210208T134501Z">
+        <seg>4 読み込み</seg>
       </tuv>
     </tu>
     <tu>
@@ -3326,10 +3358,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>660 - owner and group are allowed to read and write, other have no rights</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134604Z" creationid="miurahr" creationdate="20210208T134604Z">
+        <seg>660 - 所有者とグループは、読み書きできますが、他人には一切のアクセス権がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>7.9</seg>
       </tuv>
       <tuv lang="ja">
         <seg>7.9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>744 - owner can do everything, group and others can only read</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134637Z" creationid="miurahr" creationdate="20210208T134637Z">
+        <seg>744 - 所有者はすべてのことができ、グループと他人は読み込みのみできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>777 everyone can do everything</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134453Z" creationid="miurahr" creationdate="20210208T134453Z">
+        <seg>777 を指定すると、だれでもなんでもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4546,6 +4602,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T081419Z" creationid="miurahr" creationdate="20201122T051306Z">
         <seg>マップへのアクセス元: MapServer、Tilecache、ArcGIS REST、WMS、WFS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access rights are listed at the beginning of the row:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134239Z" creationid="miurahr" creationdate="20210208T134239Z">
+        <seg>アクセス権は、各行の最初に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6766,6 +6830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But this definition can be changed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134022Z" creationid="miurahr" creationdate="20210208T134022Z">
+        <seg>しかし、この変更は変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But, without being logged in, you are limited to read-only access of public layers.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142103Z" creationid="miurahr" creationdate="20201116T142103Z">
@@ -6800,8 +6872,8 @@
       <tuv lang="en-US">
         <seg>By default the creator of a file/directory is the owner.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210122T024001Z" creationid="miurahr" creationdate="20210122T024001Z">
-        <seg>By default the creator of a file/directory is the owner.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T133951Z" creationid="miurahr" creationdate="20210122T024001Z">
+        <seg>デフォルトで、ファイルやディレクトリの作成者が所有者になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7134,6 +7206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change access rights with `chmod`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134434Z" creationid="miurahr" creationdate="20210208T134434Z">
+        <seg> `chmod` でアクセス権を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change the :guilabel:`Default Style` box to the name of the style you uploaded in the previous section.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T081026Z" creationid="miurahr" creationdate="20201116T234306Z">
@@ -7154,6 +7234,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T000743Z" creationid="miurahr" creationdate="20201117T000743Z">
         <seg>表示の変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change the owner with `chown`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134350Z" creationid="miurahr" creationdate="20210208T134350Z">
+        <seg> `chown` で所有者を変更できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13772,6 +13860,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Henry Addo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here are other commands you may try.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134719Z" creationid="miurahr" creationdate="20210208T134719Z">
+        <seg>試してみるコマンドが他にもあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22392,6 +22488,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T042509Z" creationid="miurahr" creationdate="20201108T042509Z">
         <seg>概要は、ラスターデータの低解像度テーブルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Owner and access rights</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T133849Z" creationid="miurahr" creationdate="20210208T133849Z">
+        <seg>ファイル所有者とアクセス権</seg>
       </tuv>
     </tu>
     <tu>
@@ -35233,8 +35337,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can have `read`, `write` or `excecute` access.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210201T060027Z" creationid="miurahr" creationdate="20210201T060027Z">
-        <seg>You can have `read`, `write` or `excecute` access.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T133927Z" creationid="miurahr" creationdate="20210201T060027Z">
+        <seg>`読み込み` `書き込み` `実行` のアクセス権があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35395,6 +35499,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132329Z" creationid="miurahr" creationdate="20201116T132329Z">
         <seg>地物はポイント、ライン、ポリゴン、または既存の地物から選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can show the owner and group via `ls -l`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134055Z" creationid="miurahr" creationdate="20210208T134055Z">
+        <seg>所有者と所有グループを  `ls -l` で見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35927,6 +36039,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You will learn this in the next section.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134032Z" creationid="miurahr" creationdate="20210208T134032Z">
+        <seg>次の章でまなんでいきましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You will love the program `sl`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T125932Z" creationid="miurahr" creationdate="20210208T125902Z">
@@ -36439,6 +36559,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`-R` recursive</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134421Z" creationid="miurahr" creationdate="20210208T134421Z">
+        <seg>`-R` 再帰的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`.osm.pbf` and`.shp.zip` can be opened directly in QGIS.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210122T025151Z" creationid="miurahr" creationdate="20210122T025151Z">
@@ -36447,10 +36575,34 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`:q!` closes the file without saving</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T133812Z" creationid="miurahr" creationdate="20210208T133812Z">
+        <seg>`:q!` は、保存することなしに、ファイルを閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`:q` closes the file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T133755Z" creationid="miurahr" creationdate="20210208T133755Z">
+        <seg>`:q` ファイルを閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`:w` saves your changes</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T133720Z" creationid="miurahr" creationdate="20210208T133720Z">
         <seg>`:w` は、変更点を保存する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`:wq` saves your changes and closes the file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T133737Z" creationid="miurahr" creationdate="20210208T133737Z">
+        <seg>`:wq` は、変更点を保存し、ファイルをとじる</seg>
       </tuv>
     </tu>
     <tu>
@@ -37215,6 +37367,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`r` read</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134245Z" creationid="miurahr" creationdate="20210208T134245Z">
+        <seg>`r` 読み込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`raster` - is a data type that stores data as an n-dimensional matrix where each position (pixel) represents</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T062844Z" creationid="miurahr" creationdate="20201108T042235Z">
@@ -37239,10 +37399,42 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`user` is defined as the owner and the group</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134216Z" creationid="miurahr" creationdate="20210208T134216Z">
+        <seg>`user` は、所有者とグループで定義されます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`vim` is very powerful and has many options.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T133601Z" creationid="miurahr" creationdate="20210208T133601Z">
         <seg>`vim` はパワフルで、様々な機能があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`w` write</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134252Z" creationid="miurahr" creationdate="20210208T134252Z">
+        <seg>`w` 書き込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`x` execute</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134259Z" creationid="miurahr" creationdate="20210208T134259Z">
+        <seg>`x` 実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>a = all</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134659Z" creationid="miurahr" creationdate="20210208T134659Z">
+        <seg>a = all</seg>
       </tuv>
     </tu>
     <tu>
@@ -38975,6 +39167,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>first 3 letters for the owner</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134313Z" creationid="miurahr" creationdate="20210208T134313Z">
+        <seg>最初の3文字は、所有者のアクセス権です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>first pass the user then the group - like `user:www-data`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134416Z" creationid="miurahr" creationdate="20210208T134416Z">
+        <seg>`user:www-data` のように前半がユーザで、後半がグループを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>flavour</seg>
       </tuv>
       <tuv lang="ja">
@@ -39011,6 +39219,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>flicstar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>followed by the last 3 letters for others</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134338Z" creationid="miurahr" creationdate="20210208T134338Z">
+        <seg>続く3文字は、他者のアクセス権になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39075,6 +39291,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>fxp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>g = group</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134658Z" creationid="miurahr" creationdate="20210208T134658Z">
+        <seg>g = group</seg>
       </tuv>
     </tu>
     <tu>
@@ -39435,6 +39659,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>grass_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>grep - search for a pattern in a text</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134737Z" creationid="miurahr" creationdate="20210208T134737Z">
+        <seg>grep - テキストのなかから、パターンを検索します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41527,6 +41759,38 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>number: group (g)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134458Z" creationid="miurahr" creationdate="20210208T134458Z">
+        <seg>number: group (g)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>number: other (o)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134500Z" creationid="miurahr" creationdate="20210208T134500Z">
+        <seg>number: other (o)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>number: owner (u)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134458Z" creationid="miurahr" creationdate="20210208T134458Z">
+        <seg>number: owner (u)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>o = other</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134659Z" creationid="miurahr" creationdate="20210208T134659Z">
+        <seg>o = other</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>object detection</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T024555Z" creationid="miurahr" creationdate="20201220T024555Z">
@@ -41651,6 +41915,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T024345Z" creationid="miurahr" creationdate="20201220T024345Z">
         <seg>光学式および SAR 調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>or use it like this</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134657Z" creationid="miurahr" creationdate="20210208T134657Z">
+        <seg>あるいは次のように指定できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43295,10 +43567,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>the initial character can be `-` for a file or `d` for directory</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134123Z" creationid="miurahr" creationdate="20210208T134123Z">
+        <seg>最初の文字が `-` のときはファイル、 `d` のときはディレクトリです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>the scale bar and which users have contributed to the area.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051422Z" creationid="miurahr" creationdate="20201103T051422Z">
         <seg>スケールバーと、その領域にどのユーザが貢献したかを示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>then next 3 letters for the group</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134326Z" creationid="miurahr" creationdate="20210208T134326Z">
+        <seg>つぎの3文字は、グループのアクセス権です</seg>
       </tuv>
     </tu>
     <tu>
@@ -43459,6 +43747,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>tzotsos gmail com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>u = user</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210208T134658Z" creationid="miurahr" creationdate="20210208T134658Z">
+        <seg>u = user</seg>
       </tuv>
     </tu>
     <tu>
