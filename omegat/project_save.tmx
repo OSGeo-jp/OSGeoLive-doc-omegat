@@ -5974,6 +5974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As a next step, you can try to add an `OpenLayers &lt;https://openlayers.org/&gt;`__ map and connect the ``Style`` component to the map, so that you can directly see the changes you made on the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T084111Z" creationid="sanak" creationdate="20210214T084111Z">
+        <seg>次のステップとして、`OpenLayers &lt;https://openlayers.org/&gt;`__ マップを追加し、``Style`` コンポーネントをマップに接続して、マップ上で行った変更を直接見ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As always, never use a piece of software or electronic equipment as your only means of navigation and keep an eye out the window.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T224245Z" creationid="miurahr" creationdate="20201221T224245Z">
@@ -16124,6 +16132,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Instructions on how to install ``node.js`` can be found on the `node.js homepage &lt;https://nodejs.org/&gt;`__.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T083727Z" creationid="sanak" creationdate="20210214T083727Z">
+        <seg>``node.js`` のインストール方法については、`node.js ホームページ &lt;https://nodejs.org/&gt;`__ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Integrate GeoStyler</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235320Z" creationid="miurahr" creationdate="20201116T235320Z">
@@ -16736,6 +16752,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041935Z" creationid="miurahr" creationdate="20201108T041935Z">
         <seg>おそらく、閉じる引用符やセミコロンなどを待っているのでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is recommended to install GeoStyler for each project separately.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T083801Z" creationid="sanak" creationdate="20210214T083801Z">
+        <seg>GeoStylerはプロジェクトごとに個別にインストールすることをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29424,6 +29448,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075400Z" creationid="miurahr" creationdate="20201103T073528Z">
         <seg>しかし、それらのボタンのなかで最も重要なのは、列の一番上に表示されているボタンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The most simple way to install GeoStyler is to use ``npm`` that comes with the ``node.js`` installation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T083958Z" creationid="sanak" creationdate="20210214T083958Z">
+        <seg>GeoStylerをインストールする最も簡単な方法は、 ``node.js`` インストールに付属の ``npm`` を使用することです。</seg>
       </tuv>
     </tu>
     <tu>
