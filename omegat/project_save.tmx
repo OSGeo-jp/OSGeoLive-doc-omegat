@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_4470bbb50" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef7" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4234,6 +4234,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010306Z" creationid="miurahr" creationdate="20201103T010306Z">
         <seg>地理の学習に最適なソリューション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A half hour `presentation &lt;./presentation.html&gt;`_, highlighting all OSGeoLive applications, is available with slides, script, and `abstract &lt;presentation/abstract.txt&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T055223Z" creationid="sanak" creationdate="20210214T055223Z">
+        <seg>全ての OSGeoLive アプリケーションを取り上げた30分間の `プレゼンテーション &lt;./presentation.html&gt;`_ がスライドや原稿、 `要約 &lt;presentation/abstract.txt&gt;`_ とともに、利用可能です。</seg>
       </tuv>
     </tu>
     <tu>
