@@ -5710,6 +5710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An updated version of `gdal2tiles.py` is also present on the Live disc.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230832Z" creationid="miurahr" creationdate="20210214T230832Z">
+        <seg>`gdal2tiles.py` のアップデート版もライブディスクにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analysis &amp; Query</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T103921Z" creationid="smellman" creationdate="20201103T103921Z">
@@ -7732,6 +7740,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210109T024952Z" creationid="miurahr" creationdate="20201103T052045Z">
         <seg>**大規模病院（代表点または敷地）** をクリックして、ポイントに病院のタグを付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click **Render** to start rendering the image.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230555Z" creationid="miurahr" creationdate="20210214T230555Z">
+        <seg>**Render** をクリックしてイメージのレンダリングを開始します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19036,6 +19052,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MapSlicer is essentially a GUI frontend to the `gdal2tiles.py` script.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230822Z" creationid="miurahr" creationdate="20210214T230822Z">
+        <seg>MapSlicerは本質的に `gdal2tiles.py` スクリプトのGUIフロントエンドです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MapSlicer prepares tiles using this specification as an easy and quick way of preparing a georeferenced map in a mashup web page.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T225623Z" creationid="miurahr" creationdate="20210214T225623Z">
@@ -22456,6 +22480,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T152743Z" creationid="miurahr" creationdate="20201221T152743Z">
         <seg>デスクトップで *Databases* ディレクトリを開き、 *Rasdaman Server* を起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the *openlayers.html* files in a web browser to view the tileset as an overlay on the live online map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230627Z" creationid="miurahr" creationdate="20210214T230627Z">
+        <seg>実際のオンラインマップ上のオーバーレイとしてタイルセットを表示するには、Webブラウザで *openlayers.html* ファイルを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26037,6 +26069,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>参照:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See `gdal2tiles.py --help` and `mb-util --help` for additional information on running these tools.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T231016Z" creationid="miurahr" creationdate="20210214T231016Z">
+        <seg>これらのツールに関する追加情報は `gdal2tiles.py --help` と `mb-util --help` で表示されるヘルプメッセージを見てください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30340,6 +30380,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The resulting tile trees created by these software can be used with the `mb-util` program to create an mbtiles database, for use with smartphone software like `Geopaparazzi &lt;https://www.geopaparazzi.org/&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230911Z" creationid="miurahr" creationdate="20210214T230911Z">
+        <seg>これらのソフトウェアで作成されたタイルツリーを `mb-util` プログラムを使用してmbtilesデータベースを作成し、 `Geopaparazzi &lt;https://www.geopaparazzi.org/&gt;`_ のようなスマートフォンソフトウェアで使用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The resulting web maps look exactly the same as in the desktop.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003134Z" creationid="miurahr" creationdate="20201103T003134Z">
@@ -32461,6 +32509,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To create an MBTiles SQLite database from the newly created tile tree, open a terminal, then</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230925Z" creationid="miurahr" creationdate="20210214T230925Z">
+        <seg>新しく作成したタイルツリーからMBTiles SQLiteデータベースを作成するには、ターミナルを開いて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To create your own map viewer you can use the snippets on the info page in the t-rex backend.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052634Z" creationid="smellman" creationdate="20201103T052634Z">
@@ -32737,6 +32793,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T063505Z" creationid="miurahr" creationdate="20201117T002708Z">
         <seg>データベースに対してクエリを実行するには、メインツールバーの ``SQL`` ボタン(黄色の拡大レンズ付き)を押す必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To present this on the web, just copy the entire tileset and all subdirectories to a web server, and edit the googlemaps.html or openlayers.html files as required.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230742Z" creationid="miurahr" creationdate="20210214T230742Z">
+        <seg>これをWebに公開するには、タイルセットの全てのディレクトリをwebサーバへコピーします。そして、 googlemaps.html や openlayers.html ッファイルを必要に応じて編集します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33769,6 +33833,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022935Z" creationid="miurahr" creationdate="20201103T022935Z">
         <seg>QGISデスクトップを使用したOGC WMSのロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using gdal2tiles to create a MBTiles database</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230802Z" creationid="miurahr" creationdate="20210214T230802Z">
+        <seg>gdal2tiles を使用すると、MBTilesデータベースを作成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35137,6 +35209,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T135754Z" creationid="miurahr" creationdate="20201120T135754Z">
         <seg>起動時に、起動メニューを示すメッセージを探します(通常はF12を押します)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When complete, MapSlicer provides a link to the finished tileset.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230601Z" creationid="miurahr" creationdate="20210214T230601Z">
+        <seg>完了すると、MapSlicerは完成したタイルセットへのリンクを提供します。</seg>
       </tuv>
     </tu>
     <tu>
