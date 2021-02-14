@@ -2894,6 +2894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**mapnik**:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232021Z" creationid="miurahr" creationdate="20210214T232021Z">
+        <seg>**mapnik**:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**md5 checksum**</seg>
       </tuv>
       <tuv lang="ja">
@@ -6374,6 +6382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Available layers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232021Z" creationid="miurahr" creationdate="20210214T232021Z">
+        <seg>使用可能なレイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Available on http://udig.refractions.net/</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210214T093108Z" creationid="miurahr" creationdate="20210201T055123Z">
@@ -6962,6 +6978,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T134022Z" creationid="miurahr" creationdate="20210208T134022Z">
         <seg>しかし、この変更は変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But you can also start MapProxy as a standalone service, which is the best option to get started.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T231535Z" creationid="miurahr" creationdate="20210214T231318Z">
+        <seg>さらに、スタンドアロンサービスとしてMapProxyを開始することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16716,6 +16740,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It caches, accelerates and transforms data from existing map services and serves any desktop or web GIS client.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T231355Z" creationid="miurahr" creationdate="20210214T231259Z">
+        <seg>既存のマップサービスのデータをキャッシュし、高速化し、変換して、任意のデスクトップまたはWeb GISクライアントに提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can also be used to build a virtual machine from scratch.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T224010Z" creationid="miurahr" creationdate="20201123T224010Z">
@@ -18948,6 +18980,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MapProxy has flexible deployment options and you can integrate it in Apache for example.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T231520Z" creationid="miurahr" creationdate="20210214T231308Z">
+        <seg>MapProxyには柔軟な配置オプションがあり、例えばApacheに統合することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MapProxy implements the following open specifications:</seg>
       </tuv>
       <tuv lang="ja">
@@ -18956,10 +18996,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MapProxy is *the* swiss army knife for all WMS and tile services.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T231345Z" creationid="miurahr" creationdate="20210214T231258Z">
+        <seg>MapProxyはすべてのWMSとタイルサービス用の *いわば* スイスアーミーナイフです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MapProxy is flexible and scales from simple to complex use-cases: from a single tile cache for an :doc:`OpenLayers &lt;openlayers_overview&gt;` web client to a central SDI node that combines, unifies and accelerates dozens of distributed WMS services.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>MapProxy は柔軟で、単純なものから複雑なユースケースまでスケールします: 例えば、 :doc:`OpenLayers &lt;openlayers_overview&gt;` Web クライアントのための単一のタイルキャッシュから、数十の分散型 WMS サービスの結合、統合、高速化を行う、中央の空間データインフラストラクチャ SDI ノードまでスケールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapProxy is not only a tile cache solution, but also offers many new and innovative features like full support for WMS clients.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T231418Z" creationid="miurahr" creationdate="20210214T231306Z">
+        <seg>MapProxyはタイルキャッシュソリューションであるだけでなく、WMSクライアントの完全サポートなど、多くの新しい革新的な機能を提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26089,6 +26145,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See below for more details about each layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T231811Z" creationid="miurahr" creationdate="20210214T231811Z">
+        <seg>各レイヤの詳細については、以下を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See https://www.osgeo.org/service-providers/ for one that meets your needs.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T105719Z" creationid="smellman" creationdate="20201101T105719Z">
@@ -26969,6 +27033,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Single WMS layer with data from two cascaded sources and `FeatureInformation` from one source.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232011Z" creationid="miurahr" creationdate="20210214T232011Z">
+        <seg>2つのカスケードソースからのデータと、1つのソースからの `FeatureInformation` による単一のWMSレイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sit back while the system boots up.</seg>
       </tuv>
       <tuv lang="ja">
@@ -27701,6 +27773,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>VirtualBox アプリケーションを起動し、新しい VM を作成するために New ボタンをクリックし、Next をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start the service and view the demo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T231422Z" creationid="miurahr" creationdate="20210214T231307Z">
+        <seg>サービスの開始とデモの表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -28712,6 +28792,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113334Z" creationid="miurahr" creationdate="20201103T113334Z">
         <seg>Ubuntuシステムは1GBのRAMで正常に動作するので、ホストシステムと少なくとも同じ量のメモリを確保する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The MapProxy demo page contains a rudimentary WMS and tile client for each configured layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T231628Z" creationid="miurahr" creationdate="20210214T231628Z">
+        <seg>MapProxyのデモページには、基本的なWMSと各設定レイヤのタイルクライアントが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The MapProxy example configuration contains a few layers that use different map engines and map data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T231804Z" creationid="miurahr" creationdate="20210214T231804Z">
+        <seg>MapProxyの設定例には、異なるマップエンジンとマップデータを使用するレイヤがいくつか含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30500,6 +30596,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The service URL is: `&lt;http://localhost:8011/service?&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T231759Z" creationid="miurahr" creationdate="20210214T231759Z">
+        <seg>サービス URL: `&lt;http://localhost:8011/service?&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The service is configured to visualize the data and a basemap (rendered by `OpenStreetMap &lt;https://www.openstreetmap.org/&gt;`_).</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T082853Z" creationid="miurahr" creationdate="20201116T135610Z">
@@ -30736,6 +30840,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002318Z" creationid="miurahr" creationdate="20201103T002318Z">
         <seg>このWebサイトには、簡単なツールの作成から独自のカスタムアプリケーションのリリースまでを網羅した一連の明確なチュートリアルが用意されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The world population rendered by Mapnik.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232027Z" creationid="miurahr" creationdate="20210214T232027Z">
+        <seg>Mapnikが描いた世界人口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32877,6 +32989,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To start MapProxy as a standalone service click on :menuselection:`Geospatial --&gt; Web Services --&gt; MapProxy --&gt; Start MapProxy`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T231614Z" creationid="miurahr" creationdate="20210214T231528Z">
+        <seg>MapProxy をスタンドアロンサービスとして起動するには、 :menuselection:`Geospatial --&gt; Web Services --&gt; MapProxy --&gt; Start MapProxy` をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To start out with we are going to load some of the sample data included on the DVD.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T141931Z" creationid="miurahr" creationdate="20201120T141931Z">
@@ -34041,6 +34161,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010209Z" creationid="miurahr" creationdate="20201103T010209Z">
         <seg>雲や太陽の影を表示したり、衛星や宇宙ステーションを追跡したり、それらの軌道を表示したりします。これらはすべてリアルタイムで更新されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View in desktop GIS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T231745Z" creationid="miurahr" creationdate="20210214T231745Z">
+        <seg>デスクトップGISで表示する</seg>
       </tuv>
     </tu>
     <tu>
@@ -35821,6 +35949,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can add MapProxy in any WMS Desktop GIS like uDig, QGIS or gvSIG.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T231749Z" creationid="miurahr" creationdate="20210214T231749Z">
+        <seg>uDig、QGIS、gvSIGなど、任意のWMS Desktop GISにMapProxyを追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can add additional information by clicking these icons:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053357Z" creationid="miurahr" creationdate="20201103T053357Z">
@@ -36647,10 +36783,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can't select the projection for WMS layers for example, but it is enough to quickly verify that your installation works.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T231728Z" creationid="miurahr" creationdate="20210214T231728Z">
+        <seg>たとえば、WMSレイヤの投影選択ができませんが、インストール後に動作確認するには十分です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You do not have to fill in every field, but you may wish to add some of the important fields, such as the name of the object.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075953Z" creationid="miurahr" creationdate="20201103T075953Z">
         <seg>すべての項目を入力する必要はありませんが、地点の名称など、いくつかの重要な項目については入力ができるとよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You don't need to start the Mapnik service, because this layer makes use of the integrated Mapnik support in MapProxy.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232034Z" creationid="miurahr" creationdate="20210214T232034Z">
+        <seg>Mapnikサービスを開始する必要はありません。なぜなら、このレイヤはMapProxyで統合されたMapnikサポートを利用しているからです。</seg>
       </tuv>
     </tu>
     <tu>
