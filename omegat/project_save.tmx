@@ -15684,14 +15684,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>In this case we will be using the tile images provided by TileStache on the live dvd.</seg>
-      </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210208T140539Z" creationid="miurahr" creationdate="20210208T140539Z">
-        <seg>In this case we will be using the tile images provided by TileStache on the live dvd.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>In this case, it will show the results of a query of each active and identifiable layer for the point that you clicked in the map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132229Z" creationid="miurahr" creationdate="20201116T132229Z">
@@ -20086,8 +20078,8 @@
       <tuv lang="en-US">
         <seg>Note that setView call also returns the map object - most Leaflet methods act like this when they don't return an explicit value, which allows convenient jQuery-like method chaining.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210208T140511Z" creationid="miurahr" creationdate="20210208T140511Z">
-        <seg> setView のよびだしも、地図オブジェクトを返却します。 - 多くのLeafletのメソッドは、明示的な戻り値がない場合、同様に動作します。 jQueryのようなメソッドのチェインニングができて便利です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T084853Z" creationid="miurahr" creationdate="20210208T140511Z">
+        <seg>setView のよびだしも、地図オブジェクトを返却します。 - 多くのLeafletのメソッドは、明示的な戻り値がない場合、同様に動作します。 jQueryのようなメソッドのチェインニングができて便利です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42737,8 +42729,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>put a **div** element with a certain **id** where you want your map to be:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210208T140647Z" creationid="miurahr" creationdate="20210208T124704Z">
-        <seg> 地図を表示したい場所に適切な **id** をもつ  **div** エレメントを配置する:</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T084848Z" creationid="miurahr" creationdate="20210208T124704Z">
+        <seg>地図を表示したい場所に適切な **id** をもつ  **div** エレメントを配置する:</seg>
       </tuv>
     </tu>
     <tu>
