@@ -7232,8 +7232,8 @@
       <tuv lang="en-US">
         <seg>Change access rights with `chmod`</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210208T134434Z" creationid="miurahr" creationdate="20210208T134434Z">
-        <seg> `chmod` でアクセス権を変更できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T081600Z" creationid="miurahr" creationdate="20210208T134434Z">
+        <seg>`chmod` でアクセス権を変更する</seg>
       </tuv>
     </tu>
     <tu>
@@ -7264,8 +7264,8 @@
       <tuv lang="en-US">
         <seg>Change the owner with `chown`</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210208T134350Z" creationid="miurahr" creationdate="20210208T134350Z">
-        <seg> `chown` で所有者を変更できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T081549Z" creationid="miurahr" creationdate="20210208T134350Z">
+        <seg>`chown` で所有者を変更する</seg>
       </tuv>
     </tu>
     <tu>
@@ -40047,6 +40047,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>https://en.wikipedia.org/wiki/Category:Standard_Unix_programs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T081615Z" creationid="sanak" creationdate="20210214T081615Z">
+        <seg>https://en.wikipedia.org/wiki/Category:Standard_Unix_programs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>https://gdal.org</seg>
       </tuv>
       <tuv lang="ja">
@@ -40099,6 +40107,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>https://trac.osgeo.org/gdal/wiki/UserDocs/RasterProcTutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>https://ubuntu.com/tutorials/command-line-for-beginners#1-overview</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T081608Z" creationid="sanak" creationdate="20210214T081608Z">
+        <seg>https://ubuntu.com/tutorials/command-line-for-beginners#1-overview</seg>
       </tuv>
     </tu>
     <tu>
