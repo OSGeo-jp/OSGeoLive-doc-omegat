@@ -33439,8 +33439,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Visit the Mapnik website: https://mapnik.org</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210214T095758Z" creationid="miurahr" creationdate="20201103T055840Z">
-        <seg>Mapnik websiteを訪問してください: https://mapnik.org</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T130432Z" creationid="miurahr" creationdate="20201103T055840Z">
+        <seg>Mapnik Webサイトを訪問してください: https://mapnik.org</seg>
       </tuv>
     </tu>
     <tu>
