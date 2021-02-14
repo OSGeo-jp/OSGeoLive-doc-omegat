@@ -27673,6 +27673,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Symbology</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T055738Z" creationid="sanak" creationdate="20210214T055738Z">
+        <seg>記号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Synchronise layers with the small map on the Search tab,</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134324Z" creationid="miurahr" creationdate="20201116T134324Z">
@@ -44551,6 +44559,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|OSGeo_project| - |vmdk| :doc:`gvsig_overview` - [:doc:`Quickstart &lt;../quickstart/gvsig_quickstart&gt;`]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T055626Z" creationid="sanak" creationdate="20210214T055626Z">
+        <seg>|OSGeo_project| - |vmdk| :doc:`gvsig_overview` - [:doc:`クイックスタート &lt;../quickstart/gvsig_quickstart&gt;`]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|OSGeo_project| :doc:`deegree_overview` - [:doc:`Quickstart &lt;../quickstart/deegree_quickstart&gt;`] - OGC Web Services</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T140144Z" creationid="sanak" creationdate="20210101T140110Z">
@@ -45095,6 +45111,30 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|nologo| - |vmdk| :doc:`gmt_overview` - [:doc:`Quickstart &lt;../quickstart/gmt_quickstart&gt;`] - Cartographic Rendering</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T060057Z" creationid="sanak" creationdate="20210214T060057Z">
+        <seg>|nologo| - |vmdk| :doc:`gmt_overview` - [:doc:`クイックスタート &lt;../quickstart/gmt_quickstart&gt;`] - 地図レンダリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| - |vmdk| :doc:`ncWMS_overview` - [:doc:`Quickstart &lt;../quickstart/ncWMS_quickstart&gt;`] - Web Map Service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T055646Z" creationid="sanak" creationdate="20210214T055646Z">
+        <seg>|nologo| - |vmdk| :doc:`ncWMS_overview` - [:doc:`クイックスタート &lt;../quickstart/ncWMS_quickstart&gt;`] - Web Map Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| - |vmdk| :doc:`re3gistry_overview` - [:doc:`Quickstart &lt;../quickstart/re3gistry_quickstart&gt;`] - Management of reference codes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T055723Z" creationid="sanak" creationdate="20210214T055723Z">
+        <seg>|nologo| - |vmdk| :doc:`re3gistry_overview` - [:doc:`クイックスタート &lt;../quickstart/re3gistry_quickstart&gt;`] - リファレンスコードの管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|nologo| :doc:`52nSOS_overview` - [:doc:`Quickstart &lt;../quickstart/52nSOS_quickstart&gt;`] - Sensor Observation Service</seg>
       </tuv>
       <tuv lang="ja">
@@ -45359,6 +45399,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|nologo| :doc:`xygrib_overview` - [:doc:`Quickstart &lt;../quickstart/xygrib_quickstart&gt;`] - Weather Forecast Maps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T060127Z" creationid="sanak" creationdate="20210214T060127Z">
+        <seg>|nologo| :doc:`xygrib_overview` - [:doc:`クイックスタート &lt;../quickstart/xygrib_quickstart&gt;`] - 気象予想図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|nologo| :doc:`zygrib_overview` - [:doc:`Quickstart &lt;../quickstart/zygrib_quickstart&gt;`] - Weather Forecast Maps</seg>
       </tuv>
       <tuv lang="ja">
@@ -45367,10 +45415,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|osgeo_community| Is an OSGeo Community Project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T055806Z" creationid="sanak" creationdate="20210214T055806Z">
+        <seg>|osgeo_community| は OSGeo コミュニティプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|osgeo_project|</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|osgeo_project|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|osgeo_project| Is an OSGeo Project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T055749Z" creationid="sanak" creationdate="20210214T055749Z">
+        <seg>|osgeo_project| は OSGeo プロジェクト</seg>
       </tuv>
     </tu>
     <tu>
@@ -45411,6 +45475,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|osm gps traces|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|vmdk| Included only on OSGeoLive VMDK version</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T060029Z" creationid="sanak" creationdate="20210214T055906Z">
+        <seg>|vmdk| は OSGeoLive VMDK バージョンにのみ含まれるもの</seg>
       </tuv>
     </tu>
     <tu>
