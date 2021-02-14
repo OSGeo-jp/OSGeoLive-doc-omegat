@@ -15348,6 +15348,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In order to use GeoStyler, you need to have ``node.js`` installed on your system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T083646Z" creationid="sanak" creationdate="20210214T083453Z">
+        <seg>GeoStylerを使用するには、システムに ``node.js`` をインストールする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In our "ne_10m_lakes" dataset, we have a *ScaleRank* attribute, which seems to be related to the size of the lakes.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210117T123425Z" creationid="miurahr" creationdate="20201103T022810Z">
@@ -16104,6 +16112,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>インストール Tips: ユーザ名に "user" 以外を指定してインストールした場合、Tomcat アプリケーションでは https://trac.osgeo.org/osgeo/ticket/1153 に記載のように、サービスコマンドへの権限が必要となります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Installing GeoStyler</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T083558Z" creationid="sanak" creationdate="20210214T083444Z">
+        <seg>GeoStylerのインストール</seg>
       </tuv>
     </tu>
     <tu>
@@ -30656,6 +30672,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
         <seg>This Quickstart describes some basic steps required to start working with GeoStyler: installing GeoStyler and adding a first UI component to your react application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235040Z" creationid="miurahr" creationdate="20201116T235040Z">
+        <seg>このクイックスタートでは、GeoStylerをはじめて使うときの基本的な手順について説明します。GeoStylerをインストールし、最初のUIコンポーネントをreactアプリケーションに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This Quickstart describes the basic steps required to start working with GeoStyler: installing GeoStyler and adding a first UI component to your react application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T083539Z" creationid="sanak" creationdate="20210214T083439Z">
         <seg>このクイックスタートでは、GeoStylerをはじめて使うときの基本的な手順について説明します。GeoStylerをインストールし、最初のUIコンポーネントをreactアプリケーションに追加します。</seg>
       </tuv>
     </tu>
