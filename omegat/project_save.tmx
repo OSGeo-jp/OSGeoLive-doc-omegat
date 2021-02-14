@@ -36801,8 +36801,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`EPSG.io &lt;https://epsg.io/&gt;`_ - website to retrieve coordinate system definitions</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210201T052358Z" creationid="miurahr" creationdate="20210201T052141Z">
-        <seg>`SpatialReference.org &lt;https://spatialreference.org/&gt;`_  - 座標系定義を取得するためのWebサイトです</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T073402Z" creationid="miurahr" creationdate="20210201T052141Z">
+        <seg>`EPSG.io &lt;https://epsg.io/&gt;`_  - 座標系定義を取得するためのWebサイトです</seg>
       </tuv>
     </tu>
     <tu>
