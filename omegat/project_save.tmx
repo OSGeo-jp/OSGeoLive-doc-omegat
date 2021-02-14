@@ -4918,6 +4918,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adding a circle is the same (except for specifying the radius in meters as a second argument), but lets you control how it looks by passing options as the last argument when creating the object:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T142620Z" creationid="miurahr" creationdate="20210214T142620Z">
+        <seg>円の追加もだいたい同じです。ただし、2番目の引数として半径をメートル単位で指定する点が違います。 さらに、オブジェクトの作成時に最後の引数としてオプションを渡すことで、円の外観を制御できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding a polygon is as easy:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T142625Z" creationid="miurahr" creationdate="20210214T142625Z">
+        <seg>ポリゴンの追加は簡単です：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adding points</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051942Z" creationid="miurahr" creationdate="20201103T051942Z">
@@ -6578,6 +6594,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T141333Z" creationid="miurahr" creationdate="20201103T010037Z">
         <seg>地球儀に表示する( `OpenStreetMaps &lt;https://www.openstreetmap.org&gt;`_ を含む)マップをいろいろ選択するだけでなく、アプリケーションにKDE Marbleウィジェットを含めることをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Besides tile layers, you can easily add other things to your map, including markers, polylines, polygons, circles and popups.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T142432Z" creationid="miurahr" creationdate="20210214T142432Z">
+        <seg>タイルレイヤ以外にも、マーカー、ポリライン、ポリゴン、円、ポップアップなど、他のものをマップに簡単に追加できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9528,6 +9552,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dealing with events</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T142804Z" creationid="miurahr" creationdate="20210214T142804Z">
+        <seg>イベントへの対応</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deep integration of standards allowing the application to swap between the appropriate service as required for display, interaction and editing</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002614Z" creationid="miurahr" creationdate="20201103T002614Z">
@@ -9996,6 +10028,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235316Z" creationid="miurahr" creationdate="20201116T235316Z">
         <seg>使用するパーサーのインストールを忘れないでください:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Don't forget to take a look at the detailed documentation_ or other examples_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143121Z" creationid="miurahr" creationdate="20210214T143121Z">
+        <seg>詳細な documentation_ やその他の examples_ をぜひ見てください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10472,6 +10512,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each object has its own set of events - see documentation_ for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T142920Z" creationid="miurahr" creationdate="20210214T142920Z">
+        <seg>各オブジェクトには独自のイベント・セットがあります。詳細は documentation_ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each object in a Mapfile starts with its name (for example **MAP**) and ends with an **END**.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T075800Z" creationid="miurahr" creationdate="20201103T021741Z">
@@ -10916,6 +10964,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T022302Z" creationid="miurahr" creationdate="20201122T022302Z">
         <seg>すべてのインスタンスには、他のインスタンスから独立した独自のデータベーススキーマがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Every time something happens in Leaflet, e.g. user clicks on a marker or map zoom changes, the corresponding object sends an event which you can subscribe to with a function.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T142853Z" creationid="miurahr" creationdate="20210214T142822Z">
+        <seg>ユーザーがマーカーをクリックしたり、地図のズームを変更したりするなど、何か Leaflet に起こるたびに、対応するオブジェクトがイベントを送信し、ユーザーはそのイベントを関数でsubscribe (受信) することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11692,6 +11748,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052024Z" creationid="miurahr" creationdate="20201103T052024Z">
         <seg>たとえば、地域に病院があることがわかっている場合は、病院の建物の位置をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, map click event object (e in the example above) has latlng property which is a location at which the click occured.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143008Z" creationid="miurahr" creationdate="20210214T143008Z">
+        <seg>たとえば、マップクリックイベントオブジェクト(上の例のe)には、クリックが発生した場所であるlatlngプロパティがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13996,6 +14060,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130206Z" creationid="miurahr" creationdate="20201116T130206Z">
         <seg>ここでは、オルソ投影に再投影します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here we use **openOn** instead of **addTo** because it handles automatic closing of a previously opened popup when opening a new one which is good for usability.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T142756Z" creationid="miurahr" creationdate="20210214T142756Z">
+        <seg>ここでは、 **addTo** の代わりに **openOn** を使用しています。これは、新しいポップアップを開いたときに、以前に開いたポップアップを閉じる処理を自動化します。使いやすさを優先しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16364,6 +16436,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It allows you to react to user interaction:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T142908Z" creationid="miurahr" creationdate="20210214T142823Z">
+        <seg>この仕組みで、ユーザーの操作に反応できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It also can produce sophisticated presentation graphics and hardcopy maps.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T170420Z" creationid="miurahr" creationdate="20201103T011111Z">
@@ -16968,6 +17048,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T074921Z" creationid="miurahr" creationdate="20201103T072639Z">
         <seg>地図には基本的に、ポイント・ライン・シェイプという3つのタイプのオブジェクトしかない、とかんがえるととてもシンプルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's worth noting that Leaflet is provider-agnostic, meaning that it doesn't enforce a particular choice of providers for tiles, and it doesn't even contain a single provider-specific line of code, so you're free to use other providers if you need to.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T142416Z" creationid="miurahr" creationdate="20210214T142416Z">
+        <seg>Leaflopはプロバイダに依存しないので、タイルに対して特定のプロバイダの選択を強制することはなく、プロバイダ固有のコード行も含まれていないので、必要に応じて他のプロバイダを使用することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17774,8 +17862,8 @@
       <tuv lang="en-US">
         <seg>Leaflet has a very handy shortcut for this:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210208T135656Z" creationid="miurahr" creationdate="20210208T135656Z">
-        <seg>Leaflet has a very handy shortcut for this:</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T142650Z" creationid="miurahr" creationdate="20210208T135656Z">
+        <seg>リーフレットには非常に便利なショートカットがあります：</seg>
       </tuv>
     </tu>
     <tu>
@@ -17876,6 +17964,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's add a marker:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T142438Z" creationid="miurahr" creationdate="20210214T142438Z">
+        <seg>マーカーを追加しましょう：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's create a map of eastern Africa with an indication of the 2018 FOSS4G conference.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T140124Z" creationid="miurahr" creationdate="20210208T140124Z">
@@ -17888,6 +17984,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T021511Z" creationid="miurahr" creationdate="20201122T021501Z">
         <seg>新しい空のspatialiteデータベースを作成し、north_carolinaデータセットから2つのシェープファイルをロードしてみましょう::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's improve our example by using a popup instead of an alert:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143015Z" creationid="miurahr" creationdate="20210214T143015Z">
+        <seg>アラートの代わりにポップアップを使用して、例を改善しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18304,6 +18408,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T145340Z" creationid="miurahr" creationdate="20201116T145340Z">
         <seg>ズームやパンの設定など、必要に応じてマップの構成を最終的に調整します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make sure all the code is called after the **div** and **leaflet.js** inclusion.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T142251Z" creationid="miurahr" creationdate="20210214T142251Z">
+        <seg>すべてのコードが **div** タグと **leaflet.js** の読み込みの後に呼び出されていることを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19008,6 +19120,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Mark Leslie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Markers, circles and polygons</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T142423Z" creationid="miurahr" creationdate="20210214T142423Z">
+        <seg>マーカー、円、ポリゴン</seg>
       </tuv>
     </tu>
     <tu>
@@ -20584,6 +20704,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T145923Z" creationid="miurahr" creationdate="20201116T145923Z">
         <seg>これで、GeoNodeの可能性について簡単に理解できました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now you've learned Leaflet basics and can start building map apps straight away!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143053Z" creationid="miurahr" creationdate="20210214T143053Z">
+        <seg>これで、Leaflet の基礎を学び、地図アプリをすぐに作ることができます!</seg>
       </tuv>
     </tu>
     <tu>
@@ -23136,6 +23264,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>サポートする主なフォーマット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Popups are usually used when you want to attach some information to a particular object on a map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T142645Z" creationid="miurahr" creationdate="20210214T142645Z">
+        <seg>ポップアップは通常、マップ上の特定のオブジェクトに情報をアタッチする場合に使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27913,6 +28049,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That's it!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T142312Z" creationid="miurahr" creationdate="20210214T142312Z">
+        <seg>これが全てです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The  results  are accurate  to  round  off for `|f| &lt; 1/50`, where f is flattening.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210104T044011Z" creationid="miurahr" creationdate="20201221T043918Z">
@@ -29096,6 +29240,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054636Z" creationid="miurahr" creationdate="20201103T054636Z">
         <seg>アプリケーションを作成する最後のステップは、ビューポートを作成することです。ビューポートとは、上記で作成したすべてのコンポーネントを表示するアプリケーションを表すコンテナです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The first argument of the listener function is an event object - it contains useful information about the event that happened.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T142937Z" creationid="miurahr" creationdate="20210214T142937Z">
+        <seg>リスナー関数の最初の引数はイベントオブジェクトです。イベントオブジェクトには、発生したイベントに関する有用な情報が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32493,6 +32645,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try clicking on the map and you will see the coordinates in a popup.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143019Z" creationid="miurahr" creationdate="20210214T143019Z">
+        <seg>マップをクリックすると、座標がポップアップで表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Try gdaladdo to build internal overviews</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130742Z" creationid="miurahr" creationdate="20201116T130742Z">
@@ -33385,6 +33545,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T124533Z" creationid="miurahr" creationdate="20210208T124533Z">
         <seg>example_ を見る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View the full example_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143127Z" creationid="miurahr" creationdate="20210214T143042Z">
+        <seg>完全な example_ を表示します </seg>
       </tuv>
     </tu>
     <tu>
@@ -34941,6 +35109,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Working with popups</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T142629Z" creationid="miurahr" creationdate="20210214T142629Z">
+        <seg>ポップアップの操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Write "python scripts/csv2istsos.py -p T_LUGANO -u http://localhost/istsos -s demo -w ~/Desktop" and press ENTER</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T034505Z" creationid="miurahr" creationdate="20201122T034505Z">
@@ -35987,6 +36163,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T055732Z" creationid="miurahr" creationdate="20210201T055732Z">
         <seg>コマンド履歴があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have a working Leaflet map now.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T142352Z" creationid="miurahr" creationdate="20210214T142352Z">
+        <seg>これで、Leaflet の地図をうごかすことができました。</seg>
       </tuv>
     </tu>
     <tu>
