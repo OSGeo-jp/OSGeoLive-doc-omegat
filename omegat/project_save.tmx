@@ -4118,6 +4118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A `synopsis of the GRASS GIS modules &lt;https://grass.osgeo.org/grass78/manuals/full_index.html&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T144827Z" creationid="miurahr" creationdate="20210214T144827Z">
+        <seg>`GRASS GISモジュールの概要 &lt;https://grass.osgeo.org/grass78/manuals/full_index.html&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A banner bar</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131952Z" creationid="miurahr" creationdate="20201116T131952Z">
@@ -8138,8 +8146,8 @@
       <tuv lang="en-US">
         <seg>Click on the toolbar button with a "+" and a bent poly-line which looks a bit like a "V".</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T035038Z" creationid="miurahr" creationdate="20201220T035038Z">
-        <seg>Click on the toolbar button with a "+" and a bent poly-line which looks a bit like a "V".</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T144638Z" creationid="miurahr" creationdate="20201220T035038Z">
+        <seg>「+」のついたツールバーボタンをクリックします。そして、「V」のようなアイコンのボタンはポリラインを曲げます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14785,6 +14793,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the 400 GIS modules which come with GRASS aren't enough for you have a look at the many contributed add-ons at `https://grass.osgeo.org/grass78/manuals/addons/ &lt;https://grass.osgeo.org/grass78/manuals/addons/&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T144926Z" creationid="miurahr" creationdate="20210214T144926Z">
+        <seg>GRASSに付属する400こ の GIS モジュールで不足する場合、 `https://grass.osgeo.org/grass78/manuals/addons/ &lt;https://grass.osgeo.org/grass78/manuals/addons/&gt;`_ に大量のアドオンがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the active GRASS GIS session has identical location/mapset settings, then an alias can be used to avoid the persistent option in each single command call:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T123059Z" creationid="miurahr" creationdate="20201116T123059Z">
@@ -15045,6 +15061,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T150213Z" creationid="miurahr" creationdate="20201116T150148Z">
         <seg>ヘルプが必要な場合や、特定のトピックに関する情報を取得したい場合は、遠慮なくお問い合わせください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you need to, right click on the raster map layer and choose "Zoom to selected map(s)".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T144713Z" creationid="miurahr" creationdate="20210214T144713Z">
+        <seg>必要に応じて、ラスターマップ画層を右クリックし、[選択したマップにズーム]を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19600,6 +19624,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T052630Z" creationid="miurahr" creationdate="20201122T052553Z">
         <seg>SEXTANTEライブラリ経由で300以上のジオ・アルゴリズム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More tutorials and overviews can be found `here &lt;https://grasswiki.osgeo.org/wiki/GRASS_Help#Getting_Started&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T144807Z" creationid="miurahr" creationdate="20210214T144807Z">
+        <seg>チュートリアルや概要は、 `こちら &lt;https://grasswiki.osgeo.org/wiki/GRASS_Help#Getting_Started&gt;`_.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26157,6 +26189,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T143631Z" creationid="miurahr" creationdate="20201116T143631Z">
         <seg>最初の項目をクリックし、Ctrlキーを押しながら残りの項目をクリックして、いくつかのレイヤーを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the "`roadsmajor`" vector layer from the PERMANENT mapset, and click :guilabel:`Ok`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T144628Z" creationid="miurahr" creationdate="20210214T144628Z">
+        <seg>Select the "`roadsmajor`" vector layer from the PERMANENT mapset, and click :guilabel:`Ok`.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33809,6 +33849,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T143853Z" creationid="miurahr" creationdate="20210214T143853Z">
         <seg>OGCの `Coverages Domain Working Group wiki &lt;https://external.ogc.org/twiki_public/CoveragesDWG/WebHome&gt;`_ を参照してみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visit the GRASS GIS Wiki help site at `https://grasswiki.osgeo.org/wiki/ &lt;https://grasswiki.osgeo.org/wiki/Main_Page&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T144744Z" creationid="miurahr" creationdate="20210214T144744Z">
+        <seg>GRASS GIS Wikiヘルプサイト `https://grasswiki.osgeo.org/wiki/ &lt;https://grasswiki.osgeo.org/wiki/Main_Page&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visit the GRASS GIS website at `https://grass.osgeo.org &lt;https://grass.osgeo.org&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T144731Z" creationid="miurahr" creationdate="20210214T144731Z">
+        <seg>GRASS GIS ウエブサイト `https://grass.osgeo.org &lt;https://grass.osgeo.org&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
