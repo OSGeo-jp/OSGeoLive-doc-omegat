@@ -21014,8 +21014,8 @@
       <tuv lang="en-US">
         <seg>OSGeoLive applications which include GeoTools include: :doc:`52nSOS_overview`, :doc:`52nWPS_overview`, AtlasStyler, Geomajas, Geopublisher, :doc:`geoserver_overview`, and :doc:`udig_overview`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210126T163726Z" creationid="sanak" creationdate="20210126T163726Z">
-        <seg>OSGeoLive のアプリケーションで  GeoTools を利用しているのは次のものです: :doc:`52nSOS_overview`, :doc:`52nWPS_overview`, AtlasStyler, Geomajas, Geopublisher, :doc:`geoserver_overview`, 及び :doc:`udig_overview`。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T072443Z" creationid="sanak" creationdate="20210126T163726Z">
+        <seg>OSGeoLive のアプリケーションで GeoTools を利用しているのは次のものです: :doc:`52nSOS_overview`, :doc:`52nWPS_overview`, AtlasStyler, Geomajas, Geopublisher, :doc:`geoserver_overview`, 及び :doc:`udig_overview`。</seg>
       </tuv>
     </tu>
     <tu>
