@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Input options**: Any georeferenced image file, eg.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T225306Z" creationid="miurahr" creationdate="20210214T225000Z">
+        <seg>**入力設定**: 様々な地理参照された画像ファイル、例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Internet oriented**, consuming standard and de facto geospatial web services; and,</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002258Z" creationid="miurahr" creationdate="20201103T002258Z">
@@ -1154,6 +1162,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T052805Z" creationid="miurahr" creationdate="20201103T061349Z">
         <seg>**その他の 52°North プロジェクト:** :doc:`SOS &lt;./52nSOS_overview&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Output options**: A set of directories with tiled images which can be copied to a web server for presentation as a georeferenced overlay.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T225317Z" creationid="miurahr" creationdate="20210214T225125Z">
+        <seg>**出力設定**: タイル化された画像が含まれるディレクトリー一式で、Webサーバにコピーして地理参照されたオーバーレイとして表示することができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1730,6 +1746,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T050027Z" creationid="miurahr" creationdate="20201103T041705Z">
         <seg>**仕様**: 52°North SOSは、現在の仕様バージョン2.0.0および以前のバージョン1.0.0を実装します(ここではトランザクション操作はありません)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Strengths**: MapSlicer is simple, free, open-source software, with an easy wizard, described below, to guide through the options.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T225301Z" creationid="miurahr" creationdate="20210214T225301Z">
+        <seg>**強み**: MapSlicerは、シンプルで自由なオープンソースソフトウエアです。以下に紹介する、様々な設定をガイドしてくれるウィザード があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16732,6 +16756,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It follows the `Open Source Geospatial Foundation's (OSGeo's) &lt;https://www.osgeo.org/&gt;`_ `Tile Map Service (TMS) &lt;https://wiki.osgeo.org/wiki/Tile_Map_Service_Specification&gt;`_ specification.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T224921Z" creationid="miurahr" creationdate="20210214T224921Z">
+        <seg>これは、`Open Source Geospatial Foundation (OSGeo財団) &lt;https://www.osgeo.org/&gt;`_  の、 `Tile Map Service (TMS) &lt;https://wiki.osgeo.org/wiki/Tile_Map_Service_Specification&gt;`_ に従っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It has been compressed using `7-Zip &lt;https://www.7-zip.org/&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T224033Z" creationid="miurahr" creationdate="20201123T224033Z">
@@ -18924,10 +18956,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MapSlicer Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T224701Z" creationid="miurahr" creationdate="20210214T224701Z">
+        <seg>MapSlicer クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MapSlicer is a desktop application for the creation of map tiles for rapid raster map publishing.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T012515Z" creationid="miurahr" creationdate="20201220T012515Z">
         <seg>Mapスライサーは、ラスター・マップ・パブリッシングのためのマップ・タイルを作成するためのデスクトップ・アプリケーションです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapSlicer takes advantage of the fact that `Google Maps &lt;http://maps.google.com/&gt;`__, `Microsoft Bing &lt;https://www.bing.com/maps&gt;`__, `Yahoo Maps &lt;https://maps.yahoo.com/&gt;`__, and other online mapping providers including `OpenStreetMap &lt;https://www.openstreetmap.org/&gt;`__ use the same projection and tiling profile and the tiles are therefore compatible.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T225551Z" creationid="miurahr" creationdate="20210214T225551Z">
+        <seg>MapSlicer  は、  `Google Maps &lt;http://maps.google.com/&gt;`__ , `Microsoft Bing &lt;https://www.bing.com/maps&gt;`__, `Yahoo Maps &lt;https://maps.yahoo.com/&gt;`__, と その他の `OpenStreetMap &lt;https://www.openstreetmap.org/&gt;`__  を含むオンラインマップが提供する投影法とタイル提供方法と互換性があるという優位性があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30380,6 +30428,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The tiles can then be presented as a georeferenced map overlay on a web server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T224816Z" creationid="miurahr" creationdate="20210214T224816Z">
+        <seg>タイルは、Webサーバー上で地理参照マップオーバーレイとして表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The title and abstract as previously created should still be there.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T145448Z" creationid="miurahr" creationdate="20201116T145448Z">
@@ -37527,6 +37583,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`MapSlicer &lt;https://wiki.osgeo.org/wiki/MapSlicer&gt;`_ provides a simple way of creating a set of tiles from any georeferenced map image.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T224806Z" creationid="miurahr" creationdate="20210214T224806Z">
+        <seg>`MapSlicer &lt;https://wiki.osgeo.org/wiki/MapSlicer&gt;`_ は、様々な地理参照されたマップイメージから、タイル一式を生成するシンプルな方法を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`Mapbender &lt;https://mapbender.org/en&gt;`_ is a graduated OSGeo project.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T141205Z" creationid="miurahr" creationdate="20201122T053238Z">
@@ -38123,6 +38187,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T134659Z" creationid="miurahr" creationdate="20210208T134659Z">
         <seg>a = all</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>a TIFF, JPEG from ArcGIS, QGIS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T225017Z" creationid="miurahr" creationdate="20210214T225017Z">
+        <seg>ArgGISやQGISで生成したTIFF, JPEG</seg>
       </tuv>
     </tu>
     <tu>
