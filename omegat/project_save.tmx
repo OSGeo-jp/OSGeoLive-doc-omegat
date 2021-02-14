@@ -6790,6 +6790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Browse to select the raster image you want to tile.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230007Z" creationid="miurahr" creationdate="20210214T230007Z">
+        <seg>タイルに変換したいラスタ画像をブラウズして選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Browse to the :file:`/home/user/data/spatialite` directory and choose :file:`trento.sqlite`.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T070217Z" creationid="miurahr" creationdate="20201121T134028Z">
@@ -7002,6 +7010,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210122T024059Z" creationid="miurahr" creationdate="20210122T023931Z">
         <seg>デフォルトでは、QGISにはOpenStreetMapベースマップのレイヤが付属しており、`XYZ タイル` の下の `ブラウザパネル` にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By default, a *openlayers.html* file is generated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230414Z" creationid="miurahr" creationdate="20210214T230414Z">
+        <seg>デフォルトでは、 *openlayers.html* ファイルが生成されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7478,6 +7494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose *Image Based Tiles (raster)* for standard web publishing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T225902Z" creationid="miurahr" creationdate="20210214T225902Z">
+        <seg>標準Webパブリッシングの場合は、*Image Based Tiles (raster)* を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose :menuselection:`Geospatial --&gt; Spatial Tools --&gt; R Statistics`.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210103T034703Z" creationid="miurahr" creationdate="20201123T142532Z">
@@ -7562,6 +7586,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210122T023825Z" creationid="miurahr" creationdate="20210122T023825Z">
         <seg>`Buenos Aires` 内のキー `amenity` 、値は `pub` を選択してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose the **Source Data Files**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T225931Z" creationid="miurahr" creationdate="20210214T225931Z">
+        <seg>**Source Data Files** を選択。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7708,6 +7740,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T152203Z" creationid="miurahr" creationdate="20201116T143652Z">
         <seg> *Add Layers* をクリックして、すべてのレイヤをマップに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click *Continue*.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T225923Z" creationid="miurahr" creationdate="20210214T225923Z">
+        <seg> *Continue* をクリック。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14985,6 +15025,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you do not know these, they can be added into the default *googlemaps.html / openlayers.html* files after tile generation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230539Z" creationid="miurahr" creationdate="20210214T230539Z">
+        <seg>これらがわからない場合は、タイル生成後にデフォルトの *googlemaps.html/openlayers.html* ファイルに追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you do not know these, they can be added into the default *googlemaps.html* and *openlayers.html* files after tile generation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230342Z" creationid="miurahr" creationdate="20210214T230342Z">
+        <seg>これらがわからない場合は、タイル生成後にデフォルトの *googlemaps.html* と *openlayers.html* ファイルに追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you downloaded data for southern Africa, cloud cover may be more interesting.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133703Z" creationid="miurahr" creationdate="20201120T133703Z">
@@ -16832,6 +16888,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T053258Z" creationid="miurahr" creationdate="20201122T053258Z">
         <seg>これは、空間データインフラストラクチャサービスへの安全なアクセスを公開、登録、ビュー、ナビゲート、監視、および付与するためのWebベースのGeoportal フレームワークです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is also possible to select a NODATA colour that will appear as transparent in the resulting image.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230028Z" creationid="miurahr" creationdate="20210214T230028Z">
+        <seg>また、透明に表示されるNODATAカラーを選択することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18968,6 +19032,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T012515Z" creationid="miurahr" creationdate="20201220T012515Z">
         <seg>Mapスライサーは、ラスター・マップ・パブリッシングのためのマップ・タイルを作成するためのデスクトップ・アプリケーションです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapSlicer prepares tiles using this specification as an easy and quick way of preparing a georeferenced map in a mashup web page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T225623Z" creationid="miurahr" creationdate="20210214T225623Z">
+        <seg>MapSlicerでは、マッシュアップWebページでGeoリファレンスマップを簡単かつ迅速に作成する方法として、この仕様を使用してタイルを作成しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26265,6 +26337,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the **Tile Profile**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T225756Z" creationid="miurahr" creationdate="20210214T225756Z">
+        <seg> **Tile Profile** を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the **paintbrush** icon next to the layer to see the legend, showing you the classification used for the display.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210126T161727Z" creationid="miurahr" creationdate="20201116T134453Z">
@@ -27225,6 +27305,46 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Specify details about the **Destination folder and Addresses / URLs** for the tileset.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230309Z" creationid="miurahr" creationdate="20210214T230309Z">
+        <seg>タイルセットの **行き先フォルダとアドレス/URL** の詳細を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specify details about the **Tile Pyramid**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230147Z" creationid="miurahr" creationdate="20210214T230147Z">
+        <seg> **Tile Pyramid** の詳細を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specify the **Details for generating the Viewers**, such as the title, copyright notice, and API keys.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230457Z" creationid="miurahr" creationdate="20210214T230457Z">
+        <seg>タイトル、著作権表示、APIキーなど、 **ビューアを生成するための詳細** を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specify the **Spatial Reference System / Coordinate System** of the image.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230107Z" creationid="miurahr" creationdate="20210214T230107Z">
+        <seg>画像の **空間参照システム/ 座標系** を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specify the id-number from the EPSG database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230127Z" creationid="miurahr" creationdate="20210214T230127Z">
+        <seg>EPSGデータベースの番号を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Specify which disk to want to install on.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T001331Z" creationid="miurahr" creationdate="20201117T001331Z">
@@ -27365,6 +27485,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>JOSM を起動する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start MapSlicer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T225628Z" creationid="miurahr" creationdate="20210214T225628Z">
+        <seg>MapSlicerを開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start MapSlicer from the Geospatial menu, under the Spatial Tools sub-menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T225747Z" creationid="miurahr" creationdate="20210214T225747Z">
+        <seg>[Geospatial]メニューの配下の [Spatial Tools]サブメニューから[MapSlicer]を開始します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29352,6 +29488,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T071214Z" creationid="miurahr" creationdate="20201108T015432Z">
         <seg>既定のレンダラーは *canvas* です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default settings for zoom levels and file format are often best.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230222Z" creationid="miurahr" creationdate="20210214T230222Z">
+        <seg>Zoomレベルやファイルフォーマットのデフォルトの設定値が通常は最適です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32121,6 +32265,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T073534Z" creationid="miurahr" creationdate="20201116T133130Z">
         <seg>このガイド全体を通じて、URL ``http://localhost:8880/geonetwork`` を使用してカタログを参照します。システムに合わない場合は、別のURLに置き換えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tick the **Viewers that should be generated**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T230405Z" creationid="miurahr" creationdate="20210214T230405Z">
+        <seg>**生成するビューア** をチェックします。</seg>
       </tuv>
     </tu>
     <tu>
