@@ -2886,6 +2886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**geoserver**:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232113Z" creationid="miurahr" creationdate="20210214T232113Z">
+        <seg>**geoserver**:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**iD** is the default on-line editor for OpenStreetMap (OSM).</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T055400Z" creationid="miurahr" creationdate="20201102T052231Z">
@@ -2898,6 +2906,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T232021Z" creationid="miurahr" creationdate="20210214T232021Z">
         <seg>**mapnik**:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**mapnik_geoserver**:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232414Z" creationid="miurahr" creationdate="20210214T232414Z">
+        <seg>**mapnik_geoserver**:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2970,6 +2986,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210130T142259Z" creationid="miurahr" creationdate="20201117T001534Z">
         <seg>**pgRouting ワークショップ** - ワークショップ `"pgRouting tools と OpenStreetMap 道路データを使用した FOSS4G ルーティング"` は https://workshop.pgrouting.org で利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**tilestache**:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232037Z" creationid="miurahr" creationdate="20210214T232037Z">
+        <seg>**tilestache**:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9196,6 +9220,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T053732Z" creationid="miurahr" creationdate="20201122T053732Z">
         <seg>ユーザーとグループを作成し、サービスとモジュールへのアクセスを共有および許可する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create you own configuration</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232559Z" creationid="miurahr" creationdate="20210214T232559Z">
+        <seg>独自の構成を作成する</seg>
       </tuv>
     </tu>
     <tu>
@@ -16812,6 +16844,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It combines the world population from Mapnik with the US population from GeoServer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232424Z" creationid="miurahr" creationdate="20210214T232424Z">
+        <seg>Mapnikの世界人口とGeoServerの米国人口を組み合わせたものだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It comes in a CORE and a PLUS edition, with the latter adding lots of useful plugins.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T103013Z" creationid="smellman" creationdate="20201103T103013Z">
@@ -16920,6 +16960,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T131025Z" creationid="miurahr" creationdate="20201123T224926Z">
         <seg>これは、  `OpenLayers &lt;https://openlayers.org/&gt;`_ のGIS機能と、`Sencha &lt;https://www.sencha.com&gt;`_ によって提供される  `ExtJS &lt;https://www.sencha.com/products/extjs/&gt;`_  ライブラリのユーザインタフェースを組み合わせたJavaScriptフレームワークです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is a local dataset and it uses the *coverage* feature to limit the BBOX to Itasca, IL.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232555Z" creationid="miurahr" creationdate="20210214T232555Z">
+        <seg>ローカルデータセットであり、 *カバレッジ* 機能を使用してBBOXをItasca,ILに制限します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19024,6 +19072,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T012233Z" creationid="miurahr" creationdate="20201220T012233Z">
         <seg>MapProxy は、複数のソースからなる地図を予めレンダリングし、ローカルなキャッシュに格納することによってマッピングアプリケーションを高速化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapProxy will automatically reload if you change your configuration file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232637Z" creationid="miurahr" creationdate="20210214T232637Z">
+        <seg>設定ファイルを変更すると、MapProxyが自動的にリロードされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25001,10 +25057,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Read the `documentation of MapProxy &lt;../../mapproxy/index.html&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232658Z" creationid="miurahr" creationdate="20210214T232658Z">
+        <seg> ` MapProxyドキュメント  &lt;../../mapproxy/index.html&gt;`_ を読みます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Read the complete `EOxServer Users' documentation &lt;https://docs.eoxserver.org/en/latest/users/index.html&gt;`_ starting from the `EOxServer Basics &lt;https://docs.eoxserver.org/en/latest/users/basics.html&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210126T170116Z" creationid="miurahr" creationdate="20201116T125154Z">
         <seg>`EOxServer Basics &lt;https://docs.eoxserver.org/en/latest/users/basics.html&gt;`_ から始まる完全な `EOxServer ユーザーズ・ドキュメント &lt;https://docs.eoxserver.org/en/latest/users/index.html&gt;`_ を読んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Read the example configuration (``/usr/local/share/mapproxy/mapproxy.yaml``)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232716Z" creationid="miurahr" creationdate="20210214T232716Z">
+        <seg>設定例 (``/usr/local/share/mapproxy/mapproxy.yaml``) を確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29044,6 +29116,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The US population rendered by the :doc:`GeoServer &lt;../overview/geoserver_overview&gt;` WMS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232216Z" creationid="miurahr" creationdate="20210214T232216Z">
+        <seg> :doc:`GeoServer &lt;../overview/geoserver_overview&gt;` WMSによるUSの人口統計のレンダリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The USB drive should not be mounted.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T134907Z" creationid="miurahr" creationdate="20201120T134907Z">
@@ -29256,6 +29336,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054732Z" creationid="miurahr" creationdate="20201103T054732Z">
         <seg>`OpenLayers v4.6.5 APIドキュメント &lt;https://openlayers.org/en/v4.6.5/apidoc&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ``GetFeatureInfo`` support for the US population is still available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232529Z" creationid="miurahr" creationdate="20210214T232529Z">
+        <seg>USの人口統計についての  ``GetFeatureInfo`` サポートは引き続き利用可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31877,6 +31965,38 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This layer also supports ``GetFeatureInfo`` requests which are cascaded to the source WMS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232317Z" creationid="miurahr" creationdate="20210214T232317Z">
+        <seg>このレイヤは、ソースWMSにカスケードされる ``GetFeatureInfo`` 要求をサポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This layer demonstrates the ability to combine multiple sources into one layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232419Z" creationid="miurahr" creationdate="20210214T232419Z">
+        <seg>このレイヤは、複数のソースを1つのレイヤに結合する機能を示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This layer demonstrates the ability to include existing tile services in MapProxy and to make them available as WMS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232049Z" creationid="miurahr" creationdate="20210214T232049Z">
+        <seg>このレイヤは、MapProxyの既存のタイルサービスを組み込み、WMSとして使用できるようにする機能を示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This layer uses Mapserver Itasca demo dataset.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232542Z" creationid="miurahr" creationdate="20210214T232542Z">
+        <seg>このレイヤはMapserver Itascaデモデータセットを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This leaves 2 options - disabling the Hyper-V feature, or configuring a new Hyper-V machine to run OSGeoLive.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210214T075007Z" creationid="miurahr" creationdate="20210206T164443Z">
@@ -32461,6 +32581,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TileStache is a server that delivers tiles from the Mapnik world population service.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232044Z" creationid="miurahr" creationdate="20210214T232044Z">
+        <seg>TileStacheは、Mapnik世界人口サービスからタイルを配信するサーバーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tiled layers are represented by the ``ol.layer.Tile`` class and must use a source that knows how to load tiles from a given provider, like ``ol.source.OSM`` or ``ol.source.Stamen``:</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T071237Z" creationid="miurahr" creationdate="20201108T015814Z">
@@ -32609,6 +32737,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T151634Z" creationid="miurahr" creationdate="20201116T131821Z">
         <seg>ウェブデモを継続するには、 `&lt;http://www.geomajas.org/demo&gt;`_ をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To create a new configuration::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232612Z" creationid="miurahr" creationdate="20210214T232612Z">
+        <seg>新規構成を作成する手順は、次のとおりです::</seg>
       </tuv>
     </tu>
     <tu>
@@ -33001,6 +33137,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T141931Z" creationid="miurahr" creationdate="20201120T141931Z">
         <seg>まず、DVDに含まれているサンプルデータの一部をロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To start the test server on port 8011 with the created configuration::</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232620Z" creationid="miurahr" creationdate="20210214T232620Z">
+        <seg>作成した設定でポート8011上のテストサーバを起動するには、次の手順を実行します::</seg>
       </tuv>
     </tu>
     <tu>
@@ -36479,6 +36623,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can now visit the demo page at http://127.0.0.1:8011/demo/.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232633Z" creationid="miurahr" creationdate="20210214T232633Z">
+        <seg>http://127.0.0.1:8011/demo/  でデモページを見ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can pan by holding the left mouse button and dragging the map to your desired area.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051341Z" creationid="miurahr" creationdate="20201103T051341Z">
@@ -36667,6 +36819,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T150916Z" creationid="miurahr" creationdate="20201116T130630Z">
         <seg>`--formats` を使用して、読み書き可能な情報を持つ対応フォーマットの一覧を取得できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use ``mapproxy-util`` to create new configuration templates and to start a test server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232607Z" creationid="miurahr" creationdate="20210214T232607Z">
+        <seg>``mapproxy-util`` を使って新しい設定テンプレートを作成し、テストサーバを起動することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36963,6 +37123,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T165440Z" creationid="miurahr" creationdate="20201103T064801Z">
         <seg>名前から逆引するための `ツール &lt;https://grass.osgeo.org/grass78/manuals/keywords.html&gt;`_ があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You need to start GeoServer with |osgeolive-appmenupath-geoserver| before accessing this layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232412Z" creationid="miurahr" creationdate="20210214T232412Z">
+        <seg>このレイヤにアクセスする前に、 |osgeolive-appmenupath-geoserver| でGeoServerを起動する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You need to start TileStache with *Start Mapnik &amp; TileStache* before accessing this layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T232112Z" creationid="miurahr" creationdate="20210214T232112Z">
+        <seg>このレイヤにアクセスする前に、 *Start Mapnik &amp; TileStache* でTileStacheを開始する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
