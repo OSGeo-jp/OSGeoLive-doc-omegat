@@ -27073,6 +27073,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start XyGrib</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T091338Z" creationid="sanak" creationdate="20210214T091044Z">
+        <seg>XyGrib の起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start ZOO-Project</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T134117Z" creationid="miurahr" creationdate="20201120T134117Z">
@@ -34937,6 +34945,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Xianfeng Song</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XyGrib Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T091054Z" creationid="sanak" creationdate="20210214T091035Z">
+        <seg>XyGrib クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XyGrib is a program to download and visualize weather forecast data in the standard GRIB distribution format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T091116Z" creationid="sanak" creationdate="20210214T091116Z">
+        <seg>XyGrib は、標準的なGRIB配布フォーマットで天気予報データをダウンロードして視覚化するプログラムです。</seg>
       </tuv>
     </tu>
     <tu>
