@@ -4614,6 +4614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Access full coverage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143323Z" creationid="miurahr" creationdate="20210214T143323Z">
+        <seg>フル・カバレッジへのアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Access maps from: MapServer, Tilecache, ArcGIS REST, WMS, WFS.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T081419Z" creationid="miurahr" creationdate="20201122T051306Z">
@@ -4906,6 +4914,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053511Z" creationid="miurahr" creationdate="20201103T053511Z">
         <seg>websiteの追加 |image41|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add your query in this url: http://localhost:8080/rasdaman/ows?query=your_query and run it using a browser.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143309Z" creationid="miurahr" creationdate="20210214T143309Z">
+        <seg>クエリーをURLに追加し、ブラウザーを使って実行します:  http://localhost:8080/rasdaman/ows?query=your_query </seg>
       </tuv>
     </tu>
     <tu>
@@ -5974,6 +5990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Arithmetic operation: Extracting NDVI of the coverage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143552Z" creationid="miurahr" creationdate="20210214T143552Z">
+        <seg>算術演算:カバレッジのNDVIの抽出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As a library, it presents a single abstract data model to the calling application for all supported formats.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T044241Z" creationid="sanak" creationdate="20201103T044241Z">
@@ -6354,6 +6378,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Balasubramaniam Natarajan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Band extraction from the coverage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143458Z" creationid="miurahr" creationdate="20210214T143458Z">
+        <seg>カバレッジからのバンド抽出</seg>
       </tuv>
     </tu>
     <tu>
@@ -7864,6 +7896,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on `band extraction &lt;http://localhost:8080/rasdaman/ows?query=for%20c%20in%20(NIR)%20return%20encode%28c.red,%20%22png%22%29&gt;`_ to execute it; you should see the following image in the browser as a result:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143543Z" creationid="miurahr" creationdate="20210214T143543Z">
+        <seg>`band extraction &lt;http://localhost:8080/rasdaman/ows?query=for%20c%20in%20(NIR)%20return%20encode%28c.red,%20%22png%22%29&gt;`_ をクリックして、実行します。その結果、つぎのような画像が表示されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on `coverage request &lt;http://localhost:8080/rasdaman/ows?query=for%20c%20in%20(NIR)%20return%20encode%28c,%20%22png%22%29&gt;`_ to execute it in the browser.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143350Z" creationid="miurahr" creationdate="20210214T143350Z">
+        <seg>`coverage request &lt;http://localhost:8080/rasdaman/ows?query=for%20c%20 in%20(NIR)%20 return%20 encode%28c,%20%22 png%22%29&gt;`_を クリックしてブラウザで実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on a layer name in the layer panel.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T015328Z" creationid="miurahr" creationdate="20201117T015328Z">
@@ -7980,6 +8028,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075858Z" creationid="miurahr" creationdate="20201103T075858Z">
         <seg>画面左側にあるカラムから、”選択”ツールをクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the `subsetting request &lt;http://localhost:8080/rasdaman/ows?query=for%20c%20in%20(NIR)%20return%20encode%28c[i(0:500), j(0:500)],%20%22png%22%29&gt;`_ to execute it on the browser.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143449Z" creationid="miurahr" creationdate="20210214T143449Z">
+        <seg>ブラウザで実行するには、`subsetting request &lt;http://localhost:8080/rasdaman/ows?query=for%20c%20 in%20(NIR)%20 return%20 encode%28c[i(0:500), j(0:500)],%20%22 png%22%29&gt;`_  をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11040,6 +11096,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Explore the `rasdaman documentation &lt;https://doc.rasdaman.org&gt;`_ to learn about rasdaman administration, its query language, and data ingestion.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143922Z" creationid="miurahr" creationdate="20210214T143922Z">
+        <seg> `rasdaman documentation &lt;https://doc.rasdaman.org&gt;`_ をみれば、 rasdaman の管理、その問い合わせ言語、データとりこみも学べます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Explore the `screenshot collection &lt;https://grass.osgeo.org/learn/gallery/&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T165142Z" creationid="miurahr" creationdate="20201103T011215Z">
@@ -13628,6 +13692,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T145848Z" creationid="miurahr" creationdate="20201103T113525Z">
         <seg>"ディスプレイ" セクションに移動し、ビデオメモリを32MBまたは64MBに増やします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the `multi-dimensional demo &lt;http://localhost/rasdaman-demo&gt;`_ to explore interactive 1-D to 4-D rasdaman demos.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T144032Z" creationid="miurahr" creationdate="20210214T144032Z">
+        <seg> インタラクティブな1-Dから4-Dのrasdamanのデモを見るには、 `multi-dimensional demo &lt;http://localhost/rasdaman-demo&gt;`_ をご覧ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16356,6 +16428,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Interested in coverage data and services in general?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143836Z" creationid="miurahr" creationdate="20210214T143836Z">
+        <seg>カバレッジデータおよびサービス全般に興味がありますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Interested in learning more about Geomajas?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131829Z" creationid="miurahr" creationdate="20201116T131829Z">
@@ -17904,6 +17984,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210126T163409Z" creationid="sanak" creationdate="20210126T163409Z">
         <seg>pgRouting についてもっと知りたい場合は `ドキュメント &lt;http://docs.pgrouting.org&gt;`__ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Learn more about the OGC  |WCPS| Language standard (which was heavily inspired by rasdaman); a good starting point is the `documentation and tutorials page &lt;https://standards.rasdaman.com/&gt;`_  and `WCPS Query SandBox &lt;http://localhost/rasdaman-demo/demo/client/query-sandbox.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143825Z" creationid="miurahr" creationdate="20210214T143825Z">
+        <seg>OGC  |WCPS| 言語標準 (rasdamanに影響されて制定された)について、学習してください。 `documentation and tutorials page &lt;https://standards.rasdaman.com/&gt;`_  そして、 `WCPS Query SandBox &lt;http://localhost/rasdaman-demo/demo/client/query-sandbox.html&gt;`_ が良い出発点になるでしょう。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -24625,6 +24713,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Re3gistry Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T144158Z" creationid="miurahr" creationdate="20210214T144158Z">
+        <seg>Re3gistry Quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Read more about ``ogr_fdw``: * Repository: https://github.com/pramsey/pgsql-ogr-fdw * New and improved: http://blog.cleverelephant.ca/2016/04/ogr-fdw-update.html</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210117T125042Z" creationid="miurahr" creationdate="20201117T003205Z">
@@ -25285,6 +25381,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T153226Z" creationid="miurahr" creationdate="20201221T153226Z">
         <seg>WCPSクエリを実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Running coverage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143314Z" creationid="miurahr" creationdate="20210214T143314Z">
+        <seg>実行中のカバレッジ</seg>
       </tuv>
     </tu>
     <tu>
@@ -25989,6 +26093,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134503Z" creationid="miurahr" creationdate="20201116T134503Z">
         <seg>水域など、凡例のカテゴリに対応する地物を地図上で選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a subset of the coverage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143353Z" creationid="miurahr" creationdate="20210214T143353Z">
+        <seg>カバレッジのサブセットを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28356,6 +28468,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The NDVI (Normalized Difference Vegetation Index) is a measure for the probability of vegetation in remote sensing, i.e., the closer to +1 a pixel is, the more likely it is plants.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143611Z" creationid="miurahr" creationdate="20210214T143603Z">
+        <seg>NDVI(Normalized Difference Vegetation Index)はリモートセンシングにおける植生の確率の尺度です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Netherlands</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T062202Z" creationid="miurahr" creationdate="20201102T062202Z">
@@ -28576,6 +28696,38 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T152706Z" creationid="miurahr" creationdate="20201221T152706Z">
         <seg>WCPSクエリは、rasdamanクエリ言語であるrasqlに変換され、rasdaman上で実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The WCPS query to access a subset of the coverage is as follows:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143414Z" creationid="miurahr" creationdate="20210214T143414Z">
+        <seg>カバレッジのサブセットにアクセスするためのWCPSクエリは次のとおりです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The WCPS query to access the full coverage is as follows:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143329Z" creationid="miurahr" creationdate="20210214T143329Z">
+        <seg>すべてのカバレッジにアクセスするためのWCPSクエリは次のとおりです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The WCPS query to access the red band of the coverage is as follows:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143503Z" creationid="miurahr" creationdate="20210214T143503Z">
+        <seg>カバレッジの赤色帯域にアクセスするためのWCPSクエリは次のとおりです:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The WCPS query to derive NDVI from the coverage is as follows:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143614Z" creationid="miurahr" creationdate="20210214T143604Z">
+        <seg>カバレッジからNDVIを導出するためのWCPSクエリは次のとおりです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28816,6 +28968,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T053839Z" creationid="sanak" creationdate="20201103T053839Z">
         <seg>`インストールと設定 &lt;https://wiki.52north.org/SensorWeb/AqdEReporting#Installation&gt;`_ は 52°North Wiki 内に記載されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `rasdaman tutorial &lt;https://tutorial.rasdaman.org/&gt;`_ provides a condensed introduction to the concepts behind rasdaman, rasql and the OGC web services support.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143703Z" creationid="miurahr" creationdate="20210214T143703Z">
+        <seg>`rasdaman tutorial &lt;https://tutorial.rasdaman.org/&gt;`_ は、rasdaman, rasql そして、OGC Webサービスサポートの背景にある概念を要約して紹介しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29184,6 +29344,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T002923Z" creationid="miurahr" creationdate="20201117T002909Z">
         <seg>異なるPostgreSQLデータベースに接続するのが一番簡単でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The example coverage which will be used subsequently is a 6 MB image as below:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143320Z" creationid="miurahr" creationdate="20210214T143320Z">
+        <seg>後で使用されるカバレッジの例は、次の6MBイメージです：</seg>
       </tuv>
     </tu>
     <tu>
@@ -29860,6 +30028,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The query result is an image as follows:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143455Z" creationid="miurahr" creationdate="20210214T143455Z">
+        <seg>クエリー結果は次のようなイメージです:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The red "X" on the image of most of the databases, denotes that you haven't been yet connected to any of them (you are connected only to the default ``postgres`` database).</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T063426Z" creationid="miurahr" creationdate="20201117T002619Z">
@@ -30072,6 +30248,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T072520Z" creationid="miurahr" creationdate="20201103T072520Z">
         <seg>靴屋は靴のシンボルで表され、市場はショッピングカートで表されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The small ones are part of OSGeoLive, those utilizing larger sets (beyond this drive's capacity) forward to the `OGC standards showcase site &lt;https://standards.rasdaman.com&gt;`_ .</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T144154Z" creationid="miurahr" creationdate="20210214T144154Z">
+        <seg>小さいものは、OSGeoLive の一部です。(ドライブ容量をこえる)より大きなセットをつかっている例は、 `OGC standards showcase site &lt;https://standards.rasdaman.com&gt;`_  に進んで参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33617,6 +33801,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T005938Z" creationid="miurahr" creationdate="20201103T005938Z">
         <seg>バーチャル地球儀と世界地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visit OGC's `Coverages Domain Working Group wiki &lt;https://external.ogc.org/twiki_public/CoveragesDWG/WebHome&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T143853Z" creationid="miurahr" creationdate="20210214T143853Z">
+        <seg>OGCの `Coverages Domain Working Group wiki &lt;https://external.ogc.org/twiki_public/CoveragesDWG/WebHome&gt;`_ を参照してみましょう。</seg>
       </tuv>
     </tu>
     <tu>
