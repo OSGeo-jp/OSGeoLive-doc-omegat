@@ -6624,8 +6624,8 @@
       <tuv lang="en-US">
         <seg>BlueTooth GPS users should take special care to read up about the no-probe option.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T224602Z" creationid="miurahr" creationdate="20201221T224602Z">
-        <seg>Blue tooth GPSユーザーは、no-probeオプションについて詳しく調べる必要があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T130006Z" creationid="miurahr" creationdate="20201221T224602Z">
+        <seg>Bluetooth GPSユーザーは、no-probeオプションについて詳しく調べる必要があります。</seg>
       </tuv>
     </tu>
     <tu>
