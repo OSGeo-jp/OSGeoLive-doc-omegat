@@ -12088,6 +12088,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From the desktop, choose :menuselection:`Navigation and Maps --&gt; XyGrib GRIB file viewer`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T091408Z" creationid="sanak" creationdate="20210214T091408Z">
+        <seg>デスクトップから :menuselection:`Navigation and Maps --&gt; XyGrib GRIB file viewer` を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From the desktop, choose :menuselection:`Navigation and Maps --&gt; zyGrib GRIB file viewer`.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T191232Z" creationid="miurahr" creationdate="20201117T000506Z">
@@ -27075,8 +27083,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Start XyGrib</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210214T091338Z" creationid="sanak" creationdate="20210214T091044Z">
-        <seg>XyGrib の起動</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T091543Z" creationid="sanak" creationdate="20210214T091044Z">
+        <seg>XyGribを開始する</seg>
       </tuv>
     </tu>
     <tu>
@@ -27525,6 +27533,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>サポート: https://liblas.org/community.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support: https://opengribs.org/en/support-forum</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T091615Z" creationid="sanak" creationdate="20210214T091615Z">
+        <seg>サポート: https://opengribs.org/en/support-forum</seg>
       </tuv>
     </tu>
     <tu>
@@ -34245,6 +34261,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Website: https://opengribs.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T091603Z" creationid="sanak" creationdate="20210214T091603Z">
+        <seg>Webサイト: https://opengribs.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Website: https://t-rex.tileserver.ch/</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052706Z" creationid="smellman" creationdate="20201103T052706Z">
@@ -35491,6 +35515,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013808Z" creationid="miurahr" creationdate="20201103T013808Z">
         <seg>コピー、圧縮や、Windows、Linux、MacOS などのOS間の移行も簡単にできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can get GRIB data from many sources, but as a convenience the XyGrib authors maintain a data server to use with XyGrib.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T091533Z" creationid="sanak" creationdate="20210214T091533Z">
+        <seg>多くのソースからGRIBデータを取得することができますが、XyGribの作者は便宜上、XyGribで使用するデータサーバーを維持管理しています。</seg>
       </tuv>
     </tu>
     <tu>
