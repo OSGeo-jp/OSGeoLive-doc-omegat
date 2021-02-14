@@ -7642,8 +7642,8 @@
       <tuv lang="en-US">
         <seg>Click :guilabel:`I agree` to the NOAA Nautical Chart Data Agreement.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T224430Z" creationid="miurahr" creationdate="20201221T224328Z">
-        <seg> :guilabel:`I agree` をクリックして、NOAA Nautical Chart Data Agreementに同意します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T125212Z" creationid="miurahr" creationdate="20201221T224328Z">
+        <seg>:guilabel:`I agree` をクリックして、NOAA Nautical Chart Data Agreementに同意します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7666,8 +7666,8 @@
       <tuv lang="en-US">
         <seg>Click :guilabel:`OK`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T224955Z" creationid="miurahr" creationdate="20201221T224955Z">
-        <seg> :guilabel:`OK` をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T125450Z" creationid="miurahr" creationdate="20201221T224955Z">
+        <seg>:guilabel:`OK` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25923,8 +25923,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select the :guilabel:`Plugins` tab.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T224928Z" creationid="miurahr" creationdate="20201221T224928Z">
-        <seg> :guilabel:`Plugins` タブを選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T125417Z" creationid="miurahr" creationdate="20201221T224928Z">
+        <seg>:guilabel:`Plugins` タブを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37953,8 +37953,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>and</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T224553Z" creationid="miurahr" creationdate="20201221T224553Z">
-        <seg>and</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T125506Z" creationid="miurahr" creationdate="20201221T224553Z">
+        <seg>および</seg>
       </tuv>
     </tu>
     <tu>
