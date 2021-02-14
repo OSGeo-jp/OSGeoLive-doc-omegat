@@ -38495,6 +38495,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>command.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T090130Z" creationid="sanak" creationdate="20210214T090130Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>compose and display maps with complex styling</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T141353Z" creationid="miurahr" creationdate="20201103T012011Z">
