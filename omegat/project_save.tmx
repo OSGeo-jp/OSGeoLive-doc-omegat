@@ -3950,6 +3950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>:doc:`virtualization_quickstart`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T081021Z" creationid="sanak" creationdate="20210214T081021Z">
+        <seg>:doc:`virtualization_quickstart`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>:file:`/usr/local/share/udig/udig-docs/uDigWalkthrough 1.pdf`</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T054928Z" creationid="miurahr" creationdate="20210201T054928Z">
@@ -21846,8 +21854,8 @@
       <tuv lang="en-US">
         <seg>Open a file with `vim`:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210208T133625Z" creationid="miurahr" creationdate="20210208T133625Z">
-        <seg> `vim` でファイルを開く:</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T081133Z" creationid="miurahr" creationdate="20210208T133625Z">
+        <seg>`vim` でファイルを開く:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25035,8 +25043,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Run the new program with `sl` see also `apt show sl`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210208T130036Z" creationid="miurahr" creationdate="20210208T130036Z">
-        <seg>Run the new program with `sl` see also `apt show sl`.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T081503Z" creationid="miurahr" creationdate="20210208T130036Z">
+        <seg>`sl` で新しいプログラムを実行してください。`apt show sl` も参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34663,8 +34671,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>With `sudo` you can do things that you are normally not allowed to.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210208T125640Z" creationid="miurahr" creationdate="20210208T125640Z">
-        <seg> `sudo` を使って、通常は実行できないコマンドを実行できるようにします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T081159Z" creationid="miurahr" creationdate="20210208T125640Z">
+        <seg>`sudo` を使って、通常は実行できないコマンドを実行できるようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36161,8 +36169,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You will love the program `sl`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210208T125932Z" creationid="miurahr" creationdate="20210208T125902Z">
-        <seg> `sl` プログラムを気にいるとおもいますよ。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T081207Z" creationid="miurahr" creationdate="20210208T125902Z">
+        <seg>`sl` プログラムを気にいるとおもいますよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40071,6 +40079,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>https://help.ubuntu.com/community/VimHowto</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T081049Z" creationid="sanak" creationdate="20210214T081049Z">
+        <seg>https://help.ubuntu.com/community/VimHowto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>https://sourceforge.net/projects/osgeo-live/files/|osgeolive-version-only|/</seg>
       </tuv>
       <tuv lang="ja">
@@ -40083,6 +40099,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>https://trac.osgeo.org/gdal/wiki/UserDocs/RasterProcTutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>https://vim.rtorr.com/lang/en_en</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210214T081109Z" creationid="sanak" creationdate="20210214T081109Z">
+        <seg>https://vim.rtorr.com/lang/en_en</seg>
       </tuv>
     </tu>
     <tu>
