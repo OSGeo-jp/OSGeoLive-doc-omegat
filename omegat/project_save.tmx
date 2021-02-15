@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(``latlong_wgs84/modis_ndvi_global/``; source: https://lpdaac.usgs.gov/products/mod13c1v006/)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033958Z" creationid="miurahr" creationdate="20210215T033958Z">
+        <seg>(``latlong_wgs84/modis_ndvi_global/``; source: https://lpdaac.usgs.gov/products/mod13c1v006/)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(verify boot device order if necessary)</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T125055Z" creationid="miurahr" creationdate="20201102T053023Z">
@@ -3230,6 +3238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>16-days NDVI, MOD13C1, V006, CMG 0.05 deg res.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033954Z" creationid="miurahr" creationdate="20210215T033954Z">
+        <seg>16日間の NDVI, MOD13C1, V006, CMG 0.05 deg res.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2 write</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T134516Z" creationid="miurahr" creationdate="20210208T134501Z">
@@ -4670,6 +4686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Access data from external sources</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033537Z" creationid="miurahr" creationdate="20210215T033537Z">
+        <seg>外部ソースからデータにアクセスする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Access external CSV/TxtTab files or xls spreadsheets as VIRTUAL TABLEs</seg>
       </tuv>
       <tuv lang="ja">
@@ -4706,6 +4730,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T060023Z" creationid="miurahr" creationdate="20210201T060023Z">
         <seg>アクセス権は、 `ユーザ` または `グループ` または `他者` がファイルにアクセスできるかどうか、およびどのようなアクセスが与えられるかを定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access sample data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033503Z" creationid="miurahr" creationdate="20210215T033450Z">
+        <seg>サンプルデータへのアクセス</seg>
       </tuv>
     </tu>
     <tu>
@@ -5474,6 +5506,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T020126Z" creationid="miurahr" creationdate="20210215T015919Z">
         <seg>すべてのアプリケーションは、端末から、 `otbcli_` から始まり、アプリケーション名のついたコマンドを実行して利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All commands will be executed per default in an **ephemeral** database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033319Z" creationid="miurahr" creationdate="20210215T033319Z">
+        <seg>すべてのコマンドは、**ephemeral** データベースでデフォルトごとに実行されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6574,6 +6614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Be sure to run the following commands in a GRASS GIS session.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033433Z" creationid="miurahr" creationdate="20210215T033433Z">
+        <seg>GRASS GISセッションでは、必ず次のコマンドを実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Be sure to visit the tutorial `Spatialite cookbook`_</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T070251Z" creationid="miurahr" creationdate="20201122T021945Z">
@@ -7186,6 +7234,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T015928Z" creationid="miurahr" creationdate="20210215T015918Z">
         <seg>CLI (コマンドラインインターフェース)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CORINE Landcover 2012, g100_clc12_V18_5 (``eu_laea/corine_2012/``; source: https://land.copernicus.eu/pan-european/corine-land-cover/clc-2012)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034109Z" creationid="miurahr" creationdate="20210215T034109Z">
+        <seg>CORINE Landcover 2012, g100_clc12_V18_5 (``eu_laea/corine_2012/``; source: https://land.copernicus.eu/pan-european/corine-land-cover/clc-2012)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9448,6 +9504,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Currently available datasets are (organized by projections):</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033830Z" creationid="miurahr" creationdate="20210215T033823Z">
+        <seg>現在使用可能なデータセットは次のとおりです(投影によって編成):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Currently the object doesn't have a coordinate system assigned to it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T142837Z" creationid="miurahr" creationdate="20201123T142837Z">
@@ -10104,6 +10168,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display a map - map rendering</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034244Z" creationid="miurahr" creationdate="20210215T034244Z">
+        <seg>マップ表示 - マップレンダリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Display results</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133900Z" creationid="miurahr" creationdate="20201116T133900Z">
@@ -10696,6 +10768,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>EU DEM 25m V1.1 (``eu_laea/PERMANENT/``; source: https://land.copernicus.eu/imagery-in-situ/eu-dem)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034107Z" creationid="miurahr" creationdate="20210215T034107Z">
+        <seg>EU DEM 25m V1.1 (``eu_laea/PERMANENT/``; source: https://land.copernicus.eu/imagery-in-situ/eu-dem)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>EXTENT: sets the default geospatial bounding box for this configuration.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021827Z" creationid="miurahr" creationdate="20201103T021827Z">
@@ -11164,6 +11244,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Etienne Dube</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Europe (EU LAEA CRS, EPSG:3035):</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034104Z" creationid="miurahr" creationdate="20210215T034104Z">
+        <seg>欧州 (EU LAEA CRS, EPSG:3035):</seg>
       </tuv>
     </tu>
     <tu>
@@ -12664,6 +12752,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GHS_POP_GPW42015_GLOBE_R2015A_54009_250_v1_0 (``world_mollweide/pop_jrc``; source: https://ghsl.jrc.ec.europa.eu/ghs_pop.php)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034130Z" creationid="miurahr" creationdate="20210215T034130Z">
+        <seg>GHS_POP_GPW42015_GLOBE_R2015A_54009_250_v1_0 (``world_mollweide/pop_jrc``; source: https://ghsl.jrc.ec.europa.eu/ghs_pop.php)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GIS Tools</seg>
       </tuv>
       <tuv lang="ja">
@@ -12796,6 +12892,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T033853Z" creationid="miurahr" creationdate="20201220T033837Z">
         <seg>GRASS GIS クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GRASS GIS commands can be augmented with actinia specific extensions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033814Z" creationid="miurahr" creationdate="20210215T033645Z">
+        <seg>actinia 固有の拡張機能で、GRASS GISコマンドは拡張されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14232,6 +14336,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hence, generated output must be exported using augmented GRASS commands.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033325Z" creationid="miurahr" creationdate="20210215T033325Z">
+        <seg>したがって、生成された出力は、拡張GRASSコマンドを使用してエクスポートする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hence, observation data can be requested in a RESTful way and is returned in JSON encoded responses.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041923Z" creationid="miurahr" creationdate="20201103T041923Z">
@@ -15553,6 +15665,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Importantly, the name of the local location and mapset must correspond to that on the actinia REST server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033822Z" creationid="miurahr" creationdate="20210215T033822Z">
+        <seg>重要なことは、ローカルロケーションとマップセットの名前が、RESTサーバの名前と一致する必要があることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Importing and exporting to shapefiles</seg>
       </tuv>
       <tuv lang="ja">
@@ -16476,6 +16596,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inspect the REST call prior to submission</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034137Z" creationid="miurahr" creationdate="20210215T034137Z">
+        <seg>送信前にRESTコールを検査する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inspect the foreign data table ``topp_states``:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T152044Z" creationid="miurahr" creationdate="20201221T152044Z">
@@ -16904,6 +17032,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135029Z" creationid="miurahr" creationdate="20201116T135029Z">
         <seg>Webベースの地理空間データインフラストラクチャ(GDI)の構築に使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It can be used with ``--location LOCATION_NAME``\ option.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033419Z" creationid="miurahr" creationdate="20210215T033419Z">
+        <seg> ``--location LOCATION_NAME`` オプションと併用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17980,6 +18116,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LST growing degree days asia 2017 (``latlong_wgs84/asia_gdd_2017/``; source: https://www.mundialis.de/en/temperature-data/)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034008Z" creationid="miurahr" creationdate="20210215T034008Z">
+        <seg>LST growing degree days asia 2017 (``latlong_wgs84/asia_gdd_2017/``; source: https://www.mundialis.de/en/temperature-data/)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LST temperature daily asia 2017, including min, max and avg (``latlong_wgs84/asia_lst_daily_2017/``)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034057Z" creationid="miurahr" creationdate="20210215T034057Z">
+        <seg>LST 日次温度  アジア 2017, 最小、最大、平均を含む (``latlong_wgs84/asia_lst_daily_2017/``)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LST tropical days asia 2017 (``latlong_wgs84/asia_tropical_2017/``)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034014Z" creationid="miurahr" creationdate="20210215T034014Z">
+        <seg>LST tropical days asia 2017 (``latlong_wgs84/asia_tropical_2017/``)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Label Leader Offsetting</seg>
       </tuv>
       <tuv lang="ja">
@@ -18032,6 +18192,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Lance McKee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Landsat subscenes (``nc_spm_08/landsat``; source: https://grass.osgeo.org/download/data/)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033917Z" creationid="miurahr" creationdate="20210215T033917Z">
+        <seg>ランドサットのサブシーン (``nc_spm_08/landsat``; source: https://grass.osgeo.org/download/data/)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18096,6 +18264,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T005904Z" creationid="miurahr" creationdate="20201103T005904Z">
         <seg>後に UMN と土地管理業者コンソーシアムで作られた、NASA のスポンサーによる TerraSIP プロジェクトが管理することになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Latitude-Longitude location (LatLong WGS84, EPSG:4326):</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033936Z" creationid="miurahr" creationdate="20210215T033936Z">
+        <seg>緯度-経度による位置指定 (LatLong WGS84, EPSG:4326):</seg>
       </tuv>
     </tu>
     <tu>
@@ -20584,6 +20760,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T013725Z" creationid="miurahr" creationdate="20201220T013708Z">
         <seg>ノースカロライナ USA 教育データ・セット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>North Carolina sample dataset (NC State-Plane metric CRS, EPSG: 3358):</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033845Z" creationid="miurahr" creationdate="20210215T033845Z">
+        <seg>ノースカロライナ州のサンプルデータセット(NC State-Plane metric CRS、EPSG:3358):</seg>
       </tuv>
     </tu>
     <tu>
@@ -26841,6 +27025,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Selected datasets are available to the demo user.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033507Z" creationid="miurahr" creationdate="20210215T033507Z">
+        <seg>選択したデータセットはデモユーザが使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sergey Grachev</seg>
       </tuv>
       <tuv lang="ja">
@@ -26957,6 +27149,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T152716Z" creationid="miurahr" creationdate="20201221T152716Z">
         <seg>セットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Setup your environment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033427Z" creationid="miurahr" creationdate="20210215T033427Z">
+        <seg>環境のセットアップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -29476,6 +29676,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ``+`` operator can be specified for an input parameter to import a web located resource and to specify the export of an output parameter.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033741Z" creationid="miurahr" creationdate="20210215T033741Z">
+        <seg> ``+`` 演算子は、入力パラメータに、Webで指定されるリソースを指定したり、出力パラメータのエクスポート先を指定したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ``GetFeatureInfo`` support for the US population is still available.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T232529Z" creationid="miurahr" creationdate="20210214T232529Z">
@@ -29796,6 +30004,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The current location setting can be overridden by the ``--location LOCATION_NAME`` option.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033253Z" creationid="miurahr" creationdate="20210215T033237Z">
+        <seg>現在の場所の設定は ``--location LOCATION_NAME`` オプションで上書きできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The current map extents will be located within the box you draw.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T143046Z" creationid="miurahr" creationdate="20201120T143046Z">
@@ -30072,6 +30288,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021425Z" creationid="miurahr" creationdate="20201108T021420Z">
         <seg>次のコードでは、マップのインスタンスにイベントを登録し、ポインタが移動するたびに通知されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following command lists mapsets of current location in the active GRASS GIS session (nc_spm_08):</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033532Z" creationid="miurahr" creationdate="20210215T033532Z">
+        <seg>次のコマンドは、アクティブなGRASS GISセッション(nc_spm_08)内の現在位置のマップセットの一覧を表示します:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30512,6 +30736,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125415Z" creationid="miurahr" creationdate="20201116T125415Z">
         <seg>このクイックスタートに必要なのはターミナルだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The option ``--persistent MAPSET_NAME`` allows the execution of commands in the **persistent** user database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033354Z" creationid="miurahr" creationdate="20210215T033354Z">
+        <seg>オプション ``--persistent MAPSET_NAME`` は、 **persistent** ユーザデータベースでコマンドを実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31048,6 +31280,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T131133Z" creationid="miurahr" creationdate="20201122T051146Z">
         <seg>ユーザインタフェースは簡単に設定でき、モジュールアーキテクチャを使用して追加サービスを追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The user must setup the following environmental variables to specify the actinia server and credentials:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033500Z" creationid="miurahr" creationdate="20210215T033448Z">
+        <seg>ユーザは、次の環境変数を設定して、Actiniaサーバと認証情報を指定する必要があります: </seg>
       </tuv>
     </tu>
     <tu>
@@ -33013,6 +33253,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To generate the actinia process chain JSON request simply add the --dry-run flag:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034217Z" creationid="miurahr" creationdate="20210215T034217Z">
+        <seg>actinia 処理チェインの JSONリクエストを生成するには、単純に--dry-runフラグを追加します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To get a closer look, you can either use the mousewheel to zoom in or use the provided zoom-buttons in the upper left of the application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131637Z" creationid="miurahr" creationdate="20201116T131637Z">
@@ -33113,6 +33361,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T083908Z" creationid="miurahr" creationdate="20201122T034633Z">
         <seg>istSOSについてさらに学ぶには、 `istSOS Documentation`_ と `istSOS Tutorial`_ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To list the locations you have access to, run</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033513Z" creationid="miurahr" creationdate="20210215T033513Z">
+        <seg>アクセスできる場所を一覧表示するには</seg>
       </tuv>
     </tu>
     <tu>
@@ -36081,6 +36337,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T142629Z" creationid="miurahr" creationdate="20210214T142629Z">
         <seg>ポップアップの操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>World Mollweide (EPSG 54009):</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034129Z" creationid="miurahr" creationdate="20210215T034129Z">
+        <seg>モルワイデ図法の世界地図 (EPSG 54009):</seg>
       </tuv>
     </tu>
     <tu>
@@ -39511,6 +39775,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>base cartography (``nc_spm_08/PERMANENT``; source: https://grassbook.org/datasets/datasets-3rd-edition/)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033902Z" creationid="miurahr" creationdate="20210215T033902Z">
+        <seg>ベースのカートグラフィー (``nc_spm_08/PERMANENT``; source: https://grassbook.org/datasets/datasets-3rd-edition/)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>bbinet</seg>
       </tuv>
       <tuv lang="ja">
@@ -40347,6 +40619,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>eliotg geosparc com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>empty (``latlong_wgs84/PERMANENT/``)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033941Z" creationid="miurahr" creationdate="20210215T033941Z">
+        <seg>空 (``latlong_wgs84/PERMANENT/``)</seg>
       </tuv>
     </tu>
     <tu>
