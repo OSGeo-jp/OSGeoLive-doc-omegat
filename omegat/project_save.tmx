@@ -5470,6 +5470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All applications can be called from a terminal starting with `otbcli_` plus the application name.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T020126Z" creationid="miurahr" creationdate="20210215T015919Z">
+        <seg>すべてのアプリケーションは、端末から、 `otbcli_` から始まり、アプリケーション名のついたコマンドを実行して利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All configuration changes, software updates, and saved files are permanent, just like on any "regular" computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T145838Z" creationid="miurahr" creationdate="20201103T113323Z">
@@ -5522,6 +5530,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043052Z" creationid="miurahr" creationdate="20201108T043052Z">
         <seg>通常のすべてのSQL操作を適用して、PostGISテーブルからデータを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All these tools are available through:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T015917Z" creationid="miurahr" creationdate="20210215T015917Z">
+        <seg>これらのツールはすべて、次の方法で使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5866,6 +5882,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T052123Z" creationid="miurahr" creationdate="20201122T052123Z">
         <seg>アナウンスと通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Another option is to use a small launcher (available in the :menuselection:`menu --&gt; Geospatial --&gt; Spatial Tools --&gt; OTB Launcher`).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T020221Z" creationid="miurahr" creationdate="20210215T020221Z">
+        <seg> ( :menuselection:`menu --&gt; Geospatial --&gt; Spatial Tools --&gt; OTB Launcher` にある)簡易なラウンチャーを使う方法もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7154,6 +7178,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021951Z" creationid="miurahr" creationdate="20201103T021951Z">
         <seg>CLASS: レイヤの描画方法(スタイル設定)を決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CLI (command line interface).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T015928Z" creationid="miurahr" creationdate="20210215T015918Z">
+        <seg>CLI (コマンドラインインターフェース)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12824,6 +12856,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GUI (a standalone graphical user interface in Qt).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T020035Z" creationid="miurahr" creationdate="20210215T020035Z">
+        <seg>GUI (Qtによるスタンドアロンのグラフィカルユーザインタフェース)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gabriele Prestifilippo</seg>
       </tuv>
       <tuv lang="ja">
@@ -13620,6 +13660,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020900Z" creationid="miurahr" creationdate="20201103T020900Z">
         <seg>ogrinfoでベクタデータに関する情報を取得する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get metadata information from an image</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T015649Z" creationid="miurahr" creationdate="20210214T233209Z">
+        <seg>画像からメタデータの情報を取得する</seg>
       </tuv>
     </tu>
     <tu>
@@ -21900,10 +21948,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OTB CookBook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T015613Z" creationid="miurahr" creationdate="20210215T015613Z">
+        <seg>OTB CookBook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OTB Quickstart</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T230145Z" creationid="miurahr" creationdate="20201221T230145Z">
         <seg>OTB クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OTB Software Guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210214T233221Z" creationid="miurahr" creationdate="20210214T233221Z">
+        <seg>OTB Software Guide</seg>
       </tuv>
     </tu>
     <tu>
@@ -22576,6 +22640,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ローカルデータのオープン:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open raster images with the application monteverdi, perform segmentation (mean-shift clustering) and visualize the result</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T015730Z" creationid="miurahr" creationdate="20210215T015713Z">
+        <seg>アプリケーションの モンテヴェルディでラスター画像を開き、セグメント化(平均シフトクラスタリング)を実行して結果を視覚化する</seg>
       </tuv>
     </tu>
     <tu>
@@ -23372,10 +23444,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Perform mathematical operations between image bands</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T015646Z" creationid="miurahr" creationdate="20210215T015646Z">
+        <seg>画像バンド間で算術演算を実行する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Perform spatial analysis using integrated support for SAGA, OTB, MMGIS and GRASS</seg>
       </tuv>
       <tuv lang="ja">
         <seg>統合された SAGA、OTB、MMGIS、GRASS を利用した空間解析の実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Perform supervised classification based on Support Vector Machine algorithm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T015811Z" creationid="miurahr" creationdate="20210215T015714Z">
+        <seg>サポート・ベクタ・マシン・アルゴリズムに基づく監視分類の実行</seg>
       </tuv>
     </tu>
     <tu>
@@ -24604,6 +24692,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052451Z" creationid="miurahr" creationdate="20201102T052451Z">
         <seg>QGISはユーザフレンドリなデスクトップGISクライアントで、データの視覚化、管理、編集、分析、印刷可能なマップの作成を行うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS plugin - available through the processing framework.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T020223Z" creationid="miurahr" creationdate="20210215T020223Z">
+        <seg>QGIS plugin - available through the processing framework.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28996,6 +29092,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The OTB applications provide lots of interesting tools which facilitate the manipulation of images.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T015913Z" creationid="miurahr" creationdate="20210215T015913Z">
+        <seg>OTB アプリケーションは、多様な画像の操作を容易におこなう様々なツールを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Open Geospatial Consortium (OGC) is an international consortium of more than 500 businesses, government agencies, research organizations, and universities driven to make geospatial (location) information and services FAIR - Findable, Accessible, Interoperable, and Reusable.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013220Z" creationid="miurahr" creationdate="20201103T013220Z">
@@ -29512,6 +29616,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135118Z" creationid="miurahr" creationdate="20201116T135118Z">
         <seg>アプリケーションの起動には少し時間がかかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The applications can be called from a terminal with the alias `otbgui_` plus the application name.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T020117Z" creationid="miurahr" creationdate="20210215T020117Z">
+        <seg>すべてのアプケーションは、端末から、 `otbgui_` から始まり、アプリケーション名のついたコマンドを実行すると、起動します。</seg>
       </tuv>
     </tu>
     <tu>
