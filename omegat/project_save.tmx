@@ -2926,6 +2926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**mapserver**:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040136Z" creationid="miurahr" creationdate="20210215T040136Z">
+        <seg>**mapserver**:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**md5 checksum**</seg>
       </tuv>
       <tuv lang="ja">
@@ -7914,8 +7922,8 @@
       <tuv lang="en-US">
         <seg>Click *Continue*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210214T225923Z" creationid="miurahr" creationdate="20210214T225923Z">
-        <seg> *Continue* をクリック。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040203Z" creationid="miurahr" creationdate="20210214T225923Z">
+        <seg>*Continue* をクリック。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11418,8 +11426,8 @@
       <tuv lang="en-US">
         <seg>Explore the `rasdaman documentation &lt;https://doc.rasdaman.org&gt;`_ to learn about rasdaman administration, its query language, and data ingestion.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210214T221528Z" creationid="miurahr" creationdate="20210214T143922Z">
-        <seg> `rasdaman documentation &lt;https://doc.rasdaman.org&gt;`_ にアクセスできる方は、 rasdaman の管理、その問い合わせ言語、データの取り込み方法も学べます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040031Z" creationid="miurahr" creationdate="20210214T143922Z">
+        <seg>`rasdaman documentation &lt;https://doc.rasdaman.org&gt;`_ にアクセスできる方は、 rasdaman の管理、その問い合わせ言語、データの取り込み方法も学べます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14058,8 +14066,8 @@
       <tuv lang="en-US">
         <seg>Go to the `multi-dimensional demo &lt;http://localhost/rasdaman-demo&gt;`_ to explore interactive 1-D to 4-D rasdaman demos.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210214T221551Z" creationid="miurahr" creationdate="20210214T144032Z">
-        <seg> インタラクティブな1-Dから4-Dのrasdamanのデモを見るには、 `多次元デモ &lt;http://localhost/rasdaman-demo&gt;`_ をご覧ください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040034Z" creationid="miurahr" creationdate="20210214T144032Z">
+        <seg>インタラクティブな1-Dから4-Dのrasdamanのデモを見るには、 `多次元デモ &lt;http://localhost/rasdaman-demo&gt;`_ をご覧ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27907,8 +27915,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Specify details about the **Tile Pyramid**.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210214T230147Z" creationid="miurahr" creationdate="20210214T230147Z">
-        <seg> **Tile Pyramid** の詳細を指定します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040211Z" creationid="miurahr" creationdate="20210214T230147Z">
+        <seg>**Tile Pyramid** の詳細を指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29542,8 +29550,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The US population rendered by the :doc:`GeoServer &lt;../overview/geoserver_overview&gt;` WMS.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210214T232216Z" creationid="miurahr" creationdate="20210214T232216Z">
-        <seg> :doc:`GeoServer &lt;../overview/geoserver_overview&gt;` WMSによるUSの人口統計のレンダリング</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040127Z" creationid="miurahr" creationdate="20210214T232216Z">
+        <seg>:doc:`GeoServer &lt;../overview/geoserver_overview&gt;` WMSによるUSの人口統計のレンダリング</seg>
       </tuv>
     </tu>
     <tu>
