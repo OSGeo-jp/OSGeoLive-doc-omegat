@@ -15625,6 +15625,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition it provides job management, the ability to list locations, mapsets and map layer the user has access to as well as the creation and deletion of mapsets.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033219Z" creationid="miurahr" creationdate="20210215T033219Z">
+        <seg>さらに、ジョブ管理、ユーザがアクセスできる場所、マップセット、マップレイヤのリスト機能、およびマップセットの作成と削除も提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition recent sample data for the FOSS4G host city and a number of JOSM plugins have been included.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T044934Z" creationid="miurahr" creationdate="20201102T044934Z">
@@ -16164,6 +16172,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this quickstart, we make use of GRASS GIS to conveniently launch commands from the session to the actinia server (which itself uses GRASS GIS).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033021Z" creationid="miurahr" creationdate="20210215T033021Z">
+        <seg>このクイックスタートでは、GRASS GISを使用して、セッションから(GRASS GISを使用している) actinia サーバーへのコマンドを便利に起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this step we will set-up an empty HTML page which will contain the application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053851Z" creationid="miurahr" creationdate="20201103T053851Z">
@@ -16696,6 +16712,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>IntersectionAlgorithm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Introduction to ace - actinia command execution</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033037Z" creationid="miurahr" creationdate="20210215T033037Z">
+        <seg>ace - actinia コマンド実行の概要</seg>
       </tuv>
     </tu>
     <tu>
@@ -28657,6 +28681,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Th ``ace`` tool must be executed in an active GRASS GIS session and will use the current location of this session to access the actinia service.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033235Z" creationid="miurahr" creationdate="20210215T033235Z">
+        <seg>``ace`` ツールはアクティブなGRASS GISセッションで実行されなければならず、このセッションの現在の場所を使ってactinia サービスにアクセスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That is it.</seg>
       </tuv>
       <tuv lang="ja">
@@ -29468,6 +29500,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ``ace`` tool (`details &lt;https://github.com/mundialis/actinia_core/tree/master/scripts/README.md&gt;`_) allows the execution of a single GRASS GIS command or a list of GRASS GIS commands on an actinia REST service (https://actinia.mundialis.de/).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033210Z" creationid="miurahr" creationdate="20210215T033046Z">
+        <seg>``ace`` ツール( `details &lt;https://github.com/mundialis/actinia_core/tree/master/scripts/README.md&gt;`_ ) は、単一のGRASS GISコマンドあるいはactinia RESTサービス(https://actinia.mundialis.de/) 上のGRASS GISコマンドのリストの実行を可能にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ``flex`` property causes the tree panel to fill up all available space in its region of the screen.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T151205Z" creationid="miurahr" creationdate="20201103T054438Z">
@@ -30208,6 +30248,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T051323Z" creationid="miurahr" creationdate="20201103T051323Z">
         <seg>iDエディタには、インターネットへのアクティブな接続が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The idea is to rapidly develop a workflow locally on small data sets to then execute it on the server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033027Z" creationid="miurahr" creationdate="20210215T033027Z">
+        <seg>このアイデアは、小さなデータ・セットに対してローカルでワークフローを迅速に開発し、それをサーバー上で実行するというものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38687,6 +38735,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`curl` or similar command line tools</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T032909Z" creationid="miurahr" creationdate="20210215T032909Z">
+        <seg>`curl`などのコマンドラインツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`geography` - is a data type that stores data as vectors drawn on a spheroidal surface</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T062836Z" creationid="miurahr" creationdate="20201108T042213Z">
@@ -38947,6 +39003,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210126T164436Z" creationid="sanak" creationdate="20210126T164436Z">
         <seg>actinia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>actinia Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T032838Z" creationid="miurahr" creationdate="20210215T032820Z">
+        <seg>actinia クイックスタート</seg>
       </tuv>
     </tu>
     <tu>
@@ -43343,6 +43407,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>open a GRASS GIS session and use the `ace` (actinia command execution) tool</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T033108Z" creationid="miurahr" creationdate="20210215T032916Z">
+        <seg>GRASS GISセッションを開き、 `ace` (actiniaコマンド実行: actinia command execution)ツールを使用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>open enockseth co</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210121T142713Z" creationid="sanak" creationdate="20210121T142713Z">
@@ -43587,6 +43659,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>otb_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>other interfaces to REST API</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T032941Z" creationid="miurahr" creationdate="20210215T032941Z">
+        <seg>REST APIに対する他のインターフェース</seg>
       </tuv>
     </tu>
     <tu>
@@ -45067,6 +45147,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>tgertin vt edu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>the `Postman` extension for browsers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T032922Z" creationid="miurahr" creationdate="20210215T032913Z">
+        <seg>ブラウザ用の `Postman` 拡張</seg>
       </tuv>
     </tu>
     <tu>
