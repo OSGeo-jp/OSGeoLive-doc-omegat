@@ -5054,6 +5054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adding a New Tileset and Displaying in OpenLayers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T041821Z" creationid="miurahr" creationdate="20210215T041821Z">
+        <seg>新しいタイルセットを追加してOpenLayersに表示する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adding a circle is the same (except for specifying the radius in meters as a second argument), but lets you control how it looks by passing options as the last argument when creating the object:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T142620Z" creationid="miurahr" creationdate="20210214T142620Z">
@@ -17172,6 +17180,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can be run as a CGI application under many different web servers, or as an Apache module.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T041751Z" creationid="miurahr" creationdate="20210215T041738Z">
+        <seg>さまざまなWebサーバー上でCGIアプリケーションとして実行することも、Apacheモジュールとして実行することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can be used for planning trips in advance, or for analysing the tracks recorded by GPS receivers.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T161933Z" creationid="miurahr" creationdate="20201220T021539Z">
@@ -19400,6 +19416,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T022334Z" creationid="miurahr" creationdate="20201220T022334Z">
         <seg>MapCache は、 WMS レイヤへのアクセスを高速化するタイルのキャッシュを実装しているサーバーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapCache is a tile server that speeds up access to WMS layers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T041729Z" creationid="miurahr" creationdate="20210215T041729Z">
+        <seg>MapCache は、 WMS レイヤへのアクセスを高速化するタイルサーバーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapCache is configured using XML files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T054023Z" creationid="miurahr" creationdate="20210215T054023Z">
+        <seg>MapCacheはXMLファイルを使用して構成されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22064,6 +22096,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T131627Z">
         <seg>OSGeoLive の開発は、 `OSGeoLive Wiki &lt;https://trac.osgeo.org/osgeolive#Communication&gt;`_ に詳述されているように、Eメールとインターネットチャット(IRC)を通じて調整されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeoLive has MapCache installed and configured as an Apache module.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T041745Z" creationid="miurahr" creationdate="20210215T041745Z">
+        <seg>OSGeoLiveにはMapCacheがインストールされており、Apacheモジュールとして設定されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32841,6 +32881,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T152712Z" creationid="miurahr" creationdate="20201221T152712Z">
         <seg>このクイックスタートでは、WCPS言語を使用してサンプルの2Dカバレッジにアクセスし、操作する方法を説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This quick start shows how to add a new WMS layer to a MapCache set-up, display the tile service in an OpenLayers web map, and seed a tile cache from the command line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T041815Z" creationid="miurahr" creationdate="20210215T041815Z">
+        <seg>このクイックスタートでは、新しいWMSレイヤをMapCacheのセットアップに追加し、タイルサービスをOpenLayers Webマップに表示し、コマンドラインからタイルキャッシュをシードする方法を示します。</seg>
       </tuv>
     </tu>
     <tu>
