@@ -3334,6 +3334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>41-44).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034441Z" creationid="miurahr" creationdate="20210215T034441Z">
+        <seg>41-44).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5.0</seg>
       </tuv>
       <tuv lang="ja">
@@ -4802,6 +4810,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020657Z" creationid="miurahr" creationdate="20201103T020657Z">
         <seg>Actiniaは、衛星画像、時系列衛星画像データ、ベクタデータを処理するREST APIを提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Actinia: cloud based geoprocessing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034434Z" creationid="miurahr" creationdate="20210215T034434Z">
+        <seg>Actinia:クラウドベースの地理処理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8736,6 +8752,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Commands are executed in an ephemeral mapset which will be removed after processing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034500Z" creationid="miurahr" creationdate="20210215T034330Z">
+        <seg>コマンドは、処理後に削除される一時マップセットで実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Commercial Support</seg>
       </tuv>
       <tuv lang="ja">
@@ -9276,6 +9300,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T052028Z" creationid="miurahr" creationdate="20201122T052028Z">
         <seg>マルチレイヤインタラクティブマップを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create new locations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034346Z" creationid="miurahr" creationdate="20210215T034346Z">
+        <seg>新しい場所の作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -10752,6 +10784,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ESA Globcover map shown by actinia</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034307Z" creationid="miurahr" creationdate="20210215T034307Z">
+        <seg>actinia による ESA Globcover map の表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ESRI Shape) into the database.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043905Z" creationid="miurahr" creationdate="20201108T043832Z">
@@ -10772,6 +10812,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T034107Z" creationid="miurahr" creationdate="20210215T034107Z">
         <seg>EU DEM 25m V1.1 (``eu_laea/PERMANENT/``; source: https://land.copernicus.eu/imagery-in-situ/eu-dem)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EUR 29660 EN, Publications Office of the European Union 5, Luxembourg: P. Soille, S. Loekken, and S. Albani (Eds.).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034450Z" creationid="miurahr" creationdate="20210215T034450Z">
+        <seg>EUR 29660 EN, Publications Office of the European Union 5, Luxembourg: P. Soille, S. Loekken, and S. Albani (Eds.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11180,6 +11228,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T051027Z" creationid="miurahr" creationdate="20201122T051027Z">
         <seg>業界標準(SOAP, REST, ESB, JNDI, …)を利用した、JBPM、Activiti、JasperReports、CMS、Alfrescoなどの他のビジネスアプリケーションとのエンタープライズ統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ephemeral processing is the default processing approach of actinia.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034328Z" creationid="miurahr" creationdate="20210215T034328Z">
+        <seg>一時的処理は、actinia のデフォルトの処理方法です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12628,6 +12684,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T051143Z" creationid="miurahr" creationdate="20201221T051143Z">
         <seg>さらに読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further reading: Neteler, M., Gebbert, S., Tawalika, C., Bettge, A., Benelcadi, H., Löw, F., Adams, T, Paulsen, H. (2019).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034419Z" creationid="miurahr" creationdate="20210215T034419Z">
+        <seg>追加文献: Neteler, M., Gebbert, S., Tawalika, C., Bettge, A., Benelcadi, H., Löw, F., Adams, T, Paulsen, H. (2019).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15721,6 +15785,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In Proc.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034435Z" creationid="miurahr" creationdate="20210215T034435Z">
+        <seg>In Proc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In `grdgradient` we will use the `-Ne` flag to normalize the output using a cumulative Laplace distribution and the `-A` flag for Azimuthal direction for a directional derivative.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T164445Z" creationid="miurahr" creationdate="20201116T235915Z">
@@ -16620,6 +16692,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Install GRASS GIS addons (extensions)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034343Z" creationid="miurahr" creationdate="20210215T034343Z">
+        <seg>GRASS GISアドオン(拡張機能)のインストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Install OSGeoLive</seg>
       </tuv>
       <tuv lang="ja">
@@ -17400,6 +17480,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T003810Z" creationid="miurahr" creationdate="20201108T003810Z">
         <seg>解像度や中心位置などを設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is very easy (and fast) to render a map:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034253Z" creationid="miurahr" creationdate="20210215T034253Z">
+        <seg>マップのレンダリングは非常に簡単(かつ高速)です:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34869,6 +34957,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Visit the actinia website at `https://actinia.mundialis.de &lt;https://actinia.mundialis.de&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034400Z" creationid="miurahr" creationdate="20210215T034400Z">
+        <seg> actinia webサイト: `https://actinia.mundialis.de &lt;https://actinia.mundialis.de&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Visualization of meteorologic data from files in GRIB format</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T190131Z" creationid="sanak" creationdate="20210102T190049Z">
@@ -39279,6 +39375,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>actinia tutorial: `https://neteler.gitlab.io/actinia-introduction &lt;https://neteler.gitlab.io/actinia-introduction&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034408Z" creationid="miurahr" creationdate="20210215T034408Z">
+        <seg>actinia チュートリアル: `https://neteler.gitlab.io/actinia-introduction &lt;https://neteler.gitlab.io/actinia-introduction&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>activityworkshop</seg>
       </tuv>
       <tuv lang="ja">
@@ -43635,6 +43739,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T024820Z" creationid="miurahr" creationdate="20201220T024820Z">
         <seg>オブジェクト・ベースのイメージ分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of the 2019 conference on Big Data from Space (BiDS'2019) (pp.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T034440Z" creationid="miurahr" creationdate="20210215T034440Z">
+        <seg>of the 2019 conference on Big Data from Space (BiDS'2019) (pp.</seg>
       </tuv>
     </tu>
     <tu>
