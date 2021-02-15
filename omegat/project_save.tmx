@@ -5102,6 +5102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additional information about the raster layer are requested with ``r.info``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040734Z" creationid="miurahr" creationdate="20210215T040734Z">
+        <seg>ラスタレイヤに関する追加情報は ``r.info`` で要求されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional ports are available for C# and JavaScript.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012416Z" creationid="miurahr" creationdate="20201103T012416Z">
@@ -5578,6 +5586,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T144430Z" creationid="miurahr" creationdate="20201103T022157Z">
         <seg>要求のすべてのパラメータは、MapServer固有の "*?map=/home/user/mapserver_quickstart.map*" を除き、WMS固有です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All processing results of commands run in this mapset, will be stored persistently.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T041139Z" creationid="miurahr" creationdate="20210215T041139Z">
+        <seg>このマップセットで実行されるコマンドのすべての処理結果は、永続的に格納されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6610,6 +6626,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ベイズ空間解析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Be aware that the processing will be performed in an ephemeral database that will be moved to the persistent storage using the correct name after processing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T041147Z" creationid="miurahr" creationdate="20210215T041147Z">
+        <seg>処理後に正しい名前を使用して永続ストレージに移動される一時的なデータベースで処理が実行されることに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11368,10 +11392,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Example 1: computing slope and aspect and univariate statistics from an elevation model</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040556Z" creationid="miurahr" creationdate="20210215T040556Z">
+        <seg>例1: 標高モデルからの勾配、アスペクト、および一変量統計の計算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Example 2: Orthophoto image segmentation with export</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T041016Z" creationid="miurahr" creationdate="20210215T041016Z">
+        <seg>例2: オルソ写真画像のセグメント化とエキスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Examples are enumerations, controlled vocabularies, taxonomies, thesauri or, simply, ‘lists of things’.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T145201Z" creationid="miurahr" creationdate="20201103T015215Z">
         <seg>例としては、列挙、統制された語彙、分類法、シソーラス、あるいは単に「ものの一覧」があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Examples for persistent processing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T041047Z" creationid="miurahr" creationdate="20210215T041047Z">
+        <seg>永続処理の例</seg>
       </tuv>
     </tu>
     <tu>
@@ -12972,6 +13020,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T033814Z" creationid="miurahr" creationdate="20210215T033645Z">
         <seg>actinia 固有の拡張機能で、GRASS GISコマンドは拡張されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GRASS GIS commands can be executed in a user specific persistent database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T041112Z" creationid="miurahr" creationdate="20210215T041112Z">
+        <seg>GRASS GISコマンドは、ユーザ固有の永続データベースで実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17126,8 +17182,8 @@
       <tuv lang="en-US">
         <seg>It can be used with ``--location LOCATION_NAME``\ option.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210215T033419Z" creationid="miurahr" creationdate="20210215T033419Z">
-        <seg> ``--location LOCATION_NAME`` オプションと併用できます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040404Z" creationid="miurahr" creationdate="20210215T033419Z">
+        <seg>``--location LOCATION_NAME`` オプションと併用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26041,6 +26097,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Run the commands from the statistic script in the new persistent mapset</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T041218Z" creationid="miurahr" creationdate="20210215T041218Z">
+        <seg>新しい永続マップセット内の統計スクリプトからコマンドを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Run the following command to get the disk descriptor from the OSGeoLive vmdk.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210206T165641Z" creationid="miurahr" creationdate="20210206T165641Z">
@@ -26061,6 +26125,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210214T081503Z" creationid="miurahr" creationdate="20210208T130036Z">
         <seg>`sl` で新しいプログラムを実行してください。`apt show sl` も参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run the script saved in a text file as</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T041042Z" creationid="miurahr" creationdate="20210215T041042Z">
+        <seg>テキストファイルに保存されているスクリプトを次のように実行します</seg>
       </tuv>
     </tu>
     <tu>
@@ -26345,6 +26417,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save the script in the text file to ``/tmp/ace_dtm_statistics.sh`` and run the saved script as</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040904Z" creationid="miurahr" creationdate="20210215T040904Z">
+        <seg>テキストファイル内のスクリプトを ``/tmp/ace_dtm_statistics.sh` に保存し、保存したスクリプトを次のように実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Save your settings:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023317Z" creationid="miurahr" creationdate="20201103T023317Z">
@@ -26397,6 +26477,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Scott Penrose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Script examples</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040542Z" creationid="miurahr" creationdate="20210215T040542Z">
+        <seg>スクリプトの例</seg>
       </tuv>
     </tu>
     <tu>
@@ -27345,10 +27433,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show all raster maps that have been created with the script in test_mapset</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T041229Z" creationid="miurahr" creationdate="20210215T041229Z">
+        <seg>test_mapset 内のスクリプトで作成されたすべてのラスタマップを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show information about programs.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T125859Z" creationid="miurahr" creationdate="20210208T125859Z">
         <seg>プログラムの情報を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show information about raster map elev and slope_elev</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T041311Z" creationid="miurahr" creationdate="20210215T041311Z">
+        <seg>ラスタマップの高度と slope_elev に関する情報を表示する</seg>
       </tuv>
     </tu>
     <tu>
@@ -28381,6 +28485,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T050645Z" creationid="miurahr" creationdate="20201122T050645Z">
         <seg>修正EOカバレッジのステッチ済みモザイク(contributingFootprintを含む)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Store the following script as text file ``/tmp/ace_segmentation.sh``:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T041035Z" creationid="miurahr" creationdate="20210215T041035Z">
+        <seg>次のスクリプトをテキストファイル ``/tmp/ace_segmentation.sh`` として保存してください:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Store the following script as text file ``ace_dtm_statistics.sh``:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040845Z" creationid="miurahr" creationdate="20210215T040845Z">
+        <seg>次のスクリプトをテキストファイル ``ace_dtm_statistics.sh`` として保存します:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29774,8 +29894,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The ``+`` operator can be specified for an input parameter to import a web located resource and to specify the export of an output parameter.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210215T033741Z" creationid="miurahr" creationdate="20210215T033741Z">
-        <seg> ``+`` 演算子は、入力パラメータに、Webで指定されるリソースを指定したり、出力パラメータのエクスポート先を指定したりできます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040414Z" creationid="miurahr" creationdate="20210215T033741Z">
+        <seg>``+`` 演算子は、入力パラメータに、Webで指定されるリソースを指定したり、出力パラメータのエクスポート先を指定したりできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30396,10 +30516,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following commands (to be stored in a script and executed with ``ace``) will import a raster layer from an internet source as raster map ``elev``, sets the computational region to the map and computes the slope.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040644Z" creationid="miurahr" creationdate="20210215T040644Z">
+        <seg>次のコマンド(スクリプトに格納され、 ``ace`` で実行されます)は、インターネットの情報源からラスタレイヤをラスタマップ ``elev`` として読み込み、計算領域をマップに設定し勾配を計算します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following commands run from within a Terminal Emulator window.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210122T025957Z" creationid="miurahr" creationdate="20210122T025957Z">
         <seg>次のコマンドは、ターミナルエミュレータウィンドウから実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following export formats are currently supported:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040517Z" creationid="miurahr" creationdate="20210215T040517Z">
+        <seg>現在サポートされているエクスポートフォーマットは次のとおりです:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30876,6 +31012,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The output should look like this:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040943Z" creationid="miurahr" creationdate="20210215T040943Z">
+        <seg>出力は次のようになります:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The page will look like the image below.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142050Z" creationid="miurahr" creationdate="20201116T142050Z">
@@ -31064,6 +31208,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T003134Z" creationid="miurahr" creationdate="20201103T003134Z">
         <seg>作成されるWebマップは、デスクトップとまったく同じように表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The results (messages, statistics, files) are provided as REST resources.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040914Z" creationid="miurahr" creationdate="20210215T040914Z">
+        <seg>結果(メッセージ、統計、ファイル)はRESTリソースとして提供されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31376,6 +31528,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T131133Z" creationid="miurahr" creationdate="20201122T051146Z">
         <seg>ユーザインタフェースは簡単に設定でき、モジュールアーキテクチャを使用して追加サービスを追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The user must create a mapset in an existing location.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T041116Z" creationid="miurahr" creationdate="20210215T041116Z">
+        <seg>ユーザは既存の場所にマップセットを作成する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32541,6 +32701,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This mapsets can be accessed via ``ace``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T041130Z" creationid="miurahr" creationdate="20210215T041130Z">
+        <seg>このマップセットには ``ace`` を介してアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This next screenshot shows how the Print tool looks as provided with demo for GeoMoose.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132816Z" creationid="miurahr" creationdate="20201116T132816Z">
@@ -33245,6 +33413,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To create a new mapset in the **nc_spm_08** location with the name **test_mapset** the following command must be executed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T041212Z" creationid="miurahr" creationdate="20210215T041212Z">
+        <seg>**test_mapset** という名前で **nc_spm_08** という場所に新しいマップセットを作成するには、以下のコマンドを実行する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To create a new project, choose :menuselection:`Project --&gt; New`.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T084924Z" creationid="miurahr" creationdate="20201103T113735Z">
@@ -33345,6 +33521,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T145652Z" creationid="miurahr" creationdate="20201117T000905Z">
         <seg>場所を検索するには、 "検索" パネルの一番上の検索行に名前を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To generate the actinia process chain JSON request simply add the --dry-run flag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040937Z" creationid="miurahr" creationdate="20210215T040937Z">
+        <seg>処理チェーンJSONリクエストを生成するには、--dry-run フラグを追加すればよい</seg>
       </tuv>
     </tu>
     <tu>
@@ -37011,6 +37195,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T053732Z" creationid="miurahr" creationdate="20201116T235836Z">
         <seg>他のcolortablesを試してみることもできます。完全なリストについては、 `man gmt makecpt` を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can export the output of GRASS GIS modules to store the computational result for download and further analysis.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040442Z" creationid="miurahr" creationdate="20210215T040442Z">
+        <seg>GRASS GISモジュールの出力を書き出して、計算結果を保存し、ダウンロードしてさらに解析することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44703,6 +44895,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>raster: ``COG``, ``GTiff``</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040528Z" creationid="miurahr" creationdate="20210215T040528Z">
+        <seg>ラスタ: ``COG``, ``GTiff``</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>rdewit</seg>
       </tuv>
       <tuv lang="ja">
@@ -45463,6 +45663,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>table: ``CSV``, ``TXT``</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040540Z" creationid="miurahr" creationdate="20210215T040540Z">
+        <seg>表: ``CSV``, ``TXT``</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>tail - show the end of a file</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T134828Z" creationid="miurahr" creationdate="20210208T134828Z">
@@ -45883,6 +46091,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T052638Z" creationid="miurahr" creationdate="20201122T052638Z">
         <seg>ベクタデータ:要素の変更、作成、削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>vector: ``ESRI_Shapefile``, ``GeoJSON``, ``GML``, ``GPKG``</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210215T040534Z" creationid="miurahr" creationdate="20210215T040534Z">
+        <seg>ベクタ: ``ESRI_Shapefile``, ``GeoJSON``, ``GML``, ``GPKG``</seg>
       </tuv>
     </tu>
     <tu>
