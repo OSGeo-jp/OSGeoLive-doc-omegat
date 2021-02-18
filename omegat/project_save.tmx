@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_4470bbb50" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef7" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6240,8 +6240,8 @@
       <tuv lang="en-US">
         <seg>As per the `terms of the Creative Commons license &lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F&gt;`_, if you include OSGeoLive documentation into a new document, you will need to attribute the contributors.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T115815Z" creationid="smellman" creationdate="20201101T110855Z">
-        <seg> `クリエイティブ・コモンズ・ライセンスの条件 &lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F&gt;`_ に従って、OSGeoLiveのドキュメントを新しいドキュメントに含める場合は、貢献者の帰属を指定する必要があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210218T225131Z" creationid="smellman" creationdate="20201101T110855Z">
+        <seg>`クリエイティブ・コモンズ・ライセンスの条件 &lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F&gt;`_ に従って、OSGeoLiveのドキュメントを新しいドキュメントに含める場合は、貢献者の帰属を指定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
