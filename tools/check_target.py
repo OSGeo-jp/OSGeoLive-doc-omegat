@@ -79,6 +79,10 @@ class Main:
                         issues.append(error.astext())
                 if len(msgstr_warning) > 0:
                     issues.append(msgstr_warning)
+
+                if msgstr.startswith(" "):
+                    issues.append("msgstr starts with white space")
+
                 doctree_diff = self.check_doctree_diff(msgid_doctree, msgstr_doctree)
                 if len(doctree_diff) > 0:
                     issues.append("Doctree element count is different (%s)" % doctree_diff)
