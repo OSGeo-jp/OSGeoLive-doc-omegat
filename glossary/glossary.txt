@@ -46,3 +46,5 @@ view	ビュー
 map	マップ
 raster layer	ラスタレイヤ
 vector layer	ベクタレイヤ
+OGC standard	OGC標準
+Open Standards	オープン標準
