@@ -4968,16 +4968,16 @@
       <tuv lang="en-US">
         <seg>Add layers to the map</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134024Z" creationid="miurahr" creationdate="20201116T134024Z">
-        <seg>マップにレイヤーを追加</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012951Z" creationid="miurahr" creationdate="20201116T134024Z">
+        <seg>マップにレイヤを追加</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Add new layers to the map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134228Z" creationid="miurahr" creationdate="20201116T134228Z">
-        <seg>マップにレイヤーを追加</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012956Z" creationid="miurahr" creationdate="20201116T134228Z">
+        <seg>マップにレイヤを追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -6464,8 +6464,8 @@
       <tuv lang="en-US">
         <seg>Auto-detection of layers in data source</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T051108Z" creationid="smellman" creationdate="20201103T051108Z">
-        <seg>データソース内のレイヤーの自動検出</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012758Z" creationid="smellman" creationdate="20201103T051108Z">
+        <seg>データソース内のレイヤの自動検出</seg>
       </tuv>
     </tu>
     <tu>
@@ -6544,8 +6544,8 @@
       <tuv lang="en-US">
         <seg>BSB raster, C-MAP (CM93/2) and S-57 ENC vector charts</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T102636Z" creationid="smellman" creationdate="20201103T102636Z">
-        <seg>BSBラスター、C-MAP(CM93/2)、S-57ENCベクトル図</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012339Z" creationid="smellman" creationdate="20201103T102636Z">
+        <seg>BSBラスター、C-MAP(CM93/2)、S-57ENCベクタ図</seg>
       </tuv>
     </tu>
     <tu>
@@ -6936,8 +6936,8 @@
       <tuv lang="en-US">
         <seg>Both political (administrative) and physical (natural) features are included and vector features align perfectly with included raster data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T012445Z" creationid="miurahr" creationdate="20201103T012445Z">
-        <seg>政治(行政)フィーチャと物理(自然)フィーチャの両方が含まれ、ベクトルフィーチャは含まれるラスターデータと完全に位置合わせされます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012318Z" creationid="miurahr" creationdate="20201103T012445Z">
+        <seg>政治(行政)フィーチャと物理(自然)フィーチャの両方が含まれ、ベクタフィーチャは含まれるラスタデータと完全に位置合わせされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7152,8 +7152,8 @@
       <tuv lang="en-US">
         <seg>But, without being logged in, you are limited to read-only access of public layers.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142103Z" creationid="miurahr" creationdate="20201116T142103Z">
-        <seg>しかし、ログインしていないと、パブリックレイヤーへの読み取り専用アクセスに制限されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013030Z" creationid="miurahr" creationdate="20201116T142103Z">
+        <seg>しかし、ログインしていないと、パブリックレイヤへの読み取り専用アクセスに制限されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9442,8 +9442,8 @@
       <tuv lang="en-US">
         <seg>Creating a tile layer usually involves setting the URL template for the tile images, the attribution text and the maximum zoom level of the layer:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210214T142142Z" creationid="miurahr" creationdate="20210214T142142Z">
-        <seg>タイルレイヤ を作成するには、通常、タイルイメージのURLテンプレート、属性テキスト、およびレイヤーの最大ズームレベルを設定します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012730Z" creationid="miurahr" creationdate="20210214T142142Z">
+        <seg>タイルレイヤ を作成するには、通常、タイルイメージのURLテンプレート、属性テキスト、およびレイヤの最大ズームレベルを設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11818,8 +11818,8 @@
       <tuv lang="en-US">
         <seg>Filter layers on the map (if configured),</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134308Z" creationid="miurahr" creationdate="20201116T134308Z">
-        <seg>マップ上のレイヤーをフィルタ(設定されている場合)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013012Z" creationid="miurahr" creationdate="20201116T134308Z">
+        <seg>マップ上のレイヤをフィルタ(設定されている場合)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13722,8 +13722,8 @@
       <tuv lang="en-US">
         <seg>Geomajas applications have the ability to display a variety of information within the layers.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T131733Z" creationid="miurahr" creationdate="20201116T131733Z">
-        <seg>Geomajasアプリケーションには、レイヤー内のさまざまな情報を表示する機能があります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012852Z" creationid="miurahr" creationdate="20201116T131733Z">
+        <seg>Geomajasアプリケーションには、レイヤ内のさまざまな情報を表示する機能があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16614,8 +16614,8 @@
       <tuv lang="en-US">
         <seg>Information layers (Weather, Real-time clouds, Day/Night View, Real-time Satellites, Wikipedia Articles, Photos, Postal Codes, Earthquakes)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T010324Z" creationid="miurahr" creationdate="20201103T010324Z">
-        <seg>情報レイヤー(天気、リアルタイム・クラウド、昼/夜ビュー、リアルタイム衛星、ウィキペディアの記事、写真、郵便番号、地震)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012744Z" creationid="miurahr" creationdate="20201103T010324Z">
+        <seg>情報レイヤ(天気、リアルタイム・クラウド、昼/夜ビュー、リアルタイム衛星、ウィキペディアの記事、写真、郵便番号、地震)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17326,7 +17326,7 @@
       <tuv lang="en-US">
         <seg>It includes a large number of modules for the analysis of vector (point, line and polygon), table, grid and image data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T015620Z" creationid="miurahr" creationdate="20201103T015612Z">
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012512Z" creationid="miurahr" creationdate="20201103T015612Z">
         <seg>これはベクトル(点,線,多角形),表,格子,画像データの解析のための多数のモジュールを含みます。</seg>
       </tuv>
     </tu>
@@ -17822,8 +17822,8 @@
       <tuv lang="en-US">
         <seg>JOSM views WMS layers, but uses the `OSM API &lt;https://wiki.openstreetmap.org/wiki/API_v0.6&gt;`_ to communicate with OSM database.</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>JOSM は WMS レイヤーを閲覧し、 `OSM API &lt;https://wiki.openstreetmap.org/wiki/API_v0.6&gt;`_ を使用してOSMデータベースと通信します</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012734Z">
+        <seg>JOSM は WMS レイヤを閲覧し、 `OSM API &lt;https://wiki.openstreetmap.org/wiki/API_v0.6&gt;`_ を使用してOSMデータベースと通信します</seg>
       </tuv>
     </tu>
     <tu>
@@ -18510,16 +18510,16 @@
       <tuv lang="en-US">
         <seg>Layers also can be associated with metadata, ratings, and comments.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142410Z" creationid="miurahr" creationdate="20201116T142410Z">
-        <seg>レイヤーはメタデータ、評価、コメントに関連付けることもできます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013108Z" creationid="miurahr" creationdate="20201116T142410Z">
+        <seg>レイヤはメタデータ、評価、コメントに関連付けることもできます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Layers are a published resource representing a raster or vector spatial data source.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142248Z" creationid="miurahr" creationdate="20201116T142248Z">
-        <seg>レイヤーは、ラスタまたはベクタ空間データソースを表すパブリッシュされたリソースです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013105Z" creationid="miurahr" creationdate="20201116T142248Z">
+        <seg>レイヤは、ラスタまたはベクタ空間データソースを表すパブリッシュされたリソースです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19198,8 +19198,8 @@
       <tuv lang="en-US">
         <seg>Manage existing layers or change the background map (the default is openstreetmap),</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210219T011655Z" creationid="miurahr" creationdate="20201116T134242Z">
-        <seg>既存のレイヤーを管理するか、背景のマップを変更します (デフォルトはOpenStreetMap)。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013006Z" creationid="miurahr" creationdate="20201116T134242Z">
+        <seg>既存のレイヤを管理するか、背景のマップを変更します (デフォルトはOpenStreetMap)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20838,8 +20838,8 @@
       <tuv lang="en-US">
         <seg>Next we are going to add in a WFS vector layer - this is a little more complicated, but follows the same approach of creating a source and then a layer as the previous layers:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T054047Z" creationid="miurahr" creationdate="20201103T054047Z">
-        <seg>次に、WFSベクトルレイヤを追加します。これは少し複雑ですが、前のレイヤと同じ方法でソースとレイヤを作成します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012437Z" creationid="miurahr" creationdate="20201103T054047Z">
+        <seg>次に、WFSベクタレイヤを追加します。これは少し複雑ですが、前のレイヤと同じ方法でソースとレイヤを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21534,8 +21534,8 @@
       <tuv lang="en-US">
         <seg>Now you should be able to see all the available layers.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T143618Z" creationid="miurahr" creationdate="20201116T143618Z">
-        <seg>これで、利用可能なすべてのレイヤーが表示されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013130Z" creationid="miurahr" creationdate="20201116T143618Z">
+        <seg>これで、利用可能なすべてのレイヤが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22686,8 +22686,8 @@
       <tuv lang="en-US">
         <seg>Once signed in, the top toolbar will change to include some additional elements, namely a link to the Admin console, the name of the signed in user, a link to Sign out, and a dropdown box for changing the interface language.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T131439Z" creationid="miurahr" creationdate="20201116T133423Z">
-        <seg>サインインすると、上部のツールバーが変更され、管理コンソールへのリンク、サインインしたユーザの名前、サインアウトへのリンク、インタフェース言語を変更するためのドロップダウンボックスなどの追加要素が表示されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012636Z" creationid="miurahr" creationdate="20201116T133423Z">
+        <seg>サインインすると、上部ツールバーが変更され、管理コンソールへのリンク、サインインしたユーザの名前、サインアウトへのリンク、インタフェース言語を変更するためのドロップダウンボックスなどの追加要素が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23398,8 +23398,8 @@
       <tuv lang="en-US">
         <seg>OpenStreetMap data can be loaded in **QGIS** as vector layer, as a core functionality or through plugins like QuickOSM.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T055453Z" creationid="miurahr" creationdate="20201102T052334Z">
-        <seg>OpenStreetMapデータは、ベクトルレイヤとして、コア機能として、またはQuickOSMのようなプラグインを通じて、 **QGIS** にロードすることができます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012444Z" creationid="miurahr" creationdate="20201102T052334Z">
+        <seg>OpenStreetMapデータは、ベクタレイヤとして、コア機能として、またはQuickOSMのようなプラグインを通じて、 **QGIS** にロードすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24842,8 +24842,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Projection friendly vectors precisely match at 180 degrees longitude.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T012455Z" creationid="miurahr" creationdate="20201103T012455Z">
-        <seg>投影に適したベクトルは、経度180度で正確に一致します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012332Z" creationid="miurahr" creationdate="20201103T012455Z">
+        <seg>投影に適したベクタは、経度180度で正確に一致します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25891,8 +25891,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Return to the catalog homepage by selecting the catalog name in the top left of the top toolbar.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T133548Z" creationid="miurahr" creationdate="20201116T133548Z">
-        <seg>トップツールバーの左上に表示されているカタログ名を選択して、カタログのホームページに戻ります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012652Z" creationid="miurahr" creationdate="20201116T133548Z">
+        <seg>上部ツールバーの左上に表示されているカタログ名を選択して、カタログのホームページに戻ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26851,8 +26851,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select **Admin console** in the top toolbar to access the administrative functions in the catalog, then select the **Metadata and templates** menuitem to access the sample data and templates tab.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210126T155609Z" creationid="sanak" creationdate="20210126T155503Z">
-        <seg>トップツールバーの **管理コンソール** を選択してカタログ内の管理機能にアクセスし、 **メタデータとテンプレート** メニューを選択してサンプルデータとテンプレートタブにアクセスします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012643Z" creationid="sanak" creationdate="20210126T155503Z">
+        <seg>上部ツールバーの **管理コンソール** を選択してカタログ内の管理機能にアクセスし、 **メタデータとテンプレート** メニューを選択してサンプルデータとテンプレートタブにアクセスします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26875,16 +26875,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select **Search** in the top toolbar to access the Search page.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T073646Z" creationid="miurahr" creationdate="20201116T133708Z">
-        <seg>トップツールバーの **検索** を選択して、検索ページにアクセスします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012721Z" creationid="miurahr" creationdate="20201116T133708Z">
+        <seg>上部ツールバーの **検索** を選択して、検索ページにアクセスします。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Select **Sign in** in the top right of the top toolbar in the homepage to visit the sign in page.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T073616Z" creationid="miurahr" creationdate="20201116T133406Z">
-        <seg>ホームページのトップツールバーの右上にある **サインイン** を選択して、サインインページを表示します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012626Z" creationid="miurahr" creationdate="20201116T133406Z">
+        <seg>ホームページの上部ツールバーの右上にある **サインイン** を選択して、サインインページを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27579,8 +27579,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Similar to the layer tree store and tree panel, we create a ``GeoExt.data.store.Features`` store and a grid panel.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T151223Z" creationid="miurahr" creationdate="20201103T054528Z">
-        <seg>レイヤーツリーストアとツリーパネルと同様に、 ``GeoExt.data.store.Features`` ストアとグリッドパネルを作成します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012844Z" creationid="miurahr" creationdate="20201103T054528Z">
+        <seg>レイヤツリーストアとツリーパネルと同様に、 ``GeoExt.data.store.Features`` ストアとグリッドパネルを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28611,8 +28611,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Style Layer Descriptor control of rendering allowing you to publish your Map using the same settings in uDig as with popular Web Map Servers</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T002611Z" creationid="miurahr" creationdate="20201103T002528Z">
-        <seg>スタイルレイヤー記述子レンダリングの制御。uDigで一般的なWeb Map Serverと同じ設定を使用してマップを配信できます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012805Z" creationid="miurahr" creationdate="20201103T002528Z">
+        <seg>スタイルレイヤ記述子レンダリングの制御。uDigで一般的なWeb Map Serverと同じ設定を使用してマップを配信できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28691,8 +28691,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Support for PostGIS databases and GDAL vector formats</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T051052Z" creationid="smellman" creationdate="20201103T051052Z">
-        <seg>PostGISデータベースとGDALベクターフォーマットのサポート</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012157Z" creationid="smellman" creationdate="20201103T051052Z">
+        <seg>PostGISデータベースとGDALベクタフォーマットのサポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -29043,8 +29043,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Synchronise layers with the small map on the Search tab,</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134324Z" creationid="miurahr" creationdate="20201116T134324Z">
-        <seg>検索タブでレイヤーを小さなマップに同期させます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013017Z" creationid="miurahr" creationdate="20201116T134324Z">
+        <seg>検索タブでレイヤを小さなマップに同期させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29454,8 +29454,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The Layer Selection widget allows you to enable or disable the visibility and configure the rendering of the layers.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T123258Z" creationid="miurahr" creationdate="20201116T123258Z">
-        <seg>レイヤ選択ウィジェットを使用すると、表示/非表示を切り替えたり、レイヤーのレンダリングを設定したりできます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012826Z" creationid="miurahr" creationdate="20201116T123258Z">
+        <seg>レイヤ選択ウィジェットを使用すると、表示/非表示を切り替えたり、レイヤのレンダリングを設定したりできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33871,8 +33871,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To see existing layers, from the navigation bar on the top of any page, select *Data* menu and click on the *Layers* link.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T081732Z" creationid="miurahr" creationdate="20201116T142502Z">
-        <seg>既存のレイヤーを表示するには、ページの最上部にあるナビゲーションバーから *[データ]* メニューを選択し、 *[レイヤー]* リンクをクリックします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013116Z" creationid="miurahr" creationdate="20201116T142502Z">
+        <seg>既存のレイヤを表示するには、ページの最上部にあるナビゲーションバーから *[データ]* メニューを選択し、 *[レイヤ]* リンクをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34903,8 +34903,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Using the Manage Layers tool, select the cog symbol next to **Physiography of North and Central Eurasia Landform** and select **Zoom to layer**.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T075055Z" creationid="miurahr" creationdate="20201116T134426Z">
-        <seg>レイヤーを管理ツールを使用して、 **Physiography of North and Central Eurasia Landform** の横にあるcogシンボルを選択し、 **レイヤへズーム** を選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013023Z" creationid="miurahr" creationdate="20201116T134426Z">
+        <seg>レイヤを管理ツールを使用して、 **Physiography of North and Central Eurasia Landform** の横にあるcogシンボルを選択し、 **レイヤへズーム** を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34967,8 +34967,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Vector Tile Service</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T050928Z" creationid="smellman" creationdate="20201103T050928Z">
-        <seg>ベクタータイルサービス</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012139Z" creationid="smellman" creationdate="20201103T050928Z">
+        <seg>ベクタタイルサービス</seg>
       </tuv>
     </tu>
     <tu>
@@ -34983,8 +34983,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Vector features include name and other attributes</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T012450Z" creationid="miurahr" creationdate="20201103T012450Z">
-        <seg>ベクトルフィーチャには、名前とその他の属性が含まれます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012324Z" creationid="miurahr" creationdate="20201103T012450Z">
+        <seg>ベクタフィーチャには、名前とその他の属性が含まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35007,8 +35007,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Vector: WFS, KML, GeoJSON, TopoJSON, GPX, GML, and MapBox vector tiles.</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>ベクタ: WFS, KML, GeoJSON, TopoJSON, GPX, GML, MapBox ベクトルタイル</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012349Z">
+        <seg>ベクタ: WFS, KML, GeoJSON, TopoJSON, GPX, GML, MapBox ベクタタイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -35735,16 +35735,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>We will be using the installed MapServer web services on OSGeoLive a MapServer to supply map layers to the application.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053837Z" creationid="miurahr" creationdate="20201103T053837Z">
-        <seg>アプリケーションにマップ・レイヤーを提供するために、OSGeoLiveにインストールされたMapServer WebサービスをMapServerとして使用します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012837Z" creationid="miurahr" creationdate="20201103T053837Z">
+        <seg>アプリケーションにマップ・レイヤを提供するために、OSGeoLiveにインストールされたMapServer WebサービスをMapServerとして使用します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>We will configure this to display the OpenStreetMap layer we created earlier, and place it in an ExtJS panel.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T054625Z" creationid="miurahr" creationdate="20201103T054625Z">
-        <seg>先ほど作成したOpenStreetMapレイヤーを表示するように設定し、ExtJSパネルに配置します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012848Z" creationid="miurahr" creationdate="20201103T054625Z">
+        <seg>先ほど作成したOpenStreetMapレイヤを表示するように設定し、ExtJSパネルに配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37481,8 +37481,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can return to the  homepage at any point by selecting the catalogue logo in the top left of the top toolbar.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T133218Z" creationid="miurahr" creationdate="20201116T133218Z">
-        <seg>トップツールバーの左上に表示されているカタログロゴを選択すると、ホームページにいつでも戻ることができます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012617Z" creationid="miurahr" creationdate="20201116T133218Z">
+        <seg>上部ツールバーの左上に表示されているカタログロゴを選択すると、ホームページにいつでも戻ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37505,8 +37505,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can search the catalog, add layers from web services, or KML,</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134233Z" creationid="miurahr" creationdate="20201116T134233Z">
-        <seg>カタログを検索したり、WebサービスやKMLからレイヤーを追加したりできます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013002Z" creationid="miurahr" creationdate="20201116T134233Z">
+        <seg>カタログを検索したり、WebサービスやKMLからレイヤを追加したりできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39697,8 +39697,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>add a vector and raster data source to GeoServer</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>GeoServerにベクターとラスターデータソースを追加する</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012204Z">
+        <seg>GeoServerにベクタとラスターデータソースを追加する</seg>
       </tuv>
     </tu>
     <tu>
@@ -40257,8 +40257,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>build layer trees from different sources</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>異なるソースからのレイヤーツリーの構築</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012738Z">
+        <seg>異なるソースからのレイヤツリーの構築</seg>
       </tuv>
     </tu>
     <tu>
@@ -40889,8 +40889,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>drawing points, lines, polygons, multi-geometries, geometry collections and circles (eventually mixed in a single layer)</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T103745Z" creationid="smellman" creationdate="20201103T103502Z">
-        <seg>ポイント、ライン、ポリゴン、マルチジオメトリ、ジオメトリコレクション、円の描画(最終的には一つのレイヤーに混在)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012749Z" creationid="smellman" creationdate="20201103T103502Z">
+        <seg>ポイント、ライン、ポリゴン、マルチジオメトリ、ジオメトリコレクション、円の描画(最終的には一つのレイヤに混在)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41537,8 +41537,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>generate vector tiles without configuration and inspect them with built-in viewers</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T051836Z" creationid="smellman" creationdate="20201103T051836Z">
-        <seg>設定なしでベクタータイルを生成し、組み込みビューアで検査する</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012210Z" creationid="smellman" creationdate="20201103T051836Z">
+        <seg>設定なしでベクタタイルを生成し、組み込みビューアで検査する</seg>
       </tuv>
     </tu>
     <tu>
@@ -41889,8 +41889,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>gvSIG is known for its user-friendly interface and being able to access all common vector and raster formats.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T131247Z" creationid="miurahr" creationdate="20201103T064040Z">
-        <seg>gvSIGは、ユーザフレンドリなインタフェースと、すべての一般的なベクトル形式とラスター形式にアクセスできることで知られています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012257Z" creationid="miurahr" creationdate="20201103T064040Z">
+        <seg>gvSIGは、ユーザフレンドリなインタフェースと、すべての一般的なベクタ形式とラスタ形式にアクセスできることで知られています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45593,8 +45593,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>statistics : length, area, layer statistics, attribute statistics, plots...</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T104033Z" creationid="smellman" creationdate="20201103T104020Z">
-        <seg>統計:長さ、面積、レイヤーの統計、属性の統計、印刷...</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012753Z" creationid="smellman" creationdate="20201103T104020Z">
+        <seg>統計:長さ、面積、レイヤの統計、属性の統計、印刷...</seg>
       </tuv>
     </tu>
     <tu>
@@ -45737,16 +45737,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>t-rex comes with built-in viewers for inspecting generated vector tiles.</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T052145Z" creationid="smellman" creationdate="20201103T052145Z">
-        <seg>t-rexには、生成されたベクタータイルを検査するためのビューアが組み込まれています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012247Z" creationid="smellman" creationdate="20201103T052145Z">
+        <seg>t-rexには、生成されたベクタタイルを検査するためのビューアが組み込まれています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>t-rex is a vector tile server specialized on publishing MVT tiles from your own data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T051008Z" creationid="smellman" creationdate="20201103T051008Z">
-        <seg>t-rexは、独自のデータからMVTタイルを配信することに特化したベクタータイルサーバです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012151Z" creationid="smellman" creationdate="20201103T051008Z">
+        <seg>t-rexは、独自のデータからMVTタイルを配信することに特化したベクタタイルサーバです。</seg>
       </tuv>
     </tu>
     <tu>
