@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef7" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_4470bbb50" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10434,8 +10434,8 @@
       <tuv lang="en-US">
         <seg>Don't worry if the layer preview doesn't look very good as it is using the default style.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T231106Z" creationid="miurahr" creationdate="20201116T231106Z">
-        <seg>レイヤのプレビューは既定のスタイルを使用しているため、あまり見栄えがしなくても心配ありません。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T011721Z" creationid="miurahr" creationdate="20201116T231106Z">
+        <seg>レイヤのプレビューはデフォルトのスタイルを使用しているため、あまり見栄えがしなくても心配ありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12242,8 +12242,8 @@
       <tuv lang="en-US">
         <seg>For example, you can inspect the dataset series that is loaded by default by clicking the "Dataset Series" link and then the "MER_FRS_1P_RGB_reduced" link.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T124859Z" creationid="miurahr" creationdate="20201116T124859Z">
-        <seg>たとえば、既定でロードされているデータセットシリーズを検査するには、[データセットシリーズ]リンクをクリックし、[MER_FRS_1P_RGB_reduced]リンクをクリックします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T011328Z" creationid="miurahr" creationdate="20201116T124859Z">
+        <seg>たとえば、デフォルトでロードされているデータセットシリーズを検査するには、[データセットシリーズ]リンクをクリックし、[MER_FRS_1P_RGB_reduced]リンクをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15171,8 +15171,8 @@
       <tuv lang="en-US">
         <seg>If a feature does not match any class then it is not rendered at all but if the last class in a layer contains no EXPRESSION then that class acts as a default.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T022843Z" creationid="miurahr" creationdate="20201103T022843Z">
-        <seg>フィーチャがどのクラスとも一致しない場合、フィーチャはまったくレンダリングされませんが、画層の最後のクラスにEXPRESSIONが含まれていない場合、そのクラスが既定として機能します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T011752Z" creationid="miurahr" creationdate="20201103T022843Z">
+        <seg>フィーチャがどのクラスとも一致しない場合、フィーチャはまったくレンダリングされませんが、レイヤの最後のクラスにEXPRESSIONが含まれていない場合、そのクラスがデフォルト値として機能します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18702,8 +18702,8 @@
       <tuv lang="en-US">
         <seg>Let the Coordinate Reference System Selector default to (WGS 84 EPSG:4326) and hit ``OK``.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T063352Z" creationid="miurahr" creationdate="20201116T122833Z">
-        <seg>座標参照系セレクタの既定値を(WGS 84 EPSG:4326)にして、 ``OK`` を押します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T011912Z" creationid="miurahr" creationdate="20201116T122833Z">
+        <seg>座標参照系セレクタのデフォルト値を(WGS 84 EPSG:4326)にして、 ``OK`` を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19198,8 +19198,8 @@
       <tuv lang="en-US">
         <seg>Manage existing layers or change the background map (the default is openstreetmap),</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210126T161510Z" creationid="miurahr" creationdate="20201116T134242Z">
-        <seg>既存のレイヤーを管理するか、背景のマップを変更します (既定はOpenStreetMap)。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T011655Z" creationid="miurahr" creationdate="20201116T134242Z">
+        <seg>既存のレイヤーを管理するか、背景のマップを変更します (デフォルトはOpenStreetMap)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19214,8 +19214,8 @@
       <tuv lang="en-US">
         <seg>Manage the Map, by setting it back to default settings, loading a new map definition, downloading the current map, or saving the map configuration as a layer in the catalog,</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134315Z" creationid="miurahr" creationdate="20201116T134315Z">
-        <seg>マップを管理します。既定の設定に戻すか、新しいマップ定義を読み込むか、現在のマップをダウンロードするか、マップの設定をレイヤとしてカタログに保存します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T011704Z" creationid="miurahr" creationdate="20201116T134315Z">
+        <seg>マップを管理します。初期設定に戻すか、新しいマップ定義を読み込むか、現在のマップをダウンロードするか、マップの設定をレイヤとしてカタログに保存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24014,8 +24014,8 @@
       <tuv lang="en-US">
         <seg>Please note that in pgAdmin III the foreign data wrappers, foreign servers, user mappings and foreign tables are not displayed by default in the tree.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T002944Z" creationid="miurahr" creationdate="20201117T002944Z">
-        <seg>pgAdmin IIIでは、外部データラッパー、外部サーバ、ユーザマッピング、外部テーブルが既定でツリーに表示されないことに注意してください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T011953Z" creationid="miurahr" creationdate="20201117T002944Z">
+        <seg>pgAdmin IIIのデフォルトでは、外部データラッパー、外部サーバ、ユーザマッピング、外部テーブルが、ツリーに表示されないことに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30334,8 +30334,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The default is to buffer by "0" which does nothing.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210118T153716Z" creationid="miurahr" creationdate="20201116T132414Z">
-        <seg>既定値は "0" でバッファリングされ、何も行われません。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T011547Z" creationid="miurahr" creationdate="20201116T132414Z">
+        <seg>バッファサイズのデフォルト値は "0" であり、何も行われません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30350,16 +30350,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The default output format is GeoTIFF.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T125641Z" creationid="miurahr" creationdate="20201116T125641Z">
-        <seg>既定の出力形式はGeoTIFFです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T011448Z" creationid="miurahr" creationdate="20201116T125641Z">
+        <seg>デフォルトの出力形式はGeoTIFFです。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The default renderer is *canvas*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T071214Z" creationid="miurahr" creationdate="20201108T015432Z">
-        <seg>既定のレンダラーは *canvas* です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T011859Z" creationid="miurahr" creationdate="20201108T015432Z">
+        <seg>デフォルトのレンダラは *canvas* です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30382,8 +30382,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The default standards in GeoNetwork are:</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210126T155731Z" creationid="sanak" creationdate="20210126T155731Z">
-        <seg>GeoNetwork の既定の標準規格は次のとおりです:</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T011636Z" creationid="sanak" creationdate="20210126T155731Z">
+        <seg>GeoNetwork のデフォルトでサポートされる標準規格は次のとおりです:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30934,8 +30934,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The map window contains the OpenStreetMap layer by default.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T143203Z" creationid="miurahr" creationdate="20201116T143203Z">
-        <seg>マップウィンドウには、既定でOpenStreetMapレイヤが表示されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T011711Z" creationid="miurahr" creationdate="20201116T143203Z">
+        <seg>マップウィンドウには、デフォルトでOpenStreetMapレイヤが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31470,8 +31470,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The style dock is not visible by default, but easily accessible via a button at the top of the layer panel as shown below.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T015408Z" creationid="miurahr" creationdate="20201117T015408Z">
-        <seg>スタイル枠は既定では表示されていませんが、次に示すように、レイヤパネルの上部にあるボタンから簡単にアクセスできます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012035Z" creationid="miurahr" creationdate="20201117T015408Z">
+        <seg>スタイル枠はデフォルトでは表示されていませんが、次に示すように、レイヤパネルの上部にあるボタンから簡単にアクセスできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32503,8 +32503,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This information is stored as a QGIS project file and has an extension of '.qgs' or '.qgz', with '.qgz' being the default file format in QGIS going into the future.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210118T150851Z" creationid="miurahr" creationdate="20201103T114036Z">
-        <seg>この情報はQGISのプロジェクトファイルとして保存され、拡張子は '.qgs' または '.qgz' になります。 '.qgz' は将来のQGISでの既定のファイル形式です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T012005Z" creationid="miurahr" creationdate="20201103T114036Z">
+        <seg>この情報はQGISのプロジェクトファイルとして保存され、拡張子は '.qgs' または '.qgz' になります。 '.qgz' は将来のQGISでのデフォルトのファイル形式です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33119,8 +33119,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This will launch the default browser which will navigate to the correct location automatically.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T123138Z" creationid="miurahr" creationdate="20201116T123138Z">
-        <seg>これにより既定のブラウザが起動し、自動的に正しい場所に移動します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T011457Z" creationid="miurahr" creationdate="20201116T123138Z">
+        <seg>これによりデフォルトのブラウザが起動し、自動的に正しい場所に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33943,8 +33943,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To switch back to the original view select **Default view** from the list.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T074950Z" creationid="miurahr" creationdate="20201116T134019Z">
-        <seg>元のビューに戻すには、一覧から **既定のビュー** を選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T011644Z" creationid="miurahr" creationdate="20201116T134019Z">
+        <seg>元のビューに戻すには、一覧から **デフォルトのビュー** を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38769,8 +38769,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`Default MapCache Demo &lt;http://localhost/mapcache/demo/&gt;`_</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T023418Z" creationid="miurahr" creationdate="20201220T023418Z">
-        <seg>`既定の MapCache デモ &lt;http://localhost/mapcache/demo/&gt;`_</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T011306Z" creationid="miurahr" creationdate="20201220T023418Z">
+        <seg>`デフォルトの MapCache デモ &lt;http://localhost/mapcache/demo/&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
@@ -45697,8 +45697,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>supports any Python web framework (included are Flask [default], Starlette)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T031453Z" creationid="miurahr" creationdate="20201220T031453Z">
-        <seg>あらゆる (Flask [既定], Starletteをふくむ) Python webフレームワークをサポート</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T011320Z" creationid="miurahr" creationdate="20201220T031453Z">
+        <seg>あらゆる (Flask [デフォルト], Starletteをふくむ) Python webフレームワークをサポート</seg>
       </tuv>
     </tu>
     <tu>
