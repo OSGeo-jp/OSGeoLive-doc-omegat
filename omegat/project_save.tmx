@@ -3064,8 +3064,8 @@
       <tuv lang="en-US">
         <seg>*It is very important that you first remove the layer with the sample data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T080306Z" creationid="miurahr" creationdate="20201103T080306Z">
-        <seg>*最初にサンプルデータを含むレイヤーを削除することが非常に重要です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013521Z" creationid="miurahr" creationdate="20201103T080306Z">
+        <seg>*最初にサンプルデータを含むレイヤを削除することが非常に重要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4272,8 +4272,8 @@
       <tuv lang="en-US">
         <seg>A close up of the layer panel is shown below.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T120328Z" creationid="miurahr" creationdate="20201103T120328Z">
-        <seg>レイヤーパネルの拡大図を以下に示します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013654Z" creationid="miurahr" creationdate="20201103T120328Z">
+        <seg>レイヤパネルの拡大図を以下に示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8714,8 +8714,8 @@
       <tuv lang="en-US">
         <seg>Clients for WMS layers</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T234342Z" creationid="miurahr" creationdate="20201116T234342Z">
-        <seg>WMSレイヤーのクライアント</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013459Z" creationid="miurahr" creationdate="20201116T234342Z">
+        <seg>WMSレイヤのクライアント</seg>
       </tuv>
     </tu>
     <tu>
@@ -8930,8 +8930,8 @@
       <tuv lang="en-US">
         <seg>Configuring the background layer</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T051426Z" creationid="miurahr" creationdate="20201103T051426Z">
-        <seg>背景レイヤーの設定</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013505Z" creationid="miurahr" creationdate="20201103T051426Z">
+        <seg>背景レイヤの設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -16414,8 +16414,8 @@
       <tuv lang="en-US">
         <seg>In this example we will create a database called `city_routing` and enable pgRouting in the database.</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>このサンプルでは、 `city_routing` というデータベースを作成し、そのデータベースで pgRouting を有効化します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013953Z">
+        <seg>この例では、 `city_routing` というデータベースを作成し、そのデータベースで pgRouting を有効化します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18558,16 +18558,16 @@
       <tuv lang="en-US">
         <seg>Layers can be styled in QGIS using the style dock.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T015401Z" creationid="miurahr" creationdate="20201117T015401Z">
-        <seg>レイヤーは、スタイルドックを使用してQGISでスタイル設定できます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013858Z" creationid="miurahr" creationdate="20201117T015401Z">
+        <seg>レイヤは、スタイルドックを使用してQGISでスタイル設定できます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Layers can be turned on or off by clicking the checkbox next to the layer name in the layers panel.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T120318Z" creationid="miurahr" creationdate="20201103T120318Z">
-        <seg>レイヤーパネルでレイヤー名の横にあるチェックボックスをクリックすると、レイヤーの表示/非表示を切り替えることができます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013649Z" creationid="miurahr" creationdate="20201103T120318Z">
+        <seg>レイヤパネルでレイヤ名の横にあるチェックボックスをクリックすると、レイヤ表示/非表示を切り替えることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21182,8 +21182,8 @@
       <tuv lang="en-US">
         <seg>Notice how the raster layer is now on top of all other layers in the layer panel.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T014637Z" creationid="miurahr" creationdate="20201117T014637Z">
-        <seg>ラスタレイヤがレイヤパネルの他のすべてのレイヤーの上に表示されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013704Z" creationid="miurahr" creationdate="20201117T014637Z">
+        <seg>ラスタレイヤがレイヤパネルの他のすべてのレイヤの上に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24534,8 +24534,8 @@
       <tuv lang="en-US">
         <seg>Press :guilabel:`publish` next to one of the layers to finish adding the data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T080622Z" creationid="miurahr" creationdate="20201116T230820Z">
-        <seg>いずれかのレイヤーの横にある :guilabel:`公開` を押して、データの追加を完了します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013444Z" creationid="miurahr" creationdate="20201116T230820Z">
+        <seg>いずれかのレイヤの横にある :guilabel:`公開` を押して、データの追加を完了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25723,8 +25723,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Remove the sample layer</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>サンプル レイヤーを削除する</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013516Z">
+        <seg>サンプル レイヤを削除する</seg>
       </tuv>
     </tu>
     <tu>
@@ -27035,8 +27035,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select some layers by clicking the first entry and Ctrl-clicking the rest.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T143631Z" creationid="miurahr" creationdate="20201116T143631Z">
-        <seg>最初の項目をクリックし、Ctrlキーを押しながら残りの項目をクリックして、いくつかのレイヤーを選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013137Z" creationid="miurahr" creationdate="20201116T143631Z">
+        <seg>最初の項目をクリックし、Ctrlキーを押しながら残りの項目をクリックして、いくつかのレイヤを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28635,8 +28635,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Style your layers</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T015356Z" creationid="miurahr" creationdate="20201117T015356Z">
-        <seg>レイヤーのスタイルを設定</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013719Z" creationid="miurahr" creationdate="20201117T015356Z">
+        <seg>レイヤのスタイルを設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -30070,8 +30070,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The above code depends on having an XML stylesheet that Mapnik can read (world_population.xml), defining the layers to read data from and the styles to apply to those layers.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210201T052650Z" creationid="miurahr" creationdate="20210201T052650Z">
-        <seg>上記のコードは、Mapnikが読み取れるXMLスタイルシートを用意し、データを読み込むレイヤーと、それらのレイヤーに適用するスタイルを定義することで実現しています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013607Z" creationid="miurahr" creationdate="20210201T052650Z">
+        <seg>上記のコードは、Mapnikが読み取れるXMLスタイルシートを用意し、データを読み込むレイヤと、それらのレイヤに適用するスタイルを定義することで実現しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30838,8 +30838,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The layers will be added to the map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T144736Z" creationid="miurahr" creationdate="20201116T144736Z">
-        <seg>レイヤーがマップに追加されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013144Z" creationid="miurahr" creationdate="20201116T144736Z">
+        <seg>レイヤがマップに追加されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32847,8 +32847,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This project contains a number of layers in the layers panel and is displaying the spatial content in the map frame.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T120312Z" creationid="miurahr" creationdate="20201103T120312Z">
-        <seg>このプロジェクトには、レイヤーパネルに複数のレイヤーが含まれ、マップフレームに空間コンテンツが表示されています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013630Z" creationid="miurahr" creationdate="20201103T120312Z">
+        <seg>このプロジェクトには、レイヤパネルに複数のレイヤーが含まれ、マップフレームに空間コンテンツが表示されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32999,8 +32999,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This tool will zoom the map out to an extent that will fit in all the layers in the map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T015305Z" creationid="miurahr" creationdate="20201117T015305Z">
-        <seg>このツールは、マップのすべてのレイヤーに収まるようにマップをズームアウトします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013714Z" creationid="miurahr" creationdate="20201117T015305Z">
+        <seg>このツールは、マップのすべてのレイヤに収まるようにマップをズームアウトします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33335,8 +33335,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Tiled layers are represented by the ``ol.layer.Tile`` class and must use a source that knows how to load tiles from a given provider, like ``ol.source.OSM`` or ``ol.source.Stamen``:</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T071237Z" creationid="miurahr" creationdate="20201108T015814Z">
-        <seg>タイルレイヤーは ``ol.layer.Tile`` クラスで表され、 ``ol.source.OSM`` または ``ol.source.Stamen`` のように、特定のプロバイダからタイルをロードする方法を知っているソースを使用する必要があります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013615Z" creationid="miurahr" creationdate="20201108T015814Z">
+        <seg>タイルレイヤは ``ol.layer.Tile`` クラスで表され、 ``ol.source.OSM`` または ``ol.source.Stamen`` のように、特定のプロバイダからタイルをロードする方法を知っているソースを使用する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36807,8 +36807,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You also can **change the background layer** based on your desired tile provider (the default is Bing Aerial Imagery).</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T084231Z" creationid="miurahr" creationdate="20201103T051823Z">
-        <seg>また、目的のタイルプロバイダに基づいて **背景レイヤーを変更する** こともできます(デフォルトはBing Aerial Imagery)。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013510Z" creationid="miurahr" creationdate="20201103T051823Z">
+        <seg>また、目的のタイルプロバイダに基づいて **背景レイヤを変更する** こともできます(デフォルトはBing Aerial Imagery)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37321,8 +37321,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can follow the same step with the other layers in the directory by using the :guilabel:`Add a new resource` button on the layers page.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T080756Z" creationid="miurahr" creationdate="20201116T231117Z">
-        <seg>ディレクトリ内の他のレイヤーについても、レイヤーページの :guilabel:`Add a new resource` ボタンを使用して同じ手順を実行できます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013454Z" creationid="miurahr" creationdate="20201116T231117Z">
+        <seg>ディレクトリ内の他のレイヤについても、レイヤページの :guilabel:`Add a new resource` ボタンを使用して同じ手順を実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38617,8 +38617,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>[4] Layer Panel: Controls the map layers, their order, and visibility.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T084858Z" creationid="miurahr" creationdate="20201102T052714Z">
-        <seg>[4] レイヤーパネル: マップ画層、画層の順序、表示/非表示をコントロールします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013620Z" creationid="miurahr" creationdate="20201102T052714Z">
+        <seg>[4] レイヤパネル: マップ画層、画層の順序、表示/非表示をコントロールします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38633,8 +38633,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>[4] Zoom to full extent: Changes the map extent to fit all of the map layers into the map frame.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T085238Z" creationid="miurahr" creationdate="20201117T014923Z">
-        <seg>[4] 全範囲ズーム: マップの範囲を変更して、すべてのマップレイヤーをマップの枠に合わせます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013709Z" creationid="miurahr" creationdate="20201117T014923Z">
+        <seg>[4] 全範囲ズーム: マップの範囲を変更して、すべてのマップレイヤをマップの枠に合わせます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39689,8 +39689,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>add a layer from a NetCDF file</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>NetCDFファイルからレイヤーを追加する</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013155Z">
+        <seg>NetCDFファイルからレイヤを追加する</seg>
       </tuv>
     </tu>
     <tu>
@@ -45825,8 +45825,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>test the layers in a simple web map</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>シンプルなWebマップでレイヤーをテストする</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T013149Z">
+        <seg>シンプルなWebマップでレイヤをテストする</seg>
       </tuv>
     </tu>
     <tu>
