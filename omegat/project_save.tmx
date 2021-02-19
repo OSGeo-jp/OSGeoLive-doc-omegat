@@ -2264,8 +2264,8 @@
       <tuv lang="en-US">
         <seg>**User manual:** https://github.com/ec-jrc/re3gistry/blob/master/documentation/user-manual.md</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T141835Z" creationid="smellman" creationdate="20201103T051606Z">
-        <seg>**ユーザーマニュアル:** https://github.com/ec-jrc/re3gistry/blob/master/documentation/user-manual.md</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014717Z" creationid="smellman" creationdate="20201103T051606Z">
+        <seg>**ユーザマニュアル:** https://github.com/ec-jrc/re3gistry/blob/master/documentation/user-manual.md</seg>
       </tuv>
     </tu>
     <tu>
@@ -4784,8 +4784,8 @@
       <tuv lang="en-US">
         <seg>Access to a large number of scientific modules via the Graphical User Interface or the command line</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T020144Z" creationid="miurahr" creationdate="20201103T020144Z">
-        <seg>グラフィカル・ユーザー・インタフェース(GUI)またはコマンドライン(CLI)を使用し多数の科学モジュールへのアクセス</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014720Z" creationid="miurahr" creationdate="20201103T020144Z">
+        <seg>グラフィカル・ユーザ・インタフェース(GUI)またはコマンドライン(CLI)を使用し多数の科学モジュールへのアクセス</seg>
       </tuv>
     </tu>
     <tu>
@@ -5336,8 +5336,8 @@
       <tuv lang="en-US">
         <seg>After you have your own username and password, you will be able to add your first points to the map, learn how to do street surveys and work with aerial imagery.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201102T052209Z" creationid="miurahr" creationdate="20201102T052209Z">
-        <seg>独自のユーザー名とパスワードを入力すると、地図に最初のポイントを追加したり、街路調査の方法を学習したり、航空画像を操作したりできるようになります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T015008Z" creationid="miurahr" creationdate="20201102T052209Z">
+        <seg>独自のユーザ名とパスワードを入力すると、地図に最初のポイントを追加したり、街路調査の方法を学習したり、航空画像を操作したりできるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6104,8 +6104,8 @@
       <tuv lang="en-US">
         <seg>Apply this change by starting a new desktop session: either restart the virtual machine or log out and log back in (username "user", password "user").</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210118T150009Z" creationid="miurahr" creationdate="20201103T113608Z">
-        <seg>この変更を適用するには、新しいデスクトップセッションを開始します。仮想マシンを再起動するか、ログアウトして再度ログインします(ユーザー名 "user"、パスワード "user")。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T015130Z" creationid="miurahr" creationdate="20201103T113608Z">
+        <seg>この変更を適用するには、新しいデスクトップセッションを開始します。仮想マシンを再起動するか、ログアウトして再度ログインします(ユーザ名 "user"、パスワード "user")。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6896,8 +6896,8 @@
       <tuv lang="en-US">
         <seg>BlueTooth GPS users should take special care to read up about the no-probe option.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210214T130006Z" creationid="miurahr" creationdate="20201221T224602Z">
-        <seg>Bluetooth GPSユーザーは、no-probeオプションについて詳しく調べる必要があります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014949Z" creationid="miurahr" creationdate="20201221T224602Z">
+        <seg>Bluetooth GPSユーザは、no-probeオプションについて詳しく調べる必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8458,8 +8458,8 @@
       <tuv lang="en-US">
         <seg>Click that link, and in the dialog that displays, fill in the user credentials.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142236Z" creationid="miurahr" creationdate="20201116T142236Z">
-        <seg>そのリンクをクリックし、表示されるダイアログでユーザー認証情報を入力します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014842Z" creationid="miurahr" creationdate="20201116T142236Z">
+        <seg>そのリンクをクリックし、表示されるダイアログでユーザ認証情報を入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9386,8 +9386,8 @@
       <tuv lang="en-US">
         <seg>Create users and groups, share and grant access to services and modules</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T053732Z" creationid="miurahr" creationdate="20201122T053732Z">
-        <seg>ユーザーとグループを作成し、サービスとモジュールへのアクセスを共有および許可する</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014646Z" creationid="miurahr" creationdate="20201122T053732Z">
+        <seg>ユーザとグループを作成し、サービスとモジュールへのアクセスを共有および許可する</seg>
       </tuv>
     </tu>
     <tu>
@@ -9906,8 +9906,8 @@
       <tuv lang="en-US">
         <seg>Datasets can be uploaded in various formats, maps can be edited, styled and aggregated through browser based tools, maps and metadata can be published and searched, and reviews, ratings and comments can be captured from users.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T051853Z" creationid="miurahr" creationdate="20201122T051853Z">
-        <seg>データセットはさまざまな形式でアップロードでき、マップはブラウザベースのツールを使用して編集、スタイル設定、集計を行うことができ、マップとメタデータを公開して検索することができ、レビュー、評価、コメントをユーザーから取得することができます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014625Z" creationid="miurahr" creationdate="20201122T051853Z">
+        <seg>データセットはさまざまな形式でアップロードでき、マップはブラウザベースのツールを使用して編集、スタイル設定、集計を行うことができ、マップとメタデータを公開して検索することができ、レビュー、評価、コメントをユーザから取得することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9962,8 +9962,8 @@
       <tuv lang="en-US">
         <seg>Define the user that should be used when you connect to the foreign server</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T003032Z" creationid="miurahr" creationdate="20201117T003032Z">
-        <seg>外部サーバーに接続するときに使用するユーザーを定義</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T015024Z" creationid="miurahr" creationdate="20201117T003032Z">
+        <seg>外部サーバに接続するときに使用するユーザを定義</seg>
       </tuv>
     </tu>
     <tu>
@@ -10834,8 +10834,8 @@
       <tuv lang="en-US">
         <seg>EOxServer is a server for presenting big Earth Observation (EO) data archives and metadata via Open Standards.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T141535Z" creationid="miurahr" creationdate="20201116T141535Z">
-        <seg>EOxServerは、大規模な地球観測(EO)データアーカイブとメタデータをオープンスタンダードで提供するサーバです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014345Z" creationid="miurahr" creationdate="20201116T141535Z">
+        <seg>EOxServerは、大規模な地球観測(EO)データアーカイブとメタデータをオープン標準で提供するサーバです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11250,8 +11250,8 @@
       <tuv lang="en-US">
         <seg>Enter the username ``admin`` and password ``admin`` and select the blue **Sign in** button to sign in as the catalog administrator.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T073638Z" creationid="miurahr" creationdate="20201116T133414Z">
-        <seg>ユーザー名 ``admin`` とパスワード ``admin`` を入力し、青い **[サインイン]** ボタンを選択してカタログ管理者としてサインインします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014816Z" creationid="miurahr" creationdate="20201116T133414Z">
+        <seg>ユーザ名 ``admin`` とパスワード ``admin`` を入力し、青い **[サインイン]** ボタンを選択してカタログ管理者としてサインインします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11402,8 +11402,8 @@
       <tuv lang="en-US">
         <seg>Every time something happens in Leaflet, e.g. user clicks on a marker or map zoom changes, the corresponding object sends an event which you can subscribe to with a function.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210214T142853Z" creationid="miurahr" creationdate="20210214T142822Z">
-        <seg>ユーザーがマーカーをクリックしたり、地図のズームを変更したりするなど、何か Leaflet に起こるたびに、対応するオブジェクトがイベントを送信し、ユーザーはそのイベントを関数でsubscribe (受信) することができます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014502Z" creationid="miurahr" creationdate="20210214T142822Z">
+        <seg>ユーザがマーカーをクリックしたり、地図のズームを変更したりするなど、何か Leaflet に起こるたびに、対応するオブジェクトがイベントを送信し、ユーザはそのイベントを関数でsubscribe (受信) することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11714,8 +11714,8 @@
       <tuv lang="en-US">
         <seg>Fast user interface for managing and visualising data</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T130911Z" creationid="miurahr" creationdate="20201220T032749Z">
-        <seg>データを管理および視覚化するための高速ユーザー・インタフェース</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014724Z" creationid="miurahr" creationdate="20201220T032749Z">
+        <seg>データを管理および視覚化するための高速ユーザ・インタフェース</seg>
       </tuv>
     </tu>
     <tu>
@@ -12546,8 +12546,8 @@
       <tuv lang="en-US">
         <seg>From the EOxServer main page, click the **Admin Client** link and login with user `admin` and password `admin`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210117T122102Z" creationid="miurahr" creationdate="20201116T124634Z">
-        <seg>EOxServerのメインページで **Admin Client** リンクをクリックし、ユーザー `admin` とパスワード `admin` でログインします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014801Z" creationid="miurahr" creationdate="20201116T124634Z">
+        <seg>EOxServerのメインページで **Admin Client** リンクをクリックし、ユーザ `admin` とパスワード `admin` でログインします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13466,8 +13466,8 @@
       <tuv lang="en-US">
         <seg>GeoServer User Manual - https://docs.geoserver.org/latest/en/user/</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T003859Z">
-        <seg>GeoServer ユーザーマニュアル -  https://docs.geoserver.org/latest/en/user/</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014859Z">
+        <seg>GeoServer ユーザマニュアル -  https://docs.geoserver.org/latest/en/user/</seg>
       </tuv>
     </tu>
     <tu>
@@ -14218,8 +14218,8 @@
       <tuv lang="en-US">
         <seg>Graphical User Interface (GUI) including support for reordering of rules, a mapview, pickers for colors and symbols and a ton more</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T130833Z" creationid="miurahr" creationdate="20201123T230857Z">
-        <seg>ルールの並べ替えサポート、Mapview、色とシンボルのピッカーなどの、グラフィカル・ユーザー・インタフェース(GUI)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014638Z" creationid="miurahr" creationdate="20201123T230857Z">
+        <seg>ルールの並べ替えサポート、Mapview、色とシンボルのピッカーなどの、グラフィカル・ユーザ・インタフェース(GUI)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14282,16 +14282,16 @@
       <tuv lang="en-US">
         <seg>Group and user management</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T051725Z" creationid="miurahr" creationdate="20201122T051725Z">
-        <seg>グループとユーザーの管理</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014613Z" creationid="miurahr" creationdate="20201122T051725Z">
+        <seg>グループとユーザの管理</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Groups of users</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T052112Z" creationid="miurahr" creationdate="20201122T052112Z">
-        <seg>ユーザーのグループ</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014618Z" creationid="miurahr" creationdate="20201122T052112Z">
+        <seg>ユーザのグループ</seg>
       </tuv>
     </tu>
     <tu>
@@ -15043,8 +15043,8 @@
       <tuv lang="en-US">
         <seg>IRC users might try the #osgeolive or #osgeo channel at Freenode.net for real-time assistance.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T061007Z" creationid="smellman" creationdate="20201101T104134Z">
-        <seg>IRCユーザーは、Freenode.netの #osgeolive または #osgeo チャンネルを使ってリアルタイムによる支援を試してみてください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014449Z" creationid="smellman" creationdate="20201101T104134Z">
+        <seg>IRCユーザは、Freenode.netの #osgeolive または #osgeo チャンネルを使ってリアルタイムによる支援を試してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16262,8 +16262,8 @@
       <tuv lang="en-US">
         <seg>In the same area, under *Who can edit this data*, select your username.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T082006Z" creationid="miurahr" creationdate="20201116T142816Z">
-        <seg>同じ領域で、 *[Who can edit this data]* の下からユーザー名を選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014851Z" creationid="miurahr" creationdate="20201116T142816Z">
+        <seg>同じ領域で、 *[Who can edit this data]* の下からユーザ名を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17070,8 +17070,8 @@
       <tuv lang="en-US">
         <seg>It allows you to react to user interaction:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210214T142908Z" creationid="miurahr" creationdate="20210214T142823Z">
-        <seg>この仕組みで、ユーザーの操作に反応できます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014508Z" creationid="miurahr" creationdate="20210214T142823Z">
+        <seg>この仕組みで、ユーザの操作に反応できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18998,8 +18998,8 @@
       <tuv lang="en-US">
         <seg>Log in using the username **admin** and password **geoserver**.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T080454Z" creationid="miurahr" creationdate="20201116T150532Z">
-        <seg>ユーザー名 **admin** とパスワード **geoserver** を使用してログインします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014855Z" creationid="miurahr" creationdate="20201116T150532Z">
+        <seg>ユーザ名 **admin** とパスワード **geoserver** を使用してログインします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19102,8 +19102,8 @@
       <tuv lang="en-US">
         <seg>Mac users will benefit from a 3-button USB mouse.`</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T224059Z" creationid="miurahr" creationdate="20201123T224059Z">
-        <seg>Mac ユーザーには 3ボタン USB マウスの利用をお勧めします。`</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014453Z" creationid="miurahr" creationdate="20201123T224059Z">
+        <seg>Mac ユーザには 3ボタン USB マウスの利用をお勧めします。`</seg>
       </tuv>
     </tu>
     <tu>
@@ -19230,8 +19230,8 @@
       <tuv lang="en-US">
         <seg>Managing the record (such as assigning viewing or editing privileges, transferring ownership to a different user)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T133950Z" creationid="miurahr" creationdate="20201116T133950Z">
-        <seg>レコードの管理(表示または編集権限の割り当て、所有権の別のユーザーへの転送など)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014834Z" creationid="miurahr" creationdate="20201116T133950Z">
+        <seg>レコードの管理(表示または編集権限の割り当て、所有権の別のユーザへの転送など)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19662,8 +19662,8 @@
       <tuv lang="en-US">
         <seg>Mapbender allows users to easily create customised browser clients from a wide range of widgets (without any/with minimal) programming required.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T053424Z" creationid="miurahr" creationdate="20201122T053424Z">
-        <seg>Mapbenderを使用すると、ユーザーはさまざまなウィジェットから、プログラミング不要、あるいは最小限のプログラミングで、カスタマイズされたブラウザクライアントを簡単に作成できます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014642Z" creationid="miurahr" creationdate="20201122T053424Z">
+        <seg>Mapbenderを使用すると、ユーザはさまざまなウィジェットから、プログラミング不要、あるいは最小限のプログラミングで、カスタマイズされたブラウザクライアントを簡単に作成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21870,16 +21870,16 @@
       <tuv lang="en-US">
         <seg>OGC standards compliant (WMS, WFS, ... )</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>OGC スタンダードに準拠 (WMS、WFS など)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014441Z">
+        <seg>OGC標準に準拠 (WMS、WFS など)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>OGC standards supported: GML2, SFS, WMS, KML, SLD, GeoPackage (reading);</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T104344Z" creationid="smellman" creationdate="20201103T104344Z">
-        <seg>サポートされている OGC スタンダード: GML2, SFS, WMS, KML, SLD, GeoPackage (読み込み);</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014401Z" creationid="smellman" creationdate="20201103T104344Z">
+        <seg>サポートされている OGC標準: GML2, SFS, WMS, KML, SLD, GeoPackage (読み込み);</seg>
       </tuv>
     </tu>
     <tu>
@@ -25867,8 +25867,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Restrict user access with the OWS security proxy module via trusted servers</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T053738Z" creationid="miurahr" creationdate="20201122T053738Z">
-        <seg>信頼されたサーバー経由でOWSセキュリティプロキシモジュールを使用してユーザーアクセスを制限する</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014652Z" creationid="miurahr" creationdate="20201122T053738Z">
+        <seg>信頼されたサーバー経由でOWSセキュリティプロキシモジュールを使用してユーザアクセスを制限する</seg>
       </tuv>
     </tu>
     <tu>
@@ -27555,8 +27555,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Sign in as a registered user</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T142053Z" creationid="miurahr" creationdate="20201116T142053Z">
-        <seg>登録ユーザーとしてサインイン</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014838Z" creationid="miurahr" creationdate="20201116T142053Z">
+        <seg>登録ユーザとしてサインイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -29630,8 +29630,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The OpenJUMP user interface has four (4) basic components.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T131531Z" creationid="miurahr" creationdate="20201221T225337Z">
-        <seg>OpenJUMPのユーザーインタフェースには、4つの基本コンポーネントがあります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014953Z" creationid="miurahr" creationdate="20201221T225337Z">
+        <seg>OpenJUMPのユーザインタフェースには、4つの基本コンポーネントがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30270,8 +30270,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The core R interface is a command line window which provides excellent flexibility and control but tends to lengthen the time required to become a proficient user when compared to software with a graphical user interface (GUI).</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T131358Z" creationid="miurahr" creationdate="20201103T013650Z">
-        <seg>R の基本インタフェースはコマンドラインであり、高い自由度と操作性を提供しています。一方で、グラフィカル・ユーザー・インタフェース (GUI) と比べて習熟するまでに長い時間を必要とする傾向があります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014711Z" creationid="miurahr" creationdate="20201103T013650Z">
+        <seg>R の基本インタフェースはコマンドラインであり、高い自由度と操作性を提供しています。一方で、グラフィカル・ユーザ・インタフェース (GUI) と比べて習熟するまでに長い時間を必要とする傾向があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30302,8 +30302,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The current user is "`user`" and has a home directory located at `/home/user`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210201T055515Z" creationid="miurahr" creationdate="20210201T055515Z">
-        <seg>現在のユーザーは「 `user` 」で、 `/home/user` にホームディレクトリがあります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014738Z" creationid="miurahr" creationdate="20210201T055515Z">
+        <seg>現在のユーザは「 `user` 」で、 `/home/user` にホームディレクトリがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30854,8 +30854,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The libLAS 'command-line utilities' provide the bulk of user-facing operational software for libLAS, although the underlying libLAS library is what powers them.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210118T150741Z" creationid="miurahr" creationdate="20201103T060058Z">
-        <seg>libLASの 'コマンドライン・ユーティリティー' は、libLAS用のユーザー向けの操作ソフトウェアの大部分を提供していますが、基礎となるlibLAS・ライブラリーがその原動力となっています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014943Z" creationid="miurahr" creationdate="20201103T060058Z">
+        <seg>libLASの 'コマンドライン・ユーティリティ' は、libLAS用のユーザ向けの操作ソフトウェアの大部分を提供していますが、基礎となるlibLAS・ライブラリがその原動力となっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31158,8 +31158,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The project provides also a Graphical user Interface that allows for easing the daily operations and a RESTFull Web api for automatizing administration procedures.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T130946Z" creationid="miurahr" creationdate="20201122T022222Z">
-        <seg>このプロジェクトはまた、日常的な操作を容易にするグラフィカル・ユーザー・インタフェースと、管理手順を自動化するためのRESTフル Web apiも提供しています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014905Z" creationid="miurahr" creationdate="20201122T022222Z">
+        <seg>このプロジェクトはまた、日常的な操作を容易にするグラフィカル・ユーザ・インタフェースと、管理手順を自動化するためのRESTフル Web apiも提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31582,8 +31582,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The user "user" is not a member of the "users" group on the OSGeoLive virtual machine.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210118T145945Z" creationid="miurahr" creationdate="20201103T113548Z">
-        <seg>ユーザー "user" は、OSGeoLive仮想マシンの "users" グループのメンバーではありません。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T015042Z" creationid="miurahr" creationdate="20201103T113548Z">
+        <seg>ユーザ "user" は、OSGeoLive仮想マシンの "users" グループのメンバではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32327,8 +32327,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This allows a user to create applications which can model the process described by your data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T011658Z" creationid="miurahr" creationdate="20201103T011658Z">
-        <seg>この機能を使うと、あなたのデータで記述したプロセスをベースに、ユーザーが活用することができます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014632Z" creationid="miurahr" creationdate="20201103T011658Z">
+        <seg>この機能を使うと、あなたのデータで記述したプロセスをベースに、ユーザが活用することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34151,8 +34151,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Try "admin" and "admin" for the Username and Password.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210118T145342Z" creationid="miurahr" creationdate="20201116T142241Z">
-        <seg>ユーザー名とパスワードに "admin" と "admin" を使用してみてください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014847Z" creationid="miurahr" creationdate="20201116T142241Z">
+        <seg>ユーザ名とパスワードに "admin" と "admin" を使用してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34799,16 +34799,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>User guide: https://wiki.openstreetmap.org/wiki/JOSM/Guide</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>ユーザーガイド: https://wiki.openstreetmap.org/wiki/JOSM/Guide</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T015016Z">
+        <seg>ユーザガイド: https://wiki.openstreetmap.org/wiki/JOSM/Guide</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>User interface components include a map panel, layer tree panel, feature grid, and an overview map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T131031Z" creationid="miurahr" creationdate="20201123T225044Z">
-        <seg>ユーザーインタフェースコンポーネントには、マップパネル、レイヤツリーパネル、地物グリッド、および全体図マップがあります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014608Z" creationid="miurahr" creationdate="20201123T225044Z">
+        <seg>ユーザインタフェースコンポーネントには、マップパネル、レイヤツリーパネル、地物グリッド、および全体図マップがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34831,8 +34831,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Users can accomplish a broad array of tasks such as: image classification, statistical analysis to infer spatial relationships and patterns of features, and others listed in the core features below.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T013600Z" creationid="miurahr" creationdate="20201103T013600Z">
-        <seg>ユーザーは、例えば画像分類、空間的関係を推定するための統計解析、地物の分布パターン、そして以下の基本機能に列挙されるものなど、大規模な配列の処理ができます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014706Z" creationid="miurahr" creationdate="20201103T013600Z">
+        <seg>ユーザは、例えば画像分類、空間的関係を推定するための統計解析、地物の分布パターン、そして以下の基本機能に列挙されるものなど、大規模な配列の処理ができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36407,8 +36407,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>When you install the iso on the VM, the username must be set to "user"</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210118T145929Z" creationid="miurahr" creationdate="20201103T113543Z">
-        <seg>VMにisoをインストールする場合は、ユーザー名を "user" に設定する必要があります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T015029Z" creationid="miurahr" creationdate="20201103T113543Z">
+        <seg>VMにisoをインストールする場合は、ユーザ名を "user" に設定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37369,8 +37369,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can get help fast on the OpenJUMP users mailing list: https://groups.google.com/forum/#!forum/openjump-users</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201221T230114Z" creationid="miurahr" creationdate="20201221T230114Z">
-        <seg>OpenJUMPユーザーメーリングリスト:  https://groups.google.com/forum/#!forum/openjump-users で、すばやくヘルプを見ることができます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T015000Z" creationid="miurahr" creationdate="20201221T230114Z">
+        <seg>OpenJUMPユーザメーリングリスト:  https://groups.google.com/forum/#!forum/openjump-users で、すばやくヘルプを見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39377,8 +39377,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`cd ..` moves you one directory to the top, `cd` user goes from your current location to the home directory of user.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210201T055646Z" creationid="miurahr" creationdate="20210201T055646Z">
-        <seg>`cd ..` はディレクトリを一つ上に移動します。 `cd` では、現在の場所からユーザーのホームディレクトリに移動します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014745Z" creationid="miurahr" creationdate="20210201T055646Z">
+        <seg>`cd ..` はディレクトリを一つ上に移動します。 `cd` では、現在の場所からユーザのホームディレクトリに移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39457,8 +39457,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`ls -l` shows a more detailed list of the files/directories with time, user access rights</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210201T055858Z" creationid="miurahr" creationdate="20210201T055858Z">
-        <seg>`ls -l` を使うと、時間、ユーザーのアクセス権限などの、ファイル/ディレクトリの詳細なリストを表示します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014750Z" creationid="miurahr" creationdate="20210201T055858Z">
+        <seg>`ls -l` を使うと、時間、ユーザのアクセス権限などの、ファイル/ディレクトリの詳細なリストを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39513,8 +39513,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>`sudo` runs commands with the rights of the superuser also known as root With `sudo` you can i.e. install more software, administrate services, change access rights and more fun.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210208T125803Z" creationid="miurahr" creationdate="20210208T125803Z">
-        <seg>`sudo` は、コマンドを通常 root ユーザとして知られるスーパーユーザーの権限で実行します。 `sudo` をつかうと、ソフトウエアを導入するとか、サービスの管理をするとか、アクセス権限を変更するとか、いろいろ可能です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014756Z" creationid="miurahr" creationdate="20210208T125803Z">
+        <seg>`sudo` は、コマンドを通常 root ユーザとして知られるスーパーユーザの権限で実行します。 `sudo` をつかうと、ソフトウエアを導入するとか、サービスの管理をするとか、アクセス権限を変更するとか、いろいろ可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42513,8 +42513,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>integrate with existing user databases and authentication methods</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>既存のユーザーデータベースや認証方法との統合</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014656Z">
+        <seg>既存のユーザデータベースや認証方法との統合</seg>
       </tuv>
     </tu>
     <tu>
@@ -44777,8 +44777,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>pycsw enables users to publish a catalogue of dataset descriptions (metadata) to the web, using standards based interfaces and formats, such that it can be queried and updated by catalogue clients.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T130857Z" creationid="miurahr" creationdate="20201220T025426Z">
-        <seg>pycsw により、ユーザーは、標準準拠のインタフェースとフォーマットを使用して、データ・セット記述 (メタデータ) のカタログを Webに公開することができます。これにより、カタログ・クライアントによる照会および更新が可能になります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014702Z" creationid="miurahr" creationdate="20201220T025426Z">
+        <seg>pycsw により、ユーザは、標準準拠のインタフェースとフォーマットを使用して、データ・セット記述 (メタデータ) のカタログを Webに公開することができます。これにより、カタログ・クライアントによる照会および更新が可能になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45033,8 +45033,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>reads (OGC standards): WKT, WMS, KML+, GeoPackage</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201103T103211Z" creationid="smellman" creationdate="20201103T103211Z">
-        <seg>読み取り (OGC スタンダード): WKT, WMS, KML+, GeoPackage</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210219T014354Z" creationid="smellman" creationdate="20201103T103211Z">
+        <seg>読み取り (OGC標準): WKT, WMS, KML+, GeoPackage</seg>
       </tuv>
     </tu>
     <tu>
