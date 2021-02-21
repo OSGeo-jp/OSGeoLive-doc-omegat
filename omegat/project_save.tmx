@@ -21118,8 +21118,8 @@
       <tuv lang="en-US">
         <seg>Note that setView call also returns the map object - most Leaflet methods act like this when they don't return an explicit value, which allows convenient jQuery-like method chaining.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210214T084853Z" creationid="miurahr" creationdate="20210208T140511Z">
-        <seg>setView のよびだしも、地図オブジェクトを返却します。 - 多くのLeafletのメソッドは、明示的な戻り値がない場合、同様に動作します。 jQueryのようなメソッドのチェインニングができて便利です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210221T103634Z" creationid="miurahr" creationdate="20210208T140511Z">
+        <seg>setView のよびだしも、地図オブジェクトを返却します。 - 多くのLeafletのメソッドは、明示的な戻り値がない場合、同様に動作します。 jQueryのようなメソッドのチェイニングができて便利です。</seg>
       </tuv>
     </tu>
     <tu>
