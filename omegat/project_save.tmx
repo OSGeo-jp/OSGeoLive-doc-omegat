@@ -1686,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-xygrib|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210221T080401Z" creationid="sanak" creationdate="20210221T080401Z">
+        <seg>**ソフトウェアバージョン:** |version-xygrib|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-zoo-project|</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T034857Z" creationid="miurahr" creationdate="20201221T034857Z">
@@ -1986,6 +1994,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**サポート:** https://mapserver.org/community/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** https://opengribs.org/en/support-forum</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210221T080410Z" creationid="sanak" creationdate="20210221T080410Z">
+        <seg>**サポート:** https://opengribs.org/en/support-forum</seg>
       </tuv>
     </tu>
     <tu>
@@ -2642,6 +2658,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T070424Z" creationid="miurahr" creationdate="20201103T070424Z">
         <seg>**Webサイト:** https://marble.kde.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://opengribs.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210221T080348Z" creationid="sanak" creationdate="20210221T080348Z">
+        <seg>**Webサイト:** https://opengribs.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -3986,6 +4010,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201125T000856Z" creationid="miurahr" creationdate="20201125T000856Z">
         <seg>:doc:`クイックスタート文書  &lt;../quickstart/udig_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/xygrib_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210221T080427Z" creationid="sanak" creationdate="20210221T080427Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/xygrib_quickstart&gt;`</seg>
       </tuv>
     </tu>
     <tu>
@@ -36813,6 +36845,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>XyGrib</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210221T075956Z" creationid="sanak" creationdate="20210221T075956Z">
+        <seg>XyGrib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>XyGrib Quickstart</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210214T091054Z" creationid="sanak" creationdate="20210214T091035Z">
@@ -36821,10 +36861,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>XyGrib is a Grib file reader and visualizes meteorological data providing an off-line capability to analyse weather forecasts or hindcasts.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210221T080901Z" creationid="sanak" creationdate="20210221T080342Z">
+        <seg>XyGrib は Grib ファイルリーダ、気象データを可視化して、天気予報もしくは過去の再予報を分析するオフライン機能を提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>XyGrib is a program to download and visualize weather forecast data in the standard GRIB distribution format.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210214T091116Z" creationid="sanak" creationdate="20210214T091116Z">
         <seg>XyGrib は、標準的なGRIB配布フォーマットで天気予報データをダウンロードして視覚化するプログラムです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XyGrib is the continuation of the zyGrib software package with a new team of volunteers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210221T081137Z" creationid="sanak" creationdate="20210221T081137Z">
+        <seg>XyGrib は zyGrip ソフトウェアパッケージの新しいボランティアチームによる後継となります。</seg>
       </tuv>
     </tu>
     <tu>
