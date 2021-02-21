@@ -46631,6 +46631,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|OSGeo_community| :doc:`actinia_overview` - [:doc:`Quickstart &lt;../quickstart/actinia_quickstart&gt;`] - Processing of Geographical Data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210221T072322Z" creationid="sanak" creationdate="20210221T072322Z">
+        <seg>|OSGeo_community| :doc:`actinia_overview` - [:doc:`クイックスタート &lt;../quickstart/actinia_quickstart&gt;`] - Processing of Geographical Data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|OSGeo_community| :doc:`geostyler_overview` - [:doc:`Quickstart &lt;../quickstart/geostyler_quickstart&gt;`] - Generic Styler For Geodata</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T140048Z" creationid="miurahr" creationdate="20201103T070840Z">
@@ -46855,6 +46863,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|OSGeo_project| :doc:`proj_overview` - [:doc:`Quickstart &lt;../quickstart/proj_quickstart&gt;`] - Coordinate Reference System Libraries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210221T072404Z" creationid="sanak" creationdate="20210221T072404Z">
+        <seg>|OSGeo_project| :doc:`proj_overview` - [:doc:`クイックスタート &lt;../quickstart/proj_quickstart&gt;`] - Coordinate Reference System Libraries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|OSGeo_project| :doc:`pycsw_overview` - [:doc:`Quickstart &lt;../quickstart/pycsw_quickstart&gt;`] - Metadata Catalogue</seg>
       </tuv>
       <tuv lang="ja">
@@ -46875,6 +46891,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|OSGeo_project| :doc:`qgis_overview` - [:doc:`クイックスタート &lt;../quickstart/qgis_quickstart&gt;`]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_project| |vmdk| :doc:`gvsig_overview` - [:doc:`Quickstart &lt;../quickstart/gvsig_quickstart&gt;`]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210221T072301Z" creationid="sanak" creationdate="20210221T072301Z">
+        <seg>|OSGeo_project| |vmdk| :doc:`gvsig_overview` - [:doc:`クイックスタート &lt;../quickstart/gvsig_quickstart&gt;`]</seg>
       </tuv>
     </tu>
     <tu>
@@ -47555,6 +47579,30 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|nologo| :doc:`zygrib_overview` - [:doc:`クイックスタート &lt;../quickstart/zygrib_quickstart&gt;`] - 気象予想図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| |vmdk| :doc:`gmt_overview` - [:doc:`Quickstart &lt;../quickstart/gmt_quickstart&gt;`] - Cartographic Rendering</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210221T072357Z" creationid="sanak" creationdate="20210221T072357Z">
+        <seg>|nologo| |vmdk| :doc:`gmt_overview` - [:doc:`クイックスタート &lt;../quickstart/gmt_quickstart&gt;`] - Cartographic Rendering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| |vmdk| :doc:`ncWMS_overview` - [:doc:`Quickstart &lt;../quickstart/ncWMS_quickstart&gt;`] - Web Map Service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210221T072330Z" creationid="sanak" creationdate="20210221T072330Z">
+        <seg>|nologo| |vmdk| :doc:`ncWMS_overview` - [:doc:`クイックスタート &lt;../quickstart/ncWMS_quickstart&gt;`] - Web Map Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| |vmdk| :doc:`re3gistry_overview` - [:doc:`Quickstart &lt;../quickstart/re3gistry_quickstart&gt;`] - Management of reference codes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210221T072349Z" creationid="sanak" creationdate="20210221T072349Z">
+        <seg>|nologo| |vmdk| :doc:`re3gistry_overview` - [:doc:`クイックスタート &lt;../quickstart/re3gistry_quickstart&gt;`] - Management of reference codes</seg>
       </tuv>
     </tu>
     <tu>
