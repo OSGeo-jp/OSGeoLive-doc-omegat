@@ -17492,6 +17492,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is intended to be used as a capable weather work station for anyone with a serious interest in examining weather.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210221T081846Z" creationid="sanak" creationdate="20210221T081846Z">
+        <seg>気象を調べることに真剣な興味がある誰もに、有能な気象ワークステーションとして利用されることを意図されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is intended to play fair in a multi-threaded environment and is aimed primarily,  but not exclusively, at web-based development.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T070207Z" creationid="miurahr" creationdate="20201103T070130Z">
@@ -33297,6 +33305,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T014747Z" creationid="miurahr" creationdate="20201117T014747Z">
         <seg>これは、このようなマップレイヤに適した位置です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This would include members of the sailing community, private and sport aviators, farmers, weather buffs and many more.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210221T082912Z" creationid="sanak" creationdate="20210221T082912Z">
+        <seg>これには、セーリングコミュニティのメンバーや、民間およびスポーツの飛行士、農業従事者、気象マニアなどが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
