@@ -25577,14 +25577,6 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Re3gistry Quickstart</seg>
-      </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210221T072226Z" creationid="sanak" creationdate="20210221T072226Z">
-        <seg>Re3gistry Quickstart</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Read more about ``ogr_fdw``: * Repository: https://github.com/pramsey/pgsql-ogr-fdw * New and improved: http://blog.cleverelephant.ca/2016/04/ogr-fdw-update.html</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210117T125042Z" creationid="miurahr" creationdate="20201117T003205Z">
@@ -37987,14 +37979,6 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T082255Z" creationid="smellman" creationdate="20201101T111053Z">
         <seg>次のいずれかの帰属テキストを使用できます:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>You may want to save the current view to return to it later or share it with a colleague.</seg>
-      </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210122T005042Z" creationid="miurahr" creationdate="20210122T005042Z">
-        <seg>You may want to save the current view to return to it later or share it with a colleague.</seg>
       </tuv>
     </tu>
     <tu>
