@@ -8360,6 +8360,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the I/O button of the far right to close the profile window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T062132Z" creationid="sanak" creationdate="20210227T062132Z">
+        <seg>プロファイルウィンドウを閉じるには、右端のI/Oボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the Select tool, in the column of buttons on the left.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075858Z" creationid="miurahr" creationdate="20201103T075858Z">
@@ -36417,6 +36425,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T071242Z" creationid="miurahr" creationdate="20201108T015923Z">
         <seg>``ol.Map`` を作成する場合は、 ``layers`` プロパティを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When done go back to the Profile window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T060542Z" creationid="sanak" creationdate="20210227T060318Z">
+        <seg>完了したら、プロファイルウィンドウに戻ります。</seg>
       </tuv>
     </tu>
     <tu>
