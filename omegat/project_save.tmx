@@ -8280,6 +8280,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on that and select **Profile surface map**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T055115Z" creationid="sanak" creationdate="20210227T055115Z">
+        <seg>そのボタンをクリックし、**横断表層マップ** を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the "&gt;" to the left of the filename and select from the list of available forecast times.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T225201Z" creationid="miurahr" creationdate="20201221T225201Z">
@@ -15313,6 +15321,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the map isn't automatically listed, again pick the `elevation` map as the raster layer and press :guilabel:`Ok`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T055620Z" creationid="sanak" creationdate="20210227T055440Z">
+        <seg>マップが自動的にリストに表示されない場合は、ラスターレイヤーとして `elevation` マップを再度選択し、:guilabel:`Ok` を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the selection worked, then the features line color should change to yellow and small yellow squares appear at each angle point (vertex) in the feature geometry.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T225812Z" creationid="miurahr" creationdate="20201221T225812Z">
@@ -16216,6 +16232,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133158Z" creationid="miurahr" creationdate="20201116T133158Z">
         <seg>デスクトップのWeb Servicesフォルダで、**GeoNetworkを開始**をダブルクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the `GRASS Profile Analysis Tool` window select the second button from the left, it allows you to set out the profile line, click it then mark out a few points on the `Map Display` canvas.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T060232Z" creationid="sanak" creationdate="20210227T055452Z">
+        <seg>`GRASS プロファイル解析ツール` ウィンドウで、左から2番目のボタンを選択すると、プロファイルのラインを設定することができます。ボタンをクリックし、 `Map Display` キャンバス上でいくつかの点をマークします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29944,6 +29968,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210117T122234Z" creationid="miurahr" creationdate="20201116T130029Z">
         <seg>`-scale` スイッチは、データの再スケールに使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `@PERMANENT` mapset is automatically searched.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T055155Z" creationid="sanak" creationdate="20210227T055155Z">
+        <seg>`@PERMANENT` マップセットが自動的に検索されます。</seg>
       </tuv>
     </tu>
     <tu>
