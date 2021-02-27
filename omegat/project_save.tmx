@@ -15473,6 +15473,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you changed the region since the last step, again right click on the layer name and click on :menuselection:`Set computational region from selected map(s)` from the context menu in order to consider the full map for the watsershed calculation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T133019Z" creationid="sanak" creationdate="20210227T132755Z">
+        <seg>先ほどの範囲から変更を加えた場合は、再度レイヤ名を右クリックし、コンテキストメニューから :menuselection:`マップから計算領域をセット` をクリックして、集水域計算のための全体のマップを考慮に入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you choose the layer with the ID 0 you can load the whole service with all layers at once.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023336Z" creationid="miurahr" creationdate="20201103T023336Z">
@@ -22784,6 +22792,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T025326Z" creationid="miurahr" creationdate="20201122T025326Z">
         <seg>プロシージャが作成されると、出力(観測されたプロパティ)は変更できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once again select the `elevation` *@PERMANENT* map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T132544Z" creationid="sanak" creationdate="20210227T132544Z">
+        <seg>もう一度 `elevation` *@PERMANENT* マップを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31840,6 +31856,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T232027Z" creationid="miurahr" creationdate="20210214T232027Z">
         <seg>Mapnikが描いた世界人口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wxGUI map display's view and zoom is independent and does not affect processing calculations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T133155Z" creationid="sanak" creationdate="20210227T133155Z">
+        <seg>wxGUI のマップ表示のビューとズームは独立しており、処理計算には影響しません。</seg>
       </tuv>
     </tu>
     <tu>
