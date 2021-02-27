@@ -38103,6 +38103,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You might un-tick the `elevation` layer's visibility check-box now so that the two raster layers don't draw over the top of each other.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T071259Z" creationid="sanak" creationdate="20210227T071259Z">
+        <seg>You might un-tick the `elevation` layer's visibility check-box now so that the two raster layers don't draw over the top of each other.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You name it, there's a `tool for it &lt;https://grass.osgeo.org/grass78/manuals/keywords.html&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T165440Z" creationid="miurahr" creationdate="20201103T064801Z">
