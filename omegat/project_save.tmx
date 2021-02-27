@@ -33727,8 +33727,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To do this, make sure it is loaded into the layer list of the main `GIS Layer Manager` window, right click on its name and select "Set computation region from selected map(s)".</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210227T072905Z" creationid="sanak" creationdate="20210227T072905Z">
-        <seg>To do this, make sure it is loaded into the layer list of the main `GIS Layer Manager` window, right click on its name and select "Set computation region from selected map(s)".</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T090637Z" creationid="sanak" creationdate="20210227T072905Z">
+        <seg>これを行うには、メインの `GIS Layer Manager` ウィンドウのレイヤリストに読み込まれているかを確認してから、名前を右クリックして、"マップから計算領域をセット" を選択します。</seg>
       </tuv>
     </tu>
     <tu>
