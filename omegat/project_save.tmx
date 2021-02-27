@@ -15273,6 +15273,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If necessary, click on the "*Layers*" tab at the bottom to get back to the layer list.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T090825Z" creationid="sanak" creationdate="20210227T090825Z">
+        <seg>必要に応じて、下部の "*レイヤー*" タブをクリックしてレイヤリストに戻ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If not, refer to the `Installation Guide &lt;https://geonetwork-opensource.org/manuals/trunk/en/install-guide/index.html&gt;`__.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133122Z" creationid="miurahr" creationdate="20201116T133122Z">
@@ -16256,6 +16264,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210227T060232Z" creationid="sanak" creationdate="20210227T055452Z">
         <seg>`GRASS プロファイル解析ツール` ウィンドウで、左から2番目のボタンを選択すると、プロファイルのラインを設定することができます。ボタンをクリックし、 `Map Display` キャンバス上でいくつかの点をマークします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the `Raster` menu select :menuselection:`Terrain analysis --&gt; Compute shaded relief` (Terrain analysis is about half way down the `Raster` menu), and the module control dialog will appear.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T130422Z" creationid="sanak" creationdate="20210227T130422Z">
+        <seg>`ラスター` メニューで :menuselection:`地形解析 --&gt; Compute shaded relief` (地形解析は `ラスター` メニューの中程にあります) を選択すると、モジュールコントロールダイアログが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
