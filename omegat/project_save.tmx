@@ -15371,8 +15371,8 @@
       <tuv lang="en-US">
         <seg>If you are on a netbook with a very small display (800x600 resolution) the startup screen might get a little scrunched and the [*Start GRASS*] button hidden behind the location and mapset lists.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T034532Z" creationid="miurahr" creationdate="20201220T034532Z">
-        <seg>ディスプレイが非常に小さいノートPC(解像度800x600) の場合には、スタートアップダイアログが画面からでてしまい、 [*Start GRASS*] ボタンが、ロケーションやマップセット一覧のうらに隠れてしまうかもしれません。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T045224Z" creationid="miurahr" creationdate="20201220T034532Z">
+        <seg>ディスプレイが非常に小さいノートPC (解像度800x600) の場合には、スタートアップダイアログが画面からでてしまい、 [*Start GRASS*] ボタンが、ロケーションやマップセット一覧のうらに隠れてしまうかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33167,8 +33167,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This will launch GRASS into the `graphical user interface (written in wxPython) &lt;../../grass/wxGUI.html&gt;`_.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T034153Z" creationid="miurahr" creationdate="20201220T034153Z">
-        <seg>GRASSが `graphical user interface (written in wxPython) &lt;../../grass/wxGUI.html&gt;`_ として起動します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T044505Z" creationid="miurahr" creationdate="20201220T034153Z">
+        <seg>GRASS が `(wsPythonで書かれた)グラフィカルユーザインタフェース &lt;../../grass/wxGUI.html&gt;`_ として起動します。</seg>
       </tuv>
     </tu>
     <tu>
