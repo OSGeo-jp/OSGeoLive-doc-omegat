@@ -8338,8 +8338,8 @@
       <tuv lang="en-US">
         <seg>Click on the GRASS link in the :menuselection:`Geospatial --&gt; Desktop GIS` menu.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210218T225349Z" creationid="miurahr" creationdate="20201220T033948Z">
-        <seg>:menuselection:`Geospatial --&gt; Desktop GIS` メニューから、 GRASS をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T012255Z" creationid="miurahr" creationdate="20201220T033948Z">
+        <seg>:menuselection:`Geospatial --&gt; Desktop GIS` メニューから、 GRASS のリンクをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12554,8 +12554,8 @@
       <tuv lang="en-US">
         <seg>From the "Welcome to GRASS GIS " window, select the nc_basic_spm_grass7 dataset for the location, and "user1" for the mapset</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T034114Z" creationid="miurahr" creationdate="20201220T034114Z">
-        <seg>"Welcome to GRASS GIS " ウインドウからロケーションデータセットとして、 nc_basic_spm_grass7 をマップセットとして "user1"を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T044330Z" creationid="miurahr" creationdate="20201220T034114Z">
+        <seg>"Welcome to GRASS GIS " ウインドウから、ロケーションに nc_basic_spm_grass7 データセット、マップセットに "user1" を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28235,8 +28235,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Start GRASS</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T033857Z" creationid="miurahr" creationdate="20201220T033857Z">
-        <seg>GRASS の開始</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T012200Z" creationid="miurahr" creationdate="20201220T033857Z">
+        <seg>GRASS の起動</seg>
       </tuv>
     </tu>
     <tu>
