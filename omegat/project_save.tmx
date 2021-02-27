@@ -27091,8 +27091,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select the "`roadsmajor`" vector layer from the PERMANENT mapset, and click :guilabel:`Ok`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210214T144628Z" creationid="miurahr" creationdate="20210214T144628Z">
-        <seg>Select the "`roadsmajor`" vector layer from the PERMANENT mapset, and click :guilabel:`Ok`.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T051841Z" creationid="miurahr" creationdate="20210214T144628Z">
+        <seg>PERMANNENT マップセットから "`roadsmajor`" ベクトルレイヤを選択し、 :guilabel:`Ok` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27243,8 +27243,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select the map name you want from the "*map to be displayed*" pull-down list, and click :guilabel:`Ok`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210227T050739Z" creationid="miurahr" creationdate="20201220T034916Z">
-        <seg>"*ラスターマップ名が表示されています*" プルダウン・リストから選択したいマップ名を選択し、 :guilabel:`Ok` をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T051856Z" creationid="miurahr" creationdate="20201220T034916Z">
+        <seg>"*ラスターマップ名*" プルダウン・リストから選択したいマップ名を選択し、 :guilabel:`Ok` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
