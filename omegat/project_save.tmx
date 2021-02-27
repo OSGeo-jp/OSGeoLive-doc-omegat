@@ -8370,8 +8370,8 @@
       <tuv lang="en-US">
         <seg>Click on the checkerboard toolbar button with a "+" on it.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T034929Z" creationid="miurahr" creationdate="20201220T034909Z">
-        <seg>ツールバーの"+" がついたチェッカーボードのボタンをクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T050610Z" creationid="miurahr" creationdate="20201220T034909Z">
+        <seg>"+" がついたチェッカーボードのツールバーボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8458,8 +8458,8 @@
       <tuv lang="en-US">
         <seg>Click on the toolbar button with a "+" and a bent poly-line which looks a bit like a "V".</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210214T144638Z" creationid="miurahr" creationdate="20201220T035038Z">
-        <seg>「+」のついたツールバーボタンをクリックします。そして、「V」のようなアイコンのボタンはポリラインを曲げます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T051018Z" creationid="miurahr" creationdate="20201220T035038Z">
+        <seg>"+" と、少し "V" 字型に似た折れ曲がったポリラインのツールバーボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27243,8 +27243,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select the map name you want from the "*map to be displayed*" pull-down list, and click :guilabel:`Ok`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210218T225901Z" creationid="miurahr" creationdate="20201220T034916Z">
-        <seg>"*map to be displayed*" プルダウン・リストから選択したいマップ名を選択し、 :guilabel:`Ok` をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T050739Z" creationid="miurahr" creationdate="20201220T034916Z">
+        <seg>"*ラスターマップ名が表示されています*" プルダウン・リストから選択したいマップ名を選択し、 :guilabel:`Ok` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
