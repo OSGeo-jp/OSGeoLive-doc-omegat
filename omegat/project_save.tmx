@@ -5072,8 +5072,8 @@
       <tuv lang="en-US">
         <seg>Add watersheds and streams</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210227T132522Z" creationid="sanak" creationdate="20210227T132522Z">
-        <seg>集水域と水系</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T155319Z" creationid="sanak" creationdate="20210227T132522Z">
+        <seg>分水界と水系</seg>
       </tuv>
     </tu>
     <tu>
@@ -21036,6 +21036,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next, in the `Raster` menu choose :menuselection:`Hydrologic modeling --&gt; Watershed analysis`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T152857Z" creationid="sanak" creationdate="20210227T152857Z">
+        <seg>次に、`ラスター` メニューから :menuselection:`Hydrologic modeling --&gt; Watershed analysis`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nicolas Roelandt</seg>
       </tuv>
       <tuv lang="ja">
@@ -25653,6 +25661,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T032335Z" creationid="miurahr" creationdate="20201220T032335Z">
         <seg>ラスタデータ: 補間、コスト分析 ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raster maps of differing bounds and resolution will be resampled to the current computational region on-the-fly.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T152759Z" creationid="sanak" creationdate="20210227T152759Z">
+        <seg>範囲や解像度が異なるラスターマップは、オンザフライで現在の計算領域にリサンプリングされます。</seg>
       </tuv>
     </tu>
     <tu>
