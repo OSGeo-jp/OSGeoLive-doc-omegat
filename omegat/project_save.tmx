@@ -6590,6 +6590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Back in the `GIS Layer Manager` window check that those two new raster maps are in the layer list and make sure that the basins map is ticked for display in the box to the left of the layer name.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T160917Z" creationid="sanak" creationdate="20210227T160917Z">
+        <seg>`GIS Layer Manager` ウィンドウに戻り、window check that those two new raster maps are in the layer list and make sure that the basins map is ticked for display in the box to the left of the layer name.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Back in the `GIS Layer Manager` window click on the `elevation` raster map name to select it.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210227T052340Z" creationid="sanak" creationdate="20210227T052340Z">
@@ -31952,6 +31960,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>論理または正規表現ベースのクラスを利用した主題マッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then click [*Run*].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T160650Z" creationid="sanak" creationdate="20210227T160503Z">
+        <seg> [*実行*] をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
