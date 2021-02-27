@@ -20972,6 +20972,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next we'll create a shaded relief map of the `elevation` layer we saw earlier.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T072917Z" creationid="sanak" creationdate="20210227T072716Z">
+        <seg>次に、先ほどの `elevation` レイヤの陰影図を作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next, add PostGIS extension:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041949Z" creationid="miurahr" creationdate="20201108T041949Z">
@@ -28489,6 +28497,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start by verifying that the *computational region* is set match the raster map of interest, "`elevation`" in the PERMANENT mapset.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T072937Z" creationid="sanak" creationdate="20210227T072858Z">
+        <seg>まず、*computational region* が対象のラスターマップである PERMANENT マップセットの "`elevation`" に一致しているかを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start deegree 3 webservices</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135050Z" creationid="miurahr" creationdate="20201116T135050Z">
@@ -33705,6 +33721,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T002816Z" creationid="miurahr" creationdate="20201117T002816Z">
         <seg>そのためには、次のクエリを実行する必要があります(SQLウィンドウのテキストエディタで送信)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To do this, make sure it is loaded into the layer list of the main `GIS Layer Manager` window, right click on its name and select "Set computation region from selected map(s)".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T072905Z" creationid="sanak" creationdate="20210227T072905Z">
+        <seg>To do this, make sure it is loaded into the layer list of the main `GIS Layer Manager` window, right click on its name and select "Set computation region from selected map(s)".</seg>
       </tuv>
     </tu>
     <tu>
