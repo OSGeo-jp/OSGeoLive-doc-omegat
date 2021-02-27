@@ -15331,8 +15331,8 @@
       <tuv lang="en-US">
         <seg>If this happens to you the solution is to drag the corner of the window to make it a little bigger.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T034618Z" creationid="miurahr" creationdate="20201220T034618Z">
-        <seg>この問題が発生するときは、ウインドウの角をドラッグして、もうすこしサイズを大きくしてみてください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T045259Z" creationid="miurahr" creationdate="20201220T034618Z">
+        <seg>この問題が発生するときは、ウインドウの角をドラッグして、もう少しサイズを大きくしてみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15371,8 +15371,8 @@
       <tuv lang="en-US">
         <seg>If you are on a netbook with a very small display (800x600 resolution) the startup screen might get a little scrunched and the [*Start GRASS*] button hidden behind the location and mapset lists.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210227T045224Z" creationid="miurahr" creationdate="20201220T034532Z">
-        <seg>ディスプレイが非常に小さいノートPC (解像度800x600) の場合には、スタートアップダイアログが画面からでてしまい、 [*Start GRASS*] ボタンが、ロケーションやマップセット一覧のうらに隠れてしまうかもしれません。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T045324Z" creationid="miurahr" creationdate="20201220T034532Z">
+        <seg>ディスプレイが非常に小さいノートPC (解像度800x600) の場合には、スタートアップダイアログが画面からでてしまい、 [*Start GRASS*] ボタンが、ロケーションやマップセット一覧の裏に隠れてしまうかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22718,8 +22718,8 @@
       <tuv lang="en-US">
         <seg>Once inside, select for display the raster map layer "`elevation`" from the PERMANENT mapset.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210121T140154Z" creationid="sanak" creationdate="20210121T140154Z">
-        <seg>内にはいると、 PERMANENT マップセットから "`elevation`" ラスタマップレイヤ表示を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T045819Z" creationid="sanak" creationdate="20210121T140154Z">
+        <seg>内部に入ったら、 PERMANENT マップセットから "`elevation`" ラスタマップレイヤ表示を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38009,8 +38009,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You might have to move the window up past the top of the screen a bit to get the room (hold down the Alt key and left-click drag the window to move it).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201220T034636Z" creationid="miurahr" creationdate="20201220T034636Z">
-        <seg>You might have to move the window up past the top of the screen a bit to get the room (hold down the Alt key and left-click drag the window to move it).</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T045416Z" creationid="miurahr" creationdate="20201220T034636Z">
+        <seg>ウィンドウを画面の上にずらす必要があるかもしれません (Altキーを押しながら左クリックでドラッグするとウィンドウを動かせます)。</seg>
       </tuv>
     </tu>
     <tu>
