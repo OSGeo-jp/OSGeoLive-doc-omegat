@@ -5214,6 +5214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjust raster map colors</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T062147Z" creationid="sanak" creationdate="20210227T062147Z">
+        <seg>Adjust raster map colors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Administer sensors and data with an intuitive web-based interface.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T131252Z" creationid="miurahr" creationdate="20201122T041751Z">
@@ -8362,8 +8370,8 @@
       <tuv lang="en-US">
         <seg>Click on the I/O button of the far right to close the profile window.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210227T062132Z" creationid="sanak" creationdate="20210227T062132Z">
-        <seg>プロファイルウィンドウを閉じるには、右端のI/Oボタンをクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T063941Z" creationid="sanak" creationdate="20210227T062132Z">
+        <seg>プロファイルウィンドウを閉じるには、右端の電源(I/O)ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
