@@ -24118,8 +24118,8 @@
       <tuv lang="en-US">
         <seg>Plot an elevation profile</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210227T052201Z" creationid="sanak" creationdate="20210227T052201Z">
-        <seg>標高プロファイルの表示</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T054623Z" creationid="sanak" creationdate="20210227T052201Z">
+        <seg>標高プロファイルのプロット</seg>
       </tuv>
     </tu>
     <tu>
@@ -31830,8 +31830,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Then in the `Map Display` window, to the right of the zooming buttons on the `Map Display` toolbar is an icon with a line graph and checkerboard on it.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210227T052754Z" creationid="sanak" creationdate="20210227T052754Z">
-        <seg>`Map Display` ウィンドウで, to the right of the zooming buttons on the `Map Display` toolbar is an icon with a line graph and checkerboard on it.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210227T055020Z" creationid="sanak" creationdate="20210227T052754Z">
+        <seg>`Map Display` ウィンドウには、`マップ` ツールバーのズーム関連ボタンの右に、折れ線グラフとチェッカーボードのアイコンがあります。</seg>
       </tuv>
     </tu>
     <tu>
