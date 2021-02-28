@@ -6592,8 +6592,8 @@
       <tuv lang="en-US">
         <seg>Back in the `GIS Layer Manager` window check that those two new raster maps are in the layer list and make sure that the basins map is ticked for display in the box to the left of the layer name.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210227T160917Z" creationid="sanak" creationdate="20210227T160917Z">
-        <seg>`GIS Layer Manager` ウィンドウに戻り、window check that those two new raster maps are in the layer list and make sure that the basins map is ticked for display in the box to the left of the layer name.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210228T063807Z" creationid="sanak" creationdate="20210227T160917Z">
+        <seg>`GIS Layer Manager` ウィンドウに戻り、レイヤリストに加わったそれら2つの新しいラスターマップを確認し、分水界マップが and make sure that the basins map is ticked for display in the box to the left of the layer name.</seg>
       </tuv>
     </tu>
     <tu>
