@@ -10680,6 +10680,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drag a map layer (such as the earlier created shaded relief map) to lower down in the layer list if you wish for it to be drawn behind the watershed basins map layer, and make sure to tick its visibility box to view it as a backdrop.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210228T073022Z" creationid="sanak" creationdate="20210228T073022Z">
+        <seg>Drag a map layer () to lower down in the layer list if you wish for it to be drawn behind the watershed basins map layer, and make sure to tick its visibility box to view it as a backdrop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drag panning with inertia</seg>
       </tuv>
       <tuv lang="ja">
@@ -21052,6 +21060,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next, right click on the "`elev.basins`" raster map layer name and select "`Change opacity level`".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210228T072336Z" creationid="sanak" creationdate="20210228T072336Z">
+        <seg>次に "`elev.basins`" ラスターマップレイヤ名を右クリックし、 "`不透明度レベルの変更`" を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nicolas Roelandt</seg>
       </tuv>
       <tuv lang="ja">
@@ -27565,6 +27581,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>サービス:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set it to about 50% which will re-render the Map Display.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210228T072614Z" creationid="sanak" creationdate="20210228T072614Z">
+        <seg>50% ぐらいに設定すると、 Map Display が再レンダリングされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38251,6 +38275,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210227T045416Z" creationid="miurahr" creationdate="20201220T034636Z">
         <seg>ウィンドウを画面の上にずらす必要があるかもしれません (Altキーを押しながら左クリックでドラッグするとウィンドウを動かせます)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You might untick the streams map for now.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210228T072208Z" creationid="sanak" creationdate="20210228T072208Z">
+        <seg>水系マップのチェックを外すこともできます。</seg>
       </tuv>
     </tu>
     <tu>
