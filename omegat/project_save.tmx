@@ -27587,8 +27587,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Set it to about 50% which will re-render the Map Display.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210228T072614Z" creationid="sanak" creationdate="20210228T072614Z">
-        <seg>50% ぐらいに設定すると、 Map Display が再レンダリングされます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210228T074156Z" creationid="sanak" creationdate="20210228T072614Z">
+        <seg>約50%に設定すると、 Map Display が再描画されます。</seg>
       </tuv>
     </tu>
     <tu>
