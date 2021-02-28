@@ -6592,8 +6592,8 @@
       <tuv lang="en-US">
         <seg>Back in the `GIS Layer Manager` window check that those two new raster maps are in the layer list and make sure that the basins map is ticked for display in the box to the left of the layer name.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210228T063807Z" creationid="sanak" creationdate="20210227T160917Z">
-        <seg>`GIS Layer Manager` ウィンドウに戻り、レイヤリストに加わったそれら2つの新しいラスターマップを確認し、分水界マップが and make sure that the basins map is ticked for display in the box to the left of the layer name.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210228T072129Z" creationid="sanak" creationdate="20210227T160917Z">
+        <seg>`GIS Layer Manager` ウィンドウに戻り、これら2つの新しいラスターマップがレイヤリストにあることを確認し、水域マップのレイヤ名左側のボックスにチェックが付いていることを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27347,8 +27347,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select the `elevation` layer as your input map, in the same 'Inputs' tab set the "Minimum size of the exterior watershed basin" *threshold* to 10000 cells, then in the 'Outputs' tab enter "elev.basins" for the "Name for basins raster map" *basins* option and "elev.streams" for the "Name for output stream segments raster map" *streams* option just below it.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210227T160339Z" creationid="sanak" creationdate="20210227T160339Z">
-        <seg>`elevation` レイヤを入力マップとして選択し、同じ 'Inputs' タブで "Minimum size of the exterior watershed basin" の *threshold* を 10000 セルに設定し、 '出力' タブで "Name for basins raster map" *basins* オプションに "elev.basins" と入力し、その下の "Name for output stream segments raster map" *streams* オプションに "elev.streams" と入力します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210228T063922Z" creationid="sanak" creationdate="20210227T160339Z">
+        <seg>`elevation` レイヤを入力マップとして選択し、同じ 'Inputs' タブで "Minimum size of the exterior watershed basin" の *threshold* を 10000 セルに設定し、 '出力' タブで "Name for basins raster map" *basins* (水域)オプションに "elev.basins" と入力し、その下の "Name for output stream segments raster map" *streams* (水系)オプションに "elev.streams" と入力します。</seg>
       </tuv>
     </tu>
     <tu>
