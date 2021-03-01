@@ -8864,6 +8864,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Command Line basics</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210301T233245Z" creationid="sanak" creationdate="20210301T233245Z">
+        <seg>コマンドラインの基本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Command-line clients run from within a Terminal Emulator window.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T040904Z" creationid="miurahr" creationdate="20201108T040904Z">
@@ -14140,6 +14148,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Lubuntu 及び LXDE デスクトップ入門 (OSGeoLive で使用されています):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Getting started with OSGeoLive</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210301T233520Z" creationid="sanak" creationdate="20210301T233520Z">
+        <seg>OSGeoLive を始める</seg>
       </tuv>
     </tu>
     <tu>
@@ -30588,6 +30604,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The datasets falling under the scope of the INSPIRE Directive are grouped into 34 cross-sectoral categories named `spatial data themes &lt;https://inspire.ec.europa.eu/Themes/Data-Specifications/2892&gt;`__, which are defined in the Annexes of the Directive and reflect two main types of data: geospatial reference data, presented in Annex I and partly Annex II, which define a location reference that the remaining domain-specific themes (in Annex III and partly Annex II) can then refer to.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>INSPIRE指令の対象となるデータセットは、34の分野横断的なカテゴリ名 `空間データテーマ  &lt;https://inspire.ec.europa.eu/Themes/Data-Specifications/2892&gt;`__ でグループ化されています。これらは、指令の付属文書で定義され、2つの主要なデータタイプを反映しています。付属文書Iと部分的に付属文書IIに提示されている地理空間参照データで、残りの領域固有のテーマ(付属文書IIIと部分的に付属文書II)が参照できる位置参照を定義しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The datasets falling under the scope of the INSPIRE Directive are grouped into 34 cross-sectoral categories names `spatial data themes &lt;https://inspire.ec.europa.eu/Themes/Data-Specifications/2892&gt;`__, which are defined in the Annexes of the Directive and reflect two main types of data: geospatial reference data, presented in Annex I and partly Annex II, which define a location reference that the remaining domain-specific themes (in Annex III and partly Annex II) can then refer to.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T045945Z" creationid="miurahr" creationdate="20210201T045945Z">
@@ -41247,6 +41271,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>document them through metadata;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>メタデータを使用して文書化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>documentation can be found in the `SOS webapp &lt;http://localhost:8080/52nSOS/static/doc/api-doc/&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210117T114114Z" creationid="sanak" creationdate="20201103T055451Z">
@@ -41555,6 +41587,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T175138Z" creationid="miurahr" creationdate="20201122T052721Z">
         <seg>エクスポート、クリッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>expose them through network services: discovery services (to discover the data), view services (to access the data) and download services (to download the data);</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ネットワークサービスを通じて公開する: デイスカバリーサービス(データを発見するため)、ビューサービス(データにアクセスするため)、ダウンロードサービス(データをダウンロードするため)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42339,6 +42379,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>hamish_b yahoo com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>harmonise their spatial datasets in accordance with `common data models &lt;https://inspire.ec.europa.eu/Data-Models/Data-Specifications/2892&gt;`__ defined for each theme.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>各テーマで定義されている `common data models &lt;https://inspire.ec.europa.eu/Data-Models/Data-Specifications/2892&gt;`__ に従って、空間データセットを整備します。</seg>
       </tuv>
     </tu>
     <tu>
