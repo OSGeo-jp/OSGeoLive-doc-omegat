@@ -38375,6 +38375,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You should install the virtualbox guest additions, this will allow you to use full-screen mode.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210301T235601Z" creationid="sanak" creationdate="20210301T235601Z">
+        <seg>VirtualBox Guest Addition をインストールする必要があります。これにより、フルスクリーンモードを利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You should now be able to refresh the link http://localhost/geoext/demo.html in your browser and see a complete GeoExt application similar to the image below.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210117T122447Z" creationid="miurahr" creationdate="20201103T054643Z">
@@ -39755,6 +39763,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T125251Z" creationid="miurahr" creationdate="20210208T125251Z">
         <seg>``invgeod`` はすべてのプラットフォームで利用できるわけではありません。この場合、-Iオプションを指定してgeodを呼び出してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>``sudo apt-get install --yes virtualbox-guest-dkms virtualbox-guest-utils virtualbox-guest-x11``</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210301T235452Z" creationid="sanak" creationdate="20210301T235452Z">
+        <seg>``sudo apt-get install --yes virtualbox-guest-dkms virtualbox-guest-utils virtualbox-guest-x11``</seg>
       </tuv>
     </tu>
     <tu>
