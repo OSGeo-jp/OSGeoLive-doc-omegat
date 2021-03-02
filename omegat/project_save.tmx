@@ -9312,6 +9312,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Copy and paste the following text into the text editor window:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T232735Z" creationid="miurahr" creationdate="20210302T232735Z">
+        <seg>次のテキストをコピーしてテキストエディタウィンドウに貼り付けます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Copy files and directories</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T125448Z" creationid="miurahr" creationdate="20210208T125427Z">
@@ -23548,6 +23556,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open a terminal by selecting :menuselection:`System Tools --&gt; LXTerminal`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T233004Z" creationid="miurahr" creationdate="20210302T233004Z">
+        <seg>:menuselection:`System Tools --&gt; LXTerminal` を選択して端末を開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open a terminal window and type `python3` on the command line to enter a python interpreter.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210121T140328Z" creationid="sanak" creationdate="20210121T140328Z">
@@ -27117,6 +27133,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T164144Z" creationid="sanak" creationdate="20210102T164100Z">
         <seg>テキストファイル、gpx ファイル、kml/kmz ファイル、または GPS 受信機への直接のデータ保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save the file as "T_LUGANO_20140603161000000.dat" on the Desktop.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T232809Z" creationid="miurahr" creationdate="20210302T232809Z">
+        <seg>デスクトップ上に "T_LUGANO_20140603161000000.dat" という名前で保存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31288,6 +31312,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T033533Z" creationid="miurahr" creationdate="20201122T033203Z">
         <seg>このファイルはCSV(カンマ区切りテキスト)形式を使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The filename convention being used is: PROCEDURENAME_YYYYMMDDhhmmssfff.dat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T232848Z" creationid="miurahr" creationdate="20210302T232848Z">
+        <seg>ファイル名の命名方法は次のとおりです: PROCEDURENAME_YYYYMMDDhhmmssfff.dat</seg>
       </tuv>
     </tu>
     <tu>
