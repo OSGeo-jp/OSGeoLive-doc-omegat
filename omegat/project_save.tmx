@@ -4702,6 +4702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>API</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T063528Z" creationid="miurahr" creationdate="20210302T063528Z">
+        <seg>API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ability to plot data along a transect</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T015555Z" creationid="miurahr" creationdate="20201220T015555Z">
@@ -6930,6 +6938,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T141333Z" creationid="miurahr" creationdate="20201103T010037Z">
         <seg>地球儀に表示する( `OpenStreetMaps &lt;https://www.openstreetmap.org&gt;`_ を含む)マップをいろいろ選択するだけでなく、アプリケーションにKDE Marbleウィジェットを含めることをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Besides the core GIS functions there is also `array` (NumPy), `db` (database), `raster`, and `vector` libraries available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T063707Z" creationid="miurahr" creationdate="20210302T063556Z">
+        <seg>コアGIS関数の他に、 `array`(NumPy)、 `db` (データベース)、 `raster` 、 `vector` ライブラリも利用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12328,6 +12344,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For advanced use `Pythons Ctypes` is supported allowing the Python programmer direct access to GRASS GIS' extensive C libraries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T063729Z" creationid="miurahr" creationdate="20210302T063729Z">
+        <seg>高度な使用のために `Pythons Ctypes` がサポートされており、PythonプログラマーがGRASS GISの広範なCライブラリに直接アクセスできるようになっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For cases where you have one ways or different speed limits on either lane, cost going on one direction of a road, may be different than going the other way.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T001557Z" creationid="miurahr" creationdate="20201117T001557Z">
@@ -12924,6 +12948,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T045112Z" creationid="miurahr" creationdate="20201102T045112Z">
         <seg>基本的にOSMの焦点はデータにあり、リッチな地図は、これから単純に溢れたものとなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further details can be found in the `wxGUI &lt;https://grass.osgeo.org/grass78/manuals/wxGUI.html&gt;`_ help pages.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T063527Z" creationid="miurahr" creationdate="20210302T063501Z">
+        <seg>詳細については、 `wxGUI &lt;https://grass.osgeo.org/grass78/manuals/wxGUI.html&gt;`_ ヘルプページを参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16464,6 +16496,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T150031Z" creationid="miurahr" creationdate="20201103T113622Z">
         <seg>上の例では、ホストシステム上に共有フォルダパスを定義し、VM設定で "GIS" という名前を付けました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the bottom of the `Layer Manager` window click on the `Python shell` tab and type ``help(grass.core)`` to see a listing of the many functions available in the core GIS python library.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T063635Z" creationid="miurahr" creationdate="20210302T063554Z">
+        <seg>``Layer Manager`` ウィンドウの下部にある ``Python shell`` タブをクリックし、``help(grass.core)`` と入力すると、コアGIS Pythonライブラリで使用できる多くの関数のリストが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27249,6 +27289,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the manual pages for an extensive description of the programming options.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T063916Z" creationid="miurahr" creationdate="20210302T063916Z">
+        <seg>高度なプログラミングの詳細については、マニュアルページを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select "Generation 1" from the Specify Generation options.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T121607Z" creationid="miurahr" creationdate="20210208T121607Z">
@@ -32168,6 +32216,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T232027Z" creationid="miurahr" creationdate="20210214T232027Z">
         <seg>Mapnikが描いた世界人口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wxGUI is written in Python, and if you're a fan of Python programming there are a number of great tools and an API available to you.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T063538Z" creationid="miurahr" creationdate="20210302T063538Z">
+        <seg>wxGUIはPythonで書かれており、Pythonプログラミングのファンならば、素晴らしいツールやAPIがたくさんあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37109,6 +37165,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>While not covered here, you may like to experiment with the Cartographic Composer and object-oriented Graphical Modelling Tool (offers export to Python).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T063424Z" creationid="miurahr" creationdate="20210302T063424Z">
+        <seg>ここでは説明していませんが、Cartographic Composerとオブジェクト指向グラフィカルモデリングツール(Pythonへのエクスポートを提供)を試してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>While still holding the mouse button move the cursor diagonally in any direction.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T015147Z" creationid="miurahr" creationdate="20201117T015147Z">
@@ -38987,6 +39051,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113358Z" creationid="miurahr" creationdate="20201103T113358Z">
         <seg>また、仮想マシン上で作業できるスペースを確保するために、より多くのスペースが必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You'll find icons to launch them on the lower row of icons in the `Layer Manager` window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T063506Z" creationid="miurahr" creationdate="20210302T063458Z">
+        <seg>`Layer Manager` ウィンドウのアイコンの下の行に、アイコンが表示されています。</seg>
       </tuv>
     </tu>
     <tu>
