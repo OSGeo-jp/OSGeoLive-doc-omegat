@@ -16526,8 +16526,8 @@
       <tuv lang="en-US">
         <seg>In the Vector menu select :menuselection:`Update attributes --&gt; Update area attributes from raster`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210302T055125Z" creationid="miurahr" creationdate="20210302T055125Z">
-        <seg>ベクタメニューで、次のように選択します。 :menuselection:`Update attributes --&gt; Update area attributes from raster` 。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T222947Z" creationid="miurahr" creationdate="20210302T055125Z">
+        <seg>ベクトルメニューから、:menuselection:`属性の更新 --&gt; ラスターからエリア属性を更新` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21342,8 +21342,8 @@
       <tuv lang="en-US">
         <seg>Next we'll add some attributes to those new areas, containing the average elevation in each basin.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210302T054534Z" creationid="miurahr" creationdate="20210302T054419Z">
-        <seg>次に、これらの新しい領域に、各流域の平均標高を含むいくつかの属性を追加します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T222710Z" creationid="miurahr" creationdate="20210302T054419Z">
+        <seg>次に、これらの新しい領域に、各水域の平均標高を含むいくつかの属性を追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23176,6 +23176,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210227T130733Z" creationid="sanak" creationdate="20210227T130733Z">
         <seg>設定が完了したら、[*実行*] をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once done click the [*Run*] button and close the *v.colors* dialog window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T222148Z" creationid="sanak" creationdate="20210302T222148Z">
+        <seg>完了したら、 [*実行*] ボタンをクリックして、*v.colors* ダイアログウィンドウを閉じます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38811,6 +38819,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T055723Z" creationid="miurahr" creationdate="20210201T055723Z">
         <seg>あなたディレクトリに書き込み権限があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may need to re-draw the map to see the colorized vector map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T222242Z" creationid="sanak" creationdate="20210302T222242Z">
+        <seg>カラー化されたベクトルマップ表示するには、マップを再描画する必要があるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
