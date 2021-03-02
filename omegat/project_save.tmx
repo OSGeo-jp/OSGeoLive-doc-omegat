@@ -13258,8 +13258,8 @@
       <tuv lang="en-US">
         <seg>GRASS is designed to allow all commands to be tied together in scripts for large bulk processing jobs.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210302T055914Z" creationid="miurahr" creationdate="20210302T055914Z">
-        <seg>GRASSは、すべてのオマンドを  to allow all commands to be tied together in scripts for large bulk processing jobs.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T062402Z" creationid="miurahr" creationdate="20210302T055914Z">
+        <seg>多量のデータをまとめて処理するジョブを、スクリプトのなかで全てのコマンドを結びつけて実行できるように、GRASSはデザインされています。</seg>
       </tuv>
     </tu>
     <tu>
