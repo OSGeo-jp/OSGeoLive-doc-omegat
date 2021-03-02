@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_4470bbb50" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef7" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10762,8 +10762,8 @@
       <tuv lang="en-US">
         <seg>Drag a map layer (such as the earlier created shaded relief map) to lower down in the layer list if you wish for it to be drawn behind the watershed basins map layer, and make sure to tick its visibility box to view it as a backdrop.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210301T012926Z" creationid="sanak" creationdate="20210228T073022Z">
-        <seg>先ほど作成した陰影図などのマップレイヤを分水界水域マップレイヤの背後に to lower down in the layer list if you wish for it to be drawn behind the watershed basins map layer, and make sure to tick its visibility box to view it as a backdrop.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T155800Z" creationid="sanak" creationdate="20210228T073022Z">
+        <seg>(先ほど作成した陰影図などの)マップレイヤを分水界水域マップレイヤの背後に描画する場合は、 to lower down in the layer list if you wish for it to be drawn behind the watershed basins map layer, and make sure to tick its visibility box to view it as a backdrop.</seg>
       </tuv>
     </tu>
     <tu>
