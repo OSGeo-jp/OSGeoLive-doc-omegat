@@ -4550,6 +4550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A scalebar will appear in the top left of the map canvas.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T162449Z" creationid="sanak" creationdate="20210302T162449Z">
+        <seg>スケールバーがマップキャンバスの左上に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A sensor could be a water level meter in a stream, a weather station, or an air quality monitoring station.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041631Z" creationid="miurahr" creationdate="20201103T041631Z">
@@ -12516,6 +12524,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235901Z" creationid="miurahr" creationdate="20201116T235901Z">
         <seg>シェーディングされた防災地図の例では、カラー強度がグリッドに沿ってどのように分布しているかを表示するように指定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For size of grid put 5000 (in map units, here meter).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T161707Z" creationid="sanak" creationdate="20210302T161707Z">
+        <seg>グリッドのサイズに 5000 (地図単位、ここではメートル) を設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23076,6 +23092,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Once done press :guilabel:`OK`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T161805Z" creationid="sanak" creationdate="20210302T161805Z">
+        <seg>完了したら、:guilabel:`OK` をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Once downloaded unzip the downloaded file (using `7zip &lt;https://www.7-zip.org&gt;`_ ).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210206T165124Z" creationid="miurahr" creationdate="20210206T165124Z">
@@ -23888,6 +23912,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T012808Z" creationid="miurahr" creationdate="20201103T012808Z">
         <seg>オプションのベイク処理済みコンテンツには、土地被覆、シェーディングされたレリーフ、海水、湖の排水が含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Optionally you may change the colors for the grid lines and the text labels.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T161929Z" creationid="sanak" creationdate="20210302T161929Z">
+        <seg>必要に応じて、グリッド線とテキストラベルの色を変更できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34041,6 +34073,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210109T024714Z" creationid="miurahr" creationdate="20201103T051957Z">
         <seg>新しい点を追加するには、 **[ポイント]** ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To add a scalebar go to the `Map Display` window and press the "Add map elements" button to the right of where you selected the Profile tool earlier and select "Show/hide scalebar" then click :guilabel:`Ok`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T162351Z" creationid="sanak" creationdate="20210302T162351Z">
+        <seg>スケールバーを追加するには、`Map Display` ウィンドウに移動し、先ほどプロファイルツールを選択したボタンの右にある "マップエレメント追加" ボタンをクリックし、 "レイヤー追加" から :guilabel:`Ok` ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
