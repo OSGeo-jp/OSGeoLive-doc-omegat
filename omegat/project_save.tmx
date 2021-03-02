@@ -10776,6 +10776,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drag it down to the bottom right.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T162557Z" creationid="sanak" creationdate="20210302T162557Z">
+        <seg>ドラッグして右下に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drag panning with inertia</seg>
       </tuv>
       <tuv lang="ja">
@@ -21948,6 +21956,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now you may be thinking to yourself that these fonts are a bit bare.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T162729Z" creationid="sanak" creationdate="20210302T162729Z">
+        <seg>今度はこれらのフォントが少しイマイチに思えてくるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now you should be able to see all the available layers.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210219T013130Z" creationid="miurahr" creationdate="20201116T143618Z">
@@ -29741,6 +29757,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022439Z" creationid="miurahr" creationdate="20201103T022439Z">
         <seg>具体的にお願いしないと出せないということですね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That's easily fixed in the `GIS Layer Manager` menus open :menuselection:`Settings --&gt; Preferences` and in the Map Display tab click the [*Set font*] button, choose one (for example DajVu Sans Bold), and then [*Save*] or [*Save for this session only*] in the Preferences window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T163322Z" creationid="sanak" creationdate="20210302T163322Z">
+        <seg>これは、`GIS Layer Manager` メニューから :menuselection:`設定 --&gt; GUI設定` を選択し、マップディスプレイタブから [*フォント設定*] ボタンをクリックして、設定ウィンドウから一つ(例えば DejaVu Sans Bold)を選択し、 [*Save*] もしくは [*Save for this session only*] ボタンをクリックすることで、簡単に修正できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38955,6 +38979,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T150609Z" creationid="miurahr" creationdate="20201116T125445Z">
         <seg>デモデータは :file:`/usr/local/share/data` にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will have to do a full re-render to see the change so click on the re-render button the first in the `Map Display` window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T163631Z" creationid="sanak" creationdate="20210302T163631Z">
+        <seg>変更を確認するには、完全な再レンダリングが必要となるため、`Map Display` ウィンドウで一番左のレンダーマップボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
