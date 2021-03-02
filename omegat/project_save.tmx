@@ -5254,6 +5254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjust vector map colors</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T170413Z" creationid="sanak" creationdate="20210302T170413Z">
+        <seg>ベクトルマップの色の調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Administer sensors and data with an intuitive web-based interface.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T131252Z" creationid="miurahr" creationdate="20201122T041751Z">
@@ -6354,6 +6362,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T102540Z" creationid="smellman" creationdate="20201103T102540Z">
         <seg>ホストの船舶が移動すると、新しいチャートが選択され、ユーザ指定の解像度および詳細で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As we did earlier with a raster map we will change the color table of the new watershed basins vector map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T170505Z" creationid="sanak" creationdate="20210302T170505Z">
+        <seg>先ほどラスターマップで行ったよういん、新しい分水界水域ベクトルマップのカラーテーブルを変更します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16524,6 +16540,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the `Attributes` tab tick the box to use raster values as category numbers (i.e., the IDs), since these will match the values in our stream segment raster map created earlier.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T170034Z" creationid="sanak" creationdate="20210302T165739Z">
+        <seg>`属性` タブで、ラスター値をカテゴリーとして使用(例: IDなど)にチェックを入れ、先ほど作成した水系セグメントラスターマップと値を一致させるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the `GIS Layer Manager` window click on the `Add various overlays` button and `Add grid layer`.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210302T161550Z" creationid="sanak" creationdate="20210302T161550Z">
@@ -16558,8 +16582,8 @@
       <tuv lang="en-US">
         <seg>In the `r.to.vect` dialog that opens make sure that ``elev.basins @user1`` is selected for the input map, give a name for the output map like ``basins_areas`` (vector map names must be SQL compliant, hence not all characters are allowed), and change "Output feature type" to `area`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210302T165549Z" creationid="sanak" creationdate="20210302T165549Z">
-        <seg>`r.to.vect` ダイアログで、``elev.basins @user1`` が入力マップとして選択されていることを確認し、出力マップの名前を ``basins_areas`` のように指定し (ベクトルマップの名前はSQLに準拠している必要があるため、すべての文字が使用できるわけではありません)、 "Output feature type" を `area` に設定します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T165812Z" creationid="sanak" creationdate="20210302T165549Z">
+        <seg>`r.to.vect` ダイアログで、``elev.basins @user1`` が入力マップとして選択されていることを確認し、出力マップの名前を ``basins_areas`` のように指定し(ベクトルマップの名前はSQLに準拠している必要があるため、すべての文字が使用できるわけではありません)、 "Output feature type" を `area` に設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23224,6 +23248,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113849Z" creationid="miurahr" creationdate="20201103T113849Z">
         <seg>レイヤをマップフレームにドラッグすると、土地被覆と水深を示すラスタレイヤが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once the new vector map is displayed, you might right click on it in the `Layer Manager` list and change its opacity level to 50%.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T170353Z" creationid="sanak" creationdate="20210302T170353Z">
+        <seg>新しいベクトルマップが表示されたら、`Layer Manager` リストでそれを右クリックし、不透明度レベルを 50% に設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32416,6 +32448,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210227T160650Z" creationid="sanak" creationdate="20210227T160503Z">
         <seg> [*実行*] をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then click on [*Run*].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T170107Z" creationid="sanak" creationdate="20210302T170107Z">
+        <seg>そして [*実行*] をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
