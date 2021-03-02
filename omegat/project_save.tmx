@@ -16518,8 +16518,8 @@
       <tuv lang="en-US">
         <seg>In the Vector menu select :menuselection:`Manage colors --&gt; Color tables`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210302T063126Z" creationid="miurahr" creationdate="20210302T063126Z">
-        <seg>ベクタメニューで、 :menuselection:`Manage colors --&gt; Color tables` を選択してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T223730Z" creationid="miurahr" creationdate="20210302T063126Z">
+        <seg>ベクトルメニューで、 :menuselection:`カラー調整 --&gt; カラーテーブル` を選択してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27587,8 +27587,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select ``basin_areas`` for the input vector map, as "Source value" select ``attr`` instead of ``cat``.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210302T063207Z" creationid="miurahr" creationdate="20210302T063207Z">
-        <seg>入力ベクタマップとして ``basin_areas`` を選択し、 "Source value" として、``cat`` のかわりに、  ``attr`` を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T223814Z" creationid="miurahr" creationdate="20210302T063207Z">
+        <seg>入力ベクトルマップとして ``basin_areas`` を選択し、 "Source value" として、``cat`` のかわりに、``attr`` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32598,8 +32598,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Then, in the "Define" tab choose the ``elev_average`` attribute column for the column containing the numeric range.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210302T063323Z" creationid="miurahr" creationdate="20210302T063323Z">
-        <seg>そして、 "Define" タブで数字レンジを含むカラムの ``elev_average`` 属性カラムを選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T224012Z" creationid="miurahr" creationdate="20210302T063323Z">
+        <seg>そして、 "Define" タブで数値範囲を含む列(Name of column containing numeric data)の ``elev_average`` 属性列を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35431,8 +35431,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Use ``basin_areas`` as the vector polygon map, and select the ``elevation`` raster map to calculate the statistics from; set the the "Column prefix for new attribute columns" to ``elev``, and click [*Run*]; then close the dialog when it is finished.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210302T055407Z" creationid="miurahr" creationdate="20210302T055407Z">
-        <seg>ベクタポリゴンマップとして ``basin_areas`` を使用し、 ``elevation`` ラスタマップを選択して、そこから統計情報を計算します。そして、 "Column prefix for new attribute columns" を ``elev`` に設定し、 [*Run*] をクリックします。完了したらダイアログを閉じます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T223226Z" creationid="miurahr" creationdate="20210302T055407Z">
+        <seg>ベクトルマップ名として ``basin_areas`` を使用し、``elevation`` ラスターマップを選択して、そこから統計情報を計算します。そして、 "新しい属性列の列プリフィックス" を ``elev`` に設定し、 [*実行*] をクリックします。完了したらダイアログを閉じます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38345,8 +38345,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can now re-colorize the areas based on the average elevation values using the ``v.colors`` module.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210302T063107Z" creationid="miurahr" creationdate="20210302T063107Z">
-        <seg>``v.colors`` モジュールを使用して、平均標高値に基づいて領域を再配色できるようになりました。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T223630Z" creationid="miurahr" creationdate="20210302T063107Z">
+        <seg>``v.colors`` モジュールを使用することで、平均標高値に基づいて領域を再配色できるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38401,8 +38401,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can query the values in the `Map Display` window using the fourth icon from the left and after verifying that the vector-areas map is selected in the `Layer List`, clicking on a vector area in the map canvas.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210302T055600Z" creationid="miurahr" creationdate="20210302T055600Z">
-        <seg>左から4番目のアイコンを使用して `Map Display` ウィンドウで値を照会できます。`Layer List` でベクタ領域マップが選択されていることを確認した後、マップキャンバスでベクタ領域をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T223459Z" creationid="miurahr" creationdate="20210302T055600Z">
+        <seg>`Map Display` ウィンドウで、左から4番目のアイコンを使用して値を照会できます。`Layer List` でベクトル領域マップが選択されていることを確認した後、マップキャンバスでベクトル領域をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
