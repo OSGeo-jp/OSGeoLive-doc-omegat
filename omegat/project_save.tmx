@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_4470bbb50" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef7" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5466,6 +5466,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T002821Z" creationid="miurahr" creationdate="20201117T002821Z">
         <seg>その後、緑色の矢印ボタンを押して右向きにします(クエリーを実行)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Again right-click on the table data and this time choose ``Highlight selected features``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T233408Z" creationid="sanak" creationdate="20210302T233408Z">
+        <seg>再度テーブルデータ上で右クリックし、``選択したフィーチャの強調表示`` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12560,6 +12568,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For now we'll just do a *Simple* database query to find watershed basins without a lot of variation in them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T230307Z" creationid="sanak" creationdate="20210302T230307Z">
+        <seg>ここでは、たくさんある中でも *簡単な* データベースクエリを実行して、分水界の水域を検索しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For other methods, follow links from the "See Also" section below.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113307Z" creationid="miurahr" creationdate="20201103T113307Z">
@@ -16400,6 +16416,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T152358Z" creationid="miurahr" creationdate="20201116T150142Z">
         <seg>GeoNodeを使用するには、 `documentation &lt;https://docs.geonode.org/en/master/&gt;`_ が便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In order to start the 3D visualization suite, select the `elevation` map as the raster elevation in the `Layer list` and additionally highlight the entry, then select in the `Map Display` window the "3D view" (at the right end of the toolbar).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T235941Z" creationid="sanak" creationdate="20210302T235941Z">
+        <seg>3D可視化スイートを開始するには、`Layer list` でラスター標高として `elevation` マップを選択し、さらに追加の項目を選択してから、`Map Display` ウィンドウで "3D表示" (ツールバーの右端) を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26633,6 +26657,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click on the table data and choose ``Select all``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T233314Z" creationid="sanak" creationdate="20210302T233314Z">
+        <seg>テーブルデータ上で右クリックし、``全て選択`` を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rivers are now rendered in a new color.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201125T004420Z" creationid="miurahr" creationdate="20201125T004420Z">
@@ -34037,6 +34069,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will open a view of the database table attached to the selected vector map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T230054Z" creationid="sanak" creationdate="20210302T230054Z">
+        <seg>選択したベクトルマップにアタッチされているデータベーステーブルのビューが開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This will open the :ref:`Style Pane &lt;Style_Pane&gt;`.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T080850Z" creationid="miurahr" creationdate="20201116T231700Z">
@@ -36013,6 +36053,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View a 3D visualization</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T234957Z" creationid="sanak" creationdate="20210302T234957Z">
+        <seg>3D 可視化表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>View a map</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135548Z" creationid="miurahr" creationdate="20201116T135548Z">
@@ -37441,6 +37489,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T055325Z" creationid="miurahr" creationdate="20210201T055325Z">
         <seg>ここはどこですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Where it says ``SELECT * FROM basin_areas WHERE`` pick ``elev_stddev`` from the pull down list for the standard deviation statistic, then select ``&lt;`` from the relation list and in the text box to its right enter ``&lt; 50`` and click [*Apply*].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T234347Z" creationid="sanak" creationdate="20210302T230920Z">
+        <seg>``SELECT * FROM basin_areas WHERE`` と表示されている箇所で、プルダウンリストから標準偏差統計``elev_stddev`` を選択し、リレーションリストから ``&lt;`` を選択して、テキストボックスに ``50`` を入力して [*Apply*] をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39159,6 +39215,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You should see e.g. alluvial flood basins and mesas show up in the ``Map Display``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T234631Z" creationid="sanak" creationdate="20210302T234337Z">
+        <seg>``Map Display`` に沖積氾濫水域やメサ(卓上台地)などが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You should see several databases used by some of the projects on the system.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041135Z" creationid="miurahr" creationdate="20201108T041135Z">
@@ -39411,6 +39475,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133352Z" creationid="miurahr" creationdate="20201120T133352Z">
         <seg>GRIB天気予報データをダウンロードするにはインターネット接続が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You'll notice the number of loaded records in the information bar along the bottom of the window has shrunk, and that all of the rows with large values for standard deviation (std.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T232834Z" creationid="sanak" creationdate="20210302T232728Z">
+        <seg>ウィンドウ下部の情報バーに読み込まれているレコード数が少なくなり、標準偏差 (std.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41931,6 +42003,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>グラフィカルなモデリングツールを使用した、機能を連鎖的に再利用可能な解析ルーチンの定義と実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>dev.) are now gone from the displayed table.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T233113Z" creationid="sanak" creationdate="20210302T232736Z">
+        <seg>dev.) として大きな値が含まれている行は、表示されているテーブルから見えなくなります。</seg>
       </tuv>
     </tu>
     <tu>
