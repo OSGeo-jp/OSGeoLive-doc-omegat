@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef7" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_4470bbb50" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11376,6 +11376,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter the master password  ``user``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T053507Z" creationid="miurahr" creationdate="20210302T053507Z">
+        <seg>マスターパスワードは  ``user`` です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter the username ``admin`` and password ``admin`` and select the blue **Sign in** button to sign in as the catalog administrator.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210219T014816Z" creationid="miurahr" creationdate="20201116T133414Z">
@@ -11572,6 +11580,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T041047Z" creationid="miurahr" creationdate="20210215T041047Z">
         <seg>永続処理の例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Executing a SQL query from pgAdmin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T053631Z" creationid="miurahr" creationdate="20210302T053631Z">
+        <seg>pgAdminからのSQLクエリの実行</seg>
       </tuv>
     </tu>
     <tu>
@@ -14104,6 +14120,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Get to know pgAdmin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T053257Z" creationid="miurahr" creationdate="20210302T053257Z">
+        <seg>pgAdminを知る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Get to know pgAdmin III</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T002518Z" creationid="miurahr" creationdate="20201117T002518Z">
@@ -16600,6 +16624,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T063418Z" creationid="miurahr" creationdate="20201117T002607Z">
         <seg>この場合、定義済みの ``local`` サーバに接続します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this case, we are going to connect to the predefined ``localhost`` server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T053528Z" creationid="miurahr" creationdate="20210302T053528Z">
+        <seg>この場合、あらかじめ定義された ``localhost`` サーバに接続します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37775,6 +37807,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can find and launch pgAdmin from the Databases folder, existing on the OSGeoLive Desktop.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T053430Z" creationid="miurahr" creationdate="20210302T053430Z">
+        <seg>pgAdminは、OSGeoLiveのデスクトップにあるDatabasesフォルダから検索して起動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can find more OpenLayers information here:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021511Z" creationid="miurahr" creationdate="20201108T021511Z">
@@ -37991,6 +38031,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can see now that the red X disappeared and a "&gt;" appeared on the left.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T053620Z" creationid="miurahr" creationdate="20210302T053620Z">
+        <seg>赤いXが消え、左側に "&gt;" が表示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can see the **Catalog view** has been updated with an entry for :file:`ne_10m_admin_0_countries.shp`.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T073058Z" creationid="miurahr" creationdate="20201120T142213Z">
@@ -38155,6 +38203,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T063413Z" creationid="miurahr" creationdate="20201117T002526Z">
         <seg>グラフィカルなデータベースクライアント ``pgAdmin III`` を[データベース]メニューから使用して、データベースに対して非空間的に問い合わせや変更を行うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use the graphical database client ``pgAdmin`` from the Databases menu to query and modify your database non-spatially.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T053401Z" creationid="miurahr" creationdate="20210302T053401Z">
+        <seg>「データベース」メニューからグラフィカルデータベースクライアント ``pgAdmin`` を使って、非空間的にデータベースのクエリと変更を行うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44971,6 +45027,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T002702Z" creationid="miurahr" creationdate="20201117T002702Z">
         <seg>pgAdmin IIIは、リレーショナルデータベースへのクエリーを実行する機能を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pgAdmin lets you use SQL to manipulate your data tables.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T053414Z" creationid="miurahr" creationdate="20210302T053414Z">
+        <seg>pgAdminでは、SQLを使用してデータテーブルを操作できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pgAdmin, offers the capability of executing queries to a relational database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T053647Z" creationid="miurahr" creationdate="20210302T053647Z">
+        <seg>pgAdminは、リレーショナルデータベースに対してクエリを実行する機能を提供します。</seg>
       </tuv>
     </tu>
     <tu>
