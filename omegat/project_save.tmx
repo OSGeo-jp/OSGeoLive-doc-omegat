@@ -12488,6 +12488,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, you can inspect the collection that is loaded by default by clicking the "Collections" link and then the "MER_FRS_1P_RGB_reduced" link.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T231737Z" creationid="miurahr" creationdate="20210302T231737Z">
+        <seg>たとえば、デフォルトでロードされているコレクションを検査するには、 "コレクション" リンクをクリックし、 "MER_FRS_1P_RGB_reduced" リンクをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, you can inspect the dataset series that is loaded by default by clicking the "Dataset Series" link and then the "MER_FRS_1P_RGB_reduced" link.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210219T011328Z" creationid="miurahr" creationdate="20201116T124859Z">
@@ -26161,6 +26169,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Read the `EOxServer Basics &lt;https://docs.eoxserver.org/en/latest/users/basics.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T231855Z" creationid="miurahr" creationdate="20210302T231855Z">
+        <seg>`EOxServer の基本 &lt;https://docs.eoxserver.org/en/latest/users/basics.html&gt;`_ を読んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Read the `EOxServer Operators' Guide &lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210126T170059Z" creationid="miurahr" creationdate="20201116T125130Z">
@@ -30065,6 +30081,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Filters tab in this widget enables querying for different spatial and temporal values.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T231246Z" creationid="miurahr" creationdate="20210302T231246Z">
+        <seg>このウィジェットの[フィルタ]タブでは、さまざまな空間値と時間値を照会できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The GRASS GIS software includes more than 400 built-in analysis modules.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T170905Z" creationid="miurahr" creationdate="20201103T011123Z">
@@ -30160,6 +30184,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210219T012826Z" creationid="miurahr" creationdate="20201116T123258Z">
         <seg>レイヤ選択ウィジェットを使用すると、表示/非表示を切り替えたり、レイヤのレンダリングを設定したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Layer Selection widget can be expanded by clicking the cogwheel on the top left and it allows you to enable or disable the visibility and configure the rendering of the layers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T231235Z" creationid="miurahr" creationdate="20210302T231235Z">
+        <seg>[レイヤ選択]ウィジェットを展開するには、左上の歯車をクリックします。このウィジェットでは、レイヤの表示/非表示を切り替えたり、レイヤのレンダリングを設定したりできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31184,6 +31216,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131813Z" creationid="miurahr" creationdate="20201116T131813Z">
         <seg>ダウンロードページには、常に最新で最高のサンプルアプリケーション、ドキュメント、独自のロールアップのためのヒントやトリックが掲載されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The drawn feature is used for querying within the Download Tool.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T231316Z" creationid="miurahr" creationdate="20210302T231316Z">
+        <seg>描画された地物は、ダウンロードツール内のクエリーに使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37117,6 +37157,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a spatial filter is enabled, you can draw a bounding box, polygon or point directly on the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T231256Z" creationid="miurahr" creationdate="20210302T231256Z">
+        <seg>空間フィルタを有効にすると、マップ上に境界ボックス、ポリゴン、または点を直接描画できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When an OGR dataset is read into R in this way we get back an object that behaves in many ways like a data frame.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T142809Z" creationid="miurahr" creationdate="20201123T142809Z">
@@ -38319,6 +38367,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can get more information of available services and metadata on the selected product by hovering on the product in the search results widget and clicking on the icon in the top right.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T231521Z" creationid="miurahr" creationdate="20210302T231521Z">
+        <seg>検索結果ウィジェットの結果上にマウスポインタを置き、右上のアイコンをクリックすると、選択した結果で利用可能なサービスとメタデータの詳細情報を取得できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can get the data in several formats.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210122T025028Z" creationid="miurahr" creationdate="20210122T025028Z">
@@ -38419,6 +38475,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133745Z" creationid="miurahr" creationdate="20201120T133745Z">
         <seg>再生、一時停止、巻き戻しが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can preview the coverages by going back and clicking on the "Coverages" link.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T231813Z" creationid="miurahr" creationdate="20210302T231813Z">
+        <seg>"Coverages" リンクをクリックすると、カバレッジをプレビューできます。</seg>
       </tuv>
     </tu>
     <tu>
