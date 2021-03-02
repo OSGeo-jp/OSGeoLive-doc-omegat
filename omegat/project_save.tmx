@@ -47015,6 +47015,30 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>the `INSPIRE Geoportal &lt;https://inspire-geoportal.ec.europa.eu/&gt;`__ allows to discover, access and download all the datasets made available by Member States under INSPIRE.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T234946Z" creationid="miurahr" creationdate="20210302T234946Z">
+        <seg>`INSPIRE Geoportal &lt;https://inspire-geoportal.ec.europa.eu/&gt;`__ は、INSPIREの元で加盟国が、全てのデータセット発見、アクセス、ダウンロードできるようにしてくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>the `INSPIRE Reference Validator &lt;https://inspire.ec.europa.eu/validator/about/&gt;`__, based on the open source `ETF testing framework &lt;https://etf-validator.net&gt;`__, allows to test that metadata, datasets and services are compliant with INSPIRE requirements;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T234806Z" creationid="miurahr" creationdate="20210302T234806Z">
+        <seg>オープンソースの `ETF testing framework &lt;https://etf-validator.net&gt;`__ をベースとして、 `INSPIRE Reference Validator &lt;https://inspire.ec.europa.eu/validator/about/&gt;`__  は、メタデータ、データセット、サービスがINSPIRE要請に適合しているか、テストできるようになります;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>the `INSPIRE Registry &lt;https://inspire.ec.europa.eu/registry&gt;`__, based on the open source :doc:`Re3gistry &lt;re3gistry_overview&gt;` software, manages the unique identifiers and descriptions of INSPIRE resources such as themes, code lists and application schemas;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T234455Z" creationid="miurahr" creationdate="20210302T234455Z">
+        <seg>オープンソースの :doc:`Re3gistry &lt;re3gistry_overview&gt;` をベースとして、 `INSPIRE Registry &lt;https://inspire.ec.europa.eu/registry&gt;`__   は、テーマ、コードリスト、アプリケーションスキーマなどの INSPIRE リソースの一意の識別子と記述を管理します;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>the `Postman` extension for browsers</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T032922Z" creationid="miurahr" creationdate="20210215T032913Z">
