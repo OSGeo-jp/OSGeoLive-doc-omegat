@@ -10608,6 +10608,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Don't let this give you the idea that GRASS GIS is just for raster maps -- the vector engine and modules are every bit as full-featured as the raster ones.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T164435Z" creationid="sanak" creationdate="20210302T164435Z">
+        <seg>これは、GRASS GIS がラスターマップのためだけのものであるということではありません。-- ベクトルエンジンとモジュールも、ラスターと同じくらいの機能を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Don't worry if the layer preview doesn't look very good as it is using the default style.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210219T011721Z" creationid="miurahr" creationdate="20201116T231106Z">
@@ -13324,6 +13332,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T170652Z" creationid="miurahr" creationdate="20201103T011118Z">
         <seg>GRASS GIS は、多くの政府機関や環境コンサルティング会社だけでなく、学術的および商業的な環境で世界中のあらゆる所で使用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GRASS GIS maintains a fully topological vector engine which allows all sorts of very powerful analyses.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T164716Z" creationid="sanak" creationdate="20210302T164716Z">
+        <seg>GRASS GIS は、あらゆる種類の強力な解析を可能とする、完全なトポロジーベクトルエンジンを持っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30700,6 +30716,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The above tasks have only covered a few raster modules.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T163927Z" creationid="sanak" creationdate="20210302T163927Z">
+        <seg>上記の作業では、いくつかのラスターモジュールについてのみ説明しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The advantages of using a virtual machine are the same as those outlined at :doc:`virtualization_quickstart`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210206T164254Z" creationid="miurahr" creationdate="20210206T164254Z">
@@ -31272,6 +31296,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T125301Z" creationid="miurahr" creationdate="20210208T125301Z">
         <seg>次のスクリプトは、測地線の方位角と距離を計算します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The fonts will now be much prettier.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T163800Z" creationid="sanak" creationdate="20210302T163800Z">
+        <seg>これでフォントは大分ましになったはずです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37449,6 +37481,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T141752Z" creationid="miurahr" creationdate="20201116T141752Z">
         <seg>Web Clientの操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Work with vector modules</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T163847Z" creationid="sanak" creationdate="20210302T163847Z">
+        <seg>ベクトルモジュールの操作</seg>
       </tuv>
     </tu>
     <tu>
