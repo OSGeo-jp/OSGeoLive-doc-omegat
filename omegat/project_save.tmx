@@ -5414,6 +5414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Afterwards, you should press the arrow button, pointing to the right (Execute).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T053810Z" creationid="miurahr" creationdate="20210302T053810Z">
+        <seg>その後、右向きの矢印(実行)ボタンを押す必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Afterwards, you should press the green arrow button, pointing to the right (execute query).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T002821Z" creationid="miurahr" creationdate="20201117T002821Z">
@@ -34265,6 +34273,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>経路のジオメトリを出力するために、結果を道路のジオメトリにリンクさせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To perform a query on the database, you have to press the ``Query Tool`` button from the main toolbar (the one at the left with the database symbol).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T053715Z" creationid="miurahr" creationdate="20210302T053715Z">
+        <seg>データベースに対してクエリを実行するには、メインツールバーの ``Query Tool`` ボタン(左側にデータベースシンボルがある)を押す必要があります。</seg>
       </tuv>
     </tu>
     <tu>
