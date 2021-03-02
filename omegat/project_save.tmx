@@ -6368,8 +6368,8 @@
       <tuv lang="en-US">
         <seg>As we did earlier with a raster map we will change the color table of the new watershed basins vector map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210302T170505Z" creationid="sanak" creationdate="20210302T170505Z">
-        <seg>先ほどラスターマップで行ったよういん、新しい分水界水域ベクトルマップのカラーテーブルを変更します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T221554Z" creationid="sanak" creationdate="20210302T170505Z">
+        <seg>先ほどラスターマップで行ったように、新しい分水界水域ベクトルマップのカラーテーブルを変更します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16454,8 +16454,8 @@
       <tuv lang="en-US">
         <seg>In the 'Define' tab click on the pull-down list for the "Name of color table" option, and pick for example "bcyr" (blue-cyan-yellow-red) from the list.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210302T170653Z" creationid="sanak" creationdate="20210302T170653Z">
-        <seg>In the 'Define' tab click on the pull-down list for the "Name of color table" option, and pick for example "bcyr" (blue-cyan-yellow-red) from the list.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T222033Z" creationid="sanak" creationdate="20210302T170653Z">
+        <seg>'Define' タブで "Name of color table" オプションからプルダウンリストをクリックし、リストから "bcyr" (blue(青)-cyan(シアン)-yellow(黃)-red(赤)) などを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37431,8 +37431,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>With the ``basins_areas`` selected in the layer list, right click on the this vector map layer name and choose "Set color table".</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210302T170508Z" creationid="sanak" creationdate="20210302T170508Z">
-        <seg>With the ``basins_areas`` selected in the layer list, right click on the this vector map layer name and choose "Set color table".</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T221742Z" creationid="sanak" creationdate="20210302T170508Z">
+        <seg>レイヤリストで ``basins_areas`` を選択した状態で、このベクトルマップレイヤ名を右クリックし、 "カラーテーブルのセット" を選択します。</seg>
       </tuv>
     </tu>
     <tu>
