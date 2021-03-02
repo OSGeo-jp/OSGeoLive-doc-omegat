@@ -16315,8 +16315,8 @@
       <tuv lang="en-US">
         <seg>In addition, `a dedicated page on INSPIRE &lt;https://wiki.osgeo.org/wiki/INSPIRE&gt;`__ under the OSGeo wiki is maintained that gives an overview of the legal and technical aspects of INSPIRE together with selected use cases and an overview of OSGeo software projects that implementers may use.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210201T050518Z" creationid="miurahr" creationdate="20210201T050518Z">
-        <seg>In addition, `a dedicated page on INSPIRE &lt;https://wiki.osgeo.org/wiki/INSPIRE&gt;`__ under the OSGeo wiki is maintained that gives an overview of the legal and technical aspects of INSPIRE together with selected use cases and an overview of OSGeo software projects that implementers may use.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T233916Z" creationid="miurahr" creationdate="20210201T050518Z">
+        <seg>さらに、OSGeo wikiの下に `専用ページ `INSPIRE &lt;https://wiki.osgeo.org/wiki/INSPIRE&gt;`__ が維持されており、INSPIREの法的および技術的側面の概要と選ばれたユースケースおよび実装者が使用できるOSGeoソフトウェアプロジェクトの概要を提供している。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30688,6 +30688,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T045553Z" creationid="miurahr" creationdate="20210201T045553Z">
         <seg>`INSPIRE指令 &lt;https://inspire.ec.europa.eu&gt;`__  は、環境政策を目的とした欧州連合の空間データインフラ(SDI)の構築を目的としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `Joint Research Centre (JRC) of the European Commission &lt;https://ec.europa.eu/jrc/en&gt;`__ develops and maintains a number of central software components, which help Member States in the INSPIRE implementation process:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210302T234105Z" creationid="miurahr" creationdate="20210302T234105Z">
+        <seg>`欧州委員会の合同調査センター(JRC: Joint Research Centre) &lt;https://ec.europa.eu/jrc/en&gt;`__ は、いくつかの中央ソフトウエアコンポーネントを開発して維持しています。これらのコンポーネントは、INSPIRE導入プロセスにおいて加盟国を支援するものです:</seg>
       </tuv>
     </tu>
     <tu>
