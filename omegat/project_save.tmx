@@ -10762,8 +10762,8 @@
       <tuv lang="en-US">
         <seg>Drag a map layer (such as the earlier created shaded relief map) to lower down in the layer list if you wish for it to be drawn behind the watershed basins map layer, and make sure to tick its visibility box to view it as a backdrop.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210302T155800Z" creationid="sanak" creationdate="20210228T073022Z">
-        <seg>(先ほど作成した陰影図などの)マップレイヤを分水界水域マップレイヤの背後に描画する場合は、 to lower down in the layer list if you wish for it to be drawn behind the watershed basins map layer, and make sure to tick its visibility box to view it as a backdrop.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T161229Z" creationid="sanak" creationdate="20210228T073022Z">
+        <seg>(先ほど作成した陰影図などの)マップレイヤを分水界水域マップレイヤの背後に描画する場合は、レイヤリスト内で下にドラッグし、背景として表示するために、表示チェックボックスにチェックが付いていることを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16472,6 +16472,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133158Z" creationid="miurahr" creationdate="20201116T133158Z">
         <seg>デスクトップのWeb Servicesフォルダで、**GeoNetworkを開始**をダブルクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the `GIS Layer Manager` window click on the `Add various overlays` button and `Add grid layer`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210302T161550Z" creationid="sanak" creationdate="20210302T161550Z">
+        <seg>`GIS Layer Manager` ウィンドウで、`Add various overlays` ボタンをクリックし、`グリッドレイヤー追加` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
