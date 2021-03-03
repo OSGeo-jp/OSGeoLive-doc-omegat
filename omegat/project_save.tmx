@@ -16851,8 +16851,8 @@
       <tuv lang="en-US">
         <seg>In addition, `a dedicated page on INSPIRE &lt;https://wiki.osgeo.org/wiki/INSPIRE&gt;`__ under the OSGeo wiki is maintained that gives an overview of the legal and technical aspects of INSPIRE together with selected use cases and an overview of OSGeo software projects that implementers may use.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210302T233916Z" creationid="miurahr" creationdate="20210201T050518Z">
-        <seg>さらに、OSGeo wikiの下に `専用ページ `INSPIRE &lt;https://wiki.osgeo.org/wiki/INSPIRE&gt;`__ が維持されており、INSPIREの法的および技術的側面の概要と選ばれたユースケースおよび実装者が使用できるOSGeoソフトウェアプロジェクトの概要を提供している。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T132922Z" creationid="miurahr" creationdate="20210201T050518Z">
+        <seg>さらに、OSGeo wikiの下に `INSPIREの専用ページ &lt;https://wiki.osgeo.org/wiki/INSPIRE&gt;`__ が維持されており、INSPIREの法的および技術的側面の概要と選ばれたユースケースおよび実装者が使用できるOSGeoソフトウェアプロジェクトの概要を提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31163,8 +31163,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The Directive (see the `full text &lt;https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32007L0002&amp;from=EN&gt;`__) came into force on 15 May 2007 and is implemented in various stages, with full implementation required by 2021.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210201T045703Z" creationid="miurahr" creationdate="20210201T045606Z">
-        <seg>この指令 ( `full text &lt;https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32007L0002&amp;from=EN&gt;`__ 参照)は、 2007年5月15日に発効し、さまざまな段階で実装されています。2021年までには完全な実装が必要です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T132658Z" creationid="miurahr" creationdate="20210201T045606Z">
+        <seg>この指令 (`全文 &lt;https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32007L0002&amp;from=EN&gt;`__ 参照)は、 2007年5月15日に発効し、さまざまな段階で実装されています。2021年までには完全な実装が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44001,8 +44001,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>expose them through network services: discovery services (to discover the data), view services (to access the data) and download services (to download the data);</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>ネットワークサービスを通じて公開する: デイスカバリーサービス(データを発見するため)、ビューサービス(データにアクセスするため)、ダウンロードサービス(データをダウンロードするため)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T132821Z">
+        <seg>ネットワークサービスを通じて公開します: デイスカバリーサービス(データを発見するため)、ビューサービス(データにアクセスするため)、ダウンロードサービス(データをダウンロードするため)。</seg>
       </tuv>
     </tu>
     <tu>
