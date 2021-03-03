@@ -21350,8 +21350,8 @@
       <tuv lang="en-US">
         <seg>Next select the "Data" tab and set the fine resolution to "1" (the lower the value, the finer the resolution), then move the positioning puck and height slider on the "View" tab around to get different views.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210303T000718Z" creationid="sanak" creationdate="20210303T000718Z">
-        <seg>次に "データ" タブを選択し、 解像度に "1" を設定し(値が低いほど解像度は高くなります)、 "ビュー" タブで</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T001330Z" creationid="sanak" creationdate="20210303T000718Z">
+        <seg>次に "データ" タブを選択し、 解像度に "1" を設定し(値が低いほど解像度は高くなります)、 "ビュー" タブで位置決めコントロールと高さスライダを動かして、視点を変更します。</seg>
       </tuv>
     </tu>
     <tu>
