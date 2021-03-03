@@ -8562,8 +8562,8 @@
       <tuv lang="en-US">
         <seg>Click on it, and then click “Open”.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T074003Z" creationid="miurahr" creationdate="20201103T072355Z">
-        <seg>ファイルをクリックして、もう一度"Open"をクリックしてください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T170500Z" creationid="miurahr" creationdate="20201103T072355Z">
+        <seg>ファイルをクリックして、もう一度 "Open" をクリックしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22630,8 +22630,8 @@
       <tuv lang="en-US">
         <seg>Now let’s open the sample map file in JOSM. Click the “Open” button in the upper left.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T074131Z" creationid="miurahr" creationdate="20201103T072346Z">
-        <seg>次に、JOSMでサンプルの地図を開きます。JOSMの左上に表示されている"ファイルを開く"ボタンを押してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T170405Z" creationid="miurahr" creationdate="20201103T072346Z">
+        <seg>次に、JOSMでサンプルの地図を開きます。JOSMの左上に表示されている "ファイルを開く" ボタンを押してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27603,8 +27603,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Right click on the MunicipalHallsView table and select "Show Columns"</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201121T134043Z" creationid="miurahr" creationdate="20201121T134043Z">
-        <seg>MunicipalHallsViewテーブルを右クリックして、"Show Columns"を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T170634Z" creationid="miurahr" creationdate="20201121T134043Z">
+        <seg>MunicipalHallsViewテーブルを右クリックして、 "Show Columns" を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29059,8 +29059,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select user="user", password="user"</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>user="user", password="user" でログインします</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T170127Z">
+        <seg>user= "user" , password= "user" でログインします</seg>
       </tuv>
     </tu>
     <tu>
