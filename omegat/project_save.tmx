@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef7" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_4470bbb50" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5082,6 +5082,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053503Z" creationid="miurahr" creationdate="20201103T053503Z">
         <seg>sourceタグの追加 |image40|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add the following XML block after the existing ``&lt;source name="lake_source" type="wms"&gt;...&lt;/source&gt;`` block used for the lakes to ``mapcache-quickstart.xml``:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T012633Z" creationid="miurahr" creationdate="20210303T012633Z">
+        <seg>既存の湖として使用される ``&lt;source name="lake_source" type="wms"&gt;...&lt;/source&gt;`` XMLブロックのあとのブロックに、 ``mapcache-quickstart.xml`` を追加します：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12240,6 +12248,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>First let's open the MapCache configuration file in FeatherPad - a text editor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T012239Z" creationid="miurahr" creationdate="20210303T012239Z">
+        <seg>まず、FeatherPad(テキストエディタ)でMapCache設定ファイルを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>First lets create a map tile layer using OpenStreetMap, and some WMS layers that are available from the MapServer Itasca demo on OSGeoLive.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054043Z" creationid="miurahr" creationdate="20201103T054043Z">
@@ -12260,6 +12276,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T151050Z" creationid="miurahr" creationdate="20201103T054216Z">
         <seg>まず、 ``GeoExt.component.Map`` を作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First we add a ``&lt;source&gt;`` block - this is the configuration to retrieve data from the WMS server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T012428Z" creationid="miurahr" creationdate="20210303T012428Z">
+        <seg>まず ``&lt;source&gt;`` ブロックを追加します。これはWMSサーバからデータを取得するための設定です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12436,6 +12460,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002314Z" creationid="miurahr" creationdate="20201103T002314Z">
         <seg>uDigは、オープン・ソース・コンポーネントを使用して空間アプリケーションを構築するための共通のJavaプラットフォームを開発者に提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For documentation on all configuration file elements see the `Configuration Documentation &lt;https://mapserver.org/mapcache/config.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T012902Z" creationid="miurahr" creationdate="20210303T012902Z">
+        <seg>For documentation on all configuration file elements see the `Configuration Documentation &lt;https://mapserver.org/mapcache/config.html&gt;`_.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16928,6 +16960,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235638Z" creationid="miurahr" creationdate="20201116T235638Z">
         <seg>このクイックGMTチュートリアルでは、デジタル地形モデル(DTM)を使用して、シェーディングされた防災地図を生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this quick start we will set up tile caching for an additional WMS layer and display the tiles in a simple HTML page containing an OpenLayers map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T012220Z" creationid="miurahr" creationdate="20210303T012220Z">
+        <seg>このクイックスタートでは、追加のWMSレイヤのタイルキャッシュを設定し、OpenLayersマップを含む単純なHTMLページにタイルを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22692,6 +22732,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OSGeoLive includes an example configuration file at ``/usr/local/share/mapcache/mapcache-quickstart.xml``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T012111Z" creationid="miurahr" creationdate="20210303T012111Z">
+        <seg>OSGeoLiveには、  ``/usr/local/share/mapcache/mapcache-quickstart.xml`` にサンプル設定ファイルがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OSGeoLive is an `OSGeo Foundation &lt;https://www.osgeo.org/&gt;`_ project.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T125329Z" creationid="miurahr" creationdate="20201102T053102Z">
@@ -23384,6 +23432,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T060044Z" creationid="miurahr" creationdate="20201103T060044Z">
         <seg>LiDAR システムは "点群" データのように、センサからの距離等を反射波を用いて計測した結果を概念化したデータを出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One of the layer names listed in the WMS Capabilities document is ``dlgstln2`` - streams for Itasca county.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T012403Z" creationid="miurahr" creationdate="20210303T012318Z">
+        <seg>WMS Capabilitiesドキュメントに記載されているレイヤ名の1つは、 ``dlgstln2`` イタスカ郡のストリームです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30540,6 +30596,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The URL to the WMS server is in the ``&lt;http&gt;`` block.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T012848Z" creationid="miurahr" creationdate="20210303T012848Z">
+        <seg>WMSサーバのURLは、  ``&lt;http&gt;`` ブロックに入ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The US population rendered by the :doc:`GeoServer &lt;../overview/geoserver_overview&gt;` WMS.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T040127Z" creationid="miurahr" creationdate="20210214T232216Z">
@@ -31320,6 +31384,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T143320Z" creationid="miurahr" creationdate="20210214T143320Z">
         <seg>後で使用されるカバレッジの例は、次の6MBイメージです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The example uses the OSGeoLive demo MapServer application of Itasca County in the United States as its source.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T012207Z" creationid="miurahr" creationdate="20210303T012207Z">
+        <seg>この例では、ソースとして米国のイタスカ郡のデータを使用し、OSGeoLiveデモのMapServerアプリケーションを使用しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36573,6 +36645,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We can see which layers are available in our source WMS server by opening the following link: http://localhost/itasca/?service=wms&amp;request=getcapabilities MapCache is configured to forward on any requests it can't handle, such as GetCapabilities, to MapServer with the rule shown below:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T012339Z" creationid="miurahr" creationdate="20210303T012313Z">
+        <seg>リンク  http://localhost/itasca/?service=wms&amp;request=getcapabilities を開くと、ソースWMSサーバで使用可能なレイヤを確認できます。MapCacheは、GetCapabilitiesなど、処理できない要求をMapServerに転送するように設定されています。このとき、次に示す規則が適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We can use the ``admin`` field to subset the world data and just get the UK:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201125T001144Z" creationid="miurahr" creationdate="20201123T142825Z">
@@ -36685,6 +36765,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We use the ``&lt;params&gt;`` block to pass the WMS layer name, and the image format back to the WMS server, along with the MapServer specific ``&lt;map&gt;`` parameter.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T012823Z" creationid="miurahr" creationdate="20210303T012823Z">
+        <seg>MapServer 特有の ``&lt;map&gt;`` パラメータに加え、 ``&lt;params&gt;`` ブロックをつかって、WMSレイヤ名と画像フォーマットをWMSサーバに送信します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We use two add-on packages to get the spatial functionality:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T142755Z" creationid="miurahr" creationdate="20201123T142755Z">
@@ -36721,6 +36809,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125500Z" creationid="miurahr" creationdate="20201116T125500Z">
         <seg>データのコピーを操作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will add this as a new tileset to the MapCache service.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T012411Z" creationid="miurahr" creationdate="20210303T012411Z">
+        <seg>これを新しいタイルセットとしてMapCacheサービスに追加します。</seg>
       </tuv>
     </tu>
     <tu>
