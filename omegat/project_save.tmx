@@ -32078,8 +32078,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The alias is the URL to use on the server, e.g. http://localhost/mapcache and http://localhost/itasca</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T014513Z" creationid="miurahr" creationdate="20210303T013652Z">
-        <seg>Aliasはサーバ上で使用するURLです。例 http://localhost/mapcache と http://localhost/itasca</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T150630Z" creationid="miurahr" creationdate="20210303T013652Z">
+        <seg>エイリアスはサーバ上で使用するURLです。例 http://localhost/mapcache と http://localhost/itasca</seg>
       </tuv>
     </tu>
     <tu>
@@ -35063,8 +35063,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This process is known as *seeding*, and the MapCache command line application is ``mapcache_seed``.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T013359Z" creationid="miurahr" creationdate="20210303T013359Z">
-        <seg>この処理は、 *シーティング* として知られており、 MapCache コマンドラインアプリケーションは ``mapcache_seed`` です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T150645Z" creationid="miurahr" creationdate="20210303T013359Z">
+        <seg>この処理は、 *シーディング* として知られており、 MapCache コマンドラインアプリケーションは ``mapcache_seed`` です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36071,8 +36071,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To make sure the tiles created by the seeder application are accessible by the web server account we add ``sudo -u www-data`` before running the ``mapcache_seed`` application.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T013441Z" creationid="miurahr" creationdate="20210303T013441Z">
-        <seg>シーダアプリケーションによって作成されたタイルがウェブサーバアカウントからアクセスできるようにするために、 ``mapcache_seed`` アプリケーションを実行する前に ``sudo-u www-data`` を追加します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T150734Z" creationid="miurahr" creationdate="20210303T013441Z">
+        <seg>シーダーアプリケーションによって作成されたタイルがウェブサーバアカウントからアクセスできるようにするために、 ``mapcache_seed`` アプリケーションを実行する前に ``sudo-u www-data`` を追加します。</seg>
       </tuv>
     </tu>
     <tu>
