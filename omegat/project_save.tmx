@@ -32862,8 +32862,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The istSOS “demo” instance has inherited all the configuration options from the default configuration.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T025118Z" creationid="miurahr" creationdate="20201122T025118Z">
-        <seg>istSOSの"demo"インスタンスは、デフォルト設定からすべての設定オプションを継承しています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T144209Z" creationid="miurahr" creationdate="20201122T025118Z">
+        <seg>istSOSの "demo" インスタンスは、デフォルト設定からすべての設定オプションを継承しています。</seg>
       </tuv>
     </tu>
     <tu>
