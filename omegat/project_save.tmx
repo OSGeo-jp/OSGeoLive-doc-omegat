@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_4470bbb50" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef7" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -35753,6 +35753,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210302T160027Z" creationid="sanak" creationdate="20210227T072905Z">
         <seg>これを行うには、メインの `GIS Layer Manager` ウィンドウのレイヤリストに読み込まれているかを確認してから、名前を右クリックして、 "マップから計算領域をセット" を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To drape maps, satellite or aerial imagery over the top of the DEM, in the "Data" tab select as name for the **Surface Attributes** map the overlay image "`landuse`" in the PERMANENT mapset is a good choice.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T124105Z" creationid="sanak" creationdate="20210303T124105Z">
+        <seg>DEMの上に衛星画像や航空写真を重ね合わせるには、 "データ" タブで **曲面属性** マップのオーバーレイイメージとして PERMANNENT マップセットの "`landuse`" を選択します。</seg>
       </tuv>
     </tu>
     <tu>
