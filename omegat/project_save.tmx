@@ -4808,8 +4808,8 @@
       <tuv lang="en-US">
         <seg>Access XML documents, stored BLOB compressed binary objects, including syntactic "well formed" and XSF schema validation constrained checks.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T013815Z" creationid="miurahr" creationdate="20201103T013815Z">
-        <seg>XML ドキュメントやストアド BLOB 圧縮バイナリオブジェクトへの、"well formed" 構文、及び XSF スキーマ妥当性検証チェック付きアクセス。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T164918Z" creationid="miurahr" creationdate="20201103T013815Z">
+        <seg>XML ドキュメントやストアド BLOB 圧縮バイナリオブジェクトへの、 "well formed" 構文、及び XSF スキーマ妥当性検証チェック付きアクセス。</seg>
       </tuv>
     </tu>
     <tu>
