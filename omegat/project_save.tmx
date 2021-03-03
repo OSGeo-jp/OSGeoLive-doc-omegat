@@ -3176,8 +3176,8 @@
       <tuv lang="en-US">
         <seg>*The contents of OSGeoLive are provided by the copyright holders and contributors "as is" and any express or implied warranties, including, but not limited to, the implied warranties of the merchantability and fitness for a particular purpose are disclaimed.</seg>
       </tuv>
-      <tuv lang="ja" changeid="smellman" changedate="20201101T111258Z" creationid="smellman" creationdate="20201101T111258Z">
-        <seg>*OSGeoLiveのコンテンツは、著作権保持者および貢献者によって"現状のまま"提供され、商品性および特定目的への適合性の黙示的な保証を含む(ただし、これらに限定されない)、明示的または暗示的ないかなる保証も拒否されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T164741Z" creationid="smellman" creationdate="20201101T111258Z">
+        <seg>*OSGeoLiveのコンテンツは、著作権保持者および貢献者によって "現状のまま" 提供され、商品性および特定目的への適合性の黙示的な保証を含む(ただし、これらに限定されない)、明示的または暗示的ないかなる保証も拒否されます。</seg>
       </tuv>
     </tu>
     <tu>
