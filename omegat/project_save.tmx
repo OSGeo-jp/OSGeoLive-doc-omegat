@@ -24318,8 +24318,8 @@
       <tuv lang="en-US">
         <seg>Open FeatherPad from the command line with elevated permissions, so you can save the file, using System Tools &gt; QTerminal and then running run the command below:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T053920Z" creationid="miurahr" creationdate="20201103T053920Z">
-        <seg>管理者特権でコマンドラインからFeatherPadを開き、[システムツール]&gt;[QTerminal]を使用してファイルを保存し、次のコマンドを実行して実行できるようにします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T144041Z" creationid="miurahr" creationdate="20201103T053920Z">
+        <seg>管理者特権でコマンドラインからFeatherPadを開くことで、ファイルを保存することができるようになります。[システムツール] &gt; [QTerminal]を使用してファイルを保存し、次のコマンドを実行します。</seg>
       </tuv>
     </tu>
     <tu>
