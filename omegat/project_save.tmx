@@ -12912,6 +12912,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For a quick introduction on how to use the jupyter-notebook interface, from the start page, check the notebook: "Introduction to jupyter notebook"</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T231052Z" creationid="miurahr" creationdate="20210303T231052Z">
+        <seg>jupiterノートブックのインターフェイスの使用方法の簡単な紹介については、 "Introduction to jupiter notebook" を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For additional information on the distribution of each program review their license as indicated on the page for each program.</seg>
       </tuv>
       <tuv lang="ja">
@@ -13084,6 +13092,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T080830Z" creationid="miurahr" creationdate="20201116T231606Z">
         <seg>|UG| の使用方法に関するその他の詳細については、 :doc:`uDigクイックスタート &lt;../quickstart/udig_quickstart&gt;` を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information about the jupyter notebook, please refer to the `jupyter official documentation`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T231020Z" creationid="miurahr" creationdate="20210303T231020Z">
+        <seg>Jupyterノートブックについての詳細は  `jupyter official documentation`_ を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21760,6 +21776,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210126T170047Z" creationid="miurahr" creationdate="20201116T124738Z">
         <seg>詳細については、 `オペレーターズ・ガイド &lt;https://docs.eoxserver.org/en/latest/users/operators.html&gt;`_ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More notebook examples are available from the notebook root directory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T231025Z" creationid="miurahr" creationdate="20210303T231025Z">
+        <seg>ノートブックの例は、ノートブックのルートディレクトリから入手できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36981,6 +37005,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try to add or replace new keywords like we did in ``In [8]``</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230802Z" creationid="miurahr" creationdate="20210303T230738Z">
+        <seg>あたらしいキーワードを ``In [8]`` で変更してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Try to do road routing using :doc:`../overview/pgrouting_overview`.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210218T225610Z" creationid="miurahr" creationdate="20201221T152143Z">
@@ -43131,6 +43163,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>そして最終的な画像が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>and re run ``In [9] [10] [11]`` you will see the newly created dictionary is now used in the drop down menu to select the new location and zoom-to withing the Cesium globe.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230949Z" creationid="miurahr" creationdate="20210303T230739Z">
+        <seg>そして、 ``In [9] [10] [11]`` を実行します。新規に作られた dictionary が、今度はドロップダウンメニューで、新規ロケーションと Cesiumでズーム表示を選択できるようになっています。</seg>
       </tuv>
     </tu>
     <tu>
