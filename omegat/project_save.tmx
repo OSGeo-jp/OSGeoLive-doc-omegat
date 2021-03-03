@@ -30,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(2) The top-left cell contains a list of vector or raster layers being used in the view (i.e. Table-of-Contents).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040928Z" creationid="miurahr" creationdate="20210303T040849Z">
+        <seg>(2)左上のセルには、ビューで使用されているベクタレイヤまたはラスタレイヤのリスト(目次など)が含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(3) The bottom-left cell displays the extent of the main view over a selected vector file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040847Z" creationid="miurahr" creationdate="20210303T040847Z">
+        <seg>(3) 左下のセルには、選択したベクタファイルのメインビューの範囲が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(4) The right cell is the main display area where raster and vector data is rendered.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020940Z" creationid="miurahr" creationdate="20201103T020940Z">
@@ -7472,8 +7488,8 @@
       <tuv lang="en-US">
         <seg>By default gvSIG opens with an empty project file with the 'View' document type selected.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T035700Z" creationid="miurahr" creationdate="20210303T035700Z">
-        <seg>By default gvSIG opens with an empty project file with the 'View' document type selected.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040610Z" creationid="miurahr" creationdate="20210303T035700Z">
+        <seg>デフォルトでは、gvSIGは 'View' ドキュメントタイプが選択された空のプロジェクトファイルで開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8626,16 +8642,16 @@
       <tuv lang="en-US">
         <seg>Click on the :guilabel:`New Project` button or go to :menuselection:`File --&gt; New Project`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T040013Z" creationid="miurahr" creationdate="20210303T040013Z">
-        <seg>Click on the :guilabel:`New Project` button or go to :menuselection:`File --&gt; New Project`.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040700Z" creationid="miurahr" creationdate="20210303T040013Z">
+        <seg>:guilabel:`New Project` ボタンをクリックして、 :menuselection:`File --&gt; New Project` を選択してください。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Click on the :guilabel:`New` button to create a view.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T040018Z" creationid="miurahr" creationdate="20210303T040018Z">
-        <seg>Click on the :guilabel:`New` button to create a view.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040805Z" creationid="miurahr" creationdate="20210303T040018Z">
+        <seg>:guilabel:`New` ボタンをクリックして、ビューを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10418,8 +10434,8 @@
       <tuv lang="en-US">
         <seg>Define the projection of your view</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T040022Z" creationid="miurahr" creationdate="20210303T040022Z">
-        <seg>Define the projection of your view</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040542Z" creationid="miurahr" creationdate="20210303T040022Z">
+        <seg>ビューの投影を定義する</seg>
       </tuv>
     </tu>
     <tu>
@@ -11778,8 +11794,8 @@
       <tuv lang="en-US">
         <seg>Enter the EPSG code for the Coordinate Reference System.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T040027Z" creationid="miurahr" creationdate="20210303T040027Z">
-        <seg>Enter the EPSG code for the Coordinate Reference System.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040421Z" creationid="miurahr" creationdate="20210303T040027Z">
+        <seg>座標参照システムのEPSGコードを入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12946,8 +12962,8 @@
       <tuv lang="en-US">
         <seg>For the :guilabel:`Current projection`, click on the :guilabel:`...` button.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T040024Z" creationid="miurahr" creationdate="20210303T040024Z">
-        <seg>For the :guilabel:`Current projection`, click on the :guilabel:`...` button.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040523Z" creationid="miurahr" creationdate="20210303T040024Z">
+        <seg>:guilabel:`Current projection` では、 :guilabel:`...`  ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12980,6 +12996,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210117T123919Z" creationid="miurahr" creationdate="20201117T001548Z">
         <seg>このような場合は、クエリ `reverse_cost` に列を追加する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For this example we are using EPSG=4326, which is the WGS84 2D Geographic Projection.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T041009Z" creationid="miurahr" creationdate="20210303T040824Z">
+        <seg>この例では、WGS84 2D 地理投影の EPSG=4326 を使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15658,8 +15682,8 @@
       <tuv lang="en-US">
         <seg>However, on OSGeoLive, gvSIG has been configured to start with a default project.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T040009Z" creationid="miurahr" creationdate="20210303T040009Z">
-        <seg>However, on OSGeoLive, gvSIG has been configured to start with a default project.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040640Z" creationid="miurahr" creationdate="20210303T040009Z">
+        <seg>しかし、OSGeoLiveでは、 gvSIG  は、デフォルトのプロジェクトで開始するように設定されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18726,8 +18750,8 @@
       <tuv lang="en-US">
         <seg>It will be opened automatically.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T040021Z" creationid="miurahr" creationdate="20210303T040021Z">
-        <seg>It will be opened automatically.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040809Z" creationid="miurahr" creationdate="20210303T040021Z">
+        <seg>これは、自動的に開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28473,6 +28497,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select :guilabel:`OK` to return to the **View Properties** dialog.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T041131Z" creationid="miurahr" creationdate="20210303T041131Z">
+        <seg>:guilabel:`OK` を選択し、 **View Properties** ダイアログに戻ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select :menuselection:`File --&gt; Download GRIB` and select the features you want to download.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T071722Z" creationid="miurahr" creationdate="20201120T133510Z">
@@ -28531,8 +28563,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Select :menuselection:`View --&gt; Properties`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T040023Z" creationid="miurahr" creationdate="20210303T040023Z">
-        <seg>Select :menuselection:`View --&gt; Properties`.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040534Z" creationid="miurahr" creationdate="20210303T040023Z">
+        <seg>:menuselection:`View --&gt; Properties`を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33508,6 +33540,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The view window consists of three zones.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040900Z" creationid="miurahr" creationdate="20210303T040900Z">
+        <seg>ビューウィンドウは3つのゾーンで構成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The virtual machine image format for Hyper-V differs from the VirtualBox download.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210206T165219Z" creationid="miurahr" creationdate="20210206T165219Z">
@@ -33616,6 +33656,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210302T170107Z" creationid="sanak" creationdate="20210302T170107Z">
         <seg>そして [*実行*] をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then click on the :guilabel:`Search` button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T041020Z" creationid="miurahr" creationdate="20210303T041020Z">
+        <seg>:guilabel:`Search` ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35133,6 +35181,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will list the selected CRS in the table below the search input field.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T041107Z" creationid="miurahr" creationdate="20210303T041107Z">
+        <seg>検索インプット欄の下に選択したCRSが一覧表で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This will open a QGIS project with a number of Natural Earth datasets, as shown below.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T120301Z" creationid="miurahr" creationdate="20201103T120301Z">
@@ -35167,8 +35223,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This will open the **New CRS** dialog.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T040024Z" creationid="miurahr" creationdate="20210303T040024Z">
-        <seg>This will open the **New CRS** dialog.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040504Z" creationid="miurahr" creationdate="20210303T040024Z">
+        <seg>**New CRS** ダイアログが開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37095,8 +37151,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Using the dropdown list for :guilabel:`Type`, select EPSG.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T040025Z" creationid="miurahr" creationdate="20210303T040025Z">
-        <seg>Using the dropdown list for :guilabel:`Type`, select EPSG.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040451Z" creationid="miurahr" creationdate="20210303T040025Z">
+        <seg>ドロップダウンリストで :guilabel:`Type` を選択し、EPSGを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38607,8 +38663,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>When prompted, you can select :guilabel:`Discard Changes` as we won't be using the last project.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T040014Z" creationid="miurahr" creationdate="20210303T040014Z">
-        <seg>When prompted, you can select :guilabel:`Discard Changes` as we won't be using the last project.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040746Z" creationid="miurahr" creationdate="20210303T040014Z">
+        <seg>入力待ちになったら、最後のプロジェクトを使わない場合は :guilabel:`Discard Changes` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41359,6 +41415,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`Courses and tutorials &lt;http://www.gvsig.com/en/diffusion/educational-material?p_p_id=122_INSTANCE_A9eo37KAqtxs&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-2&amp;p_p_col_count=1&amp;p_r_p_564233524_resetCur=true&amp;p_r_p_564233524_categoryId=25973&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040336Z" creationid="miurahr" creationdate="20210303T040336Z">
+        <seg>`Courses and tutorials &lt;http://www.gvsig.com/en/diffusion/educational-material?p_p_id=122_INSTANCE_A9eo37KAqtxs&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-2&amp;p_p_col_count=1&amp;p_r_p_564233524_resetCur=true&amp;p_r_p_564233524_categoryId=25973&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`Default MapCache Demo &lt;http://localhost/mapcache/demo/&gt;`_</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210219T011306Z" creationid="miurahr" creationdate="20201220T023418Z">
@@ -41499,6 +41563,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>`Kosmo Desktop`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`Learning gvSIG in 30 minutes &lt;https://blog.gvsig.org/2017/05/23/learning-gvsig-in-30-minutes/&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040407Z" creationid="miurahr" creationdate="20210303T040407Z">
+        <seg>`gvSIG 30分速習 &lt;https://blog.gvsig.org/2017/05/23/learning-gvsig-in-30-minutes/&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
@@ -42019,6 +42091,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T235536Z" creationid="miurahr" creationdate="20201116T235536Z">
         <seg>`geostyler.org Webサイト &lt;https://geostyler.org&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`gvSIG Blog &lt;https://blog.gvsig.org/category/languages/english/&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040412Z" creationid="miurahr" creationdate="20210303T040412Z">
+        <seg>`gvSIGブログ &lt;https://blog.gvsig.org/category/languages/english/&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
