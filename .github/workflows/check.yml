@@ -59,4 +59,5 @@ jobs:
         uses: miurahr/omegat-stat@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          min-coverage: 50.0
+          min-coverage: 80.0
+          target-coverage: 90.0
