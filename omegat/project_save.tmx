@@ -27289,6 +27289,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Register data stored in S3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T161121Z" creationid="sanak" creationdate="20210303T161121Z">
+        <seg>Register data stored in S3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Register the new sensor (procedure) pressing the "submit" button.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T025532Z" creationid="miurahr" creationdate="20201122T025532Z">
