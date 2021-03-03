@@ -7470,6 +7470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By default gvSIG opens with an empty project file with the 'View' document type selected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T035700Z" creationid="miurahr" creationdate="20210303T035700Z">
+        <seg>By default gvSIG opens with an empty project file with the 'View' document type selected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By default the creator of a file/directory is the owner.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T133951Z" creationid="miurahr" creationdate="20210122T024001Z">
@@ -8612,6 +8620,22 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T081013Z" creationid="miurahr" creationdate="20201116T234236Z">
         <seg>|GS| ウィンドウの左側にあるメニューの :guilabel:`レイヤ` リンクをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the :guilabel:`New Project` button or go to :menuselection:`File --&gt; New Project`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040013Z" creationid="miurahr" creationdate="20210303T040013Z">
+        <seg>Click on the :guilabel:`New Project` button or go to :menuselection:`File --&gt; New Project`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the :guilabel:`New` button to create a view.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040018Z" creationid="miurahr" creationdate="20210303T040018Z">
+        <seg>Click on the :guilabel:`New` button to create a view.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10392,6 +10416,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Define the projection of your view</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040022Z" creationid="miurahr" creationdate="20210303T040022Z">
+        <seg>Define the projection of your view</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Define the user that should be used when you connect to the foreign server</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210219T015024Z" creationid="miurahr" creationdate="20201117T003032Z">
@@ -11744,6 +11776,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter the EPSG code for the Coordinate Reference System.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040027Z" creationid="miurahr" creationdate="20210303T040027Z">
+        <seg>Enter the EPSG code for the Coordinate Reference System.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter the master password  ``user``.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210302T053507Z" creationid="miurahr" creationdate="20210302T053507Z">
@@ -12900,6 +12940,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T081455Z" creationid="miurahr" creationdate="20201103T060209Z">
         <seg>地上LASデータの場合、これらの座標系の記述は、 `EPSG`_ データベースによって記述された座標系にマップされることがよくあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the :guilabel:`Current projection`, click on the :guilabel:`...` button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040024Z" creationid="miurahr" creationdate="20210303T040024Z">
+        <seg>For the :guilabel:`Current projection`, click on the :guilabel:`...` button.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15604,6 +15652,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T024435Z" creationid="miurahr" creationdate="20210303T024355Z">
         <seg>ただし、このライブシステムを使用している場合は、コンピュータをシャットダウンすると、通常のファイルシステムに保存されているすべてのファイルが失われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, on OSGeoLive, gvSIG has been configured to start with a default project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040009Z" creationid="miurahr" creationdate="20210303T040009Z">
+        <seg>However, on OSGeoLive, gvSIG has been configured to start with a default project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18664,6 +18720,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134622Z" creationid="miurahr" creationdate="20201116T134622Z">
         <seg>OSGeoLiveは、ハードウェアアクセラレーションによるグラフィックス処理にWebGLを使用し、クロスプラットフォーム、クロスブラウザ対応で、時間動的なデータ視覚化に合わせて調整されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It will be opened automatically.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040021Z" creationid="miurahr" creationdate="20210303T040021Z">
+        <seg>It will be opened automatically.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22102,8 +22166,8 @@
       <tuv lang="en-US">
         <seg>Note for version gvSIG 2.3.1: To load raster files the user must have write permission in the folder where the file is.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T035622Z" creationid="miurahr" creationdate="20210303T035622Z">
-        <seg>Note for version gvSIG 2.3.1: To load raster files the user must have write permission in the folder where the file is.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T035744Z" creationid="miurahr" creationdate="20210303T035622Z">
+        <seg>gvSIG バージョン2.3.1の注意: ラスタファイルをロードするには、ファイルの存在するフォルダに書き込み権限が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24840,6 +24904,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>その他 webkit ベースのブラウザ (webOS、Blackberry 7+ 等)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Otherwise the application will ask for a valid folder (with write permission).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T035820Z" creationid="miurahr" creationdate="20210303T035625Z">
+        <seg>そうでない場合、アプリケーションは、(書き込み権限のある)適切なフォルダを選択するよう聞いてきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28457,6 +28529,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select :menuselection:`View --&gt; Properties`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040023Z" creationid="miurahr" creationdate="20210303T040023Z">
+        <seg>Select :menuselection:`View --&gt; Properties`.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select ``basin_areas`` for the input vector map, as "Source value" select ``attr`` instead of ``cat``.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210302T223814Z" creationid="miurahr" creationdate="20210302T063207Z">
@@ -28533,6 +28613,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132344Z" creationid="miurahr" creationdate="20201116T132325Z">
         <seg>地物を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select gvSIG from the application menu, :menuselection:`Geospatial --&gt; Desktop GIS --&gt; gvSIG`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T035646Z" creationid="miurahr" creationdate="20210303T035646Z">
+        <seg>デスクトップから :menuselection:`Geospatial --&gt; Desktop GIS --&gt; gvSIG` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29213,6 +29301,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T230722Z" creationid="miurahr" creationdate="20201123T230549Z">
         <seg>スタイル設定するデータを見られれば、地理データの属性スタイル設定が簡単になるため、WFS、Shapefiles、GeoJSONファイルなどの複数のデータソースに接続できるようになっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since the "user" user doesn't have write permission in the "data" folder, it will be necessary to select, when asked, a folder where the user does have write permission, like for example, "/home/user".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T035956Z" creationid="miurahr" creationdate="20210303T035626Z">
+        <seg>"user" ユーザは、 "data" フォルダに書き込み権限がないため、 それを選択する必要があるときは、きかれたら、たとえば "/home/user" などのユーザが書き込み権限のあるフォルダを指定してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29965,6 +30061,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010107Z" creationid="miurahr" creationdate="20201103T010107Z">
         <seg>世界を探検しよう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start gvSIG and create a view</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040005Z" creationid="miurahr" creationdate="20210303T035628Z">
+        <seg>gvSIGを開始してビューを作成する</seg>
       </tuv>
     </tu>
     <tu>
@@ -31792,6 +31896,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133542Z" creationid="miurahr" creationdate="20201120T133542Z">
         <seg>アプリケーションは、現在の時刻に設定されたタイムスライダが下部に表示された気象マップを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The application usually takes about a minute to startup.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T035654Z" creationid="miurahr" creationdate="20210303T035654Z">
+        <seg>通常、アプリケーションの起動には約1分かかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35053,6 +35165,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will open the **New CRS** dialog.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040024Z" creationid="miurahr" creationdate="20210303T040024Z">
+        <seg>This will open the **New CRS** dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This will open the :ref:`Style Pane &lt;Style_Pane&gt;`.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T080850Z" creationid="miurahr" creationdate="20201116T231700Z">
@@ -36973,6 +37093,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using the dropdown list for :guilabel:`Type`, select EPSG.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040025Z" creationid="miurahr" creationdate="20210303T040025Z">
+        <seg>Using the dropdown list for :guilabel:`Type`, select EPSG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using the up and down arrows to recall commands so you can edit mistakes.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210103T034552Z" creationid="miurahr" creationdate="20201123T142457Z">
@@ -38473,6 +38601,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133741Z" creationid="miurahr" creationdate="20201120T133741Z">
         <seg>終了すると、時系列の先頭に戻ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When prompted, you can select :guilabel:`Discard Changes` as we won't be using the last project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040014Z" creationid="miurahr" creationdate="20210303T040014Z">
+        <seg>When prompted, you can select :guilabel:`Discard Changes` as we won't be using the last project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41723,6 +41859,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T060917Z">
         <seg>`これらのプログラムは、有用であることを願って配布されますが、いかなる場合でも無保証です ー 特定の目的に対する商品性または適合性も保証するものではありません。`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`User manuals &lt;http://downloads.gvsig.org/download/web/en/build/html/index.html&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T040048Z" creationid="miurahr" creationdate="20210303T040048Z">
+        <seg>`ユーザマニュアル &lt;http://downloads.gvsig.org/download/web/en/build/html/index.html&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
