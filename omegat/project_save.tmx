@@ -25182,8 +25182,8 @@
       <tuv lang="en-US">
         <seg>Overviews are lower resolution tables for raster data.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T042509Z" creationid="miurahr" creationdate="20201108T042509Z">
-        <seg>概要は、ラスターデータの低解像度テーブルです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T152553Z" creationid="miurahr" creationdate="20201108T042509Z">
+        <seg>概要(Overviews)は、ラスタデータの低解像度テーブルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27067,8 +27067,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Raster overview tables are used by tools such as QGIS to provide lower resolution versions of raster data for faster loading.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T042632Z" creationid="miurahr" creationdate="20201108T042612Z">
-        <seg>ラスタデータ概要テーブルは、QGISなどのツールで使用され、ラスタデータの低解像度バージョンを提供して、読み込みを高速化します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T152658Z" creationid="miurahr" creationdate="20201108T042612Z">
+        <seg>ラスタ概要テーブルは、QGISなどのツールで使用され、ラスタデータの低解像度バージョンを提供して、読み込みを高速化します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31966,8 +31966,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The ``geometry_columns``, ``geography_columns``, and ``raster_columns`` views have the job of telling PostGIS which tables have PostGIS geometry, geography, and raster columns.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T062857Z" creationid="miurahr" creationdate="20201108T042501Z">
-        <seg>``geometry_columns`` と、 ``geography_columns`` 、 ``raster_columns`` ビューは、PostGISのジオメトリ、地理、およびラスター列を持つテーブルをPostGIS に伝える役割をもっています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T152329Z" creationid="miurahr" creationdate="20201108T042501Z">
+        <seg>``geometry_columns`` と、``geography_columns``、``raster_columns`` ビューは、PostGISのジオメトリ、地理、およびラスター列を持つテーブルをPostGIS に伝える役割をもっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35223,8 +35223,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This tells PostGIS what kind of geometry each feature has (points, lines, polygons etc), how many dimensions (in this case 2, if it had 3 or 4 dimensions we would use POINTZ, POINTM, or POINTZM), and the spatial reference system.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T042857Z" creationid="miurahr" creationdate="20201108T042857Z">
-        <seg>これにより、PostGISに、各フィーチャが持つジオメトリの種類(ポイント、ライン、ポリゴンなど)、寸法の数(この場合は2、寸法が3または4の場合はPOINTZ、POINTM、またはPOINTZMを使用)、および空間参照システムが通知されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T152832Z" creationid="miurahr" creationdate="20201108T042857Z">
+        <seg>これにより、PostGISに、各フィーチャが持つジオメトリの種類(ポイント、ライン、ポリゴンなど)、次元の数(この場合は2、次元が3または4の場合はPOINTZ、POINTM、またはPOINTZMを使用)、および空間参照システムが通知されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36767,8 +36767,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Type ``\dt`` to list the tables in the database.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T062720Z" creationid="miurahr" creationdate="20201108T042032Z">
-        <seg>``\dt`` と入力、データベース内のテーブルを一覧表示します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T152003Z" creationid="miurahr" creationdate="20201108T042032Z">
+        <seg>``\dt`` と入力し、データベース内のテーブルを一覧表示します。</seg>
       </tuv>
     </tu>
     <tu>
