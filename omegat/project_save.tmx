@@ -6022,6 +6022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An example is ``/var/www/html/openlayers/examples/data/geojson/countries.geojson``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030358Z" creationid="miurahr" creationdate="20210303T030358Z">
+        <seg>例は、 ``/var/www/html/openlayers/examples/data/geojson/countries.geojson``  にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An example of forward geodesic use is to use the Boston loca- tion and determine Portland's location by azimuth and distance:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T125313Z" creationid="miurahr" creationdate="20210208T125313Z">
@@ -8380,6 +8388,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201125T004613Z" creationid="miurahr" creationdate="20201125T004613Z">
         <seg>:menuselection:`Layer --&gt; Add Layer --&gt; Add Vector Layer` をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click Ok, and then ``connect`` to load the available collections in the service.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T031004Z" creationid="miurahr" creationdate="20210303T031004Z">
+        <seg>OKをクリックして、サービスで使えるコレクションをロードするため ``connect`` します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10984,6 +11000,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Download the GeoJSON file and place it in the tests/data folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030422Z" creationid="miurahr" creationdate="20210303T030422Z">
+        <seg>GeoJSONファイルをダウンロードし、tests/data フォルダーに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Download the OSGeoLive VirtualBox virtual hard disk (vmdk) by following the links on :doc:`live.osgeo.org &lt;../download&gt;`.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210214T075147Z" creationid="miurahr" creationdate="20210206T165051Z">
@@ -13180,6 +13204,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T071756Z" creationid="miurahr" creationdate="20201120T133613Z">
         <seg>``Weather map`` メニューから、視覚化する変数を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the ``add layer`` menu select ``Add WFS / OAPI-Features layer``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030845Z" creationid="miurahr" creationdate="20210303T030845Z">
+        <seg>``add layer`` メニューから ``Add WFS / OAPI-Features layer`` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17308,6 +17340,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this quickstart we use QGIS to query the service, but similar workflow is possible in other GIS tooling, e.g. ArcGIS, FME, OpenLayers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030744Z" creationid="miurahr" creationdate="20210303T030744Z">
+        <seg>このクイックスタートでは、QGISを用いてサービスのクエリを行ないますが、例えば ArcGIS, FME, OpenLayers といった他のツールでも、類似のワークフローを実施できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this quickstart we’ll guide you in setting up the software and use it for some specific cases.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T025059Z" creationid="miurahr" creationdate="20210303T025036Z">
@@ -17848,6 +17888,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131829Z" creationid="miurahr" creationdate="20201116T131829Z">
         <seg>Geomajasについてもっと知りたいですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Interesting datasets to expose as OAPI-Features consist of real world data having multiple attributes and links to other resources.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030250Z" creationid="miurahr" creationdate="20210303T030250Z">
+        <seg>Interesting datasets to expose as OAPI-Features consist of real world data having multiple attributes and links to other resources.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21140,6 +21188,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mind the nesting, nesting is important in YAML syntax).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030427Z" creationid="miurahr" creationdate="20210303T030427Z">
+        <seg>Mind the nesting, nesting is important in YAML syntax).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mirko Cardoso</seg>
       </tuv>
       <tuv lang="ja">
@@ -22420,6 +22476,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now that we have the service available we can query it using various client tooling.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030602Z" creationid="miurahr" creationdate="20210303T030602Z">
+        <seg>Now that we have the service available we can query it using various client tooling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now that we know our input coordinate system, we can make a decision about what to reproject the data to.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T060334Z" creationid="miurahr" creationdate="20201103T060334Z">
@@ -22670,16 +22734,16 @@
       <tuv lang="en-US">
         <seg>OGC API - Features is a standard of OGC to expose vector features as a webservice.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T025924Z" creationid="miurahr" creationdate="20210303T025924Z">
-        <seg>OGC API-Featuresは、ベクトル機能をWebサービスとして公開するためのOGCの標準です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030106Z" creationid="miurahr" creationdate="20210303T025924Z">
+        <seg>OGC API - Fearures は、ベクタ機能をWebサービスとして公開するためのOGCの標準です。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>OGC API - Features is the OpenAPI alternative to WFS.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T030010Z" creationid="miurahr" creationdate="20210303T030010Z">
-        <seg>OGC API - WFSの代替となる OpenAPI機能です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030113Z" creationid="miurahr" creationdate="20210303T030010Z">
+        <seg>OGC API - Featuresは、WFSの代替となる OpenAPI機能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23168,6 +23232,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210122T023224Z" creationid="miurahr" creationdate="20210122T023224Z">
         <seg>OSGeoLiveには、世界的な `FOSS4Gカンファレンス &lt;https://FOSS4G.org/&gt;`_ が開催されている都市のOSMデータが用意されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeoLive contains a number of datasets we can use.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030330Z" creationid="miurahr" creationdate="20210303T030330Z">
+        <seg>OSGeoLiveには使えるデータセットがたくさんあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23704,6 +23776,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T225512Z" creationid="miurahr" creationdate="20201221T225512Z">
         <seg>OpenJUMPのトップレベルのメニューバーで、 :menuselection:`File--&gt;Open File` を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the window that opens create a new connection, enter the url to the service http://localhost:5000.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030913Z" creationid="miurahr" creationdate="20210303T030913Z">
+        <seg>新しい接続を作成するウィンドウが開いたら、サービスのURL http://localhost:5000 を入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27129,6 +27209,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Restart pygeoapi</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030432Z" creationid="miurahr" creationdate="20210303T030432Z">
+        <seg>pygeoapiの再起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Restart the service, for example by closing the terminal and starting the service again</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T025904Z" creationid="miurahr" creationdate="20210303T025848Z">
@@ -29885,6 +29973,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133320Z" creationid="miurahr" creationdate="20201120T133320Z">
         <seg>zyGribを開始する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Starting from QGIS 3.14 you can add an OAPI-Features layer as vector layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030811Z" creationid="miurahr" creationdate="20210303T030811Z">
+        <seg>QGIS 3.14 からは、OAPI-Features レイヤをベクタレイヤとして追加できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36397,6 +36493,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Update pygeoapi-config.yml to add ``countries`` as a new collection to pygeoapi (insert snippet below between the other collections.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030423Z" creationid="miurahr" creationdate="20210303T030423Z">
+        <seg>Update pygeoapi-config.yml to add ``countries`` as a new collection to pygeoapi (insert snippet below between the other collections.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Update some parameters in the file, such as Title and Author.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T025829Z" creationid="miurahr" creationdate="20210303T025829Z">
@@ -36717,6 +36821,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using OAPI-Features in Desktop GIS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030622Z" creationid="miurahr" creationdate="20210303T030622Z">
+        <seg>デスクトップGISのOAPI-Featuresを利用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using OSM as basemap in QGIS</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210122T023928Z" creationid="miurahr" creationdate="20210122T023919Z">
@@ -36729,6 +36841,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022935Z" creationid="miurahr" creationdate="20201103T022935Z">
         <seg>QGISデスクトップを使用したOGC WMSのロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using a web browser to query the API</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030556Z" creationid="miurahr" creationdate="20210303T030556Z">
+        <seg>Webブラウザを使用したAPIのクエリー</seg>
       </tuv>
     </tu>
     <tu>
@@ -36893,6 +37013,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Verify the collection is available via your browser at http://localhost:5000/collections/countries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030520Z" creationid="miurahr" creationdate="20210303T030520Z">
+        <seg>ラウザで http://localhost:5000/collections/countries を開いて、コレクションの検証をおこなう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Versioned geospatial data editor</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T052010Z" creationid="miurahr" creationdate="20201122T052010Z">
@@ -36905,6 +37033,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>非常に美しい、マーカー、ポップアップ、その他地図コントロールのデフォルトのデザイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Via the GDAL OGR provider an almost unlimited set of other vector sources can be added.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030312Z" creationid="miurahr" creationdate="20210303T030247Z">
+        <seg>GDAL OGR プロバイダを経由して、ほぼ無制限に、他のベクタソースを一式が追加できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39111,6 +39247,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can configure it in pygeoapi using the GeoJSON provider.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030407Z" creationid="miurahr" creationdate="20210303T030407Z">
+        <seg>GeoJSONプロバイダーを使用してpygeoapiで設定することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can connect, by double clicking, on the name of a database.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T002626Z" creationid="miurahr" creationdate="20201117T002626Z">
@@ -40529,8 +40673,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You'll now deploy a vector dataset in pygeoapi and expose its features as OGC API - Features.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T025918Z" creationid="miurahr" creationdate="20210303T025918Z">
-        <seg>ここでは、ベクトル・データセットをpygeoapiにデプロイし、その機能をOGC API-Featuresとして公開します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030100Z" creationid="miurahr" creationdate="20210303T025918Z">
+        <seg>ここでは、ベクタ・データセットをpygeoapiにデプロイし、その機能をOGC API-Featuresとして公開します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47171,6 +47315,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T025014Z" creationid="miurahr" creationdate="20210303T025014Z">
         <seg>pygeoapiは、OGC Open APIサービスをWeb上で迅速かつ容易に公開するためのツールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pygeoapi supports a wide range of backends to use as vector source, e.g. geopackage, PostGIS, Elasticsearch, WFS, etc.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030137Z" creationid="miurahr" creationdate="20210303T030137Z">
+        <seg>pygeoapiは、geopackage、PostGIS、Elasticsearch、WFSなど、ベクタソースとして使用する幅広いバックエンドをサポートしています。</seg>
       </tuv>
     </tu>
     <tu>
