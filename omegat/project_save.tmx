@@ -13458,8 +13458,8 @@
       <tuv lang="en-US">
         <seg>From the “services” drop down button of the admin interface (http://localhost/istsos/admin ) choose the desired instance.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210102T131528Z" creationid="miurahr" creationdate="20201122T025311Z">
-        <seg>管理インタフェース(http://localhost/istsos/admin)の"services"ドロップダウンボタンから、目的のインスタンスを選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T144114Z" creationid="miurahr" creationdate="20201122T025311Z">
+        <seg>管理インタフェース(http://localhost/istsos/admin)の "services" ドロップダウンボタンから、目的のインスタンスを選択します。</seg>
       </tuv>
     </tu>
     <tu>
