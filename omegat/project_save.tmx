@@ -9074,8 +9074,8 @@
       <tuv lang="en-US">
         <seg>Clicking on the "Customize database" box, you are able to change the default database configuration for this new istSOS instance.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T025055Z" creationid="miurahr" creationdate="20201122T025055Z">
-        <seg>"Customize database"ボックスをクリックすると、この新しいistSOSインスタンスのデフォルトデータベース設定を変更できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T141905Z" creationid="miurahr" creationdate="20201122T025055Z">
+        <seg>"Customize database" ボックスをクリックすると、この新しいistSOSインスタンスのデフォルトデータベース設定を変更できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9564,6 +9564,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>座標</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Coordinates: x: 8.96127 y: 46.02723 z: 344.1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T142040Z" creationid="sanak" creationdate="20210303T142040Z">
+        <seg>Coordinates: x: 8.96127 y: 46.02723 z: 344.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -10600,6 +10608,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description: temperature weather station in Lugano</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T142012Z" creationid="sanak" creationdate="20210303T142012Z">
+        <seg>Description: temperature weather station in Lugano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Designed for rich data models from the bottom up</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T061223Z" creationid="miurahr" creationdate="20201103T042442Z">
@@ -11404,6 +11420,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210219T014345Z" creationid="miurahr" creationdate="20201116T141535Z">
         <seg>EOxServerは、大規模な地球観測(EO)データアーカイブとメタデータをオープン標準で提供するサーバです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EPSG: 4326</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T142018Z" creationid="sanak" creationdate="20210303T142018Z">
+        <seg>EPSG: 4326</seg>
       </tuv>
     </tu>
     <tu>
@@ -12296,6 +12320,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>FOI name: LUGANO</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T142016Z" creationid="sanak" creationdate="20210303T142016Z">
+        <seg>FOI name: LUGANO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fabian Schindler</seg>
       </tuv>
       <tuv lang="ja">
@@ -12658,8 +12690,8 @@
       <tuv lang="en-US">
         <seg>First we will create a text file with sensor data, formatted according to "text/csv, subtype=istSOS".</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T033158Z" creationid="miurahr" creationdate="20201122T033158Z">
-        <seg>まず、"text/csv,subtype=istSOS"に従ってフォーマットされたセンサーデータのテキストファイルを作成します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T141932Z" creationid="miurahr" creationdate="20201122T033158Z">
+        <seg>まず、 "text/csv,subtype=istSOS" に従ってフォーマットされたセンサーデータのテキストファイルを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13386,8 +13418,8 @@
       <tuv lang="en-US">
         <seg>From the toolbar buttons menu press the "new service" button and click :guilabel:`Next`.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T083648Z" creationid="miurahr" creationdate="20201122T024610Z">
-        <seg>ツールバーのボタンメニューから"new service"ボタンを押し、 :guilabel:`Next` をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T141832Z" creationid="miurahr" creationdate="20201122T024610Z">
+        <seg>ツールバーのボタンメニューから "new service" ボタンを押し、 :guilabel:`Next` をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13402,16 +13434,16 @@
       <tuv lang="en-US">
         <seg>From the toolbar buttons menu, press the "Database" button and fill in the database configuration options:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T023722Z" creationid="miurahr" creationdate="20201122T023722Z">
-        <seg>ツールバーのボタンメニューから、"Database"ボタンを押し、データベース設定オプションを入力します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T141738Z" creationid="miurahr" creationdate="20201122T023722Z">
+        <seg>ツールバーのボタンメニューから、 "Database"ボタンを押し、データベース設定オプションを入力します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>From the toolbar buttons menu, press the "GetObservation Configuration" button to set maximum time interval per getObservation request (zero for no limits) and aggregation no-data value.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T024423Z" creationid="miurahr" creationdate="20201122T024423Z">
-        <seg>ツールバーのボタンメニューから、"GetObservation Configuration"ボタンを押して、getObservation要求ごとの最大時間間隔(無制限の場合は0)と集計のno-data値を設定します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T141815Z" creationid="miurahr" creationdate="20201122T024423Z">
+        <seg>ツールバーのボタンメニューから、 "GetObservation Configuration"ボタンを押して、getObservation要求ごとの最大時間間隔(無制限の場合は0)と集計のno-data値を設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17326,8 +17358,8 @@
       <tuv lang="en-US">
         <seg>In the terminal, enter: "cd /usr/share/istsos/" and press ENTER.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T034433Z" creationid="miurahr" creationdate="20201122T034433Z">
-        <seg>端末で:"cd/usr/share/istSOS/"と入力し、ENTERを押します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T141950Z" creationid="miurahr" creationdate="20201122T034433Z">
+        <seg>端末で: "cd/usr/share/istSOS/" と入力し、ENTERを押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19352,6 +19384,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>キーボードナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keywords: weather, meteorological, IST</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T142013Z" creationid="sanak" creationdate="20210303T142013Z">
+        <seg>Keywords: weather, meteorological, IST</seg>
       </tuv>
     </tu>
     <tu>
@@ -21788,6 +21828,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Name: T_LUGANO</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T142011Z" creationid="sanak" creationdate="20210303T142011Z">
+        <seg>Name: T_LUGANO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nathaniel V. Kelso</seg>
       </tuv>
       <tuv lang="ja">
@@ -23792,6 +23840,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T025408Z" creationid="miurahr" creationdate="20201122T025408Z">
         <seg>観測されたプロパティ:urn:ogc:def:parameter:x-istSOS:1.0:meteo:air:temperature</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Offering = temporary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T142003Z" creationid="sanak" creationdate="20210303T142003Z">
+        <seg>Offering = temporary</seg>
       </tuv>
     </tu>
     <tu>
@@ -26046,8 +26102,8 @@
       <tuv lang="en-US">
         <seg>Press the "Coordinates system" button to manage the Coordinate Reference System (CRS).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T024321Z" creationid="miurahr" creationdate="20201122T024321Z">
-        <seg>座標参照系(CRS)を管理するには、"Coordinates system" ボタンを押します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T141751Z" creationid="miurahr" creationdate="20201122T024321Z">
+        <seg>座標参照系(CRS)を管理するには、 "Coordinates system" ボタンを押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26168,6 +26224,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T124354Z" creationid="miurahr" creationdate="20210208T124354Z">
         <seg>このクイックスタートを開始するまえに、TileStacheを開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Procedure T_LUGANO</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T142010Z" creationid="sanak" creationdate="20210303T142010Z">
+        <seg>Procedure T_LUGANO</seg>
       </tuv>
     </tu>
     <tu>
@@ -29017,6 +29081,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sensor type: PTC thermistors of the "switching" type</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T142015Z" creationid="sanak" creationdate="20210303T142015Z">
+        <seg>Sensor type: PTC thermistors of the "switching" type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sergey Grachev</seg>
       </tuv>
       <tuv lang="ja">
@@ -29053,6 +29125,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Sergio Baños Calvo; Cameron Shorter, Jirotech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Service = demo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T142002Z" creationid="sanak" creationdate="20210303T142002Z">
+        <seg>Service = demo</seg>
       </tuv>
     </tu>
     <tu>
@@ -30845,6 +30925,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>動作環境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>System type: insitu-fixed-point</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T142014Z" creationid="sanak" creationdate="20210303T142014Z">
+        <seg>System type: insitu-fixed-point</seg>
       </tuv>
     </tu>
     <tu>
@@ -33142,8 +33230,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The project provides also a Graphical user Interface that allows for easing the daily operations and a RESTFull Web api for automatizing administration procedures.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210219T014905Z" creationid="miurahr" creationdate="20201122T022222Z">
-        <seg>このプロジェクトはまた、日常的な操作を容易にするグラフィカル・ユーザ・インタフェースと、管理手順を自動化するためのRESTフル Web apiも提供しています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T141707Z" creationid="miurahr" creationdate="20201122T022222Z">
+        <seg>このプロジェクトはまた、日常的な操作を容易にするグラフィカル・ユーザ・インタフェースと、管理手順を自動化するためのRESTful Web apiも提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40737,8 +40825,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You should see a message "Insert observation success: True"</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T034515Z" creationid="miurahr" creationdate="20201122T034515Z">
-        <seg>"Insert observation success:True"というメッセージが表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T142001Z" creationid="miurahr" creationdate="20201122T034515Z">
+        <seg>"Insert observation success:True" というメッセージが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
