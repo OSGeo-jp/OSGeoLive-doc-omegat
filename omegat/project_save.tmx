@@ -21348,6 +21348,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next select the "Data" tab and set the fine resolution to "1" (the lower the value, the finer the resolution), then move the positioning puck and height slider on the "View" tab around to get different views.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T000718Z" creationid="sanak" creationdate="20210303T000718Z">
+        <seg>次に "データ" タブを選択し、 解像度に "1" を設定し(値が低いほど解像度は高くなります)、 "ビュー" タブで</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next we are going to add in a WFS vector layer - this is a little more complicated, but follows the same approach of creating a source and then a layer as the previous layers:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210219T012437Z" creationid="miurahr" creationdate="20201103T054047Z">
@@ -37503,8 +37511,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Where it says ``SELECT * FROM basin_areas WHERE`` pick ``elev_stddev`` from the pull down list for the standard deviation statistic, then select ``&lt;`` from the relation list and in the text box to its right enter ``&lt; 50`` and click [*Apply*].</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210302T234347Z" creationid="sanak" creationdate="20210302T230920Z">
-        <seg>``SELECT * FROM basin_areas WHERE`` と表示されている箇所で、プルダウンリストから標準偏差統計``elev_stddev`` を選択し、リレーションリストから ``&lt;`` を選択して、テキストボックスに ``50`` を入力して [*Apply*] をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T000724Z" creationid="sanak" creationdate="20210302T230920Z">
+        <seg>``SELECT * FROM basin_areas WHERE`` と表示されている箇所で、プルダウンリストから標準偏差統計 ``elev_stddev`` を選択し、リレーションリストから ``&lt;`` を選択して、テキストボックスに ``50`` を入力して [*Apply*] をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
