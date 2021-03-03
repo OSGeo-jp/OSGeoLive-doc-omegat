@@ -3144,8 +3144,8 @@
       <tuv lang="en-US">
         <seg>*Outputs (confirm the outputs pressing the "add" button):*</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T025402Z" creationid="miurahr" creationdate="20201122T025402Z">
-        <seg>*出力("add"ボタンを押して出力を確認):*</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T142058Z" creationid="miurahr" creationdate="20201122T025402Z">
+        <seg>*出力("add" ボタンを押して出力を確認):*</seg>
       </tuv>
     </tu>
     <tu>
