@@ -5520,8 +5520,8 @@
       <tuv lang="en-US">
         <seg>Afterwards expand the ``public`` schema.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T063442Z" creationid="miurahr" creationdate="20201117T002648Z">
-        <seg>その後、 ``public`` スキーマを展開します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T153807Z" creationid="miurahr" creationdate="20201117T002648Z">
+        <seg>その後、``public`` スキーマを展開します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9154,8 +9154,8 @@
       <tuv lang="en-US">
         <seg>Close the DB Manager and get back to the main QGIS window.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210302T000847Z" creationid="sanak" creationdate="20210302T000847Z">
-        <seg>Close the DB Manager and get back to the main QGIS window.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T153612Z" creationid="sanak" creationdate="20210302T000847Z">
+        <seg>DB Manager を閉じて、メインの QGIS ウィンドウに戻ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22422,8 +22422,8 @@
       <tuv lang="en-US">
         <seg>Notice how the 'WHERE' part of the line stops us getting back distances of a city to itself (which will all be zero) or the reverse distances to the ones in the table above (London, England to London, Ontario is the same distance as London, Ontario to London, England).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T043237Z" creationid="miurahr" creationdate="20201108T043237Z">
-        <seg>SQL行の'WHERE'部分が、都市からそれ自体までの距離(すべて0)または上記の表の逆方向の距離(英国ロンドンからオンタリオロンドンまでは、オンタリオロンドンからイギリスロンドンまでと同じ距離)を取得するのを停止することに注意してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T153347Z" creationid="miurahr" creationdate="20201108T043237Z">
+        <seg>SQL行の 'WHERE' 部分が、都市からそれ自体までの距離(すべて0)または上記の表の逆方向の距離(英国ロンドンからオンタリオロンドンまでは、オンタリオロンドンからイギリスロンドンまでと同じ距離)を取得するのを停止することに注意してください。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -22646,8 +22646,8 @@
       <tuv lang="en-US">
         <seg>Now load the SIDS data into the map using the 'Add PostGIS Layer' option.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201117T002032Z" creationid="miurahr" creationdate="20201117T002032Z">
-        <seg>次に、'PostGISマップを追加'オプションを使用して、SIDSデータをレイヤにロードします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T153626Z" creationid="miurahr" creationdate="20201117T002032Z">
+        <seg>次に、 'PostGISマップを追加' オプションを使用して、SIDSデータをレイヤにロードします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33262,8 +33262,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The red "X" on the image of most of the databases, denotes that you haven't been yet connected to any of them (you are connected only to the default ``postgres`` database).</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T063426Z" creationid="miurahr" creationdate="20201117T002619Z">
-        <seg>ほとんどのデータベースのイメージ上の赤い"X"は、まだどのデータベースにも接続していないことを示しています(あなたはデフォルトの ``postgres`` データベースにのみ接続しています)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T153724Z" creationid="miurahr" creationdate="20201117T002619Z">
+        <seg>ほとんどのデータベースのイメージ上の赤い "X" は、まだどのデータベースにも接続していないことを示しています(あなたはデフォルトの ``postgres`` データベースにのみ接続しています)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36567,8 +36567,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Try it without the 'WHERE' part and see what happens.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T043255Z" creationid="miurahr" creationdate="20201108T043255Z">
-        <seg>'WHERE'の部分を外して試してみて、何が起こるか見てください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T153356Z" creationid="miurahr" creationdate="20201108T043255Z">
+        <seg>'WHERE' の部分を外して試してみて、何が起こるか見てください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38215,8 +38215,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>We used EPSG:4326 coordinates for our cities.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T042913Z" creationid="miurahr" creationdate="20201108T042913Z">
-        <seg>我々の都市には、EPSG:4326座標を使用しました。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T153011Z" creationid="miurahr" creationdate="20201108T042913Z">
+        <seg>私たちの都市には、EPSG:4326座標を使用しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38375,8 +38375,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>We'll call our database ``demo``.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T062411Z" creationid="miurahr" creationdate="20201108T041702Z">
-        <seg>わたしたちのデータベースを ``demo`` と呼びます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T152948Z" creationid="miurahr" creationdate="20201108T041702Z">
+        <seg>私たちのデータベースを ``demo`` と呼びます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38391,8 +38391,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>We'll now use one to answer a practical question - how far are these three Londons away from each other, in metres, assuming a spherical earth?</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T043154Z" creationid="miurahr" creationdate="20201108T043154Z">
-        <seg>ここでは、球形の地球を仮定して、これら3つのロンドンが互いにどのくらい離れているのかという現実的な疑問に答えるために1つを使うことにしよう。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T153313Z" creationid="miurahr" creationdate="20201108T043154Z">
+        <seg>ここでは、球形の地球を仮定して、これら3つのロンドンの場所が互いにどのくらい離れているのかという現実的な疑問に答えるために1つを使うことにしましょう。</seg>
       </tuv>
     </tu>
     <tu>
