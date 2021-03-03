@@ -7022,6 +7022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Below the main map display is an altitude chart, which shows the profile of the track if it contains altitudes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T022840Z" creationid="miurahr" creationdate="20210303T022840Z">
+        <seg>メインマップ表示の下には高度チャートがあり、トラックに高度が含まれている場合は、そのトラックのプロファイルが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Below this are tabs classifying the records by date added (latest news) and popularity (most popular).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133658Z" creationid="miurahr" creationdate="20201116T133658Z">
@@ -8936,6 +8944,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clicking on a point will show the details including altitude and timestamp if available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T022925Z" creationid="miurahr" creationdate="20210303T022925Z">
+        <seg>ポイントをクリックすると、高度やタイムスタンプなどの詳細が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clicking on points will cause the value of "Ozone_concentration" to be shown in a table at the bottom of the map.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T145609Z" creationid="miurahr" creationdate="20201116T234855Z">
@@ -8964,6 +8980,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131739Z" creationid="miurahr" creationdate="20201116T131739Z">
         <seg>地図をクリックすると、関連情報が表示されます(利用可能な場合)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clicking one of these entries in the list will show more information in the box below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023132Z" creationid="miurahr" creationdate="20210303T023109Z">
+        <seg>これらのエントリのいずれかをクリックすると、下のボックスに詳細情報が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11004,6 +11028,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231625Z" creationid="miurahr" creationdate="20201116T231625Z">
         <seg>ne_10m_landテーブルとne_10m_oceanテーブルをマップウィンドウにドラッグします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dragging with the right mouse button defines a rectangle to zoom to, and the right-click menu offers further options.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T022920Z" creationid="miurahr" creationdate="20210303T022920Z">
+        <seg>マウスの右ボタンでドラッグすると、ズームする長方形が定義されます。右クリックメニューには、その他のオプションがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14728,6 +14760,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gpsies</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023209Z" creationid="miurahr" creationdate="20210303T023209Z">
+        <seg>Gpsies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Graphical User Interface (GUI) including support for reordering of rules, a mapview, pickers for colors and symbols and a ton more</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210219T014638Z" creationid="miurahr" creationdate="20201123T230857Z">
@@ -15845,6 +15885,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210227T045259Z" creationid="miurahr" creationdate="20201220T034618Z">
         <seg>この問題が発生するときは、ウインドウの角をドラッグして、もう少しサイズを大きくしてみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this track had any waypoints (which it doesn't), then they would be shown too, marked with their names.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T022825Z" creationid="miurahr" creationdate="20210303T022825Z">
+        <seg>このトラックにウェイポイントがある場合(ない場合もあります)は、それも表示され、その名前が付加されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22108,6 +22156,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now let's find out some more information about where this track is.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023050Z" creationid="miurahr" creationdate="20210303T023050Z">
+        <seg>では、このトラックがどこにあるのか、もう少し詳しく調べてみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now let's finish our map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T145120Z" creationid="miurahr" creationdate="20201116T145120Z">
@@ -22208,6 +22264,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T062608Z" creationid="miurahr" creationdate="20201108T041839Z">
         <seg>``postgres`` データベースから新しい ``demo`` データベースに接続を切り替えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now that we can load and view files from the included file system, let's see if we can supplement this with some online information as well, using some more advanced functions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023043Z" creationid="miurahr" creationdate="20210303T023043Z">
+        <seg>次に、組み込まれているファイル・システムからファイルをロードして表示できるようになったので、さらに高度な機能を使用して、オンライン情報でこれを補完できるかどうかを確認してみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22400,6 +22464,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210221T104054Z" creationid="miurahr" creationdate="20210214T143053Z">
         <seg>これで、Leaflet の基礎を学び、地図アプリをすぐに作ることができます! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now, assuming you have a network connection, you can activate the map by clicking the globe icon at the top of the main map display, or with the menu option :menuselection:`View --&gt; Show Map`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T022904Z" creationid="miurahr" creationdate="20210303T022904Z">
+        <seg>ネットワークに接続している場合は、メインマップ表示の上部にある地球のアイコンをクリックするか、メニューオプション :menuselection:`View--&gt;Show Map` でマップをアクティブにできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34333,6 +34405,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This shows a list of articles whose coordinates are nearest to the selected point.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023118Z" creationid="miurahr" creationdate="20210303T023108Z">
+        <seg>選択した点に最も近い座標を持つ記事のリストが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This starts t-rex in zero-config mode connecting to PostGIS database `osm_local`.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T065730Z" creationid="smellman" creationdate="20201103T051957Z">
@@ -37029,10 +37109,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We can also use an online service to download another track from the same area.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023234Z" creationid="miurahr" creationdate="20210303T023234Z">
+        <seg>同じエリアから別のトラックをダウンロードするオンラインサービスもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We can convert the DTM in a GMT Compatible netCDF file format with `gdal_translate` as follow:</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T053615Z" creationid="miurahr" creationdate="20201116T235711Z">
         <seg>`gdal_translate` を使用して、GMT互換のnetCDFファイル形式のDTMを次のように変換できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We can do this by selecting a point, and then choosing the menu option :menuselection:`Online --&gt; Get nearby Wikipedia articles`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023103Z" creationid="miurahr" creationdate="20210303T023103Z">
+        <seg>これを行うには、ポイントを選択し、メニューオプション :menuselection:`Online--&gt;Get nearby Wikipedia articles` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38101,6 +38197,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wikipedia</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023044Z" creationid="miurahr" creationdate="20210303T023044Z">
+        <seg>Wikipedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With :command:`\\q` command leave the PostgreSQL shell.</seg>
       </tuv>
       <tuv lang="ja">
@@ -38567,6 +38671,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can also click on the altitude profile to select the corresponding point.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023035Z" creationid="miurahr" creationdate="20210303T023035Z">
+        <seg>高度プロファイルをクリックして、対応するポイントを選択することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can also connect to Web Map Servers using the **Add Data** (:menuselection:`Layer --&gt; Add...`) Wizard and paste WMS URL right there.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T073436Z" creationid="miurahr" creationdate="20201121T055616Z">
@@ -38851,6 +38963,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052530Z" creationid="miurahr" creationdate="20201103T052530Z">
         <seg>ポイント上でマウスの左ボタンをクリックしてドラッグすると、ラインからポイントをドラッグできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can drag the map around with the mouse, and zoom in and out with the mousewheel or by double-clicking.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T022910Z" creationid="miurahr" creationdate="20210303T022910Z">
+        <seg>マウスでマップをドラッグして移動したり、マウスホイールまたはダブルクリックで拡大または縮小できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39291,6 +39411,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T075653Z" creationid="miurahr" creationdate="20201221T075653Z">
         <seg>キーボードの `Z` と `I` を押して、ズームと情報ツールを切り替えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can then use the button `Load` to load that point into GpsPrune, or `Show webpage` to load the Wikipedia page in a browser.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023207Z" creationid="miurahr" creationdate="20210303T023207Z">
+        <seg>その後、 `Load` ボタンを使ってそのポイントをGpsPruneに読み込んだり、 `Show webpage`  ボタンを使ってWikipediaページをブラウザにロードしたりできます。</seg>
       </tuv>
     </tu>
     <tu>
