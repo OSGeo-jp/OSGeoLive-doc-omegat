@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef7" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_4470bbb50" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Licence:** revised BSD license</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225641Z" creationid="miurahr" creationdate="20210303T225641Z">
+        <seg>**ライセンス:** revised BSD license</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Licences:**</seg>
       </tuv>
       <tuv lang="ja">
@@ -1494,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-jupyter|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225646Z" creationid="miurahr" creationdate="20210303T225646Z">
+        <seg>**ソフトウェアバージョン:** |version-jupyter|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-leaflet|</seg>
       </tuv>
       <tuv lang="ja">
@@ -1810,6 +1826,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T225301Z" creationid="miurahr" creationdate="20210214T225301Z">
         <seg>**強み**: MapSlicerは、シンプルで自由なオープンソースソフトウエアです。以下に紹介する、様々な設定をガイドしてくれるウィザード があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:**  http://jupyter.org/community.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225651Z" creationid="miurahr" creationdate="20210303T225651Z">
+        <seg>**サポート:**  http://jupyter.org/community.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -2410,6 +2434,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T041918Z" creationid="miurahr" creationdate="20201122T041918Z">
         <seg>**Webサイト:** http://istsos.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** http://jupyter.org/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225635Z" creationid="miurahr" creationdate="20210303T225635Z">
+        <seg>**Webサイト:** http://jupyter.org/</seg>
       </tuv>
     </tu>
     <tu>
@@ -3830,6 +3862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/jupyter_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225708Z" creationid="miurahr" creationdate="20210303T225708Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/jupyter_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>:doc:`Quickstart documentation &lt;../quickstart/leaflet_quickstart&gt;`</seg>
       </tuv>
       <tuv lang="ja">
@@ -4694,6 +4734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A terminal window will open and a startup log will begin to scroll.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230149Z" creationid="miurahr" creationdate="20210303T230149Z">
+        <seg>ターミナルウィンドウが開き、起動ログがスクロールし始めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A tool bar</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131955Z" creationid="miurahr" creationdate="20201116T131955Z">
@@ -4706,6 +4754,22 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T131642Z">
         <seg>豊富な情報は、私たちの `Wiki サイト &lt;https://trac.osgeo.org/osgeolive/wiki&gt;`_ や、 `バグ・要望トラッキングシステム &lt;https://trac.osgeo.org/osgeolive/report/10&gt;`_ をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A web application providing browser-based, interactive authoring of notebook documents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225305Z" creationid="miurahr" creationdate="20210303T225305Z">
+        <seg>ブラウザベースで、対話式でノートブックドキュメント作成を支援するWebアプリケーション。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A web browser is launched showing the notebook dashboard.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230204Z" creationid="miurahr" creationdate="20210303T230204Z">
+        <seg>Webブラウザが起動し、ノートブックのダッシュボードが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7886,6 +7950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change code</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230539Z" creationid="miurahr" creationdate="20210303T230539Z">
+        <seg>コードの変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change language or keyboard type</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210301T233546Z" creationid="sanak" creationdate="20210301T233546Z">
@@ -8038,6 +8110,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose   *Geospatial* -&gt; *Spatial Tools* -&gt; *Jupyter Notebook*</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230157Z" creationid="miurahr" creationdate="20210303T230157Z">
+        <seg>*Geospatial* -&gt; *Spatial Tools* -&gt; *Jupyter Notebook* を選択する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose  *Geospatial* -&gt; *Spatial Tools* -&gt; *Start Jupyter Notebook*</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230141Z" creationid="miurahr" creationdate="20210303T230124Z">
+        <seg>*Geospatial* -&gt; *Spatial Tools* -&gt; *Start Jupyter Notebook* を選択する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose *'Start deegree'* from the :menuselection:`Geospatial --&gt; Web Services --&gt; deegree` menu.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T082805Z" creationid="miurahr" creationdate="20201116T135114Z">
@@ -8146,6 +8234,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T225931Z" creationid="miurahr" creationdate="20210214T225931Z">
         <seg>**Source Data Files** を選択。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose the Introduction notebook.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230243Z" creationid="miurahr" creationdate="20210303T230243Z">
+        <seg>「はじめに」ノートブックを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9184,6 +9280,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Code from multiple programming languages, including python, R, Julia, Bash and many more.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225522Z" creationid="miurahr" creationdate="20210303T225522Z">
+        <seg>Python、R、Julia、Bashなど、複数のプログラミング言語によるコード。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Collaboration</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T052105Z" creationid="miurahr" creationdate="20201122T052105Z">
@@ -9668,6 +9772,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T050650Z" creationid="miurahr" creationdate="20201122T050650Z">
         <seg>サポートされているカバレッジフォーマット:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create Jupyter notebooks which can contain:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225402Z" creationid="miurahr" creationdate="20210303T225402Z">
+        <seg>次の内容を含むJupyterノートブックを作成します:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13120,6 +13232,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Formulas, mathematics, plots, maps, ...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225432Z" creationid="miurahr" creationdate="20210303T225428Z">
+        <seg>数式、数学、グラフ図、地図...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fortunately R is well documented on the web site which eases the learning process.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T013658Z" creationid="miurahr" creationdate="20201103T013658Z">
@@ -13376,6 +13496,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From the application launch menu in the lower left corner.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230122Z" creationid="miurahr" creationdate="20210303T230122Z">
+        <seg>左下隅のアプリケーション起動メニューから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From the desktop, choose :menuselection:`Desktop GIS --&gt; OpenJUMP`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T225329Z" creationid="miurahr" creationdate="20201221T225329Z">
@@ -13416,6 +13544,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From the main page click on the directory GSOC.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230236Z" creationid="miurahr" creationdate="20210303T230236Z">
+        <seg>メインページからGSOCディレクトリをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the notebook dashboard you can navigate the directory tree, start new notebooks, create files and directories, as well as rename, delete and upload files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230216Z" creationid="miurahr" creationdate="20210303T230216Z">
+        <seg>ノートブックのダッシュボードから、ディレクトリツリーのナビゲート、新しいノートブックの起動、ファイルとディレクトリの作成、ファイルの名前変更、削除、およびアップロードを行うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From the toolbar buttons menu press the "new service" button and click :guilabel:`Next`.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210303T141832Z" creationid="miurahr" creationdate="20201122T024610Z">
@@ -13444,6 +13588,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210303T141815Z" creationid="miurahr" creationdate="20201122T024423Z">
         <seg>ツールバーのボタンメニューから、 "GetObservation Configuration"ボタンを押して、getObservation要求ごとの最大時間間隔(無制限の場合は0)と集計のno-data値を設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the toolbar on top of the notebook chose: cell-&gt;run all.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230528Z" creationid="miurahr" creationdate="20210303T230528Z">
+        <seg>ノートブックの上部にあるツールバーから、[セル]-&gt;[すべて実行] を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15408,6 +15560,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here there are a series of example using the cesium javascript library.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230407Z" creationid="miurahr" creationdate="20210303T230322Z">
+        <seg>ここには、cesium javascript ライブラリをつかった例が一式あります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here we reproject the WGS84 geographic image to the Mercator projection:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130156Z" creationid="miurahr" creationdate="20201116T130156Z">
@@ -16053,6 +16213,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T080016Z" creationid="miurahr" creationdate="20201103T080016Z">
         <seg>以上の操作でオブジェクトに対して情報が追加され、ポイントやライン、シェイプの表示色変更、あるいはシンボル表示の変更などが行われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If everything worked as planned you should be able to see the results at the bottom of the page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230535Z" creationid="miurahr" creationdate="20210303T230535Z">
+        <seg>すべてが計画通りに動作した場合は、ページの下部に結果が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16761,6 +16929,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Imported external libraries to add functionality.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225538Z" creationid="miurahr" creationdate="20210303T225429Z">
+        <seg>機能を追加するために外部ライブラリをインポート。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Importing and exporting to shapefiles</seg>
       </tuv>
       <tuv lang="ja">
@@ -17216,6 +17392,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T071105Z" creationid="miurahr" creationdate="20201108T004357Z">
         <seg>*ベクタレイヤ* の場合、そのソースは *フォーマット* クラス(例えばGeoJSONやKML)を使ってベクタデータを読み込み、一連の *フィーチャー* をレイヤに提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the code cell ``in [8]`` we generated a python dictionary based on some keywords (location names) with empty values:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230620Z" creationid="miurahr" creationdate="20210303T230620Z">
+        <seg>``in [8]`` のコードセルで、空の値を持つキーワード(ロケーション名)に基づいてPythonの dictionary を生成しました:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18332,6 +18516,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It combines two components:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225131Z" creationid="miurahr" creationdate="20210303T225131Z">
+        <seg>次の2つのコンポーネントが組み合わされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It comes in a CORE and a PLUS edition, with the latter adding lots of useful plugins.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T103013Z" creationid="smellman" creationdate="20201103T103013Z">
@@ -19300,6 +19492,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jupyter Notebook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230048Z" creationid="miurahr" creationdate="20210303T225012Z">
+        <seg>Jupyterノートブック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jupyter Notebook Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225932Z" creationid="miurahr" creationdate="20210303T225915Z">
+        <seg>Jupyterノートブック・クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jupyter notebooks on OSGeo-Live can use geospatial functions from:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225555Z" creationid="miurahr" creationdate="20210303T225555Z">
+        <seg>OSGeo-Live上のJupyterノートブックでは、次の空間関数を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Just as with a point, select the appropriate tags for your line.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052527Z" creationid="miurahr" creationdate="20201103T052527Z">
@@ -19860,6 +20076,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's click on "CesiumWidget Interact-Example", which uses the widget extension, some python libraries and cesium-js.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230506Z" creationid="miurahr" creationdate="20210303T230506Z">
+        <seg>ウィジェットの拡張 やPythonのライブラリ、cesium-jsをつかった例の、 "CesiumWidget Interact-Example" をクリックしましょう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's create a map of eastern Africa with an indication of the 2018 FOSS4G conference.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T140124Z" creationid="miurahr" creationdate="20210208T140124Z">
@@ -19904,6 +20128,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T114042Z" creationid="miurahr" creationdate="20201103T114042Z">
         <seg>既存のQGISプロジェクトを開いて、その仕組みを見てみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's open an existing notebook.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230228Z" creationid="miurahr" creationdate="20210303T230228Z">
+        <seg>既存のノートブックを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21116,6 +21348,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Marked up text (with headings, styles, paragraphs, etc)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225410Z" creationid="miurahr" creationdate="20210303T225410Z">
+        <seg>マークアップされたテキスト(見出し、スタイル、段落など)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Markers, circles and polygons</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T142423Z" creationid="miurahr" creationdate="20210214T142423Z">
@@ -21432,6 +21672,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>HTML5 の能力を地図アプリケーションに混合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mixing rich media in documentation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225052Z" creationid="miurahr" creationdate="20210303T225052Z">
+        <seg>ドキュメントにリッチメディアを混在させる</seg>
       </tuv>
     </tu>
     <tu>
@@ -22420,6 +22668,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Notebook documents which store a representation of all content visible in the web application, including inputs and outputs of computations, explanatory text, mathematics, code, images, videos, graphs, maps, and other rich media representations of objects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225318Z" creationid="miurahr" creationdate="20210303T225318Z">
+        <seg>計算、説明テキスト、数学、コード、、数学、コード、イメージ、ビデオ、グラフ、マップ、およびオブジェクトのその他のリッチメディア表現を含む、Webアプリケーションに表示されるすべてのコンテンツの表現を格納するノートブックドキュメント。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Notebooks can be shared with others on GitHub, Dropbox, and the `Jupyter Notebook Viewer &lt;https://nbviewer.jupyter.org/&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225342Z" creationid="miurahr" creationdate="20210303T225342Z">
+        <seg>ノートブックはGitHub、Dropbox、そして `Jupyter Notebook Viewer &lt;https://nbviewer.jupyter.org/&gt;`_ で他の人と共有することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Notice how the 'WHERE' part of the line stops us getting back distances of a city to itself (which will all be zero) or the reverse distances to the ones in the table above (London, England to London, Ontario is the same distance as London, Ontario to London, England).</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210303T153347Z" creationid="miurahr" creationdate="20201108T043237Z">
@@ -22616,6 +22880,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T013613Z" creationid="miurahr" creationdate="20201122T013613Z">
         <seg>次に、このSQL文を調整して、NOME_PROVフィールドだけのNOMEと(Lat,Long)を取得してみましょう。NOME_PROVフィールドには"BRESCIA"が含まれます。今度はMunicipalHallsViewを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now lets change some of the code:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230546Z" creationid="miurahr" creationdate="20210303T230546Z">
+        <seg>次に、コードの一部を変更します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22936,6 +23208,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Numpy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Numpy, SciPy Matplotlib, IRIS, Cartopy, gdal, Geopandas, pyshp, Fiona, netCDF4, PostgreSQL, psycopg2, R, rpy2, and more.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225628Z" creationid="miurahr" creationdate="20210303T225628Z">
+        <seg>Numpy, SciPy Matplotlib, IRIS, Cartopy, gdal, Geopandas, pyshp, Fiona, netCDF4, PostgreSQL, psycopg2, R, rpy2, などなど。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24520,6 +24800,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T021848Z" creationid="miurahr" creationdate="20201122T021848Z">
         <seg>QGISでSpatialiteレイヤを開いて編集する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open and execute an existing notebook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230223Z" creationid="miurahr" creationdate="20210303T230223Z">
+        <seg>既存のノートブックを開いて実行する</seg>
       </tuv>
     </tu>
     <tu>
@@ -30305,6 +30593,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start the jupyter server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230112Z" creationid="miurahr" creationdate="20210303T230112Z">
+        <seg>Jupyterサーバを起動する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start the service and view the demo</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T231422Z" creationid="miurahr" creationdate="20210214T231307Z">
@@ -31368,6 +31664,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T131432Z" creationid="miurahr" creationdate="20201116T131949Z">
         <seg>上記のインタフェースは次のものを示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225614Z" creationid="miurahr" creationdate="20210303T225125Z">
+        <seg>Jupyterノートブックは、ライブコード、数式、視覚化、および説明テキストを含むドキュメントを作成および共有できるWebアプリケーションです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33980,6 +34284,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then under "Simple-web-gis-products" select "CESIUM".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230332Z" creationid="miurahr" creationdate="20210303T230320Z">
+        <seg>そして、 "Simple-web-gis-products" の配下の "CESIUM" を選択する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then unzip the downloaded file (using `7zip &lt;https://www.7-zip.org&gt;`_ ).</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T070526Z" creationid="miurahr" creationdate="20201103T113449Z">
@@ -34769,6 +35081,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T023341Z" creationid="miurahr" creationdate="20201103T023341Z">
         <seg>これは簡単な例ですが、できることはたくさんあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a simple notebook, which contains text and links, like a HTML web page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230249Z" creationid="miurahr" creationdate="20210303T230249Z">
+        <seg>これは単純なhtml Webページのようなテキストとリンクを含む単純なノートブックです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37257,6 +37577,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T131635Z" creationid="miurahr" creationdate="20201122T013806Z">
         <seg>スクリプトを使用したりクエリを自動化したりする必要があるユーザは、コマンドラインインタフェースからspatialiteデータベースを操作する利点を学習します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225351Z" creationid="miurahr" creationdate="20210303T225351Z">
+        <seg>データの消去と変換、数値シミュレーション、統計モデリング、機械学習などの用途があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42767,6 +43095,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>and at the code input cell ``in [9]``, we loop over the dictionary keys and making use of a geocoding library ``geocoder``, we add the location information inside the previously created python dictionary ``my place``:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230737Z" creationid="miurahr" creationdate="20210303T230737Z">
+        <seg>そして、入力のコードセル ``in [9]`` で、dictionary のキーをもとにループして、ジオコーディングのライブラリ ``geocoder`` をつかって、ロケーション情報を前につくったdictionary の ``my place`` に追加します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>and hit enter to see the PostgreSQL version number.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210303T151527Z" creationid="miurahr" creationdate="20201108T041022Z">
@@ -45479,6 +45815,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>interact with python code and javascript widgets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230117Z" creationid="miurahr" creationdate="20210303T230057Z">
+        <seg>PythonコードおよびJavascriptウィジェットとの対話</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>internationalisation_quickstart</seg>
       </tuv>
       <tuv lang="ja">
@@ -46155,6 +46499,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>lmckee opengeospatial org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>load a jupyter notebook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T230039Z" creationid="miurahr" creationdate="20210303T230039Z">
+        <seg>Jupyterノートブックをロードする</seg>
       </tuv>
     </tu>
     <tu>
@@ -48579,6 +48931,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>sstein geo uzh ch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>start a jupyter notebook server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T225950Z" creationid="miurahr" creationdate="20210303T225950Z">
+        <seg>Jupyterノートブックサーバーを起動する</seg>
       </tuv>
     </tu>
     <tu>
