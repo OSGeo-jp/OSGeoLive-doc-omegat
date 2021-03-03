@@ -4670,6 +4670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A suitable GPX file containing a couple of tracks can be found on the disc at :file:`~/data/vector/gpx/test_trk2.gpx` so we will load this one.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T021904Z" creationid="miurahr" creationdate="20210303T021904Z">
+        <seg>それなりの量の記録が含まれるGPXファイルは、ディスク上の :file:`~/data/vector/gpx/test_trk2.gpx` にあり、読み込むことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A terminal window opens running R.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210103T034727Z" creationid="miurahr" creationdate="20201123T142537Z">
@@ -5322,6 +5330,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T131252Z" creationid="miurahr" creationdate="20201122T041751Z">
         <seg>直感的なWebベースのインタフェースでセンサーとデータを管理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Advanced Functions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T021454Z" creationid="miurahr" creationdate="20210303T021454Z">
+        <seg>高度な機能</seg>
       </tuv>
     </tu>
     <tu>
@@ -6914,6 +6930,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210130T141606Z" creationid="sanak" creationdate="20210130T141606Z">
         <seg>クエリはフィールド `source_osm` と `target_osm` を使用しているので、クエリは `source` と `target` という必要な名前となるよう、別名を付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Because this file contains two tracks, we are offered the choice of which one(s) to load.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T021959Z" creationid="miurahr" creationdate="20210303T021959Z">
+        <seg>このファイルには二つのトラックがはいっているので、どちらのトラックを読み込むか聞かれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9984,6 +10008,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Customizing the display</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T021441Z" creationid="miurahr" creationdate="20210303T021441Z">
+        <seg>表示のカスタマイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DATA: the name of the spatial data file this layer uses, in this case a shapefile.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201103T021942Z">
@@ -12976,6 +13008,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From the Start menu, choose :menuselection:`Geospatial --&gt; Navigation and Maps --&gt; GpsPrune`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T021340Z" creationid="miurahr" creationdate="20210303T021340Z">
+        <seg>スタートメニューから :menuselection:`Geospatial --&gt; Navigation and Maps --&gt; GpsPrune` を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From the Start menu, choose :menuselection:`Navigation and Maps --&gt; GpsPrune`.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201124T062005Z" creationid="miurahr" creationdate="20201117T000344Z">
@@ -14656,6 +14696,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GpsPrune home page: https://activityworkshop.net/software/gpsprune/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T021347Z" creationid="miurahr" creationdate="20210303T021347Z">
+        <seg>GpsPrune ホームページ: https://activityworkshop.net/software/gpsprune/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GpsPrune is a java application for viewing and editing coordinate data.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T000154Z" creationid="miurahr" creationdate="20201117T000154Z">
@@ -15356,6 +15404,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210206T165936Z" creationid="miurahr" creationdate="20210206T165936Z">
         <seg>How-To</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How-tos and instructions: https://activityworkshop.net/software/gpsprune/how-tos.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T021431Z" creationid="miurahr" creationdate="20210303T021431Z">
+        <seg>ノウハウや手順: https://activityworkshop.net/software/gpsprune/how-tos.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -19388,6 +19444,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's have a look at an alternative map source by selecting the fifth one, "Hikebikemap".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T021558Z" creationid="miurahr" creationdate="20210303T021558Z">
+        <seg>5番目の "Hikebikemap" を選択して、別のマップソースを見てみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's improve our example by using a popup instead of an alert:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T143015Z" creationid="miurahr" creationdate="20210214T143015Z">
@@ -22304,6 +22368,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210227T130805Z" creationid="sanak" creationdate="20210227T130805Z">
         <seg>新しい `shaded_relief` *@user1* マップがレイヤリストに追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now you should see the track marked in blue against a white background.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T022738Z" creationid="miurahr" creationdate="20210303T022738Z">
+        <seg>白い背景に青でマークされたトラックが表示されるはずです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27517,6 +27589,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Scott Penrose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Screenshots: https://activityworkshop.net/software/gpsprune/screenshots.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T021353Z" creationid="miurahr" creationdate="20210303T021353Z">
+        <seg>スクリーンショット: https://activityworkshop.net/software/gpsprune/screenshots.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -33621,6 +33701,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This can be a GPX file, a KML or KMZ file, or even a comma-separated or tab-separated file if you have one.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T021738Z" creationid="miurahr" creationdate="20210303T021738Z">
+        <seg>読み込むファイルには、GPXファイル、KML、 KMZ、 CSV(カンマ区切り値)、TSV(タブ区切り値)ファイルが使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This can be run from the command line as follows:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T013929Z" creationid="miurahr" creationdate="20210303T013929Z">
@@ -34305,6 +34393,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T151123Z" creationid="miurahr" creationdate="20201103T054228Z">
         <seg>これは、作成したOpenLayersマップを使用し、アプリケーションの '中央' 領域に配置されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This uses the maps from hikebikemap.org to show additional information useful for hiking and cycling such as contour lines and cycle routes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T021614Z" creationid="miurahr" creationdate="20210303T021614Z">
+        <seg>hikebikemap.org の地図を使用して、等高線やサイクルルートなど、ハイキングやサイクリングに役立つ追加情報を表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36989,6 +37085,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We choose just the first one and press OK.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T022022Z" creationid="miurahr" creationdate="20210303T022022Z">
+        <seg>最初のトラックを選択して、OKを押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We have documented what we know, but there are likely more tricks and issues.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T134642Z" creationid="miurahr" creationdate="20201120T134642Z">
@@ -37215,8 +37319,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>We will now load a file by using the menu command :menuselection:`File --&gt; Open file` and selecting the file to load.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T231433Z" creationid="miurahr" creationdate="20201123T231433Z">
-        <seg>次に、メニューコマンド :menuselection:`File --&gt; Open file` を使用して、読みこむファイルを選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T021921Z" creationid="miurahr" creationdate="20201123T231433Z">
+        <seg>次に、メニューコマンド :menuselection:`File --&gt; Open file` を使用して、読み込むファイルを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38539,6 +38643,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210108T221539Z" creationid="miurahr" creationdate="20201116T130113Z">
         <seg>シェープファイルをラスタタイルインデックスとして作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can change the map with the menu option :menuselection:`Settings --&gt; Set map background`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T021527Z" creationid="miurahr" creationdate="20210303T021527Z">
+        <seg>:menuselection:`Settings --&gt; Set map background` のメニューオプションでマップを変更できます。</seg>
       </tuv>
     </tu>
     <tu>
