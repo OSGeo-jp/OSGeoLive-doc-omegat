@@ -6214,6 +6214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Anytime you modify the MapCache configuration file you need to reload Apache for the changes to come into effect.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013923Z" creationid="miurahr" creationdate="20210303T013923Z">
+        <seg>MapCache設定ファイルを変更した場合は、変更を有効にするためにApacheをリロードする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Anytime you open a terminal window it will start in your home directory (see pwd).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T055523Z" creationid="miurahr" creationdate="20210201T055523Z">
@@ -6434,6 +6442,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130143Z" creationid="miurahr" creationdate="20201116T130143Z">
         <seg>前に見たように、gdainfoには座標系が設定されていませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As you browse the map you will see the tile cache folders in ``/var/cache/mapcache`` fill with PNG images.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T014227Z" creationid="miurahr" creationdate="20210303T014227Z">
+        <seg>マップをブラウズしていきますと、タイルキャッシュフォルダの ``/var/cache/mapcache`` がPNGイメージで埋められている様子が確認できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21980,6 +21996,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now let's add the tileset to our OpenLayers map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T014010Z" creationid="miurahr" creationdate="20210303T014010Z">
+        <seg>次に、OpenLayersマップにタイルセットを追加しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now let's finish our map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T145120Z" creationid="miurahr" creationdate="20201116T145120Z">
@@ -22056,6 +22080,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T151028Z" creationid="miurahr" creationdate="20201123T143020Z">
         <seg>パッケージ作成者は、パッケージをわかりやすく紹介するために 'ビネット' を書くことが推奨されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now refresh the page at http://localhost/mapcache-quickstart/ - you should see the new streams layer being served by MapCache.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T014113Z" creationid="miurahr" creationdate="20210303T014113Z">
+        <seg>次のページをリフレッシュします:  http://localhost/mapcache-quickstart/ - MapCacheが提供するあたらしいストリームレイヤが見えるようになりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23872,6 +23904,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T230627Z" creationid="miurahr" creationdate="20210214T230627Z">
         <seg>実際のオンラインマップ上のオーバーレイとしてタイルセットを表示するには、Webブラウザで *openlayers.html* ファイルを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the HTML page using the following command:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T014022Z" creationid="miurahr" creationdate="20210303T014016Z">
+        <seg>次のコマンドを使用してHTMLページを開きます:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31972,6 +32012,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The location and type of the cache is set by the following block in the configuration file:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T014237Z" creationid="miurahr" creationdate="20210303T014237Z">
+        <seg>キャッシュの場所とタイプは、構成ファイル内の次のブロックによって設定されます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The lower group of tools look like this:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134335Z" creationid="miurahr" creationdate="20201116T134335Z">
@@ -33497,6 +33545,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131553Z" creationid="miurahr" creationdate="20201116T131553Z">
         <seg>このアプリケーションは、マップ、ナビゲーションコントローラ、複数のデータレイヤ、GISツールを含むリボンツールバー、およびレイヤツリーを特徴としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This can be run from the command line as follows:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013929Z" creationid="miurahr" creationdate="20210303T013929Z">
+        <seg>これは、次のようにコマンドラインから実行できます:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35721,6 +35777,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210227T131025Z" creationid="sanak" creationdate="20210227T131025Z">
         <seg>他のラスターレイヤのチェックを外すと、新たに作成された陰影図ラスターレイヤのみが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Uncomment out the JavaScript code below:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T014027Z" creationid="miurahr" creationdate="20210303T014017Z">
+        <seg>次のJavaScriptコードのコメントを外します:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39427,6 +39491,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210301T235601Z" creationid="sanak" creationdate="20210301T235601Z">
         <seg>VirtualBox Guest Addition をインストールする必要があります。これにより、フルスクリーンモードを利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should now be able to access a tile with the following URL: http://localhost/itasca/gmaps/streams@GoogleMapsCompatible/12/987/1433.png</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013959Z" creationid="miurahr" creationdate="20210303T013959Z">
+        <seg>次の URLにアクセスすることで、見ることができるようになりました: http://localhost/itasca/gmaps/streams@GoogleMapsCompatible/12/987/1433.png</seg>
       </tuv>
     </tu>
     <tu>
