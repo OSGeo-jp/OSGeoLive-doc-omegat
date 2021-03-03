@@ -15520,6 +15520,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, note that when using this live system, all files that you save in the regular file system are lost when you shut down the computer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T024435Z" creationid="miurahr" creationdate="20210303T024355Z">
+        <seg>ただし、このライブシステムを使用している場合は、コンピュータをシャットダウンすると、通常のファイルシステムに保存されているすべてのファイルが失われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Howto</seg>
       </tuv>
       <tuv lang="ja">
@@ -23816,6 +23824,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T055142Z" creationid="miurahr" creationdate="20201120T134517Z">
         <seg>処理する値を選択したら、左側のフォームの下部にある :guilabel:`Execute` ボタンを押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once you've installed GpsPrune on your permanent system, you can save your settings with the menu option :menuselection:`Settings --&gt; Save settings`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T024345Z" creationid="miurahr" creationdate="20210303T024345Z">
+        <seg>永続的なシステムにGpsPruneをインストールしたら、メニューオプションの :menuselection:`Settings--&gt;Save settings` を使って設定を保存することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33332,6 +33348,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then they will be remembered for the next time you run GpsPrune.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T024426Z" creationid="miurahr" creationdate="20210303T024352Z">
+        <seg>すると次にGpsPruneを使うときに、設定が記憶されるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then try this::</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055339Z" creationid="miurahr" creationdate="20201103T055339Z">
@@ -34033,6 +34057,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210206T165432Z" creationid="miurahr" creationdate="20210206T165432Z">
         <seg>これは、簡易なユーザインターフェースをもち、 ``osgeo-live-XX.X-vm.vmdk`` ファイルを選択して、 *Microsoft VHDX* イメージに変換できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This helps to speed up the display as it doesn't have to download the images again.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T024503Z" creationid="miurahr" creationdate="20210303T024503Z">
+        <seg>これにより、イメージを再度ダウンロードする必要がなくなるため、表示速度が向上します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38851,6 +38883,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T071853Z" creationid="miurahr" creationdate="20201120T133757Z">
         <seg>各フレームを画像ファイルとして保存して、後で `他のソフトウェア &lt;https://grasswiki.osgeo.org/wiki/Movies&gt;`_ を使用してAVI、MPEG、またはアニメーションGIFにエンコードすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also save the downloaded map tiles to disk by selecting the menu option :menuselection:`Settings --&gt; Save maps to disk` and selecting a directory in which to save the images.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T024453Z" creationid="miurahr" creationdate="20210303T024453Z">
+        <seg>ダウンロードしたマップタイルをディスクに保存するには、メニューオプションの :menuselection:`Settings--&gt;Save maps to disk` を選択し、イメージを保存するディレクトリを選択します。</seg>
       </tuv>
     </tu>
     <tu>
