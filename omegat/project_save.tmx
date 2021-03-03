@@ -3206,6 +3206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*config*: ``/home/user/mapcache/mapcache-quickstart.xml`` - this is the path to the MapCache configuration file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013527Z" creationid="miurahr" creationdate="20210303T013527Z">
+        <seg>*config*: ``/home/user/mapcache/mapcache-quickstart.xml`` - これは、MapCacheの設定ファイルのパスです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*deegree 3* is the new generation of the deegree Java framework for GIS applications and OGC-service implementations.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T143509Z" creationid="miurahr" creationdate="20201116T135024Z">
@@ -3234,6 +3242,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T143438Z" creationid="miurahr" creationdate="20201116T135008Z">
         <seg>*deegree* は、空間データインフラストラクチャと地理空間Webのためのオープンソースソフトウェアです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*tileset*: ``lakes`` - this is the tileset name we are going to seed, and is found in ``mapcache-quickstart.xml``</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013238Z" creationid="miurahr" creationdate="20210303T013238Z">
+        <seg>*tileset*: ``lakes`` - this is the tileset name we are going to seed, and is found in ``mapcache-quickstart.xml``</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*zoom*: ``0,5`` - this is the range of zoom levels we are going to seed, from zoom level 0 (the extent of the world in a single tile) to zoom level 5</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013233Z" creationid="miurahr" creationdate="20210303T013233Z">
+        <seg>*zoom*: ``0,5`` - これは、seedするズームレベルの範囲で、ズームレベル 0 (世界全体が一枚のタイルになる)から、ズームレベル5を示しています</seg>
       </tuv>
     </tu>
     <tu>
@@ -5142,6 +5166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adding New Services</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013534Z" creationid="miurahr" creationdate="20210303T013534Z">
+        <seg>新規サービスの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adding a New Tileset and Displaying in OpenLayers</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T041821Z" creationid="miurahr" creationdate="20210215T041821Z">
@@ -6378,6 +6410,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T102540Z" creationid="smellman" creationdate="20201103T102540Z">
         <seg>ホストの船舶が移動すると、新しいチャートが選択され、ユーザ指定の解像度および詳細で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As this requires super user permissions you can open it for editing in FeatherPad by running the command below:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013631Z" creationid="miurahr" creationdate="20210303T013616Z">
+        <seg>スーパーユーザ権限が必要なので、次のコマンドを実行してFeatherPadで編集用に開くことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12648,6 +12688,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For the many other ``mapcache_seed`` options please see the `Seeder Documentation &lt;https://mapserver.org/mapcache/seed.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013129Z" creationid="miurahr" creationdate="20210303T013129Z">
+        <seg>他の ``mapcache_seed`` オプションについては、`Seeder Documentation &lt;https://mapserver.org/mapcache/seed.html&gt;`_ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For the purposes of this Quick Start Guide, select Geographic information - Metadata (iso19139) and then select the blue **Load samples for selected standards** button below the list.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133531Z" creationid="miurahr" creationdate="20201116T133531Z">
@@ -16033,6 +16081,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you want to remove a cache folder you can run the following command:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013051Z" creationid="miurahr" creationdate="20210303T013051Z">
+        <seg>キャッシュフォルダを削除するには、次のコマンドを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want to use this sample application to build and customize your own Web GIS solution, visit `&lt;http://www.geomajas.org/client-gwt&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T151607Z" creationid="miurahr" creationdate="20201116T131756Z">
@@ -16704,6 +16760,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T071422Z" creationid="miurahr" creationdate="20201108T020548Z">
         <seg>このコードでは、TopoJSONファイルをロードし、 ``style`` プロパティーを使ってスタイルを設定しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the example below we pass in three options to ``mapcache_seed``:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013502Z" creationid="miurahr" creationdate="20210303T013502Z">
+        <seg>以下の例では、 ``mapcache_seed`` に三つのオプションを与えています:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19940,6 +20004,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Map tiles are dynamically created when requested by the web server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013301Z" creationid="miurahr" creationdate="20210303T013301Z">
+        <seg>マップタイルは、Webサーバーから要求されたときに動的に作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MapCache</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T022303Z" creationid="miurahr" creationdate="20201220T022303Z">
@@ -21404,6 +21476,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next we will add a ``&lt;tileset&gt;`` block, which defines how the source will be stored and served as tiles.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013802Z" creationid="miurahr" creationdate="20210303T013802Z">
+        <seg>次に ``&lt;tileset&gt;`` ブロックを追加します。このブロックは、ソースがどのように格納され、タイルとして扱われるかを定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next we will configure some OpenLayers objects used by the application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054040Z" creationid="miurahr" creationdate="20201103T054040Z">
@@ -22728,6 +22808,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T041745Z" creationid="miurahr" creationdate="20210215T041745Z">
         <seg>OSGeoLiveにはMapCacheがインストールされており、Apacheモジュールとして設定されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeoLive has two MapCache services, each with an alias and a configuration file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013626Z" creationid="miurahr" creationdate="20210303T013626Z">
+        <seg>OSGeoLiveには2つのMapCacheサービスがあり、それぞれにエイリアスと設定ファイルがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24668,6 +24756,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Place the following block after the existing ``&lt;tileset name="lakes"&gt;...&lt;/tileset&gt;`` block.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013825Z" creationid="miurahr" creationdate="20210303T013825Z">
+        <seg>既存の ``&lt;tileset name="lakes"&gt;...&lt;/tileset&gt;`` ブロックの後に次のブロックを置きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Placing code here ensures the JavaScript libraries have been loaded before running any custom JavaScript code.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054033Z" creationid="miurahr" creationdate="20201103T054033Z">
@@ -26305,6 +26401,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Read the `MapCache Documentation &lt;https://mapserver.org/mapcache/index.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013041Z" creationid="miurahr" creationdate="20210303T013041Z">
+        <seg>`MapCache 文書 &lt;https://mapserver.org/mapcache/index.html&gt;`_ を読む。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Read the `documentation of MapProxy &lt;../../mapproxy/index.html&gt;`_</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T233021Z" creationid="miurahr" creationdate="20210214T232658Z">
@@ -27573,6 +27677,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T191350Z" creationid="miurahr" creationdate="20201120T133848Z">
         <seg>詳細は、  :doc:`クイックスタート文書 &lt;../quickstart/opencpn_quickstart&gt;` を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the `Apache Module Instructions &lt;https://mapserver.org/mapcache/install.html#apache-module-specific-instructions&gt;`_ for further details on configuring the Apache module.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013748Z" creationid="miurahr" creationdate="20210303T013748Z">
+        <seg>Apacheモジュールの設定の詳細は、 `Apache Module Instructions &lt;https://mapserver.org/mapcache/install.html#apache-module-specific-instructions&gt;`_  を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30564,6 +30676,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Seeder Application</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013250Z" creationid="miurahr" creationdate="20210303T013250Z">
+        <seg>シーダー・アプリケーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The SpatiaLite extension enables SQLite to support spatial data conformant to OGC specifications.</seg>
       </tuv>
       <tuv lang="ja">
@@ -30900,6 +31020,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ``name=streams`` is used by client applications to access the tileset.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013909Z" creationid="miurahr" creationdate="20210303T013909Z">
+        <seg>``name=streams`` は、クライアントアプリケーションがタイルセットにアクセスするためにつかわれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ``raster_overviews`` lists such tables and their raster column and the table each is an overview for.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T062946Z" creationid="miurahr" creationdate="20201108T042526Z">
@@ -30992,6 +31120,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210206T164254Z" creationid="miurahr" creationdate="20210206T164254Z">
         <seg>仮想マシンを利用する利点は、 :doc:`virtualization_quickstart` にまとまっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The alias is the URL to use on the server, e.g. http://localhost/mapcache and http://localhost/itasca</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013652Z" creationid="miurahr" creationdate="20210303T013652Z">
+        <seg>Aliasは、サーバ上で使用するURLです。例: http://localhost/mapcacheとhttp://localhost/itasca</seg>
       </tuv>
     </tu>
     <tu>
@@ -32748,6 +32884,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then join the MapServer community, of which MapCache is a part, on the `Mailing Lists &lt;https://www.mapserver.org/community/lists.html&gt;`_ to exchange ideas, discuss potential software improvements and ask questions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013020Z" creationid="miurahr" creationdate="20210303T013020Z">
+        <seg>`メーリングリスト &lt;https://www.mapserver.org/community/lists.html&gt;`_  のコミュニティ(ここではMapCacheがその対象の一部です)に参加して、アイデアを交換したり、ソフトウェアの改善点について話し合ったり、質問したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then join the community on the `Mailing Lists &lt;https://www.mapserver.org/community/lists.html&gt;`_ to exchange ideas, discuss potential software improvements and ask questions.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T080256Z" creationid="miurahr" creationdate="20201103T023521Z">
@@ -33853,6 +33997,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This process is known as *seeding*, and the MapCache command line application is ``mapcache_seed``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013359Z" creationid="miurahr" creationdate="20210303T013359Z">
+        <seg>この処理は、 *シーティング* として知られており、 MapCache コマンドラインアプリケーションは ``mapcache_seed`` です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This project contains a number of layers in the layers panel and is displaying the spatial content in the map frame.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210219T013630Z" creationid="miurahr" creationdate="20201103T120312Z">
@@ -34445,6 +34597,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To add a new service simply add a new line in the following format, replacing WEB_PATH and PATH_TO_CONFIG_FILE with the relevant parameters:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013704Z" creationid="miurahr" creationdate="20210303T013704Z">
+        <seg>新しいサービスを追加するには、WEB_PATHおよびPATH_TO_CONFIG_FILEを関連パラメータで置き換えて、次のフォーマットで新しい行を追加します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To add a scalebar go to the `Map Display` window and press the "Add map elements" button to the right of where you selected the Profile tool earlier and select "Show/hide scalebar" then click :guilabel:`Ok`.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210302T162351Z" creationid="sanak" creationdate="20210302T162351Z">
@@ -34789,6 +34949,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To make sure the tiles created by the seeder application are accessible by the web server account we add ``sudo -u www-data`` before running the ``mapcache_seed`` application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013441Z" creationid="miurahr" creationdate="20210303T013441Z">
+        <seg>シーダアプリケーションによって作成されたタイルがウェブサーバアカウントからアクセスできるようにするために、 ``mapcache_seed`` アプリケーションを実行する前に ``sudo-u www-data`` を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To manage bookmarks, go to "Bookmarks-&gt;Manage Bookmarks".</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T145711Z" creationid="miurahr" creationdate="20201117T001049Z">
@@ -34945,6 +35113,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T225639Z" creationid="miurahr" creationdate="20201123T225639Z">
         <seg>セットアップを単純化するために、我々は、我々のビルディングブロックに基づいて、既にあなたのために作業をしているいくつかの高レベルのコンポーネントも提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To speed up request times we can generate tiles using a command line application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013315Z" creationid="miurahr" creationdate="20210303T013315Z">
+        <seg>要求時間を短縮するために、コマンドラインアプリケーションを使用してタイルを生成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36589,6 +36765,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We are using a disk-based cache (rather than storing tiles in a database or in a cloud environment).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013917Z" creationid="miurahr" creationdate="20210303T013917Z">
+        <seg>データベースやクラウド環境にタイルを保存するのではなく、ディスク・ベースのキャッシュを使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We assume that in the active GRASS GIS session the current location is **nc_spm_08** and the current mapset is **test_mapset**.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T041352Z" creationid="miurahr" creationdate="20210215T041352Z">
@@ -36737,6 +36921,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T230633Z" creationid="miurahr" creationdate="20201123T230633Z">
         <seg>Geopackageフォーマットのデータよみこみの開発を計画しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We set the grid type to the inbuilt ``GoogleMapsCompatible`` grid used as the default tiling scheme in many web mapping applications.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013843Z" creationid="miurahr" creationdate="20210303T013843Z">
+        <seg>グリッドタイプを、多くのWebマッピングアプリケーションでデフォルトのタイリングスキームとして使用される組み込み ``GoogleMapsCompatible`` グリッドに設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38227,6 +38419,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113534Z" creationid="miurahr" creationdate="20201103T113534Z">
         <seg>共有フォルダを読み取り専用にし、自動マウントすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can configure Apache to run as many different MapCache services, each with its own configuration file by editing the ``/etc/apache2/conf-enabled/mapcache.conf`` file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T013603Z" creationid="miurahr" creationdate="20210303T013603Z">
+        <seg>``/etc/apache2/conf-enabled/mapcache.conf`` ファイルを編集することで、それぞれが独自の設定ファイルを持つ、多数の異なるMapCacheサービスを実行するようにApacheを設定できます。</seg>
       </tuv>
     </tu>
     <tu>
