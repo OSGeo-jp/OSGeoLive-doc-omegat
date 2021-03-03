@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>"terrain" or "srtm" are nice choices.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T021107Z" creationid="miurahr" creationdate="20210303T021107Z">
+        <seg>"terrain" や "srtm" がよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>'`xgps`' is a good program to check that Gpsd can see your GPS ok.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T224651Z" creationid="miurahr" creationdate="20201221T224651Z">
@@ -23452,6 +23460,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Once done click the [*Run*] button and close the *r.colors* dialog window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T021151Z" creationid="miurahr" creationdate="20210303T021151Z">
+        <seg> [*Run*] ボタンをクリックして完了したら、 *r.colors* ダイアログウインドウをを閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Once done click the [*Run*] button and close the *v.colors* dialog window.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210302T222148Z" creationid="sanak" creationdate="20210302T222148Z">
@@ -31368,6 +31384,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T020803Z" creationid="miurahr" creationdate="20210303T020803Z">
         <seg>色が違うかもしれないので、変えてみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The colors should then update automatically.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T021218Z" creationid="miurahr" creationdate="20210303T021218Z">
+        <seg>色は自動的に更新されます。</seg>
       </tuv>
     </tu>
     <tu>
