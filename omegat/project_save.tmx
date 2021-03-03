@@ -5494,6 +5494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After trying out GpsPrune on this live image, you may want to use it on another system, whether it's another Linux system or Mac OSX or Windows.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023934Z" creationid="miurahr" creationdate="20210303T023934Z">
+        <seg>このライブイメージでGpsPruneを試した後に、別のLinuxシステムでもMac OSXでもWindowsでも利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After you have your own username and password, you will be able to add your first points to the map, learn how to do street surveys and work with aerial imagery.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210219T015008Z" creationid="miurahr" creationdate="20201102T052209Z">
@@ -5570,6 +5578,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133450Z" creationid="miurahr" creationdate="20201120T133450Z">
         <seg>再度、左クリックドラッグで対象のボックスをマークします。ただし、今回は拡大されたマップキャンバスのほとんどまたはすべてをカバーしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Again, we get a list of matching entries, and we can select one to view the description.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023304Z" creationid="miurahr" creationdate="20210303T023304Z">
+        <seg>ここでも、一致するエントリのリストを取得し、その中から1つを選択して説明を表示できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8704,6 +8720,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the point at the start of the climb, just north of Dunedin, to select it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023444Z" creationid="miurahr" creationdate="20210303T023444Z">
+        <seg>ダニーデンのすぐ北にある登山口のポイントをクリックして選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the second button, the Draw tool.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075532Z" creationid="miurahr" creationdate="20201103T073619Z">
@@ -8844,6 +8868,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T083843Z" creationid="miurahr" creationdate="20201122T034654Z">
         <seg>:guilabel:`Plot` ボタンをクリックし、データが追加されたことを確認します(タイムゾーンに注意してください)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the `Load` button to load the track, and select to append this track to the data we've already got.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023319Z" creationid="miurahr" creationdate="20210303T023305Z">
+        <seg>`ロード` ボタンをクリックしてトラックをロードし、このトラックをすでに取得したデータに追加することを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11096,6 +11128,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Draw your own track with `Create series of points` from the right-click menu and measure the total distance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023724Z" creationid="miurahr" creationdate="20210303T023724Z">
+        <seg>右クリックメニューから  `Create series of points`  で独自のトラックを描画し、合計距離を測定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drawing</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075318Z">
@@ -11956,6 +11996,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125316Z" creationid="miurahr" creationdate="20201116T125316Z">
         <seg>gdalinfoを使用して画像データを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export an image of your track with :menuselection:`File --&gt; Export image`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023758Z" creationid="miurahr" creationdate="20210303T023758Z">
+        <seg>:menuselection:`File --&gt; Export image` を使って、作成したトラックの画像をエキスポートする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16105,6 +16153,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you have your own track files in any of the formats gpx, kml, kmz or csv, load one of these into GpsPrune and view it using one of the available maps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023844Z" creationid="miurahr" creationdate="20210303T023831Z">
+        <seg>gpx、kml、kmz、csvのどれかの形式の独自トラックファイルがある場合は、GpsPruneにロードしてみて、使用可能なマップ上でトラックを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you hover over a line in the table, the corresponding feature on the map will be highlighted.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132525Z" creationid="miurahr" creationdate="20201116T132525Z">
@@ -18016,6 +18072,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135323Z" creationid="miurahr" creationdate="20201116T135323Z">
         <seg>すべてのAnnex Iデータテーマ用のトランザクションWFS(2.0.0および1.1.0)と、これらのAnnex Iデータテーマの3つのレイヤを提供するWMS(1.3.0および1.1.1)で構成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It doesn't need to be installed, but it does need a java runtime to be installed, version 1.5 or higher.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T024010Z" creationid="miurahr" creationdate="20210303T024010Z">
+        <seg>インストールする必要はありませんが、バージョン1.5以上のJavaランタイムをインストールする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20836,6 +20900,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Measuring distances</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023333Z" creationid="miurahr" creationdate="20210303T023333Z">
+        <seg>距離の測定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Merkaartor</seg>
       </tuv>
       <tuv lang="ja">
@@ -22328,6 +22400,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T054051Z" creationid="miurahr" creationdate="20201103T054051Z">
         <seg>次に、作成した画層で設定されたOpenLayersマップオブジェクトを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now we can see both tracks in the same view.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023327Z" creationid="miurahr" creationdate="20210303T023327Z">
+        <seg>これで、両方のトラックが同じビューに表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28097,6 +28177,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select :menuselection:`Range --&gt; Set range end` to finish the selection.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023618Z" creationid="miurahr" creationdate="20210303T023557Z">
+        <seg>:menuselection:`Range --&gt; Set range end` を選択して、選択終了点とします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select :menuselection:`Range --&gt; Set range start` to make this point the start of the selection.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023615Z" creationid="miurahr" creationdate="20210303T023518Z">
+        <seg>:menuselection:`Range --&gt; Set range start` を選択して、この地点を選択開始点とします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select :menuselection:`System Tools --&gt; Startup Disk Creator`, or search for `Startup Disk Creator` from the Unity desktop.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T072325Z" creationid="miurahr" creationdate="20201120T135212Z">
@@ -28125,6 +28221,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T134503Z" creationid="miurahr" creationdate="20201116T134503Z">
         <seg>水域など、凡例のカテゴリに対応する地物を地図上で選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a point at the top of the climb by clicking on the highest point of the altitude profile.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023537Z" creationid="miurahr" creationdate="20210303T023537Z">
+        <seg>高度プロファイルの最高点をクリックして、上昇の頂点を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a point in the track and delete it with :menuselection:`Point --&gt; Delete point`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023701Z" creationid="miurahr" creationdate="20210303T023701Z">
+        <seg>トラック内のポイントを選択し、次のコマンドで削除します。  :menuselection:`Point --&gt; Delete point`</seg>
       </tuv>
     </tu>
     <tu>
@@ -28981,6 +29093,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T150440Z" creationid="miurahr" creationdate="20201103T012234Z">
         <seg>注目すべき点は、Swing サポート (geotoolsチュートリアルで使用)、SWT、ローカルおよびWebプロセスサポート、追加のシンボロジー、追加のデータフォーマット、グリッドの生成、および ISO ジオメトリのいくつかの実装です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some linux distributions include GpsPrune in their normal software libraries (just search for "Prune" or "GpsPrune"), or you can just download the latest copy from the home page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023959Z" creationid="miurahr" creationdate="20210303T023959Z">
+        <seg>一部のLinuxディストリビューションでは、通常のソフトウェアライブラリにGpsPruneが含まれています( "Prune" や "GpsPrune" を検索してください)。あるいは、ホームページから最新版をダウンロードすることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35117,6 +35237,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To find out how long the climb is, we will select just the part of the track which contains the climb, and then we will be able to view the properties of this selected range, such as the distance, climb and descent.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023438Z" creationid="miurahr" creationdate="20210303T023438Z">
+        <seg>上昇の長さを確認するには、上昇を含むトラックの部分だけを選択し、選択した範囲のプロパティ(距離、上昇、下降など)を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To generate the actinia process chain JSON request simply add the --dry-run flag</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T040937Z" creationid="miurahr" creationdate="20210215T040937Z">
@@ -36421,6 +36549,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using GpsPrune on other systems</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023901Z" creationid="miurahr" creationdate="20210303T023837Z">
+        <seg>他のシステムでの GpsPrune の利用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using OSM as basemap in QGIS</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210122T023928Z" creationid="miurahr" creationdate="20210122T023919Z">
@@ -37169,6 +37305,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201125T001144Z" creationid="miurahr" creationdate="20201123T142825Z">
         <seg>``admin`` フィールドを使用して、世界のデータをサブセット化し、英国を取得することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We can use the menu command :menuselection:`Online --&gt; Get Gpsies tracks` to search for tracks on the website gpsies.com.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023256Z" creationid="miurahr" creationdate="20210303T023256Z">
+        <seg>メニューコマンド :menuselection:`Online--&gt;Get Gpsies tracks` を使ってウェブサイト gpsies.com でトラックを検索することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39063,6 +39207,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can extend GpsPrune's functionalities by installing other free software, such as *GPSBabel*, *Gnuplot*, *Exiftool* and *Java3d*.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T024324Z" creationid="miurahr" creationdate="20210303T024324Z">
+        <seg>*GPSBabel* 、*gnuplot* 、*Exiftool* 、*Java3d* などのフリーソフトウェアをインストールすることで、GpsPruneの機能を拡張することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can fill hospital name, address, and/or other additional information.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052143Z" creationid="miurahr" creationdate="20201103T052143Z">
@@ -39219,6 +39371,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210122T023859Z" creationid="miurahr" creationdate="20210122T023859Z">
         <seg>これで、 `Export-&gt;Save as....` を使用してデータを保存できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can now see in the "Range details" section that this part of the track is 8.55 km long, climbs 346 m and descends just 10 m.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T023635Z" creationid="miurahr" creationdate="20210303T023608Z">
+        <seg>`Range Details` セクションでは、この部分の長さが8.55kmで、346mを登って10mだけ下っていることがわかります。</seg>
       </tuv>
     </tu>
     <tu>
