@@ -23300,6 +23300,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Once the 3D display interface loads, you will see several tabs for the display control of the 3D view.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T000124Z" creationid="sanak" creationdate="20210303T000124Z">
+        <seg>3D表示インタフェースが読み込まれると、3D表示のコントロール用のタブがいくつか表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Once the VM is created, click on the Settings button.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113519Z" creationid="miurahr" creationdate="20201103T113519Z">
