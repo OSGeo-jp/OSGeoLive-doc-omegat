@@ -4192,8 +4192,8 @@
       <tuv lang="en-US">
         <seg>A "point" created in the iD editor is actually a standalone "node" with a set of "tags" on it.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210303T165929Z" creationid="miurahr" creationdate="20201103T052318Z">
-        <seg>iDエディタで作成される "ポイント" は、実際には "タグ" のセットが付いた独立の"ノード"です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20210303T224333Z" creationid="miurahr" creationdate="20201103T052318Z">
+        <seg>iDエディタで作成される "ポイント" は、実際には "タグ" のセットが付いた独立の "ノード" です。</seg>
       </tuv>
     </tu>
     <tu>
