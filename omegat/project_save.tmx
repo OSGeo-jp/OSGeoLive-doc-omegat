@@ -5870,6 +5870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Along the road we’ll engage with some related software, because pygeoapi is a product which is typically combined with other components to fulfill a business case.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025456Z" creationid="miurahr" creationdate="20210303T025038Z">
+        <seg>pygeoapiはビジネス、ビジネスケースを満たすために他のコンポーネントと組み合わされる製品なので、説明の途中で関連するソフトウェアをいくつか取り上げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also if authorised the user can modify the data and send it back to the server to update the stored data using the WFS-T protocol.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011634Z" creationid="miurahr" creationdate="20201103T011626Z">
@@ -6058,6 +6066,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T103921Z" creationid="smellman" creationdate="20201103T103921Z">
         <seg>解析とクエリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And Save the file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025837Z" creationid="miurahr" creationdate="20210303T025837Z">
+        <seg>ファイルを保存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9272,10 +9288,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Configure and start the service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025600Z" creationid="miurahr" creationdate="20210303T025600Z">
+        <seg>設定とサービスの開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Configure multiple views of data sources.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T051310Z" creationid="miurahr" creationdate="20201122T051310Z">
         <seg>データソースの複数のビューを設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Configure new service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025910Z" creationid="miurahr" creationdate="20210303T025850Z">
+        <seg>新しいサービスの構成</seg>
       </tuv>
     </tu>
     <tu>
@@ -13116,6 +13148,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T054150Z" creationid="miurahr" creationdate="20201120T134135Z">
         <seg>[スタート]メニューから :menuselection:`Geospatial --&gt; Web Services --&gt; ZOO Project` を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the Start menu, select :menuselection:`Structure --&gt; osgeolive --&gt; appmenupath --&gt; pygeoapi`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025616Z" creationid="miurahr" creationdate="20210303T025616Z">
+        <seg>スタートメニューから  :menuselection:`Structure --&gt; osgeolive --&gt; appmenupath --&gt; pygeoapi` を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17268,6 +17308,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this quickstart we’ll guide you in setting up the software and use it for some specific cases.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025059Z" creationid="miurahr" creationdate="20210303T025036Z">
+        <seg>このクイックスタートでは、ソフトウェアのセットアップ方法を説明し、特定ケースを想定して使用してみます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this quickstart you will learn some basic commands.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210122T025931Z" creationid="miurahr" creationdate="20210122T025931Z">
@@ -18232,6 +18280,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T024304Z" creationid="miurahr" creationdate="20201220T024304Z">
         <seg>これは、 ITK イメージ処理ライブラリーに基づいており、オープンソースとして配布されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is built on the powerful open-source libraries from the (geo)python community.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025021Z" creationid="miurahr" creationdate="20210303T025021Z">
+        <seg>(geo)pythonコミュニティの強力なオープンソースライブラリ上に構築されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22612,6 +22668,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OGC API - Features is a standard of OGC to expose vector features as a webservice.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025924Z" creationid="miurahr" creationdate="20210303T025924Z">
+        <seg>OGC API-Featuresは、ベクトル機能をWebサービスとして公開するためのOGCの標準です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC API - Features is the OpenAPI alternative to WFS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T030010Z" creationid="miurahr" creationdate="20210303T030010Z">
+        <seg>OGC API - WFSの代替となる OpenAPI機能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OGC Catalogue Service-Web (CSW) 2.0.2</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T061847Z" creationid="sanak" creationdate="20210102T061847Z">
@@ -24260,6 +24332,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the file ``sudo nano pygeoapi-config.yml``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025745Z" creationid="miurahr" creationdate="20210303T025745Z">
+        <seg>コマンド ``sudo nano pygeoapi-config.yml`` でファイルを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the file with a Desktop GIS like QGIS, and have a look.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125545Z" creationid="miurahr" creationdate="20201116T125545Z">
@@ -25812,6 +25892,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Prior knowledge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025505Z" creationid="miurahr" creationdate="20210303T025505Z">
+        <seg>前提知識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Prior to running this quick start you should start TileStache.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T124354Z" creationid="miurahr" creationdate="20210208T124354Z">
@@ -26172,6 +26260,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T030243Z" creationid="miurahr" creationdate="20201220T030243Z">
         <seg>Python 2と3に互換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Python knowledge is recommended, although you can do without by running the application from OSGeoLive.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025549Z" creationid="miurahr" creationdate="20210303T025526Z">
+        <seg>Pythonの知識が推奨されますが、OSGeoLiveからアプリケーションを実行しなくてもかまいません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27029,6 +27125,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>再スケーリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Restart the service, for example by closing the terminal and starting the service again</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025904Z" creationid="miurahr" creationdate="20210303T025848Z">
+        <seg>端末を閉じてサービスを再開するなどして、サービスを再開します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31540,6 +31644,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The application will open a web page at http://localhost:5000</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025648Z" creationid="miurahr" creationdate="20210303T025648Z">
+        <seg>Webページ http://localhost:5000 でアプリケーションを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The application will take a few moments to start up</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T140908Z" creationid="miurahr" creationdate="20201120T140908Z">
@@ -33989,6 +34101,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This file contains the configuration of the service.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025725Z" creationid="miurahr" creationdate="20210303T025725Z">
+        <seg>このファイルには、サービスの構成が含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This gives a nice looking basic world map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T231812Z" creationid="miurahr" creationdate="20201116T231812Z">
@@ -36273,6 +36393,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T051623Z" creationid="miurahr" creationdate="20201122T051555Z">
         <seg>データ、グラフィックス、ドキュメント、pdfファイル、その他のコンテンツタイプのアップロードとダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Update some parameters in the file, such as Title and Author.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025829Z" creationid="miurahr" creationdate="20210303T025829Z">
+        <seg>Title や Author など、ファイル内の一部のパラメータを更新します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40395,6 +40523,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210302T232834Z" creationid="sanak" creationdate="20210302T232728Z">
         <seg>ウィンドウ下部の情報バーに読み込まれているレコード数が少なくなり、標準偏差 (std.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You'll now deploy a vector dataset in pygeoapi and expose its features as OGC API - Features.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025918Z" creationid="miurahr" creationdate="20210303T025918Z">
+        <seg>ここでは、ベクトル・データセットをpygeoapiにデプロイし、その機能をOGC API-Featuresとして公開します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45983,6 +46119,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>navigate to the user folder ``/usr/local/share/pygeoapi`` and locate a file ``pygeoapi-config.yml``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025720Z" creationid="miurahr" creationdate="20210303T025720Z">
+        <seg>ユーザフォルダの ``/usr/local/share/pygeoapi`` へ行きファイル ``pygeoapi-config.yml`` を配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ncWMS</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T015225Z" creationid="miurahr" creationdate="20201220T015225Z">
@@ -46999,10 +47143,34 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>pygeoapi Quickstart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025000Z" creationid="miurahr" creationdate="20210303T024945Z">
+        <seg>pygeoapiクイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pygeoapi is `open source &lt;https://opensource.org&gt;`_ and released under an `MIT`_ license.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T141524Z" creationid="miurahr" creationdate="20201220T030824Z">
         <seg>pygeoapi は `オープンソース &lt;https://opensource.org&gt;`_ で  `MIT`_ ライセンスでリリースされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pygeoapi is a Python web application for the spatial domain, so you need to be aware of the concepts of web applications and geospatial aspects such as grid and vector formats, OGC standards and projection systems.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025542Z" creationid="miurahr" creationdate="20210303T025523Z">
+        <seg>pygeoapiは空間ドメイン用のPython Webアプリケーションであるため、Webアプリケーションの概念と、グリッドおよびベクタフォーマット、OGC標準、投影システムなどの空間処理的側面を意識する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pygeoapi is a tool to quickly and easily publish OGC Open API services on the web.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210303T025014Z" creationid="miurahr" creationdate="20210303T025014Z">
+        <seg>pygeoapiは、OGC Open APIサービスをWeb上で迅速かつ容易に公開するためのツールです。</seg>
       </tuv>
     </tu>
     <tu>
