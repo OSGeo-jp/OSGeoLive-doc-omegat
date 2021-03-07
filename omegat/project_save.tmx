@@ -5582,6 +5582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Afterwards a web browser is launched showing the Jupyter Notebook dashboard.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151115Z" creationid="miurahr" creationdate="20210307T151106Z">
+        <seg>Webブラウザが起動し、Jupyterノートブックのダッシュボードが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Afterwards expand the ``public`` schema.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210303T153807Z" creationid="miurahr" creationdate="20201117T002648Z">
@@ -6554,6 +6562,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210218T225131Z" creationid="smellman" creationdate="20201101T110855Z">
         <seg>`クリエイティブ・コモンズ・ライセンスの条件 &lt;https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F&gt;`_ に従って、OSGeoLiveのドキュメントを新しいドキュメントに含める場合は、貢献者の帰属を指定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As result you will see that instead of ``Africa`` there will be ``Asia`` in the plot.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151802Z" creationid="miurahr" creationdate="20210307T151802Z">
+        <seg>その結果、 ``Africa`` のかわりに、プロットには ``Asia`` が表示されるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7910,6 +7926,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cell-&gt; Run All:  will run all the cells and show the results If everything worked as planned you should be able to see the results at the bottom of the page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151402Z" creationid="miurahr" creationdate="20210307T151402Z">
+        <seg>Cell-&gt; Run All:  すべてのセルを実行し、結果を表示します。すべてが計画どおりに動作した場合は、ページの下部に結果が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cell-&gt; Run Cells: will run the code in the cell with the focus and will move to the next cell.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151337Z" creationid="miurahr" creationdate="20210307T151337Z">
+        <seg>Cell-&gt; Run Cells: フォーカスのあるセルでコードを実行し、次のセルに移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cesium</seg>
       </tuv>
       <tuv lang="ja">
@@ -7994,6 +8026,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210214T081549Z" creationid="miurahr" creationdate="20210208T134350Z">
         <seg>`chown` で所有者を変更する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change the selection to ``Asia`` and rund the two cells again.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151737Z" creationid="miurahr" creationdate="20210307T151737Z">
+        <seg>選択を ``Asia`` に変更して、二つのセルを再実行してみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8113,6 +8153,14 @@
         <seg>Choose   *Geospatial* -&gt; *Spatial Tools* -&gt; *Jupyter Notebook*</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T230157Z" creationid="miurahr" creationdate="20210303T230157Z">
+        <seg>*Geospatial* -&gt; *Spatial Tools* -&gt; *Jupyter Notebook* を選択する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose  *Geospatial* -&gt; *Spatial Tools* -&gt; *Jupyter Notebook*</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151056Z" creationid="miurahr" creationdate="20210307T151056Z">
         <seg>*Geospatial* -&gt; *Spatial Tools* -&gt; *Jupyter Notebook* を選択する</seg>
       </tuv>
     </tu>
@@ -10880,6 +10928,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Discover the other notebooks that are provided with OSGeoLive and find out how to work with Shapely, Rasterio, R, Iris &amp; other software.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151812Z" creationid="miurahr" creationdate="20210307T151812Z">
+        <seg>OSGeoLiveで提供されるその他のノートブック、およびShapely、Rasterio、R、Iris、その他のソフトウェアの操作方法をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Discovery services client to localize data resources within an SDI (catalogue and gazeteer services)</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T174832Z" creationid="miurahr" creationdate="20201122T052436Z">
@@ -13096,6 +13152,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information about the jupyter notebook, please refer to the `Jupyter Notebooks official documentation &lt;https://jupyter.readthedocs.io/&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151850Z" creationid="miurahr" creationdate="20210307T151850Z">
+        <seg>Jupyterノートブックについての詳細は  `Jupyter Notebooks official documentation &lt;https://jupyter.readthedocs.io/&gt;`_ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information about the jupyter notebook, please refer to the `jupyter official documentation`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T231020Z" creationid="miurahr" creationdate="20210303T231020Z">
@@ -13432,6 +13496,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From the Jupyter Notebook dashboard you can navigate the directory tree, start new notebooks, create files and directories, as well as rename, delete and upload files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151108Z" creationid="miurahr" creationdate="20210307T151108Z">
+        <seg>From the Jupyter Notebook dashboard you can navigate the directory tree, start new notebooks, create files and directories, as well as rename, delete and upload files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From the Resource Selection page we are going to choose the following layers:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T074549Z" creationid="miurahr" creationdate="20201221T074549Z">
@@ -13568,6 +13640,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From the main page click on the directory geopandas-tutorial and choose the Introduction notebook (01-introduction-geospatial-data.ipynb).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151222Z" creationid="miurahr" creationdate="20210307T151222Z">
+        <seg>メインページで geopandas-tutorial ディレクトリをクリックし、Introduction ノートブック (01-introduction-geospatial-data.ipynb)を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From the notebook dashboard you can navigate the directory tree, start new notebooks, create files and directories, as well as rename, delete and upload files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T230216Z" creationid="miurahr" creationdate="20210303T230216Z">
@@ -13612,6 +13692,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T230528Z" creationid="miurahr" creationdate="20210303T230528Z">
         <seg>ノートブックの上部にあるツールバーから、[セル]-&gt;[すべて実行] を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the toolbar on top of the notebook you can choose different options:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151313Z" creationid="miurahr" creationdate="20210307T151313Z">
+        <seg>ノートブックの上部にあるツールバーから、さまざまなオプションを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15448,6 +15536,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Have a look at the results after running all the cells.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151418Z" creationid="miurahr" creationdate="20210307T151418Z">
+        <seg>すべてのセルを実行した結果を確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Have a look at the web client and download all the pubs in the FOSS4G city.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210122T025442Z" creationid="miurahr" creationdate="20210122T025442Z">
@@ -16985,6 +17081,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In In [10] a filter was defined for the countries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151615Z" creationid="miurahr" creationdate="20210307T151615Z">
+        <seg>In [10]では、国々のフィルタが定義されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In OSM, points are actually called **nodes**, and lines are called **ways**.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210117T123157Z" creationid="miurahr" creationdate="20201103T072715Z">
@@ -16997,6 +17101,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T074936Z" creationid="miurahr" creationdate="20201103T072702Z">
         <seg>これから先、OpenStreetMapについて調べてゆくと、これらを別の単語で表現していることがあります。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In Out[3] you can see the country information as a table.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151503Z" creationid="miurahr" creationdate="20210307T151503Z">
+        <seg>Out[3]では、国の情報が表形式で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In Out[4] a plot was generated from all the countries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151533Z" creationid="miurahr" creationdate="20210307T151533Z">
+        <seg>Out[4] では、全ての国から生成されたグラフのプロットが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18216,6 +18336,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010400Z" creationid="miurahr" creationdate="20201103T010400Z">
         <seg>多くのオンラインサービス(Amateur Radio Aprs、OpenCaching.comなど)との統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Interact with python code</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151022Z" creationid="miurahr" creationdate="20210307T151022Z">
+        <seg>Pythonコードとの対話</seg>
       </tuv>
     </tu>
     <tu>
@@ -20304,6 +20432,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T175039Z" creationid="miurahr" creationdate="20201122T053007Z">
         <seg>WMS、WMTS、WFS、WCS レイヤの読み込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Load a jupyter notebook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151005Z" creationid="miurahr" creationdate="20210307T151005Z">
+        <seg>Jupyterノートブックをロードする</seg>
       </tuv>
     </tu>
     <tu>
@@ -22868,6 +23004,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now let's change some of the code.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151554Z" creationid="miurahr" creationdate="20210307T151554Z">
+        <seg>次に、コードの一部を変更しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now let's find out some more information about where this track is.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T023050Z" creationid="miurahr" creationdate="20210303T023050Z">
@@ -24600,6 +24744,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T164543Z" creationid="sanak" creationdate="20210102T164543Z">
         <seg>Wikipedia、GPSies、OpenCaching.de、地域の天気予報などのオンラインリソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only the continent ``Africa`` is selected from the countries:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151639Z" creationid="miurahr" creationdate="20210307T151639Z">
+        <seg>``Africa`` 大陸のみが国々から選択されます:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27060,6 +27212,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quick introduction on how to use the Jupyter Notebooks interface: `Get started with Jupyter Notebook &lt;https://jupyter.readthedocs.io/en/latest/content-quickstart.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151937Z" creationid="miurahr" creationdate="20210307T151937Z">
+        <seg>jupiterノートブックのインターフェイスの使用方法については、 `Get started with Jupyter Notebook &lt;https://jupyter.readthedocs.io/en/latest/content-quickstart.html&gt;`_ を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30529,6 +30689,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start a Jupyter Notebook server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151002Z" creationid="miurahr" creationdate="20210307T151002Z">
+        <seg>Jupyterノートブックサーバーを起動する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start a Terminal Emulator (LXTerminal currently) from the Applications menu in the Accessories section.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T034159Z" creationid="miurahr" creationdate="20201108T041001Z">
@@ -30605,6 +30773,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T121138Z" creationid="miurahr" creationdate="20210206T165948Z">
         <seg>Hyper-V管理アプリケーションを開始して、アクションメニューの 新規 &gt; 仮想マシンを選択し、次へすすみます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start the Jupyter server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151028Z" creationid="miurahr" creationdate="20210307T151028Z">
+        <seg>Jupyterサーバを起動する</seg>
       </tuv>
     </tu>
     <tu>
@@ -32548,6 +32724,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The cells contain in this case python code, that can be run.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151254Z" creationid="miurahr" creationdate="20210307T151254Z">
+        <seg>この場合、セルには実行可能なPythonコードが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The client consists of the map view and widgets that contain the main interactions.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210302T231209Z" creationid="miurahr" creationdate="20210302T231209Z">
@@ -34004,6 +34188,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The tutorial is made up with explaining text and cells.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151248Z" creationid="miurahr" creationdate="20210307T151248Z">
+        <seg>チュートリアルは、テキストとセルの説明で構成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The user "user" is not a member of the "users" group on the OSGeoLive virtual machine.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210219T015042Z" creationid="miurahr" creationdate="20201103T113548Z">
@@ -34496,6 +34688,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T040812Z" creationid="miurahr" creationdate="20201108T040812Z">
         <seg>サーバがクライアントと同じコンピュータ上にあることを止めるものは何もありません。これにより、単一のマシン上でPostgreSQLを使用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore in the plot there is only the continent ``Africa``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151706Z" creationid="miurahr" creationdate="20210307T151706Z">
+        <seg>そのため、プロットでは ``Africa`` 大陸のみが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35121,6 +35321,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210117T121855Z" creationid="miurahr" creationdate="20201116T135156Z">
         <seg>これは、 *deegree 作業フォルダ* の設定ファイルを編集するためのシンプルなWebベースのGUIです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is an introduction with many examples on how to use geospatial vector data in Python with geopandas using the Natural Earth2 data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151242Z" creationid="miurahr" creationdate="20210307T151242Z">
+        <seg>ここでは、PythonでNatural Earth2データを使用してgeopandasで空間ベクトルデータを使用する方法について、多くの例を紹介します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41411,6 +41619,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T000739Z" creationid="miurahr" creationdate="20201117T000739Z">
         <seg>次のようなウィンドウが表示されます:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will see additional Out[] section with different output for example tables, maps or calculations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210307T151435Z" creationid="miurahr" creationdate="20210307T151435Z">
+        <seg>テーブル、マップ、計算など、さまざまな出力を持つ追加のOut[]セクションが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
