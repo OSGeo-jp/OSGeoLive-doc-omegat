@@ -100,13 +100,13 @@ msgstr "ポリライン、ポリゴン、ビルボード、ラベル、押し出
 
 #: ../../build/doc/overview/cesium_overview.rst:44
 msgid ""
-"Use `3D Tiles <https://cesium.com/blog/2017/07/12/the-next-generation-of-3d-"
-"tiles/>`_ to stream, style and interact with heterogeneous 3D data, "
+"Use `3D Tiles <https://cesium.com/blog/2017/07/12/the-next-generation-"
+"of-3d-tiles/>`_ to stream, style and interact with heterogeneous 3D data, "
 "including photogrammetry models, 3D buildings, CAD and BIM exterior and "
 "interiors, and point clouds."
 msgstr ""
-"`3Dタイル <https://cesium.com/blog/2017/07/12/the-next-generation-of-3d-"
-"tiles/>`_ "
+"`3Dタイル <https://cesium.com/blog/2017/07/12/the-next-generation-"
+"of-3d-tiles/>`_ "
 "を使用して、写真測量モデル、3D建物、CADとBIMの外部と内部、ポイントクラウドなど、異種の3Dデータをストリーミング、スタイル設定、および操作します。"
 
 #: ../../build/doc/overview/cesium_overview.rst:45
@@ -164,8 +164,8 @@ msgid ""
 "**Community Support:** Forum at "
 "https://groups.google.com/forum/?hl=en#!forum/cesium-dev"
 msgstr ""
-"**コミュニティサポート:** フォーラムはこちら https://groups.google.com/forum/?hl=en#!forum"
-"/cesium-dev"
+"**コミュニティサポート:** フォーラムはこちら "
+"https://groups.google.com/forum/?hl=en#!forum/cesium-dev"
 
 #: ../../build/doc/overview/cesium_overview.rst:72
 msgid "Quickstart"

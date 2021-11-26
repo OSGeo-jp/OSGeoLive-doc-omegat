@@ -89,8 +89,8 @@ msgid ""
 "<https://inspire.ec.europa.eu/Data-Models/Data-Specifications/2892>`__ "
 "defined for each theme."
 msgstr ""
-"各テーマで定義されている `common data models <https://inspire.ec.europa.eu/Data-Models"
-"/Data-Specifications/2892>`__ に従って、空間データセットを整備します。"
+"各テーマで定義されている `common data models <https://inspire.ec.europa.eu/Data-"
+"Models/Data-Specifications/2892>`__ に従って、空間データセットを整備します。"
 
 #: ../../build/doc/overview/inspire_overview.rst:33
 msgid ""

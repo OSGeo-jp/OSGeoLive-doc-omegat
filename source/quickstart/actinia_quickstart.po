@@ -231,11 +231,11 @@ msgstr "欧州 (EU LAEA CRS, EPSG:3035):"
 
 #: ../../build/doc/quickstart/actinia_quickstart.rst:135
 msgid ""
-"EU DEM 25m V1.1 (``eu_laea/PERMANENT/``; source: https://land.copernicus.eu"
-"/imagery-in-situ/eu-dem)"
+"EU DEM 25m V1.1 (``eu_laea/PERMANENT/``; source: "
+"https://land.copernicus.eu/imagery-in-situ/eu-dem)"
 msgstr ""
-"EU DEM 25m V1.1 (``eu_laea/PERMANENT/``; source: https://land.copernicus.eu"
-"/imagery-in-situ/eu-dem)"
+"EU DEM 25m V1.1 (``eu_laea/PERMANENT/``; source: "
+"https://land.copernicus.eu/imagery-in-situ/eu-dem)"
 
 #: ../../build/doc/quickstart/actinia_quickstart.rst:137
 msgid ""
