@@ -371,8 +371,8 @@ msgid ""
 "GdalTools Plugin to process raster data. This plugin integrates the gdal-"
 "tools into QGIS."
 msgstr ""
-"QGISはGDAL/OGRも使用して、多くの形式をサポートしています。また、ラスタデータを処理するためのGdalToolsプラグインも提供しています。このプラグインはgdal-"
-"toolsをQGISに統合します。"
+"QGISはGDAL/OGRも使用して、多くの形式をサポートしています。また、ラスタデータを処理するためのGdalToolsプラグインも提供しています"
+"。このプラグインはgdal-toolsをQGISに統合します。"
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:445
 msgid ""
