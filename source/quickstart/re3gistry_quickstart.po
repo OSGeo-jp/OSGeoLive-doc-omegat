@@ -311,8 +311,8 @@ msgstr ""
 
 #: ../../build/doc/quickstart/re3gistry_quickstart.rst:152
 msgid ""
-"`User manual <https://github.com/ec-jrc/re3gistry/blob/master/documentation"
-"/user-manual.md>`__"
+"`User manual <https://github.com/ec-"
+"jrc/re3gistry/blob/master/documentation/user-manual.md>`__"
 msgstr ""
 
 #: ../../build/doc/quickstart/re3gistry_quickstart.rst:153

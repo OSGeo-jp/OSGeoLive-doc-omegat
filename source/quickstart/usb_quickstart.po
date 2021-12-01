@@ -226,9 +226,9 @@ msgid ""
 "https://www.mydigitallife.net/comprehensive-list-of-how-key-to-press-to-"
 "access-bios-for-various-oem-and-computer-systems/"
 msgstr ""
-"コンピュータに起動メニューがない場合は、システムBIOSで起動します。BIOSに入るボタンは、コンピュータのブランドとモデルによって異なります。あなたのBIOSがわからない場合は、多くのBIOSホットキーがリストされているこのWebサイトを試してください。https://www.mydigitallife.net/comprehensive-"
-"list-of-how-key-to-press-to-access-bios-for-various-oem-and-computer-"
-"systems/"
+"コンピュータに起動メニューがない場合は、システムBIOSで起動します。BIOSに入るボタンは、コンピュータのブランドとモデルによって異なります。あなたのBIOSがわからない場合は、多くのBIOSホットキーがリストされているこのWebサイトを試してください。https://www.mydigitallife.net"
+"/comprehensive-list-of-how-key-to-press-to-access-bios-for-various-oem-and-"
+"computer-systems/"
 
 #: ../../build/doc/quickstart/usb_quickstart.rst:86
 msgid "Select to boot from the USB device."

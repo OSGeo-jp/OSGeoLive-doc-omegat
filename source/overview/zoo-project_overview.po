@@ -137,8 +137,8 @@ msgstr "デモ"
 
 #: ../../build/doc/overview/zoo-project_overview.rst:76
 msgid ""
-"`Demo using Services Provider based GEOS and OGR libraries <http://localhost"
-"/zoo-demo/ogr-example.html>`_"
+"`Demo using Services Provider based GEOS and OGR libraries "
+"<http://localhost/zoo-demo/ogr-example.html>`_"
 msgstr ""
 "`GEOS と OGR ライブラリをベースとしたサービスプロパイダのデモ <http://localhost/zoo-demo/ogr-"
 "example.html>`_"

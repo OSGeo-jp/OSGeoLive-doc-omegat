@@ -311,6 +311,6 @@ msgstr ""
 
 #: ../../build/doc/quickstart/gpsprune_quickstart.rst:115
 msgid ""
-"How-tos and instructions: https://activityworkshop.net/software/gpsprune"
-"/how-tos.html"
+"How-tos and instructions: "
+"https://activityworkshop.net/software/gpsprune/how-tos.html"
 msgstr "ノウハウや手順: https://activityworkshop.net/software/gpsprune/how-tos.html"
