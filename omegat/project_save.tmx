@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_4470bbb50" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -874,6 +874,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T142037Z" creationid="smellman" creationdate="20201103T051552Z">
         <seg>**ライセンス:** EUPL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Licence:** EUPL 1.2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220726T154104Z" creationid="sanak" creationdate="20220726T154104Z">
+        <seg>**ライセンス:** EUPL 1.2</seg>
       </tuv>
     </tu>
     <tu>
@@ -2626,6 +2634,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T142030Z" creationid="smellman" creationdate="20201103T051549Z">
         <seg>**ウェブサイト:** https://github.com/ec-jrc/re3gistry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://github.com/etf-validator</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220726T154054Z" creationid="sanak" creationdate="20220726T154054Z">
+        <seg>**Webサイト:** https://github.com/etf-validator</seg>
       </tuv>
     </tu>
     <tu>
@@ -11612,6 +11628,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043905Z" creationid="miurahr" creationdate="20201108T043832Z">
         <seg>データベースに読み込むための機能があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ETF</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220726T154020Z" creationid="sanak" creationdate="20220726T154020Z">
+        <seg>ETF</seg>
       </tuv>
     </tu>
     <tu>
@@ -23864,6 +23888,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>仮想マシン内での OSGeoLive 起動クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeoLive Sponsors</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSGeoLive スポンサー</seg>
       </tuv>
     </tu>
     <tu>
