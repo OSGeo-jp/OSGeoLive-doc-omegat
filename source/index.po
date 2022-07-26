@@ -10,9 +10,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 14.0\n"
+"Project-Id-Version: OSGeoLive 15.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-06 18:01-0600\n"
+"POT-Creation-Date: 2022-06-21 20:07+0000\n"
 "PO-Revision-Date: 2017-01-21 16:46+0000\n"
 "Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2021\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
@@ -36,6 +36,10 @@ msgid ""
 msgstr ""
 "`OSGeoLive <https://live.osgeo.org>`_ は、 `Lubuntu <https://lubuntu.net>`_ "
 "をベースにした、自己完結型のブータブルDVD、USBサムドライブまたは仮想マシンで、何もインストールせずに、さまざまなオープンソースの地理空間ソフトウェアを試すことができます。完全にフリーソフトウェアで構成されており、自由に配布、複製、譲渡することができます。"
+
+#: ../../build/doc/index.rst-1
+msgid "boot select"
+msgstr ""
 
 #: ../../build/doc/index.rst:17
 msgid ""
@@ -86,9 +90,22 @@ msgstr "プレゼンテーション"
 
 #: ../../build/doc/index.rst:70
 msgid ""
-"A half hour `presentation <./presentation.html>`_, highlighting all "
-"OSGeoLive applications, is available with slides, script, and `abstract "
-"<presentation/abstract.txt>`_."
+"A half hour `presentation <presentation.html>`__, highlighting all OSGeoLive"
+" applications, is available with slides, script"
 msgstr ""
-"全ての OSGeoLive アプリケーションを取り上げた30分間の `プレゼンテーション <./presentation.html>`_ "
-"がスライドや原稿、 `要約 <presentation/abstract.txt>`_ とともに、利用可能です。"
+
+#: ../../build/doc/<rst_epilog>:12
+msgid "vmdk"
+msgstr ""
+
+#: ../../build/doc/<rst_epilog>:15
+msgid "nologo"
+msgstr ""
+
+#: ../../build/doc/<rst_epilog>:0
+msgid "OSGeo Project"
+msgstr ""
+
+#: ../../build/doc/<rst_epilog>:0
+msgid "OSGeo Community"
+msgstr ""
