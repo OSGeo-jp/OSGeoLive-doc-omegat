@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Community Support:** Forum at https://community.cesium.com</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220805T235535Z" creationid="sanak" creationdate="20220805T235535Z">
+        <seg>**コミュニティサポート:** Forum at https://community.cesium.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Community Support:** Forum at https://groups.google.com/forum/?hl=en#!forum/cesium-dev</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T060445Z" creationid="miurahr" creationdate="20201122T050205Z">
@@ -37693,6 +37701,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use `plugins &lt;https://cesium.com/platform/cesiumjs/&gt;`_ to extend Cesium.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220805T235610Z" creationid="sanak" creationdate="20220805T235610Z">
+        <seg>`プラグイン &lt;https://cesium.com/platform/cesiumjs/&gt;`_ を使用してCesiumを拡張します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use a complete RestFul API to access istSOS functionality from external clients to create interactive charts, display sensor on a dynamic map or just write some maintenance scripts.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T041800Z" creationid="miurahr" creationdate="20201122T041800Z">
@@ -44019,6 +44035,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T030936Z" creationid="miurahr" creationdate="20201220T030936Z">
         <seg>OGC API  - 機能の、 OGC 準拠および参照実装認定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>cesium screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220805T235514Z" creationid="sanak" creationdate="20220805T235514Z">
+        <seg>Cesium スクリーンショット</seg>
       </tuv>
     </tu>
     <tu>
