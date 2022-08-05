@@ -4510,6 +4510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A half hour `presentation &lt;presentation.html&gt;`__, highlighting all OSGeoLive applications, is available with slides, script</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220805T234522Z" creationid="sanak" creationdate="20220805T234522Z">
+        <seg>全ての OSGeoLive アプリケーションを取り上げた30分間の `プレゼンテーション &lt;presentation.html&gt;`_ がスライドや原稿とともに、利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high-performance, feature-packed library for all your mapping needs</seg>
       </tuv>
       <tuv lang="ja">
@@ -43779,6 +43787,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>bolotoved</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>boot select</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220805T234611Z" creationid="sanak" creationdate="20220805T234611Z">
+        <seg>起動後の選択</seg>
       </tuv>
     </tu>
     <tu>
