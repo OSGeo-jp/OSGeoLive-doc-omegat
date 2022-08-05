@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**INSPIRE Specialized Observations**: Support for the INSPIRE Specialized Observations defined in Guidelines for the use of `Observations &amp; Measurements and Sensor Web Enablement-related standards in INSPIRE (D2.9) &lt;https://inspire.ec.europa.eu/id/document/tg/d2.9-o%26m-swe&gt;`_ (`detailed information about the implementation &lt;https://wiki.52north.org/SensorWeb/InspireSpecialisedObservations&gt;`_).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220805T234944Z" creationid="sanak" creationdate="20220805T234944Z">
+        <seg>**INSPIRE 専門観測**: `INSPIREにおける観測と測定及びセンサーWeb対応関連標準規格 (D2.9) &lt;https://inspire.ec.europa.eu/id/document/tg/d2.9-o%26m-swe&gt;`_ ガイドラインで定義されている INSPIRE 専門観測をサポートしています(`実装についての詳細情報 &lt;https://wiki.52north.org/SensorWeb/InspireSpecialisedObservations&gt;`_)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Input options**: Any georeferenced image file, eg.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T225306Z" creationid="miurahr" creationdate="20210214T225000Z">
@@ -3506,6 +3514,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>52NorthWSS_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>52nSOS screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220805T234738Z" creationid="sanak" creationdate="20220805T234738Z">
+        <seg>52nSOS スクリーンショット</seg>
       </tuv>
     </tu>
     <tu>
