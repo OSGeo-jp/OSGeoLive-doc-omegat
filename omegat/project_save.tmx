@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**API documentation:** https://redocly.github.io/redoc/?url=https://actinia.mundialis.de/latest/swagger.json</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220805T235359Z" creationid="sanak" creationdate="20220805T235359Z">
+        <seg>**API 文書:** https://redocly.github.io/redoc/?url=https://actinia.mundialis.de/latest/swagger.json</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**API:** Java, HTTP + JSON/XML/SOAP/KVP</seg>
       </tuv>
       <tuv lang="ja">
@@ -12388,6 +12396,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201124T235930Z" creationid="miurahr" creationdate="20201103T061627Z">
         <seg>`チュートリアル &lt;https://actinia.mundialis.de/tutorial/&gt;`_ をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Explore the `tutorial &lt;https://mundialis.github.io/actinia_core/&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220805T235317Z" creationid="sanak" creationdate="20220805T235317Z">
+        <seg>`チュートリアル &lt;https://mundialis.github.io/actinia_core/&gt;`_ をご覧ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42255,6 +42271,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`Actinia &lt;https://actinia.mundialis.de/&gt;`__ is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly `GRASS GIS &lt;https://grass.osgeo.org/&gt;`__ for computational tasks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220805T235231Z" creationid="sanak" creationdate="20220805T235231Z">
+        <seg>`Actinia &lt;https://actinia.mundialis.de/&gt;`__ は、地理データのスケーラブルで分散した高パフォーマンス処理のためのオープンソースREST APIであり、計算タスクに  `GRASS GIS &lt;https://grass.osgeo.org/&gt;`__  を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`Addendum &lt;https://geographiclib.sourceforge.io/geod-addenda.html&gt;`_</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T051149Z" creationid="miurahr" creationdate="20201221T051149Z">
@@ -43219,6 +43243,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T032838Z" creationid="miurahr" creationdate="20210215T032820Z">
         <seg>actinia クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>actinia screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220805T235038Z" creationid="sanak" creationdate="20220805T235038Z">
+        <seg>actinia スクリーンショット</seg>
       </tuv>
     </tu>
     <tu>
