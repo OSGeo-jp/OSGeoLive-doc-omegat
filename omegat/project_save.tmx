@@ -3542,6 +3542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>52nWPS screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220805T235006Z" creationid="sanak" creationdate="20220805T235006Z">
+        <seg>52nWPS スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>52nWPS_overview</seg>
       </tuv>
       <tuv lang="ja">
