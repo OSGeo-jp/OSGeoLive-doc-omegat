@@ -24,7 +24,7 @@ msgstr ""
 
 #: ../../build/doc/overview/ETF_overview.rst:17
 msgid "ETF"
-msgstr ""
+msgstr "ETF"
 
 #: ../../build/doc/overview/ETF_overview.rst:20
 msgid ""
@@ -192,11 +192,11 @@ msgstr "詳細"
 
 #: ../../build/doc/overview/ETF_overview.rst:95
 msgid "**Website:** https://github.com/etf-validator"
-msgstr ""
+msgstr "**Webサイト:** https://github.com/etf-validator"
 
 #: ../../build/doc/overview/ETF_overview.rst:97
 msgid "**Licence:** EUPL 1.2"
-msgstr ""
+msgstr "**ライセンス:** EUPL 1.2"
 
 #: ../../build/doc/overview/ETF_overview.rst:99
 msgid "**Software Version:** |version-ETF|"
@@ -248,16 +248,16 @@ msgstr ""
 
 #: ../../build/doc/<rst_epilog>:13
 msgid "vmdk"
-msgstr ""
+msgstr "vmdk"
 
 #: ../../build/doc/<rst_epilog>:16
 msgid "nologo"
-msgstr ""
+msgstr "ロゴなし"
 
 #: ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Project"
-msgstr ""
+msgstr "OSGeo プロジェクト"
 
 #: ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Community"
-msgstr ""
+msgstr "OSGeo コミュニティ"

@@ -72,7 +72,7 @@ msgstr "|nologo|"
 #: ../../build/doc/<rst_epilog>:16 ../../build/doc/<rst_epilog>:16
 #: ../../build/doc/<rst_epilog>:16
 msgid "nologo"
-msgstr ""
+msgstr "ロゴなし"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "LibLAS_"
@@ -115,7 +115,7 @@ msgstr ""
 #: ../../build/doc/<rst_epilog>:0 ../../build/doc/<rst_epilog>:0
 #: ../../build/doc/<rst_epilog>:0 ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Community"
-msgstr ""
+msgstr "OSGeo コミュニティ"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "Geomajas_"
@@ -418,8 +418,8 @@ msgstr "Web サービス"
 
 #: ../../build/doc/<rst_epilog>:13
 msgid "vmdk"
-msgstr ""
+msgstr "vmdk"
 
 #: ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Project"
-msgstr ""
+msgstr "OSGeo プロジェクト"
