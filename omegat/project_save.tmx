@@ -23788,6 +23788,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OSGeo Community</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220805T184322Z" creationid="sanak" creationdate="20220805T184322Z">
+        <seg>OSGeo コミュニティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeo Project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220805T184310Z" creationid="sanak" creationdate="20220805T184310Z">
+        <seg>OSGeo プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OSGeo TMS 1.0.0</seg>
       </tuv>
       <tuv lang="ja">
@@ -47543,6 +47559,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>nologo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220805T184304Z" creationid="sanak" creationdate="20220805T184304Z">
+        <seg>ロゴなし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>note, formats marked with a (*) require an additional plugin, and with (+) are part of the PLUS edition.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T103306Z" creationid="smellman" creationdate="20201103T103306Z">
@@ -49939,6 +49963,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>vkadmerti gmail com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>vmdk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220805T184255Z" creationid="sanak" creationdate="20220805T184255Z">
+        <seg>vmdk</seg>
       </tuv>
     </tu>
     <tu>
