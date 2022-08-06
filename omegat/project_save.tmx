@@ -47399,6 +47399,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>mapnik screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T003410Z" creationid="sanak" creationdate="20220806T003410Z">
+        <seg>Mapnik スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>mapnik_overview</seg>
       </tuv>
       <tuv lang="ja">
