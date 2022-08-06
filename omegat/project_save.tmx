@@ -32588,6 +32588,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The `Joint Research Centre (JRC) of the European Commission &lt;https://joint-research-centre.ec.europa.eu/index_en&gt;`__ develops and maintains a number of central software components, which help Member States in the INSPIRE implementation process:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T003127Z" creationid="sanak" creationdate="20220806T003127Z">
+        <seg>`欧州委員会の合同調査センター(JRC: Joint Research Centre) &lt;https://joint-research-centre.ec.europa.eu/index_en&gt;`__ は、いくつかの中央ソフトウエアコンポーネントを開発して維持しています。これらのコンポーネントは、INSPIRE導入プロセスにおいて加盟国を支援するものです:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The `Learn OSM website &lt;https://learnosm.org&gt;`_ provides easy to understand, step-by-step guides for you to get started with contributing to OpenStreetMap and using OpenStreetMap and using OpenStreetMap data.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210117T123711Z" creationid="miurahr" creationdate="20201102T052155Z">
