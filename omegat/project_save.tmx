@@ -50047,6 +50047,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>t-rex screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T013606Z" creationid="sanak" creationdate="20220806T013606Z">
+        <seg>t-rex スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>table: ``CSV``, ``TXT``</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T040540Z" creationid="miurahr" creationdate="20210215T040540Z">
