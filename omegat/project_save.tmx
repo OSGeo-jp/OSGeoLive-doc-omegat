@@ -120,8 +120,8 @@
       <tuv lang="en-US">
         <seg>(``latlong_wgs84/modis_ndvi_global/``; source: https://lpdaac.usgs.gov/products/mod13c1v006/)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210215T033958Z" creationid="miurahr" creationdate="20210215T033958Z">
-        <seg>(``latlong_wgs84/modis_ndvi_global/``; source: https://lpdaac.usgs.gov/products/mod13c1v006/)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T121025Z" creationid="miurahr" creationdate="20210215T033958Z">
+        <seg>(``latlong_wgs84/modis_ndvi_global/``; ソース: https://lpdaac.usgs.gov/products/mod13c1v006/)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3552,8 +3552,8 @@
       <tuv lang="en-US">
         <seg>16-days NDVI, MOD13C1, V006, CMG 0.05 deg res.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210215T033954Z" creationid="miurahr" creationdate="20210215T033954Z">
-        <seg>16日間の NDVI, MOD13C1, V006, CMG 0.05 deg res.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T121020Z" creationid="miurahr" creationdate="20210215T033954Z">
+        <seg>16日間の NDVI、MOD13C1、V006、CMG 0.05 度解像度</seg>
       </tuv>
     </tu>
     <tu>
@@ -5242,6 +5242,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020726Z" creationid="miurahr" creationdate="20201103T020726Z">
         <seg>Actiniaは、地理データのスケーラブルで分散した高パフォーマンス処理のためのオープンソースREST APIであり、計算タスクにGRASS GISを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Actinia is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly `GRASS GIS &lt;https://grass.osgeo.org/&gt;`__ for computational tasks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T115338Z" creationid="sanak" creationdate="20220806T115338Z">
+        <seg>Actiniaは、地理データのスケーラブルな分散・高性能処理のためのオープンソースのREST APIで、計算タスクには主に `GRASS GIS &lt;https://grass.osgeo.org/&gt;`__ を使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9952,6 +9960,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T115119Z" creationid="sanak" creationdate="20220806T115119Z">
+        <seg>目次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Continue to the next screen and choose "Use an existing virtual hard disk file".</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T160121Z" creationid="miurahr" creationdate="20201103T113505Z">
@@ -10634,8 +10650,8 @@
       <tuv lang="en-US">
         <seg>Currently available datasets are (organized by projections):</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210215T033830Z" creationid="miurahr" creationdate="20210215T033823Z">
-        <seg>現在使用可能なデータセットは次のとおりです(投影によって編成):</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T120608Z" creationid="miurahr" creationdate="20210215T033823Z">
+        <seg>現在使用可能なデータセットは次のとおりです(投影法毎に整理):</seg>
       </tuv>
     </tu>
     <tu>
@@ -19284,6 +19300,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can be used with ``location=LOCATION_NAME`` option.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T120022Z" creationid="sanak" creationdate="20220806T120022Z">
+        <seg>これは ``location=LOCATION_NAME`` オプションと一緒に使用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can display map tiles, vector data and markers loaded from any source.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T020620Z" creationid="miurahr" creationdate="20201103T010533Z">
@@ -19544,6 +19568,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011131Z" creationid="miurahr" creationdate="20201103T011131Z">
         <seg>これは簡単にスクリプト化でき、超並列スーパーコンピュータ上でのバッチデータ処理にも、ハンドヘルドPDAやネットブック用の便利なデスクトップGISにも十分に使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is installed with ``g.extension extension=ace url=https://github.com/mundialis/ace``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T115818Z" creationid="sanak" creationdate="20220806T115619Z">
+        <seg>``g.extension extension=ace url=https://github.com/mundialis/ace`` でインストールされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20486,8 +20518,8 @@
       <tuv lang="en-US">
         <seg>LST growing degree days asia 2017 (``latlong_wgs84/asia_gdd_2017/``; source: https://www.mundialis.de/en/temperature-data/)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210215T034008Z" creationid="miurahr" creationdate="20210215T034008Z">
-        <seg>LST growing degree days asia 2017 (``latlong_wgs84/asia_gdd_2017/``; source: https://www.mundialis.de/en/temperature-data/)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T121124Z" creationid="miurahr" creationdate="20210215T034008Z">
+        <seg>LST 成長度日数アジア 2017 (``latlong_wgs84/asia_gdd_2017/``; ソース: https://www.mundialis.de/en/temperature-data/)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20502,8 +20534,8 @@
       <tuv lang="en-US">
         <seg>LST tropical days asia 2017 (``latlong_wgs84/asia_tropical_2017/``)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210215T034014Z" creationid="miurahr" creationdate="20210215T034014Z">
-        <seg>LST tropical days asia 2017 (``latlong_wgs84/asia_tropical_2017/``)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T121331Z" creationid="miurahr" creationdate="20210215T034014Z">
+        <seg>LST 熱帯日数アジア 2017 (``latlong_wgs84/asia_tropical_2017/``)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20566,8 +20598,8 @@
       <tuv lang="en-US">
         <seg>Landsat subscenes (``nc_spm_08/landsat``; source: https://grass.osgeo.org/download/data/)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210215T033917Z" creationid="miurahr" creationdate="20210215T033917Z">
-        <seg>ランドサットのサブシーン (``nc_spm_08/landsat``; source: https://grass.osgeo.org/download/data/)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T120841Z" creationid="miurahr" creationdate="20210215T033917Z">
+        <seg>ランドサットのサブシーン (``nc_spm_08/landsat``; ソース: https://grass.osgeo.org/download/data/)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20638,8 +20670,8 @@
       <tuv lang="en-US">
         <seg>Latitude-Longitude location (LatLong WGS84, EPSG:4326):</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210215T033936Z" creationid="miurahr" creationdate="20210215T033936Z">
-        <seg>緯度-経度による位置指定 (LatLong WGS84, EPSG:4326):</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T120911Z" creationid="miurahr" creationdate="20210215T033936Z">
+        <seg>緯度-経度による位置指定 (緯経度 WGS84、EPSG:4326):</seg>
       </tuv>
     </tu>
     <tu>
@@ -32649,6 +32681,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Th ``ace`` tool must be executed in an active GRASS GIS session.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T115746Z" creationid="sanak" creationdate="20220806T115746Z">
+        <seg>``ace`` ツールはアクティブなGRASS GISセッションで実行されなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That is it.</seg>
       </tuv>
       <tuv lang="ja">
@@ -33556,6 +33596,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ``@`` operator can be specified for an input parameter to import a web located resource and to specify the export of an output parameter.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T120136Z" creationid="sanak" creationdate="20220806T120136Z">
+        <seg>入力パラメータとして ``@`` オペレータを指定することで、Webにあるリソースをインポートしたり、出力パラメータのエクスポートを指定することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ``GetFeatureInfo`` support for the US population is still available.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T232529Z" creationid="miurahr" creationdate="20210214T232529Z">
@@ -33584,6 +33632,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210221T090444Z" creationid="miurahr" creationdate="20210215T033046Z">
         <seg>``ace`` ツール(`詳細 &lt;https://github.com/mundialis/actinia_core/tree/master/scripts/README.md&gt;`_) は、単一のGRASS GISコマンドあるいはactinia RESTサービス(https://actinia.mundialis.de/) 上のGRASS GISコマンドのリストの実行を可能にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ``ace`` tool (`details &lt;https://neteler.gitlab.io/actinia-introduction/#controlling-actinia-from-a-running-grass-gis-session&gt;`_) allows the execution of a single GRASS GIS command or a list of GRASS GIS commands on an actinia REST service (https://actinia.mundialis.de/).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T115617Z" creationid="sanak" creationdate="20220806T115617Z">
+        <seg>``ace`` ツール(`詳細 &lt;https://neteler.gitlab.io/actinia-introduction/#controlling-actinia-from-a-running-grass-gis-session&gt;`_) は、単一のGRASS GISコマンドあるいはactinia RESTサービス(https://actinia.mundialis.de/) 上のGRASS GISコマンドのリストの実行を可能にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34752,6 +34808,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T033354Z" creationid="miurahr" creationdate="20210215T033354Z">
         <seg>オプション ``--persistent MAPSET_NAME`` は、 **persistent** ユーザデータベースでコマンドを実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The option ``mapset=MAPSET_NAME`` allows the execution of commands in the persistent user database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T115947Z" creationid="sanak" creationdate="20220806T115947Z">
+        <seg>オプション ``mapset=MAPSET_NAME`` は、永続的なユーザーデータベースでコマンドを実行できるようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44969,8 +45033,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>base cartography (``nc_spm_08/PERMANENT``; source: https://grassbook.org/datasets/datasets-3rd-edition/)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210215T033902Z" creationid="miurahr" creationdate="20210215T033902Z">
-        <seg>ベースのカートグラフィー (``nc_spm_08/PERMANENT``; source: https://grassbook.org/datasets/datasets-3rd-edition/)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T120835Z" creationid="miurahr" creationdate="20210215T033902Z">
+        <seg>背景地図 (``nc_spm_08/PERMANENT``; ソース: https://grassbook.org/datasets/datasets-3rd-edition/)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51763,6 +51827,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T032922Z" creationid="miurahr" creationdate="20210215T032913Z">
         <seg>ブラウザ用の `Postman` 拡張</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>the `Postman` or `RESTman` extension for browsers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T115442Z" creationid="sanak" creationdate="20220806T115442Z">
+        <seg>ブラウザ用の `Postman` または `RESTman` 拡張</seg>
       </tuv>
     </tu>
     <tu>
