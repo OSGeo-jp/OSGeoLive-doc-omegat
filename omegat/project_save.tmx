@@ -6462,6 +6462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Antonio Rotundo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T021007Z" creationid="sanak" creationdate="20220806T021007Z">
+        <seg>Antonio Rotundo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Antonio Santiago</seg>
       </tuv>
       <tuv lang="ja">
@@ -10516,6 +10524,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Daniel Kastl; Regina Obe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Daniele Francioli</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T020920Z" creationid="sanak" creationdate="20220806T020920Z">
+        <seg>Daniele Francioli</seg>
       </tuv>
     </tu>
     <tu>
@@ -21636,10 +21652,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Marco Minghini</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T020943Z" creationid="sanak" creationdate="20220806T020943Z">
+        <seg>Marco Minghini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Marco Puppin</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Marco Puppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MarcoMinghini</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T020953Z" creationid="sanak" creationdate="20220806T020953Z">
+        <seg>MarcoMinghini</seg>
       </tuv>
     </tu>
     <tu>
@@ -44463,6 +44495,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>danfra</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T020942Z" creationid="sanak" creationdate="20220806T020942Z">
+        <seg>danfra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>daniel georepublic de</seg>
       </tuv>
       <tuv lang="ja">
@@ -44475,6 +44515,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>daniel.kastl georepublic de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>daniele.francioli outlook com</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T020921Z" creationid="sanak" creationdate="20220806T020921Z">
+        <seg>daniele.francioli outlook com</seg>
       </tuv>
     </tu>
     <tu>
@@ -47627,6 +47675,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>marble_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>marco.minghini86 gmail com</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T020944Z" creationid="sanak" creationdate="20220806T020944Z">
+        <seg>marco.minghini86 gmail com</seg>
       </tuv>
     </tu>
     <tu>
