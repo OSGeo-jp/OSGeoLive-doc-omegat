@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>"GNU"</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T075954Z" creationid="sanak" creationdate="20220806T075954Z">
+        <seg>"GNU"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>"``g.manual -i``" will launch a web browser with the module help pages.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210302T063004Z" creationid="miurahr" creationdate="20210302T063004Z">
@@ -3670,6 +3678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>52nSOS_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080826Z" creationid="sanak" creationdate="20220806T080826Z">
+        <seg>52nSOS_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>52nSOS_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -3690,6 +3706,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220805T235006Z" creationid="sanak" creationdate="20220805T235006Z">
         <seg>52nWPS スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>52nWPS_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080833Z" creationid="sanak" creationdate="20220806T080833Z">
+        <seg>52nWPS_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -7034,6 +7058,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>著者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Authors and reviewers of the documentation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T082139Z" creationid="sanak" creationdate="20220806T082139Z">
+        <seg>ドキュメントの著者とレビューア</seg>
       </tuv>
     </tu>
     <tu>
@@ -10504,6 +10536,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Credits</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T082001Z" creationid="sanak" creationdate="20220806T082001Z">
+        <seg>貢献者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cristhian Pin</seg>
       </tuv>
       <tuv lang="ja">
@@ -10928,6 +10968,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DebianGIS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081037Z" creationid="sanak" creationdate="20220806T081037Z">
+        <seg>DebianGIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deep integration of standards allowing the application to swap between the appropriate service as required for display, interaction and editing</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002614Z" creationid="miurahr" creationdate="20201103T002614Z">
@@ -11148,6 +11196,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Developers and project maintainers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T082030Z" creationid="sanak" creationdate="20220806T082030Z">
+        <seg>開発者とプロジェクトメンテナ</seg>
       </tuv>
     </tu>
     <tu>
@@ -13792,6 +13848,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Free and Open Source Software</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T075325Z" creationid="sanak" creationdate="20220806T075325Z">
+        <seg>フリー・オープンソースソフトウェア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Free to use</seg>
       </tuv>
       <tuv lang="ja">
@@ -14260,6 +14324,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T230223Z" creationid="miurahr" creationdate="20201123T230223Z">
         <seg>さらに、GeoStylerでは、SLD、OpenLayers、QGIS、Mapboxなど、複数のスタイルフォーマット間の変換が可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Future Proof</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080703Z" creationid="sanak" creationdate="20220806T080344Z">
+        <seg>将来安定性</seg>
       </tuv>
     </tu>
     <tu>
@@ -15268,6 +15340,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Geopublisher_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Georepublic</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081039Z" creationid="sanak" creationdate="20220806T081039Z">
+        <seg>Georepublic</seg>
       </tuv>
     </tu>
     <tu>
@@ -18888,6 +18968,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T102759Z" creationid="smellman" creationdate="20201103T102759Z">
         <seg>国際化のサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Interoperability</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080200Z" creationid="sanak" creationdate="20220806T080200Z">
+        <seg>相互運用性</seg>
       </tuv>
     </tu>
     <tu>
@@ -22716,6 +22804,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NTUA</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081027Z" creationid="sanak" creationdate="20220806T081027Z">
+        <seg>NTUA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nacho Varela</seg>
       </tuv>
       <tuv lang="ja">
@@ -24084,6 +24180,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OGC Standards</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080130Z" creationid="sanak" creationdate="20220806T080130Z">
+        <seg>OGC 標準規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OGC Standards descriptions</seg>
       </tuv>
       <tuv lang="ja">
@@ -25388,10 +25492,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open Data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T075859Z" creationid="sanak" creationdate="20220806T075512Z">
+        <seg>オープンデータ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open Data Catalog connectivity</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T030315Z" creationid="miurahr" creationdate="20201220T030315Z">
         <seg>Open Data Catalogの接続性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Education</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T075510Z" creationid="sanak" creationdate="20220806T075446Z">
+        <seg>オープン教育</seg>
       </tuv>
     </tu>
     <tu>
@@ -25444,6 +25564,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open Research</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T075851Z" creationid="sanak" creationdate="20220806T075527Z">
+        <seg>オープンリサーチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open Source Geospatial Content Management System</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T142025Z" creationid="miurahr" creationdate="20201116T142025Z">
@@ -25456,6 +25584,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T075029Z" creationid="sanak" creationdate="20220806T075029Z">
         <seg>オープンソース地理空間財団 (OSGeo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Standards</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T075431Z" creationid="sanak" creationdate="20220806T075222Z">
+        <seg>オープンな標準規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -27888,6 +28024,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Questions?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081125Z" creationid="sanak" creationdate="20220806T081125Z">
+        <seg>質問はありませんか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Quick Starts</seg>
       </tuv>
       <tuv lang="ja">
@@ -28109,6 +28253,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T184746Z" creationid="miurahr" creationdate="20201103T015512Z">
         <seg>コンテンツネゴシエーションを持つ (OpenAPI 3記述子を含む) RESTful API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>R_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080911Z" creationid="sanak" creationdate="20220806T080911Z">
+        <seg>R_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -28693,6 +28845,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>タイルレイヤとマーカーのための Retina 解像度のサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Return on Investment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080533Z" creationid="sanak" creationdate="20220806T080533Z">
+        <seg>投資対効果</seg>
       </tuv>
     </tu>
     <tu>
@@ -31181,6 +31341,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T052638Z" creationid="miurahr" creationdate="20201103T052638Z">
         <seg>選択したポイントから2本のラインに分割します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sponsors</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081026Z" creationid="sanak" creationdate="20220806T081026Z">
+        <seg>スポンサー</seg>
       </tuv>
     </tu>
     <tu>
@@ -38173,6 +38341,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>UCD ICE</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081027Z" creationid="sanak" creationdate="20220806T081027Z">
+        <seg>UCD ICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>UI Components</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T225132Z" creationid="miurahr" creationdate="20201123T225132Z">
@@ -44039,6 +44215,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>actinia_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080809Z" creationid="sanak" creationdate="20220806T080809Z">
+        <seg>actinia_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>activityworkshop</seg>
       </tuv>
       <tuv lang="ja">
@@ -44815,6 +44999,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>cesium_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080734Z" creationid="sanak" creationdate="20220806T080734Z">
+        <seg>cesium_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>cesium_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -45167,6 +45359,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>debian_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081041Z" creationid="sanak" creationdate="20220806T081041Z">
+        <seg>debian_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>deegree</seg>
       </tuv>
       <tuv lang="ja">
@@ -45219,6 +45419,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T143849Z" creationid="miurahr" creationdate="20201116T140956Z">
         <seg>deegree Webサイト-利用可能: https://www.deegree.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>deegree_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080744Z" creationid="sanak" creationdate="20220806T080744Z">
+        <seg>deegree_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -45515,6 +45723,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T001145Z" creationid="sanak" creationdate="20220806T001145Z">
         <seg>EOxServer スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>eoxserver_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080812Z" creationid="sanak" creationdate="20220806T080812Z">
+        <seg>eoxserver_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -45991,6 +46207,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>gdal_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080932Z" creationid="sanak" creationdate="20220806T080932Z">
+        <seg>gdal_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>gdal_merge.py is a python script that can be used for simple mosaicking tasks.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130454Z" creationid="miurahr" creationdate="20201116T130454Z">
@@ -46071,6 +46295,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>geoext_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080737Z" creationid="sanak" creationdate="20220806T080737Z">
+        <seg>geoext_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>geoinquiet gmail com</seg>
       </tuv>
       <tuv lang="ja">
@@ -46119,6 +46351,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>geomoose_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080724Z" creationid="sanak" creationdate="20220806T080724Z">
+        <seg>geomoose_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>geomoose_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -46143,6 +46383,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>geonetwork_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080746Z" creationid="sanak" creationdate="20220806T080746Z">
+        <seg>geonetwork_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>geonetwork_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -46163,6 +46411,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T001509Z" creationid="sanak" creationdate="20220806T001509Z">
         <seg>GeoNode スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>geonode_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080726Z" creationid="sanak" creationdate="20220806T080726Z">
+        <seg>geonode_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -46207,6 +46463,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>georepublic_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081044Z" creationid="sanak" creationdate="20220806T081044Z">
+        <seg>georepublic_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>geos_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080934Z" creationid="sanak" creationdate="20220806T080934Z">
+        <seg>geos_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>geos_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -46219,6 +46491,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T001551Z" creationid="sanak" creationdate="20220806T001551Z">
         <seg>GeoServer スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>geoserver_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080747Z" creationid="sanak" creationdate="20220806T080747Z">
+        <seg>geoserver_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -46255,10 +46535,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>geostyler_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080733Z" creationid="sanak" creationdate="20220806T080733Z">
+        <seg>geostyler_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>geotools screenshot</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T001716Z" creationid="sanak" creationdate="20220806T001716Z">
         <seg>GeoTools スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>geotools_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080937Z" creationid="sanak" creationdate="20220806T080937Z">
+        <seg>geotools_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -46307,6 +46603,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T002136Z" creationid="sanak" creationdate="20220806T002136Z">
         <seg>GMT スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>gmt_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080904Z" creationid="sanak" creationdate="20220806T080904Z">
+        <seg>gmt_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -46367,6 +46671,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>gpsprune_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080854Z" creationid="sanak" creationdate="20220806T080854Z">
+        <seg>gpsprune_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>gpsprune_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -46387,6 +46699,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T002240Z" creationid="sanak" creationdate="20220806T002240Z">
         <seg>Grass スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>grass_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080705Z" creationid="sanak" creationdate="20220806T080705Z">
+        <seg>grass_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -46523,6 +46843,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T002457Z" creationid="sanak" creationdate="20220806T002457Z">
         <seg>gvSIG スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>gvsig_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080706Z" creationid="sanak" creationdate="20220806T080706Z">
+        <seg>gvsig_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -46967,6 +47295,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ideditor_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080848Z" creationid="sanak" creationdate="20220806T080848Z">
+        <seg>ideditor_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>identify/select features</seg>
       </tuv>
       <tuv lang="ja">
@@ -47295,6 +47631,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>istsos_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080801Z" creationid="sanak" creationdate="20220806T080801Z">
+        <seg>istsos_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>istsos_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -47503,6 +47847,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>josm_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080850Z" creationid="sanak" creationdate="20220806T080850Z">
+        <seg>josm_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>josm_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -47575,6 +47927,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>jts_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081015Z" creationid="sanak" creationdate="20220806T081015Z">
+        <seg>jts_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>jts_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -47611,6 +47971,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T021311Z" creationid="sanak" creationdate="20220806T021311Z">
         <seg>Jupyter スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>jupyter_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080906Z" creationid="sanak" creationdate="20220806T080906Z">
+        <seg>jupyter_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -47787,6 +48155,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T003255Z" creationid="sanak" creationdate="20220806T003255Z">
         <seg>Leaflet スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>leaflet_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080742Z" creationid="sanak" creationdate="20220806T080742Z">
+        <seg>leaflet_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -48063,6 +48439,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>mapbender_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080728Z" creationid="sanak" creationdate="20220806T080728Z">
+        <seg>mapbender_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>mapbender_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -48083,6 +48467,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T003343Z" creationid="sanak" creationdate="20220806T003343Z">
         <seg>MapCache スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>mapcache_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080751Z" creationid="sanak" creationdate="20220806T080751Z">
+        <seg>mapcache_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -48135,6 +48527,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>mapnik_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080907Z" creationid="sanak" creationdate="20220806T080907Z">
+        <seg>mapnik_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>mapnik_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -48159,6 +48559,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>mapproxy_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080803Z" creationid="sanak" creationdate="20220806T080803Z">
+        <seg>mapproxy_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>mapproxy_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -48179,6 +48587,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T003524Z" creationid="sanak" creationdate="20220806T003524Z">
         <seg>MapServer スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>mapserver_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080754Z" creationid="sanak" creationdate="20220806T080754Z">
+        <seg>mapserver_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -48235,6 +48651,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T012019Z" creationid="sanak" creationdate="20220806T012019Z">
         <seg>Marble スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>marble_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080845Z" creationid="sanak" creationdate="20220806T080845Z">
+        <seg>marble_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -48591,6 +49015,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>naturalearth_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080917Z" creationid="sanak" creationdate="20220806T080917Z">
+        <seg>naturalearth_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>naturalearth_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -48639,6 +49071,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ncWMS_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080814Z" creationid="sanak" creationdate="20220806T080814Z">
+        <seg>ncWMS_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ncWMS_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -48659,6 +49099,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T012204Z" creationid="sanak" creationdate="20220806T012140Z">
         <seg>North Carolina データセット スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>nc_dataset_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080920Z" creationid="sanak" creationdate="20220806T080920Z">
+        <seg>nc_dataset_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -48691,6 +49139,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T012307Z" creationid="sanak" creationdate="20220806T012307Z">
         <seg>NetCDF データセット スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>netcdf_dataset_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080925Z" creationid="sanak" creationdate="20220806T080925Z">
+        <seg>netcdf_dataset_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -48775,6 +49231,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ntua_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081035Z" creationid="sanak" creationdate="20220806T081035Z">
+        <seg>ntua_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>nuimura</seg>
       </tuv>
       <tuv lang="ja">
@@ -48835,6 +49299,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T034440Z" creationid="miurahr" creationdate="20210215T034440Z">
         <seg>of the 2019 conference on Big Data from Space (BiDS'2019) (pp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>okeanos</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081038Z" creationid="sanak" creationdate="20220806T081038Z">
+        <seg>okeanos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>okeanos_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081043Z" creationid="sanak" creationdate="20220806T081043Z">
+        <seg>okeanos_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -48911,6 +49391,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>opencpn_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080855Z" creationid="sanak" creationdate="20220806T080855Z">
+        <seg>opencpn_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>opencpn_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -48935,6 +49423,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>openjump_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080713Z" creationid="sanak" creationdate="20220806T080713Z">
+        <seg>openjump_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>openjump_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -48955,6 +49451,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T012429Z" creationid="sanak" creationdate="20220806T012429Z">
         <seg>OpenLayers スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>openlayers_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080731Z" creationid="sanak" creationdate="20220806T080731Z">
+        <seg>openlayers_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -49055,6 +49559,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>osgeo_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081031Z" creationid="sanak" creationdate="20220806T081031Z">
+        <seg>osgeo_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>osgeolive_install_quickstart</seg>
       </tuv>
       <tuv lang="ja">
@@ -49127,10 +49639,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>osm_dataset_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080929Z" creationid="sanak" creationdate="20220806T080929Z">
+        <seg>osm_dataset_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>osm_dataset_overview</seg>
       </tuv>
       <tuv lang="ja">
         <seg>osm_dataset_overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>osm_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080859Z" creationid="sanak" creationdate="20220806T080859Z">
+        <seg>osm_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -49171,6 +49699,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T012538Z" creationid="sanak" creationdate="20220806T012538Z">
         <seg>OTB スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>otb_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080901Z" creationid="sanak" creationdate="20220806T080901Z">
+        <seg>otb_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -49423,6 +49959,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>pgrouting_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080837Z" creationid="sanak" creationdate="20220806T080837Z">
+        <seg>pgrouting_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pgrouting_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -49507,6 +50051,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T012720Z" creationid="sanak" creationdate="20220806T012720Z">
         <seg>PostGIS スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>postgis_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080834Z" creationid="sanak" creationdate="20220806T080834Z">
+        <seg>postgis_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -49615,6 +50167,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>proj_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080938Z" creationid="sanak" creationdate="20220806T080938Z">
+        <seg>proj_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>provides an API, scripting via BeanShell and Java Python/Ython</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T104252Z" creationid="smellman" creationdate="20201103T104252Z">
@@ -49711,6 +50271,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>pycsw_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080757Z" creationid="sanak" creationdate="20220806T080757Z">
+        <seg>pycsw_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pycsw_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -49783,10 +50351,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>pygeoapi_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080806Z" creationid="sanak" creationdate="20220806T080806Z">
+        <seg>pygeoapi_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pywps screenshot</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T013024Z" creationid="sanak" creationdate="20220806T013024Z">
         <seg>PyWPS スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pywps_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080800Z" creationid="sanak" creationdate="20220806T080800Z">
+        <seg>pywps_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -49815,10 +50399,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>qgis_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080709Z" creationid="sanak" creationdate="20220806T080709Z">
+        <seg>qgis_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>qgis_mapserver screenshot</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T013142Z" creationid="sanak" creationdate="20220806T013142Z">
         <seg>QGIS サーバ スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>qgis_mapserver_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080817Z" creationid="sanak" creationdate="20220806T080817Z">
+        <seg>qgis_mapserver_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -49911,6 +50511,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>rasdaman_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080839Z" creationid="sanak" creationdate="20220806T080839Z">
+        <seg>rasdaman_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>rasdaman_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -49971,6 +50579,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T013453Z" creationid="sanak" creationdate="20220806T013453Z">
         <seg>Re3gistry スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>re3gistry_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080820Z" creationid="sanak" creationdate="20220806T080820Z">
+        <seg>re3gistry_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -50227,6 +50843,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T013518Z" creationid="sanak" creationdate="20220806T013518Z">
         <seg>SAGA スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>saga_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080714Z" creationid="sanak" creationdate="20220806T080714Z">
+        <seg>saga_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -50535,6 +51159,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>spatialite_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080842Z" creationid="sanak" creationdate="20220806T080842Z">
+        <seg>spatialite_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>spatialite_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -50755,6 +51387,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T013606Z" creationid="sanak" creationdate="20220806T013606Z">
         <seg>t-rex スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>t-rex_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080822Z" creationid="sanak" creationdate="20220806T080822Z">
+        <seg>t-rex_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -51119,10 +51759,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ucdice_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081033Z" creationid="sanak" creationdate="20220806T081033Z">
+        <seg>ucdice_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>udig screenshot</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T013652Z" creationid="sanak" creationdate="20220806T013652Z">
         <seg>uDig スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>udig_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080721Z" creationid="sanak" creationdate="20220806T080721Z">
+        <seg>udig_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -51527,6 +52183,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>xygrib_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080914Z" creationid="sanak" creationdate="20220806T080914Z">
+        <seg>xygrib_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>yellow-sky</seg>
       </tuv>
       <tuv lang="ja">
@@ -51563,6 +52227,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T013837Z" creationid="sanak" creationdate="20220806T013837Z">
         <seg>ZOO プロジェクト スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>zoo-project_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080807Z" creationid="sanak" creationdate="20220806T080807Z">
+        <seg>zoo-project_logo</seg>
       </tuv>
     </tu>
     <tu>
@@ -51619,6 +52291,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>zygrib_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|52nSOS_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080824Z" creationid="sanak" creationdate="20220806T080824Z">
+        <seg>|52nSOS_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|52nWPS_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080828Z" creationid="sanak" creationdate="20220806T080828Z">
+        <seg>|52nWPS_logo|</seg>
       </tuv>
     </tu>
     <tu>
@@ -51999,6 +52687,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|R_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080909Z" creationid="sanak" creationdate="20220806T080909Z">
+        <seg>|R_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|SENSORML|</seg>
       </tuv>
       <tuv lang="ja">
@@ -52215,6 +52911,166 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|actinia_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080809Z" creationid="sanak" creationdate="20220806T080809Z">
+        <seg>|actinia_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|cesium_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080734Z" creationid="sanak" creationdate="20220806T080734Z">
+        <seg>|cesium_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|debian_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081040Z" creationid="sanak" creationdate="20220806T081040Z">
+        <seg>|debian_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|deegree_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080743Z" creationid="sanak" creationdate="20220806T080743Z">
+        <seg>|deegree_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|eoxserver_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080811Z" creationid="sanak" creationdate="20220806T080811Z">
+        <seg>|eoxserver_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|gdal_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080931Z" creationid="sanak" creationdate="20220806T080931Z">
+        <seg>|gdal_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|geoext_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080736Z" creationid="sanak" creationdate="20220806T080736Z">
+        <seg>|geoext_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|geomoose_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080722Z" creationid="sanak" creationdate="20220806T080722Z">
+        <seg>|geomoose_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|geonetwork_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080745Z" creationid="sanak" creationdate="20220806T080745Z">
+        <seg>|geonetwork_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|geonode_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080725Z" creationid="sanak" creationdate="20220806T080725Z">
+        <seg>|geonode_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|georepublic_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081046Z" creationid="sanak" creationdate="20220806T081046Z">
+        <seg>|georepublic_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|geos_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080933Z" creationid="sanak" creationdate="20220806T080933Z">
+        <seg>|geos_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|geoserver_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080747Z" creationid="sanak" creationdate="20220806T080747Z">
+        <seg>|geoserver_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|geostyler_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080731Z" creationid="sanak" creationdate="20220806T080731Z">
+        <seg>|geostyler_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|geotools_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080935Z" creationid="sanak" creationdate="20220806T080935Z">
+        <seg>|geotools_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|gmt_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080902Z" creationid="sanak" creationdate="20220806T080902Z">
+        <seg>|gmt_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|gpsprune_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080852Z" creationid="sanak" creationdate="20220806T080852Z">
+        <seg>|gpsprune_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|grass_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080704Z" creationid="sanak" creationdate="20220806T080704Z">
+        <seg>|grass_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|gvsig_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080706Z" creationid="sanak" creationdate="20220806T080706Z">
+        <seg>|gvsig_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|ideditor_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080846Z" creationid="sanak" creationdate="20220806T080846Z">
+        <seg>|ideditor_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|image14|</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T084206Z" creationid="sanak" creationdate="20201218T084206Z">
@@ -52363,6 +53219,126 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210126T155359Z" creationid="sanak" creationdate="20210126T155359Z">
         <seg>|image4|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|istsos_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080800Z" creationid="sanak" creationdate="20220806T080800Z">
+        <seg>|istsos_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|josm_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080848Z" creationid="sanak" creationdate="20220806T080848Z">
+        <seg>|josm_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|jts_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080939Z" creationid="sanak" creationdate="20220806T080939Z">
+        <seg>|jts_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|jupyter_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080904Z" creationid="sanak" creationdate="20220806T080904Z">
+        <seg>|jupyter_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|leaflet_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080738Z" creationid="sanak" creationdate="20220806T080738Z">
+        <seg>|leaflet_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|mapbender_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080727Z" creationid="sanak" creationdate="20220806T080727Z">
+        <seg>|mapbender_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|mapcache_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080749Z" creationid="sanak" creationdate="20220806T080749Z">
+        <seg>|mapcache_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|mapnik_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080907Z" creationid="sanak" creationdate="20220806T080907Z">
+        <seg>|mapnik_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|mapproxy_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080803Z" creationid="sanak" creationdate="20220806T080803Z">
+        <seg>|mapproxy_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|mapserver_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080753Z" creationid="sanak" creationdate="20220806T080753Z">
+        <seg>|mapserver_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|marble_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080844Z" creationid="sanak" creationdate="20220806T080844Z">
+        <seg>|marble_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|naturalearth_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080915Z" creationid="sanak" creationdate="20220806T080915Z">
+        <seg>|naturalearth_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|ncWMS_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080812Z" creationid="sanak" creationdate="20220806T080812Z">
+        <seg>|ncWMS_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nc_dataset_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080920Z" creationid="sanak" creationdate="20220806T080920Z">
+        <seg>|nc_dataset_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|netcdf_dataset_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080922Z" creationid="sanak" creationdate="20220806T080922Z">
+        <seg>|netcdf_dataset_logo|</seg>
       </tuv>
     </tu>
     <tu>
@@ -52711,10 +53687,58 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|ntua_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081034Z" creationid="sanak" creationdate="20220806T081034Z">
+        <seg>|ntua_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|okeanos_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081042Z" creationid="sanak" creationdate="20220806T081042Z">
+        <seg>|okeanos_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|opencpn_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080855Z" creationid="sanak" creationdate="20220806T080855Z">
+        <seg>|opencpn_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|openjump_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080711Z" creationid="sanak" creationdate="20220806T080711Z">
+        <seg>|openjump_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|openlayers_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080728Z" creationid="sanak" creationdate="20220806T080728Z">
+        <seg>|openlayers_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|osgeo_community| Is an OSGeo Community Project</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210214T055806Z" creationid="sanak" creationdate="20210214T055806Z">
         <seg>|osgeo_community| は OSGeo コミュニティプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|osgeo_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081029Z" creationid="sanak" creationdate="20220806T081029Z">
+        <seg>|osgeo_logo|</seg>
       </tuv>
     </tu>
     <tu>
@@ -52775,10 +53799,162 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|osm_dataset_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080926Z" creationid="sanak" creationdate="20220806T080926Z">
+        <seg>|osm_dataset_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|osm_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080856Z" creationid="sanak" creationdate="20220806T080856Z">
+        <seg>|osm_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|otb_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080901Z" creationid="sanak" creationdate="20220806T080901Z">
+        <seg>|otb_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|pgrouting_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080835Z" creationid="sanak" creationdate="20220806T080835Z">
+        <seg>|pgrouting_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|proj_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080937Z" creationid="sanak" creationdate="20220806T080937Z">
+        <seg>|proj_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|pycsw_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080755Z" creationid="sanak" creationdate="20220806T080755Z">
+        <seg>|pycsw_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|pygeoapi_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080805Z" creationid="sanak" creationdate="20220806T080805Z">
+        <seg>|pygeoapi_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|pywps_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080759Z" creationid="sanak" creationdate="20220806T080759Z">
+        <seg>|pywps_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|qgis_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080708Z" creationid="sanak" creationdate="20220806T080708Z">
+        <seg>|qgis_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|qgis_mapserver_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080817Z" creationid="sanak" creationdate="20220806T080817Z">
+        <seg>|qgis_mapserver_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|rasdaman_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080838Z" creationid="sanak" creationdate="20220806T080838Z">
+        <seg>|rasdaman_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|re3gistry_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080818Z" creationid="sanak" creationdate="20220806T080818Z">
+        <seg>|re3gistry_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|saga_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080713Z" creationid="sanak" creationdate="20220806T080713Z">
+        <seg>|saga_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|spatialite_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080840Z" creationid="sanak" creationdate="20220806T080840Z">
+        <seg>|spatialite_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|t-rex_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080822Z" creationid="sanak" creationdate="20220806T080822Z">
+        <seg>|t-rex_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|ucdice_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T081031Z" creationid="sanak" creationdate="20220806T081031Z">
+        <seg>|ucdice_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|udig_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080715Z" creationid="sanak" creationdate="20220806T080715Z">
+        <seg>|udig_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|vmdk| Included only on OSGeoLive VMDK version</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210214T060029Z" creationid="sanak" creationdate="20210214T055906Z">
         <seg>|vmdk| は OSGeoLive VMDK バージョンにのみ含まれるもの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|xygrib_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080913Z" creationid="sanak" creationdate="20220806T080913Z">
+        <seg>|xygrib_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|zoo-project_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T080806Z" creationid="sanak" creationdate="20220806T080806Z">
+        <seg>|zoo-project_logo|</seg>
       </tuv>
     </tu>
     <tu>
