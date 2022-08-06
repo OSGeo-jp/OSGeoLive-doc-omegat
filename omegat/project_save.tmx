@@ -43455,6 +43455,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`API Docs &lt;https://localhost/openlayers/apidoc/&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T132226Z" creationid="sanak" creationdate="20220806T131947Z">
+        <seg>`API ドキュメント &lt;https://localhost/openlayers/apidoc/&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`Actinia &lt;https://actinia.mundialis.de/&gt;`__ is an open source REST API for scalable, distributed, high performance processing of geographical data that uses `GRASS GIS &lt;https://grass.osgeo.org/&gt;`__ for computational tasks.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201124T235904Z" creationid="miurahr" creationdate="20201103T061549Z">
@@ -43563,6 +43571,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021525Z" creationid="miurahr" creationdate="20201108T021525Z">
         <seg>`例 &lt;../../openlayers/examples/&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`Examples &lt;https://localhost/openlayers/examples/&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T132148Z" creationid="sanak" creationdate="20220806T132148Z">
+        <seg>`サンプル &lt;https://localhost/openlayers/examples/&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
