@@ -4592,8 +4592,8 @@
       <tuv lang="en-US">
         <seg>A half hour `presentation &lt;presentation.html&gt;`__, highlighting all OSGeoLive applications, is available with slides, script</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220805T234522Z" creationid="sanak" creationdate="20220805T234522Z">
-        <seg>全ての OSGeoLive アプリケーションを取り上げた30分間の `プレゼンテーション &lt;presentation.html&gt;`_ がスライドや原稿とともに、利用可能です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T002615Z" creationid="sanak" creationdate="20220805T234522Z">
+        <seg>全ての OSGeoLive アプリケーションを取り上げた30分間の `プレゼンテーション &lt;presentation.html&gt;`__ がスライドや原稿とともに、利用可能です。</seg>
       </tuv>
     </tu>
     <tu>
