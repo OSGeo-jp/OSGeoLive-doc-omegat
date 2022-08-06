@@ -49263,6 +49263,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>re3gistry screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T013453Z" creationid="sanak" creationdate="20220806T013453Z">
+        <seg>Re3gistry スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>read only (ro),</seg>
       </tuv>
       <tuv lang="ja">
