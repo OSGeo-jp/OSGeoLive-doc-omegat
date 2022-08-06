@@ -48855,6 +48855,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>proj screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T012800Z" creationid="sanak" creationdate="20220806T012800Z">
+        <seg>PROJ スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>proj.4 is a standard Unix filter function which converts geographic longitude and latitude coordinates into cartesian coordinates (and vice versa), and it is a C API for software developers to include coordinate transformation in their own software.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T040534Z" creationid="miurahr" creationdate="20201221T040534Z">
