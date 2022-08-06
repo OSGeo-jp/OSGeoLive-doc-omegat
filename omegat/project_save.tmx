@@ -47959,6 +47959,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>netcdf_dataset screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T012307Z" creationid="sanak" creationdate="20220806T012307Z">
+        <seg>NetCDF データセット スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>netcdf_dataset_overview</seg>
       </tuv>
       <tuv lang="ja">
