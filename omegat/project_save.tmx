@@ -48223,6 +48223,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>openlayers screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T012429Z" creationid="sanak" creationdate="20220806T012429Z">
+        <seg>OpenLayers スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>openlayers_overview</seg>
       </tuv>
       <tuv lang="ja">
