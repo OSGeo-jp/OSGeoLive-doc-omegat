@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**API Interfaces:** REST API, OpenAPI Specification, Java client library</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055851Z" creationid="sanak" creationdate="20220806T055801Z">
+        <seg>**API インタフェース:** REST API、OpenAPI仕様、Javaクライアントライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**API Interfaces:** REST API, Python</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T131004Z" creationid="miurahr" creationdate="20201103T061716Z">
@@ -418,6 +426,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**API:** Java, HTTP + JSON/XML/SOAP/KVP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Administrator manual:** https://docs.etf-validator.net/v2.0/index.html#_administrator_manuals</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055951Z" creationid="sanak" creationdate="20220806T055951Z">
+        <seg>**管理者マニュアル:** https://docs.etf-validator.net/v2.0/index.html#_administrator_manuals</seg>
       </tuv>
     </tu>
     <tu>
@@ -690,6 +706,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002250Z" creationid="miurahr" creationdate="20201103T002250Z">
         <seg>**デスクトップ・アプリケーション**： Windows、Mac OS/X、およびLinux上でネイティブに動作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Developer manual:** https://docs.etf-validator.net/v2.0/index.html#_developer_manuals</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T060100Z" creationid="sanak" creationdate="20220806T060005Z">
+        <seg>**開発者マニュアル:** https://docs.etf-validator.net/v2.0/index.html#_developer_manuals</seg>
       </tuv>
     </tu>
     <tu>
@@ -1398,6 +1422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Software Version:** |version-ETF|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055653Z" creationid="sanak" creationdate="20220806T055653Z">
+        <seg>**ソフトウェアバージョン:** |version-ETF|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Software Version:** |version-R|</seg>
       </tuv>
       <tuv lang="ja">
@@ -2014,6 +2046,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Support:** https://github.com/etf-validator/etf-webapp/issues</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055857Z" creationid="sanak" creationdate="20220806T055857Z">
+        <seg>**サポート:** https://github.com/etf-validator/etf-webapp/issues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Support:** https://github.com/mundialis/actinia_core</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T061735Z" creationid="miurahr" creationdate="20201103T061735Z">
@@ -2352,8 +2392,8 @@
       <tuv lang="en-US">
         <seg>**Supported Platforms:** Windows, Linux</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T061813Z" creationid="miurahr" creationdate="20201103T003448Z">
-        <seg>**対応プラットフォーム:** Windows, Linux</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055812Z" creationid="miurahr" creationdate="20201103T003448Z">
+        <seg>**対応プラットフォーム:** Windows、Linux</seg>
       </tuv>
     </tu>
     <tu>
@@ -2410,6 +2450,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T073436Z" creationid="sanak" creationdate="20201103T073436Z">
         <seg>**トランザクション**:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**User manual:** https://docs.etf-validator.net/v2.0/User_manuals/Simplified_workflows.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055930Z" creationid="sanak" creationdate="20220806T055930Z">
+        <seg>**ユーザマニュアル:** https://docs.etf-validator.net/v2.0/User_manuals/Simplified_workflows.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -3830,6 +3878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>:doc:`Quickstart documentation &lt;../quickstart/ETF_quickstart&gt;`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T060116Z" creationid="sanak" creationdate="20220806T060116Z">
+        <seg>:doc:`クイックスタート文書 &lt;../quickstart/ETF_quickstart&gt;`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>:doc:`Quickstart documentation &lt;../quickstart/R_quickstart&gt;`</seg>
       </tuv>
       <tuv lang="ja">
@@ -4984,8 +5040,8 @@
       <tuv lang="en-US">
         <seg>About</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>About</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T054359Z">
+        <seg>概要</seg>
       </tuv>
     </tu>
     <tu>
@@ -4994,6 +5050,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T055250Z" creationid="miurahr" creationdate="20201103T055210Z">
         <seg>Mapnikの目的は、何よりも美しい地図を作ることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055032Z" creationid="sanak" creationdate="20220806T055032Z">
+        <seg>アクセス</seg>
       </tuv>
     </tu>
     <tu>
@@ -7138,6 +7202,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Bart van den Eijnden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BaseX for testing sets of XML documents</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055314Z" creationid="sanak" creationdate="20220806T055314Z">
+        <seg>XMLドキュメントのセットをテストするBaseX</seg>
       </tuv>
     </tu>
     <tu>
@@ -10440,6 +10512,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Currently the following test engines are supported: SoapUI for testing web services, BaseX database for testing XML data, TEAM Engine to validate WFS and OGC Web APIs using the OGC CITE tests, NeoTL Engine for testing WFS, OGC Web APIs and datasets.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T054616Z" creationid="sanak" creationdate="20220806T054616Z">
+        <seg>現在、以下のテストエンジンがサポートされています。WebサービスをテストするSoapUI、XMLデータをテストするBaseXデータベース、OGC CITEテストを使用してWFSとOGC Web APIの検証を行うTEAMエンジン、WFS、OGC Web APIとデータセットのテストを行うNeoTLエンジンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Currently the object doesn't have a coordinate system assigned to it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T142837Z" creationid="miurahr" creationdate="20201123T142837Z">
@@ -11816,6 +11896,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ETF is also used extensively in Germany by the Surveying Authorities of the Laender to validate their datasets.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T054715Z" creationid="sanak" creationdate="20220806T054715Z">
+        <seg>また、ドイツでは、各州の測量局がデータセットを検証するために、ETFが広く利用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ETF is an open source testing framework for validating data and APIs in Spatial Data Infrastructures (SDIs).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T054148Z" creationid="sanak" creationdate="20220806T054148Z">
+        <seg>ETFは、空間データ基盤(SDI)のデータやAPIを検証するためのオープンソースのテストフレームワークです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ETF is the underlying framework used by the INSPIRE Reference Validator to validate metadata, datasets and services against the INSPIRE requirements.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T054637Z" creationid="sanak" creationdate="20220806T054637Z">
+        <seg>ETFはINSPIRE Reference Validatorがメタデータ、データセット、サービスをINSPIREの要求事項に照らして検証するために使用する基本的なフレームワークです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ETF screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T054824Z" creationid="sanak" creationdate="20220806T054824Z">
+        <seg>ETF スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ETL (Extract, Transform and Load) Tool</seg>
       </tuv>
       <tuv lang="ja">
@@ -12892,6 +13004,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T153536Z" creationid="miurahr" creationdate="20201116T132457Z">
         <seg>最後に、 "Go" ボタンをクリックして、地物を実際に選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finally, some software tools include validation based on the ETF API in their workflow.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T054814Z" creationid="sanak" creationdate="20220806T054814Z">
+        <seg>最後に、ソフトウェアツールの中には、ETF APIに基づく検証をワークフローに組み込んでいるものがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15456,6 +15576,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goals in designing the ETF software were to create test reports that are user-friendly and self-explanatory as well as to be able to validate large amounts of data, which can be several hundred GB in size.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T054504Z" creationid="sanak" creationdate="20220806T054504Z">
+        <seg>ETFのソフトウェア設計の目標は、ユーザーフレンドリーで分かりやすいテストレポートを作成することと、数百GBにも及ぶ大容量データの検証を可能にすることでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Google Maps XYZ</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T023350Z" creationid="miurahr" creationdate="20201220T023350Z">
@@ -16405,6 +16533,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210219T014449Z" creationid="smellman" creationdate="20201101T104134Z">
         <seg>IRCユーザは、Freenode.netの #osgeolive または #osgeo チャンネルを使ってリアルタイムによる支援を試してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ISO 19105</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055604Z" creationid="sanak" creationdate="20220806T055604Z">
+        <seg>ISO 19105</seg>
       </tuv>
     </tu>
     <tu>
@@ -17496,6 +17632,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T080344Z" creationid="miurahr" creationdate="20201103T080344Z">
         <seg>編集を続けるには、まず実際のデータをダウンロードする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In order to cover different validation tasks and present them in a unified report, the architecture is modular and different test engines can be used.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T054528Z" creationid="sanak" creationdate="20220806T054528Z">
+        <seg>異なる検証作業をカバーし、統一されたレポートとして提示するために、アーキテクチャはモジュール化され、異なるテストエンジンを使用することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19284,6 +19428,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is used by software solutions and data providers to validate the conformity of geospatial data sets, metadata and APIs.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T054325Z" creationid="sanak" creationdate="20220806T054325Z">
+        <seg>ソフトウェアソリューションやデータプロバイダーにより、地理空間データセット、メタデータ、APIの適合性を検証するために使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is used to set the resolution, the center location, etc.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T003810Z" creationid="miurahr" creationdate="20201108T003810Z">
@@ -19672,6 +19824,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Java Swing/AWT 書き込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Java client library</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055133Z" creationid="sanak" creationdate="20220806T055133Z">
+        <seg>Javaクライアントライブラリ</seg>
       </tuv>
     </tu>
     <tu>
@@ -22668,6 +22828,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NeoTL for testing OGC WFS and OGC APIs (in development)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055436Z" creationid="sanak" creationdate="20220806T055436Z">
+        <seg>OGC WFSおよびOGC APIのテスト用NeoTL(開発中)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NetCDF (Network Common Data Form) is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T123051Z" creationid="miurahr" creationdate="20201220T020305Z">
@@ -23696,6 +23864,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T052421Z" creationid="sanak" creationdate="20201218T052421Z">
         <seg>OGC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OGC API - Features</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055634Z" creationid="sanak" creationdate="20220806T055634Z">
+        <seg>OGC API - Features</seg>
       </tuv>
     </tu>
     <tu>
@@ -25524,6 +25700,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OpenAPI Specification</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055123Z" creationid="sanak" creationdate="20220806T055123Z">
+        <seg>OpenAPI仕様</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OpenCPN</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T021347Z" creationid="miurahr" creationdate="20201220T021347Z">
@@ -25832,6 +26016,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Osmosis: 0.44.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other European Union (EU) Member States are also reusing the ETF to allow their data providers to test resources against national requirements.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T054746Z" creationid="sanak" creationdate="20220806T054746Z">
+        <seg>他の欧州連合(EU)加盟国も、データプロバイダーが自国の要件に照らしてリソースをテストできるように、ETFを再利用しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27757,6 +27949,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210206T164913Z" creationid="miurahr" creationdate="20210206T164913Z">
         <seg>RAM: 最低4 GB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>REST API</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055107Z" creationid="sanak" creationdate="20220806T055107Z">
+        <seg>REST API</seg>
       </tuv>
     </tu>
     <tu>
@@ -30457,6 +30657,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SoapUI for testing web services</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055229Z" creationid="sanak" creationdate="20220806T055229Z">
+        <seg>Webサービステスト用のSoapUI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Software on OSGeoLive is available under various Free and Open Source licenses, as listed in the Project Overviews.</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T110705Z" creationid="smellman" creationdate="20201101T110705Z">
@@ -31609,6 +31817,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Supported test engines</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055207Z" creationid="sanak" creationdate="20220806T055207Z">
+        <seg>対応テストエンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Supports GetFeatureInfo for remote WMS backends</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T042623Z" creationid="miurahr" creationdate="20201103T042623Z">
@@ -31809,6 +32025,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TEAM Engine to support CITE tests developed using TestNG</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055411Z" creationid="sanak" creationdate="20220806T055411Z">
+        <seg>TestNGで開発されたCITEテストに対応するTEAMエンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>TMS</seg>
       </tuv>
       <tuv lang="ja">
@@ -31909,6 +32133,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T080121Z" creationid="sanak" creationdate="20201103T080121Z">
         <seg>時間フィルタ: TEquals、時間を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Test reports</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055446Z" creationid="sanak" creationdate="20220806T055446Z">
+        <seg>テストレポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Testable resources</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T054836Z" creationid="sanak" creationdate="20220806T054836Z">
+        <seg>テスト可能なリソース</seg>
       </tuv>
     </tu>
     <tu>
@@ -44303,6 +44543,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>catalogue services: CSW</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055020Z" creationid="sanak" creationdate="20220806T054955Z">
+        <seg>カタログサービス: CSW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>cd / navigated to the root directory cd /home/user goes to your home directory same as cd ~</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T055603Z" creationid="miurahr" creationdate="20210201T055603Z">
@@ -44663,6 +44911,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>datasets (up to multiple hundreds GB): GML</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T054918Z" creationid="sanak" creationdate="20220806T054918Z">
+        <seg>データセット(最大数百GB): GML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>db2, h2, mysql, oracle, postgis, spatialite, sqlserver.</seg>
       </tuv>
       <tuv lang="ja">
@@ -44851,6 +45107,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210117T114114Z" creationid="sanak" creationdate="20201103T055451Z">
         <seg> `SOS webapp &lt;http://localhost:8080/52nSOS/static/doc/api-doc/&gt;`_ 内で文書を確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>download services: Atom, WFS, WCS, SOS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055012Z" creationid="sanak" creationdate="20220806T055012Z">
+        <seg>ダウンロードサービス: Atom、WFS、WCS、SOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>downloadable in HTML, XML and JSON</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055546Z" creationid="sanak" creationdate="20220806T055546Z">
+        <seg>HTML、XML、JSONでダウンロード可能</seg>
       </tuv>
     </tu>
     <tu>
@@ -47911,6 +48183,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>metadata: XML</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T054929Z" creationid="sanak" creationdate="20220806T054929Z">
+        <seg>メタデータ: XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>micha</seg>
       </tuv>
       <tuv lang="ja">
@@ -50671,6 +50951,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>user-friendly and self-explanatory</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055521Z" creationid="sanak" creationdate="20220806T055521Z">
+        <seg>ユーザーフレンドリーで分かりやすい</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>username = "user"</seg>
       </tuv>
       <tuv lang="ja">
@@ -50755,6 +51043,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>victor.poughon cnes fr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>view services: WMS/WMTS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T054953Z" creationid="sanak" creationdate="20220806T054953Z">
+        <seg>表示サービス: WMS/WMTS</seg>
       </tuv>
     </tu>
     <tu>
@@ -50867,6 +51163,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>wata909 gmail com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>web-based user interface</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T055105Z" creationid="sanak" creationdate="20220806T055024Z">
+        <seg>Webベースのユーザインタフェース</seg>
       </tuv>
     </tu>
     <tu>
