@@ -1038,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Licence:** The 3-Clause BSD License</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T021326Z" creationid="sanak" creationdate="20220806T021326Z">
+        <seg>**ライセンス:** The 3-Clause BSD License</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Licence:** `Apache Software License 2.0 &lt;https://www.apache.org/licenses/LICENSE-2.0.html&gt;`_</seg>
       </tuv>
       <tuv lang="ja">
@@ -2062,6 +2070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Support:** https://jupyter.org/community.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T021411Z" creationid="sanak" creationdate="20220806T021411Z">
+        <seg>**サポート:** https://jupyter.org/community.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Support:** https://lists.osgeo.org/mailman/listinfo/gdal-dev, https://www.osgeo.org/service-providers/</seg>
       </tuv>
       <tuv lang="ja">
@@ -2738,6 +2754,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**Webサイト:** https://josm.openstreetmap.de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Website:** https://jupyter.org/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T021319Z" creationid="sanak" creationdate="20220806T021319Z">
+        <seg>**Webサイト:** https://jupyter.org/</seg>
       </tuv>
     </tu>
     <tu>
@@ -9472,6 +9496,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Code from multiple programming languages, including Python, R, Julia, Bash and many more.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T022002Z" creationid="sanak" creationdate="20220806T022002Z">
+        <seg>Python、R、Julia、Bashなど、複数のプログラミング言語からのコード。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Code from multiple programming languages, including python, R, Julia, Bash and many more.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T225522Z" creationid="miurahr" creationdate="20210303T225522Z">
@@ -9964,6 +9996,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T050650Z" creationid="miurahr" creationdate="20201122T050650Z">
         <seg>サポートされているカバレッジフォーマット:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create Jupyter Notebooks which can contain:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T021722Z" creationid="sanak" creationdate="20220806T021722Z">
+        <seg>以下を含むJupyterノートブックの作成:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17225,6 +17265,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Imported external libraries to add functionality</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T021901Z" creationid="sanak" creationdate="20220806T021901Z">
+        <seg>外部ライブラリをインポートして機能を追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Imported external libraries to add functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T225538Z" creationid="miurahr" creationdate="20210303T225429Z">
@@ -19840,6 +19888,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T225932Z" creationid="miurahr" creationdate="20210303T225915Z">
         <seg>Jupyterノートブック・クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jupyter Notebooks on OSGeoLive can use geospatial functions from:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T022111Z" creationid="sanak" creationdate="20220806T022111Z">
+        <seg>OSGeoLive上のJupyterノートブックは、以下の地理空間関数を使用可能:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23076,6 +23132,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Notebooks can be shared with others on GitHub, Dropbox, and the `Jupyter Notebook Viewer &lt;https://nbviewer.org&gt;`__.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T021558Z" creationid="sanak" creationdate="20220806T021434Z">
+        <seg>ノートブックはGitHub、Dropbox、 `Jupyterノートブックビューア &lt;https://nbviewer.org&gt;`__ で他のユーザに共有できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Notice how the 'WHERE' part of the line stops us getting back distances of a city to itself (which will all be zero) or the reverse distances to the ones in the table above (London, England to London, Ontario is the same distance as London, Ontario to London, England).</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210303T153347Z" creationid="miurahr" creationdate="20201108T043237Z">
@@ -23614,8 +23678,8 @@
       <tuv lang="en-US">
         <seg>Numpy, SciPy Matplotlib, IRIS, Cartopy, gdal, Geopandas, pyshp, Fiona, netCDF4, PostgreSQL, psycopg2, R, rpy2, and more.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T225628Z" creationid="miurahr" creationdate="20210303T225628Z">
-        <seg>Numpy, SciPy Matplotlib, IRIS, Cartopy, gdal, Geopandas, pyshp, Fiona, netCDF4, PostgreSQL, psycopg2, R, rpy2, などなど。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T022312Z" creationid="miurahr" creationdate="20210303T225628Z">
+        <seg>Numpy、SciPy Matplotlib、IRIS、Cartopy、gdal、Geopandas、pyshp、Fiona、netCDF4、PostgreSQL、psycopg2、R、rpy2などなど。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47035,6 +47099,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>jupyter developers team; Massimo Di Stefano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>jupyter screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T021311Z" creationid="sanak" creationdate="20220806T021311Z">
+        <seg>Jupyter スクリーンショット</seg>
       </tuv>
     </tu>
     <tu>
