@@ -12552,6 +12552,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Extensions built using the GeoTools library</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T002120Z" creationid="sanak" creationdate="20220806T001824Z">
+        <seg>GeoTools ライブラリを使用して構築された拡張機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Extensions provide graph and networking support (for finding the shortest path), validation, a web map server client, bindings for xml parsing and encoding and color brewer.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T145727Z" creationid="miurahr" creationdate="20201103T012211Z">
@@ -45511,6 +45519,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>geotools screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T001716Z" creationid="sanak" creationdate="20220806T001716Z">
+        <seg>GeoTools スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>geotools_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -45547,6 +45563,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>gislars</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>gmt screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T002136Z" creationid="sanak" creationdate="20220806T002136Z">
+        <seg>GMT スクリーンショット</seg>
       </tuv>
     </tu>
     <tu>
