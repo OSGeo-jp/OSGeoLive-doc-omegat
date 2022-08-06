@@ -48615,6 +48615,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>login screen</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T131903Z" creationid="sanak" creationdate="20220806T131903Z">
+        <seg>ログイン スクリーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>look up tables, histogram</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T175143Z" creationid="miurahr" creationdate="20201122T052725Z">
