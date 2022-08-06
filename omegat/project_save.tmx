@@ -27569,6 +27569,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>R screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T013248Z" creationid="sanak" creationdate="20220806T013248Z">
+        <seg>R スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>R will ask you if you want to save your workspace as an R data image file.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T142948Z" creationid="miurahr" creationdate="20201123T142948Z">
@@ -28933,6 +28941,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T054316Z" creationid="miurahr" creationdate="20201103T013709Z">
         <seg>処理を自動化するためのスクリプトが頻繁に利用されており、また、R の GUI 環境として主要なものに RStudio (https://rstudio.com) があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scripts are often used to automate processing steps but there are GUIs, the leading one being RStudio (https://www.rstudio.com).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T013358Z" creationid="sanak" creationdate="20220806T013358Z">
+        <seg>処理を自動化するためのスクリプトが頻繁に利用されており、また、R の GUI 環境として主要なものに RStudio (https://www.rstudio.com) があります。</seg>
       </tuv>
     </tu>
     <tu>
