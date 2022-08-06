@@ -49199,6 +49199,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>rasdaman screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T013430Z" creationid="sanak" creationdate="20220806T013430Z">
+        <seg>Rasdaman スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>rasdaman_overview</seg>
       </tuv>
       <tuv lang="ja">
