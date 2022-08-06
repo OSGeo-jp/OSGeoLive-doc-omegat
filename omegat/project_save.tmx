@@ -45375,6 +45375,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>geonetwork screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T001448Z" creationid="sanak" creationdate="20220806T001448Z">
+        <seg>GeoNetwork スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>geonetwork_overview</seg>
       </tuv>
       <tuv lang="ja">
