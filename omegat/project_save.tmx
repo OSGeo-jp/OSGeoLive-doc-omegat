@@ -48775,6 +48775,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>postgis screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T012720Z" creationid="sanak" creationdate="20220806T012720Z">
+        <seg>PostGIS スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>postgis_overview</seg>
       </tuv>
       <tuv lang="ja">
