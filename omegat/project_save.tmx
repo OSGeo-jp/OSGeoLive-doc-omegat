@@ -45223,6 +45223,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>gdal screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T001255Z" creationid="sanak" creationdate="20220806T001255Z">
+        <seg>GDAL スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>gdal_merge.py is a python script that can be used for simple mosaicking tasks.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130454Z" creationid="miurahr" creationdate="20201116T130454Z">
