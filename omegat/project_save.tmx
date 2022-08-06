@@ -3638,6 +3638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>50+ Open Source Geospatial Applications</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T074346Z" creationid="sanak" creationdate="20220806T074346Z">
+        <seg>50種類以上のオープンソースの地理空間アプリケーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>52</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T045942Z" creationid="sanak" creationdate="20210102T045942Z">
@@ -5218,6 +5226,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T225807Z" creationid="miurahr" creationdate="20201221T225807Z">
         <seg>これを有効にして、マップビューの1つの地物をクリックして選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Active community</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T074822Z" creationid="sanak" creationdate="20220806T074822Z">
+        <seg>活発なコミュニティ</seg>
       </tuv>
     </tu>
     <tu>
@@ -9736,6 +9752,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Components on OSGeoLive</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T074302Z" creationid="sanak" creationdate="20220806T074302Z">
+        <seg>OSGeoLiveの構成要素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Configure MapServer using the Mapfile configuration file</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021020Z" creationid="miurahr" creationdate="20201103T021020Z">
@@ -9820,6 +9844,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210130T072753Z" creationid="sanak" creationdate="20210130T072753Z">
         <seg>`city_routing` データベースに接続します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consistent Overviews &amp; Quickstarts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T074450Z" creationid="sanak" creationdate="20220806T074450Z">
+        <seg>一貫性のあるオーバービューとクイックスタート</seg>
       </tuv>
     </tu>
     <tu>
@@ -10624,6 +10656,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DVD / USB / Virtual Machine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T074510Z" creationid="sanak" creationdate="20220806T074510Z">
+        <seg>DVD / USB / 仮想マシン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Damian Wojsław</seg>
       </tuv>
       <tuv lang="ja">
@@ -11344,6 +11384,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Documentation updates</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T064932Z" creationid="sanak" creationdate="20220806T064932Z">
+        <seg>ドキュメントの更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Documentation:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201125T004848Z" creationid="miurahr" creationdate="20201125T004848Z">
@@ -11492,6 +11540,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download OSGeoLive ISO or VMDK (with even more software)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T064840Z" creationid="sanak" creationdate="20220806T064840Z">
+        <seg>OSGeoLiveのISOまたはVMDK(さらに多くのソフトウェアを同梱)のダウンロード</seg>
       </tuv>
     </tu>
     <tu>
@@ -12444,6 +12500,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T070258Z" creationid="miurahr" creationdate="20201103T070116Z">
         <seg>Mapnik はどのようなウィンドウシステムにも依存することなく、ジオグラフィックオブジェクト（マップ、レイヤ、データソース、フィーチャ、ジオメトリ）のコレクションをサーバー環境に展開することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Established, stable, working software</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T074756Z" creationid="sanak" creationdate="20220806T074756Z">
+        <seg>確立され、安定し、動作するソフトウェア</seg>
       </tuv>
     </tu>
     <tu>
@@ -14084,6 +14148,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>OpenGis の仕様に沿った完全な空間メタデータ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Full `changelog &lt;href="https://github.com/OSGeo/OSGeoLive/blob/master/CHANGES.txt"&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T065154Z" creationid="sanak" creationdate="20220806T065154Z">
+        <seg>完全な `変更履歴 &lt;href="https://github.com/OSGeo/OSGeoLive/blob/master/CHANGES.txt"&gt;`__</seg>
       </tuv>
     </tu>
     <tu>
@@ -23084,6 +23156,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Non Profit for geospatial community, fostering:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T075220Z" creationid="sanak" creationdate="20220806T075220Z">
+        <seg>地理空間コミュニティのための非営利団体:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>None required if running directly from the DVD</seg>
       </tuv>
       <tuv lang="ja">
@@ -25372,6 +25452,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open Source Geospatial Foundation (OSGeo)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T075029Z" creationid="sanak" creationdate="20220806T075029Z">
+        <seg>オープンソース地理空間財団 (OSGeo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open a :menuselection:`Applications --&gt; Accessories --&gt; Terminal` window and connect to the ``city_routing`` database:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T034123Z">
@@ -27308,6 +27396,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Production &amp; Marketing Pipeline</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T074940Z" creationid="sanak" creationdate="20220806T074940Z">
+        <seg>プロダクション &amp; マーケティング パイプライン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Programmable using pure Java through GWT</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T051008Z" creationid="miurahr" creationdate="20201122T050823Z">
@@ -27748,6 +27844,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130755Z" creationid="miurahr" creationdate="20201116T130755Z">
         <seg>QGISはGDAL/OGRも使用して、多くの形式をサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quality Criteria</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T074643Z" creationid="sanak" creationdate="20220806T074643Z">
+        <seg>品質保証</seg>
       </tuv>
     </tu>
     <tu>
@@ -29173,6 +29277,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Sahana_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sample Datasets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T074356Z" creationid="sanak" creationdate="20220806T074356Z">
+        <seg>サンプルデータセット</seg>
       </tuv>
     </tu>
     <tu>
@@ -37693,6 +37805,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Translations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T074459Z" creationid="sanak" creationdate="20220806T074459Z">
+        <seg>翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Translations are accomplished with the gdal_translate command.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125651Z" creationid="miurahr" creationdate="20201116T125651Z">
@@ -38209,6 +38329,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T073611Z" creationid="sanak" creationdate="20201103T073611Z">
         <seg>UpdateSensorDescription (仕様バージョン2.0以降): センサーの説明を更新します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Updated core packages based on `DebianGIS &lt;href="https://wiki.debian.org/DebianGis"&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T064727Z" creationid="sanak" creationdate="20220806T064727Z">
+        <seg>`DebianGIS &lt;href="https://wiki.debian.org/DebianGis"&gt;`__ をベースにしたコアパッケージの更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Updated packages contributed back to `UbuntuGIS &lt;href="https://wiki.ubuntu.com/UbuntuGIS"&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T065056Z" creationid="sanak" creationdate="20220806T065056Z">
+        <seg>更新されたパッケージは `UbuntuGIS &lt;href="https://wiki.ubuntu.com/UbuntuGIS"&gt;`__ にコントリビュートされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39961,6 +40097,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T022111Z" creationid="miurahr" creationdate="20201103T022111Z">
         <seg>上記はどういう意味ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is OSGeoLive?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T065206Z" creationid="sanak" creationdate="20220806T064956Z">
+        <seg>OSGeoLiveとは?</seg>
       </tuv>
     </tu>
     <tu>
@@ -43131,6 +43275,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T141205Z" creationid="miurahr" creationdate="20201122T053238Z">
         <seg>`Mapbender &lt;https://mapbender.org/en&gt;`_ は卒業したOSGeoプロジェクトです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`Metrics &lt;https://live.osgeo.org/en/metrics.html&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T074840Z" creationid="sanak" creationdate="20220806T074840Z">
+        <seg>`メトリクス &lt;https://live.osgeo.org/en/metrics.html&gt;`__</seg>
       </tuv>
     </tu>
     <tu>
