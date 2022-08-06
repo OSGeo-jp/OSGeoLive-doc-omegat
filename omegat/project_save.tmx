@@ -2814,6 +2814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Website:** https://opengribs.org/en</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T013751Z" creationid="sanak" creationdate="20220806T013751Z">
+        <seg>**Webサイト:** https://opengribs.org/en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Website:** https://openlayers.org/</seg>
       </tuv>
       <tuv lang="ja">
@@ -50415,6 +50423,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>udig screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T013652Z" creationid="sanak" creationdate="20220806T013652Z">
+        <seg>uDig スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>udig_overview</seg>
       </tuv>
       <tuv lang="ja">
@@ -50779,6 +50795,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>xjtumg1007 gmail com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>xygrib screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T013744Z" creationid="sanak" creationdate="20220806T013744Z">
+        <seg>XyGrib スクリーンショット</seg>
       </tuv>
     </tu>
     <tu>
