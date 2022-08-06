@@ -6486,6 +6486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Angelos Tzotsos (Chair)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T082343Z" creationid="sanak" creationdate="20220806T082246Z">
+        <seg>Angelos Tzotsos (会長)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Angelos Tzotsos, OSGeo</seg>
       </tuv>
       <tuv lang="ja">
@@ -7064,8 +7072,8 @@
       <tuv lang="en-US">
         <seg>Authors and reviewers of the documentation</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220806T082139Z" creationid="sanak" creationdate="20220806T082139Z">
-        <seg>ドキュメントの著者とレビューア</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T082227Z" creationid="sanak" creationdate="20220806T082139Z">
+        <seg>ドキュメントの著者とレビュアー</seg>
       </tuv>
     </tu>
     <tu>
@@ -7262,6 +7270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bas Couwenberg</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T082345Z" creationid="sanak" creationdate="20220806T082345Z">
+        <seg>Bas Couwenberg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BaseX for testing sets of XML documents</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T055314Z" creationid="sanak" creationdate="20220806T055314Z">
@@ -7346,6 +7362,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T021959Z" creationid="miurahr" creationdate="20210303T021959Z">
         <seg>このファイルには二つのトラックがはいっているので、どちらのトラックを読み込むか聞かれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Become a member of our team</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T082521Z" creationid="sanak" creationdate="20220806T082521Z">
+        <seg>チームのメンバーになるには</seg>
       </tuv>
     </tu>
     <tu>
@@ -11202,8 +11226,8 @@
       <tuv lang="en-US">
         <seg>Developers and project maintainers</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220806T082030Z" creationid="sanak" creationdate="20220806T082030Z">
-        <seg>開発者とプロジェクトメンテナ</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T082213Z" creationid="sanak" creationdate="20220806T082030Z">
+        <seg>開発者とプロジェクトメンテナー</seg>
       </tuv>
     </tu>
     <tu>
@@ -15480,6 +15504,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Get involved</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T082435Z" creationid="sanak" creationdate="20220806T082435Z">
+        <seg>参加するには</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Get metadata information from an image</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T015649Z" creationid="miurahr" creationdate="20210214T233209Z">
@@ -16092,6 +16124,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ヒートマップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Help improve OSGeoLive website and documentation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T082907Z" creationid="sanak" creationdate="20220806T082831Z">
+        <seg>OSGeoLive のWebサイトとドキュメントの改善に貢献する</seg>
       </tuv>
     </tu>
     <tu>
@@ -17605,6 +17645,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043802Z" creationid="miurahr" creationdate="20201108T043802Z">
         <seg>空間データをデータベースに読み込む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Improving OSGeoLive Documentation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T083010Z" creationid="sanak" creationdate="20220806T083010Z">
+        <seg>OSGeoLive のドキュメントを改善する</seg>
       </tuv>
     </tu>
     <tu>
@@ -20140,6 +20188,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Join our `Mailing List &lt;https://lists.osgeo.org/mailman/listinfo/osgeolive&gt;`__ and introduce yourself</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T082625Z" creationid="sanak" creationdate="20220806T082625Z">
+        <seg>`メーリングリスト &lt;https://lists.osgeo.org/mailman/listinfo/osgeolive&gt;`__ に参加し、自己紹介する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jorge Arévalo</seg>
       </tuv>
       <tuv lang="ja">
@@ -21096,6 +21152,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>マップ データの読み込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Local Chapters can easily get involved here</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T083444Z" creationid="sanak" creationdate="20220806T083311Z">
+        <seg>ローカルチャプターはここから簡単に参加可能</seg>
       </tuv>
     </tu>
     <tu>
@@ -22172,6 +22236,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Massimo De Stefano</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T082416Z" creationid="sanak" creationdate="20220806T082416Z">
+        <seg>Massimo De Stefano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Massimo Di Stefano</seg>
       </tuv>
       <tuv lang="ja">
@@ -23232,6 +23304,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T050929Z" creationid="miurahr" creationdate="20201122T050923Z">
         <seg>ブラウザにプラグインが不要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No technical experience necessary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T083458Z" creationid="sanak" creationdate="20220806T083346Z">
+        <seg>技術的な経験は不要</seg>
       </tuv>
     </tu>
     <tu>
@@ -27644,6 +27724,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Project Steering Committee</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T082322Z" creationid="sanak" creationdate="20220806T082244Z">
+        <seg>プロジェクト運員委員会</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Project-Id-Version: OSGeoLive 14.0
 Report-Msgid-Bugs-To: 
 POT-Creation-Date: 2020-10-21 10:22-0500
@@ -27684,6 +27772,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T141857Z" creationid="miurahr" creationdate="20201120T141857Z">
         <seg>プロジェクトビュー(2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proof-read, test and correct Quickstarts and Overviews</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T083050Z" creationid="sanak" creationdate="20220806T083050Z">
+        <seg>クイックスタートとオーバービューの校正、テスト、修正</seg>
       </tuv>
     </tu>
     <tu>
@@ -31945,6 +32041,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Submit new projects</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T082936Z" creationid="sanak" creationdate="20220806T082936Z">
+        <seg>新しいプロジェクトを申請する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Support</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T031544Z" creationid="miurahr" creationdate="20201220T031544Z">
@@ -32397,6 +32501,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Takayuki Nuimura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Take part in our weekly `IRC &lt;https://wiki.osgeo.org/wiki/IRC&gt;`__ meetings (channel ``#osgeolive`` on Libre-)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T082736Z" creationid="sanak" creationdate="20220806T082736Z">
+        <seg>毎週開催される `IRC &lt;https://wiki.osgeo.org/wiki/IRC&gt;`__ ミーティング (Libre- の ``#osgeolive`` チャンネル) に参加する</seg>
       </tuv>
     </tu>
     <tu>
@@ -35580,6 +35692,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are two ways you can help</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T082843Z" creationid="sanak" creationdate="20220806T082809Z">
+        <seg>2つの方法で貢献することができます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is a good possibility to get to know cool software!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T083419Z" creationid="sanak" creationdate="20220806T083129Z">
+        <seg>クールなソフトウェアに出会える可能性大!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There is a lot more functionality you can try.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131523Z" creationid="miurahr" creationdate="20201116T131523Z">
@@ -37965,10 +38093,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Translate and improve the documentation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T083156Z" creationid="sanak" creationdate="20220806T083156Z">
+        <seg>ドキュメントの翻訳と改善</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Translation</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T125710Z">
         <seg>変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Translation is made in `Transifex &lt;https://www.transifex.com/osgeo/osgeolive&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T083431Z" creationid="sanak" creationdate="20220806T083222Z">
+        <seg>翻訳には `Transifex &lt;https://www.transifex.com/osgeo/osgeolive&gt;`__ を使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -47087,6 +47231,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>https://live.osgeo.org/en/sponsors.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T082231Z" creationid="sanak" creationdate="20220806T082231Z">
+        <seg>https://live.osgeo.org/en/sponsors.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>https://sourceforge.net/projects/osgeo-live/files/|osgeolive-version-only|/</seg>
       </tuv>
       <tuv lang="ja">
@@ -53827,6 +53979,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T080835Z" creationid="sanak" creationdate="20220806T080835Z">
         <seg>|pgrouting_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|postgis_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T083523Z" creationid="sanak" creationdate="20220806T083523Z">
+        <seg>|postgis_logo|</seg>
       </tuv>
     </tu>
     <tu>
