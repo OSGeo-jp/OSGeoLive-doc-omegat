@@ -47903,6 +47903,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ncWMS screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T012229Z" creationid="sanak" creationdate="20220806T012229Z">
+        <seg>ncWMS スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ncWMS_overview</seg>
       </tuv>
       <tuv lang="ja">
