@@ -41479,6 +41479,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You name it, there's a `tool for it &lt;https://grass.osgeo.org/grass-stable/manuals/keywords.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T002411Z" creationid="sanak" creationdate="20220806T002411Z">
+        <seg>名前から逆引するための `ツール &lt;https://grass.osgeo.org/grass-stable/manuals/keywords.html&gt;`_ があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You name it, there's a `tool for it &lt;https://grass.osgeo.org/grass78/manuals/keywords.html&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T165440Z" creationid="miurahr" creationdate="20201103T064801Z">
@@ -45643,6 +45651,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>gpsprune_quickstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>grass screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T002240Z" creationid="sanak" creationdate="20220806T002240Z">
+        <seg>Grass スクリーンショット</seg>
       </tuv>
     </tu>
     <tu>
