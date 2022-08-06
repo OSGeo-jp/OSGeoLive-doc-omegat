@@ -3534,6 +3534,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>11.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T084749Z" creationid="sanak" creationdate="20220806T084749Z">
+        <seg>11.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>13.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T084623Z" creationid="sanak" creationdate="20220806T084623Z">
+        <seg>13.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>16-days NDVI, MOD13C1, V006, CMG 0.05 deg res.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T033954Z" creationid="miurahr" creationdate="20210215T033954Z">
@@ -10184,6 +10200,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create Map Tiles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T084713Z" creationid="sanak" creationdate="20220806T084713Z">
+        <seg>マップタイルの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create Virtual Procedures that look like normal stations but whose data results from on-the-fly elaboration of other sensor data.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T041818Z" creationid="miurahr" creationdate="20201122T041818Z">
@@ -15308,6 +15332,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131543Z" creationid="miurahr" creationdate="20201116T131543Z">
         <seg>Geomajas自身は、非常に多様で高度なWeb GISソリューションを構築できるアプリケーションフレームワークです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geomajas_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T084718Z" creationid="sanak" creationdate="20220806T084718Z">
+        <seg>Geomajas_</seg>
       </tuv>
     </tu>
     <tu>
@@ -21012,6 +21044,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibLAS_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T084611Z" creationid="sanak" creationdate="20220806T084611Z">
+        <seg>LibLAS_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Library access from Python, Java, C#, Ruby, VB6 and Perl</seg>
       </tuv>
       <tuv lang="ja">
@@ -21856,6 +21896,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T225551Z" creationid="miurahr" creationdate="20210214T225551Z">
         <seg>MapSlicer  は、  `Google Maps &lt;http://maps.google.com/&gt;`__ , `Microsoft Bing &lt;https://www.bing.com/maps&gt;`__, `Yahoo Maps &lt;https://maps.yahoo.com/&gt;`__, と その他の `OpenStreetMap &lt;https://www.openstreetmap.org/&gt;`__  を含むオンラインマップが提供する投影法とタイル提供方法と互換性があるという優位性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MapSlicer_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T084624Z" creationid="sanak" creationdate="20220806T084624Z">
+        <seg>MapSlicer_</seg>
       </tuv>
     </tu>
     <tu>
@@ -24984,6 +25032,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>OSM ファイル: .osm, .xlm, .osmbz2, .osmbz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSSIM_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T084726Z" creationid="sanak" creationdate="20220806T084726Z">
+        <seg>OSSIM_</seg>
       </tuv>
     </tu>
     <tu>
@@ -43767,6 +43823,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`QuickStart &lt;Geomajas_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T084725Z" creationid="sanak" creationdate="20220806T084725Z">
+        <seg>`クイックスタート &lt;Geomajas_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`QuickStart &lt;GpsDrive_q_&gt;`__</seg>
       </tuv>
       <tuv lang="ja">
@@ -43787,6 +43851,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>`クイックスタート &lt;Kosmo Desktop_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;LibLAS_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T084621Z" creationid="sanak" creationdate="20220806T084621Z">
+        <seg>`クイックスタート &lt;LibLAS_q_&gt;`__</seg>
       </tuv>
     </tu>
     <tu>
@@ -43819,6 +43891,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>`クイックスタート &lt;MapGuide_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;MapSlicer_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T084637Z" creationid="sanak" creationdate="20220806T084637Z">
+        <seg>`クイックスタート &lt;MapSlicer_q_&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`QuickStart &lt;OSSIM_q_&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T084733Z" creationid="sanak" creationdate="20220806T084733Z">
+        <seg>`クイックスタート &lt;OSSIM_q_&gt;`__</seg>
       </tuv>
     </tu>
     <tu>
@@ -53875,6 +53963,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T080728Z" creationid="sanak" creationdate="20220806T080728Z">
         <seg>|openlayers_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|osgeo_community|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T084717Z" creationid="sanak" creationdate="20220806T084717Z">
+        <seg>|osgeo_community|</seg>
       </tuv>
     </tu>
     <tu>
