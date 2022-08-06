@@ -47519,6 +47519,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>marble screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T012019Z" creationid="sanak" creationdate="20220806T012019Z">
+        <seg>Marble スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>marble_overview</seg>
       </tuv>
       <tuv lang="ja">
