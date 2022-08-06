@@ -89,7 +89,7 @@ msgstr ""
 
 #: ../../build/doc/overview/proj_overview.rstNone
 msgid "proj screenshot"
-msgstr ""
+msgstr "PROJ スクリーンショット"
 
 #: ../../build/doc/overview/proj_overview.rst:43
 msgid "Core Features"

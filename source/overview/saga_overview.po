@@ -53,7 +53,7 @@ msgstr ""
 
 #: ../../build/doc/overview/saga_overview.rstNone
 msgid "saga screenshot"
-msgstr ""
+msgstr "SAGA スクリーンショット"
 
 #: ../../build/doc/overview/saga_overview.rst:39
 msgid "Core Features"

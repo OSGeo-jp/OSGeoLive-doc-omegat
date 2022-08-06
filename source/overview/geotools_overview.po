@@ -50,7 +50,7 @@ msgstr ""
 
 #: ../../build/doc/overview/geotools_overview.rstNone
 msgid "geotools screenshot"
-msgstr ""
+msgstr "GeoTools スクリーンショット"
 
 #: ../../build/doc/overview/geotools_overview.rst:31
 msgid "Core Features"
@@ -141,7 +141,7 @@ msgstr "コアライブラリの空間機能を使用して構築された追加
 
 #: ../../build/doc/overview/geotools_overview.rst:0
 msgid "Extensions built using the GeoTools library"
-msgstr ""
+msgstr "GeoTools ライブラリを使用して構築された拡張機能"
 
 #: ../../build/doc/overview/geotools_overview.rst:64
 msgid ""

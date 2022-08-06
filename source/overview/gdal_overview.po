@@ -61,7 +61,7 @@ msgstr ""
 
 #: ../../build/doc/overview/gdal_overview.rstNone
 msgid "gdal screenshot"
-msgstr ""
+msgstr "GDAL スクリーンショット"
 
 #: ../../build/doc/overview/gdal_overview.rst:43
 msgid "Core Features"

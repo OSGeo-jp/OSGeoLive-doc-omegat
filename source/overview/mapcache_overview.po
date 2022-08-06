@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../../build/doc/overview/mapcache_overview.rstNone
 msgid "mapcache screenshot"
-msgstr ""
+msgstr "MapCache スクリーンショット"
 
 #: ../../build/doc/overview/mapcache_overview.rst:34
 msgid "Core Features"

@@ -105,7 +105,7 @@ msgstr ""
 
 #: ../../build/doc/overview/zoo-project_overview.rstNone
 msgid "zoo-project screenshot"
-msgstr ""
+msgstr "ZOO プロジェクト スクリーンショット"
 
 #: ../../build/doc/overview/zoo-project_overview.rst:61
 msgid "Core Features"

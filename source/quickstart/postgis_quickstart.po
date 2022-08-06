@@ -605,6 +605,9 @@ msgid ""
 "``PostgreSQL`` server denotes that you haven't been yet connected. Click on "
 "it  then enter the user name  ``user`` and the master password  ``user``."
 msgstr ""
+"ここでは、PostgreSQLサーバへの新しい接続を作成するか、既存のサーバに接続するかを選択できます。The red \"X\" on the  "
+"``PostgreSQL`` server denotes that you haven't been yet connected. Click on "
+"it  then enter the user name  ``user`` and the master password  ``user``."
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:487
 #: ../../build/doc/quickstart/postgis_quickstart.rst:553
@@ -625,6 +628,9 @@ msgid ""
 " You can connect, by clicking, on plus sign at the left of the name of a "
 "database. Do it for the ``natural_earth2`` database."
 msgstr ""
+"この時点では、システム上の既存のデータベースしか表示できません。You can connect, by clicking, on plus sign "
+"at the left of the name of a database. Do it for the ``natural_earth2`` "
+"database."
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:498
 msgid ""
@@ -712,6 +718,10 @@ msgid ""
 "existing databases on the system. You can connect, by double clicking, on "
 "the name of a database. Do it for the ``natural_earth2`` database."
 msgstr ""
+"ほとんどのデータベースのイメージ上の赤い \"X\" は、まだどのデータベースにも接続していないことを示しています(あなたはデフォルトの "
+"``postgres`` "
+"データベースにのみ接続しています)。この時点では、システム上の既存のデータベースしか表示できません。データベースの名前をダブルクリックすることで接続できます。Do"
+" it for the ``natural_earth2`` database."
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:565
 msgid ""

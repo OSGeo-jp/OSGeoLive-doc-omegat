@@ -47,6 +47,10 @@ msgid ""
 "opensource.org/manuals/trunk/en/install-guide/index.html>`__ if you are "
 "using GeoNetwork in some other context."
 msgstr ""
+"GeoNetworkは、OSGeo Liveのスタートメニューから直接起動できます。http://localhost:8080/geonetwork "
+"には、しばらく後に接続可能になります。Check the `Installation Guide <https://geonetwork-"
+"opensource.org/manuals/trunk/en/install-guide/index.html>`__ if you are "
+"using GeoNetwork in some other context."
 
 #: ../../build/doc/quickstart/geonetwork_quickstart.rst:39
 msgid ""

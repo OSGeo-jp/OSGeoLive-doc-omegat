@@ -41,7 +41,7 @@ msgstr ""
 
 #: ../../build/doc/overview/openjump_overview.rstNone
 msgid "openjump screenshot"
-msgstr ""
+msgstr "OpenJUMP スクリーンショット"
 
 #: ../../build/doc/overview/openjump_overview.rst:31
 msgid "Features (Core Features and PlugIns*)"

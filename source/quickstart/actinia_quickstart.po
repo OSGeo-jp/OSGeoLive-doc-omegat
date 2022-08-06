@@ -34,6 +34,10 @@ msgid ""
 "REST API to process satellite images, time series of satellite images, "
 "raster and vector data."
 msgstr ""
+"Actinia is an open source REST API for scalable, distributed, high "
+"performance processing of geographical data that uses mainly `GRASS GIS "
+"<https://grass.osgeo.org/>`__ for computational tasks. "
+"Actiniaは、衛星画像、時系列衛星画像データ、ベクタデータを処理するREST APIを提供しています。"
 
 #: ../../build/doc/quickstart/actinia_quickstart.rst:31
 msgid "Contents"
@@ -85,6 +89,11 @@ msgid ""
 "and map layer the user has access to as well as the creation and deletion of"
 " mapsets."
 msgstr ""
+"The ``ace`` tool (`details <https://neteler.gitlab.io/actinia-"
+"introduction/#controlling-actinia-from-a-running-grass-gis-session>`_) "
+"allows the execution of a single GRASS GIS command or a list of GRASS GIS "
+"commands on an actinia REST service (https://actinia.mundialis.de/). "
+"さらに、ジョブ管理、ユーザがアクセスできる場所、マップセット、マップレイヤのリスト機能、およびマップセットの作成と削除も提供します。"
 
 #: ../../build/doc/quickstart/actinia_quickstart.rst:55
 msgid ""
@@ -98,6 +107,8 @@ msgid ""
 "All commands will be executed per default in an **ephemeral** database. "
 "Hence, generated output must be exported using augmented GRASS commands."
 msgstr ""
+"すべてのコマンドは、**ephemeral** "
+"データベースでデフォルトごとに実行されます。したがって、生成された出力は、拡張GRASSコマンドを使用してエクスポートする必要があります。"
 
 #: ../../build/doc/quickstart/actinia_quickstart.rst:62
 msgid ""
@@ -146,6 +157,9 @@ msgid ""
 "``@`` operator can be specified for an input parameter to import a web "
 "located resource and to specify the export of an output parameter."
 msgstr ""
+"actinia 固有の拡張機能で、GRASS GISコマンドは拡張されています。The ``@`` operator can be specified "
+"for an input parameter to import a web located resource and to specify the "
+"export of an output parameter."
 
 #: ../../build/doc/quickstart/actinia_quickstart.rst:107
 msgid ""

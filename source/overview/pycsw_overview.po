@@ -74,7 +74,7 @@ msgstr ""
 
 #: ../../build/doc/overview/pycsw_overview.rstNone
 msgid "pycsw screenshot"
-msgstr ""
+msgstr "pycsw スクリーンショット"
 
 #: ../../build/doc/overview/pycsw_overview.rst:39
 msgid "Core Features"
@@ -180,7 +180,7 @@ msgstr "実装されている標準規格"
 
 #: ../../build/doc/overview/pycsw_overview.rst:69
 msgid "OGC Standards:"
-msgstr "OGC Standards:"
+msgstr "OGC 標準:"
 
 #: ../../build/doc/overview/pycsw_overview.rst:71
 msgid "|CSW|         2.0.2, 3.0.0"

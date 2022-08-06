@@ -49,7 +49,7 @@ msgstr ""
 
 #: ../../build/doc/overview/qgis_overview.rstNone
 msgid "qgis screenshot"
-msgstr ""
+msgstr "QGIS スクリーンショット"
 
 #: ../../build/doc/overview/qgis_overview.rst:36
 msgid "Core Features"

@@ -64,7 +64,7 @@ msgstr ""
 
 #: ../../build/doc/overview/rasdaman_overview.rstNone
 msgid "rasdaman screenshot"
-msgstr ""
+msgstr "Rasdaman スクリーンショット"
 
 #: ../../build/doc/overview/rasdaman_overview.rst:40
 msgid "Core Features"

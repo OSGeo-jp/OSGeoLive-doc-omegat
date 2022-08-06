@@ -51,7 +51,7 @@ msgstr ""
 
 #: ../../build/doc/overview/pywps_overview.rstNone
 msgid "pywps screenshot"
-msgstr ""
+msgstr "PyWPS スクリーンショット"
 
 #: ../../build/doc/overview/pywps_overview.rst:37
 msgid "Core Features"
@@ -103,7 +103,7 @@ msgstr "実装されている標準規格"
 
 #: ../../build/doc/overview/pywps_overview.rst:54
 msgid "OGC Standards:"
-msgstr "OGC Standards:"
+msgstr "OGC 標準:"
 
 #: ../../build/doc/overview/pywps_overview.rst:56
 msgid "WPS 1.0.0"

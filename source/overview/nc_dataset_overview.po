@@ -64,7 +64,7 @@ msgstr "1m-3m のデータ解像度を持つ田舎の小さな滝 ( イメージ
 
 #: ../../build/doc/overview/nc_dataset_overview.rstNone
 msgid "nc_dataset screenshot"
-msgstr ""
+msgstr "North Carolina データセット スクリーンショット"
 
 #: ../../build/doc/overview/nc_dataset_overview.rst:40
 msgid "Core Features"

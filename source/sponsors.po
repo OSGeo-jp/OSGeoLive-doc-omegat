@@ -29,7 +29,7 @@ msgstr "OSGeoLive スポンサー"
 
 #: ../../build/doc/sponsors.rstNone ../../build/doc/sponsors_osgeo.rstNone
 msgid "OSGeo"
-msgstr ""
+msgstr "OSGeo"
 
 #: ../../build/doc/sponsors.rst:9
 msgid ""
@@ -44,7 +44,7 @@ msgstr ""
 msgid ""
 "Information Center for the Environment at the University of California, "
 "Davis"
-msgstr ""
+msgstr "カリフォルニア大学デービス校環境情報センター"
 
 #: ../../build/doc/sponsors.rst:17
 msgid ""
@@ -55,7 +55,7 @@ msgstr "カリフォルニア大学デービス校環境情報センターは、
 
 #: ../../build/doc/sponsors.rstNone
 msgid "National Technical University of Athens"
-msgstr ""
+msgstr "アテネ工科大学"
 
 #: ../../build/doc/sponsors.rst:26
 msgid ""
@@ -66,7 +66,7 @@ msgstr "アテネ工科大学リモートセンシング研究室は、OSGeoLive
 
 #: ../../build/doc/sponsors.rstNone
 msgid "The DebianGIS and UbuntuGIS projects"
-msgstr ""
+msgstr "DebianGISとUbuntuGISプロジェクト"
 
 #: ../../build/doc/sponsors.rst:34
 msgid ""
@@ -76,7 +76,7 @@ msgstr "DebianGISとUbuntuGISプロジェクトは、コアパッケージの多
 
 #: ../../build/doc/sponsors.rstNone
 msgid "The Greek Academic cloud service"
-msgstr ""
+msgstr "ギリシャのアカデミッククラウドサービス"
 
 #: ../../build/doc/sponsors.rst:41
 msgid ""
@@ -91,7 +91,7 @@ msgstr ""
 
 #: ../../build/doc/sponsors.rstNone
 msgid "Geolocation Technology Company"
-msgstr ""
+msgstr "ジオロケーションテクノロジー会社"
 
 #: ../../build/doc/sponsors.rst:52
 msgid ""
@@ -657,15 +657,15 @@ msgstr "danielkastl"
 
 #: ../../build/contributors.csv:1
 msgid "Daniele Francioli"
-msgstr ""
+msgstr "Daniele Francioli"
 
 #: ../../build/contributors.csv:1
 msgid "daniele.francioli outlook com"
-msgstr ""
+msgstr "daniele.francioli outlook com"
 
 #: ../../build/contributors.csv:1
 msgid "danfra"
-msgstr ""
+msgstr "danfra"
 
 #: ../../build/contributors.csv:1
 msgid "Danilo Bretschneider"
@@ -1365,15 +1365,15 @@ msgstr "XJTUmg1007"
 
 #: ../../build/contributors.csv:1 ../../build/translators.csv:1
 msgid "Marco Minghini"
-msgstr ""
+msgstr "Marco Minghini"
 
 #: ../../build/contributors.csv:1 ../../build/translators.csv:1
 msgid "marco.minghini86 gmail com"
-msgstr ""
+msgstr "marco.minghini86 gmail com"
 
 #: ../../build/contributors.csv:1 ../../build/translators.csv:1
 msgid "MarcoMinghini"
-msgstr ""
+msgstr "MarcoMinghini"
 
 #: ../../build/contributors.csv:1 ../../build/translators.csv:1
 msgid "Margherita Di Leo"
@@ -2574,7 +2574,7 @@ msgstr "Roberta Fagandini"
 
 #: ../../build/translators.csv:1
 msgid "Antonio Rotundo"
-msgstr ""
+msgstr "Antonio Rotundo"
 
 #: ../../build/translators.csv:1 ../../build/translators.csv:1
 #: ../../build/translators.csv:1 ../../build/translators.csv:1

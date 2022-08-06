@@ -44,7 +44,7 @@ msgstr ""
 
 #: ../../build/doc/overview/openlayers_overview.rstNone
 msgid "openlayers screenshot"
-msgstr ""
+msgstr "OpenLayers スクリーンショット"
 
 #: ../../build/doc/overview/openlayers_overview.rst:35
 msgid "Core Features"

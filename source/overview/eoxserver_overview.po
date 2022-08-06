@@ -58,7 +58,7 @@ msgstr ""
 
 #: ../../build/doc/overview/eoxserver_overview.rstNone
 msgid "eoxserver screenshot"
-msgstr ""
+msgstr "EOxServer スクリーンショット"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:40
 msgid "Core Features"
@@ -174,6 +174,8 @@ msgid ""
 "**Licence:** `MIT-style license "
 "<https://docs.eoxserver.org/en/stable/copyright.html#license>`_"
 msgstr ""
+"**ライセンス:** `MIT-style license "
+"<https://docs.eoxserver.org/en/stable/copyright.html#license>`_"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:85
 msgid "**Software Version:** |version-eoxserver|"
@@ -192,6 +194,8 @@ msgid ""
 "**Support:** https://docs.eoxserver.org/en/stable/users/basics.html#where-"
 "can-i-get-support"
 msgstr ""
+"**サポート:** https://docs.eoxserver.org/en/stable/users/basics.html#where-can-"
+"i-get-support"
 
 #: ../../build/doc/overview/eoxserver_overview.rst:96
 msgid "Quickstart"

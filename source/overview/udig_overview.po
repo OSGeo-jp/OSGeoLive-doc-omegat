@@ -76,7 +76,7 @@ msgstr ""
 
 #: ../../build/doc/overview/udig_overview.rstNone
 msgid "udig screenshot"
-msgstr ""
+msgstr "uDig スクリーンショット"
 
 #: ../../build/doc/overview/udig_overview.rst:39
 msgid "Core Features"

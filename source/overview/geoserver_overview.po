@@ -44,7 +44,7 @@ msgstr ""
 
 #: ../../build/doc/overview/geoserver_overview.rst-1
 msgid "geoserver screenshot"
-msgstr ""
+msgstr "GeoServer スクリーンショット"
 
 #: ../../build/doc/overview/geoserver_overview.rst:37
 msgid "Core Features"
@@ -215,7 +215,7 @@ msgstr "詳細"
 
 #: ../../build/doc/overview/geoserver_overview.rst:83
 msgid "**Website:** https://geoserver.org/"
-msgstr ""
+msgstr "**Webサイト:** https://geoserver.org/"
 
 #: ../../build/doc/overview/geoserver_overview.rst:85
 msgid "**Licence:** GNU General Public License (GPL) version 2"
@@ -237,7 +237,7 @@ msgstr "**API インタフェース:** WMS, WFS, WCS, REST"
 
 #: ../../build/doc/overview/geoserver_overview.rst:93
 msgid "**Support:** https://geoserver.org/support/"
-msgstr ""
+msgstr "**サポート:** https://geoserver.org/support/"
 
 #: ../../build/doc/overview/geoserver_overview.rst:98
 msgid "Quickstart"

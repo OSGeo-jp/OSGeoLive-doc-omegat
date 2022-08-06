@@ -58,7 +58,7 @@ msgstr "ユーザインタフェースは簡単に設定でき、モジュール
 
 #: ../../build/doc/overview/geomoose_overview.rstNone
 msgid "geomoose screenshot"
-msgstr ""
+msgstr "GeoMoose スクリーンショット"
 
 #: ../../build/doc/overview/geomoose_overview.rst:37
 msgid "Core Features"

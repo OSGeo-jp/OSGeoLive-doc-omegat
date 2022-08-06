@@ -71,7 +71,7 @@ msgstr "MapbenderはSymfony、OpenLayers、およびjQueryに基づいていま�
 
 #: ../../build/doc/overview/mapbender_overview.rstNone
 msgid "mapbender screenshot"
-msgstr ""
+msgstr "Mapbender スクリーンショット"
 
 #: ../../build/doc/overview/mapbender_overview.rst:34
 msgid "Core Features"

@@ -59,7 +59,7 @@ msgstr ""
 
 #: ../../build/doc/overview/opencpn_overview.rstNone
 msgid "opencpn screenshot"
-msgstr ""
+msgstr "OpenCPN スクリーンショット"
 
 #: ../../build/doc/overview/opencpn_overview.rst:34
 msgid "Core Features"

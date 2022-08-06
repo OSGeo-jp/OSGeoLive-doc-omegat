@@ -288,7 +288,7 @@ msgid ""
 "<../quickstart/actinia_quickstart>`] - Processing of Geographical Data"
 msgstr ""
 "|OSGeo_community| :doc:`actinia_overview` - [:doc:`クイックスタート "
-"<../quickstart/actinia_quickstart>`] - Processing of Geographical Data"
+"<../quickstart/actinia_quickstart>`] - 地理データの処理"
 
 #: ../../build/doc/overview/overview.rst:165
 msgid ""
@@ -320,7 +320,7 @@ msgid ""
 "<../quickstart/re3gistry_quickstart>`] - Management of reference codes"
 msgstr ""
 "|nologo| |vmdk| :doc:`re3gistry_overview` - [:doc:`クイックスタート "
-"<../quickstart/re3gistry_quickstart>`] - Management of reference codes"
+"<../quickstart/re3gistry_quickstart>`] - リファレンスコードの管理"
 
 #: ../../build/doc/overview/overview.rst:173
 msgid ""
@@ -460,7 +460,7 @@ msgid ""
 "<../quickstart/gmt_quickstart>`] - Cartographic Rendering"
 msgstr ""
 "|nologo| |vmdk| :doc:`gmt_overview` - [:doc:`クイックスタート "
-"<../quickstart/gmt_quickstart>`] - Cartographic Rendering"
+"<../quickstart/gmt_quickstart>`] - 地図レンダリング"
 
 #: ../../build/doc/overview/overview.rst:265
 msgid ""
@@ -492,6 +492,9 @@ msgid ""
 "<../quickstart/ETF_quickstart>`] - Testing framework for validating spatial "
 "data, metadata and web services in Spatial Data Infrastructures (SDIs)"
 msgstr ""
+"|nologo| |vmdk| :doc:`ETF_overview` - [:doc:`クイックスタート "
+"<../quickstart/ETF_quickstart>`] - 空間データインフラ "
+"(SDIs)の空間データ、メタデータ、Webサービスを検証するためのテストフレームワーク"
 
 #: ../../build/doc/overview/overview.rst:275
 msgid "Domain Specific GIS"
@@ -562,7 +565,7 @@ msgid ""
 "<../quickstart/proj_quickstart>`] - Coordinate Reference System Libraries"
 msgstr ""
 "|OSGeo_project| :doc:`proj_overview` - [:doc:`クイックスタート "
-"<../quickstart/proj_quickstart>`] - Coordinate Reference System Libraries"
+"<../quickstart/proj_quickstart>`] - 座標参照系ライブラリ"
 
 #: ../../build/doc/overview/overview.rst:334
 msgid "|nologo| :doc:`jts_overview`  - Java Topology Suite"
@@ -584,7 +587,7 @@ msgstr "|nologo| :doc:`inspire_overview`  - ヨーロッパにおける空間情
 
 #: ../../build/doc/overview/overview.rst:354
 msgid "Available in prior OSGeoLive releases"
-msgstr ""
+msgstr "以前の OSGeoLive リリースで利用可能"
 
 #: ../../build/doc/overview/overview.rst:366
 msgid ":doc:`../prior_applications`"

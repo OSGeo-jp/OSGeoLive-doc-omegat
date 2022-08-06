@@ -148,7 +148,7 @@ msgstr ""
 
 #: ../../build/doc/copyright.rst:0 ../../build/doc/copyright.rst:0
 msgid "CC-By-SA-med"
-msgstr ""
+msgstr "CC-By-SA-med"
 
 #: ../../build/doc/copyright.rst:36
 msgid "**Concise CC-By-SA and attribution:**"
@@ -182,7 +182,7 @@ msgstr ""
 
 #: ../../build/doc/copyright.rst:0 ../../build/doc/copyright.rst:0
 msgid "CC-By-small"
-msgstr ""
+msgstr "CC-By-small"
 
 #: ../../build/doc/copyright.rst:47
 msgid "**Minimum (for Project Overviews), attribution only:**"

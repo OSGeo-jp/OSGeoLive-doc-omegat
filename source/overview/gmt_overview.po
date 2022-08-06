@@ -54,7 +54,7 @@ msgstr ""
 
 #: ../../build/doc/overview/gmt_overview.rstNone
 msgid "gmt screenshot"
-msgstr ""
+msgstr "GMT スクリーンショット"
 
 #: ../../build/doc/overview/gmt_overview.rst:38
 msgid "Core Features"

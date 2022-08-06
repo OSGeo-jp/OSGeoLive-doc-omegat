@@ -68,7 +68,7 @@ msgstr ""
 
 #: ../../build/doc/overview/otb_overview.rstNone
 msgid "otb screenshot"
-msgstr ""
+msgstr "OTB スクリーンショット"
 
 #: ../../build/doc/overview/otb_overview.rst:46
 msgid "Core Features"

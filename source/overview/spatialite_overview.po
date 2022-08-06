@@ -44,7 +44,7 @@ msgstr ""
 
 #: ../../build/doc/overview/spatialite_overview.rstNone
 msgid "spatialite screenshot"
-msgstr ""
+msgstr "SpatiaLite スクリーンショット"
 
 #: ../../build/doc/overview/spatialite_overview.rst:33
 msgid "Core Features"

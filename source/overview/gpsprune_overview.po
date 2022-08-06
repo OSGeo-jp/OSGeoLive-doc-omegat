@@ -64,7 +64,7 @@ msgstr "GpsPrune Mac OSX, Windows, Linux で動作し、10以上の異なる言�
 
 #: ../../build/doc/overview/gpsprune_overview.rstNone
 msgid "gpsprune screenshot"
-msgstr ""
+msgstr "GpsPrune スクリーンショット"
 
 #: ../../build/doc/overview/gpsprune_overview.rst:42
 msgid "Core Features"

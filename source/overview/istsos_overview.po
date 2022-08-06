@@ -48,7 +48,7 @@ msgstr ""
 
 #: ../../build/doc/overview/istsos_overview.rstNone
 msgid "istsos screenshot"
-msgstr ""
+msgstr "istSOS スクリーンショット"
 
 #: ../../build/doc/overview/istsos_overview.rst:35
 msgid "Core Features"

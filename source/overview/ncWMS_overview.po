@@ -42,7 +42,7 @@ msgstr ""
 
 #: ../../build/doc/overview/ncWMS_overview.rstNone
 msgid "ncWMS screenshot"
-msgstr ""
+msgstr "ncWMS スクリーンショット"
 
 #: ../../build/doc/overview/ncWMS_overview.rst:28
 msgid "Core Features"

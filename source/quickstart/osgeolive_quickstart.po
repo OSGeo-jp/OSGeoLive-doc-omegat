@@ -95,7 +95,7 @@ msgstr "システムが起動されるまで待ちます"
 
 #: ../../build/doc/quickstart/osgeolive_quickstart.rst:0
 msgid "boot select"
-msgstr ""
+msgstr "起動後の選択"
 
 #: ../../build/doc/quickstart/osgeolive_quickstart.rst:48
 msgid "Try the many applications from the :menuselection:`Geospatial` menu."

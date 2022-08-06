@@ -40,7 +40,7 @@ msgstr ""
 
 #: ../../build/doc/overview/geonetwork_overview.rstNone
 msgid "geonetwork screenshot"
-msgstr ""
+msgstr "GeoNetwork スクリーンショット"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:32
 msgid "Core Features"

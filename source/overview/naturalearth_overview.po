@@ -51,7 +51,7 @@ msgstr ""
 
 #: ../../build/doc/overview/naturalearth_overview.rstNone
 msgid "naturalearth screenshot"
-msgstr ""
+msgstr "Natural Earth スクリーンショット"
 
 #: ../../build/doc/overview/naturalearth_overview.rst:31
 msgid "Core Features"

@@ -70,7 +70,7 @@ msgstr ""
 
 #: ../../build/doc/overview/osm_dataset_overview.rstNone
 msgid "osm_dataset screenshot"
-msgstr ""
+msgstr "OSM データセット スクリーンショット"
 
 #: ../../build/doc/overview/osm_dataset_overview.rst:34
 msgid "Core Features"

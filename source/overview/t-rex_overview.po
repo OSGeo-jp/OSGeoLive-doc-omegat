@@ -38,7 +38,7 @@ msgstr "t-rexは、独自のデータからMVTタイルを配信することに�
 
 #: ../../build/doc/overview/t-rex_overview.rstNone
 msgid "t-rex screenshot"
-msgstr ""
+msgstr "t-rex スクリーンショット"
 
 #: ../../build/doc/overview/t-rex_overview.rst:27
 msgid "Core Features"

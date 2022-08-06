@@ -65,7 +65,7 @@ msgstr ""
 
 #: ../../build/doc/overview/postgis_overview.rstNone
 msgid "postgis screenshot"
-msgstr ""
+msgstr "PostGIS スクリーンショット"
 
 #: ../../build/doc/overview/postgis_overview.rst:81
 msgid "Core Features"

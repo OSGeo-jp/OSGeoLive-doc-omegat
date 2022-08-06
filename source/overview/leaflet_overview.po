@@ -56,7 +56,7 @@ msgstr ""
 
 #: ../../build/doc/overview/leaflet_overview.rstNone
 msgid "leaflet screenshot"
-msgstr ""
+msgstr "Leaflet スクリーンショット"
 
 #: ../../build/doc/overview/leaflet_overview.rst:37
 msgid "Core Features"

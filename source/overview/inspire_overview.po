@@ -94,7 +94,7 @@ msgstr ""
 
 #: ../../build/doc/overview/inspire_overview.rst-1
 msgid "inspire screenshot"
-msgstr ""
+msgstr "INSPIRE スクリーンショット"
 
 #: ../../build/doc/overview/inspire_overview.rst:37
 msgid ""
@@ -123,6 +123,9 @@ msgid ""
 " central software components, which help Member States in the INSPIRE "
 "implementation process:"
 msgstr ""
+"`欧州委員会の合同調査センター(JRC: Joint Research Centre) <https://joint-research-"
+"centre.ec.europa.eu/index_en>`__ "
+"は、いくつかの中央ソフトウエアコンポーネントを開発して維持しています。これらのコンポーネントは、INSPIRE導入プロセスにおいて加盟国を支援するものです:"
 
 #: ../../build/doc/overview/inspire_overview.rst:45
 msgid ""

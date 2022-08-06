@@ -66,7 +66,7 @@ msgstr ""
 
 #: ../../build/doc/overview/netcdf_dataset_overview.rstNone
 msgid "netcdf_dataset screenshot"
-msgstr ""
+msgstr "NetCDF データセット スクリーンショット"
 
 #: ../../build/doc/overview/netcdf_dataset_overview.rst:33
 msgid "Details"

@@ -584,6 +584,9 @@ msgid ""
 "<../overview/qgis_mapserver_overview>`. in the :menuselection:`Geospatial "
 "--> Web Services` menu."
 msgstr ""
+"Try publishing your QGIS map to the web using :doc:`QGIS Map Server "
+"<../overview/qgis_mapserver_overview>`. :menuselection:`Geospatial --> Web "
+"Services` メニューにあります。"
 
 #: ../../build/doc/quickstart/qgis_quickstart.rst:309
 msgid "What next?"

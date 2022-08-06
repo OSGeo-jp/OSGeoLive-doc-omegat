@@ -162,6 +162,9 @@ msgid ""
 "<https://docs.eoxserver.org/en/stable/users/services/webclient.html>`_ for "
 "more information on this topic."
 msgstr ""
+"これは、EOxServer Web Clientの簡単な説明です。Please refer to the `online documentation "
+"<https://docs.eoxserver.org/en/stable/users/services/webclient.html>`_ for "
+"more information on this topic."
 
 #: ../../build/doc/quickstart/eoxserver_quickstart.rst:114
 msgid "Work with the Admin Client"
@@ -186,6 +189,9 @@ msgid ""
 "can be found in the `operations' guide "
 "<https://docs.eoxserver.org/en/stable/users/operations/index.html>`_."
 msgstr ""
+"`Admin Client` はDjangos標準の管理者であり、利用可能なデータを設定できます。クライアントを自由にご覧ください。More "
+"information can be found in the `operations' guide "
+"<https://docs.eoxserver.org/en/stable/users/operations/index.html>`_."
 
 #: ../../build/doc/quickstart/eoxserver_quickstart.rstNone
 msgid "EOxServer demonstration admin client start"
@@ -253,6 +259,10 @@ msgid ""
 "support>`_ to exchange ideas, discuss potential software improvements, and "
 "ask questions."
 msgstr ""
+"EOxServerを使用する準備はできていますか?Then join the community on the `mailing lists "
+"<https://docs.eoxserver.org/en/stable/users/basics.html#where-can-i-get-"
+"support>`_ to exchange ideas, discuss potential software improvements, and "
+"ask questions."
 
 #: ../../build/doc/<rst_epilog>:12
 msgid "vmdk"

@@ -58,7 +58,7 @@ msgstr ""
 
 #: ../../build/doc/overview/jts_overview.rstNone
 msgid "jts screenshot"
-msgstr ""
+msgstr "JTS スクリーンショット"
 
 #: ../../build/doc/overview/jts_overview.rst:35
 msgid "Core Features"

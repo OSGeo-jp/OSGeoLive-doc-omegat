@@ -97,6 +97,8 @@ msgid ""
 "in the Accessories section. This gives you a Unix shell command prompt. Go "
 "to the data directory."
 msgstr ""
+"「システムツール」メニューからターミナルエミュレータ(現在はLXTerminal)を起動します。これにより、Unixシェルのコマンドプロンプトが表示されます。Go"
+" to the data directory."
 
 #: ../../build/doc/quickstart/otb_quickstart.rst:44
 msgid "cd /home/user/data/north_carolina/rast_geotiff"

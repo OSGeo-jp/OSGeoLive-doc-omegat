@@ -74,7 +74,7 @@ msgstr "WindowsおよびLinuxで利用できます(オフィシャルではな�
 
 #: ../../build/doc/overview/gvsig_overview.rstNone
 msgid "gvsig screenshot"
-msgstr ""
+msgstr "gvSIG スクリーンショット"
 
 #: ../../build/doc/overview/gvsig_overview.rst:40
 msgid "Core Features"

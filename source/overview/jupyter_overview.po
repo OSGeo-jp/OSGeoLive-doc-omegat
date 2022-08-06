@@ -59,13 +59,15 @@ msgstr ""
 
 #: ../../build/doc/overview/jupyter_overview.rst-1
 msgid "jupyter screenshot"
-msgstr ""
+msgstr "Jupyter スクリーンショット"
 
 #: ../../build/doc/overview/jupyter_overview.rst:37
 msgid ""
 "Notebooks can be shared with others on GitHub, Dropbox, and the `Jupyter "
 "Notebook Viewer <https://nbviewer.org>`__."
 msgstr ""
+"ノートブックはGitHub、Dropbox、 `Jupyterノートブックビューア <https://nbviewer.org>`__ "
+"で他のユーザに共有できます。"
 
 #: ../../build/doc/overview/jupyter_overview.rst:40
 msgid ""
@@ -79,7 +81,7 @@ msgstr "主な機能"
 
 #: ../../build/doc/overview/jupyter_overview.rst:47
 msgid "Create Jupyter Notebooks which can contain:"
-msgstr ""
+msgstr "以下を含むJupyterノートブックの作成:"
 
 #: ../../build/doc/overview/jupyter_overview.rst:49
 msgid "Marked up text (with headings, styles, paragraphs, etc)"
@@ -91,25 +93,25 @@ msgstr "数式、数学、グラフ図、地図..."
 
 #: ../../build/doc/overview/jupyter_overview.rst:51
 msgid "Imported external libraries to add functionality"
-msgstr ""
+msgstr "外部ライブラリをインポートして機能を追加"
 
 #: ../../build/doc/overview/jupyter_overview.rst:52
 msgid ""
 "Code from multiple programming languages, including Python, R, Julia, Bash "
 "and many more."
-msgstr ""
+msgstr "Python、R、Julia、Bashなど、複数のプログラミング言語からのコード。"
 
 #: ../../build/doc/overview/jupyter_overview.rst:54
 msgid "Jupyter Notebooks on OSGeoLive can use geospatial functions from:"
-msgstr ""
+msgstr "OSGeoLive上のJupyterノートブックは、以下の地理空間関数を使用可能:"
 
 #: ../../build/doc/overview/jupyter_overview.rst:56
 msgid ""
 "Numpy, SciPy Matplotlib, IRIS, Cartopy, gdal, Geopandas, pyshp, Fiona, "
 "netCDF4, PostgreSQL, psycopg2, R, rpy2, and more."
 msgstr ""
-"Numpy, SciPy Matplotlib, IRIS, Cartopy, gdal, Geopandas, pyshp, Fiona, "
-"netCDF4, PostgreSQL, psycopg2, R, rpy2, などなど。"
+"Numpy、SciPy "
+"Matplotlib、IRIS、Cartopy、gdal、Geopandas、pyshp、Fiona、netCDF4、PostgreSQL、psycopg2、R、rpy2などなど。"
 
 #: ../../build/doc/overview/jupyter_overview.rst:60
 msgid "Details"
@@ -117,11 +119,11 @@ msgstr "詳細"
 
 #: ../../build/doc/overview/jupyter_overview.rst:62
 msgid "**Website:** https://jupyter.org/"
-msgstr ""
+msgstr "**Webサイト:** https://jupyter.org/"
 
 #: ../../build/doc/overview/jupyter_overview.rst:64
 msgid "**Licence:** The 3-Clause BSD License"
-msgstr ""
+msgstr "**ライセンス:** The 3-Clause BSD License"
 
 #: ../../build/doc/overview/jupyter_overview.rst:66
 msgid "**Software Version:** |version-jupyter|"
@@ -137,7 +139,7 @@ msgstr "**API インタフェース:** Python"
 
 #: ../../build/doc/overview/jupyter_overview.rst:72
 msgid "**Support:** https://jupyter.org/community.html"
-msgstr ""
+msgstr "**サポート:** https://jupyter.org/community.html"
 
 #: ../../build/doc/overview/jupyter_overview.rst:78
 msgid "Quickstart"

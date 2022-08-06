@@ -46,7 +46,7 @@ msgstr ""
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rstNone
 msgid "qgis_mapserver screenshot"
-msgstr ""
+msgstr "QGIS サーバ スクリーンショット"
 
 #: ../../build/doc/overview/qgis_mapserver_overview.rst:30
 msgid "Core Features"

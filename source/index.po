@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../build/doc/index.rst-1
 msgid "boot select"
-msgstr ""
+msgstr "起動後の選択"
 
 #: ../../build/doc/index.rst:17
 msgid ""
@@ -93,6 +93,8 @@ msgid ""
 "A half hour `presentation <presentation.html>`__, highlighting all OSGeoLive"
 " applications, is available with slides, script"
 msgstr ""
+"全ての OSGeoLive アプリケーションを取り上げた30分間の `プレゼンテーション <presentation.html>`__ "
+"がスライドや原稿とともに、利用可能です。"
 
 #: ../../build/doc/<rst_epilog>:12
 msgid "vmdk"

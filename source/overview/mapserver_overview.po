@@ -74,7 +74,7 @@ msgstr ""
 
 #: ../../build/doc/overview/mapserver_overview.rstNone
 msgid "mapserver screenshot"
-msgstr ""
+msgstr "MapServer スクリーンショット"
 
 #: ../../build/doc/overview/mapserver_overview.rst:42
 msgid "Core Features"
@@ -279,7 +279,7 @@ msgstr "ドキュメント"
 #: ../../build/doc/overview/mapserver_overview.rst:115
 msgid ""
 "`MapServer 7.0 Documentation <https://localhost/mapserver/doc/index.html>`__"
-msgstr ""
+msgstr "`MapServer 7.0 文書 <http://localhost/mapserver/doc/index.html>`__"
 
 #: ../../build/doc/overview/mapserver_overview.rst:118
 msgid "Details"

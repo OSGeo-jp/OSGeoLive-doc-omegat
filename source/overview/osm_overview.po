@@ -54,7 +54,7 @@ msgstr ""
 
 #: ../../build/doc/overview/osm_overview.rstNone
 msgid "osm screenshot"
-msgstr ""
+msgstr "OSM スクリーンショット"
 
 #: ../../build/doc/overview/osm_overview.rst:38
 msgid "Core Features"

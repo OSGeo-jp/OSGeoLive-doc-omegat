@@ -53,7 +53,7 @@ msgstr ""
 
 #: ../../build/doc/overview/mapproxy_overview.rstNone
 msgid "mapproxy screenshot"
-msgstr ""
+msgstr "MapProxy スクリーンショット"
 
 #: ../../build/doc/overview/mapproxy_overview.rst:35
 msgid "Core Features"
@@ -61,7 +61,7 @@ msgstr "主な機能"
 
 #: ../../build/doc/overview/mapproxy_overview.rstNone
 msgid "MapProxy demo"
-msgstr ""
+msgstr "MapProxy デモ"
 
 #: ../../build/doc/overview/mapproxy_overview.rst:49
 msgid "Input sources:"

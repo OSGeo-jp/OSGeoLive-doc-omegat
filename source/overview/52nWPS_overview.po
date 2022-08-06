@@ -43,7 +43,7 @@ msgstr ""
 
 #: ../../build/doc/overview/52nWPS_overview.rstNone
 msgid "52nWPS screenshot"
-msgstr ""
+msgstr "52nWPS スクリーンショット"
 
 #: ../../build/doc/overview/52nWPS_overview.rst:32
 msgid "Core Features"

@@ -168,7 +168,7 @@ msgstr ""
 #: ../../build/presentation/revealjs/presentation.rst:195
 #: ../../build/presentation/revealjs/presentation.rst:1175
 msgid "OSGeo"
-msgstr ""
+msgstr "OSGeo"
 
 #: ../../build/presentation/revealjs/presentation.rst:197
 msgid "Non Profit for geospatial community, fostering:"

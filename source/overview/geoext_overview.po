@@ -65,7 +65,7 @@ msgstr ""
 
 #: ../../build/doc/overview/geoext_overview.rstNone
 msgid "geoext screenshot"
-msgstr ""
+msgstr "GeoExt スクリーンショット"
 
 #: ../../build/doc/overview/geoext_overview.rst:37
 msgid "Core Features"

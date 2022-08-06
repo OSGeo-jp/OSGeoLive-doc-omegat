@@ -53,7 +53,7 @@ msgstr ""
 
 #: ../../build/doc/overview/re3gistry_overview.rstNone
 msgid "re3gistry screenshot"
-msgstr ""
+msgstr "Re3gistry スクリーンショット"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:43
 msgid "Core Features"

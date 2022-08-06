@@ -503,6 +503,10 @@ msgid ""
 "`Layer Manager` window. Further details can be found in the `wxGUI "
 "<https://grass.osgeo.org/grass-stable/manuals/wxGUI.html>`_ help pages."
 msgstr ""
+"ここでは説明していませんが、カートグラフィックコンポーザーとオブジェクト指向描画モデリングツール(Pythonへのエクスポートを提供)を試してみてください。`Layer"
+" Manager` ウィンドウのアイコンの下の行に、アイコンが表示されています。Further details can be found in the "
+"`wxGUI <https://grass.osgeo.org/grass-stable/manuals/wxGUI.html>`_ help "
+"pages."
 
 #: ../../build/doc/quickstart/grass_quickstart.rst:314
 msgid "API"

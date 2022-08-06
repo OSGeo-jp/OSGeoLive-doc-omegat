@@ -58,7 +58,7 @@ msgstr "JOSM のために記述された特殊なプラグインのいくつか�
 
 #: ../../build/doc/overview/josm_overview.rstNone
 msgid "josm screenshot"
-msgstr ""
+msgstr "JSOM スクリーンショット"
 
 #: ../../build/doc/overview/josm_overview.rst:34
 msgid "Core Features"

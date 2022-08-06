@@ -64,7 +64,7 @@ msgstr ""
 
 #: ../../build/doc/overview/marble_overview.rstNone
 msgid "marble screenshot"
-msgstr ""
+msgstr "Marble スクリーンショット"
 
 #: ../../build/doc/overview/marble_overview.rst:48
 msgid "Core Features"

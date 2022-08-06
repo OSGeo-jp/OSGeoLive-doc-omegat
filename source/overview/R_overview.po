@@ -70,6 +70,10 @@ msgid ""
 "learning process. Scripts are often used to automate processing steps but "
 "there are GUIs, the leading one being RStudio (https://www.rstudio.com)."
 msgstr ""
+"R の基本インタフェースはコマンドラインであり、高い自由度と操作性を提供しています。一方で、グラフィカル・ユーザ・インタフェース (GUI) "
+"と比べて習熟するまでに長い時間を必要とする傾向があります。幸いなことに、R についての Web "
+"のドキュメントは充実しており、学習プロセスを容易にしています。処理を自動化するためのスクリプトが頻繁に利用されており、また、R の GUI "
+"環境として主要なものに RStudio (https://www.rstudio.com) があります。"
 
 #: ../../build/doc/overview/R_overview.rst:44
 msgid ""
@@ -84,7 +88,7 @@ msgstr ""
 
 #: ../../build/doc/overview/R_overview.rstNone
 msgid "R screenshot"
-msgstr ""
+msgstr "R スクリーンショット"
 
 #: ../../build/doc/overview/R_overview.rst:57
 msgid "Core Features"

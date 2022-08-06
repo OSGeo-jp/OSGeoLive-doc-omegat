@@ -73,7 +73,7 @@ msgstr "pgRouting は GPLv2+ ライセンスで提供され、個人、企業及
 
 #: ../../build/doc/overview/pgrouting_overview.rstNone
 msgid "pgrouting screenshot"
-msgstr ""
+msgstr "pgRouting スクリーンショット"
 
 #: ../../build/doc/overview/pgrouting_overview.rst:48
 msgid "Core Features"
@@ -117,6 +117,7 @@ msgid ""
 "Learn more about pgRouting in the `documentation "
 "<https://docs.pgrouting.org>`__."
 msgstr ""
+"pgRouting についてもっと知りたい場合は `ドキュメント <https://docs.pgrouting.org>`__ を参照してください。"
 
 #: ../../build/doc/overview/pgrouting_overview.rst:71
 msgid "Details"
