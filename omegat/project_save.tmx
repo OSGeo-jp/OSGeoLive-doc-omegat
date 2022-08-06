@@ -47855,6 +47855,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>naturalearth screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T012106Z" creationid="sanak" creationdate="20220806T012106Z">
+        <seg>Natural Earth スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>naturalearth_overview</seg>
       </tuv>
       <tuv lang="ja">
