@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Licence:** GNU Lesser General Public License, Version 2.1 (LGPL 2.1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T000512Z" creationid="sanak" creationdate="20220806T000512Z">
+        <seg>**ライセンス:** GNU Lesser General Public License, Version 2.1 (LGPL 2.1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Licence:** GPL</seg>
       </tuv>
       <tuv lang="ja">
@@ -1058,6 +1066,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T050716Z" creationid="miurahr" creationdate="20201122T050716Z">
         <seg>**ライセンス:** `MIT-style license &lt;https://docs.eoxserver.org/en/latest/copyright.html#license&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Licence:** `MIT-style license &lt;https://docs.eoxserver.org/en/stable/copyright.html#license&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T001159Z" creationid="sanak" creationdate="20220806T001159Z">
+        <seg>**ライセンス:** `MIT-style license &lt;https://docs.eoxserver.org/en/stable/copyright.html#license&gt;`_</seg>
       </tuv>
     </tu>
     <tu>
@@ -1954,6 +1970,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T050737Z" creationid="miurahr" creationdate="20201122T050737Z">
         <seg>**サポート:** https://docs.eoxserver.org/en/latest/users/basics.html#where-can-i-get-support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Support:** https://docs.eoxserver.org/en/stable/users/basics.html#where-can-i-get-support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T001208Z" creationid="sanak" creationdate="20220806T001208Z">
+        <seg>**サポート:** https://docs.eoxserver.org/en/stable/users/basics.html#where-can-i-get-support</seg>
       </tuv>
     </tu>
     <tu>
@@ -24420,6 +24444,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Official OGC reference implementation for WFS 1.1.0 (Basic and Transactional) and WFS 2.0.0 (Basic)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T000855Z" creationid="sanak" creationdate="20220805T235731Z">
+        <seg>WFS 1.1.0 (Basic and Transactional)とWFS 2.0.0 (Basic)の公式OGC参照実装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Official OGC reference implementation for WMS 1.0.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T000935Z" creationid="sanak" creationdate="20220806T000225Z">
+        <seg>WMS 1.0.0の公式OGC参照実装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Official OGC reference implementation for WMS 1.1.1 and WMS 1.1.1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T001114Z" creationid="sanak" creationdate="20220805T235906Z">
+        <seg>WMS 1.1.1とWMS 1.3.0の公式OGC参照実装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Okeanos is build on top of existing proven open source software (e.g. Synnefo, Google Ganeti).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133010Z" creationid="miurahr" creationdate="20201120T133010Z">
@@ -44407,6 +44455,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>deegree screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220805T235643Z" creationid="sanak" creationdate="20220805T235643Z">
+        <seg>deegree スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>deegree supports:</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T060806Z" creationid="miurahr" creationdate="20201103T042336Z">
@@ -44691,6 +44747,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T013853Z" creationid="miurahr" creationdate="20201220T013853Z">
         <seg>500m 解像度でラスタデータを使用した NC州の全体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>eoxserver screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T001145Z" creationid="sanak" creationdate="20220806T001145Z">
+        <seg>EOxServer スクリーンショット</seg>
       </tuv>
     </tu>
     <tu>
@@ -50379,6 +50443,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T030353Z" creationid="miurahr" creationdate="20201220T030353Z">
         <seg>|CSW|         2.0.2, 3.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|CSW| 2.0.2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T000441Z" creationid="sanak" creationdate="20220806T000441Z">
+        <seg>|CSW| 2.0.2</seg>
       </tuv>
     </tu>
     <tu>
