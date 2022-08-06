@@ -51017,8 +51017,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>|OSGeo_community| :doc:`actinia_overview` - [:doc:`Quickstart &lt;../quickstart/actinia_quickstart&gt;`] - Processing of Geographical Data</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210221T072322Z" creationid="sanak" creationdate="20210221T072322Z">
-        <seg>|OSGeo_community| :doc:`actinia_overview` - [:doc:`クイックスタート &lt;../quickstart/actinia_quickstart&gt;`] - Processing of Geographical Data</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T020402Z" creationid="sanak" creationdate="20210221T072322Z">
+        <seg>|OSGeo_community| :doc:`actinia_overview` - [:doc:`クイックスタート &lt;../quickstart/actinia_quickstart&gt;`] - 地理データの処理</seg>
       </tuv>
     </tu>
     <tu>
@@ -51249,8 +51249,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>|OSGeo_project| :doc:`proj_overview` - [:doc:`Quickstart &lt;../quickstart/proj_quickstart&gt;`] - Coordinate Reference System Libraries</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210221T072404Z" creationid="sanak" creationdate="20210221T072404Z">
-        <seg>|OSGeo_project| :doc:`proj_overview` - [:doc:`クイックスタート &lt;../quickstart/proj_quickstart&gt;`] - Coordinate Reference System Libraries</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T020036Z" creationid="sanak" creationdate="20210221T072404Z">
+        <seg>|OSGeo_project| :doc:`proj_overview` - [:doc:`クイックスタート &lt;../quickstart/proj_quickstart&gt;`] - 座標参照系ライブラリ</seg>
       </tuv>
     </tu>
     <tu>
@@ -51977,8 +51977,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>|nologo| |vmdk| :doc:`gmt_overview` - [:doc:`Quickstart &lt;../quickstart/gmt_quickstart&gt;`] - Cartographic Rendering</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210221T072357Z" creationid="sanak" creationdate="20210221T072357Z">
-        <seg>|nologo| |vmdk| :doc:`gmt_overview` - [:doc:`クイックスタート &lt;../quickstart/gmt_quickstart&gt;`] - Cartographic Rendering</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T020123Z" creationid="sanak" creationdate="20210221T072357Z">
+        <seg>|nologo| |vmdk| :doc:`gmt_overview` - [:doc:`クイックスタート &lt;../quickstart/gmt_quickstart&gt;`] - 地図レンダリング</seg>
       </tuv>
     </tu>
     <tu>
@@ -51993,8 +51993,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>|nologo| |vmdk| :doc:`re3gistry_overview` - [:doc:`Quickstart &lt;../quickstart/re3gistry_quickstart&gt;`] - Management of reference codes</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210221T072349Z" creationid="sanak" creationdate="20210221T072349Z">
-        <seg>|nologo| |vmdk| :doc:`re3gistry_overview` - [:doc:`クイックスタート &lt;../quickstart/re3gistry_quickstart&gt;`] - Management of reference codes</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T020316Z" creationid="sanak" creationdate="20210221T072349Z">
+        <seg>|nologo| |vmdk| :doc:`re3gistry_overview` - [:doc:`クイックスタート &lt;../quickstart/re3gistry_quickstart&gt;`] - リファレンスコードの管理</seg>
       </tuv>
     </tu>
     <tu>
