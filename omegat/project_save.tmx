@@ -48983,6 +48983,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>pycsw screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T012935Z" creationid="sanak" creationdate="20220806T012935Z">
+        <seg>pycsw スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pycsw_overview</seg>
       </tuv>
       <tuv lang="ja">
