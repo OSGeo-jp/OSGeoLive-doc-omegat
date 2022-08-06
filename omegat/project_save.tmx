@@ -5264,8 +5264,8 @@
       <tuv lang="en-US">
         <seg>Actinia: cloud based geoprocessing.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210215T034434Z" creationid="miurahr" creationdate="20210215T034434Z">
-        <seg>Actinia:クラウドベースの地理処理。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T123039Z" creationid="miurahr" creationdate="20210215T034434Z">
+        <seg>Actinia:cloud based geoprocessing.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8056,8 +8056,8 @@
       <tuv lang="en-US">
         <seg>CORINE Landcover 2012, g100_clc12_V18_5 (``eu_laea/corine_2012/``; source: https://land.copernicus.eu/pan-european/corine-land-cover/clc-2012)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210215T034109Z" creationid="miurahr" creationdate="20210215T034109Z">
-        <seg>CORINE Landcover 2012, g100_clc12_V18_5 (``eu_laea/corine_2012/``; source: https://land.copernicus.eu/pan-european/corine-land-cover/clc-2012)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T122052Z" creationid="miurahr" creationdate="20210215T034109Z">
+        <seg>CORINE 土地被覆 2012、g100_clc12_V18_5 (``eu_laea/corine_2012/``; ソース: https://land.copernicus.eu/pan-european/corine-land-cover/clc-2012)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12058,8 +12058,8 @@
       <tuv lang="en-US">
         <seg>ESA Globcover map shown by actinia</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210215T034307Z" creationid="miurahr" creationdate="20210215T034307Z">
-        <seg>actinia による ESA Globcover map の表示</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T122536Z" creationid="miurahr" creationdate="20210215T034307Z">
+        <seg>actinia による ESA Globcover マップの表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -12122,8 +12122,8 @@
       <tuv lang="en-US">
         <seg>EU DEM 25m V1.1 (``eu_laea/PERMANENT/``; source: https://land.copernicus.eu/imagery-in-situ/eu-dem)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210215T034107Z" creationid="miurahr" creationdate="20210215T034107Z">
-        <seg>EU DEM 25m V1.1 (``eu_laea/PERMANENT/``; source: https://land.copernicus.eu/imagery-in-situ/eu-dem)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T121836Z" creationid="miurahr" creationdate="20210215T034107Z">
+        <seg>EU DEM 25m V1.1 (``eu_laea/PERMANENT/``; ソース: https://land.copernicus.eu/imagery-in-situ/eu-dem)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12658,8 +12658,8 @@
       <tuv lang="en-US">
         <seg>Europe (EU LAEA CRS, EPSG:3035):</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210215T034104Z" creationid="miurahr" creationdate="20210215T034104Z">
-        <seg>欧州 (EU LAEA CRS, EPSG:3035):</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T121829Z" creationid="miurahr" creationdate="20210215T034104Z">
+        <seg>欧州 (EU LAEA CRS、EPSG:3035):</seg>
       </tuv>
     </tu>
     <tu>
@@ -14490,8 +14490,8 @@
       <tuv lang="en-US">
         <seg>GHS_POP_GPW42015_GLOBE_R2015A_54009_250_v1_0 (``world_mollweide/pop_jrc``; source: https://ghsl.jrc.ec.europa.eu/ghs_pop.php)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210215T034130Z" creationid="miurahr" creationdate="20210215T034130Z">
-        <seg>GHS_POP_GPW42015_GLOBE_R2015A_54009_250_v1_0 (``world_mollweide/pop_jrc``; source: https://ghsl.jrc.ec.europa.eu/ghs_pop.php)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T122058Z" creationid="miurahr" creationdate="20210215T034130Z">
+        <seg>GHS_POP_GPW42015_GLOBE_R2015A_54009_250_v1_0 (``world_mollweide/pop_jrc``; ソース: https://ghsl.jrc.ec.europa.eu/ghs_pop.php)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20518,24 +20518,24 @@
       <tuv lang="en-US">
         <seg>LST growing degree days asia 2017 (``latlong_wgs84/asia_gdd_2017/``; source: https://www.mundialis.de/en/temperature-data/)</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220806T121124Z" creationid="miurahr" creationdate="20210215T034008Z">
-        <seg>LST 成長度日数アジア 2017 (``latlong_wgs84/asia_gdd_2017/``; ソース: https://www.mundialis.de/en/temperature-data/)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T121803Z" creationid="miurahr" creationdate="20210215T034008Z">
+        <seg>LST 有効積算温度 アジア 2017 (``latlong_wgs84/asia_gdd_2017/``; ソース: https://www.mundialis.de/en/temperature-data/)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LST temperature daily asia 2017, including min, max and avg (``latlong_wgs84/asia_lst_daily_2017/``)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210215T034057Z" creationid="miurahr" creationdate="20210215T034057Z">
-        <seg>LST 日次温度  アジア 2017, 最小、最大、平均を含む (``latlong_wgs84/asia_lst_daily_2017/``)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T121821Z" creationid="miurahr" creationdate="20210215T034057Z">
+        <seg>LST 日次温度 アジア 2017、最小、最大、平均を含む (``latlong_wgs84/asia_lst_daily_2017/``)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LST tropical days asia 2017 (``latlong_wgs84/asia_tropical_2017/``)</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220806T121331Z" creationid="miurahr" creationdate="20210215T034014Z">
-        <seg>LST 熱帯日数アジア 2017 (``latlong_wgs84/asia_tropical_2017/``)</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T121434Z" creationid="miurahr" creationdate="20210215T034014Z">
+        <seg>LST 熱帯日数 アジア 2017 (``latlong_wgs84/asia_tropical_2017/``)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37709,6 +37709,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To generate the actinia process chain JSON request simply add the ``-d`` (dry-run) flag:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T122502Z" creationid="sanak" creationdate="20220806T122232Z">
+        <seg>actinia 処理チェインのJSONリクエストを生成するには、 ``-d`` (ドライラン)フラグを追加するだけです:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To get a closer look, you can either use the mousewheel to zoom in or use the provided zoom-buttons in the upper left of the application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131637Z" creationid="miurahr" creationdate="20201116T131637Z">
@@ -50865,8 +50873,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>raster: ``COG``, ``GTiff``</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210215T040528Z" creationid="miurahr" creationdate="20210215T040528Z">
-        <seg>ラスタ: ``COG``, ``GTiff``</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T122551Z" creationid="miurahr" creationdate="20210215T040528Z">
+        <seg>ラスタ: ``COG``、``GTiff``</seg>
       </tuv>
     </tu>
     <tu>
@@ -51705,8 +51713,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>table: ``CSV``, ``TXT``</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210215T040540Z" creationid="miurahr" creationdate="20210215T040540Z">
-        <seg>表: ``CSV``, ``TXT``</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T122625Z" creationid="miurahr" creationdate="20210215T040540Z">
+        <seg>表: ``CSV``、``TXT``</seg>
       </tuv>
     </tu>
     <tu>
@@ -52203,6 +52211,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T040534Z" creationid="miurahr" creationdate="20210215T040534Z">
         <seg>ベクタ: ``ESRI_Shapefile``, ``GeoJSON``, ``GML``, ``GPKG``</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>vector: ``GPKG``, ``GML``, ``GeoJSON``, ``ESRI_Shapefile``</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T122610Z" creationid="sanak" creationdate="20220806T122610Z">
+        <seg>ベクタ: ``GPKG``、``GML``、``GeoJSON``、``ESRI_Shapefile``</seg>
       </tuv>
     </tu>
     <tu>
