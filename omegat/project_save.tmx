@@ -14912,6 +14912,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Geolocation Technology Company</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T020846Z" creationid="sanak" creationdate="20220806T020846Z">
+        <seg>ジオロケーションテクノロジー会社</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Geomajas</seg>
       </tuv>
       <tuv lang="ja">
@@ -18160,6 +18168,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002726Z" creationid="miurahr" creationdate="20201103T002726Z">
         <seg>Eclipse Rich Client Platformが提供する産業レベルのプラグインシステム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center for the Environment at the University of California, Davis</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T020605Z" creationid="sanak" creationdate="20220806T020542Z">
+        <seg>カリフォルニア大学デービス校環境情報センター</seg>
       </tuv>
     </tu>
     <tu>
@@ -22428,6 +22444,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>National Technical University of Athens</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T020752Z" creationid="sanak" creationdate="20220806T020752Z">
+        <seg>アテネ工科大学</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Native support for ESRI shapefiles, PostGIS and Oracle Spatial</seg>
       </tuv>
       <tuv lang="ja">
@@ -23936,6 +23960,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T230202Z" creationid="miurahr" creationdate="20201221T230202Z">
         <seg>ORFEO Toolbox library(OTB)は、リモートセンシングを目的とした画像処理のためのパフォーマンスの高いライブラリです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSGeo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T020538Z" creationid="sanak" creationdate="20220806T020538Z">
+        <seg>OSGeo</seg>
       </tuv>
     </tu>
     <tu>
@@ -31985,6 +32017,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The DebianGIS and UbuntuGIS projects</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T020805Z" creationid="sanak" creationdate="20220806T020805Z">
+        <seg>DebianGISとUbuntuGISプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The DebianGIS and UbuntuGIS projects provide and quality-assure many of the core packages.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T133435Z">
@@ -32080,6 +32120,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T165409Z" creationid="miurahr" creationdate="20201103T011059Z">
         <seg>GRASS（Geographic Resources Analysis Support System、地理空間情報リソースの解析補助システム） はラスタ、ベクタ、地理情報処理エンジンを一つのソフトウェアに統合した地理情報システム (GIS) です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Greek Academic cloud service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T020824Z" creationid="sanak" creationdate="20220806T020811Z">
+        <seg>ギリシャのアカデミッククラウドサービス</seg>
       </tuv>
     </tu>
     <tu>
