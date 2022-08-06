@@ -45503,6 +45503,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>geostyler screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T001634Z" creationid="sanak" creationdate="20220806T001634Z">
+        <seg>GeoStyler スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>geotools_overview</seg>
       </tuv>
       <tuv lang="ja">
