@@ -8062,6 +8062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CPU: 1 GHz 64 bit.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T132404Z" creationid="sanak" creationdate="20220806T132404Z">
+        <seg>CPU: 1 GHz 64 bit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CPU: 1 GHz i686 or compatible (Intel/AMD)</seg>
       </tuv>
       <tuv lang="ja">
@@ -15692,6 +15700,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Lubuntu 及び LXDE デスクトップ入門 (OSGeoLive で使用されています):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Getting started with Lubuntu and the LXQt desktop (which is used by OSGeoLive):</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T132557Z" creationid="sanak" creationdate="20220806T132532Z">
+        <seg>Lubuntu と LXQt デスクトップ入門 (OSGeoLive で使用されています):</seg>
       </tuv>
     </tu>
     <tu>
@@ -28413,6 +28429,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210206T164913Z" creationid="miurahr" creationdate="20210206T164913Z">
         <seg>RAM: 最低4 GB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RAM: minimum 2 GB (4 GB recommended).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T132357Z" creationid="sanak" creationdate="20220806T132357Z">
+        <seg>RAM: 最低 2 GB (4 GB 推奨)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45127,6 +45151,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>boot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T132422Z" creationid="sanak" creationdate="20220806T132422Z">
+        <seg>起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>boot select</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220805T234611Z" creationid="sanak" creationdate="20220805T234611Z">
@@ -47411,6 +47443,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T082231Z" creationid="sanak" creationdate="20220806T082231Z">
         <seg>https://live.osgeo.org/en/sponsors.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>https://lubuntu.me/ and https://lxqt-project.org/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T132608Z" creationid="sanak" creationdate="20220806T132551Z">
+        <seg>https://lubuntu.me/ と https://lxqt-project.org/</seg>
       </tuv>
     </tu>
     <tu>
