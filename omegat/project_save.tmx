@@ -4526,6 +4526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A USB flash drive (8+ Gig is recommended).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T132813Z" creationid="sanak" creationdate="20220806T132813Z">
+        <seg>USBフラッシュドライブ (8GB 以上を推奨)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A USB flash drive (at least 4 Gig, 8+ Gig is recommended).</seg>
       </tuv>
       <tuv lang="ja">
@@ -6344,8 +6352,8 @@
       <tuv lang="en-US">
         <seg>An OSGeoLive ISO image (downloaded from: :doc:`OSGeoLive downloads &lt;../download&gt;`) or converted from a DVD.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T072039Z" creationid="miurahr" creationdate="20201120T134748Z">
-        <seg>OSGeoLive ISOイメージ(:doc:`OSGeoLive downloads &lt;../download&gt;` からダウンロード)またはDVDから変換されたもの。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T132834Z" creationid="miurahr" creationdate="20201120T134748Z">
+        <seg>OSGeoLive ISOイメージ(:doc:`OSGeoLive ダウンロード &lt;../download&gt;` からダウンロード)またはDVDから変換されたもの。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16875,8 +16883,8 @@
       <tuv lang="en-US">
         <seg>ISO images for OSGeoLive 10.5 and later are *isohybrid* (and for amd64, also support UEFI boot).</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T072046Z" creationid="miurahr" creationdate="20201120T134830Z">
-        <seg>OS GeoLive10.5以降のISOイメージは *isohybrid* です(amd64もサポートUEFIブート)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T133054Z" creationid="miurahr" creationdate="20201120T134830Z">
+        <seg>OS GeoLive10.5以降のISOイメージは *isohybrid* です(amd64、UEFIブートもサポート)。</seg>
       </tuv>
     </tu>
     <tu>
