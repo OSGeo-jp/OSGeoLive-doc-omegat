@@ -48383,6 +48383,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>osm_dataset screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220806T012510Z" creationid="sanak" creationdate="20220806T012510Z">
+        <seg>OSM データセット スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>osm_dataset_overview</seg>
       </tuv>
       <tuv lang="ja">
