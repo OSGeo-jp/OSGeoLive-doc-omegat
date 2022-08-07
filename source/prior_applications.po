@@ -76,17 +76,17 @@ msgstr "ロゴなし"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "LibLAS_"
-msgstr ""
+msgstr "LibLAS_"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "`QuickStart <LibLAS_q_>`__"
-msgstr ""
+msgstr "`クイックスタート <LibLAS_q_>`__"
 
 #: ../../build/doc/prior_applications.rst:1
 #: ../../build/doc/prior_applications.rst:1
 #: ../../build/doc/prior_applications.rst:1
 msgid "13.0"
-msgstr ""
+msgstr "13.0"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "LiDAR Data Access"
@@ -94,22 +94,22 @@ msgstr "LiDAR データアクセス"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "MapSlicer_"
-msgstr ""
+msgstr "MapSlicer_"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "`QuickStart <MapSlicer_q_>`__"
-msgstr ""
+msgstr "`クイックスタート <MapSlicer_q_>`__"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "Create Map Tiles"
-msgstr ""
+msgstr "マップタイルの作成"
 
 #: ../../build/doc/prior_applications.rst:1
 #: ../../build/doc/prior_applications.rst:1
 #: ../../build/doc/prior_applications.rst:1
 #: ../../build/doc/prior_applications.rst:1
 msgid "|osgeo_community|"
-msgstr ""
+msgstr "|osgeo_community|"
 
 #: ../../build/doc/<rst_epilog>:0 ../../build/doc/<rst_epilog>:0
 #: ../../build/doc/<rst_epilog>:0 ../../build/doc/<rst_epilog>:0
@@ -119,11 +119,11 @@ msgstr "OSGeo コミュニティ"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "Geomajas_"
-msgstr ""
+msgstr "Geomajas_"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "`QuickStart <Geomajas_q_>`__"
-msgstr ""
+msgstr "`クイックスタート <Geomajas_q_>`__"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "Browser GIS Client"
@@ -131,15 +131,15 @@ msgstr "ブラウザGISクライアント"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "OSSIM_"
-msgstr ""
+msgstr "OSSIM_"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "`QuickStart <OSSIM_q_>`__"
-msgstr ""
+msgstr "`クイックスタート <OSSIM_q_>`__"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "11.0"
-msgstr ""
+msgstr "11.0"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "Image Processing"

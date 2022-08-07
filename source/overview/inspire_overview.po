@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 15.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-13 22:52+0000\n"
+"POT-Creation-Date: 2022-08-06 09:15-0500\n"
 "PO-Revision-Date: 2018-07-27 22:51+0000\n"
 "Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2022\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
@@ -92,7 +92,7 @@ msgstr ""
 "各テーマで定義されている `common data models <https://inspire.ec.europa.eu/Data-"
 "Models/Data-Specifications/2892>`__ に従って、空間データセットを整備します。"
 
-#: ../../build/doc/overview/inspire_overview.rst-1
+#: ../../build/doc/overview/inspire_overview.rstNone
 msgid "inspire screenshot"
 msgstr "INSPIRE スクリーンショット"
 
@@ -179,6 +179,6 @@ msgstr "ロゴなし"
 msgid "OSGeo Project"
 msgstr "OSGeo プロジェクト"
 
-#: ../../build/doc/<rst_epilog>:0
+#: ../../build/doc/<rst_epilog>:0 ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Community"
 msgstr "OSGeo コミュニティ"

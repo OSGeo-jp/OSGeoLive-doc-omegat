@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 15.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-13 22:52+0000\n"
+"POT-Creation-Date: 2022-08-06 09:15-0500\n"
 "PO-Revision-Date: 2017-09-20 16:08+0000\n"
 "Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2022\n"
 "Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
@@ -42,7 +42,7 @@ msgstr ""
 "Web サーバです。データは WMS、WFS、WCS、WPS、タイルキャッシュなどの標準に基づくインタフェース経由で配信されます。GeoServer "
 "は、ブラウザベースの管理インタフェースを持ち、バックエンド側で複数のデータソースへ接続します。"
 
-#: ../../build/doc/overview/geoserver_overview.rst-1
+#: ../../build/doc/overview/geoserver_overview.rstNone
 msgid "geoserver screenshot"
 msgstr "GeoServer スクリーンショット"
 
@@ -259,6 +259,6 @@ msgstr "ロゴなし"
 msgid "OSGeo Project"
 msgstr "OSGeo プロジェクト"
 
-#: ../../build/doc/<rst_epilog>:0
+#: ../../build/doc/<rst_epilog>:0 ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Community"
 msgstr "OSGeo コミュニティ"
