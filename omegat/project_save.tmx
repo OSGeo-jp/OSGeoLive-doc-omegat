@@ -27652,6 +27652,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press “s” for slide notes, ESC to zoom out, SPACE / arrow keys to navigate.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T140417Z" creationid="sanak" creationdate="20220810T140417Z">
+        <seg>sキーでスライドノート表示、ESCキーで縮小、スペース/矢印キーで移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Preview the NetCDF layer</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T234816Z" creationid="miurahr" creationdate="20201116T234816Z">
@@ -28893,6 +28901,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T063221Z" creationid="sanak" creationdate="20220806T063221Z">
         <seg>Released: August 2021</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Released: August 2022</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T140244Z" creationid="sanak" creationdate="20220810T140244Z">
+        <seg>リリース: 2022年8月</seg>
       </tuv>
     </tu>
     <tu>
@@ -39437,6 +39453,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Version: 15</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T140227Z" creationid="sanak" creationdate="20220810T140227Z">
+        <seg>バージョン: 15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Versioned geospatial data editor</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T052010Z" creationid="miurahr" creationdate="20201122T052010Z">
@@ -43967,6 +43991,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>`Presentation &lt;https://live.osgeo.org/en/presentation.html&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T140437Z" creationid="sanak" creationdate="20220810T140437Z">
+        <seg>`プレゼンテーション &lt;https://live.osgeo.org/en/presentation.html&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>`Presentation Development &lt;https://osgeo.github.io/OSGeoLive-doc/en/presentation.html#/&gt;`__</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T063734Z" creationid="sanak" creationdate="20220806T063505Z">
@@ -47519,6 +47551,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>https://live.osgeo.org/en/presentation.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T140442Z" creationid="sanak" creationdate="20220810T140442Z">
+        <seg>https://live.osgeo.org/en/presentation.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>https://live.osgeo.org/en/sponsors.html</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T082231Z" creationid="sanak" creationdate="20220806T082231Z">
@@ -47531,6 +47571,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T132608Z" creationid="sanak" creationdate="20220806T132551Z">
         <seg>https://lubuntu.me/ と https://lxqt-project.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>https://osgeo.github.io/OSGeoLive-doc/en/presentation.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T140550Z" creationid="sanak" creationdate="20220810T140550Z">
+        <seg>https://osgeo.github.io/OSGeoLive-doc/en/presentation.html</seg>
       </tuv>
     </tu>
     <tu>
