@@ -52807,10 +52807,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|ISO19105|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T132506Z" creationid="sanak" creationdate="20220810T132506Z">
+        <seg>|ISO19105|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|KML|</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|KML|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OGCAPIFEATURES|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T132509Z" creationid="sanak" creationdate="20220810T132509Z">
+        <seg>|OGCAPIFEATURES|</seg>
       </tuv>
     </tu>
     <tu>
