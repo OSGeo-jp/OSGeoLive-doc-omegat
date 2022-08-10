@@ -25220,6 +25220,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Official OGC reference implementation for WMS 1.1.1 and WMS 1.3.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T132439Z" creationid="sanak" creationdate="20220810T132439Z">
+        <seg>WMS 1.1.1とWMS 1.3.0の公式OGC参照実装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Okeanos is build on top of existing proven open source software (e.g. Synnefo, Google Ganeti).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T133010Z" creationid="miurahr" creationdate="20201120T133010Z">
