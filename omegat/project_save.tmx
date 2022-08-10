@@ -52919,6 +52919,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|OSGeo_community| |vmdk| :doc:`actinia_overview` - [:doc:`Quickstart &lt;../quickstart/actinia_quickstart&gt;`] - Processing of Geographical Data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T133026Z" creationid="sanak" creationdate="20220810T133026Z">
+        <seg>|OSGeo_community| |vmdk| :doc:`actinia_overview` - [:doc:`クイックスタート &lt;../quickstart/actinia_quickstart&gt;`] - 地理データの処理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|OSGeo_incubation| :doc:`rasdaman_overview` - [:doc:`Quickstart &lt;../quickstart/rasdaman_quickstart&gt;`] - Multi-Dimensional Raster Database</seg>
       </tuv>
       <tuv lang="ja">
@@ -52931,6 +52939,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>|OSGeo_incubation| :doc:`zoo-project_overview` - [:doc:`クイックスタート &lt;../quickstart/zoo-project_quickstart&gt;`] - Web Processing Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|OSGeo_incubation| |vmdk| :doc:`rasdaman_overview` - [:doc:`Quickstart &lt;../quickstart/rasdaman_quickstart&gt;`] - Multi-Dimensional Raster Database</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T133103Z" creationid="sanak" creationdate="20220810T133103Z">
+        <seg>|OSGeo_incubation| |vmdk| :doc:`rasdaman_overview` - [:doc:`クイックスタート &lt;../quickstart/rasdaman_quickstart&gt;`] - 多次元ラスタデータベース</seg>
       </tuv>
     </tu>
     <tu>
@@ -54095,6 +54111,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|nologo| |vmdk| :doc:`52nSOS_overview` - [:doc:`Quickstart &lt;../quickstart/52nSOS_quickstart&gt;`] - Sensor Observation Service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T133039Z" creationid="sanak" creationdate="20220810T133039Z">
+        <seg>|nologo| |vmdk| :doc:`52nSOS_overview` - [:doc:`クイックスタート &lt;../quickstart/52nSOS_quickstart&gt;`] - Sensor Observation Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|nologo| |vmdk| :doc:`ETF_overview` - [:doc:`Quickstart &lt;../quickstart/ETF_quickstart&gt;`] - Testing framework for validating spatial data, metadata and web services in Spatial Data Infrastructures (SDIs)</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T014710Z" creationid="sanak" creationdate="20220806T014710Z">
@@ -54123,6 +54147,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T020316Z" creationid="sanak" creationdate="20210221T072349Z">
         <seg>|nologo| |vmdk| :doc:`re3gistry_overview` - [:doc:`クイックスタート &lt;../quickstart/re3gistry_quickstart&gt;`] - リファレンスコードの管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|nologo| |vmdk| :doc:`udig_overview` - [:doc:`Quickstart &lt;../quickstart/udig_quickstart&gt;`]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T132952Z" creationid="sanak" creationdate="20220810T132952Z">
+        <seg>|nologo| |vmdk| :doc:`udig_overview` - [:doc:`クイックスタート &lt;../quickstart/udig_quickstart&gt;`]</seg>
       </tuv>
     </tu>
     <tu>
