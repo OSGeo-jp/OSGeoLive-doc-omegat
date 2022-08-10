@@ -5294,6 +5294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Active community `Metrics &lt;https://live.osgeo.org/en/metrics.html&gt;`__</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T144039Z" creationid="sanak" creationdate="20220810T144039Z">
+        <seg>活発なコミュニティの `メトリクス &lt;https://live.osgeo.org/en/metrics.html&gt;`__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Activity Workshop</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T134624Z" creationid="miurahr" creationdate="20201120T133027Z">
@@ -12136,6 +12144,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ETF_logo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T144239Z" creationid="sanak" creationdate="20220810T144239Z">
+        <seg>ETF_logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ETL (Extract, Transform and Load) Tool</seg>
       </tuv>
       <tuv lang="ja">
@@ -14432,6 +14448,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GDAL 3.4.3,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T143758Z" creationid="sanak" creationdate="20220810T143741Z">
+        <seg>GDAL 3.4.3、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GDAL Project home</seg>
       </tuv>
       <tuv lang="ja">
@@ -14628,6 +14652,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T044509Z" creationid="miurahr" creationdate="20201102T044509Z">
         <seg>GPX トラックは、通常、GPS 受信機または他のソースから事前にダウンロードされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GRASS  8.2.0,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T143818Z" creationid="sanak" creationdate="20220810T143818Z">
+        <seg>GRASS  8.2.0、</seg>
       </tuv>
     </tu>
     <tu>
@@ -15060,6 +15092,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>GeoServer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoServer 2.21.0,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T143823Z" creationid="sanak" creationdate="20220810T143823Z">
+        <seg>GeoServer 2.21.0、</seg>
       </tuv>
     </tu>
     <tu>
@@ -21868,6 +21908,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MapServer 7.6.4,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T143830Z" creationid="sanak" creationdate="20220810T143830Z">
+        <seg>MapServer 7.6.4、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MapServer Quickstart</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T021453Z" creationid="miurahr" creationdate="20201103T021453Z">
@@ -23252,6 +23300,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>New project added: ETF testing framework software</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T143930Z" creationid="sanak" creationdate="20220810T143930Z">
+        <seg>新しいプロジェクトの追加: ETFテストフレームワークソフトウェア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next click on :guilabel:`Customize active input methods` and then on the :guilabel:`Select an input method` button.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T080407Z" creationid="miurahr" creationdate="20201103T055052Z">
@@ -23440,6 +23496,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>ノード: マージ、結合、引き離し、分割、円の整列、線の整列、ウェイへのノードの結合、ほか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Non Profit for geospatial community, fostering</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T144230Z" creationid="sanak" creationdate="20220810T144230Z">
+        <seg>地理空間コミュニティのための非営利団体で、以下を育成</seg>
       </tuv>
     </tu>
     <tu>
@@ -25116,6 +25180,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OSM data for Firenze</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T144003Z" creationid="sanak" creationdate="20220810T144003Z">
+        <seg>フィレンツェのOSMデータ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OSM files: .osm, .xlm, .osmbz2, .osmbz</seg>
       </tuv>
       <tuv lang="ja">
@@ -26700,6 +26772,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PROJ 8.2.1,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T143802Z" creationid="sanak" creationdate="20220810T143748Z">
+        <seg>PROJ 8.2.1、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PROJ Example</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T125029Z" creationid="miurahr" creationdate="20210208T125029Z">
@@ -27240,6 +27320,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>PostGIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PostGIS 3.2.0,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T143808Z" creationid="sanak" creationdate="20220810T143808Z">
+        <seg>PostGIS 3.2.0、</seg>
       </tuv>
     </tu>
     <tu>
@@ -28140,6 +28228,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>QGIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS 3.22.7,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T143754Z" creationid="sanak" creationdate="20220810T143737Z">
+        <seg>QGIS 3.22.7、</seg>
       </tuv>
     </tu>
     <tu>
@@ -32677,6 +32773,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Takayuki Nuimura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Take part in our weekly `IRC &lt;https://wiki.osgeo.org/wiki/IRC&gt;`__ meetings (channel #osgeolive on Libera.Chat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T144428Z" creationid="sanak" creationdate="20220810T144428Z">
+        <seg>毎週開催される `IRC &lt;https://wiki.osgeo.org/wiki/IRC&gt;`__ ミーティング (Lebera.Chatの #osgeolive チャンネル)に参加する</seg>
       </tuv>
     </tu>
     <tu>
@@ -38501,6 +38605,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try out OSGeoLive</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T144543Z" creationid="sanak" creationdate="20220810T144543Z">
+        <seg>OSGeoLiveを試してみましょう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Try out the use of :doc:`PostGIS &lt;../overview/postgis_overview&gt;`, extract data from a Web Feature Server and explore the use of **Themes** with our powerful `Color Brewer` technology.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210214T093202Z" creationid="miurahr" creationdate="20210201T054926Z">
@@ -38905,6 +39017,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T065056Z" creationid="sanak" creationdate="20220806T065056Z">
         <seg>更新されたパッケージは `UbuntuGIS &lt;href="https://wiki.ubuntu.com/UbuntuGIS"&gt;`__ にコントリビュートされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Updated to Lubuntu 22.04 LTS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T143725Z" creationid="sanak" creationdate="20220810T143725Z">
+        <seg>Lubuntu 22.04 LTSへのアップデート</seg>
       </tuv>
     </tu>
     <tu>
@@ -40713,6 +40833,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T064626Z" creationid="sanak" creationdate="20220806T064626Z">
         <seg>What is new in 14.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is new in 15.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T143708Z" creationid="sanak" creationdate="20220810T143708Z">
+        <seg>15.0での新機能</seg>
       </tuv>
     </tu>
     <tu>
@@ -44899,6 +45027,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210303T151527Z" creationid="miurahr" creationdate="20201108T041022Z">
         <seg>Enterを押してPostgreSQLのバージョン番号を確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>and many more...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T143846Z" creationid="sanak" creationdate="20220810T143846Z">
+        <seg>などなど...</seg>
       </tuv>
     </tu>
     <tu>
@@ -52879,6 +53015,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|ETF_logo|</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T144231Z" creationid="sanak" creationdate="20220810T144231Z">
+        <seg>|ETF_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|FE|</seg>
       </tuv>
       <tuv lang="ja">
@@ -54531,6 +54675,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T080913Z" creationid="sanak" creationdate="20220806T080913Z">
         <seg>|xygrib_logo|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|xygrib_logo| XyGrib</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220810T144250Z" creationid="sanak" creationdate="20220810T144250Z">
+        <seg>|xygrib_logo| XyGrib</seg>
       </tuv>
     </tu>
     <tu>
