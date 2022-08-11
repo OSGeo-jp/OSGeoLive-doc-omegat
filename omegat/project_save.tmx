@@ -30401,6 +30401,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the `Marble documentation &lt;https://marble.kde.org&gt;`_ for help.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T115300Z" creationid="sanak" creationdate="20220811T115300Z">
+        <seg>`Marble ドキュメント &lt;https://marble.kde.org&gt;`_ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See the `Marble homepage &lt;https://marble.kde.org/&gt;`_ for more information.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T001221Z" creationid="miurahr" creationdate="20201117T001221Z">
