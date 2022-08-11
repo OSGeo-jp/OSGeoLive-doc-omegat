@@ -14984,6 +14984,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GeoMoose Screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T054242Z" creationid="sanak" creationdate="20220811T054242Z">
+        <seg>GeoMoose スクリーンショット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GeoMoose Tutorial</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132838Z" creationid="miurahr" creationdate="20201116T132838Z">
@@ -42843,6 +42851,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210302T222242Z" creationid="sanak" creationdate="20210302T222242Z">
         <seg>カラー化されたベクトルマップ表示するには、マップを再描画する必要があるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may need to scroll down in the "Super Tab" to find the "Go" button if your browser window is small.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T060005Z" creationid="sanak" creationdate="20220811T060005Z">
+        <seg>You may need to scroll down in the "Super Tab" to find the "Go" button if your browser window is small.</seg>
       </tuv>
     </tu>
     <tu>
