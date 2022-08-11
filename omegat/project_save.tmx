@@ -8254,6 +8254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Carsten Hollmann</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120852Z" creationid="sanak" creationdate="20220811T120852Z">
+        <seg>Carsten Hollmann</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cartaro_</seg>
       </tuv>
       <tuv lang="ja">
@@ -45931,6 +45939,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>c tuffery gmail com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>c.hollmann 52north.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120857Z" creationid="sanak" creationdate="20220811T120857Z">
+        <seg>c.hollmann 52north.org</seg>
       </tuv>
     </tu>
     <tu>
