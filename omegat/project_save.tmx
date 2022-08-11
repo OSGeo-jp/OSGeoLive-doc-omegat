@@ -42857,8 +42857,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You may need to scroll down in the "Super Tab" to find the "Go" button if your browser window is small.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220811T060005Z" creationid="sanak" creationdate="20220811T060005Z">
-        <seg>You may need to scroll down in the "Super Tab" to find the "Go" button if your browser window is small.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T064435Z" creationid="sanak" creationdate="20220811T060005Z">
+        <seg>ブラウザのウィンドウが小さい場合、"Super Tab" をスクロールして "Go" ボタンを見つける必要があるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
