@@ -21214,8 +21214,8 @@
       <tuv lang="en-US">
         <seg>Let's start by adding a vector layer to the map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113740Z" creationid="miurahr" creationdate="20201103T113740Z">
-        <seg>まず、ベクトルレイヤをマップに追加します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120125Z" creationid="miurahr" creationdate="20201103T113740Z">
+        <seg>まず、ベクタレイヤをマップに追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26068,6 +26068,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open a QGIS project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T115851Z" creationid="sanak" creationdate="20220811T115851Z">
+        <seg>QGISプロジェクトを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open a file with `vim`:</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210214T081133Z" creationid="miurahr" creationdate="20210208T133625Z">
@@ -28400,6 +28408,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>QGIS Open project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120306Z" creationid="sanak" creationdate="20220811T120306Z">
+        <seg>QGISプロジェクトを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS Open project result</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120324Z" creationid="sanak" creationdate="20220811T120324Z">
+        <seg>QGISプロジェクトを開いた結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QGIS Quickstart</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052447Z" creationid="miurahr" creationdate="20201102T052447Z">
@@ -28456,6 +28480,30 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>QGIS browser add raster layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120209Z" creationid="sanak" creationdate="20220811T120209Z">
+        <seg>QGISブラウザからラスタレイヤを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS browser add vector layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120149Z" creationid="sanak" creationdate="20220811T120111Z">
+        <seg>QGISブラウザからベクタレイヤを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS color palette</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120509Z" creationid="sanak" creationdate="20220811T120509Z">
+        <seg>QGISカラーパレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QGIS doesn't know they are lakes, so might not colour them blue for you - use the QGIS documentation to work out how to change this.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T043743Z" creationid="miurahr" creationdate="20201108T043743Z">
@@ -28480,6 +28528,38 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>QGIS layer panel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120332Z" creationid="sanak" creationdate="20220811T120332Z">
+        <seg>QGISレイヤパネル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS modified the order of layers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120414Z" creationid="sanak" creationdate="20220811T120414Z">
+        <seg>QGISレイヤの順序変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS navigation toolbar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120430Z" creationid="sanak" creationdate="20220811T120430Z">
+        <seg>QGISナビゲーションツールバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS new project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T115940Z" creationid="sanak" creationdate="20220811T115923Z">
+        <seg>QGISの新しいプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QGIS plugin - available through the processing framework.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T020223Z" creationid="miurahr" creationdate="20210215T020223Z">
@@ -28488,10 +28568,106 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>QGIS project location</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120236Z" creationid="sanak" creationdate="20220811T120236Z">
+        <seg>QGISプロジェクトの場所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS raster layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120217Z" creationid="sanak" creationdate="20220811T120217Z">
+        <seg>QGISラスタレイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS result of layer visibility changes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120359Z" creationid="sanak" creationdate="20220811T120359Z">
+        <seg>QGISレイヤの表示/非表示変更結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS save</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120225Z" creationid="sanak" creationdate="20220811T120225Z">
+        <seg>QGISの保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS saved project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120254Z" creationid="sanak" creationdate="20220811T120254Z">
+        <seg>QGISプロジェクトの保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS style dock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120439Z" creationid="sanak" creationdate="20220811T120439Z">
+        <seg>QGISスタイルドック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS style dock color</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120500Z" creationid="sanak" creationdate="20220811T120500Z">
+        <seg>QGISスタイルドックカラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS style dock layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120449Z" creationid="sanak" creationdate="20220811T120449Z">
+        <seg>QGISスタイルドックレイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS style result</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120540Z" creationid="sanak" creationdate="20220811T120540Z">
+        <seg>QGISスタイルの結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS style return</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120531Z" creationid="sanak" creationdate="20220811T120531Z">
+        <seg>QGISスタイルに戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS style width</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120601Z" creationid="sanak" creationdate="20220811T120601Z">
+        <seg>QGISスタイル幅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QGIS uses GDAL/OGR too to suport many formats.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T130755Z" creationid="miurahr" creationdate="20201116T130755Z">
         <seg>QGISはGDAL/OGRも使用して、多くの形式をサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QGIS vector layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120156Z" creationid="sanak" creationdate="20220811T120156Z">
+        <seg>QGISベクタレイヤ</seg>
       </tuv>
     </tu>
     <tu>
@@ -38849,6 +39025,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210214T093202Z" creationid="miurahr" creationdate="20210201T054926Z">
         <seg>:doc:`PostGIS &lt;../overview/postgis_overview&gt;` を使用する。WFSサーバからデータを取得をする。 `Color Brewer` 技術を使用して **Themes** の活用をする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try publishing your QGIS map to the web using :doc:`QGIS Map Server &lt;../overview/qgis_mapserver_overview&gt;`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120731Z" creationid="sanak" creationdate="20220811T120731Z">
+        <seg>:doc:`QGIS マップサーバ &lt;../overview/qgis_mapserver_overview&gt;` を使用して、QGISマップをWebに公開してみてください。</seg>
       </tuv>
     </tu>
     <tu>
