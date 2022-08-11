@@ -36613,6 +36613,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This Quick Start describes how to use these tools :</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T115728Z" creationid="sanak" creationdate="20220811T115544Z">
+        <seg>このクイックスタートでは以下のツールの使用方法について説明します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This Quick Start describes how to:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201125T003526Z">
