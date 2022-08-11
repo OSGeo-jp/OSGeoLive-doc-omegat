@@ -8502,6 +8502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Check with</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T035406Z" creationid="sanak" creationdate="20220811T035406Z">
+        <seg>以下から確認してみましょう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>China</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T062232Z" creationid="miurahr" creationdate="20201102T062232Z">
@@ -24212,6 +24220,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now you have a running actinia instance locally!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T035321Z" creationid="sanak" creationdate="20220811T035321Z">
+        <seg>これでローカル環境でactiniaインスタンスが動作するようになりました！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now you may be thinking to yourself that these fonts are a bit bare.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210302T162729Z" creationid="sanak" creationdate="20210302T162729Z">
@@ -37729,6 +37745,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T132452Z" creationid="miurahr" creationdate="20201116T132452Z">
         <seg>選択可能にするには、レイヤがベクタレイヤであり、マップブックで選択するように設定されている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To build and deploy actinia, run</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T035145Z" creationid="sanak" creationdate="20220811T035145Z">
+        <seg>actiniaをビルド・デプロイするには、以下を実行します</seg>
       </tuv>
     </tu>
     <tu>
