@@ -286,7 +286,7 @@ msgstr "単位:°C"
 
 #: ../../build/doc/quickstart/istsos_quickstart.rst:143
 msgid "Description (optional): conversion from resistance to tempera"
-msgstr ""
+msgstr "Description (optional): conversion from resistance to tempera"
 
 #: ../../build/doc/quickstart/istsos_quickstart.rst:145
 msgid "quality index check (optional): Between / from -40 to +60"
@@ -334,7 +334,7 @@ msgstr ":menuselection:`System Tools --> LXTerminal` を選択して端末を開
 
 #: ../../build/doc/quickstart/istsos_quickstart.rst:180
 msgid "In the terminal, enter: \"cd /usr/share/istsos/\" and press ENTER."
-msgstr "端末で: \"cd/usr/share/istSOS/\" と入力し、ENTERを押します。"
+msgstr "端末で: \"cd /usr/share/istSOS/\" と入力し、ENTERを押します。"
 
 #: ../../build/doc/quickstart/istsos_quickstart.rst:182
 msgid ""
@@ -342,7 +342,7 @@ msgid ""
 "-s demo -w ~/Desktop\" and press ENTER"
 msgstr ""
 "\"python scripts/csv2istsos.py -p T_LUGANO -u http://localhost/istsos -s "
-"demo -w ~/Desktop\" とうちこんで、ENTERを押します"
+"demo -w ~/Desktop\" と入力し、ENTERを押します"
 
 #: ../../build/doc/quickstart/istsos_quickstart.rst:184
 msgid "You should see a message \"Insert observation success: True\""
