@@ -41725,6 +41725,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can activate the a variety of layers served by the deegree WMS here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T045513Z" creationid="sanak" creationdate="20220811T045513Z">
+        <seg>deegree WMSが提供する様々なレイヤーをここで有効にすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can add MapProxy in any WMS Desktop GIS like uDig, QGIS or gvSIG.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T231749Z" creationid="miurahr" creationdate="20210214T231749Z">
@@ -46055,6 +46063,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>deegree docker images - Available here: https://hub.docker.com/r/deegree/deegree3-docker/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T045437Z" creationid="sanak" creationdate="20220811T045437Z">
+        <seg>deegree docker イメージ - こちらで利用可能: https://hub.docker.com/r/deegree/deegree3-docker/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>deegree documentation - Available here: https://www.deegree.org/documentation/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T045245Z" creationid="sanak" creationdate="20220811T045212Z">
+        <seg>deegree ドキュメント - こちらで利用可能: https://www.deegree.org/documentation/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>deegree online demo - Available here: https://www.deegree.org/demo/</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T143853Z" creationid="miurahr" creationdate="20201116T140951Z">
@@ -46089,8 +46113,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>deegree website - Available here: https://www.deegree.org</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201123T143849Z" creationid="miurahr" creationdate="20201116T140956Z">
-        <seg>deegree Webサイト-利用可能: https://www.deegree.org</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T045236Z" creationid="miurahr" creationdate="20201116T140956Z">
+        <seg>deegree Webサイト - こちらで利用可能: https://www.deegree.org</seg>
       </tuv>
     </tu>
     <tu>
