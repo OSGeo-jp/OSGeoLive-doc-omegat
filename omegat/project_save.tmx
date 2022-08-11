@@ -17225,6 +17225,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If there is imagery offset, it can be **corrected** by clicking **Fix Alignment**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T073802Z" creationid="sanak" creationdate="20220811T071416Z">
+        <seg>背景画像オフセットがある場合は、 **画像の位置を調整** をクリックして **修正** することが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this command runs successfully, you are able to see your rendered map at file:///home/user/mymap.png.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T144454Z" creationid="miurahr" creationdate="20201103T022328Z">
@@ -45919,6 +45927,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>create multipolygon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071553Z" creationid="sanak" creationdate="20220811T071553Z">
+        <seg>マルチポリゴン作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>cs2cs</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T043506Z" creationid="miurahr" creationdate="20201221T043506Z">
@@ -48163,6 +48179,318 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T182942Z" creationid="sanak" creationdate="20210102T182942Z">
         <seg>画像融合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image10</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071650Z" creationid="sanak" creationdate="20220811T071650Z">
+        <seg>image10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image11</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071651Z" creationid="sanak" creationdate="20220811T071651Z">
+        <seg>image11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image12</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071651Z" creationid="sanak" creationdate="20220811T071651Z">
+        <seg>image12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image13</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071659Z" creationid="sanak" creationdate="20220811T071659Z">
+        <seg>image13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image14</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071328Z" creationid="sanak" creationdate="20220811T071328Z">
+        <seg>image14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image15</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071331Z" creationid="sanak" creationdate="20220811T071331Z">
+        <seg>image15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image16</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071332Z" creationid="sanak" creationdate="20220811T071332Z">
+        <seg>image16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image17</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071338Z" creationid="sanak" creationdate="20220811T071338Z">
+        <seg>image17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image18</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071418Z" creationid="sanak" creationdate="20220811T071418Z">
+        <seg>image18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image20</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071421Z" creationid="sanak" creationdate="20220811T071421Z">
+        <seg>image20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image21</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071425Z" creationid="sanak" creationdate="20220811T071425Z">
+        <seg>image21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image22</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071428Z" creationid="sanak" creationdate="20220811T071428Z">
+        <seg>image22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image23</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071429Z" creationid="sanak" creationdate="20220811T071429Z">
+        <seg>image23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image24</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071431Z" creationid="sanak" creationdate="20220811T071431Z">
+        <seg>image24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image26</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071435Z" creationid="sanak" creationdate="20220811T071435Z">
+        <seg>image26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image27</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071439Z" creationid="sanak" creationdate="20220811T071439Z">
+        <seg>image27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image29</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071440Z" creationid="sanak" creationdate="20220811T071440Z">
+        <seg>image29</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071422Z" creationid="sanak" creationdate="20220811T071422Z">
+        <seg>image3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image30</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071433Z" creationid="sanak" creationdate="20220811T071433Z">
+        <seg>image30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image31</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071444Z" creationid="sanak" creationdate="20220811T071444Z">
+        <seg>image31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image32</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071447Z" creationid="sanak" creationdate="20220811T071447Z">
+        <seg>image32</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image34</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071449Z" creationid="sanak" creationdate="20220811T071449Z">
+        <seg>image34</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image35</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071533Z" creationid="sanak" creationdate="20220811T071533Z">
+        <seg>image35</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image36</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071631Z" creationid="sanak" creationdate="20220811T071631Z">
+        <seg>image36</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image37</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071633Z" creationid="sanak" creationdate="20220811T071633Z">
+        <seg>image37</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image38</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071635Z" creationid="sanak" creationdate="20220811T071635Z">
+        <seg>image38</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image39</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071636Z" creationid="sanak" creationdate="20220811T071636Z">
+        <seg>image39</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image4</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071430Z" creationid="sanak" creationdate="20220811T071430Z">
+        <seg>image4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image40</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071637Z" creationid="sanak" creationdate="20220811T071637Z">
+        <seg>image40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image41</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071638Z" creationid="sanak" creationdate="20220811T071638Z">
+        <seg>image41</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image42</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071640Z" creationid="sanak" creationdate="20220811T071640Z">
+        <seg>image42</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image43</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071641Z" creationid="sanak" creationdate="20220811T071641Z">
+        <seg>image43</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image44</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071642Z" creationid="sanak" creationdate="20220811T071642Z">
+        <seg>image44</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image45</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071644Z" creationid="sanak" creationdate="20220811T071644Z">
+        <seg>image45</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image5</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071645Z" creationid="sanak" creationdate="20220811T071645Z">
+        <seg>image5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image6</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071646Z" creationid="sanak" creationdate="20220811T071646Z">
+        <seg>image6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image7</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071647Z" creationid="sanak" creationdate="20220811T071647Z">
+        <seg>image7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image8</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071648Z" creationid="sanak" creationdate="20220811T071648Z">
+        <seg>image8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image9</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071649Z" creationid="sanak" creationdate="20220811T071649Z">
+        <seg>image9</seg>
       </tuv>
     </tu>
     <tu>
@@ -50423,6 +50751,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>osm gps traces</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071341Z" creationid="sanak" creationdate="20220811T071341Z">
+        <seg>osm gps traces</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>osm screenshot</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T012604Z" creationid="sanak" creationdate="20220806T012604Z">
@@ -50611,6 +50947,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T184651Z" creationid="miurahr" creationdate="20201103T071314Z">
         <seg>並列化と "タイルストリーミング" により、ノートパソコンからクラスタやクラウドまで無制限の拡張性を実現</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>part of multipolygon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T071629Z" creationid="sanak" creationdate="20220811T071629Z">
+        <seg>マルチポリゴンのパート</seg>
       </tuv>
     </tu>
     <tu>
