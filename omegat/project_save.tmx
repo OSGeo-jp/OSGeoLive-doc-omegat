@@ -11968,6 +11968,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Draw tool</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T081318Z" creationid="sanak" creationdate="20220811T081318Z">
+        <seg>描画ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Draw vector data from GeoJSON and TopoJSON.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T042719Z" creationid="miurahr" creationdate="20201122T042719Z">
@@ -20156,6 +20164,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>JOSM splash page</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T081010Z" creationid="sanak" creationdate="20220811T081010Z">
+        <seg>JOSM 起動画面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JOSM views WMS layers, but uses the `OSM API &lt;https://wiki.openstreetmap.org/wiki/API_v0.6&gt;`_ to communicate with OSM database.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210219T012734Z">
@@ -26212,6 +26228,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T081151Z" creationid="sanak" creationdate="20220811T081024Z">
+        <seg>ファイルを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open https://overpass-turbo.eu/</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210122T025454Z" creationid="miurahr" creationdate="20210122T025454Z">
@@ -29961,6 +29985,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sample file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T081109Z" creationid="sanak" creationdate="20220811T081109Z">
+        <seg>サンプルファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Samuel Mesa</seg>
       </tuv>
       <tuv lang="ja">
@@ -30029,6 +30061,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T053325Z" creationid="miurahr" creationdate="20201103T053325Z">
         <seg>変更を保存する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scale bar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T081208Z" creationid="sanak" creationdate="20220811T081208Z">
+        <seg>スケールバー</seg>
       </tuv>
     </tu>
     <tu>
@@ -30917,6 +30957,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T135816Z" creationid="miurahr" creationdate="20201120T135816Z">
         <seg>選択してUSBデバイスから起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select tool</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T081310Z" creationid="sanak" creationdate="20220811T081310Z">
+        <seg>選択ツール</seg>
       </tuv>
     </tu>
     <tu>
