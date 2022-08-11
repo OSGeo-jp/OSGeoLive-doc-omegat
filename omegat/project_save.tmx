@@ -30403,7 +30403,7 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>See the `Marble documentation &lt;https://marble.kde.org&gt;`_ for help.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220811T115300Z" creationid="sanak" creationdate="20220811T115300Z">
+      <tuv lang="ja" changeid="sanak" changedate="20220811T115448Z" creationid="sanak" creationdate="20220811T115300Z">
         <seg>`Marble ドキュメント &lt;https://marble.kde.org&gt;`_ を参照してください。</seg>
       </tuv>
     </tu>
