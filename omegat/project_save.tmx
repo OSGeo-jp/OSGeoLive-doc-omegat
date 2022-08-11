@@ -9378,8 +9378,8 @@
       <tuv lang="en-US">
         <seg>Click on the wire framed globe icon to select your preferred view.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134734Z" creationid="miurahr" creationdate="20201116T134734Z">
-        <seg>ワイヤーで囲まれたビューアイコンをクリックして、希望の地球儀を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T042750Z" creationid="miurahr" creationdate="20201116T134734Z">
+        <seg>ワイヤーで囲まれたビューアイコンをクリックして、希望のビューを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16370,8 +16370,8 @@
       <tuv lang="en-US">
         <seg>Here the Natural Earth II is selected and you can see how the map's image layer has changed.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T134755Z" creationid="miurahr" creationdate="20201116T134755Z">
-        <seg>ここでNatural Earth IIが選択され、マップのイメージレイヤがどのように変化したかを見ることができます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T044018Z" creationid="miurahr" creationdate="20201116T134755Z">
+        <seg>ここでは Natural Earth II が選択され、マップのイメージレイヤがどのように変化したかを見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18302,8 +18302,8 @@
       <tuv lang="en-US">
         <seg>In the following display, we look for India.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220811T040114Z" creationid="miurahr" creationdate="20201116T134726Z">
-        <seg>次の表示では、インドを探しています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T042738Z" creationid="miurahr" creationdate="20201116T134726Z">
+        <seg>以下の表示では、インドを探しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33768,6 +33768,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210126T165535Z" creationid="miurahr" creationdate="20201116T124639Z">
         <seg>`Admin Client` はDjangos標準の管理者であり、利用可能なデータを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The `Cesium Forum &lt;https://community.cesium.com&gt;`_ is a great place to search for answers to common questions, and to raise questions that haven't been asked before.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T044204Z" creationid="sanak" creationdate="20220811T044204Z">
+        <seg>`Cesiumフォーラム &lt;https://community.cesium.com&gt;`_ は、よくある質問に対する答えを探したり、これまでになかった質問を提起したりするのに最適な場所です。</seg>
       </tuv>
     </tu>
     <tu>
