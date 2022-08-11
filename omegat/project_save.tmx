@@ -41101,6 +41101,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Website: https://opengribs.org/en</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T120820Z" creationid="sanak" creationdate="20220811T120820Z">
+        <seg>Webサイト: https://opengribs.org/en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Website: https://t-rex.tileserver.ch/</seg>
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201103T052706Z" creationid="smellman" creationdate="20201103T052706Z">
