@@ -11272,6 +11272,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description (optional): conversion from resistance to tempera</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T075338Z" creationid="sanak" creationdate="20220811T075338Z">
+        <seg>Description (optional): conversion from resistance to tempera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description (optional): conversion from resistance to temperature</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T025446Z" creationid="miurahr" creationdate="20201122T025432Z">
@@ -18478,8 +18486,8 @@
       <tuv lang="en-US">
         <seg>In the terminal, enter: "cd /usr/share/istsos/" and press ENTER.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210303T141950Z" creationid="miurahr" creationdate="20201122T034433Z">
-        <seg>端末で: "cd/usr/share/istSOS/" と入力し、ENTERを押します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T075317Z" creationid="miurahr" creationdate="20201122T034433Z">
+        <seg>端末で: "cd /usr/share/istSOS/" と入力し、ENTERを押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41623,8 +41631,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Write "python scripts/csv2istsos.py -p T_LUGANO -u http://localhost/istsos -s demo -w ~/Desktop" and press ENTER</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210218T225455Z" creationid="miurahr" creationdate="20201122T034505Z">
-        <seg>"python scripts/csv2istsos.py -p T_LUGANO -u http://localhost/istsos -s demo -w ~/Desktop" とうちこんで、ENTERを押します</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T080751Z" creationid="miurahr" creationdate="20201122T034505Z">
+        <seg>"python scripts/csv2istsos.py -p T_LUGANO -u http://localhost/istsos -s demo -w ~/Desktop" と入力し、ENTERを押します</seg>
       </tuv>
     </tu>
     <tu>
