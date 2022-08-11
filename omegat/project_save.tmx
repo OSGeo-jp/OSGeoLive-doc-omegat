@@ -4654,6 +4654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A complete beginner tutorial can be found on `localhost/geostyler &lt;http://localhost/geostyler&gt;`__.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220811T065257Z" creationid="sanak" creationdate="20220811T065257Z">
+        <seg>完全な初心者向けチュートリアルは `localhost/geostyler &lt;http://localhost/geostyler&gt;`__ にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A complete beginner tutorial can be found on `localhost/geostyler &lt;localhost/geostyler&gt;`__.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T065310Z" creationid="miurahr" creationdate="20201116T235051Z">
