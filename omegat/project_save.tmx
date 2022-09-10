@@ -5950,6 +5950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Afterwards, you should press the Execute button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T045923Z" creationid="sanak" creationdate="20220910T045923Z">
+        <seg>その後、実行ボタンを押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Afterwards, you should press the arrow button, pointing to the right (Execute).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210302T053810Z" creationid="miurahr" creationdate="20210302T053810Z">
@@ -9192,6 +9200,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on it  then enter the user name  ``user`` and the master password  ``user``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T045512Z" creationid="sanak" creationdate="20220910T045512Z">
+        <seg>クリックしてユーザ名 ``user`` とマスタパスワード ``user`` を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on it, and then click “Open”.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210303T170500Z" creationid="miurahr" creationdate="20201103T072355Z">
@@ -9428,6 +9444,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T225741Z" creationid="miurahr" creationdate="20201221T225741Z">
         <seg>チェックマークが表示されるように、メニュー項目 "Editable" をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on the plus at left of ``Tables`` to expand it, you can see all the tables contained within this schema.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T045731Z" creationid="sanak" creationdate="20220910T045731Z">
+        <seg>``Tables`` の左側にあるプラスをクリックして展開すると、このスキーマに含まれるすべてのテーブルを見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10052,6 +10076,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210219T013505Z" creationid="miurahr" creationdate="20201103T051426Z">
         <seg>背景レイヤの設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Connect to Natural Earth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T044531Z" creationid="sanak" creationdate="20220910T044531Z">
+        <seg>Natural Earthへの接続</seg>
       </tuv>
     </tu>
     <tu>
@@ -11328,6 +11360,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Depending on the version of OSGeoLive you are using (ISO or VMDK), you will not find the same clients available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T044939Z" creationid="sanak" creationdate="20220910T044752Z">
+        <seg>利用中のOSGeoLiveのバージョン(ISO または VMDK)によっては、同じクライアントが利用できない場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deploys the Postgis item, then the NaturalEarth item.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T044007Z" creationid="miurahr" creationdate="20201108T044007Z">
@@ -11620,6 +11660,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Dmitry Baryshnikov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do it for the ``natural_earth2`` database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T045614Z" creationid="sanak" creationdate="20220910T045614Z">
+        <seg>データベース ``natural_earth2`` に対して実行してみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13008,10 +13056,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Executing a SQL query from pgAdmin (VMDK only)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T050252Z" creationid="sanak" creationdate="20220910T050252Z">
+        <seg>pgAdminからのSQLクエリの実行 (VMDKのみ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Executing a SQL query from pgAdmin III</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T002657Z" creationid="miurahr" creationdate="20201117T002657Z">
         <seg>pgAdmin IIIからのSQLクエリーの実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Executing a SQL query from phpPgAdmin (ISO &amp; VMDK)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T045750Z" creationid="sanak" creationdate="20220910T045750Z">
+        <seg>phpPgAdminからのSQLクエリの実行 (ISO &amp; VMDK)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13548,6 +13612,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T075223Z" creationid="miurahr" creationdate="20201103T072349Z">
         <seg>**sample.osm** ファイルを探します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find the shapefile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T044655Z" creationid="sanak" creationdate="20220910T044655Z">
+        <seg>シェープファイルを見つける</seg>
       </tuv>
     </tu>
     <tu>
@@ -15960,10 +16032,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Get to know pgAdmin (VMDK only)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T050030Z" creationid="sanak" creationdate="20220910T050030Z">
+        <seg>pgAdminを知る (VMDKのみ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Get to know pgAdmin III</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T002518Z" creationid="miurahr" creationdate="20201117T002518Z">
         <seg>pgAdmin IIIについて知る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get to know phpPgAdmin (ISO &amp; VMDK)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T045145Z" creationid="sanak" creationdate="20220910T045145Z">
+        <seg>phpPgAdminを知る (ISO &amp; VMDK)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17985,6 +18073,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Import a shapefile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T044751Z" creationid="sanak" creationdate="20220910T044751Z">
+        <seg>シェープファイルのインポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Import all WFS feature_types as foreign tables with one command.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201221T152016Z" creationid="miurahr" creationdate="20201221T152016Z">
@@ -18229,6 +18325,14 @@
       </tuv>
       <tuv lang="ja" changeid="smellman" changedate="20201101T105651Z" creationid="smellman" creationdate="20201101T105651Z">
         <seg>また、OSGeoメンバーのプロジェクトをサポートするコンサルタント会社も世界中に多数存在します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In both versions, you can use the graphical database client phpPgAdmin.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T045208Z" creationid="sanak" creationdate="20220910T045208Z">
+        <seg>どちらのバージョンでも、グラフィカルなデータベースクライアントphpPgAdminを使用することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23396,6 +23500,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>My First PostGIS layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T044602Z" creationid="sanak" creationdate="20220910T044602Z">
+        <seg>最初のPostGISレイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NASA DIF 9.7</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T030357Z" creationid="miurahr" creationdate="20201220T030357Z">
@@ -23520,6 +23632,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201220T013433Z" creationid="miurahr" creationdate="20201220T013433Z">
         <seg>Natural Earth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Natural Earth Layers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T044539Z" creationid="sanak" creationdate="20220910T044539Z">
+        <seg>Natural Earthレイヤ</seg>
       </tuv>
     </tu>
     <tu>
@@ -28720,6 +28840,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>QGIS Manager Preview</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T044622Z" creationid="sanak" creationdate="20220910T044622Z">
+        <seg>QGISマネージャプレビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QGIS Open project</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220811T120306Z" creationid="sanak" creationdate="20220811T120306Z">
@@ -30405,6 +30533,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220811T121007Z" creationid="sanak" creationdate="20220811T121007Z">
         <seg>SHOWALL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SIDS data mapped</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T044821Z" creationid="sanak" creationdate="20220910T044821Z">
+        <seg>SIDSデータのマッピング</seg>
       </tuv>
     </tu>
     <tu>
@@ -33932,6 +34068,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ISO version has the ``phpPgAdmin`` client which offers the same core functionality.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T045116Z" creationid="sanak" creationdate="20220910T045116Z">
+        <seg>ISO版には ``phpPgAdmin`` クライアントがあり、同じコア機能を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Interfaces presented above shows:</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210102T131432Z" creationid="miurahr" creationdate="20201116T131949Z">
@@ -35960,6 +36104,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T143455Z" creationid="miurahr" creationdate="20210214T143455Z">
         <seg>クエリー結果は次のようなイメージです:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The red "X" on the  ``PostgreSQL`` server denotes that you haven't been yet connected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T045411Z" creationid="sanak" creationdate="20220910T045411Z">
+        <seg>``PostgreSQL`` サーバーの赤い "X" は、まだ接続されていないことを意味します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38961,6 +39113,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>経路のジオメトリを出力するために、結果を道路のジオメトリにリンクさせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To perform a query on the database, click back on the ``natural_earth2`` database then press the ``SQL`` button from the main toolbar (the one at the left with the database symbol).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T045900Z" creationid="sanak" creationdate="20220910T045900Z">
+        <seg>データベースにクエリを実行するには、 ``natural_earth2`` データベースをクリックして戻り、メインツールバーの ``SQL`` ボタン (左側のデータベースシンボルのあるボタン) を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42695,6 +42855,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can connect, by clicking, on plus sign at the left of the name of a database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T045546Z" creationid="sanak" creationdate="20220910T045546Z">
+        <seg>データベース名の左にあるプラス記号をクリックすると、接続することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can connect, by double clicking, on the name of a database.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T002626Z" creationid="miurahr" creationdate="20201117T002626Z">
@@ -42991,6 +43159,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can find and launch phpPgAdmin from the Databases folder, existing on the OSGeoLive Desktop.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T045313Z" creationid="sanak" creationdate="20220910T045313Z">
+        <seg>OSGeoLiveのデスクトップにあるDatabasesフォルダからphpPgAdminを起動することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can find more OpenLayers information here:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T021511Z" creationid="miurahr" creationdate="20201108T021511Z">
@@ -43251,6 +43427,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210302T053620Z" creationid="miurahr" creationdate="20210302T053620Z">
         <seg>赤いXが消え、左側に "&gt;" が表示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can see now that there is only one schema in this database called ``public``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T045655Z" creationid="sanak" creationdate="20220910T045655Z">
+        <seg>このデータベースには ``public`` という名前のスキーマが一つだけ存在することが分かります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45331,6 +45515,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T125251Z" creationid="miurahr" creationdate="20210208T125251Z">
         <seg>``invgeod`` はすべてのプラットフォームで利用できるわけではありません。この場合、-Iオプションを指定してgeodを呼び出してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>``pgAdmin`` is the official client for PostgreSQL, however, for technical reasons, it can't do in the ISO, so it is only available in the VMDK version.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T045043Z" creationid="sanak" creationdate="20220910T045043Z">
+        <seg>``pgAdmin`` はPostgreSQLの公式クライアントですが、技術的な理由でISOでは利用できないため、VMDK版でのみ利用可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51735,6 +51927,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>pgAdmin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T050150Z" creationid="sanak" creationdate="20220910T050150Z">
+        <seg>pgAdmin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pgAdmin III lets you use SQL to manipulate your data tables.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T002544Z" creationid="miurahr" creationdate="20201117T002544Z">
@@ -51891,6 +52091,38 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>phaf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>phpPgAdmin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T045519Z" creationid="sanak" creationdate="20220910T045519Z">
+        <seg>phpPgAdmin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>phpPgAdmin lets you use SQL to manipulate your data tables.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T045224Z" creationid="sanak" creationdate="20220910T045224Z">
+        <seg>phpPgAdminでは、SQLを使用してデータテーブルを操作することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>phpPgAdmin main</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T045334Z" creationid="sanak" creationdate="20220910T045334Z">
+        <seg>phpPgAdminメイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>phpPgAdmin offers the capability of executing queries to a relational database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T045805Z" creationid="sanak" creationdate="20220910T045805Z">
+        <seg>phpPgAdminは、リレーショナルデータベースへのクエリを実行する機能を提供します。</seg>
       </tuv>
     </tu>
     <tu>
