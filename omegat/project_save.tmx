@@ -4614,6 +4614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A basic word map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T023900Z" creationid="sanak" creationdate="20220910T023828Z">
+        <seg>基本的な世界地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A browser based client</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T041542Z" creationid="miurahr" creationdate="20201103T041542Z">
@@ -5558,10 +5566,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adding a NetCDF store</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T023944Z" creationid="sanak" creationdate="20220910T023944Z">
+        <seg>NetCDF ストアの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adding a New Tileset and Displaying in OpenLayers</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T041821Z" creationid="miurahr" creationdate="20210215T041821Z">
         <seg>新しいタイルセットを追加してOpenLayersに表示する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adding a Style to GeoServer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T024029Z" creationid="sanak" creationdate="20220910T024029Z">
+        <seg>GeoServerへのスタイル追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -7642,6 +7666,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>Bishop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blue Oceans</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T023746Z" creationid="sanak" creationdate="20220910T023746Z">
+        <seg>ブルーオーシャン</seg>
       </tuv>
     </tu>
     <tu>
@@ -11152,6 +11184,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Default Styling in uDig</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T023657Z" creationid="sanak" creationdate="20220910T023657Z">
+        <seg>uDigのデフォルトスタイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Defaults for settings are:</seg>
       </tuv>
       <tuv lang="ja">
@@ -11180,6 +11220,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210219T015024Z" creationid="miurahr" creationdate="20201117T003032Z">
         <seg>外部サーバに接続するときに使用するユーザを定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defining a nicer land color</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T023837Z" creationid="sanak" creationdate="20220910T023826Z">
+        <seg>より美しい土地の色の定義</seg>
       </tuv>
     </tu>
     <tu>
@@ -13348,6 +13396,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T053207Z" creationid="miurahr" creationdate="20210201T053107Z">
         <seg>ぬりつぶし: ぬりつぶしをオフにするには、タブ  :guilabel:`Fill` のチェックボックス   :guilabel:`enable/disable fill` のチェックをはずす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filling in the New Store page</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T023628Z" creationid="sanak" creationdate="20220910T023427Z">
+        <seg>新規ストアページの入力</seg>
       </tuv>
     </tu>
     <tu>
@@ -33788,6 +33844,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Layer list window</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T023707Z" creationid="sanak" creationdate="20220910T023707Z">
+        <seg>レイヤリストウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Learn OSM guide at the link above shows step by step how to navigate the OpenStreetMap website, view and print maps, and sign up for a user account.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052203Z" creationid="miurahr" creationdate="20201102T052203Z">
@@ -33844,10 +33908,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Natural Earth Datastore</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T024006Z" creationid="sanak" creationdate="20220910T023444Z">
+        <seg>Natural Earthデータストア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Netherlands</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T062202Z" creationid="miurahr" creationdate="20201102T062202Z">
         <seg>オランダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The New Store page</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T023547Z" creationid="sanak" creationdate="20220910T023300Z">
+        <seg>新規ストアページ</seg>
       </tuv>
     </tu>
     <tu>
@@ -34056,6 +34136,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>SQLite で OGC の仕様に準拠した空間データを扱えるようにしたものが SpatiaLite の拡張です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Style Pane</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T023739Z" creationid="sanak" creationdate="20220910T023739Z">
+        <seg>スタイルペイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -35360,6 +35448,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T153137Z" creationid="miurahr" creationdate="20201221T034756Z">
         <seg>ZOO カーネルは、動的ライブラリをロードして、オンデマンドのWebサービスとして処理することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The layer publishing page</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T023534Z" creationid="sanak" creationdate="20220910T023534Z">
+        <seg>レイヤ公開ページ</seg>
       </tuv>
     </tu>
     <tu>
