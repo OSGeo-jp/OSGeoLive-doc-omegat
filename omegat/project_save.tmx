@@ -18740,6 +18740,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this case we will be using the tile images provided by MapProxy on the live dvd.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T042212Z" creationid="sanak" creationdate="20220910T042212Z">
+        <seg>この例では、LiveDVDでMapProxyから提供されたタイルイメージを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this case we will be using the tile images provided by TileStache on the live dvd.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T142130Z" creationid="sanak" creationdate="20210214T085307Z">
@@ -21336,6 +21344,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T230506Z" creationid="miurahr" creationdate="20210303T230506Z">
         <seg>ウィジェットの拡張 やPythonのライブラリ、cesium-jsをつかった例の、 "CesiumWidget Interact-Example" をクリックしましょう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's create a map of Firenze, Italy with an indication of the 2022 FOSS4G conference.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T042130Z" creationid="sanak" creationdate="20220910T042130Z">
+        <seg>では、2022年のFOSS4Gカンファレンスが開催されたイタリア・フィレンツェの地図を作成してみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25740,6 +25756,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On OSGeoLive this can be found under **Geospatial\\Web Services\\MapProxy\\Start MapProxy**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T042007Z" creationid="sanak" creationdate="20220910T042007Z">
+        <seg>OSGeoLiveでは **Geospatial\\Web Services\\MapProxy\\Start MapProxy** にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On Windows run the installer, or on Ubuntu-like Linux systems do the following:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113435Z" creationid="miurahr" creationdate="20201103T113435Z">
@@ -28232,6 +28256,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T025505Z" creationid="miurahr" creationdate="20210303T025505Z">
         <seg>前提知識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prior to running this quick start you should start MapProxy.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T041849Z" creationid="sanak" creationdate="20220910T041534Z">
+        <seg>このクイックスタートを開始する前に、MapProxyを開始します。</seg>
       </tuv>
     </tu>
     <tu>
