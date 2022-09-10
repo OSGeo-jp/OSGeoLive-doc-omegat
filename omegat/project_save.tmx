@@ -5568,8 +5568,8 @@
       <tuv lang="en-US">
         <seg>Adding a NetCDF store</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220910T023944Z" creationid="sanak" creationdate="20220910T023944Z">
-        <seg>NetCDF ストアの追加</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T024037Z" creationid="sanak" creationdate="20220910T023944Z">
+        <seg>NetCDFストアの追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -15340,6 +15340,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T003853Z">
         <seg>GeoServer プロジェクト ホーム - http://geoserver.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoServer Project home - https://geoserver.org/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T024116Z" creationid="sanak" creationdate="20220910T024116Z">
+        <seg>GeoServer プロジェクトホーム - https://geoserver.org/</seg>
       </tuv>
     </tu>
     <tu>
@@ -26744,6 +26752,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T010640Z" creationid="miurahr" creationdate="20201103T010530Z">
         <seg>OpenLayersを使用すると、任意のWebページに動的な地図を簡単に配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenLayers preview of a NetCDF layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T024055Z" creationid="sanak" creationdate="20220910T024055Z">
+        <seg>NetCDFレイヤのOpenLayersプレビュー</seg>
       </tuv>
     </tu>
     <tu>
