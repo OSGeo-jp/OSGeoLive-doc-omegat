@@ -5710,6 +5710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjust raster map colors</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T034732Z" creationid="sanak" creationdate="20220910T034732Z">
+        <seg>Adjust raster map colors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust vector map colors</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210302T170413Z" creationid="sanak" creationdate="20210302T170413Z">
@@ -14275,6 +14283,14 @@
         <seg>From the "Welcome to GRASS GIS " window, select the nc_basic_spm_grass7 dataset for the location, and "user1" for the mapset</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210227T044330Z" creationid="miurahr" creationdate="20201220T034114Z">
+        <seg>"Welcome to GRASS GIS " ウインドウから、ロケーションに nc_basic_spm_grass7 データセット、マップセットに "user1" を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the "Welcome to GRASS GIS" window, select the "nc_basic_spm_grass7" dataset for the location, and "user1" for the mapset</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T033104Z" creationid="sanak" creationdate="20220910T033104Z">
         <seg>"Welcome to GRASS GIS " ウインドウから、ロケーションに nc_basic_spm_grass7 データセット、マップセットに "user1" を選択します。</seg>
       </tuv>
     </tu>
@@ -38021,6 +38037,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will launch GRASS into the `graphical user interface (written in wxPython) &lt;http://localhost/grass/wxGUI.html&gt;`_.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T033218Z" creationid="sanak" creationdate="20220910T033105Z">
+        <seg>GRASS が `(wsPythonで書かれた)グラフィカルユーザインタフェース &lt;http://localhost/grass/wxGUI.html&gt;`_ として起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This will launch a colour palette allowing you to choose a different colour.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T015448Z" creationid="miurahr" creationdate="20201117T015448Z">
@@ -52731,6 +52755,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>scottp dd com au</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T033113Z" creationid="sanak" creationdate="20220910T033113Z">
+        <seg>スクリーンショット</seg>
       </tuv>
     </tu>
     <tu>
