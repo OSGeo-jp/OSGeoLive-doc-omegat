@@ -5912,8 +5912,8 @@
       <tuv lang="en-US">
         <seg>Afterwards a web browser is launched showing the Jupyter Notebook dashboard.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210307T151115Z" creationid="miurahr" creationdate="20210307T151106Z">
-        <seg>Webブラウザが起動し、Jupyterノートブックのダッシュボードが表示されます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T042647Z" creationid="miurahr" creationdate="20210307T151106Z">
+        <seg>Webブラウザが起動し、Jupyter Notebookのダッシュボードが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13962,8 +13962,8 @@
       <tuv lang="en-US">
         <seg>For more information about the jupyter notebook, please refer to the `Jupyter Notebooks official documentation &lt;https://docs.jupyter.org&gt;`__.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220910T040850Z" creationid="sanak" creationdate="20220910T040850Z">
-        <seg>Jypyterノートブックについての詳細は、 `Jupyter ノートブックオフィシャルドキュメント &lt;https://docs.jupyter.org&gt;`__ を参照してください。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T042757Z" creationid="sanak" creationdate="20220910T040850Z">
+        <seg>Jypyter Notebookについての詳細は、 `Jupyter Notebookオフィシャルドキュメント &lt;https://docs.jupyter.org&gt;`__ を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14330,8 +14330,8 @@
       <tuv lang="en-US">
         <seg>From the Jupyter Notebook dashboard you can navigate the directory tree, start new notebooks, create files and directories, as well as rename, delete and upload files.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220910T040755Z" creationid="miurahr" creationdate="20210307T151108Z">
-        <seg>Jupyterノートブックのダッシュボードから、ディレクトリツリーの移動、新しいノートブックの開始、ファイルやディレクトリの作成、ファイルの名前変更、削除、アップロードが可能です。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T042654Z" creationid="miurahr" creationdate="20210307T151108Z">
+        <seg>Jupyter Notebookのダッシュボードから、ディレクトリツリーの移動、新しいノートブックの開始、ファイルやディレクトリの作成、ファイルの名前変更、削除、アップロードが可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20742,24 +20742,24 @@
       <tuv lang="en-US">
         <seg>Jupyter Notebook</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T230048Z" creationid="miurahr" creationdate="20210303T225012Z">
-        <seg>Jupyterノートブック</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T042839Z" creationid="miurahr" creationdate="20210303T225012Z">
+        <seg>Jupyter Notebook</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Jupyter Notebook Quickstart</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T225932Z" creationid="miurahr" creationdate="20210303T225915Z">
-        <seg>Jupyterノートブック・クイックスタート</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T042606Z" creationid="miurahr" creationdate="20210303T225915Z">
+        <seg>Jupyter Notebook クイックスタート</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Jupyter Notebooks on OSGeoLive can use geospatial functions from:</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220806T022111Z" creationid="sanak" creationdate="20220806T022111Z">
-        <seg>OSGeoLive上のJupyterノートブックは、以下の地理空間関数を使用可能:</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T042914Z" creationid="sanak" creationdate="20220806T022111Z">
+        <seg>OSGeoLive上のJupyter Notebookは、以下の地理空間関数を使用可能:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21574,8 +21574,8 @@
       <tuv lang="en-US">
         <seg>Load a jupyter notebook</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210307T151005Z" creationid="miurahr" creationdate="20210307T151005Z">
-        <seg>Jupyterノートブックをロードする</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T042639Z" creationid="miurahr" creationdate="20210307T151005Z">
+        <seg>Jupyter Notebookをロードする</seg>
       </tuv>
     </tu>
     <tu>
@@ -24118,8 +24118,8 @@
       <tuv lang="en-US">
         <seg>Notebooks can be shared with others on GitHub, Dropbox, and the `Jupyter Notebook Viewer &lt;https://nbviewer.org&gt;`__.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220806T021558Z" creationid="sanak" creationdate="20220806T021434Z">
-        <seg>ノートブックはGitHub、Dropbox、 `Jupyterノートブックビューア &lt;https://nbviewer.org&gt;`__ で他のユーザに共有できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T042851Z" creationid="sanak" creationdate="20220806T021434Z">
+        <seg>ノートブックはGitHub、Dropbox、 `Jupyter Notebookビューア &lt;https://nbviewer.org&gt;`__ で他のユーザに共有できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29018,8 +29018,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Quick introduction on how to use the Jupyter Notebooks interface: `Get started with Jupyter Notebook &lt;https://docs.jupyter.org/en/latest/content-quickstart.html&gt;`__.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220910T041158Z" creationid="sanak" creationdate="20220910T041158Z">
-        <seg>Jupyterノートブックのインターフェイスの使い方を簡単に紹介: `Get started with Jupyter Notebook &lt;https://docs.jupyter.org/en/latest/content-quickstart.html&gt;`__.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T042823Z" creationid="sanak" creationdate="20220910T041158Z">
+        <seg>Jupyter Notebookのインターフェイスの使い方を簡単に紹介: `Get started with Jupyter Notebook &lt;https://docs.jupyter.org/en/latest/content-quickstart.html&gt;`__.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32651,8 +32651,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Start a Jupyter Notebook server</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210307T151002Z" creationid="miurahr" creationdate="20210307T151002Z">
-        <seg>Jupyterノートブックサーバーを起動する</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T042621Z" creationid="miurahr" creationdate="20210307T151002Z">
+        <seg>Jupyter Notebookサーバーを起動する</seg>
       </tuv>
     </tu>
     <tu>
@@ -33910,8 +33910,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210303T225614Z" creationid="miurahr" creationdate="20210303T225125Z">
-        <seg>Jupyterノートブックは、ライブコード、数式、視覚化、および説明テキストを含むドキュメントを作成および共有できるWebアプリケーションです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T042614Z" creationid="miurahr" creationdate="20210303T225125Z">
+        <seg>Jupyter Notebookは、ライブコード、数式、視覚化、および説明テキストを含むドキュメントを作成および共有できるWebアプリケーションです。</seg>
       </tuv>
     </tu>
     <tu>
