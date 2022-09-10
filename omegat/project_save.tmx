@@ -3344,8 +3344,8 @@
       <tuv lang="en-US">
         <seg>*Outputs (confirm the outputs pressing the "add" button):*</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210303T142058Z" creationid="miurahr" creationdate="20201122T025402Z">
-        <seg>*出力("add" ボタンを押して出力を確認):*</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T040035Z" creationid="miurahr" creationdate="20201122T025402Z">
+        <seg>*Outputs ("add" ボタンを押して出力を確認):*</seg>
       </tuv>
     </tu>
     <tu>
@@ -11354,8 +11354,8 @@
       <tuv lang="en-US">
         <seg>Description (optional): conversion from resistance to tempera</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220811T075338Z" creationid="sanak" creationdate="20220811T075338Z">
-        <seg>Description (optional): conversion from resistance to tempera</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T040150Z" creationid="sanak" creationdate="20220811T075338Z">
+        <seg>Description (オプション): conversion from resistance to tempera</seg>
       </tuv>
     </tu>
     <tu>
@@ -39687,8 +39687,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Unit of measure: °C</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T025412Z" creationid="miurahr" creationdate="20201122T025412Z">
-        <seg>単位:°C</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T040045Z" creationid="miurahr" creationdate="20201122T025412Z">
+        <seg>Unit of measure:°C</seg>
       </tuv>
     </tu>
     <tu>
@@ -52273,8 +52273,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>quality index check (optional): Between / from -40 to +60</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201122T025438Z" creationid="miurahr" creationdate="20201122T025438Z">
-        <seg>品質指数チェック(オプション):-40から+60まで</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T040238Z" creationid="miurahr" creationdate="20201122T025438Z">
+        <seg>quality index check (オプション):-40から+60まで</seg>
       </tuv>
     </tu>
     <tu>
