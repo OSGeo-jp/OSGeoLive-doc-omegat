@@ -13960,6 +13960,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more information about the jupyter notebook, please refer to the `Jupyter Notebooks official documentation &lt;https://docs.jupyter.org&gt;`__.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T040850Z" creationid="sanak" creationdate="20220910T040850Z">
+        <seg>Jypyterノートブックについての詳細は、 `Jupyter ノートブックオフィシャルドキュメント &lt;https://docs.jupyter.org&gt;`__ を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more information about the jupyter notebook, please refer to the `Jupyter Notebooks official documentation &lt;https://jupyter.readthedocs.io/&gt;`_.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210307T151850Z" creationid="miurahr" creationdate="20210307T151850Z">
@@ -14322,8 +14330,8 @@
       <tuv lang="en-US">
         <seg>From the Jupyter Notebook dashboard you can navigate the directory tree, start new notebooks, create files and directories, as well as rename, delete and upload files.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210307T151108Z" creationid="miurahr" creationdate="20210307T151108Z">
-        <seg>From the Jupyter Notebook dashboard you can navigate the directory tree, start new notebooks, create files and directories, as well as rename, delete and upload files.</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T040755Z" creationid="miurahr" creationdate="20210307T151108Z">
+        <seg>Jupyterノートブックのダッシュボードから、ディレクトリツリーの移動、新しいノートブックの開始、ファイルやディレクトリの作成、ファイルの名前変更、削除、アップロードが可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28972,6 +28980,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quick introduction on how to use the Jupyter Notebooks interface: `Get started with Jupyter Notebook &lt;https://docs.jupyter.org/en/latest/content-quickstart.html&gt;`__.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T041158Z" creationid="sanak" creationdate="20220910T041158Z">
+        <seg>Jupyterノートブックのインターフェイスの使い方を簡単に紹介: `Get started with Jupyter Notebook &lt;https://docs.jupyter.org/en/latest/content-quickstart.html&gt;`__.</seg>
       </tuv>
     </tu>
     <tu>
