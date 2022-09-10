@@ -5654,6 +5654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additionally, a WFS (2.0.0, 1.1.0 and 1.0.0) is configured that allows to access the raw vector data, backed by shapefiles, in GML format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T015603Z" creationid="sanak" creationdate="20220910T015429Z">
+        <seg>さらに、シェイプファイル形式の生のベクターデータにGML形式でアクセスできるWFS (2.0.0, 1.1.0, 1.0.0)が構成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additionally, over 100 community supplied modules and toolboxes are available for free from the Add-on repository.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T011126Z" creationid="miurahr" creationdate="20201103T011126Z">
@@ -13656,6 +13664,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For additional configuration examples including raster data, you can import the workspace *deegree-workspace-utah* through the workspace management (internet connection is required).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T015811Z" creationid="sanak" creationdate="20220910T015811Z">
+        <seg>ラスターデータを含む追加設定例については、ワークスペース管理からワークスペース *deegree-workspace-utah* をインポートすることができます（インターネット接続が必要です）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For additional information on the distribution of each program review their license as indicated on the page for each program.</seg>
       </tuv>
       <tuv lang="ja">
@@ -19576,6 +19592,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T135323Z" creationid="miurahr" creationdate="20201116T135323Z">
         <seg>すべてのAnnex Iデータテーマ用のトランザクションWFS(2.0.0および1.1.0)と、これらのAnnex Iデータテーマの3つのレイヤを提供するWMS(1.3.0および1.1.1)で構成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It contains a WMS configuration (1.3.0 and 1.1.1) consisting of vector layers and a variety of render styles.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T015610Z" creationid="sanak" creationdate="20220910T015347Z">
+        <seg>ベクターレイヤーと様々なレンダースタイルからなるWMS設定 (1.3.0と1.1.1)が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
