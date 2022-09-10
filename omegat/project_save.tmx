@@ -25636,6 +25636,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Observed property: `urn:ogc:def:parameter:x-istsos:1.0:meteo:air:temperature`</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T035255Z" creationid="sanak" creationdate="20220910T035255Z">
+        <seg>Observed property: `urn:ogc:def:parameter:x-istsos:1.0:meteo:air:temperature`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Observed property: urn:ogc:def:parameter:x-istsos:1.0:meteo:air:temperature</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T025408Z" creationid="miurahr" creationdate="20201122T025408Z">
