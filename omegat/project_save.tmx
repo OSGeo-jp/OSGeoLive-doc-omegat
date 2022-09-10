@@ -8608,8 +8608,8 @@
       <tuv lang="en-US">
         <seg>Choose *'Start deegree'* from the :menuselection:`Geospatial --&gt; Web Services --&gt; deegree` menu.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T082805Z" creationid="miurahr" creationdate="20201116T135114Z">
-        <seg>:menuselection:`Geospatial --&gt; Web Services --&gt; deegree` メニューから *'deegreeを開始'* を選択します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T013937Z" creationid="miurahr" creationdate="20201116T135114Z">
+        <seg>:menuselection:`Geospatial --&gt; Web Services --&gt; deegree` メニューから *'Start deegree'* を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21406,8 +21406,8 @@
       <tuv lang="en-US">
         <seg>Load a workspace</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T135201Z" creationid="miurahr" creationdate="20201116T135201Z">
-        <seg>作業フォルダを読み込む</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T014643Z" creationid="miurahr" creationdate="20201116T135201Z">
+        <seg>ワークスペースを読み込む</seg>
       </tuv>
     </tu>
     <tu>
@@ -27888,6 +27888,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210218T225241Z" creationid="miurahr" creationdate="20201116T135302Z">
         <seg>*deegree-inspire-workspace* の開始を押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press start on the *deegree-workspace-utah-light*.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T015143Z" creationid="sanak" creationdate="20220910T014418Z">
+        <seg>*deegree-workspace-utah-light* の Start を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34780,6 +34788,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The demo workspace contains a web mapping setup based on data from the state of Utah.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T015333Z" creationid="sanak" creationdate="20220910T015333Z">
+        <seg>デモ用ワークスペースには、ユタ州のデータを元にしたWebマッピングのセットアップが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The demonstration instance is filled with ENVISAT MERIS scenes.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T123218Z" creationid="miurahr" creationdate="20201116T123218Z">
@@ -37183,8 +37199,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>This is a simple web-based GUI for editing the configuration files of the *deegree workspace*.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210117T121855Z" creationid="miurahr" creationdate="20201116T135156Z">
-        <seg>これは、 *deegree 作業フォルダ* の設定ファイルを編集するためのシンプルなWebベースのGUIです。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T014633Z" creationid="miurahr" creationdate="20201116T135156Z">
+        <seg>これは、 *deegree ワークスペース* の設定ファイルを編集するためのシンプルなWebベースのGUIです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37967,8 +37983,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Those configurations are stored in the workspace.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T135219Z" creationid="miurahr" creationdate="20201116T135219Z">
-        <seg>これらの設定は作業フォルダに保存されています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T014657Z" creationid="miurahr" creationdate="20201116T135219Z">
+        <seg>これらの設定はワークスペースに保存されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41103,8 +41119,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Web-Services: WFS, WMS, WMTS, CSW, WPS</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210101T155839Z" creationid="sanak" creationdate="20210101T155839Z">
-        <seg>Webサービス: WFS, WMS, WMTS, CSW, WPS</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T014559Z" creationid="sanak" creationdate="20210101T155839Z">
+        <seg>Webサービス: WFS、WMS、WMTS、CSW、WPS</seg>
       </tuv>
     </tu>
     <tu>
@@ -42103,8 +42119,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You are now in the workspace management of the running *deegree* instance.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210117T121927Z" creationid="miurahr" creationdate="20201116T135238Z">
-        <seg>これで、実行中の *deegree* インスタンスの作業フォルダ管理が開始されました。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T014820Z" creationid="miurahr" creationdate="20201116T135238Z">
+        <seg>実行中の *deegree* インスタンスのワークスペース管理が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42897,8 +42913,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You can see which workspace is currently active (only one can be active at a time) workspace, inactive locally available workspaces and offical workspaces which can be imported if you have a internet connection.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201116T135247Z" creationid="miurahr" creationdate="20201116T135247Z">
-        <seg>現在アクティブな作業フォルダ(一度に1つしかアクティブにできない)、非アクティブなローカルで利用可能なワークスペース、およびインターネット接続がある場合にインポートできるオフラインのワークスペースを確認できます。作業フォルダ</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220910T015011Z" creationid="miurahr" creationdate="20201116T135247Z">
+        <seg>現在アクティブなワークスペース(一度に1つしかアクティブにできない)、非アクティブなローカルで利用可能なワークスペース、およびインターネット接続がある場合にインポートできる公式のワークスペースを確認できます。</seg>
       </tuv>
     </tu>
     <tu>
