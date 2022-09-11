@@ -41,7 +41,7 @@ msgstr "利用可能なコンポーネント:"
 
 #: ../../build/doc/quickstart/deegree_quickstart.rst:30
 msgid "Web-Services: WFS, WMS, WMTS, CSW, WPS"
-msgstr "Webサービス: WFS, WMS, WMTS, CSW, WPS"
+msgstr "Webサービス: WFS、WMS、WMTS、CSW、WPS"
 
 #: ../../build/doc/quickstart/deegree_quickstart.rst:32
 msgid ""
@@ -66,8 +66,8 @@ msgid ""
 "Services --> deegree` menu. The application will take a few moments to start"
 " up."
 msgstr ""
-":menuselection:`Geospatial --> Web Services --> deegree` メニューから "
-"*'deegreeを開始'* を選択します。アプリケーションの起動には少し時間がかかります。"
+":menuselection:`Geospatial --> Web Services --> deegree` メニューから *'Start "
+"deegree'* を選択します。アプリケーションの起動には少し時間がかかります。"
 
 #: ../../build/doc/quickstart/deegree_quickstart.rst:45
 msgid ""
@@ -77,12 +77,12 @@ msgid ""
 "workspace*."
 msgstr ""
 "Firefoxは *deegree3サービス コンソール* を開きます。(ブラウザで "
-"http://localhost:8033)を選択して手動で開くこともできます。これは、 *deegree 作業フォルダ* "
+"http://localhost:8033)を選択して手動で開くこともできます。これは、 *deegree ワークスペース* "
 "の設定ファイルを編集するためのシンプルなWebベースのGUIです。"
 
 #: ../../build/doc/quickstart/deegree_quickstart.rst:49
 msgid "Load a workspace"
-msgstr "作業フォルダを読み込む"
+msgstr "ワークスペースを読み込む"
 
 #: ../../build/doc/quickstart/deegree_quickstart.rst:51
 msgid ""
@@ -90,7 +90,7 @@ msgid ""
 "webservices. Those configurations are stored in the workspace."
 msgstr ""
 "*deegree3* はすべての *deegree3* "
-"ベースのウェブサービスに準拠した設定を使用しています。これらの設定は作業フォルダに保存されています。"
+"ベースのウェブサービスに準拠した設定を使用しています。これらの設定はワークスペースに保存されています。"
 
 #: ../../build/doc/quickstart/deegree_quickstart.rst:53
 msgid ""
@@ -101,12 +101,12 @@ msgid ""
 "workspaces and offical workspaces which can be imported if you have a "
 "internet connection."
 msgstr ""
-"含まれているすぐに使用できるワークスペースを管理するには、左側の *'workspaces'* をクリックします。これで、実行中の *deegree* "
-"インスタンスの作業フォルダ管理が開始されました。現在アクティブな作業フォルダ(一度に1つしかアクティブにできない)、非アクティブなローカルで利用可能なワークスペース、およびインターネット接続がある場合にインポートできるオフラインのワークスペースを確認できます。作業フォルダ"
+"含まれているすぐに使用できるワークスペースを管理するには、左側の *'workspaces'* をクリックします。実行中の *deegree* "
+"インスタンスのワークスペース管理が表示されます。現在アクティブなワークスペース(一度に1つしかアクティブにできない)、非アクティブなローカルで利用可能なワークスペース、およびインターネット接続がある場合にインポートできる公式のワークスペースを確認できます。"
 
 #: ../../build/doc/quickstart/deegree_quickstart.rst:55
 msgid "Press start on the *deegree-workspace-utah-light*."
-msgstr ""
+msgstr "*deegree-workspace-utah-light* の Start を押します。"
 
 #: ../../build/doc/quickstart/deegree_quickstart.rst:57
 msgid ""
@@ -116,6 +116,9 @@ msgid ""
 "1.1.0 and 1.0.0) is configured that allows to access the raw vector data, "
 "backed by shapefiles, in GML format."
 msgstr ""
+"デモ用ワークスペースには、ユタ州のデータを元にしたWebマッピングのセットアップが含まれています。ベクターレイヤーと様々なレンダースタイルからなるWMS設定"
+" (1.3.0と1.1.1)が含まれています。さらに、シェイプファイル形式の生のベクターデータにGML形式でアクセスできるWFS (2.0.0, "
+"1.1.0, 1.0.0)が構成されています。"
 
 #: ../../build/doc/quickstart/deegree_quickstart.rst:62
 msgid ""
@@ -123,6 +126,8 @@ msgid ""
 "the workspace *deegree-workspace-utah* through the workspace management "
 "(internet connection is required)."
 msgstr ""
+"ラスターデータを含む追加設定例については、ワークスペース管理からワークスペース *deegree-workspace-utah* "
+"をインポートすることができます（インターネット接続が必要です）"
 
 #: ../../build/doc/quickstart/deegree_quickstart.rst:66
 msgid "View a map"

@@ -272,25 +272,27 @@ msgstr "Coordinates: x: 8.96127 y: 46.02723 z: 344.1"
 
 #: ../../build/doc/quickstart/istsos_quickstart.rst:136
 msgid "*Outputs (confirm the outputs pressing the \"add\" button):*"
-msgstr "*出力(\"add\" ボタンを押して出力を確認):*"
+msgstr "*Outputs (\"add\" ボタンを押して出力を確認):*"
 
 #: ../../build/doc/quickstart/istsos_quickstart.rst:139
 msgid ""
 "Observed property: "
 "`urn:ogc:def:parameter:x-istsos:1.0:meteo:air:temperature`"
 msgstr ""
+"Observed property: "
+"`urn:ogc:def:parameter:x-istsos:1.0:meteo:air:temperature`"
 
 #: ../../build/doc/quickstart/istsos_quickstart.rst:141
 msgid "Unit of measure: °C"
-msgstr "単位:°C"
+msgstr "Unit of measure:°C"
 
 #: ../../build/doc/quickstart/istsos_quickstart.rst:143
 msgid "Description (optional): conversion from resistance to tempera"
-msgstr "Description (optional): conversion from resistance to tempera"
+msgstr "Description (オプション): conversion from resistance to tempera"
 
 #: ../../build/doc/quickstart/istsos_quickstart.rst:145
 msgid "quality index check (optional): Between / from -40 to +60"
-msgstr "品質指数チェック(オプション):-40から+60まで"
+msgstr "quality index check (オプション):-40から+60まで"
 
 #: ../../build/doc/quickstart/istsos_quickstart.rst:149
 msgid "Register the new sensor (procedure) pressing the \"submit\" button."

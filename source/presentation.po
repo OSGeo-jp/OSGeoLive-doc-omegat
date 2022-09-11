@@ -5,7 +5,6 @@
 # 
 # Translators:
 # Toshikazu SETO <tosseto@gmail.com>, 2022
-# Hiroshi Miura <miurahr@northside.tokyo>, 2022
 # Takayuki Nuimura <nuimura@nagoya-u.jp>, 2022
 # MarPetra <mvergaratrejo@gmail.com>, 2022
 # Ko Nagase <nagase@georepublic.co.jp>, 2022
@@ -946,7 +945,7 @@ msgstr "GMT"
 #: ../../build/presentation/revealjs/presentation.rst:921
 #: ../../build/presentation/revealjs/presentation.rst:956
 msgid "Jupyter Notebook"
-msgstr "Jupyterノートブック"
+msgstr "Jupyter Notebook"
 
 #: ../../build/presentation/revealjs/presentation.rst:921
 #: ../../build/presentation/revealjs/presentation.rst:968
