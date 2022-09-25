@@ -64,8 +64,8 @@
       <tuv lang="en-US">
         <seg>(Alternative) If the above command does not work, use the following alternative:</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220925T092337Z" creationid="sanak" creationdate="20220925T092337Z">
-        <seg>(代替) 上記のコマンドが動作しない場合は、以下の代替手段を利用してください:</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T095038Z" creationid="sanak" creationdate="20220925T092337Z">
+        <seg>(代替手段) 上記のコマンドが動作しない場合は、以下の代替手段を利用してください:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9000,6 +9000,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click **OK** when prompted to open the removable media in **File Manager**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T092849Z" creationid="sanak" creationdate="20220925T092849Z">
+        <seg>リムーバブルメディアを **File Manager** で開くよう表示されたら、 **OK** をクリック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click **Render** to start rendering the image.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210214T230555Z" creationid="miurahr" creationdate="20210214T230555Z">
@@ -17569,6 +17577,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If not set, these tools will fail when run.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T095724Z" creationid="sanak" creationdate="20220925T095724Z">
+        <seg>設定されていない場合、これらのツールは実行時に失敗します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If not, refer to the `Installation Guide &lt;https://geonetwork-opensource.org/manuals/trunk/en/install-guide/index.html&gt;`__.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T133122Z" creationid="miurahr" creationdate="20201116T133122Z">
@@ -18313,6 +18329,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In **File Manager**, select **Tools** → **Open Current Folder** in terminal.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T094126Z" creationid="sanak" creationdate="20220925T094126Z">
+        <seg>**File Manager** で **Tools** → **Open Terminal** メニューを選択。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In 2020, the `OGC API &lt;https://ogcapi.ogc.org/&gt;`_ family of standards started to be developed to make it easy for anyone to provide geospatial data to the web.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210117T114319Z" creationid="miurahr" creationdate="20201103T013333Z">
@@ -18936,6 +18960,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T070224Z" creationid="miurahr" creationdate="20201122T021442Z">
         <seg>ターミナルで、次のように入力して **spatialite** でサンプルデータベースを開きます::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the terminal type:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T094151Z" creationid="sanak" creationdate="20220925T094151Z">
+        <seg>ターミナルで以下を入力:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28444,6 +28476,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press ENTER.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T094222Z" creationid="sanak" creationdate="20220925T094222Z">
+        <seg>ENTERを押下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press ESC to zoom out, SPACE / arrow keys to navigate, s for slide notes.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T063923Z" creationid="sanak" creationdate="20220806T063612Z">
@@ -32489,6 +32529,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some tools configured on OSGeoLive rely of "user" to be in the "users" group so they can write into the data directory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T095258Z" creationid="sanak" creationdate="20220925T095025Z">
+        <seg>OSGeoLiveで設定されたいくつかのツールは、データディレクトリへの書き込めるよう、"users"グループに属する"user"ユーザに依存しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sometimes it is a bit hard to see what is going on with layer providing much details.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210201T054309Z" creationid="miurahr" creationdate="20210201T054309Z">
@@ -33269,6 +33317,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220925T085450Z" creationid="sanak" creationdate="20220925T085450Z">
         <seg>ステップ3: 仮想マシンの起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Step 4 : Set OSGeoLive user</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T094325Z" creationid="sanak" creationdate="20220925T094325Z">
+        <seg>ステップ4: OSGeoLiveユーザの設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -45827,6 +45883,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220910T045043Z" creationid="sanak" creationdate="20220910T045043Z">
         <seg>``pgAdmin`` はPostgreSQLの公式クライアントですが、技術的な理由でISOでは利用できないため、VMDK版でのみ利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>``sudo ./VBoxLinuxAdditions.run``</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T094155Z" creationid="sanak" creationdate="20220925T094155Z">
+        <seg>``sudo ./VBoxLinuxAdditions.run``</seg>
       </tuv>
     </tu>
     <tu>
