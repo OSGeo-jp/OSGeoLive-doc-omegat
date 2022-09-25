@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**CPU**: Any CPU will do, but a processor which supports "Virtualization Technology" will be faster.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T073635Z" creationid="sanak" creationdate="20220925T073224Z">
+        <seg>**CPU**: どのようなCPUでも構いませんが、"仮想化技術" をサポートしたプロセッサの方が高速です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**CRAN packages available:** https://cran.r-project.org/web/packages/available_packages_by_name.html</seg>
       </tuv>
       <tuv lang="ja">
@@ -802,6 +810,14 @@
       </tuv>
       <tuv lang="ja">
         <seg>**GitHub:** `&lt;https://github.com/geomajas/geomajas-gwt2-quickstart-application&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Hardware**</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T072529Z" creationid="sanak" creationdate="20220925T072529Z">
+        <seg>**ハードウェア**</seg>
       </tuv>
     </tu>
     <tu>
@@ -1338,6 +1354,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201103T072159Z" creationid="sanak" creationdate="20201103T072159Z">
         <seg>**クエリ**:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**RAM**: Minimum 2 GB.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T072843Z" creationid="sanak" creationdate="20220925T072609Z">
+        <seg>**RAM**: 最低2GB。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1882,6 +1906,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T004209Z" creationid="miurahr" creationdate="20201108T004209Z">
         <seg>**ソース**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Spare**: Minimum 20 GB Hard Disk Space.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T072905Z" creationid="sanak" creationdate="20220925T072833Z">
+        <seg>**予備**: 最低20GBのハードディスクスペースが必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8554,6 +8586,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201122T052811Z" creationid="miurahr" creationdate="20201122T052811Z">
         <seg>チャート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Check if your computer supports `Virtualization Technology &lt;https://www.intel.com/content/www/us/en/support/articles/000005486/processors.html&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T073736Z" creationid="sanak" creationdate="20220925T073546Z">
+        <seg>お手持ちのコンピュータが `仮想化技術 &lt;https://www.intel.com/content/www/us/en/support/articles/000005486/processors.html&gt;`_ に対応しているか確認してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23332,6 +23372,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Most machines produced after 2010 will meet these requirements.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T075512Z" creationid="sanak" creationdate="20220925T075512Z">
+        <seg>2010年以降に製造されたマシンのほとんどが、この要件を満たしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Most machines produced in the last 4-5 years will meet these requirements.</seg>
       </tuv>
       <tuv lang="ja">
@@ -32193,10 +32241,26 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So a total of 2 GB is recommended for a smooth operation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T073331Z" creationid="sanak" creationdate="20220925T072758Z">
+        <seg>このため、スムーズに動作させるために合計2GBを推奨します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So a total of 2 GB will be needed for smooth operation.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113338Z" creationid="miurahr" creationdate="20201103T113338Z">
         <seg>したがって、スムーズな動作には合計2GBが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So a total of 20 GB is a good recommendation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T073358Z" creationid="sanak" creationdate="20220925T073141Z">
+        <seg>このため、合計20GBを推奨します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34160,6 +34224,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201102T052203Z" creationid="miurahr" creationdate="20201102T052203Z">
         <seg>上記のリンクにある『Learn OSM』ガイドでは、OpenStreetMapのWebサイトの操作方法、マップの表示と印刷方法、ユーザアカウントへのサインアップ方法を順を追って説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Lubuntu system runs well with 1 GB of RAM, and you'll need to keep at least the same amount of memory for some of your applications (such as GeoServer).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T072734Z" creationid="sanak" creationdate="20220925T072734Z">
+        <seg>Lubuntuシステムは1GBのRAMでよく動作しますが、いくつかのアプリケーション(GeoServerなど)は少なくとも同じ量のメモリーを確保する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36628,6 +36700,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The virtual disk file (vmdk) from :doc:`live.osgeo.org &lt;../download&gt;`  unzips to almost 10 GB.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T073049Z" creationid="sanak" creationdate="20220925T073049Z">
+        <seg>:doc:`live.osgeo.org &lt;../download&gt;` の仮想ディスクファイル(vmdk)は、解凍するとだいたい10GBとなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The virtual machine image format for Hyper-V differs from the VirtualBox download.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210206T165219Z" creationid="miurahr" creationdate="20210206T165219Z">
@@ -36894,8 +36974,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Then unzip the downloaded file (using `7zip &lt;https://www.7-zip.org&gt;`_ ).</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20201218T070526Z" creationid="miurahr" creationdate="20201103T113449Z">
-        <seg>次に、ダウンロードしたファイルを解凍します(`7zip &lt;https://www7-zip.org&gt;`_)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T072511Z" creationid="miurahr" creationdate="20201103T113449Z">
+        <seg>次に、ダウンロードしたファイルを解凍します(`7zip &lt;https://www7-zip.org&gt;`_ を使用します)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39945,6 +40025,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T014027Z" creationid="miurahr" creationdate="20210303T014017Z">
         <seg>次のJavaScriptコードのコメントを外します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Under **osgeolive-vm**, download the 7-zip file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T072439Z" creationid="sanak" creationdate="20220925T072439Z">
+        <seg>**osgeolive-vm** で、7-zipファイルをダウンロードします。</seg>
       </tuv>
     </tu>
     <tu>
