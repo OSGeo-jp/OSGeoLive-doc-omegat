@@ -10178,8 +10178,8 @@
       <tuv lang="en-US">
         <seg>Congratulations, you should now have OSGeoLive running in a Virtual Machine.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220925T101308Z" creationid="sanak" creationdate="20220925T101308Z">
-        <seg>これで、OSGeoLive が仮想マシンで動作するようになりました。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T104437Z" creationid="sanak" creationdate="20220925T101308Z">
+        <seg>おめでとうございます、これでOSGeoLiveが仮想マシンで実行されているはずです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24622,8 +24622,8 @@
       <tuv lang="en-US">
         <seg>Now files on your host machine in the chosen folder will also be available in the VM in the "GIS" folder in the user's home directory.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220925T101231Z" creationid="sanak" creationdate="20220925T101231Z">
-        <seg>これで、ホストマシンで選択されたフォルダが、仮想マシン内で、ユーザのホームディレクトリ内の "GIS" フォルダでも利用可能になりました。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T104410Z" creationid="sanak" creationdate="20220925T101231Z">
+        <seg>これで、選択したフォルダーにあるホストマシン上のファイルは、仮想マシン内のユーザのホームディレクトリ内にある "GIS" フォルダでも利用できるようになります。</seg>
       </tuv>
     </tu>
     <tu>
