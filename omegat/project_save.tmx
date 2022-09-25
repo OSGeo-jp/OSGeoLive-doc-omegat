@@ -9696,6 +9696,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the folder icon to browse to where you saved the OSGeoLive vmdk-file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T083925Z" creationid="sanak" creationdate="20220925T083925Z">
+        <seg>フォルダアイコンをクリックし、"追加"から保存したOSGeoLiveのvmdkファイルをブラウズします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the info icon in the upper left to toggle between basic or more detailed information.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201116T131744Z" creationid="miurahr" creationdate="20201116T131744Z">
@@ -10200,6 +10208,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Continue to the next screen and select **Use an existing virtual hard disk file**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T080731Z" creationid="sanak" creationdate="20220925T080530Z">
+        <seg>続けて、次の画面で **すでにある仮想ハードディスクファイルを使用する** を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Continue until you are happy with your line.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T075615Z" creationid="miurahr" creationdate="20201103T073859Z">
@@ -10444,6 +10460,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T084713Z" creationid="sanak" creationdate="20220806T084713Z">
         <seg>マップタイルの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create Virtual Machine pop up is displayed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T080026Z" creationid="sanak" creationdate="20220925T075733Z">
+        <seg>仮想マシンの作成ポップアップが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12844,6 +12868,14 @@
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T160100Z">
         <seg>イメージに OSGeoLive のような名前を付け、"オペレーティングシステム" に Linux、 "バージョン" に Ubuntu (64-bit) を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter a name such as OSGeoLive, and select Linux as the "Operating system", and Ubuntu as the "Version", and then click **Next**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T080549Z" creationid="sanak" creationdate="20220925T075949Z">
+        <seg>OSGeoLiveのような名前を入力し、"タイプ"にLinux、"バージョン"にUbuntu (64-bit)を選択して、**次へ** をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18760,6 +18792,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113455Z" creationid="miurahr" creationdate="20201103T113455Z">
         <seg>次の画面で、メモリを1024MBに設定します(下のスクリーンショットのように、ホストコンピュータのメモリが4GBを超える場合はそれ以上)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the next screen set the memory to at least 1024 MB (or more if your host computer has more than 4GB, like in the screenshot below).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T080443Z" creationid="sanak" creationdate="20220925T080443Z">
+        <seg>次の画面でメモリを少なくとも1024MBに設定します (以下のスクリーンショットのように、ホストコンピュータが 4GB 以上の場合はより大きな値を設定できます)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33009,6 +33049,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start the VirtualBox application and click **New**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T080540Z" creationid="sanak" creationdate="20220925T075657Z">
+        <seg>VirtualBoxアプリケーションを起動し、 **新規** をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start the VirtualBox application and click on the New button to create a new VM, and then Next.</seg>
       </tuv>
       <tuv lang="ja">
@@ -33117,6 +33165,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Stefan Tzeggai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Step 1 : Create a Virtual Machine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T075629Z" creationid="sanak" creationdate="20220925T075629Z">
+        <seg>ステップ1: 仮想マシンの作成</seg>
       </tuv>
     </tu>
     <tu>
