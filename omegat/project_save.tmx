@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Add shared folders to access files from host**</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T084950Z" creationid="sanak" creationdate="20220925T084931Z">
+        <seg>**ホストからのファイルアクセスのための共有フォルダーの追加**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Administrator manual:** https://docs.etf-validator.net/v2.0/index.html#_administrator_manuals</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220806T055951Z" creationid="sanak" creationdate="20220806T055951Z">
@@ -2522,6 +2530,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T002222Z" creationid="miurahr" creationdate="20201103T002222Z">
         <seg>**使いやすい**： GISユーザに使い慣れたグラフィカル環境を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**VM Settings**</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T084320Z" creationid="sanak" creationdate="20220925T084320Z">
+        <seg>**仮想マシン設定**</seg>
       </tuv>
     </tu>
     <tu>
@@ -16336,6 +16352,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to the **Display** section and increase video memory to 32 or 64 MB.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T084812Z" creationid="sanak" creationdate="20220925T084812Z">
+        <seg>**ディスプレイ** セクションに移動し、ビデオメモリーを32か64MBに増やします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the **Shared Folders** section, and click the **Add folder** (green + icon on the right) to find a directory on your host computer that you wish to share inside the VM.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T085344Z" creationid="sanak" creationdate="20220925T084944Z">
+        <seg>**共有フォルダー** セクションに移動し、**フォルダー追加** (右側の緑の+アイコン)をクリックし、仮想マシン内部で共有したいホストコンピュータのディレクトリを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to the `multi-dimensional demo &lt;http://localhost/rasdaman-demo&gt;`_ to explore interactive 1-D to 4-D rasdaman demos.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210215T040034Z" creationid="miurahr" creationdate="20210214T144032Z">
@@ -18542,8 +18574,8 @@
       <tuv lang="en-US">
         <seg>In some host operating systems, it may be required to "Enable 3D Acceleration" for display to work properly.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210118T145908Z" creationid="miurahr" creationdate="20201103T113527Z">
-        <seg>一部のホストオペレーティングシステムでは、表示を正しく機能させるために "3Dアクセラレータを有効にする" が必要になる場合があります。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T084825Z" creationid="miurahr" creationdate="20201103T113527Z">
+        <seg>一部のホストオペレーティングシステムでは、表示を正しく機能させるために "3Dアクセラレータを有効化" が必要になる場合があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18576,6 +18608,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T015454Z" creationid="miurahr" creationdate="20201117T015454Z">
         <seg>[色選択]パレットで、十字を希望の色に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the **User Interface** section, click to select **Show at top of screen** for the Mini toolbar.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T084625Z" creationid="sanak" creationdate="20220925T084322Z">
+        <seg>**ユーザーインターフェース** セクションで、ミニツールバーの **スクリーンの上部に表示** をクリックして選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26270,8 +26310,8 @@
       <tuv lang="en-US">
         <seg>Once the "Folder path" and "Folder name" are defined, click OK, and again OK to finish and close the settings window.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210118T160412Z" creationid="miurahr" creationdate="20201103T113538Z">
-        <seg> "フォルダパス" と "フォルダ名" を定義したら、[OK]をクリックし、もう一度[OK]をクリックして設定ウィンドウを閉じます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T085419Z" creationid="miurahr" creationdate="20201103T113538Z">
+        <seg> "フォルダーのパス" と "フォルダー名" を定義したら、OKをクリックし、もう一度OKをクリックして設定ウィンドウを閉じます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26288,6 +26328,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113519Z" creationid="miurahr" creationdate="20201103T113519Z">
         <seg>VMが作成されたら、[設定]ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once the VM is created, click the **Settings** button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T084434Z" creationid="sanak" creationdate="20220925T084434Z">
+        <seg>仮想マシンが作成されたら、 **設定** ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31665,6 +31713,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the file, click **Next** and **Create**.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T084102Z" creationid="sanak" creationdate="20220925T084102Z">
+        <seg>ファイルを選択し、 **選択** をクリックしてから **作成** をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the files as shown in the picture.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210303T041454Z" creationid="miurahr" creationdate="20210303T041454Z">
@@ -33173,6 +33229,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220925T075629Z" creationid="sanak" creationdate="20220925T075629Z">
         <seg>ステップ1: 仮想マシンの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Step 2: Configure VM</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T084307Z" creationid="sanak" creationdate="20220925T084307Z">
+        <seg>ステップ2: 仮想マシンの設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -44147,6 +44211,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210118T135932Z" creationid="miurahr" creationdate="20201103T053955Z">
         <seg>http://localhost/geoext/demo.html でFirefoxの空のHTMLページを見ることができるようになりましたね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should now be able to view the **OSGeoLive** listed in your virtual box.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T084231Z" creationid="sanak" creationdate="20220925T084231Z">
+        <seg>これで、Virtual Boxに **OSGeoLive** が表示されるはずです。</seg>
       </tuv>
     </tu>
     <tu>
