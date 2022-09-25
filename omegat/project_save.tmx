@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Alternative) If the above command does not work, use the following alternative:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T092337Z" creationid="sanak" creationdate="20220925T092337Z">
+        <seg>(代替) 上記のコマンドが動作しない場合は、以下の代替手段を利用してください:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Beware, this may delete an existing installed partition).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201117T001346Z" creationid="miurahr" creationdate="20201117T001346Z">
@@ -14576,6 +14584,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From the VirtualBox Devices menu, select **Insert Guest Additions CD Image**</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T092540Z" creationid="sanak" creationdate="20220925T092540Z">
+        <seg>VirtualBoxのデバイスメニューから、 **Guest Additions CD イメージの挿入** を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From the ``Table`` menu choose the ``Import layer/file`` option.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20201218T063319Z" creationid="miurahr" creationdate="20201108T044123Z">
@@ -24492,6 +24508,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now bootup the VM by clicking the **Start** (green arrow) button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T091759Z" creationid="sanak" creationdate="20220925T091759Z">
+        <seg>**起動** (緑の矢印) ボタンをクリックして、仮想マシンを起動しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now bootup the VM by clicking the Start (green arrow) button.</seg>
       </tuv>
       <tuv lang="ja">
@@ -33241,6 +33265,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Step 3 : Running the Virtual Machine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T085450Z" creationid="sanak" creationdate="20220925T085450Z">
+        <seg>ステップ3: 仮想マシンの起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stephan Meissl</seg>
       </tuv>
       <tuv lang="ja">
@@ -34488,6 +34520,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T071943Z" creationid="smellman" creationdate="20201101T110537Z">
         <seg>OSGeoLiveプロジェクトは、 `LGPL ライセンス v2.1 &lt;http://www.gnu.de/documents/lgpl-2.1.en.html&gt;`__ の下で配布されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The OSGeo-Live virtual display (i.e., the window size) may be very small, and will not be able to increase until you install Guest Additions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T092048Z" creationid="sanak" creationdate="20220925T092048Z">
+        <seg>OSGeoLiveの仮想ディスプレイ(ウィンドウサイズなど)は非常に小さく、Guest Additionsをインストールするまで大きくすることができない場合があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44177,8 +44217,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>You should install the virtualbox guest additions, this will allow you to use full-screen mode.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210301T235601Z" creationid="sanak" creationdate="20210301T235601Z">
-        <seg>VirtualBox Guest Addition をインストールする必要があります。これにより、フルスクリーンモードを利用できます。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T092253Z" creationid="sanak" creationdate="20210301T235601Z">
+        <seg>VirtualBox Guest Additionをインストールしておくと、フルスクリーンモードを利用できるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45795,6 +45835,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210301T235452Z" creationid="sanak" creationdate="20210301T235452Z">
         <seg>``sudo apt-get install --yes virtualbox-guest-dkms virtualbox-guest-utils virtualbox-guest-x11``</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>``sudo apt-get install --yes virtualbox-guest-utils virtualbox-guest-x11``</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T092259Z" creationid="sanak" creationdate="20220925T092259Z">
+        <seg>``sudo apt-get install --yes virtualbox-guest-utils virtualbox-guest-x11``</seg>
       </tuv>
     </tu>
     <tu>
