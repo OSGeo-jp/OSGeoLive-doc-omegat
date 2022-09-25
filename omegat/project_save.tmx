@@ -42639,8 +42639,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Why don't you try running some applications, as described in the `OSGeoLive Quickstart &lt;https://live.osgeo.org/en/quickstart/osgeolive_quickstart.html&gt;`_</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220925T101503Z" creationid="sanak" creationdate="20220925T101503Z">
-        <seg>`OSGeoLive クイックスタート &lt;https://live.osgeo.org/en/quickstart/osgeolive_quickstart.html&gt;`_ にあるように、いくつかのアプリケーションを実行してみましょう。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T101626Z" creationid="sanak" creationdate="20220925T101503Z">
+        <seg>`OSGeoLive クイックスタート &lt;https://live.osgeo.org/en/quickstart/osgeolive_quickstart.html&gt;`_ にあるように、いくつかのアプリケーションを実行してみてください。</seg>
       </tuv>
     </tu>
     <tu>
