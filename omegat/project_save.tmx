@@ -448,8 +448,8 @@
       <tuv lang="en-US">
         <seg>**Add shared folders to access files from host**</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220925T084950Z" creationid="sanak" creationdate="20220925T084931Z">
-        <seg>**ホストからのファイルアクセスのための共有フォルダーの追加**</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T100843Z" creationid="sanak" creationdate="20220925T084931Z">
+        <seg>**ホストからのファイルアクセスのための共有フォルダの追加**</seg>
       </tuv>
     </tu>
     <tu>
@@ -5630,6 +5630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add yourself to the vboxsf group so that the shared folders (defined above) are accessible by running in a terminal window:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T100823Z" creationid="sanak" creationdate="20220925T100525Z">
+        <seg>端末ウィンドウで以下を実行し、vboxsf グループに自分自身を追加することで、共有フォルダ(上で定義したもの)にアクセスできるようになります:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AddRasterValuesAlgorithm</seg>
       </tuv>
       <tuv lang="ja">
@@ -9002,8 +9010,8 @@
       <tuv lang="en-US">
         <seg>Click **OK** when prompted to open the removable media in **File Manager**.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220925T092849Z" creationid="sanak" creationdate="20220925T092849Z">
-        <seg>リムーバブルメディアを **File Manager** で開くよう表示されたら、 **OK** をクリック。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T095739Z" creationid="sanak" creationdate="20220925T092849Z">
+        <seg>リムーバブルメディアを **File Manager** で開くよう表示されたら、 **OK** をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9730,8 +9738,8 @@
       <tuv lang="en-US">
         <seg>Click the folder icon to browse to where you saved the OSGeoLive vmdk-file.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220925T083925Z" creationid="sanak" creationdate="20220925T083925Z">
-        <seg>フォルダアイコンをクリックし、"追加"から保存したOSGeoLiveのvmdkファイルをブラウズします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T100123Z" creationid="sanak" creationdate="20220925T083925Z">
+        <seg>フォルダアイコンをクリックし、"追加" から保存したOSGeoLiveのvmdkファイルをブラウズします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10164,6 +10172,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210219T013505Z" creationid="miurahr" creationdate="20201103T051426Z">
         <seg>背景レイヤの設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Congratulations, you should now have OSGeoLive running in a Virtual Machine.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T101308Z" creationid="sanak" creationdate="20220925T101308Z">
+        <seg>これで、OSGeoLive が仮想マシンで動作するようになりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12906,8 +12922,8 @@
       <tuv lang="en-US">
         <seg>Enter a name such as OSGeoLive, and select Linux as the "Operating system", and Ubuntu as the "Version", and then click **Next**.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220925T080549Z" creationid="sanak" creationdate="20220925T075949Z">
-        <seg>OSGeoLiveのような名前を入力し、"タイプ"にLinux、"バージョン"にUbuntu (64-bit)を選択して、**次へ** をクリックします。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T100038Z" creationid="sanak" creationdate="20220925T075949Z">
+        <seg>OSGeoLiveのような名前を入力し、"タイプ" にLinux、"バージョン" にUbuntu (64-bit)を選択して、 **次へ** をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14594,8 +14610,8 @@
       <tuv lang="en-US">
         <seg>From the VirtualBox Devices menu, select **Insert Guest Additions CD Image**</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220925T092540Z" creationid="sanak" creationdate="20220925T092540Z">
-        <seg>VirtualBoxのデバイスメニューから、 **Guest Additions CD イメージの挿入** を選択</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T095733Z" creationid="sanak" creationdate="20220925T092540Z">
+        <seg>VirtualBoxのデバイスメニューから、 **Guest Additions CD イメージの挿入** を選択します</seg>
       </tuv>
     </tu>
     <tu>
@@ -18331,8 +18347,8 @@
       <tuv lang="en-US">
         <seg>In **File Manager**, select **Tools** → **Open Current Folder** in terminal.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220925T094126Z" creationid="sanak" creationdate="20220925T094126Z">
-        <seg>**File Manager** で **Tools** → **Open Terminal** メニューを選択。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T095747Z" creationid="sanak" creationdate="20220925T094126Z">
+        <seg>**File Manager** で **Tools** → **Open Terminal** メニューを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18798,8 +18814,8 @@
       <tuv lang="en-US">
         <seg>In the above example, we defined a Shared Folder path on the host system and named it "GIS" in the VM Settings.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20210118T150031Z" creationid="miurahr" creationdate="20201103T113622Z">
-        <seg>上の例では、ホストシステム上に共有フォルダパスを定義し、VM設定で "GIS" という名前を付けました。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T100700Z" creationid="miurahr" creationdate="20201103T113622Z">
+        <seg>上の例では、ホストシステム上に共有フォルダーパスを定義し、VM設定で "GIS" という名前を付けました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18878,8 +18894,8 @@
       <tuv lang="en-US">
         <seg>In the next screen set the memory to at least 1024 MB (or more if your host computer has more than 4GB, like in the screenshot below).</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220925T080443Z" creationid="sanak" creationdate="20220925T080443Z">
-        <seg>次の画面でメモリを少なくとも1024MBに設定します (以下のスクリーンショットのように、ホストコンピュータが 4GB 以上の場合はより大きな値を設定できます)。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T100047Z" creationid="sanak" creationdate="20220925T080443Z">
+        <seg>次の画面でメモリを少なくとも1024MBに設定します (以下のスクリーンショットのように、ホストコンピュータが4GB以上の場合はより大きな値を設定できます)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18966,8 +18982,8 @@
       <tuv lang="en-US">
         <seg>In the terminal type:</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220925T094151Z" creationid="sanak" creationdate="20220925T094151Z">
-        <seg>ターミナルで以下を入力:</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T100400Z" creationid="sanak" creationdate="20220925T094151Z">
+        <seg>端末で以下を入力します:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24028,6 +24044,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next steps:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T101323Z" creationid="sanak" creationdate="20220925T101323Z">
+        <seg>次のステップ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next we are going to add in a WFS vector layer - this is a little more complicated, but follows the same approach of creating a source and then a layer as the previous layers:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210219T012437Z" creationid="miurahr" creationdate="20201103T054047Z">
@@ -24592,6 +24616,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T041803Z" creationid="miurahr" creationdate="20201108T041803Z">
         <seg>次に、SQLを入力して新しいデータベースを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now files on your host machine in the chosen folder will also be available in the VM in the "GIS" folder in the user's home directory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T101231Z" creationid="sanak" creationdate="20220925T101231Z">
+        <seg>これで、ホストマシンで選択されたフォルダが、仮想マシン内で、ユーザのホームディレクトリ内の "GIS" フォルダでも利用可能になりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25484,6 +25516,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OSGeo wiki pages: `Other ways to create a Virtual Machine &lt;https://wiki.osgeo.org/wiki/Live_GIS_Virtual_Machine&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T101531Z" creationid="sanak" creationdate="20220925T101531Z">
+        <seg>OSGeo wiki ページ: `Other ways to create a Virtual Machine &lt;https://wiki.osgeo.org/wiki/Live_GIS_Virtual_Machine&gt;`_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OSGeo-Live is a self-contained bootable DVD, USB thumb drive or Virtual Machine based on Lubuntu, that allows you to try a wide variety of open source geospatial software without installing anything.</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20210101T063320Z" creationid="smellman" creationdate="20201101T110425Z">
@@ -26118,8 +26158,8 @@
       <tuv lang="en-US">
         <seg>On Windows run the installer, or on Ubuntu-like Linux systems run the following:</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220925T072159Z" creationid="sanak" creationdate="20220925T072159Z">
-        <seg>Windows ではインストーラを実行します。もしくは、Ubuntu のような Linux システムでは以下を実行します:</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T095940Z" creationid="sanak" creationdate="20220925T072159Z">
+        <seg>Windowsではインストーラを実行します。もしくは、UbuntuのようなLinuxシステムでは以下を実行します:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28478,8 +28518,8 @@
       <tuv lang="en-US">
         <seg>Press ENTER.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220925T094222Z" creationid="sanak" creationdate="20220925T094222Z">
-        <seg>ENTERを押下。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T095807Z" creationid="sanak" creationdate="20220925T094222Z">
+        <seg>ENTERを押下します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30501,6 +30541,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201103T113603Z" creationid="miurahr" creationdate="20201103T113603Z">
         <seg>sudo adduser user usersを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run ``sudo adduser user users``.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T095830Z" creationid="sanak" creationdate="20220925T095830Z">
+        <seg>``sudo adduser user users`` を実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32531,8 +32579,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>Some tools configured on OSGeoLive rely of "user" to be in the "users" group so they can write into the data directory.</seg>
       </tuv>
-      <tuv lang="ja" changeid="sanak" changedate="20220925T095258Z" creationid="sanak" creationdate="20220925T095025Z">
-        <seg>OSGeoLiveで設定されたいくつかのツールは、データディレクトリへの書き込めるよう、"users"グループに属する"user"ユーザに依存しています。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T100202Z" creationid="sanak" creationdate="20220925T095025Z">
+        <seg>OSGeoLiveで設定されたいくつかのツールは、データディレクトリへの書き込めるよう、"users" グループに属する "user" ユーザに依存しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33325,6 +33373,22 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="sanak" changedate="20220925T094325Z" creationid="sanak" creationdate="20220925T094325Z">
         <seg>ステップ4: OSGeoLiveユーザの設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Step 5: Access shared folders</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T100247Z" creationid="sanak" creationdate="20220925T100247Z">
+        <seg>ステップ5: 共有フォルダーへのアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Step 6: Mount shared folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T100853Z" creationid="sanak" creationdate="20220925T100547Z">
+        <seg>ステップ6: 共有フォルダのマウント</seg>
       </tuv>
     </tu>
     <tu>
@@ -39431,8 +39495,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="en-US">
         <seg>To mount this folder in the user's home directory, for example, in a terminal run:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201103T113642Z" creationid="miurahr" creationdate="20201103T113642Z">
-        <seg>このフォルダをユーザのホームディレクトリにマウントするには(たとえば、ターミナルで次のように実行します。</seg>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T100958Z" creationid="miurahr" creationdate="20201103T113642Z">
+        <seg>このフォルダをユーザのホームディレクトリにマウントするには、たとえば、端末で次のように実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42569,6 +42633,14 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210208T125614Z" creationid="miurahr" creationdate="20210208T125601Z">
         <seg>sudoとは?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why don't you try running some applications, as described in the `OSGeoLive Quickstart &lt;https://live.osgeo.org/en/quickstart/osgeolive_quickstart.html&gt;`_</seg>
+      </tuv>
+      <tuv lang="ja" changeid="sanak" changedate="20220925T101503Z" creationid="sanak" creationdate="20220925T101503Z">
+        <seg>`OSGeoLive クイックスタート &lt;https://live.osgeo.org/en/quickstart/osgeolive_quickstart.html&gt;`_ にあるように、いくつかのアプリケーションを実行してみましょう。</seg>
       </tuv>
     </tu>
     <tu>
